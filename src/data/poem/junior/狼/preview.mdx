@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="狼"
+  author="蒲松龄"
+  dynasty="清代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《狼》是文言短篇小说集《聊斋志异》中的篇目，描绘了贪婪、凶狠、狡诈的狼的形象。这篇文章一共为五段。第一段写屠夫遇狼，两狼追赶屠户，屠户时而迁就退让，时而被迫抵抗自卫；第二段写屠夫惧狼，他最初认为，只要满足狼的贪欲，就可脱险；第三段写屠夫御狼，在危急关头，他产生了激烈的思想斗争；第四段详尽描写屠夫杀狼；第五段议狼，作者指出狼的狡黠奸诈，嘲笑其顷刻而毙的结局，也间接赞扬了屠户的勇敢机智。此文阐明：对待像狼一样的恶人，不能妥协退让，而要像屠夫一样勇敢斗争、善于斗争，这样才会取得胜利。

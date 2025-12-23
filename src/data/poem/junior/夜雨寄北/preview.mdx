@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="夜雨寄北"
+  author="李商隐"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首诗选自《玉溪生诗》卷三，是李商隐留滞巴蜀（今四川省）时寄怀长安亲友之作。因为长安在巴蜀之北，故题作《夜雨寄北》。 在南宋洪迈编的《万首唐人绝句》里，这首诗的题目为《夜雨寄内》，意思是诗是寄给妻子的。他们认为，李商隐于大中五年（851）七月赴东川节度使柳仲郢梓州幕府，而王氏是在这一年的夏秋之交病故，李商隐过了几个月才得知妻子的死讯。现传李诗各本题作《夜雨寄北》，“北”就是北方的人，可以指妻子，也可以指朋友。有人经过考证认为它作于作者的妻子王氏去世之后，因而不是“寄内”诗，而是写赠长安友人的。
+
+## 作品赏析
+
+　　《夜雨寄北》是一首七言绝句。此诗前两句以问答和对眼前环境的抒写，阐发了诗人孤寂的情怀和深切的思念；后两句则设想来日重逢谈心的欢悦情景，反衬出今夜的孤寂。诗即兴写来，写出刹那间情感的曲折变化，展现了质朴、自然的风格。与李商隐的其他诗词相比，这首诗更注重情感的直接表达，不依赖华丽的辞藻和复杂的象征。全诗构思新巧，跌宕有致，言浅意深，语短情长。

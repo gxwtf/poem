@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="游沙湖"
+  author="苏轼"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此文写于宋神宗元丰五年（公元1082年）三月，又名《游兰溪》，作者当时四十七岁。宋神宗元丰二年（公元1079年），苏轼知湖州，谏议大夫李定国。御史何大正上奏，诬他作诗文谤刺当朝，因而被下狱，当年十二月出狱，责受黄州团练副使，空挂虚名。当时作者打算在沙湖买田未成，去相田时认识了医生庞安常，因而创作了这篇作品。
+
+## 作品赏析
+
+　　《游沙湖》是一篇写人记游的随笔小品。此文前一部分以文写人，后一部分以词记游，语言风趣，文、词融为一体，相互激发，自然流畅而情韵悠长，表现了作者被贬谪到黄州后思想乐观开朗的一面。全文情、理、文兼胜，相得益彰，随物赋形，再现了作者遭受人生重大打击后不自悲、不气馁、不自暴自弃的进取精神。

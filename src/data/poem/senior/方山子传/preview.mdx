@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="方山子传"
+  author="苏轼"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　元丰三年（1080年），陈慥听说苏轼被放逐而相迎于途中，以后过往频繁。据苏轼自己统计，在黄州四年，他“三往见季常，季常七来见余，盖相从百余日也”（详《岐亭五首》）。两人情至深，故苏轼于元丰四年（1081年）写下此文。
+
+## 作品赏析
+
+　　《方山子传》是一篇散文，全文分四段进行叙述，层层深人地剖析了方山子其人。第一段概要介绍了方山子的身世，言外之意层出不穷；第二段写作者谪官黄州，于偶然之中，路遇方山子；第三段着意刻画方山子往日的英雄气概，与今日际遇形成鲜明对比，流露出对宋统治者的极端不满和怨恨；第四段通过谈方山子家世，解开疑问，他远离尘世，并非不得为官，而是对北宋政权丧失了信心。文中表达了作者对方山子特立独行性格和人生取向的赞赏，亦是对其自我心志的剖白，凝聚着他对统治者的痛斥与愤恨之意。

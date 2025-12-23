@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="龟虽寿"
+  author="曹操"
+  dynasty="两汉"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　作者是东汉末年著名的政治家、军事家曹操，此诗约作于公元208年初他平定乌桓叛乱、消灭袁绍残余势力之后，南下征讨荆、吴之前。此时曹操已经五十三岁了，不由想起了人生的路程，所以诗中无限感慨。
+
+## 作品赏析
+
+　　《龟虽寿》是一首四言乐府诗，为《步出夏门行》的第四篇。诗人自喻为年迈的千里马，虽然形老体衰，屈居枥下，但胸中仍然激荡着驰骋千里的豪情壮志，表现了其老当益壮、积极进取的人生态度，充满对生活的真切体验和深刻感悟，洋溢着真挚而浓烈的感情力量。全诗诗情与哲理交融，构思新巧，语言清峻刚健，融哲理思考、慷慨激情和艺术形象为一体。

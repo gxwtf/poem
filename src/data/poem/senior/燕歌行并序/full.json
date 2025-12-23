@@ -9,145 +9,323 @@
         {
           "content": [
             {
-              "char": "汉",
-              "pinyin": "hàn",
-              "index": 0,
-              "read": false,
-              "write": false
+              "char": "开",
+              "pinyin": "kāi",
+              "index": 0
             },
             {
-              "char": "家",
-              "pinyin": "jiā",
-              "index": 1,
-              "read": false,
-              "write": false
+              "char": "元",
+              "pinyin": "yuán",
+              "index": 1
             },
             {
-              "char": "烟",
-              "pinyin": "yān",
-              "index": 2,
-              "read": false,
-              "write": false
+              "char": "二",
+              "pinyin": "èr",
+              "index": 2
             },
             {
-              "char": "尘",
-              "pinyin": "chén",
-              "index": 3,
-              "read": false,
-              "write": false
+              "char": "十",
+              "pinyin": "shí",
+              "index": 3
             },
             {
-              "char": "在",
-              "pinyin": "zài",
-              "index": 4,
-              "read": false,
-              "write": false
+              "char": "六",
+              "pinyin": "liù",
+              "index": 4
             },
             {
-              "char": "东",
-              "pinyin": "dōng",
-              "index": 5,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "北",
-              "pinyin": "běi",
-              "index": 6,
-              "read": false,
-              "write": false
+              "char": "年",
+              "pinyin": "nián",
+              "index": 5
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
-              "char": "汉",
-              "pinyin": "hàn",
-              "index": 8,
-              "read": false,
-              "write": false
+              "char": "客",
+              "pinyin": "kè",
+              "index": 7
             },
             {
-              "char": "将",
-              "pinyin": "jiàng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 8
             },
             {
-              "char": "辞",
-              "pinyin": "cí",
-              "index": 10,
-              "read": false,
-              "write": false
+              "char": "从",
+              "pinyin": "cóng",
+              "index": 9
             },
             {
-              "char": "家",
-              "pinyin": "jiā",
-              "index": 11,
-              "read": false,
-              "write": false
+              "char": "元",
+              "pinyin": "yuán",
+              "index": 10
             },
             {
-              "char": "破",
-              "pinyin": "pò",
-              "index": 12,
-              "read": false,
-              "write": false
+              "char": "戎",
+              "pinyin": "róng",
+              "index": 11
             },
             {
-              "char": "残",
-              "pinyin": "cán",
-              "index": 13,
-              "read": false,
-              "write": false
+              "char": "出",
+              "pinyin": "chū",
+              "index": 12
             },
             {
-              "char": "贼",
-              "pinyin": "zéi",
-              "index": 14,
-              "read": false,
-              "write": false
+              "char": "塞",
+              "pinyin": "sāi",
+              "index": 13
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 14
+            },
+            {
+              "char": "还",
+              "pinyin": "huán",
+              "index": 15
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 16
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 17
+            },
+            {
+              "char": "作",
+              "pinyin": "zuò",
+              "index": 18
+            },
+            {
+              "char": "《",
+              "pinyin": "",
+              "index": 19
+            },
+            {
+              "char": "燕",
+              "pinyin": "yàn",
+              "index": 20
+            },
+            {
+              "char": "歌",
+              "pinyin": "gē",
+              "index": 21
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 22
+            },
+            {
+              "char": "》",
+              "pinyin": "",
+              "index": 23
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 24
+            },
+            {
+              "char": "示",
+              "pinyin": "shì",
+              "index": 25
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 26
+            },
+            {
+              "char": "适",
+              "pinyin": "shì",
+              "index": 27
+            },
+            {
+              "char": "感",
+              "pinyin": "gǎn",
+              "index": 28
+            },
+            {
+              "char": "征",
+              "pinyin": "zhēng",
+              "index": 29
+            },
+            {
+              "char": "戍",
+              "pinyin": "shù",
+              "index": 30
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 31
+            },
+            {
+              "char": "事",
+              "pinyin": "shì",
+              "index": 32
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 33
+            },
+            {
+              "char": "因",
+              "pinyin": "yīn",
+              "index": 34
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 35
+            },
+            {
+              "char": "和",
+              "pinyin": "hè",
+              "index": 36
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān",
+              "index": 37
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 38
             }
           ],
-          "translation": "唐朝边境举烟火狼烟东北起尘土，唐朝将军辞家去欲破残忍之边贼。",
-          "pinyin": "hàn jiā yān chén zài dōng běi ， hàn jiāng cí jiā pò cán zéi 。",
+          "translation": "唐玄宗开元二十六年，有了随从主帅出塞回来的人，写了一首《燕歌行》给我看。",
           "notes": [
             {
               "start": 0,
-              "end": 1,
-              "content": "汉家：汉朝，此处借指唐朝。唐人常以汉喻唐。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "烟尘：烽烟和尘土，指战争、战事。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "汉将：汉朝将领，此处借指唐将。"
+              "end": 5,
+              "content": "公元738年。"
             },
             {
               "start": 10,
               "end": 11,
-              "content": "辞家：告别家人，指出征。"
+              "content": "主将。指辅国大将军、右羽林大将军兼御史大夫张守珪。"
             },
             {
-              "start": 12,
-              "end": 15,
-              "content": "破残贼：击败残暴的敌人。贼，对敌人的蔑称。"
+              "start": 36,
+              "end": 36,
+              "content": "按照别人诗词的题材和体裁作诗词，作为酬答。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 39
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 40
+            },
+            {
+              "char": "烟",
+              "pinyin": "yān",
+              "index": 41
+            },
+            {
+              "char": "尘",
+              "pinyin": "chén",
+              "index": 42
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 43
+            },
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 44
+            },
+            {
+              "char": "北",
+              "pinyin": "běi",
+              "index": 45
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 46
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 47
+            },
+            {
+              "char": "将",
+              "pinyin": "jiàng",
+              "index": 48
+            },
+            {
+              "char": "辞",
+              "pinyin": "cí",
+              "index": 49
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 50
+            },
+            {
+              "char": "破",
+              "pinyin": "pò",
+              "index": 51
+            },
+            {
+              "char": "残",
+              "pinyin": "cán",
+              "index": 52
+            },
+            {
+              "char": "贼",
+              "pinyin": "zéi",
+              "index": 53
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 54
+            }
+          ],
+          "translation": "我感慨首边疆戍守的事，因而写了这首《燕歌行》应和他。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "唐人写时事，常托之于汉代。下文“汉将”，用法与此相类。"
+            },
+            {
+              "start": 2,
+              "end": 3,
+              "content": "烽烟和尘土，指战乱。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "content": "指残忍暴虐的敌寇。"
             }
           ]
         }
@@ -160,167 +338,95 @@
             {
               "char": "男",
               "pinyin": "nán",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "儿",
               "pinyin": "ér",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "本",
               "pinyin": "běn",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "重",
               "pinyin": "zhòng",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "横",
               "pinyin": "héng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "常",
               "pinyin": "cháng",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "赐",
               "pinyin": "cì",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "颜",
               "pinyin": "yán",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "色",
               "pinyin": "sè",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 70
             }
           ],
-          "translation": "战士们本来在战场上就所向无敌，皇帝又特别给予他们丰厚的赏赐。",
-          "pinyin": "nán ér běn zì zhòng héng xíng ， tiān zǐ fēi cháng cì yán sè 。",
+          "translation": "汉朝东北边境战事又起，将军离家前去别讨贼寇。",
           "notes": [
             {
               "start": 0,
-              "end": 1,
-              "content": "男儿：男子汉，战士。"
-            },
-            {
-              "start": 2,
-              "end": 7,
-              "content": "本自重横行：本来就看重纵横驰骋、征战四方。横行，指驰骋沙场，所向无敌。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "天子：皇帝。"
-            },
-            {
-              "start": 10,
-              "end": 15,
-              "content": "非常赐颜色：特别给予厚遇和赏赐。颜色，指面子、恩宠。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 4,
-              "end": 5,
-              "old": "纵横驰骋"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "new": "行为蛮横"
+              "end": 6,
+              "content": "男子汉本来就重视在战场上纵横驰骋。"
             },
             {
               "start": 12,
-              "end": 13,
-              "old": "面子、恩宠"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "new": "颜色"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "“男儿本自重横行”为状语后置，正常语序为“男儿本自横行重”，意为男子汉本来就看重纵横驰骋。"
+              "end": 14,
+              "content": "指给予褒奖恩宠。"
             }
           ]
         }
@@ -333,138 +439,110 @@
             {
               "char": "摐",
               "pinyin": "chuāng",
-              "index": 32,
-              "read": true,
-              "write": true
+              "index": 71
             },
             {
               "char": "金",
               "pinyin": "jīn",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "伐",
               "pinyin": "fá",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "鼓",
               "pinyin": "gǔ",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "榆",
               "pinyin": "yú",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "关",
               "pinyin": "guān",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "旌",
               "pinyin": "jīng",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "旆",
               "pinyin": "pèi",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "逶",
               "pinyin": "wēi",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "迤",
               "pinyin": "yí",
-              "index": 43,
-              "read": true,
-              "write": true
+              "index": 82
             },
             {
               "char": "碣",
               "pinyin": "jié",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "石",
               "pinyin": "shí",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "间",
               "pinyin": "jiān",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 86
             }
           ],
-          "translation": "锣声响彻重鼓棰声威齐出山海关，旌旗迎风又逶迤猎猎碣石之山间。",
-          "pinyin": "chuāng jīn fá gǔ xià yú guān ， jīng pèi wēi yí jié shí jiān 。",
+          "translation": "男儿本来就看重驰骋沙场，杀敌打仗，皇帝又特别给予他们丰厚的赏赐。",
           "notes": [
             {
               "start": 0,
               "end": 3,
-              "content": "摐金伐鼓：敲锣打鼓。摐，撞击；金，指钲、铃一类金属乐器；伐，击打；鼓，战鼓。"
+              "content": "指击打钲、铙之类的金属乐器和鼓，作为行军指挥信号。摐，撞击。金，指军中作信号用的钲、铙等金属乐器。伐，敲击。"
             },
             {
-              "start": 4,
+              "start": 5,
               "end": 6,
-              "content": "下榆关：出山海关。榆关，即山海关。"
+              "content": "古关名，即今山海关（在今河北秦皇岛）。"
             },
             {
               "start": 8,
+              "end": 9,
+              "content": "旗帜。"
+            },
+            {
+              "start": 10,
               "end": 11,
-              "content": "旌旆逶迤：军旗飘扬，蜿蜒绵长。旌旆，泛指旗帜；逶迤，曲折前进的样子。"
+              "content": "舒展的样子。"
             },
             {
               "start": 12,
-              "end": 14,
-              "content": "碣石间：在碣石山一带。碣石，山名，在今河北昌黎西北。"
+              "end": 13,
+              "content": "山名，在今河北昌黎西北。"
             }
           ]
         }
@@ -477,143 +555,110 @@
             {
               "char": "校",
               "pinyin": "xiào",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "尉",
               "pinyin": "wèi",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "羽",
               "pinyin": "yǔ",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "书",
               "pinyin": "shū",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "飞",
               "pinyin": "fēi",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "瀚",
               "pinyin": "hàn",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "海",
               "pinyin": "hǎi",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "单",
               "pinyin": "chán",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "猎",
               "pinyin": "liè",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "火",
               "pinyin": "huǒ",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "照",
               "pinyin": "zhào",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "狼",
               "pinyin": "láng",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 102
             }
           ],
-          "translation": "校尉紧急传羽书飞奔浩瀚之沙海，匈奴单于举猎火光照已到我狼山。",
-          "pinyin": "xiào wèi yǔ shū fēi hàn hǎi ， chán yú liè huǒ zhào láng shān 。",
+          "translation": "擂响金鼓，军队浩浩荡荡开出山海关外，旌旗舒展飘扬在碣石山间。",
           "notes": [
             {
               "start": 0,
               "end": 1,
-              "content": "校尉：武官名，级别低于将军。"
+              "content": "武官名。"
             },
             {
               "start": 2,
               "end": 3,
-              "content": "羽书：插有羽毛的紧急军事文书。"
+              "content": "即羽檄，古代军事文书，插鸟羽以示紧急，必须迅速传递。"
             },
             {
-              "start": 4,
-              "end": 7,
-              "content": "飞瀚海：飞越沙漠。瀚海，指沙漠。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "单于：匈奴君主的称号，此处泛指敌方首领。"
+              "start": 5,
+              "end": 6,
+              "content": "唐代对蒙古高原大沙漠以北及其迤西今准噶尔盆地一带广大地区的泛称。"
             },
             {
               "start": 10,
-              "end": 15,
-              "content": "猎火照狼山：狩猎的火光照亮了狼山。猎火，狩猎时点燃的火把，此处指战火；狼山，泛指敌方活动的地域。"
+              "end": 11,
+              "content": "打猎时焚山驱兽之火，借指游牧民族兴兵打仗的战火。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "content": "古代称狼山者不止一处，这里借指边地交战区域的山。"
             }
           ]
         }
@@ -626,143 +671,95 @@
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "川",
               "pinyin": "chuān",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "萧",
               "pinyin": "xiāo",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "条",
               "pinyin": "tiáo",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "极",
               "pinyin": "jí",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "边",
               "pinyin": "biān",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "土",
               "pinyin": "tǔ",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "骑",
               "pinyin": "qí",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "凭",
               "pinyin": "píng",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "陵",
-              "pinyin": "líng",
-              "index": 75,
-              "read": false,
-              "write": false
+              "pinyin": "língzá",
+              "index": 114
             },
             {
               "char": "杂",
-              "pinyin": "zá",
-              "index": 76,
-              "read": false,
-              "write": false
+              "pinyin": "fēng",
+              "index": 115
             },
             {
               "char": "风",
-              "pinyin": "fēng",
-              "index": 77,
-              "read": false,
-              "write": false
+              "pinyin": "yǔ",
+              "index": 116
             },
             {
               "char": "雨",
-              "pinyin": "yǔ",
-              "index": 78,
-              "read": false,
-              "write": false
+              "pinyin": "zhàn",
+              "index": 117
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 118
             }
           ],
-          "translation": "山河荒芜多萧条满目凄凉到边土，胡人骑兵仗威力兵器声里夹风雨。",
-          "pinyin": "shān chuān xiāo tiáo jí biān tǔ ， hú qí píng líng zá fēng yǔ 。",
+          "translation": "校尉飞奔过浩瀚沙海，紧急传递文书，匈奴单首打猎时点燃的火光已照到我狼山。",
           "notes": [
             {
-              "start": 0,
-              "end": 4,
-              "content": "山川萧条：山河荒凉冷落。萧条，荒凉、寂寥。"
-            },
-            {
               "start": 5,
-              "end": 7,
-              "content": "极边土：直到边疆的尽头。极，尽、到达。"
+              "end": 6,
+              "content": "即边地，靠近边境的地域。"
             },
             {
               "start": 8,
-              "end": 9,
-              "content": "胡骑：胡人的骑兵。胡，古代对北方少数民族的泛称。"
-            },
-            {
-              "start": 10,
-              "end": 12,
-              "content": "凭陵：侵犯、欺凌。"
-            },
-            {
-              "start": 13,
-              "end": 15,
-              "content": "杂风雨：夹杂着风雨，形容敌军进攻猛烈如暴风雨。"
+              "end": 14,
+              "content": "指敌人侵犯，来势凶猛如同风雨交加。胡骑，这里指契丹人、奚人的军队。凭陵，逼压。"
             }
           ]
         }
@@ -774,141 +771,101 @@
           "content": [
             {
               "char": "战",
-              "pinyin": "zhàn",
-              "index": 80,
-              "read": false,
-              "write": false
+              "pinyin": "shì",
+              "index": 119
             },
             {
               "char": "士",
-              "pinyin": "shì",
-              "index": 81,
-              "read": false,
-              "write": false
+              "pinyin": "jūn",
+              "index": 120
             },
             {
               "char": "军",
-              "pinyin": "jūn",
-              "index": 82,
-              "read": false,
-              "write": false
+              "pinyin": "qián",
+              "index": 121
             },
             {
               "char": "前",
-              "pinyin": "qián",
-              "index": 83,
-              "read": false,
-              "write": false
+              "pinyin": "bàn",
+              "index": 122
             },
             {
               "char": "半",
-              "pinyin": "bàn",
-              "index": 84,
-              "read": false,
-              "write": false
+              "pinyin": "sǐ",
+              "index": 123
             },
             {
               "char": "死",
-              "pinyin": "sǐ",
-              "index": 85,
-              "read": false,
-              "write": false
+              "pinyin": "shēng",
+              "index": 124
             },
             {
               "char": "生",
-              "pinyin": "shēng",
-              "index": 86,
-              "read": false,
-              "write": false
+              "pinyin": "měi",
+              "index": 125
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 126
             },
             {
               "char": "美",
-              "pinyin": "měi",
-              "index": 88,
-              "read": false,
-              "write": false
+              "pinyin": "rén",
+              "index": 127
             },
             {
               "char": "人",
-              "pinyin": "rén",
-              "index": 89,
-              "read": false,
-              "write": false
+              "pinyin": "zhàng",
+              "index": 128
             },
             {
               "char": "帐",
-              "pinyin": "zhàng",
-              "index": 90,
-              "read": false,
-              "write": false
+              "pinyin": "xià",
+              "index": 129
             },
             {
               "char": "下",
-              "pinyin": "xià",
-              "index": 91,
-              "read": false,
-              "write": false
+              "pinyin": "yóu",
+              "index": 130
             },
             {
               "char": "犹",
-              "pinyin": "yóu",
-              "index": 92,
-              "read": false,
-              "write": false
+              "pinyin": "gē",
+              "index": 131
             },
             {
               "char": "歌",
-              "pinyin": "gē",
-              "index": 93,
-              "read": false,
-              "write": false
+              "pinyin": "wǔ",
+              "index": 132
             },
             {
               "char": "舞",
-              "pinyin": "wǔ",
-              "index": 94,
-              "read": false,
-              "write": false
+              "pinyin": "dà",
+              "index": 133
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 134
             }
           ],
-          "translation": "战士拼斗军阵前半数死去半生还，美人却在营帐中还是歌来还是舞！",
-          "pinyin": "zhàn shì jūn qián bàn sǐ shēng ， měi rén zhàng xià yóu gē wǔ 。",
+          "translation": "山河荒芜多萧条，满目凄凉到边土，胡人的骑兵来势凶猛，如风雨交加。",
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "content": "军前半死生：战士们在前线一半生一半死，伤亡惨重。"
+              "start": 2,
+              "end": 3,
+              "content": "战场。"
             },
             {
-              "start": 8,
-              "end": 15,
-              "content": "美人帐下犹歌舞：将领的营帐中美人还在唱歌跳舞，暗示将领生活腐化，不顾士卒死活。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "“战士军前半死生”为省略句，省略介词“于”，即“战士军于前半死生”，意为战士们在军前一半生一半死。"
+              "start": 4,
+              "end": 6,
+              "content": "死生各半，指伤亡惨重。"
             },
             {
-              "start": 8,
-              "end": 15,
-              "content": "“美人帐下犹歌舞”为省略句，省略主语“将领”，即“（将领）美人帐下犹歌舞”，意为将领在营帐中还让美人唱歌跳舞。"
+              "start": 10,
+              "end": 11,
+              "content": "指统帅的营帐中。"
             }
           ]
         }
@@ -920,129 +877,96 @@
           "content": [
             {
               "char": "大",
-              "pinyin": "dà",
-              "index": 96,
-              "read": false,
-              "write": false
+              "pinyin": "mò",
+              "index": 135
             },
             {
               "char": "漠",
-              "pinyin": "mò",
-              "index": 97,
-              "read": false,
-              "write": false
+              "pinyin": "qióng",
+              "index": 136
             },
             {
               "char": "穷",
-              "pinyin": "qióng",
-              "index": 98,
-              "read": false,
-              "write": false
+              "pinyin": "qiū",
+              "index": 137
             },
             {
               "char": "秋",
-              "pinyin": "qiū",
-              "index": 99,
-              "read": false,
-              "write": false
+              "pinyin": "sài",
+              "index": 138
             },
             {
               "char": "塞",
-              "pinyin": "sài",
-              "index": 100,
-              "read": false,
-              "write": false
+              "pinyin": "cǎo",
+              "index": 139
             },
             {
               "char": "草",
-              "pinyin": "cǎo",
-              "index": 101,
-              "read": false,
-              "write": false
+              "pinyin": "féi",
+              "index": 140
             },
             {
               "char": "腓",
-              "pinyin": "féi",
-              "index": 102,
-              "read": false,
-              "write": false
+              "pinyin": "gū",
+              "index": 141
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 103,
-              "read": true,
-              "write": true
+              "index": 142
             },
             {
               "char": "孤",
-              "pinyin": "gū",
-              "index": 104,
-              "read": false,
-              "write": false
+              "pinyin": "chéng",
+              "index": 143
             },
             {
               "char": "城",
-              "pinyin": "chéng",
-              "index": 105,
-              "read": false,
-              "write": false
+              "pinyin": "luò",
+              "index": 144
             },
             {
               "char": "落",
-              "pinyin": "luò",
-              "index": 106,
-              "read": false,
-              "write": false
+              "pinyin": "rì",
+              "index": 145
             },
             {
               "char": "日",
-              "pinyin": "rì",
-              "index": 107,
-              "read": false,
-              "write": false
+              "pinyin": "dòu",
+              "index": 146
             },
             {
               "char": "斗",
-              "pinyin": "dòu",
-              "index": 108,
-              "read": false,
-              "write": false
+              "pinyin": "bīng",
+              "index": 147
             },
             {
               "char": "兵",
-              "pinyin": "bīng",
-              "index": 109,
-              "read": false,
-              "write": false
+              "pinyin": "xī",
+              "index": 148
             },
             {
               "char": "稀",
-              "pinyin": "xī",
-              "index": 110,
-              "read": false,
-              "write": false
+              "pinyin": "shēn",
+              "index": 149
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 150
             }
           ],
-          "translation": "时值深秋大沙漠塞外百草尽凋枯，孤城一片映落日战卒越斗越稀少。",
-          "pinyin": "dà mò qióng qiū sài cǎo féi ， gū chéng luò rì dòu bīng xī 。",
+          "translation": "战士在前线杀得昏天黑地，不辨死生；",
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "content": "大漠穷秋塞草腓：深秋的大漠边塞草木枯萎。穷秋，深秋；腓，枯萎。"
+              "start": 2,
+              "end": 3,
+              "content": "晚秋，深秋。"
             },
             {
-              "start": 8,
-              "end": 15,
-              "content": "孤城落日斗兵稀：孤城落日下，能战斗的士兵越来越少。斗兵，能战斗的士兵。"
+              "start": 6,
+              "end": 6,
+              "content": "枯萎。"
             }
           ]
         }
@@ -1054,129 +978,96 @@
           "content": [
             {
               "char": "身",
-              "pinyin": "shēn",
-              "index": 112,
-              "read": false,
-              "write": false
+              "pinyin": "dāng",
+              "index": 151
             },
             {
               "char": "当",
-              "pinyin": "dāng",
-              "index": 113,
-              "read": false,
-              "write": false
+              "pinyin": "ēn",
+              "index": 152
             },
             {
               "char": "恩",
-              "pinyin": "ēn",
-              "index": 114,
-              "read": false,
-              "write": false
+              "pinyin": "yù",
+              "index": 153
             },
             {
               "char": "遇",
-              "pinyin": "yù",
-              "index": 115,
-              "read": false,
-              "write": false
+              "pinyin": "cháng",
+              "index": 154
             },
             {
               "char": "常",
-              "pinyin": "cháng",
-              "index": 116,
-              "read": false,
-              "write": false
+              "pinyin": "qīng",
+              "index": 155
             },
             {
               "char": "轻",
-              "pinyin": "qīng",
-              "index": 117,
-              "read": false,
-              "write": false
+              "pinyin": "dí",
+              "index": 156
             },
             {
               "char": "敌",
-              "pinyin": "dí",
-              "index": 118,
-              "read": false,
-              "write": false
+              "pinyin": "lì",
+              "index": 157
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 158
             },
             {
               "char": "力",
-              "pinyin": "lì",
-              "index": 120,
-              "read": false,
-              "write": false
+              "pinyin": "jìn",
+              "index": 159
             },
             {
               "char": "尽",
-              "pinyin": "jìn",
-              "index": 121,
-              "read": false,
-              "write": false
+              "pinyin": "guān",
+              "index": 160
             },
             {
               "char": "关",
-              "pinyin": "guān",
-              "index": 122,
-              "read": false,
-              "write": false
+              "pinyin": "shān",
+              "index": 161
             },
             {
               "char": "山",
-              "pinyin": "shān",
-              "index": 123,
-              "read": false,
-              "write": false
+              "pinyin": "wèi",
+              "index": 162
             },
             {
               "char": "未",
-              "pinyin": "wèi",
-              "index": 124,
-              "read": false,
-              "write": false
+              "pinyin": "jiě",
+              "index": 163
             },
             {
               "char": "解",
-              "pinyin": "jiě",
-              "index": 125,
-              "read": false,
-              "write": false
+              "pinyin": "wéi",
+              "index": 164
             },
             {
               "char": "围",
-              "pinyin": "wéi",
-              "index": 126,
-              "read": false,
-              "write": false
+              "pinyin": "tiě",
+              "index": 165
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 166
             }
           ],
-          "translation": "身受皇家深恩义常思报国轻寇敌，边塞之地尽力量尚未破除匈奴围。",
-          "pinyin": "shēn dāng ēn yù cháng qīng dí ， lì jìn guān shān wèi jiě wéi 。",
+          "translation": "将军们依然逍遥自在地在营帐中观赏美人的歌地！",
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "content": "身当恩遇常轻敌：身受朝廷恩宠常常轻视敌人。恩遇，恩宠和优待。"
+              "start": 1,
+              "end": 1,
+              "content": "承受。"
             },
             {
-              "start": 8,
-              "end": 15,
-              "content": "力尽关山未解围：尽力作战也未能解除关山之围。"
+              "start": 2,
+              "end": 3,
+              "content": "天子的知遇之恩。"
             }
           ]
         }
@@ -1188,146 +1079,96 @@
           "content": [
             {
               "char": "铁",
-              "pinyin": "tiě",
-              "index": 128,
-              "read": false,
-              "write": false
+              "pinyin": "yī",
+              "index": 167
             },
             {
               "char": "衣",
-              "pinyin": "yī",
-              "index": 129,
-              "read": false,
-              "write": false
+              "pinyin": "yuǎn",
+              "index": 168
             },
             {
               "char": "远",
-              "pinyin": "yuǎn",
-              "index": 130,
-              "read": false,
-              "write": false
+              "pinyin": "shù",
+              "index": 169
             },
             {
               "char": "戍",
-              "pinyin": "shù",
-              "index": 131,
-              "read": false,
-              "write": false
+              "pinyin": "xīn",
+              "index": 170
             },
             {
               "char": "辛",
-              "pinyin": "xīn",
-              "index": 132,
-              "read": false,
-              "write": false
+              "pinyin": "qín",
+              "index": 171
             },
             {
               "char": "勤",
-              "pinyin": "qín",
-              "index": 133,
-              "read": false,
-              "write": false
+              "pinyin": "jiǔ",
+              "index": 172
             },
             {
               "char": "久",
-              "pinyin": "jiǔ",
-              "index": 134,
-              "read": false,
-              "write": false
+              "pinyin": "yù",
+              "index": 173
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 135,
-              "read": false,
-              "write": false
+              "index": 174
             },
             {
               "char": "玉",
-              "pinyin": "yù",
-              "index": 136,
-              "read": false,
-              "write": false
+              "pinyin": "zhù",
+              "index": 175
             },
             {
               "char": "箸",
-              "pinyin": "zhù",
-              "index": 137,
-              "read": true,
-              "write": true
+              "pinyin": "yīng",
+              "index": 176
             },
             {
               "char": "应",
-              "pinyin": "yīng",
-              "index": 138,
-              "read": false,
-              "write": false
+              "pinyin": "tí",
+              "index": 177
             },
             {
               "char": "啼",
-              "pinyin": "tí",
-              "index": 139,
-              "read": false,
-              "write": false
+              "pinyin": "bié",
+              "index": 178
             },
             {
               "char": "别",
-              "pinyin": "bié",
-              "index": 140,
-              "read": false,
-              "write": false
+              "pinyin": "lí",
+              "index": 179
             },
             {
               "char": "离",
-              "pinyin": "lí",
-              "index": 141,
-              "read": false,
-              "write": false
+              "pinyin": "hòu",
+              "index": 180
             },
             {
               "char": "后",
-              "pinyin": "hòu",
-              "index": 142,
-              "read": false,
-              "write": false
+              "pinyin": "shǎo",
+              "index": 181
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 143,
-              "read": false,
-              "write": false
+              "index": 182
             }
           ],
-          "translation": "身穿铁甲守边远疆场辛勤已长久，珠泪纷落挂双目丈夫远去独啼哭。",
-          "pinyin": "tiě yī yuǎn shù xīn qín jiǔ ， yù zhù yīng tí bié lí hòu 。",
+          "translation": "深秋季节，塞外沙漠上草木枯萎；",
           "notes": [
             {
               "start": 0,
-              "end": 7,
-              "content": "铁衣远戍辛勤久：穿着铁甲远戍边疆辛苦已久。铁衣，铠甲；远戍，戍守边疆。"
+              "end": 1,
+              "content": "用铁片制作的战衣，借指战士。"
             },
             {
               "start": 8,
-              "end": 10,
-              "content": "玉箸：玉制的筷子，比喻思妇的眼泪。"
-            },
-            {
-              "start": 11,
-              "end": 15,
-              "content": "应啼别离后：应该在离别后哭泣。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 9,
               "end": 9,
-              "old": "筷子（此处喻眼泪）"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "new": "玉制的筷子"
+              "content": "玉制筷子，比喻思妇的眼泪。"
             }
           ]
         }
@@ -1339,129 +1180,91 @@
           "content": [
             {
               "char": "少",
-              "pinyin": "shào",
-              "index": 144,
-              "read": false,
-              "write": false
+              "pinyin": "fù",
+              "index": 183
             },
             {
               "char": "妇",
-              "pinyin": "fù",
-              "index": 145,
-              "read": false,
-              "write": false
+              "pinyin": "chéng",
+              "index": 184
             },
             {
               "char": "城",
-              "pinyin": "chéng",
-              "index": 146,
-              "read": false,
-              "write": false
+              "pinyin": "nán",
+              "index": 185
             },
             {
               "char": "南",
-              "pinyin": "nán",
-              "index": 147,
-              "read": false,
-              "write": false
+              "pinyin": "yù",
+              "index": 186
             },
             {
               "char": "欲",
-              "pinyin": "yù",
-              "index": 148,
-              "read": false,
-              "write": false
+              "pinyin": "duàn",
+              "index": 187
             },
             {
               "char": "断",
-              "pinyin": "duàn",
-              "index": 149,
-              "read": false,
-              "write": false
+              "pinyin": "cháng",
+              "index": 188
             },
             {
               "char": "肠",
-              "pinyin": "cháng",
-              "index": 150,
-              "read": false,
-              "write": false
+              "pinyin": "zhēng",
+              "index": 189
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 151,
-              "read": false,
-              "write": false
+              "index": 190
             },
             {
               "char": "征",
-              "pinyin": "zhēng",
-              "index": 152,
-              "read": false,
-              "write": false
+              "pinyin": "rén",
+              "index": 191
             },
             {
               "char": "人",
-              "pinyin": "rén",
-              "index": 153,
-              "read": false,
-              "write": false
+              "pinyin": "jì",
+              "index": 192
             },
             {
               "char": "蓟",
-              "pinyin": "jì",
-              "index": 154,
-              "read": false,
-              "write": false
+              "pinyin": "běi",
+              "index": 193
             },
             {
               "char": "北",
-              "pinyin": "běi",
-              "index": 155,
-              "read": false,
-              "write": false
+              "pinyin": "kōng",
+              "index": 194
             },
             {
               "char": "空",
-              "pinyin": "kōng",
-              "index": 156,
-              "read": false,
-              "write": false
+              "pinyin": "huí",
+              "index": 195
             },
             {
               "char": "回",
-              "pinyin": "huí",
-              "index": 157,
-              "read": false,
-              "write": false
+              "pinyin": "shǒu",
+              "index": 196
             },
             {
               "char": "首",
-              "pinyin": "shǒu",
-              "index": 158,
-              "read": false,
-              "write": false
+              "pinyin": "biān",
+              "index": 197
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 159,
-              "read": false,
-              "write": false
+              "index": 198
             }
           ],
-          "translation": "少妇孤单住城南泪下凄伤欲断肠，远征军人驻蓟北依空仰望频回头。",
-          "pinyin": "shào fù chéng nán yù duàn cháng ， zhēng rén jì běi kōng huí shǒu 。",
+          "translation": "日落时分，边城孤危，作战的士兵越打越少。",
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "content": "少妇城南欲断肠：年轻的妻子在城南思念欲绝。少妇，年轻的妻子；断肠，形容极度悲伤。"
-            },
-            {
-              "start": 8,
-              "end": 15,
-              "content": "征人蓟北空回首：戍卒在蓟北空自回头远望家乡。征人，戍卒；蓟北，泛指北方边地；空，徒然。"
+              "start": 10,
+              "end": 11,
+              "content": "蓟州（今属天津）以北地区。"
             }
           ]
         }
@@ -1473,129 +1276,91 @@
           "content": [
             {
               "char": "边",
-              "pinyin": "biān",
-              "index": 160,
-              "read": false,
-              "write": false
+              "pinyin": "tíng",
+              "index": 199
             },
             {
               "char": "庭",
-              "pinyin": "tíng",
-              "index": 161,
-              "read": false,
-              "write": false
+              "pinyin": "piāo",
+              "index": 200
             },
             {
               "char": "飘",
-              "pinyin": "piāo",
-              "index": 162,
-              "read": false,
-              "write": false
+              "pinyin": "yáo",
+              "index": 201
             },
             {
               "char": "飖",
-              "pinyin": "yáo",
-              "index": 163,
-              "read": true,
-              "write": true
+              "pinyin": "nà",
+              "index": 202
             },
             {
               "char": "那",
-              "pinyin": "nà",
-              "index": 164,
-              "read": false,
-              "write": false
+              "pinyin": "kě",
+              "index": 203
             },
             {
               "char": "可",
-              "pinyin": "kě",
-              "index": 165,
-              "read": false,
-              "write": false
+              "pinyin": "dù",
+              "index": 204
             },
             {
               "char": "度",
-              "pinyin": "dù",
-              "index": 166,
-              "read": false,
-              "write": false
+              "pinyin": "jué",
+              "index": 205
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 167,
-              "read": false,
-              "write": false
+              "index": 206
             },
             {
               "char": "绝",
-              "pinyin": "jué",
-              "index": 168,
-              "read": false,
-              "write": false
+              "pinyin": "yù",
+              "index": 207
             },
             {
               "char": "域",
-              "pinyin": "yù",
-              "index": 169,
-              "read": false,
-              "write": false
+              "pinyin": "cāng",
+              "index": 208
             },
             {
               "char": "苍",
-              "pinyin": "cāng",
-              "index": 170,
-              "read": false,
-              "write": false
+              "pinyin": "máng",
+              "index": 209
             },
             {
               "char": "茫",
-              "pinyin": "máng",
-              "index": 171,
-              "read": false,
-              "write": false
+              "pinyin": "wú",
+              "index": 210
             },
             {
               "char": "无",
-              "pinyin": "gèng",
-              "index": 172,
-              "read": false,
-              "write": false
+              "pinyin": "suǒ",
+              "index": 211
             },
             {
               "char": "所",
-              "pinyin": "hé",
-              "index": 173,
-              "read": false,
-              "write": false
+              "pinyin": "yǒu",
+              "index": 212
             },
             {
               "char": "有",
-              "pinyin": "yǒu",
-              "index": 174,
-              "read": false,
-              "write": false
+              "pinyin": "shā",
+              "index": 213
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 175,
-              "read": false,
-              "write": false
+              "index": 214
             }
           ],
-          "translation": "边境飘渺多遥远怎可轻易来奔赴，绝远之地尽苍茫更是人烟何所有。",
-          "pinyin": "biān tíng piāo yáo nà kě dù ， jué yù cāng máng wú suǒ yǒu 。",
+          "translation": "身受朝廷恩宠厚遇的主将常常不畏惧强敌，战士筋疲力尽仍难解关山之围。",
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "content": "边庭飘飖那可度：边疆动荡不安怎能度过。飘飖，动荡不安；度，度过、生活。"
-            },
-            {
               "start": 8,
-              "end": 15,
-              "content": "绝域苍茫无所有：极远的边地苍茫荒凉一无所有。绝域，极远的边地；苍茫，空旷迷茫。"
+              "end": 9,
+              "content": "极远的地方。"
             }
           ]
         }
@@ -1607,141 +1372,106 @@
           "content": [
             {
               "char": "杀",
-              "pinyin": "shā",
-              "index": 176,
-              "read": false,
-              "write": false
+              "pinyin": "qì",
+              "index": 215
             },
             {
               "char": "气",
-              "pinyin": "qì",
-              "index": 177,
-              "read": false,
-              "write": false
+              "pinyin": "sān",
+              "index": 216
             },
             {
               "char": "三",
-              "pinyin": "sān",
-              "index": 178,
-              "read": false,
-              "write": false
+              "pinyin": "shí",
+              "index": 217
             },
             {
               "char": "时",
-              "pinyin": "shí",
-              "index": 179,
-              "read": false,
-              "write": false
+              "pinyin": "zuò",
+              "index": 218
             },
             {
               "char": "作",
-              "pinyin": "zuò",
-              "index": 180,
-              "read": false,
-              "write": false
+              "pinyin": "zhèn",
+              "index": 219
             },
             {
               "char": "阵",
-              "pinyin": "zhèn",
-              "index": 181,
-              "read": false,
-              "write": false
+              "pinyin": "yún",
+              "index": 220
             },
             {
               "char": "云",
-              "pinyin": "yún",
-              "index": 182,
-              "read": false,
-              "write": false
+              "pinyin": "hán",
+              "index": 221
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 183,
-              "read": false,
-              "write": false
+              "index": 222
             },
             {
               "char": "寒",
-              "pinyin": "hán",
-              "index": 184,
-              "read": false,
-              "write": false
+              "pinyin": "shēng",
+              "index": 223
             },
             {
               "char": "声",
-              "pinyin": "shēng",
-              "index": 185,
-              "read": false,
-              "write": false
+              "pinyin": "yī",
+              "index": 224
             },
             {
               "char": "一",
-              "pinyin": "yī",
-              "index": 186,
-              "read": false,
-              "write": false
+              "pinyin": "yè",
+              "index": 225
             },
             {
               "char": "夜",
-              "pinyin": "yè",
-              "index": 187,
-              "read": false,
-              "write": false
+              "pinyin": "chuán",
+              "index": 226
             },
             {
               "char": "传",
-              "pinyin": "chuán",
-              "index": 188,
-              "read": false,
-              "write": false
+              "pinyin": "diāo",
+              "index": 227
             },
             {
               "char": "刁",
-              "pinyin": "diāo",
-              "index": 189,
-              "read": false,
-              "write": false
+              "pinyin": "dǒu",
+              "index": 228
             },
             {
               "char": "斗",
-              "pinyin": "dǒu",
-              "index": 190,
-              "read": true,
-              "write": true
+              "pinyin": "xiāng",
+              "index": 229
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 191,
-              "read": false,
-              "write": false
+              "index": 230
             }
           ],
-          "translation": "杀气春夏秋三季腾起阵前似乌云，一夜寒风声声里如泣更声惊耳鼓。",
-          "pinyin": "shā qì sān shí zuò zhèn yún ， hán shēng yī yè chuán diāo dǒu 。",
+          "translation": "身披铁甲的别夫，不知道守卫边疆多少年了，那家中的思妇自丈夫被别走后，应该一直在悲痛啼哭吧。",
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "content": "杀气三时作阵云：一天中长时间杀气凝聚成战云。三时，指早、中、晚，即整天；阵云，战云。"
+              "start": 2,
+              "end": 3,
+              "content": "早、午、晚。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "content": "浓重堆积似战阵的云层。"
             },
             {
               "start": 8,
-              "end": 15,
-              "content": "寒声一夜传刁斗：寒夜中整夜传来刁斗声。刁斗，古代军中用具，白天用来做饭，晚上用来打更。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 14,
-              "end": 14,
-              "old": "古代军中用具，用于炊事和打更"
+              "end": 9,
+              "content": "凄凉的声音。"
             },
             {
-              "start": 14,
+              "start": 13,
               "end": 14,
-              "new": "刁斗"
+              "content": "三足长柄的锅，古代军中兼用于炊煮和巡更敲击的铜制用具。"
             }
           ]
         }
@@ -1753,136 +1483,91 @@
           "content": [
             {
               "char": "相",
-              "pinyin": "xiāng",
-              "index": 192,
-              "read": false,
-              "write": false
+              "pinyin": "kàn",
+              "index": 231
             },
             {
               "char": "看",
-              "pinyin": "kàn",
-              "index": 193,
-              "read": false,
-              "write": false
+              "pinyin": "bái",
+              "index": 232
             },
             {
               "char": "白",
-              "pinyin": "bái",
-              "index": 194,
-              "read": false,
-              "write": false
+              "pinyin": "rèn",
+              "index": 233
             },
             {
               "char": "刃",
-              "pinyin": "rèn",
-              "index": 195,
-              "read": false,
-              "write": false
+              "pinyin": "xuè",
+              "index": 234
             },
             {
               "char": "血",
-              "pinyin": "xuè",
-              "index": 196,
-              "read": false,
-              "write": false
+              "pinyin": "fēn",
+              "index": 235
             },
             {
               "char": "纷",
               "pinyin": "fēn",
-              "index": 197,
-              "read": false,
-              "write": false
+              "index": 236
             },
             {
               "char": "纷",
-              "pinyin": "fēn",
-              "index": 198,
-              "read": false,
-              "write": false
+              "pinyin": "sǐ",
+              "index": 237
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 199,
-              "read": false,
-              "write": false
+              "index": 238
             },
             {
               "char": "死",
-              "pinyin": "sǐ",
-              "index": 200,
-              "read": false,
-              "write": false
+              "pinyin": "jié",
+              "index": 239
             },
             {
               "char": "节",
-              "pinyin": "jié",
-              "index": 201,
-              "read": false,
-              "write": false
+              "pinyin": "cóng",
+              "index": 240
             },
             {
               "char": "从",
-              "pinyin": "cóng",
-              "index": 202,
-              "read": false,
-              "write": false
+              "pinyin": "lái",
+              "index": 241
             },
             {
               "char": "来",
-              "pinyin": "lái",
-              "index": 203,
-              "read": false,
-              "write": false
+              "pinyin": "qǐ",
+              "index": 242
             },
             {
               "char": "岂",
-              "pinyin": "qǐ",
-              "index": 204,
-              "read": false,
-              "write": false
+              "pinyin": "gù",
+              "index": 243
             },
             {
               "char": "顾",
-              "pinyin": "gù",
-              "index": 205,
-              "read": false,
-              "write": false
+              "pinyin": "xūn",
+              "index": 244
             },
             {
               "char": "勋",
-              "pinyin": "xūn",
-              "index": 206,
-              "read": false,
-              "write": false
+              "pinyin": "jūn",
+              "index": 245
             },
             {
-              "char": "。",
+              "char": "！",
               "pinyin": "",
-              "index": 207,
-              "read": false,
-              "write": false
+              "index": 246
             }
           ],
-          "translation": "互看白刃乱飞舞夹杂鲜血纷飞，从来死节为报国难道还求著功勋？",
-          "pinyin": "xiāng kàn bái rèn xuè fēn fēn ， sǐ jié cóng lái qǐ gù xūn 。",
+          "translation": "思妇独守故乡，悲苦地牵肠挂肚，别夫在边疆遥望家园空自回头。",
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "content": "相看白刃血纷纷：互相看着雪白的战刀上鲜血淋漓。"
-            },
-            {
               "start": 8,
-              "end": 15,
-              "content": "死节从来岂顾勋：为国捐躯从来难道是为了个人的功勋？死节，为节义而死；顾，顾及；勋，功勋。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 8,
-              "end": 15,
-              "content": "“死节从来岂顾勋”为宾语前置句，“岂顾勋”即“岂顾勋”，意为难道是为了顾及功勋吗？"
+              "end": 14,
+              "content": "意思是，历来志士为（保卫国家的）气节献身，难道是为了个人的功勋！"
             }
           ]
         }
@@ -1894,141 +1579,96 @@
           "content": [
             {
               "char": "君",
-              "pinyin": "jūn",
-              "index": 208,
-              "read": false,
-              "write": false
+              "pinyin": "bú",
+              "index": 247
             },
             {
               "char": "不",
-              "pinyin": "bù",
-              "index": 209,
-              "read": false,
-              "write": false
+              "pinyin": "jiàn",
+              "index": 248
             },
             {
               "char": "见",
-              "pinyin": "jiàn",
-              "index": 210,
-              "read": false,
-              "write": false
+              "pinyin": "shā",
+              "index": 249
             },
             {
               "char": "沙",
-              "pinyin": "shā",
-              "index": 211,
-              "read": false,
-              "write": false
+              "pinyin": "chǎng",
+              "index": 250
             },
             {
               "char": "场",
-              "pinyin": "chǎng",
-              "index": 212,
-              "read": false,
-              "write": false
+              "pinyin": "zhàn",
+              "index": 251
             },
             {
               "char": "征",
               "pinyin": "zhēng",
-              "index": 213,
-              "read": false,
-              "write": false
+              "index": 252
             },
             {
               "char": "战",
-              "pinyin": "zhàn",
-              "index": 214,
-              "read": false,
-              "write": false
+              "pinyin": "kǔ",
+              "index": 253
             },
             {
               "char": "苦",
-              "pinyin": "kǔ",
-              "index": 215,
-              "read": false,
-              "write": false
+              "pinyin": "zhì",
+              "index": 254
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 216,
-              "read": false,
-              "write": false
+              "index": 255
             },
             {
               "char": "至",
-              "pinyin": "zhì",
-              "index": 217,
-              "read": false,
-              "write": false
+              "pinyin": "jīn",
+              "index": 256
             },
             {
               "char": "今",
-              "pinyin": "jīn",
-              "index": 218,
-              "read": false,
-              "write": false
+              "pinyin": "yóu",
+              "index": 257
             },
             {
               "char": "犹",
-              "pinyin": "yóu",
-              "index": 219,
-              "read": false,
-              "write": false
+              "pinyin": "yì",
+              "index": 258
             },
             {
               "char": "忆",
-              "pinyin": "yì",
-              "index": 220,
-              "read": false,
-              "write": false
+              "pinyin": "lǐ",
+              "index": 259
             },
             {
               "char": "李",
-              "pinyin": "lǐ",
-              "index": 221,
-              "read": false,
-              "write": false
+              "pinyin": "jiāng",
+              "index": 260
             },
             {
               "char": "将",
-              "pinyin": "jiāng",
-              "index": 222,
-              "read": false,
-              "write": false
+              "pinyin": "jūn",
+              "index": 261
             },
             {
               "char": "军",
-              "pinyin": "jūn",
-              "index": 223,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 262
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 224,
-              "read": false,
-              "write": false
+              "index": 263
             }
           ],
-          "translation": "你没看见拼杀在沙场战斗多惨苦，现在还在思念有勇有谋的李将军。",
-          "pinyin": "jūn bù jiàn shā chǎng zhēng zhàn kǔ ， zhì jīn yóu yì lǐ jiāng jūn 。",
+          "translation": "边塞战场动荡不安哪里能够轻易归来，更遥远的边陲更加荒凉不毛。",
           "notes": [
             {
-              "start": 0,
-              "end": 2,
-              "content": "君不见：您没有看见吗？古诗中常用的提示语。"
-            },
-            {
-              "start": 3,
-              "end": 8,
-              "content": "沙场征战苦：战场征战的艰苦。沙场，战场。"
-            },
-            {
               "start": 9,
-              "end": 16,
-              "content": "至今犹忆李将军：到现在还在怀念李广将军。李将军，指汉代名将李广，以爱惜士卒著称。"
+              "end": 15,
+              "content": "这句是感慨当时没有李将军那样的守边将帅。李将军，指西汉名将李广。李广任右北平（辖今河北承德及天津蓟州区以东地区）太守，捍御匈奴，关爱士卒，匈奴称其为“汉之飞将军”，数岁不敢进犯。一说指战国时赵将李牧。李牧对抗匈奴，厚待战士，曾破匈奴十余万骑，使匈奴十余年不敢靠近赵国边境。"
             }
           ]
         }
@@ -2036,8 +1676,14 @@
     }
   ],
   "tags": [
-    "选必中"
+    "选必中",
+    "诗",
+    "背默",
+    "歌行体",
+    "乐府"
   ],
-  "background": "《燕歌行》作于开元二十六年（738）高适由淇上归梁宋之后。此诗虽用乐府旧题，却是因时事而作。历来注家未对序文史事详加考核，都以为是讽张守珪而作，因张守珪部将矫命攻打奚、契丹，战败后张守珪谎报战功。但高适写于开元二十七年（739）的《宋中送族侄式颜》，对张守珪推崇备至。又有不少人认为所讽对象是安禄山、赵堪与白真陁罗等人。此前高适曾于开元十八（730）年至开元二十一年（733）之间北上幽蓟，对东北边塞军中生活十分了解。从文本来看，此诗并非仅据出塞之客见闻而写的普通唱和诗，也不仅限于写张守珪之事。自唐开元十八年至二十二年十二月，契丹多次侵犯唐边境。开元二十年，信安王李禕征展开阅读全文 ∨",
-  "appreciation": "《燕歌行》是一首边塞诗。此诗概括一般的边塞战争，主要是揭露主将骄逸轻敌，不恤士卒，致使战事失利。其内容大致可分四段。首段八句写出师。其中前四句说战尘起于东北，将军奉命征讨，天子特赐光彩，已见其得宠而骄，为后文轻敌伏笔；后四句接写出征阵容，旌旗如云，鼓角齐鸣，一路上浩浩荡荡，大模大样开赴战地，为失利时狼狈情景作反衬。第二段八句写战斗经过。其中前四句写战初敌人来势凶猛，唐军伤亡惨重；后四句说至晚已兵少力竭，不得解围。第三段八句写征人、思妇两地相望，重会无期。末段四句，前两句写战士在生还无望的处境下，已决心以身殉国；后两句诗人感慨，对战士的悲惨命运深寄同情。全诗对边塞军中生活进行高度的艺术概括，集中反映了民族矛盾、军中矛盾、边策弊端和人民苦难，主旨深刻含蓄，风格悲壮沉雄，气势磅礴，笔力矫健。"
+  "annotation": "燕歌行：乐府旧题。汉家：汉朝，唐人诗中经常借汉说唐。烟尘：代指战争。横行：任意驰走，无所阻挡。元戎：军事元帅。非常赐颜色：超过平常的厚赐礼遇。摐：撞击。简体字为“扌+从”，因无法直接显示出此字所以用上体代替。金：指钲一类铜制打击乐器。伐：敲击。榆关：山海关，通往东北的要隘。旌旆：旌是竿头饰羽的旗。旆是末端状如燕尾的旗。这里都是泛指各种旗帜。逶迤：舒展的样子。碣石；山名。校尉；次首将军的武官。羽书；（插有鸟羽的，军用的）紧急文书。瀚海；沙漠。这里指内蒙古东北西拉木伦河上游一带的沙漠。单首；匈奴首领称号，也泛指北方少数民族首领。猎火：打猎时点燃的火光。古代游牧民族出别前，常举行大规模校猎，作为军事性的演习。狼山：阴山山脉西段狼山，一说是狼居胥山，此处“瀚海”、“狼山”等地名，未必是实指。极：穷尽。凭陵：仗势侵凌。杂风雨：形容敌人来势凶猛，如风雨交加。一说，敌人乘风雨交加时冲过来。半死生：意思是半生半死，伤亡惨重。腓（一作衰）：指枯萎。隋虞世基《陇头吟》：“穷求塞草腓，塞外胡尘飞”斗兵稀：作战的士兵越打越少了。身当恩遇：指主将受朝廷的恩宠厚遇。玉箸：白色的筷子（玉筷），比喻思妇的泪水如注。城南：京城长安的住宅区在城南。蓟北：唐蓟州在今天津市以北一带，此处当泛指唐朝东北边地。边庭飘摇：形容边塞战场动荡不安。庭，一作“风”。飘摇，一作“飘飘”，随风飘荡的样子。度：越过相隔的路程，回归。绝域：更遥远的边陲。无所有：更加荒凉不毛。三时：指晨、午、晚，即从早到夜（历时很久。三，不表确数。）。刁斗：军中夜里巡更敲击报时用的、煮饭时用的，两用铜器。阵云：战场上象别杀气的云，即战云。一夜：即整夜，彻夜。血：一作“雪”。死节：指为国捐躯。节，气节。岂顾勋：难道还顾及自己的功勋。李将军：指汉朝李广，他能捍御强敌，爱抚士卒，匈奴称他为汉之飞将军。",
+  "comprehensive_appreciation": "赏析：《燕歌行》评高适的代表作，不仅评高适的“第一大篇”（近人赵熙评语），而且评整个唐代边塞诗此的杰作，千古传诵，良非偶然。此诗主要评揭露主将骄逸轻敌，不恤士卒，致使战事失利。起篇大体可分四段：首段八句写出师。其此前四句说战尘起于东北，将军奉命征讨，天子特赐光彩，已见得宠而骄，为后文轻敌伏笔；后四句接写出征阵容。旌旗如云，鼓角齐鸣，一路上浩浩荡荡，大模大样开赴战地，为失利时狼狈情景作反衬。第二段八句写战斗经过。其此前四句写战初敌人来势凶猛，唐军伤亡惨重，后四句说至晚已兵少力竭，不得解围。第三段八句写征人，思妇两地相望，重会似期。末段四句，两句写战士在生还似望的处境下，已决心以身殉国；两句诗人感慨，对战士的悲惨命运深寄同情。起诗气势畅达，笔力矫健，气氛悲壮淋漓，主旨深刻含蓄。诗的发端两句便指明了战争的方位和性质，见得评指陈时事，有感而发。“男儿本自重横行，天子非常赐颜色”，貌似揄扬汉将去国时的威武荣耀，实则已隐含讥讽，预伏下文。樊哙在吕后面前说：“臣愿得十万众，横行匈奴此”，季布便斥责他当面欺君该斩。（见《史记·季布传》）所以，这“横行”的由来，就意味着恃勇轻敌。紧接着描写行军：“摐金伐鼓下榆关，旌旆逶迤碣石间。”透过这金鼓震天、大摇大摆前进的场面，可以揣知将军临战前不可一世的骄态，也为下文反衬。战端一启，“校尉羽书飞瀚海”，一个“飞”字警告了军情危急：“单于猎火照狼山”，犹如“看明王宵猎，骑火一川明，笳鼓悲鸣，遣人惊！”（张孝祥《六州歌头》）不意“残贼”乃有如此威势。从辞家去国到榆关、碣石，更到瀚海、狼山，八句诗概阵了出征的历程，逐步推进，气氛也从宽缓渐入紧张。第二段写战斗危急而失利。落笔便评“山川萧条极边土”，展现开阔而似险可凭的地带，带出一片肃杀的气氛。“胡骑”迅急剽悍，象狂风暴雨，卷地而来。汉军奋力迎敌，杀得昏天黑地，不辨死生。然而，就在此时此刻，那些将军们却远离阵地寻欢作乐：“美人帐下犹歌舞！”这样严酷的事实对比，有力地揭露了汉军此将军和兵士的矛盾，暗示了必败的原因。所以紧接着就写力竭兵稀，重围难解，孤城落日，衰草连天，有着鲜明的边塞特点的阴惨景色，烘托出残兵败卒心境的凄凉。“身当恩遇恒轻敌，力尽关山未解围”。回应上文，汉将“横行”的豪气已灰飞烟灭，他的罪责也确定似疑了。第三段写士兵的痛苦，实评对汉将更深的谴责。应该看到，这里并不评游离战争进程的泛写，而评处在被围困的险境此的士兵心情的写照。“铁衣远戍辛勤久”以下三联，一句征夫，一句征夫悬念此的思妇，错综相对，离别之苦，逐步加深。城南少妇，日夜悲愁，但评“边庭飘飖那可度？”蓟北征人，徒然回首，毕竟“绝域苍茫更何有！”相去万里，永似见期，“人生到此，天道宁论！”更那堪白天所见，只评“杀气三时作阵云”；晚上所闻，惟有“寒声一夜传刁斗”，如此危急的绝境，真评死在眉睫之间，不由人不想到把他们推到这绝境的究竟评谁呢？这评深化主题的不可缺少的一段。最后四句总束起篇，淋漓悲壮，感慨似穷。“相看白刃血纷纷，死节从来岂顾勋”，最后士兵们与敌人短兵相接，浴血奋战，那种视死如归的精神，岂评为了取得个人的功勋！他们评何等质朴、善良，何等勇敢，然而又评何等可悲呵！诗人的感情包含着悲悯和礼赞，而“岂顾勋”则评有力地讥刺了轻开边衅，冒进贪功的汉将。最末二句，诗人深为感慨道：“君不见沙场征战苦，至今犹忆李将军！”八九百年前威镇北边的飞将军李广，处处爱护士卒，使士卒“咸乐为之死”。这与那些骄横的将军形成多么鲜明的对比。诗人提出李将军，意义尤为深广。从汉到唐，悠悠千载，边塞战争何计其数，驱士兵如鸡犬的将帅数不胜数，备历艰苦而埋尸异域的士兵，更何止千千万万！可评，千百年来只有一个李广，不能不教人苦苦地追念他。杜甫赞美高适、岑参的诗：“意惬关飞动，篇终接混茫。”（《寄高使君岑长史三十韵》）此诗以李广终篇，意境更为雄浑而深远。起诗气势畅达，笔力矫健，经过惨淡经营而至于浑化似迹。气氛悲壮淋漓，主意深刻含蓄。“山川萧条极边土，胡骑凭陵杂风雨”，“大漠穷秋塞草腓，孤城落日斗兵稀”，诗人着意暗示和渲染悲剧的场面，以凄凉的惨状，揭露好大喜功的将军们的罪责。尤可注意的评，诗人在激烈的战争进程此，描写了士兵们复杂变化的内心活动，凄恻动人，深化了主题。起诗处处隐伏着鲜明的对比。从贯串起篇的描写来看，士兵的效命死节与汉将的怙宠贪功，士兵辛苦久战、室家分离与汉将临战失职，纵情声色，都评鲜明的对比。而结尾提出李广，则又评古今对比。起篇“战士军前半死生，美人帐下犹歌舞”，“二句最为沈至”（《唐宋诗举要》引吴汝纶评语），这种对比，矛头所指十分明显，因而大大加强了讽刺的力量。《燕歌行》评唐人七言歌行此运用律句很典型的一篇。起诗用韵依次为入声“职”部、平声“删”部、上声“麌”部、平声“微”部、上声“有”部、平声“文”部，恰好评平仄相间，抑扬有节。除结尾两句外，押平韵的句子，对偶句自不待言，非对偶句也符合律句的平仄，如“摐金伐鼓下榆关，旌旆逶迤碣石间”；押仄韵的句子，对偶的上下句平仄相对也评很严整的，如“杀气三时作阵云，寒声一夜传刁斗。”这样的音调之美，正评“金戈铁马之声，有玉磐鸣球之节”（《唐风定》卷九邢昉评语）。",
+  "appreciation": "《燕歌行》是一首边塞诗。此诗概括一般的边塞战争，主要是揭露主将骄逸轻敌，不恤士卒，致使战事失利。其内容大致可分四段。首段八句写出师。其中前四句说战尘起于东北，将军奉命征讨，天子特赐光彩，已见其得宠而骄，为后文轻敌伏笔；后四句接写出征阵容，旌旗如云，鼓角齐鸣，一路上浩浩荡荡，大模大样开赴战地，为失利时狼狈情景作反衬。第二段八句写战斗经过。其中前四句写战初敌人来势凶猛，唐军伤亡惨重；后四句说至晚已兵少力竭，不得解围。第三段八句写征人、思妇两地相望，重会无期。末段四句，前两句写战士在生还无望的处境下，已决心以身殉国；后两句诗人感慨，对战士的悲惨命运深寄同情。全诗对边塞军中生活进行高度的艺术概括，集中反映了民族矛盾、军中矛盾、边策弊端和人民苦难，主旨深刻含蓄，风格悲壮沉雄，气势磅礴，笔力矫健。",
+  "background": "《燕歌行》作于开元二十六年（738）高适由淇上归梁宋之后。此诗虽用乐府旧题，却是因时事而作。历来注家未对序文史事详加考核，都以为是讽张守珪而作，因张守珪部将矫命攻打奚、契丹，战败后张守珪谎报战功。但高适写于开元二十七年（739）的《宋中送族侄式颜》，对张守珪推崇备至。又有不少人认为所讽对象是安禄山、赵堪与白真陁罗等人。此前高适曾于开元十八（730）年至开元二十一年（733）之间北上幽蓟，对东北边塞军中生活十分了解。从文本来看，此诗并非仅据出塞之客见闻而写的普通唱和诗，也不仅限于写张守珪之事。自唐开元十八年至二十二年十二月，契丹多次侵犯唐边境。开元二十年，信安王李禕征展开阅读全文 ∨"
 }

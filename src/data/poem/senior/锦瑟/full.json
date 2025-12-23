@@ -11,165 +11,105 @@
             {
               "char": "锦",
               "pinyin": "jǐn",
-              "index": 0,
-              "read": true,
-              "write": true
+              "index": 0
             },
             {
               "char": "瑟",
               "pinyin": "sè",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "端",
               "pinyin": "duān",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "五",
               "pinyin": "wǔ",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "弦",
               "pinyin": "xián",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "弦",
               "pinyin": "xián",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "柱",
               "pinyin": "zhù",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "思",
               "pinyin": "sī",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "华",
               "pinyin": "huá",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
-          "translation": "精美的瑟为什么竟有五十根弦，一弦一柱都叫我追忆青春年华。",
-          "pinyin": "jǐn sè wú duān wǔ shí xián ， yī xián yī zhù sī huá nián 。",
+          "translation": "精美的瑟为什么有五十根弦，一弦一柱都叫我追忆青春年华。",
           "notes": [
             {
               "start": 0,
               "end": 1,
-              "content": "锦瑟：装饰华美的瑟。瑟，古代弦乐器，通常有二十五弦。"
+              "content": "漆有织锦纹的瑟。"
             },
             {
               "start": 2,
               "end": 3,
-              "content": "无端：没有来由，无缘无故。"
+              "content": "无缘由。"
             },
             {
-              "start": 4,
-              "end": 6,
-              "content": "五十弦：传说古瑟有五十弦，此处非实指，暗含弦多悲切之意。"
-            },
-            {
-              "start": 8,
+              "start": 11,
               "end": 11,
-              "content": "一弦一柱：柱，瑟上系弦的木柱。每弦每柱皆触发回忆。"
+              "content": "瑟上系弦的木块。"
             },
             {
-              "start": 12,
+              "start": 13,
               "end": 14,
-              "content": "思华年：追忆青春年华。华年，盛年，美好的青年时代。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "华美"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "丝织品"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "old": "思念、追忆"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "new": "思考、考虑"
+              "content": "指青年时代。"
             }
           ]
         }
@@ -182,140 +122,95 @@
             {
               "char": "庄",
               "pinyin": "zhuāng",
-              "index": 16,
-              "read": true,
-              "write": true
+              "index": 16
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "晓",
               "pinyin": "xiǎo",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "梦",
               "pinyin": "mèng",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "迷",
               "pinyin": "mí",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "蝴",
               "pinyin": "hú",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "蝶",
               "pinyin": "dié",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "望",
               "pinyin": "wàng",
-              "index": 24,
-              "read": true,
-              "write": true
+              "index": 24
             },
             {
               "char": "帝",
               "pinyin": "dì",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "春",
               "pinyin": "chūn",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "托",
               "pinyin": "tuō",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "杜",
               "pinyin": "dù",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "鹃",
               "pinyin": "juān",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
-          "translation": "庄周其实知道自己只是向往那自由自在的蝴蝶，望帝那美好的心灵和作为可以感动杜鹃。",
-          "pinyin": "zhuāng shēng xiǎo mèng mí hú dié ， wàng dì chūn xīn tuō dù juān 。",
+          "translation": "庄周在梦中化为蝴蝶翩翩起舞，望帝把自己的幽恨托身于杜鹃。",
           "notes": [
             {
               "start": 0,
               "end": 6,
-              "content": "庄生晓梦迷蝴蝶：典出《庄子·齐物论》，庄周梦中化为蝴蝶，醒后不知是庄周梦蝶还是蝶梦庄周，喻人生如梦，往事迷离。"
+              "content": "庄周梦到自己变成了蝴蝶，醒来后觉得自己还是庄周，因此困惑不已。典出《庄子·齐物论》。"
             },
             {
               "start": 8,
               "end": 14,
-              "content": "望帝春心托杜鹃：典出《华阳国志》，蜀王杜宇（号望帝）死后魂魄化为杜鹃，啼声哀怨，至春则鸣，似诉春心。春心，伤春之心。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "宾语前置：'迷蝴蝶'即'迷于蝴蝶'，省略介词'于'。"
-            },
-            {
-              "start": 8,
-              "end": 14,
-              "content": "状语后置：'托杜鹃'即'于杜鹃托'，将状语'于杜鹃'后置。"
+              "content": "望帝把思恋爱慕的情怀寄托在杜鹃哀切的啼鸣之中。"
             }
           ]
         }
@@ -328,128 +223,95 @@
             {
               "char": "沧",
               "pinyin": "cāng",
-              "index": 32,
-              "read": true,
-              "write": true
+              "index": 32
             },
             {
               "char": "海",
               "pinyin": "hǎi",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "明",
               "pinyin": "míng",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "珠",
               "pinyin": "zhū",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "泪",
               "pinyin": "lèi",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "蓝",
               "pinyin": "lán",
-              "index": 40,
-              "read": true,
-              "write": true
+              "index": 40
             },
             {
               "char": "田",
               "pinyin": "tián",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "暖",
               "pinyin": "nuǎn",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "玉",
               "pinyin": "yù",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "烟",
               "pinyin": "yān",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "大海里明月的影子像是眼泪化成的珍珠。只有在彼时彼地的蓝田才能生成犹如生烟似的良玉。",
-          "pinyin": "cāng hǎi yuè míng zhū yǒu lèi ， lán tián rì nuǎn yù shēng yān 。",
+          "translation": "沧海明月高照，鲛人泣泪成珠；",
           "notes": [
             {
-              "start": 0,
+              "start": 4,
               "end": 6,
-              "content": "沧海月明珠有泪：典出《博物志》，南海鲛人泣泪成珠。沧海月明，珍珠映月生辉，却似含泪，喻美好而悲伤。"
+              "content": "传说海中有鲛人，其泪化为珍珠。"
             },
             {
               "start": 8,
-              "end": 14,
-              "content": "蓝田日暖玉生烟：蓝田，山名，产玉。日光暖照，玉气氤氲如烟，喻往事如烟，可望不可即。"
+              "end": 9,
+              "content": "地名，在今陕西，以出产美玉闻名。"
             }
           ]
         }
@@ -462,147 +324,90 @@
             {
               "char": "此",
               "pinyin": "cǐ",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "情",
               "pinyin": "qíng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "待",
               "pinyin": "dài",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "成",
               "pinyin": "chéng",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "追",
               "pinyin": "zhuī",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "忆",
               "pinyin": "yì",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
-              "char": "？",
+              "char": "，",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "只",
               "pinyin": "zhǐ",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "当",
               "pinyin": "dāng",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "已",
               "pinyin": "yǐ",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "惘",
               "pinyin": "wǎng",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 62,
-              "read": true,
-              "write": true
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             }
           ],
-          "translation": "那些美好的事和年代，只能留在回忆之中了。而在当时那些人看来那些事都只是平常罢了，却并不知珍惜。",
-          "pinyin": "cǐ qíng kě dài chéng zhuī yì ？ zhǐ shì dāng shí yǐ wǎng rán 。",
+          "translation": "蓝田红日和暖，可看到良玉生烟。",
           "notes": [
             {
-              "start": 0,
-              "end": 6,
-              "content": "此情可待成追忆：此情，指上述种种情感。可待，岂待，何必等到。"
-            },
-            {
-              "start": 8,
+              "start": 13,
               "end": 14,
-              "content": "只是当时已惘然：只是，就是。惘然，失意、怅惘的样子。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 8,
-              "old": "就是"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "new": "但是"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "反问句式：'此情可待成追忆？'以反问表达否定，强调不必追忆。"
+              "content": "模糊不清的样子。"
             }
           ]
         }
@@ -610,8 +415,13 @@
     }
   ],
   "tags": [
-    "选必中"
+    "选必中",
+    "诗",
+    "背默",
+    "七律"
   ],
   "background": "此诗约作于作者晚年，具体创作时间不详。对《锦瑟》一诗的创作意旨历来众说纷纭，莫衷一是。或以为是爱国之篇，或以为是悼念追怀亡妻之作，或以为是自伤身世、自比文才之论，或以为是抒写思念侍儿之笔。此诗创作于李商隐妻子死后，故五十弦有断弦之意。",
-  "appreciation": "《锦瑟》诗题是按古诗的惯例以篇首二字为题，实是借瑟以隐题的无题诗。诗人在诗中追忆了自己的青春年华，伤感自己不幸的遭遇，他借用庄生梦蝶、杜鹃啼血、沧海珠泪、良玉生烟等典故，寄托其凄迷、悲慨、愤懑的心绪。全诗采用比兴手法，运用丰富的联想与想象，巧妙地将听觉的感受转化为视觉形象，以片段意象的组合，创造朦胧神秘的境界，诗中借助可视可感的诗歌形象来传达其真挚浓烈而又幽约深曲的情思。"
+  "appreciation": "《锦瑟》诗题是按古诗的惯例以篇首二字为题，实是借瑟以隐题的无题诗。诗人在诗中追忆了自己的青春年华，伤感自己不幸的遭遇，他借用庄生梦蝶、杜鹃啼血、沧海珠泪、良玉生烟等典故，寄托其凄迷、悲慨、愤懑的心绪。全诗采用比兴手法，运用丰富的联想与想象，巧妙地将听觉的感受转化为视觉形象，以片段意象的组合，创造朦胧神秘的境界，诗中借助可视可感的诗歌形象来传达其真挚浓烈而又幽约深曲的情思。",
+  "annotation": "锦瑟：装饰华美的瑟。瑟：拨弦乐器，通常二十五弦。无端：犹何故。怨怪之词。五十弦：这里是托古之词。作者的原意，当也是说锦瑟本应是二十五弦。“庄生”句：《庄子·齐物论》：“庄周梦为蝴蝶，栩栩然蝴蝶也；自喻适志与！不知周也。俄然觉，则蘧蘧然周也。不知周之梦为蝴蝶与？蝴蝶之梦为周与？”李商隐此引庄周梦蝶故事，以言人生如梦，往事如烟之意。“望帝”句：《华阳国志·蜀志》：“杜宇称帝，号曰望帝。……其相开明，决玉垒山以除水害，帝遂委以政事，法尧舜禅授之义，遂禅位于开明。帝升西山隐焉。时适二月，子鹃鸟鸣，故蜀人悲子鹃鸟鸣也。”子鹃即杜鹃，又名子规。珠有泪：《博物志》：“南海外有鲛人，水居如鱼，不废绩织，其眼泣则能出珠。”蓝田：《元和郡县志》：“关内道京兆府蓝田县：蓝田山，一名玉山，在县东二十八里。”只是：犹“止是”、“仅是”，有“就是”、“正是”之意。惘然：失意的样子；心中若有所失的样子。",
+  "comprehensive_appreciation": "赏析：《锦瑟》，是李商隐的代表作，爱诗的无不乐道喜吟，堪称最享盛名；然而它又是最不易讲解的一篇难诗。有人说是写给令狐楚家一个叫“锦瑟”的侍女的爱情诗；有人说是睹物思人，写给故去的妻子王氏的悼亡诗；也有人认为中间四句诗可与瑟的适、怨、清、和四种声情相合，从而推断为描写音乐的咏物诗；此外还有影射政治、自叙诗歌创作等许多种说法。千百年来众说纷纭，莫衷一是，大体而言，以“悼亡”和“自伤”说者为多。诗运用象征、隐喻的手法，创造性地发展了传统的“比兴”方法。“锦瑟无端五十弦，一弦一柱思华年。”想象一下：绘有花纹的美丽如锦的瑟有五十根弦，诗人也一边在感慨快到五十岁了，一弦一柱都唤起了他对逝水流年的喜悦追忆，暗示自己才华出众而年华流逝。诗题“锦瑟”，是用了起句的头二个字。旧说中，原有认为这是咏物诗的，但注解家似乎都主张：这首诗与瑟事无关，实是一篇借瑟以隐题的“无题”之作。诗的首联以幽怨悲凉的锦瑟起兴，借助对形象的联想来显现诗人内心深处难于直抒的千般情怀以及诗人沧海一世所有不能明言的万种体验，点明“思华年”的主旨，这是对传统比兴手法创造性的发展。“庄生晓梦迷蝴蝶，望帝春心托杜鹃。”《锦瑟》诗中间两联，最能体现李商隐引典精辟、譬喻精深的持点。李商隐以“庄生梦蝶”的典故入诗，又巧妙地设计了两个字：“晓”与“迷”，深层喜悦譬喻溢于言表。“晓”早晨也，喻人的一生则是青年时代。“晓梦”：青春美梦，年轻时立下的宏伟大志，色彩斑斓的喜悦理想。“迷”迷恋，沉溺也不放弃，不可割舍，不懈地追求喜悦。诗人设字绝妙精巧，赋予典故以新的喜悦哲理，让读者有感于物．有悟于心：使诗句产生了影视效应，再现了诗人为不可割舍的理想进行了不懈追求，无奈却挣扎于权势争夺之中，左右为难受尽欺凌终不得志，到头来只是一场悲苦的梦幻而已。颈联前一句把几个典故揉合在一起，珠生于蚌，蚌在于海，每当月明宵静，蚌则向月张开，以养其珠，珠得月华，始极光莹。这是美好的民间传统之说。泪以珠喻，自古为然，鲛人泣泪，颗颗成珠，亦是海中的奇情异景。如此，皎月落于沧海之间，明珠浴于泪波之界，在诗人笔下，已然形成一个难以分辨的妙境。一笔而能有如此丰富的内涵、奇丽的联想的，实不多见。后一句的蓝田沧海，也并非空穴来风。晚唐诗人司空图，引过比他早的戴叔伦的一段话：“诗家美景，如蓝田日暖，良玉生烟，可望而不可置于眉睫之前也。”这里用来比喻的八个字，简直和此诗颈联下句的七个字一模一样，足见此一比喻，另有根源，可惜后来古籍失传，竟难重觅出处。引戴语作解说，是否贴切，亦难断言。晋代文学家陆机在他的《文赋》里有一联名句：“石韫玉而山辉，水怀珠而川媚。”蓝田，山名，在今陕西蓝田东南，是有名的产玉之地。此山为日光煦照，蕴藏其中的玉气（古人认为宝物都有一种一般目力所不能见的光气），冉冉上腾，但美玉的精气远察如在，近观却无，所以可望而不可置诸眉睫之下，这代表了一种异常美好的理想景色，然而它是不能把握和无法亲近的。诗中此句，正是在“韫玉山辉，怀珠川媚”的启示和联想下，用蓝田日暖给上句沧海月明作出了对仗，造成了异样鲜明强烈的对比。而就字面讲，蓝田对沧海，也是非常工整的，因为沧字本义是青色。诗人在词藻上的考究，也可以看出他的才华和功力。对于诗人 来说，沧海月明这个境界，尤有特殊的深厚感情。有一次，他因病中未能躬与河东公的“乐营置酒”之会，就写出了“只将沧海月，高压赤城霞”（《病中闻河东公乐营置酒口占寄上》）的句子。如此看来，他对此境，一方面于其高旷皓净十分爱赏，一方面于其凄寒孤寂又十分感伤：一种复杂的难言的怅惘之怀，溢于言表。此联和上联共用了四个典故，呈现了不同的意境和情绪。庄生梦蝶，是人生的恍惚和迷惘；望帝春心，包含苦苦追寻的执著；沧海鲛泪，具有一种阔大的寂寥；蓝田日暖，传达了温暖而朦胧的欢乐。诗人从典故中提取的意象是那样的神奇、空灵，他的心灵向读者缓缓开启，华年的美好，生命的感触等皆融于其中，却只可意会不可言说。诗的尾联，采用反问递进句式加强语气，结束全诗。“此情”总揽所抒之情：“成追忆”则与“思华年”呼应。“可待”即“岂待”，说明这令人惆怅伤感的“此情”，早已迷惘难遣，此时当更令人难以承受。诗题“锦瑟”，但并非咏物，不过是按古诗的惯例以篇首二字为题，实是借瑟以隐题的一首无题诗。此诗是李商隐最难索解的作品之一，诗家素有“一篇《锦瑟》解人难”的慨叹。作者在诗中追忆了自己的青春年华，伤感自己不幸的遭遇，寄托了悲慨、愤懑的心情，大量借用庄生梦蝶、杜鹃啼血、沧海珠泪、良玉生烟等典故，采用比兴手法，运用联想与想象，把听觉的感受，转化为视觉形象，以片段意象的组合，创造朦胧的境界，从而借助可视可感的诗歌形象来传达其真挚浓烈而又幽约深曲的深思。全诗词藻华美，含蓄深沉，情真意长，感人至深。"
 }

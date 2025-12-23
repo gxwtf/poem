@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="杂诗十二首·其二"
+  author="陶渊明"
+  dynasty="魏晋"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这组诗共十二首，前八首“辞气一贯”，当作于同一年内，约作于晋安帝义熙十四年（418），陶渊明五十四岁时，此诗便为其中一首。
+
+## 作品赏析
+
+　　《杂诗十二首·其二》是一首五言诗。此诗前四句表现宇宙的周转不息，寄托岁月如逝的感怀，同时勾勒出寥廓天幕下孤独的诗人形象；五六句把生命与巨大的空间分离，凸现了此夕对生命的体验与感受；七八句总括前面描绘的景象，以“悟”、“知”引入到抒怀，起承上启下的作用；后六句道出生命的巨大孤独与空茫感，增加生命密度与质量的愿望也将落空，叫人如何不生悲凄之意？全诗情调孤凄，语言质朴、文体省净而包蕴深远。

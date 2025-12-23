@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="卜算子·咏梅"
+  author="陆游"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　陆游的一生充满坎坷，尽管他的爱国热情在官场沉浮中惨遭打击，但其爱国志向始终不渝。这在他的诗歌中得到了充分的体现。《卜算子·咏梅》正是他以梅寄志的代表。

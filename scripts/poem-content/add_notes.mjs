@@ -96,7 +96,37 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+
+
 const versions = ["junior", "senior"];
+
+/**
+ * 诗文过滤列表：
+ * 若某版本数组为空，则处理该版本全部诗文；
+ * 若数组非空，则只处理数组内指定的诗文文件夹名称。
+ */
+const poemList = {
+    junior: [],
+    senior: ["兼爱"]
+};
+
+/**
+ * 支持参数： --list=junior,senior
+ * 若提供该参数，则只处理指定的版本
+ */
+let useList = false;
+let enableLog = false;
+
+for (const arg of process.argv.slice(2)) {
+    if (arg === "--list") {
+        useList = true;
+        console.log("📌 已启用 list 模式，将只按 poemList 过滤处理诗文");
+    }
+    if (arg === "--log") {
+        enableLog = true;
+        console.log("📘 已启用 log 模式");
+    }
+}
 
 // 工具：移除拼音（括号中的内容）
 function removePinyin(str) {
@@ -124,8 +154,13 @@ for (const version of versions) {
     if (!fs.existsSync(basePath)) continue;
 
     const poemDirs = fs.readdirSync(basePath);
+    let targetPoemDirs = poemDirs;
+    if (useList && poemList[version] && poemList[version].length > 0) {
+        targetPoemDirs = poemDirs.filter(name => poemList[version].includes(name));
+        console.log(`📄 list 模式：版本 ${version} 仅处理：`, targetPoemDirs);
+    }
 
-    for (const dir of poemDirs) {
+    for (const dir of targetPoemDirs) {
         const poemPath = path.join(basePath, dir);
         const fullJsonPath = path.join(poemPath, "full.json");
         const notesPath = path.join(poemPath, "notes.mdx");
@@ -186,6 +221,13 @@ for (const version of versions) {
                             // 只能匹配在上一个注释之后的位置
                             if (globalStart <= lastGlobalIndex) continue;
 
+                            if (enableLog) {
+                                console.log("🔍 匹配到注释：", content);
+                                console.log("🔑 关键词：", kw);
+                                console.log("📍 全文起始 index：", globalStart);
+                                console.log("📝 所在句子：", sentence.content.map(c => c.char).join(''));
+                                console.log("-----");
+                            }
                             sentence.notes.push({
                                 start: pos.start,
                                 end: pos.end,

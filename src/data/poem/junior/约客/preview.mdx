@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="约客"
+  author="赵师秀"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《约客》是一首七言绝句。这首诗写的是诗人在一个风雨交加的夏夜独自期客的情景。前二句交代了当时的环境和时令，“黄梅”、“雨”、“池塘”、“处处蛙”等极富季节特征的事物，勾勒出江南梅雨季节的夏夜之景：雨声连绵，蛙声一片；这看似热闹的环境，实际上反衬出夜晚的寂静。 后二句点出人物和事件，诗人耐心而又有几分焦急地等着，他没事可干，只“闲敲”棋子，静静地看着闪闪的灯花。此诗采用写景寄情的写法，借描写诗人雨夜候客来访的情景传达其内心含而不露的寂寞和怅惘之情。

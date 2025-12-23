@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="送杜少府之任蜀州"
+  author="王勃"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　《送杜少府之任蜀州》是作者在长安时所写。这位姓杜的少府将到四川去上任，王勃在长安相送，临别时赠送给他这首送别诗。
+
+## 作品赏析
+
+　　《送杜少府之任蜀州》是一首送别诗，意在慰勉友人勿在离别之时过于悲哀。首联描画出送别地与友人出发地的形势和风貌，暗含别离之意，其表述严谨，对仗工整；颔联为宽慰之辞，点明离别的必然性，以散调相承，由实转虚；颈联笔峰突起，高度概括“友情深厚，江山难阻”的情景，使友情升华到一种更高的美学境界；尾联点出“送”的主题，同时继续劝勉、叮嘱朋友，也是自己情怀的吐露。全诗结构跌宕，气韵流畅，意境旷达，虽篇幅极短，却开合顿挫，风光无限，堪称送别诗中的不世经典。

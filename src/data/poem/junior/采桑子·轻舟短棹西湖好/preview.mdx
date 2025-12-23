@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="采桑子·轻舟短棹西湖好"
+  author="欧阳修"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　公元1049年（宋仁宗皇祐元年），欧阳修移知颍州，并与梅尧臣相约，买田于颍，以便日后退居。公元1067年（宋英宗治平四年），欧阳修出知亳州，特意绕道颍州。数年后，终于以观文殿学士、太子少师致仕，得以如愿归居颍州。几次游览后，他创作了《采桑子》十首，此词便为其中之一。
+
+## 作品赏析
+
+　　全词以轻松淡雅的笔调，描写泛舟颍州西湖时所见的美丽景色，其将风景与心情、动感与静态、视觉与听觉两两对应而结合，形成了一道流动中的风景。上阕主要写堤岸风景，笔调轻松而优雅；下阕的视点收束，主要写“绿水逶迤”。词中以“轻舟”作为观察风景的基点，舟动景换，但心情的愉悦是一以贯之的，也折射出词人挂冠退隐后从容自适的闲雅心理。此词色调清丽，风格娟秀，充满诗情画意，读来清新可喜。

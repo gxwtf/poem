@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="如梦令·常记溪亭日暮"
+  author="李清照"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首《如梦令·常记溪亭日暮》是李清照的早期之作，较为可信的时间当是李清照到达汴京之后尚未出嫁之前。
+
+## 作品赏析
+
+　　《如梦令·常记溪亭日暮》是一首忆昔词。开头两句，便饱含着沉醉兴奋之情；接着写“兴尽”归家，又“误入”荷塘深处，别有天地，更令人流连；最后一句，纯洁天真，言尽而意未尽。 全词寥寥数语，看似随意而出，实则惜墨如金，每一句都蕴含着深意。其语言不事雕琢，自然流畅，它以女词人特有的细腻笔触，展示出词人早期生活的情趣和心境，洋溢着生活的气息和欢快的旋律。

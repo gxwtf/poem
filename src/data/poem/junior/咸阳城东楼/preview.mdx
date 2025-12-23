@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="咸阳城东楼"
+  author="许浑"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此诗大约是许浑于公元849年（唐宣宗大中三年）任监察御史的时候所写。此时大唐王朝已经处于风雨飘摇之际，在一个秋天的傍晚，诗人登上咸阳古城楼观赏风景，即兴写下了此诗。
+
+## 作品赏析
+
+　　《咸阳城东楼》是一首七言律诗。此诗用云、日、雨、风层层推进，又以绿芜、黄叶来渲染，营造出萧条凄凉的意境，诗人借秦苑汉宫的荒废，抒发了对家国衰败的无限感慨。他通过对景物的描写，赋予抽象的感情以具体形象，在呈现自然之景的同时又体现出其丰富的生活感受，以及对历史和现实的深刻思考。全诗情景交融，景中寓情，景别致而凄美，情愁苦而悲怆，意蕴藉而苍凉，境雄阔而高远，神完气足，为唐人登临诗篇之佳作。

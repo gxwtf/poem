@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="窦娥冤（节选）"
+  author="关汉卿"
+  dynasty="元代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　选自《关汉卿戏剧集》（人民文学出版社1976年版）。关汉卿（约1230—约1300），号已斋叟，大都（今北京）人，元代戏曲作家。代表作有杂剧《窦娥冤》《救风尘》《望江亭》《鲁斋郎》《拜月亭》《调风月》《单刀会》等。《窦娥冤》是元杂剧的代表性作品，共四折，这里选的是第三折。前两折主要情节，窦娥的冤魂向父亲倾诉时有详细交代：“我三岁上亡了母亲，七岁上离了父亲，你将我送与蔡婆婆做儿媳妇。至十七岁与夫配合，才得两年，不幸儿夫亡化，和俺婆婆守寡。这山阳县南门外有个赛卢医，他少俺婆婆二十两银子。俺婆婆去取讨，被他赚到郊外，要将婆婆勒死。不想撞见张驴儿父子两个，救了俺婆婆性命。那张驴儿知道我家有个守寡的媳妇，便道：‘你婆儿媳妇既无丈夫，不若招我父子两个。’俺婆婆初也不肯，那张驴儿道：‘你若不肯，我依旧勒死你。’俺婆婆惧怕，不得已含糊许了。只得将他父子两个领到家中，养他过世。有张驴儿数次调戏你女孩儿，我坚执不从。那一日俺婆婆身子不快，想羊肚儿汤吃，你孩儿安排了汤。适值张驴儿父子两个问病，道：‘将汤来我尝一尝。’说：‘汤便好，只少些盐醋。’赚的我去取盐醋，他就暗地里下了毒药，实指望药杀俺婆婆，要强逼我成亲。不想俺婆婆偶然发呕，不要汤吃，却让与老张吃，随即七窍流血药死了。张驴儿便道：‘窦娥，药死了俺老子，你要官休要私休？’我便道：‘怎生是官休？怎生是私休？’他道：‘要官休，告到官司，你与俺老子偿命。若私休，你便与我做老婆。’你孩儿便道：‘好马不鞴（bèi）双鞍，烈女不更二夫，我至死不与你做媳妇，我情愿和你见官去。’他将你孩儿拖到官中，受尽三推六问，吊拷绷扒，便打死孩儿也不肯认。怎当州官见你孩儿不认，便要拷打俺婆婆。我怕婆婆年老，受刑不起，只得屈认了。因此押赴法场，将我典刑……”第四折写窦娥的父亲窦天章新任两淮提刑肃政廉访使，窦娥托梦与父亲，最终得以申冤昭雪。

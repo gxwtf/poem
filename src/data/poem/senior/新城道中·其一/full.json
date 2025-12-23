@@ -3,6 +3,10 @@
   "author": "苏轼",
   "dynasty": "宋代",
   "mode": "poem",
+  "annotation": "东风：春风。吹断檐间积雨声：吹停了屋外下了很久的雨。絮帽：棉帽。钲（zhēng）：古代乐器，铜制，形似钟而狭长，有长柄可执，口向上以物击之而鸣，在行军时敲打。西崦（yān）：这里泛指山。饷：用食物款待别人。",
+  "comprehensive_appreciation": "赏析：这首诗主要写景，景中含情，反映了作者当时欢乐心情，也表现了他厌恶俗务、热爱自然的情趣。清晨，诗人准备启程了。东风多情，雨声有意。为了诗人旅途顺利，和煦的东风赶来送行，吹散了阴云；淅沥的雨声及时收敛，天空放晴。“檐间积雨”，说明这场春雨下了多日，正当诗人“欲山行”之际，东风吹来，雨过天晴，诗人心中的阴影也一扫而光，所以他要把东风视为通达人情的老朋友一般了。出远门首先要看天色，既然天公作美，那就决定了旅途中的愉悦心情。出得门来，首先映入眼帘的是那迷人的晨景：白色的雾霭笼罩着高高的山顶，仿佛山峰戴了一顶白丝绵制的头巾；一轮朝阳正冉冉升起，远远望去，仿佛树梢上挂着一面又圆又亮的铜钲。穿山越岭，再往前行，一路上更是春光明媚、春意盎然。鲜艳的桃花，矮矮的竹篱，袅娜的垂柳，清澈的小溪，再加上那正在田地里忙于春耕的农民，有物有人，有动有静，有红有绿，构成了一幅画面生动、色调和谐的农家春景图。雨后的山村景色如此清新秀丽，使得诗人出发时的愉悦心情有增无减。因此，从他眼中看到的景物都带上了主观色彩，充满了欢乐和生意。野桃会“含笑”点头，“溪柳”会摇摆起舞，十分快活自在。而诗人想象中的“西崦人家”更是其乐无比：日出而作，日入而息；田间小憩，妇童饷耕；春种秋收，自食其力，不异桃源佳境。这些景致和人物的描写是作者当时欢乐心情的反映，也表现了他厌恶俗务、热爱自然的情趣。",
+  "appreciation": "《新城道中·其一》是一首七言律诗。此诗首联赋予东风以人的情感，显得格外亲切，为全诗定下明快的基调；颔联以生动的比喻描绘山间的景象，展现了一幅美丽的山间日出图；颈联中“野桃含笑”和“溪柳自摇”都运用拟人手法，使得自然界的生物仿佛都有了人的情感和动作，显得更加生动有趣；尾联则将笔触转向山间的居民。虽然生活简朴，但却充满了田园生活的乐趣和安宁。全诗描绘了春天山间生机盎然的景象，绘制出人与自然和谐生活的美好图景。",
+  "background": "",
   "paragraphs": [
     {
       "sentences": [
@@ -11,130 +15,85 @@
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 7,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 7
             },
             {
               "char": "吹",
-              "pinyin": "chuī",
-              "index": 8,
-              "read": false,
-              "write": false
+              "pinyin": "chuí",
+              "index": 8
             },
             {
               "char": "断",
               "pinyin": "duàn",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "檐",
               "pinyin": "yán",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "间",
               "pinyin": "jiān",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "积",
               "pinyin": "jī",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "雨",
               "pinyin": "yǔ",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "声",
               "pinyin": "shēng",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 15,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 15
             }
           ],
-          "translation": "东风仿佛知道我想要进山旅行，吹散了屋檐下连绵不断的雨声。",
-          "pinyin": "dōng fēng zhī wǒ yù shān xíng ， chuī duàn yán jiān jī yǔ shēng 。",
-          "notes": [
-            {
-              "start": 9,
-              "end": 9,
-              "content": "吹断：风吹得雨声中断。断，终止、停止，非断裂之意。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "积雨：连绵多日的雨水，形容久雨初歇之景。"
-            }
-          ]
+          "translation": "春风像是知道我要到山里行走，吹停了屋外下了很久的雨。"
         }
       ]
     },
@@ -145,130 +104,85 @@
             {
               "char": "岭",
               "pinyin": "lǐng",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "晴",
               "pinyin": "qíng",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "披",
               "pinyin": "pī",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "絮",
               "pinyin": "xù",
-              "index": 21,
-              "read": true,
-              "write": true
+              "index": 21
             },
             {
               "char": "帽",
               "pinyin": "mào",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 23,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 23
             },
             {
               "char": "树",
               "pinyin": "shù",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "头",
               "pinyin": "tóu",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "初",
               "pinyin": "chū",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
-              "char": "上",
-              "pinyin": "shàng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "char": "挂",
+              "pinyin": "guà",
+              "index": 28
             },
             {
               "char": "铜",
               "pinyin": "tóng",
-              "index": 29,
-              "read": true,
-              "write": true
+              "index": 29
             },
             {
               "char": "钲",
               "pinyin": "zhēng",
-              "index": 30,
-              "read": true,
-              "write": true
+              "index": 30
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 31,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 31
             }
           ],
-          "translation": "山岭上的云朵像披着棉絮做的帽子，树梢上的初升太阳如同挂上了铜锣。",
-          "pinyin": "lǐng shàng qíng yún pī xù mào ， shù tóu chū rì shàng tóng zhēng 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 6,
-              "content": "披絮帽：比喻山顶白云如棉絮制成的帽子。披，覆盖；絮帽，古时冬季戴的棉帽，此处形容云朵蓬松。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "铜钲：古代铜制打击乐器，形似钟而狭长。诗中比喻初升的太阳，因其颜色与形状相似。"
-            }
-          ]
+          "translation": ""
         }
       ]
     },
@@ -279,132 +193,85 @@
             {
               "char": "野",
               "pinyin": "yě",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "桃",
               "pinyin": "táo",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "含",
               "pinyin": "hán",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "笑",
               "pinyin": "xiào",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "竹",
               "pinyin": "zhú",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "篱",
               "pinyin": "lí",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "短",
               "pinyin": "duǎn",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 39,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 39
             },
             {
               "char": "溪",
               "pinyin": "xī",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "柳",
               "pinyin": "liǔ",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "摇",
               "pinyin": "yáo",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "沙",
               "pinyin": "shā",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "清",
               "pinyin": "qīng",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 47,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 47
             }
           ],
-          "translation": "野桃含笑绽放，映衬着低矮的竹篱，溪边的柳枝自在摇曳，沙底的溪水清澈见底。",
-          "pinyin": "yě táo hán xiào zhú lí duǎn ， xī liǔ zì yáo shā shuǐ qīng 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "含笑：拟人手法，形容野桃花盛开，仿佛带着笑容，表现春意盎然。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "‘野桃含笑’使用拟人修辞，将植物赋予人的情感动作，属于文学性特殊表达。"
-            }
-          ]
+          "translation": ""
         }
       ]
     },
@@ -415,151 +282,87 @@
             {
               "char": "西",
               "pinyin": "xī",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "崦",
               "pinyin": "yān",
-              "index": 49,
-              "read": true,
-              "write": true
+              "index": 49
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "家",
               "pinyin": "jiā",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "应",
               "pinyin": "yīng",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "最",
               "pinyin": "zuì",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "乐",
               "pinyin": "lè",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 55,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 55
             },
             {
               "char": "煮",
               "pinyin": "zhǔ",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
-              "char": "葵",
-              "pinyin": "kuí",
-              "index": 57,
-              "read": false,
-              "write": false
+              "char": "芹",
+              "pinyin": "qín",
+              "index": 57
             },
             {
               "char": "烧",
               "pinyin": "shāo",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "笋",
               "pinyin": "sǔn",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "饷",
               "pinyin": "xiǎng",
-              "index": 60,
-              "read": true,
-              "write": true
+              "index": 60
             },
             {
               "char": "春",
               "pinyin": "chūn",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "耕",
               "pinyin": "gēng",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 63,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 63
             }
           ],
-          "translation": "西边山里的人家应当最快乐，他们正煮着野菜、烧着竹笋，为春耕的人送饭。",
-          "pinyin": "xī yān rén jiā yīng zuì lè ， zhǔ kuí shāo sǔn xiǎng chūn gēng 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "content": "西崦：西边的山。崦，原指崦嵫山，此处泛指山峦，代指山那边的人家。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "饷：给田间耕作者送饭。古代农村习俗，家人将饭菜送到田头。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 12,
-              "end": 12,
-              "old": "送饭"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "new": "无直接对应，现代不用此义"
-            }
-          ]
+          "translation": ""
         }
       ]
     }
-  ],
-  "background": "宋神宗熙宁六年（1073年），苏轼时任杭州通判，巡视属县新城（今浙江富阳新登镇）。途中春雨初歇，山景明丽，诗人有感于自然生机与农事繁忙，写下此诗。此时苏轼虽身处变法争议之中，但暂离政坛纷扰，心境较为舒畅。",
-  "appreciation": "全诗以拟人开篇，'东风知我'赋予自然灵性，展现诗人与天地共鸣的愉悦。'披絮帽''上铜钲'以生活化比喻写山中云日，新颖贴切。颔联'含笑''自摇'进一步以人格化笔法描绘野桃溪柳，生机盎然。尾联转入人间烟火，'煮葵烧笋'的朴素劳作画面，体现对田园生活的向往。全诗情景交融，语言清新自然，展现了苏轼善于从日常中发现诗意的才情。",
-  "tags": [
-    "高中语文选修",
-    "山水田园",
-    "苏轼诗选"
   ]
 }

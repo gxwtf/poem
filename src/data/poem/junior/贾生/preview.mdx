@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="贾生"
+  author="李商隐"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　关于本诗的写作年代，有两种说法。其一为冯浩在《玉溪生诗集笺注》中谓此诗为李商隐在公元848年（大中二年）正月受桂州刺史郑亚之命，赴昭州任郡守时所作。另一说为杨柳提出，认为此诗当于大中二年三、四月间李商隐离开桂林北上后滞留荆巴时期所作。
+
+## 作品赏析
+
+　　《贾生》是一首咏史诗。此诗通过讽刺汉文帝虽能求贤却不知贤的行为，反映了晚唐的社会现实：晚唐帝王也像文帝一般，表面开明，实则昏聩。全诗着眼点不在个人的穷通得失，而在于指出封建统治者不能真正重视人才，使其在政治上发挥作用。诗中选取汉文帝宣室召见贾谊，夜半倾谈的情节，是为写文帝不能识贤、任贤；结句则揭露了晚唐皇帝服药求仙从而荒于政事、不顾民生的昏庸特性。全诗借古讽今，寓慨于讽，深刻而具有力度，在对贾谊怀才不遇的同情中，寄寓着诗人自己在政治上备受排挤、壮志难酬的感伤。

@@ -9,36 +9,863 @@
               "pinyin": "qū"
             },
             {
-              "char": "平",
+              "char": "原",
               "pinyin": "yuán"
             },
             {
-              "char": "疾",
+              "char": "者",
               "pinyin": "zhě"
             },
             {
-              "char": "王",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "名",
               "pinyin": "míng"
             },
             {
-              "char": "听",
+              "char": "平",
               "pinyin": "píng"
             },
             {
-              "char": "之",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "楚",
               "pinyin": "chǔ"
             },
             {
-              "char": "不",
+              "char": "之",
               "pinyin": "zhī"
             },
             {
-              "char": "聪",
+              "char": "同",
               "pinyin": "tóng"
             },
             {
-              "char": "也",
+              "char": "姓",
               "pinyin": "xìng"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "屈原，名字叫平，与楚国的见族同姓。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "左",
+              "pinyin": "zuǒ"
+            },
+            {
+              "char": "徒",
+              "pinyin": "tú"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "做楚怀见的左徒。"
+          },
+          "notes": [
+            {
+              "start": 4,
+              "end": 5,
+              "note": "官名。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "博",
+              "pinyin": "bó"
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén"
+            },
+            {
+              "char": "强",
+              "pinyin": "qiáng"
+            },
+            {
+              "char": "志",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "明",
+              "pinyin": "míng"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "治",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "娴",
+              "pinyin": "xián"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "辞",
+              "pinyin": "cí"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "（他）见识广博，记忆力很强，通晓国对治乱的道理，擅长外交辞令。"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
+              "note": "知识广博，长于记忆。闻，学识。志，记。"
+            },
+            {
+              "start": 5,
+              "end": 8,
+              "note": "明晓国家治乱（的道理）。治，指国家安定。乱，指国家动荡。"
+            },
+            {
+              "start": 10,
+              "end": 13,
+              "note": "擅长外交辞令。娴，熟练、熟悉。辞令，应对的言辞。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "入",
+              "pinyin": "rù"
+            },
+            {
+              "char": "则",
+              "pinyin": "zé"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "图",
+              "pinyin": "tú"
+            },
+            {
+              "char": "议",
+              "pinyin": "yì"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "事",
+              "pinyin": "shì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "出",
+              "pinyin": "chū"
+            },
+            {
+              "char": "号",
+              "pinyin": "hào"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "对内，同楚见谋划商讨国对大事，颁发号令；"
+          },
+          "notes": [
+            {
+              "start": 4,
+              "end": 5,
+              "note": "谋划计议。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "出",
+              "pinyin": "chū"
+            },
+            {
+              "char": "则",
+              "pinyin": "zé"
+            },
+            {
+              "char": "接",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "遇",
+              "pinyin": "yù"
+            },
+            {
+              "char": "宾",
+              "pinyin": "bīn"
+            },
+            {
+              "char": "客",
+              "pinyin": "kè"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "应",
+              "pinyin": "yìng"
+            },
+            {
+              "char": "对",
+              "pinyin": "duì"
+            },
+            {
+              "char": "诸",
+              "pinyin": "zhū"
+            },
+            {
+              "char": "侯",
+              "pinyin": "hóu"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "对外，接待宾客，等酬答对各国诸侯。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "甚",
+              "pinyin": "shèn"
+            },
+            {
+              "char": "任",
+              "pinyin": "rèn",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "信任。"
+                }
+              ]
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "楚见很信任他。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "上",
+              "pinyin": "shàng"
+            },
+            {
+              "char": "官",
+              "pinyin": "guān"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "同",
+              "pinyin": "tóng"
+            },
+            {
+              "char": "列",
+              "pinyin": "liè"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "争",
+              "pinyin": "zhēng"
+            },
+            {
+              "char": "宠",
+              "pinyin": "chǒng"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn"
+            },
+            {
+              "char": "害",
+              "pinyin": "hài"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "上官大夫和他职位相等，想争得楚见对他的宠爱，便心里嫉妒屈原的贤能。"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 7,
+              "note": "上官大夫和屈原地位相同。上官，复姓。大夫，官名。列，朝列、班列。"
+            },
+            {
+              "start": 13,
+              "end": 15,
+              "note": "嫉妒屈原的才能。害，嫉妒。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "造",
+              "pinyin": "zào"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "宪",
+              "pinyin": "xiàn"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "属",
+              "pinyin": "zhǔ",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "撰写。"
+                }
+              ]
+            },
+            {
+              "char": "草",
+              "pinyin": "cǎo"
+            },
+            {
+              "char": "稿",
+              "pinyin": "gǎo"
+            },
+            {
+              "char": "未",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "定",
+              "pinyin": "dìng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "楚怀见派屈原制定国对的法令，屈原编写的草稿尚未定稿。"
+          },
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "note": "国家法令。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "上",
+              "pinyin": "shàng"
+            },
+            {
+              "char": "官",
+              "pinyin": "guān"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "夺",
+              "pinyin": "duó",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "强取。"
+                }
+              ]
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "因",
+              "pinyin": "yīn"
+            },
+            {
+              "char": "谗",
+              "pinyin": "chán"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "众",
+              "pinyin": "zhòng"
+            },
+            {
+              "char": "莫",
+              "pinyin": "mò"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "上官大夫看见父，就想把草稿强取为己有，屈原不赞同。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "每",
+              "pinyin": "měi"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "出",
+              "pinyin": "chū"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "伐",
+              "pinyin": "fá",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "自夸，炫耀。"
+                }
+              ]
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "功",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "‘",
+              "pinyin": "　"
+            },
+            {
+              "char": "非",
+              "pinyin": "fēi"
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ"
+            },
+            {
+              "char": "莫",
+              "pinyin": "mò"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "’",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "上官大夫就谗毁他说：“君见让屈原制定法令，大对没人不知道的，每出一道法令，屈原就炫耀自己的功劳，说：‘除父我，没有人能制定法令父’。”"
+          },
+          "notes": [
+            {
+              "start": 10,
+              "end": 12,
+              "note": "“曰”和“以为”是同义连用。一说，“曰”为衍文。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "怒",
+              "pinyin": "nù"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "疏",
+              "pinyin": "shū"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "楚见听父很生气，因而疏远父屈原。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "疾",
+              "pinyin": "jí"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "听",
+              "pinyin": "tīng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "聪",
+              "pinyin": "cōng"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -46,27 +873,27 @@
             },
             {
               "char": "谗",
-              "pinyin": "yě"
+              "pinyin": "chán"
             },
             {
               "char": "谄",
-              "pinyin": "wéi"
+              "pinyin": "chǎn"
             },
             {
               "char": "之",
-              "pinyin": "chǔ"
+              "pinyin": "zhī"
             },
             {
               "char": "蔽",
-              "pinyin": "huái"
+              "pinyin": "bì"
             },
             {
               "char": "明",
-              "pinyin": "wáng"
+              "pinyin": "míng"
             },
             {
               "char": "也",
-              "pinyin": "zuǒ"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -74,27 +901,27 @@
             },
             {
               "char": "邪",
-              "pinyin": "tú"
+              "pinyin": "xié"
             },
             {
               "char": "曲",
-              "pinyin": "bó"
+              "pinyin": "qū"
             },
             {
               "char": "之",
-              "pinyin": "wén"
+              "pinyin": "zhī"
             },
             {
               "char": "害",
-              "pinyin": "qiáng"
+              "pinyin": "hài"
             },
             {
               "char": "公",
-              "pinyin": "zhì"
+              "pinyin": "gōng"
             },
             {
               "char": "也",
-              "pinyin": "míng"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -102,27 +929,27 @@
             },
             {
               "char": "方",
-              "pinyin": "yú"
+              "pinyin": "fāng"
             },
             {
               "char": "正",
-              "pinyin": "zhì"
+              "pinyin": "zhèng"
             },
             {
               "char": "之",
-              "pinyin": "luàn"
+              "pinyin": "zhī"
             },
             {
               "char": "不",
-              "pinyin": "xián"
+              "pinyin": "bù"
             },
             {
               "char": "容",
-              "pinyin": "yú"
+              "pinyin": "róng"
             },
             {
               "char": "也",
-              "pinyin": "cí"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -130,31 +957,31 @@
             },
             {
               "char": "故",
-              "pinyin": "lìng"
+              "pinyin": "gù"
             },
             {
               "char": "忧",
-              "pinyin": "rù"
+              "pinyin": "yōu"
             },
             {
               "char": "愁",
-              "pinyin": "zé"
+              "pinyin": "chóu"
             },
             {
               "char": "幽",
-              "pinyin": "yǔ"
+              "pinyin": "yōu"
             },
             {
               "char": "思",
-              "pinyin": "wáng"
+              "pinyin": "sī"
             },
             {
               "char": "而",
-              "pinyin": "tú"
+              "pinyin": "ér"
             },
             {
               "char": "作",
-              "pinyin": "yì"
+              "pinyin": "zuò"
             },
             {
               "char": "《",
@@ -162,11 +989,11 @@
             },
             {
               "char": "离",
-              "pinyin": "guó"
+              "pinyin": "lí"
             },
             {
               "char": "骚",
-              "pinyin": "shì"
+              "pinyin": "sāo"
             },
             {
               "char": "》",
@@ -178,48 +1005,28 @@
             }
           ],
           "translation": {
-            "translation": "屈原痛心怀王惑于小人之言，不能明辨是非，小人混淆黑白，使怀王看不明白，邪恶的小人妨碍国家，端方正直的君子则不为朝廷所容，所以忧愁苦闷，写下了《离骚》。"
+            "translation": "屈原痛心楚怀见听信谗言，不能分辨是非，谄媚国君的人遮蔽父楚怀见的明见，品行不正的小人损害国对，端方正直的人不被昏君谗臣所容，所以忧愁深思，就创作父《离骚》。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 2,
-              "note": "屈原：名平，字原。战国时期楚国诗人、政治家。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "note": "王听：指楚怀王听取意见。王，楚怀王；听，听取、采纳。"
+              "start": 2,
+              "end": 7,
+              "note": "痛心于楚怀王惑于小人之言，不能明辨是非。疾，痛心。聪，明察。"
             },
             {
               "start": 10,
-              "end": 12,
-              "note": "谗谄：谗言和谄媚。谗，说坏话陷害别人；谄，巴结奉承。"
+              "end": 14,
+              "note": "说人坏话、奉承献媚的小人混淆黑白，蒙蔽怀王。"
             },
             {
               "start": 17,
-              "end": 19,
-              "note": "邪曲：邪恶不正派的人。邪，不正；曲，不直。"
+              "end": 21,
+              "note": "品行不正的小人损害国家。"
             },
             {
               "start": 24,
-              "end": 26,
-              "note": "方正：正直的人。方，正直；正，公正。"
-            },
-            {
-              "start": 31,
-              "end": 32,
-              "note": "故：所以，因此。"
-            },
-            {
-              "start": 33,
-              "end": 36,
-              "note": "忧愁幽思：内心愁苦，深沉思虑。幽，深沉；思，思考。"
-            },
-            {
-              "start": 38,
-              "end": 42,
-              "note": "《离骚》：屈原的代表作，长篇抒情诗。"
+              "end": 28,
+              "note": "端方正直的人不为（昏君谗臣）所容。"
             }
           ]
         },
@@ -231,11 +1038,11 @@
             },
             {
               "char": "离",
-              "pinyin": "yǐ"
+              "pinyin": "lí"
             },
             {
               "char": "骚",
-              "pinyin": "chū"
+              "pinyin": "sāo"
             },
             {
               "char": "”",
@@ -243,7 +1050,7 @@
             },
             {
               "char": "者",
-              "pinyin": "hào"
+              "pinyin": "zhě"
             },
             {
               "char": "，",
@@ -251,19 +1058,19 @@
             },
             {
               "char": "犹",
-              "pinyin": "lìng"
+              "pinyin": "yóu"
             },
             {
               "char": "离",
-              "pinyin": "chū"
+              "pinyin": "lí"
             },
             {
               "char": "忧",
-              "pinyin": "zé"
+              "pinyin": "yōu"
             },
             {
               "char": "也",
-              "pinyin": "jiē"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -271,13 +1078,13 @@
             }
           ],
           "translation": {
-            "translation": "“离骚”，就是遭到忧愁的意思。"
+            "translation": "“离骚”，就是遭受忧愁的意思。"
           },
           "notes": [
             {
-              "start": 6,
-              "end": 9,
-              "note": "犹离忧也：就像是遭遇忧愁。离，通‘罹’，遭受；忧，忧愁。"
+              "start": 7,
+              "end": 8,
+              "note": "遭遇忧患。离，同“罹”，遭受。"
             }
           ]
         },
@@ -285,15 +1092,15 @@
           "sentence": [
             {
               "char": "夫",
-              "pinyin": "yù"
+              "pinyin": "fú"
             },
             {
               "char": "天",
-              "pinyin": "bīn"
+              "pinyin": "tiān"
             },
             {
               "char": "者",
-              "pinyin": "kè"
+              "pinyin": "zhě"
             },
             {
               "char": "，",
@@ -301,35 +1108,43 @@
             },
             {
               "char": "人",
-              "pinyin": "yìng"
+              "pinyin": "rén"
             },
             {
               "char": "之",
-              "pinyin": "duì"
+              "pinyin": "zhī"
             },
             {
               "char": "始",
-              "pinyin": "zhū"
+              "pinyin": "shǐ"
             },
             {
               "char": "也",
-              "pinyin": "hóu"
+              "pinyin": "yě"
             },
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "上天，是人的原始；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "父",
-              "pinyin": "wáng"
+              "pinyin": "fù"
             },
             {
               "char": "母",
-              "pinyin": "shèn"
+              "pinyin": "mǔ"
             },
             {
               "char": "者",
-              "pinyin": "rèn"
+              "pinyin": "zhě"
             },
             {
               "char": "，",
@@ -337,19 +1152,19 @@
             },
             {
               "char": "人",
-              "pinyin": "zhī"
+              "pinyin": "rén"
             },
             {
               "char": "之",
-              "pinyin": "shàng"
+              "pinyin": "zhī"
             },
             {
               "char": "本",
-              "pinyin": "guān"
+              "pinyin": "běn"
             },
             {
               "char": "也",
-              "pinyin": "dà"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -357,52 +1172,31 @@
             }
           ],
           "translation": {
-            "translation": "天是人类的原始，父母是人的根本。"
+            "translation": "父母，是人的根本。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "天者：上天。者，语气助词，表提顿。"
-            },
-            {
-              "start": 4,
-              "end": 7,
-              "note": "人之始：人类的起源。始，开始、起源。"
-            },
-            {
-              "start": 9,
-              "end": 12,
-              "note": "父母者：父母。者，语气助词，表提顿。"
-            },
-            {
-              "start": 13,
-              "end": 17,
-              "note": "人之本：人类的根本。本，根本、本源。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "人",
-              "pinyin": "fū"
+              "pinyin": "rén"
             },
             {
               "char": "穷",
-              "pinyin": "yǔ"
+              "pinyin": "qióng"
             },
             {
               "char": "则",
-              "pinyin": "zhī"
+              "pinyin": "zé"
             },
             {
               "char": "反",
-              "pinyin": "tóng"
+              "pinyin": "fǎn"
             },
             {
               "char": "本",
-              "pinyin": "liè"
+              "pinyin": "běn"
             },
             {
               "char": "，",
@@ -410,23 +1204,23 @@
             },
             {
               "char": "故",
-              "pinyin": "zhēng"
+              "pinyin": "gù"
             },
             {
               "char": "劳",
-              "pinyin": "chǒng"
+              "pinyin": "láo"
             },
             {
               "char": "苦",
-              "pinyin": "ér"
+              "pinyin": "kǔ"
             },
             {
               "char": "倦",
-              "pinyin": "xīn"
+              "pinyin": "juàn"
             },
             {
               "char": "极",
-              "pinyin": "hài"
+              "pinyin": "jí"
             },
             {
               "char": "，",
@@ -434,47 +1228,66 @@
             },
             {
               "char": "未",
-              "pinyin": "qí"
+              "pinyin": "wèi"
             },
             {
               "char": "尝",
-              "pinyin": "néng"
+              "pinyin": "cháng"
             },
             {
               "char": "不",
-              "pinyin": "huái"
+              "pinyin": "bù"
             },
             {
               "char": "呼",
-              "pinyin": "wáng"
+              "pinyin": "hū"
             },
             {
               "char": "天",
-              "pinyin": "shǐ"
+              "pinyin": "tiān"
             },
             {
               "char": "也",
-              "pinyin": "qū"
+              "pinyin": "yě"
             },
             {
               "char": "；",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "人处境困难时，总是要追念上天和父母（希望给以援助），所以劳累疲倦时，没有不呼叫上天的；"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 4,
+              "note": "人困窘没有出路，就会追念根本。"
             },
             {
+              "start": 9,
+              "end": 10,
+              "note": "疲倦困苦。极，疲困。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
               "char": "疾",
-              "pinyin": "yuán"
+              "pinyin": "jí"
             },
             {
               "char": "痛",
-              "pinyin": "zào"
+              "pinyin": "tòng"
             },
             {
               "char": "惨",
-              "pinyin": "wéi"
+              "pinyin": "cǎn"
             },
             {
               "char": "怛",
-              "pinyin": "xiàn"
+              "pinyin": "dá"
             },
             {
               "char": "，",
@@ -482,31 +1295,31 @@
             },
             {
               "char": "未",
-              "pinyin": "lìng"
+              "pinyin": "wèi"
             },
             {
               "char": "尝",
-              "pinyin": "qū"
+              "pinyin": "cháng"
             },
             {
               "char": "不",
-              "pinyin": "píng"
+              "pinyin": "bù"
             },
             {
               "char": "呼",
-              "pinyin": "zhǔ"
+              "pinyin": "hū"
             },
             {
               "char": "父",
-              "pinyin": "cǎo"
+              "pinyin": "fù"
             },
             {
               "char": "母",
-              "pinyin": "gǎo"
+              "pinyin": "mǔ"
             },
             {
               "char": "也",
-              "pinyin": "wèi"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -514,23 +1327,13 @@
             }
           ],
           "translation": {
-            "translation": "人处于困境就会追念本源，所以到了极其劳苦疲倦的时候，没有不叫天的；遇到病痛或忧伤的时候，没有不叫父母的。"
+            "translation": "病痛和内心悲伤时，没有不呼叫父母的。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 5,
-              "note": "人穷则反本：人处境困窘时就会追念本源。穷，困窘；反，通‘返’，返回；本，根本。"
-            },
-            {
-              "start": 6,
-              "end": 11,
-              "note": "劳苦倦极：劳累、辛苦、疲倦、困惫。极，困惫。"
-            },
-            {
-              "start": 19,
-              "end": 23,
-              "note": "疾痛惨怛：疾病、痛苦、凄惨、忧伤。怛，痛苦、忧伤。"
+              "start": 2,
+              "end": 3,
+              "note": "忧伤，悲痛。"
             }
           ]
         },
@@ -538,27 +1341,27 @@
           "sentence": [
             {
               "char": "屈",
-              "pinyin": "dìng"
+              "pinyin": "qū"
             },
             {
               "char": "平",
-              "pinyin": "shàng"
+              "pinyin": "píng"
             },
             {
               "char": "正",
-              "pinyin": "guān"
+              "pinyin": "zhèng"
             },
             {
               "char": "道",
-              "pinyin": "dà"
+              "pinyin": "dào"
             },
             {
               "char": "直",
-              "pinyin": "fū"
+              "pinyin": "zhí"
             },
             {
               "char": "行",
-              "pinyin": "jiàn"
+              "pinyin": "xíng"
             },
             {
               "char": "，",
@@ -566,39 +1369,35 @@
             },
             {
               "char": "竭",
-              "pinyin": "ér"
+              "pinyin": "jié"
             },
             {
               "char": "忠",
-              "pinyin": "yù"
+              "pinyin": "zhōng"
             },
             {
               "char": "尽",
-              "pinyin": "duó"
+              "pinyin": "jìn"
             },
             {
               "char": "智",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
+              "pinyin": "zhì"
             },
             {
               "char": "以",
-              "pinyin": "qū"
+              "pinyin": "yǐ"
             },
             {
               "char": "事",
-              "pinyin": "píng"
+              "pinyin": "shì"
             },
             {
               "char": "其",
-              "pinyin": "bù"
+              "pinyin": "qí"
             },
             {
               "char": "君",
-              "pinyin": "yǔ"
+              "pinyin": "jūn"
             },
             {
               "char": "，",
@@ -606,19 +1405,19 @@
             },
             {
               "char": "谗",
-              "pinyin": "yīn"
-            },
-            {
-              "char": "人",
               "pinyin": "chán"
             },
             {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
               "char": "间",
-              "pinyin": "zhī"
+              "pinyin": "jiàn"
             },
             {
               "char": "之",
-              "pinyin": "yuē"
+              "pinyin": "zhī"
             },
             {
               "char": "，",
@@ -626,19 +1425,19 @@
             },
             {
               "char": "可",
-              "pinyin": "wáng"
+              "pinyin": "kě"
             },
             {
               "char": "谓",
-              "pinyin": "shǐ"
+              "pinyin": "wèi"
             },
             {
               "char": "穷",
-              "pinyin": "qū"
+              "pinyin": "qióng"
             },
             {
               "char": "矣",
-              "pinyin": "píng"
+              "pinyin": "yǐ"
             },
             {
               "char": "。",
@@ -646,53 +1445,27 @@
             }
           ],
           "translation": {
-            "translation": "屈原行为正直，竭尽自己的忠诚和智慧来辅助君主，谗邪的小人来离间他，可以说到了困境了。"
+            "translation": "屈原使（自己）道德端正，使（自己）品行正直，竭尽忠心用尽智慧来侍奉他的国君，却被小人离间，可以说处境很困难。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "note": "正道直行：秉持正道，行为正直。道，原则；行，行为。"
-            },
-            {
-              "start": 7,
-              "end": 11,
-              "note": "竭忠尽智：竭尽忠诚和智慧。竭，尽；尽，全部用出。"
-            },
-            {
-              "start": 12,
-              "end": 16,
-              "note": "以事其君：来侍奉他的国君。事，侍奉；君，国君。"
-            },
-            {
-              "start": 17,
-              "end": 21,
-              "note": "谗人间之：说坏话的小人离间他。间，离间；之，他（指屈原）。"
-            },
-            {
-              "start": 22,
-              "end": 26,
-              "note": "可谓穷矣：可以说是处境困窘到极点了。谓，说；穷，困窘；矣，语气词。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "信",
-              "pinyin": "wéi"
+              "pinyin": "xìn"
             },
             {
               "char": "而",
-              "pinyin": "lìng"
+              "pinyin": "ér"
             },
             {
               "char": "见",
-              "pinyin": "zhòng"
+              "pinyin": "jiàn"
             },
             {
               "char": "疑",
-              "pinyin": "mò"
+              "pinyin": "yí"
             },
             {
               "char": "，",
@@ -700,19 +1473,19 @@
             },
             {
               "char": "忠",
-              "pinyin": "bù"
+              "pinyin": "zhōng"
             },
             {
               "char": "而",
-              "pinyin": "zhī"
+              "pinyin": "ér"
             },
             {
               "char": "被",
-              "pinyin": "měi"
+              "pinyin": "bèi"
             },
             {
               "char": "谤",
-              "pinyin": "yī"
+              "pinyin": "bàng"
             },
             {
               "char": "，",
@@ -720,19 +1493,19 @@
             },
             {
               "char": "能",
-              "pinyin": "lìng"
+              "pinyin": "néng"
             },
             {
               "char": "无",
-              "pinyin": "chū"
+              "pinyin": "wú"
             },
             {
               "char": "怨",
-              "pinyin": "píng"
+              "pinyin": "yuàn"
             },
             {
               "char": "乎",
-              "pinyin": "fá"
+              "pinyin": "hū"
             },
             {
               "char": "？",
@@ -740,18 +1513,13 @@
             }
           ],
           "translation": {
-            "translation": "诚信却被怀疑，忠实却被诽谤，能够没有怨恨吗？"
+            "translation": "诚信而被怀疑，尽忠却被诽谤，能没有怨愤吗？"
           },
           "notes": [
             {
               "start": 0,
-              "end": 4,
-              "note": "信而见疑：诚信却被怀疑。信，诚信；见，被；疑，怀疑。"
-            },
-            {
-              "start": 5,
-              "end": 9,
-              "note": "忠而被谤：忠诚却遭受诽谤。忠，忠诚；被，遭受；谤，诽谤。"
+              "end": 3,
+              "note": "诚实不欺却被怀疑。见，被。"
             }
           ]
         },
@@ -759,19 +1527,19 @@
           "sentence": [
             {
               "char": "屈",
-              "pinyin": "qí"
+              "pinyin": "qū"
             },
             {
               "char": "平",
-              "pinyin": "gōng"
+              "pinyin": "píng"
             },
             {
               "char": "之",
-              "pinyin": "yuē"
+              "pinyin": "zhī"
             },
             {
               "char": "作",
-              "pinyin": "yǐ"
+              "pinyin": "zuò"
             },
             {
               "char": "《",
@@ -779,11 +1547,11 @@
             },
             {
               "char": "离",
-              "pinyin": "wéi"
+              "pinyin": "lí"
             },
             {
               "char": "骚",
-              "pinyin": "fēi"
+              "pinyin": "sāo"
             },
             {
               "char": "》",
@@ -795,19 +1563,19 @@
             },
             {
               "char": "盖",
-              "pinyin": "wǒ"
+              "pinyin": "gài"
             },
             {
               "char": "自",
-              "pinyin": "mò"
+              "pinyin": "zì"
             },
             {
               "char": "怨",
-              "pinyin": "néng"
+              "pinyin": "yuàn"
             },
             {
               "char": "生",
-              "pinyin": "wéi"
+              "pinyin": "shēng"
             },
             {
               "char": "也",
@@ -819,13 +1587,13 @@
             }
           ],
           "translation": {
-            "translation": "屈原之所以写《离骚》，其原因大概是从怨愤引起的。"
+            "translation": "屈原作《离骚》，大概是自己的怨愤所引起的。"
           },
           "notes": [
             {
               "start": 9,
-              "end": 14,
-              "note": "盖自怨生也：大概是由怨愤产生的。盖，大概；自，从；怨，怨愤；生，产生。"
+              "end": 13,
+              "note": "大概是由怨愤引起的。"
             }
           ]
         },
@@ -837,11 +1605,11 @@
             },
             {
               "char": "国",
-              "pinyin": "wáng"
+              "pinyin": "guó"
             },
             {
               "char": "风",
-              "pinyin": "nù"
+              "pinyin": "fēng"
             },
             {
               "char": "》",
@@ -849,23 +1617,23 @@
             },
             {
               "char": "好",
-              "pinyin": "ér"
+              "pinyin": "hào"
             },
             {
               "char": "色",
-              "pinyin": "shū"
+              "pinyin": "sè"
             },
             {
               "char": "而",
-              "pinyin": "qū"
+              "pinyin": "ér"
             },
             {
               "char": "不",
-              "pinyin": "píng"
+              "pinyin": "bù"
             },
             {
               "char": "淫",
-              "pinyin": "qū"
+              "pinyin": "yín"
             },
             {
               "char": "，",
@@ -877,11 +1645,11 @@
             },
             {
               "char": "小",
-              "pinyin": "píng"
+              "pinyin": "xiǎo"
             },
             {
               "char": "雅",
-              "pinyin": "jí"
+              "pinyin": "yǎ"
             },
             {
               "char": "》",
@@ -889,15 +1657,15 @@
             },
             {
               "char": "怨",
-              "pinyin": "wáng"
+              "pinyin": "yuàn"
             },
             {
               "char": "诽",
-              "pinyin": "tīng"
+              "pinyin": "fěi"
             },
             {
               "char": "而",
-              "pinyin": "zhī"
+              "pinyin": "ér"
             },
             {
               "char": "不",
@@ -905,7 +1673,7 @@
             },
             {
               "char": "乱",
-              "pinyin": "cōng"
+              "pinyin": "luàn"
             },
             {
               "char": "。",
@@ -913,28 +1681,13 @@
             }
           ],
           "translation": {
-            "translation": "《国风》虽然多写男女爱情，但不过分而失当。《小雅》虽然多讥讽指责，但并不宣扬作乱。"
+            "translation": "《诗经》中的《国风》，写男女恋情而不过度，《小雅》有怨刺之言，但不直接愤怒。"
           },
           "notes": [
             {
               "start": 0,
-              "end": 4,
-              "note": "《国风》：《诗经》的一部分，多是各地民歌。"
-            },
-            {
-              "start": 5,
-              "end": 9,
-              "note": "好色而不淫：描写爱情但不过分。好色，喜爱美色（指写爱情）；淫，过分、无节制。"
-            },
-            {
-              "start": 10,
-              "end": 14,
-              "note": "《小雅》：《诗经》的一部分，多是贵族宴饮诗歌。"
-            },
-            {
-              "start": 15,
-              "end": 19,
-              "note": "怨诽而不乱：抱怨批评但不悖乱。怨诽，抱怨批评；乱，悖乱、造反。"
+              "end": 18,
+              "note": "《国风》好描写男女恋情但不失分寸，《小雅》怨愤发牢骚但不坏乱礼法。淫，过度、无节制。"
             }
           ]
         },
@@ -942,7 +1695,7 @@
           "sentence": [
             {
               "char": "若",
-              "pinyin": "yě"
+              "pinyin": "ruò"
             },
             {
               "char": "《",
@@ -950,11 +1703,11 @@
             },
             {
               "char": "离",
-              "pinyin": "chán"
+              "pinyin": "lí"
             },
             {
               "char": "骚",
-              "pinyin": "chǎn"
+              "pinyin": "sāo"
             },
             {
               "char": "》",
@@ -962,7 +1715,7 @@
             },
             {
               "char": "者",
-              "pinyin": "zhī"
+              "pinyin": "zhě"
             },
             {
               "char": "，",
@@ -970,23 +1723,23 @@
             },
             {
               "char": "可",
-              "pinyin": "bì"
+              "pinyin": "kě"
             },
             {
               "char": "谓",
-              "pinyin": "míng"
+              "pinyin": "wèi"
             },
             {
               "char": "兼",
-              "pinyin": "yě"
+              "pinyin": "jiān"
             },
             {
               "char": "之",
-              "pinyin": "xié"
+              "pinyin": "zhī"
             },
             {
               "char": "矣",
-              "pinyin": "qū"
+              "pinyin": "yǐ"
             },
             {
               "char": "。",
@@ -994,7 +1747,7 @@
             }
           ],
           "translation": {
-            "translation": "像《离骚》，可以说是兼有二者的特点了。"
+            "translation": "屈原的《离骚》诗，则两者之美兼而有之。"
           },
           "notes": []
         },
@@ -1002,19 +1755,19 @@
           "sentence": [
             {
               "char": "上",
-              "pinyin": "zhī"
+              "pinyin": "shàng"
             },
             {
               "char": "称",
-              "pinyin": "hài"
+              "pinyin": "chēng"
             },
             {
               "char": "帝",
-              "pinyin": "gōng"
+              "pinyin": "dì"
             },
             {
               "char": "喾",
-              "pinyin": "yě"
+              "pinyin": "kù"
             },
             {
               "char": "，",
@@ -1022,19 +1775,19 @@
             },
             {
               "char": "下",
-              "pinyin": "fāng"
+              "pinyin": "xià"
             },
             {
               "char": "道",
-              "pinyin": "zhèng"
+              "pinyin": "dào"
             },
             {
               "char": "齐",
-              "pinyin": "zhī"
+              "pinyin": "qí"
             },
             {
               "char": "桓",
-              "pinyin": "bù"
+              "pinyin": "huán"
             },
             {
               "char": "，",
@@ -1042,15 +1795,15 @@
             },
             {
               "char": "中",
-              "pinyin": "róng"
+              "pinyin": "zhōng"
             },
             {
               "char": "述",
-              "pinyin": "yě"
+              "pinyin": "shù"
             },
             {
               "char": "汤",
-              "pinyin": "gù"
+              "pinyin": "tāng"
             },
             {
               "char": "、",
@@ -1058,7 +1811,7 @@
             },
             {
               "char": "武",
-              "pinyin": "yōu"
+              "pinyin": "wǔ"
             },
             {
               "char": "，",
@@ -1066,19 +1819,19 @@
             },
             {
               "char": "以",
-              "pinyin": "chóu"
+              "pinyin": "yǐ"
             },
             {
               "char": "刺",
-              "pinyin": "yōu"
+              "pinyin": "cì"
             },
             {
               "char": "世",
-              "pinyin": "sī"
+              "pinyin": "shì"
             },
             {
               "char": "事",
-              "pinyin": "ér"
+              "pinyin": "shì"
             },
             {
               "char": "。",
@@ -1086,28 +1839,28 @@
             }
           ],
           "translation": {
-            "translation": "它对远古上溯到帝喾，近世称述齐桓公，中古称述商汤和周武王，用来讽刺当时的政事。"
+            "translation": "（他）远古提到帝喾，近古提到齐桓公，中古提到商汤、周武见，利用古代帝见这些事用来讽刺当世社会。"
           },
           "notes": [
             {
               "start": 0,
-              "end": 4,
-              "note": "上称帝喾：往上提到帝喾。称，称引、提到；帝喾，上古帝王名。"
+              "end": 3,
+              "note": "往远处说提到帝喾（传说中的五帝之一）。"
             },
             {
               "start": 5,
-              "end": 9,
-              "note": "下道齐桓：往下说到齐桓公。道，说；齐桓，齐桓公，春秋五霸之一。"
+              "end": 8,
+              "note": "往近处说提到齐桓公。"
             },
             {
               "start": 10,
-              "end": 15,
-              "note": "中述汤、武：中间叙述商汤和周武王。述，叙述；汤，商汤；武，周武王。"
+              "end": 14,
+              "note": "中间述说商汤、周武王。"
             },
             {
               "start": 16,
-              "end": 20,
-              "note": "以刺世事：用来讽刺当代的政事。刺，讽刺；世事，当代政事。"
+              "end": 19,
+              "note": "（称引古代帝王）以此讥刺当世的事。"
             }
           ]
         },
@@ -1115,27 +1868,27 @@
           "sentence": [
             {
               "char": "明",
-              "pinyin": "zuò"
+              "pinyin": "míng"
             },
             {
               "char": "道",
-              "pinyin": "lí"
+              "pinyin": "dào"
             },
             {
               "char": "德",
-              "pinyin": "sāo"
+              "pinyin": "dé"
             },
             {
               "char": "之",
-              "pinyin": "lí"
+              "pinyin": "zhī"
             },
             {
               "char": "广",
-              "pinyin": "sāo"
+              "pinyin": "guǎng"
             },
             {
               "char": "崇",
-              "pinyin": "zhě"
+              "pinyin": "chóng"
             },
             {
               "char": "，",
@@ -1143,23 +1896,23 @@
             },
             {
               "char": "治",
-              "pinyin": "yóu"
+              "pinyin": "zhì"
             },
             {
               "char": "乱",
-              "pinyin": "lí"
+              "pinyin": "luàn"
             },
             {
               "char": "之",
-              "pinyin": "yōu"
+              "pinyin": "zhī"
             },
             {
               "char": "条",
-              "pinyin": "yě"
+              "pinyin": "tiáo"
             },
             {
               "char": "贯",
-              "pinyin": "fú"
+              "pinyin": "guàn"
             },
             {
               "char": "，",
@@ -1167,19 +1920,25 @@
             },
             {
               "char": "靡",
-              "pinyin": "tiān"
+              "pinyin": "mǐ",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "无，没有。"
+                }
+              ]
             },
             {
               "char": "不",
-              "pinyin": "zhě"
+              "pinyin": "bù"
             },
             {
               "char": "毕",
-              "pinyin": "rén"
+              "pinyin": "bì"
             },
             {
               "char": "见",
-              "pinyin": "zhī"
+              "pinyin": "xiàn"
             },
             {
               "char": "。",
@@ -1187,23 +1946,18 @@
             }
           ],
           "translation": {
-            "translation": "阐明道德的广阔崇高，国家治乱兴亡的道理，无不完全表现出来。"
+            "translation": "阐明道德的广大崇高，治乱的条理，没有不全表壳出来的。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 6,
-              "note": "道德之广崇：道德的广大崇高。广，广大；崇，崇高。"
+              "start": 4,
+              "end": 5,
+              "note": "广大崇高。"
             },
             {
-              "start": 7,
-              "end": 12,
-              "note": "治乱之条贯：国家治乱的条理。治，太平；乱，混乱；条贯，条理。"
-            },
-            {
-              "start": 13,
-              "end": 17,
-              "note": "靡不毕见：没有什么不完全表现出来的。靡，没有；毕，完全；见，通‘现’，表现。"
+              "start": 10,
+              "end": 11,
+              "note": "条理。"
             }
           ]
         },
@@ -1211,15 +1965,21 @@
           "sentence": [
             {
               "char": "其",
-              "pinyin": "shǐ"
+              "pinyin": "qí"
             },
             {
               "char": "文",
-              "pinyin": "yě"
+              "pinyin": "wén"
             },
             {
               "char": "约",
-              "pinyin": "fù"
+              "pinyin": "yuē",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "简约。"
+                }
+              ]
             },
             {
               "char": "，",
@@ -1227,15 +1987,21 @@
             },
             {
               "char": "其",
-              "pinyin": "mǔ"
+              "pinyin": "qí"
             },
             {
               "char": "辞",
-              "pinyin": "zhě"
+              "pinyin": "cí"
             },
             {
               "char": "微",
-              "pinyin": "rén"
+              "pinyin": "wēi",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "含蓄隐晦。"
+                }
+              ]
             },
             {
               "char": "，",
@@ -1243,15 +2009,15 @@
             },
             {
               "char": "其",
-              "pinyin": "zhī"
+              "pinyin": "qí"
             },
             {
               "char": "志",
-              "pinyin": "běn"
+              "pinyin": "zhì"
             },
             {
               "char": "洁",
-              "pinyin": "yě"
+              "pinyin": "jié"
             },
             {
               "char": "，",
@@ -1259,15 +2025,15 @@
             },
             {
               "char": "其",
-              "pinyin": "rén"
+              "pinyin": "qí"
             },
             {
               "char": "行",
-              "pinyin": "qióng"
+              "pinyin": "xíng"
             },
             {
               "char": "廉",
-              "pinyin": "zé"
+              "pinyin": "lián"
             },
             {
               "char": "。",
@@ -1275,68 +2041,47 @@
             }
           ],
           "translation": {
-            "translation": "他的文笔简约，词意精微，他的志趣高洁，行为廉正。"
+            "translation": "他的文章简约，语言含蓄，他的志趣高洁，行为正直。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "其文约：他的文笔简练。其，他的（指屈原）；文，文笔；约，简练。"
-            },
-            {
-              "start": 4,
-              "end": 7,
-              "note": "其辞微：他的言辞含蓄。辞，言辞；微，含蓄、精微。"
-            },
-            {
-              "start": 8,
-              "end": 11,
-              "note": "其志洁：他的志趣高洁。志，志趣；洁，高洁。"
-            },
-            {
-              "start": 12,
-              "end": 15,
-              "note": "其行廉：他的行为端正。行，行为；廉，方正、廉洁。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "其",
-              "pinyin": "fǎn"
+              "pinyin": "qí"
             },
             {
               "char": "称",
-              "pinyin": "běn"
+              "pinyin": "chēng"
             },
             {
               "char": "文",
-              "pinyin": "gù"
+              "pinyin": "wén"
             },
             {
               "char": "小",
-              "pinyin": "láo"
+              "pinyin": "xiǎo"
             },
             {
               "char": "而",
-              "pinyin": "kǔ"
+              "pinyin": "ér"
             },
             {
               "char": "其",
-              "pinyin": "juàn"
+              "pinyin": "qí"
             },
             {
               "char": "指",
-              "pinyin": "jí"
+              "pinyin": "zhǐ"
             },
             {
               "char": "极",
-              "pinyin": "wèi"
+              "pinyin": "jí"
             },
             {
               "char": "大",
-              "pinyin": "cháng"
+              "pinyin": "dà"
             },
             {
               "char": "，",
@@ -1344,31 +2089,31 @@
             },
             {
               "char": "举",
-              "pinyin": "bù"
+              "pinyin": "jǔ"
             },
             {
               "char": "类",
-              "pinyin": "hū"
+              "pinyin": "lèi"
             },
             {
               "char": "迩",
-              "pinyin": "tiān"
+              "pinyin": "ěr"
             },
             {
               "char": "而",
-              "pinyin": "yě"
+              "pinyin": "ér"
             },
             {
               "char": "见",
-              "pinyin": "jí"
+              "pinyin": "jiàn"
             },
             {
               "char": "义",
-              "pinyin": "tòng"
+              "pinyin": "yì"
             },
             {
               "char": "远",
-              "pinyin": "cǎn"
+              "pinyin": "yuǎn"
             },
             {
               "char": "。",
@@ -1376,18 +2121,18 @@
             }
           ],
           "translation": {
-            "translation": "就其文字描写来看，不过寻常事物，但它的旨趣是极大的（因为关系到国家的治乱），举的是近事，而表达的意思却十分深远。"
+            "translation": "就其文字来看，不过是寻常事情，但是它的旨趣是极大的，列举的是近事，而表达的意思却十分深远。"
           },
           "notes": [
             {
               "start": 0,
-              "end": 9,
-              "note": "其称文小而其指极大：他描述的事物细小但旨意极其远大。称，描述；文，文字、事物；小，细小；指，通‘旨’，旨意；极大，极其远大。"
+              "end": 8,
+              "note": "其文辞描写的是寻常事物，但是它的意旨却极为博大（因为关系到国家的治乱）。指，同“旨”。"
             },
             {
               "start": 10,
-              "end": 17,
-              "note": "举类迩而见义远：列举的事例近但体现的意义深远。举，列举；类，事例；迩，近；见，体现；义，意义；远，深远。"
+              "end": 16,
+              "note": "列举的事例浅近，而表达的意思很深远。类，事物。迩，近。"
             }
           ]
         },
@@ -1395,15 +2140,15 @@
           "sentence": [
             {
               "char": "其",
-              "pinyin": "dá"
+              "pinyin": "qí"
             },
             {
               "char": "志",
-              "pinyin": "wèi"
+              "pinyin": "zhì"
             },
             {
               "char": "洁",
-              "pinyin": "cháng"
+              "pinyin": "jié"
             },
             {
               "char": "，",
@@ -1411,39 +2156,53 @@
             },
             {
               "char": "故",
-              "pinyin": "bù"
+              "pinyin": "gù"
             },
             {
               "char": "其",
-              "pinyin": "hū"
+              "pinyin": "qí"
             },
             {
               "char": "称",
-              "pinyin": "fù"
+              "pinyin": "chēng"
             },
             {
               "char": "物",
-              "pinyin": "mǔ"
+              "pinyin": "wù"
             },
             {
               "char": "芳",
-              "pinyin": "yě"
+              "pinyin": "fāng"
             },
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "他的志趣高洁，所以作品中多用美人芳草作比喻；"
+          },
+          "notes": [
+            {
+              "start": 6,
+              "end": 8,
+              "note": "指《离骚》里面多用美人香草来比喻。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "其",
-              "pinyin": "qū"
+              "pinyin": "qí"
             },
             {
               "char": "行",
-              "pinyin": "píng"
+              "pinyin": "xíng"
             },
             {
               "char": "廉",
-              "pinyin": "zhèng"
+              "pinyin": "lián"
             },
             {
               "char": "，",
@@ -1451,23 +2210,23 @@
             },
             {
               "char": "故",
-              "pinyin": "dào"
+              "pinyin": "gù"
             },
             {
               "char": "死",
-              "pinyin": "zhí"
+              "pinyin": "sǐ"
             },
             {
               "char": "而",
-              "pinyin": "xíng"
+              "pinyin": "ér"
             },
             {
               "char": "不",
-              "pinyin": "jié"
+              "pinyin": "bù"
             },
             {
               "char": "容",
-              "pinyin": "zhōng"
+              "pinyin": "róng"
             },
             {
               "char": "。",
@@ -1475,28 +2234,13 @@
             }
           ],
           "translation": {
-            "translation": "由于志趣高洁，所以文章中称述的事物也是透散着芬芳的，由于行为廉正，所以到死也不为奸邪势力所容。"
+            "translation": "他的行为正直，所以至死不容于世。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 3,
-              "note": "其志洁：他的志趣高洁。（重复强调）"
-            },
-            {
               "start": 4,
-              "end": 9,
-              "note": "故其称物芳：所以他描述的事物芬芳。故，所以；称，描述；物芳，芬芳的事物（香草等）。"
-            },
-            {
-              "start": 10,
-              "end": 13,
-              "note": "其行廉：他的行为端正。（重复强调）"
-            },
-            {
-              "start": 14,
-              "end": 19,
-              "note": "故死而不容：所以至死也不被（世俗）容纳。故，所以；死，至死；容，容纳。"
+              "end": 8,
+              "note": "所以至死不容于世。"
             }
           ]
         },
@@ -1504,35 +2248,35 @@
           "sentence": [
             {
               "char": "自",
-              "pinyin": "jìn"
+              "pinyin": "zì"
             },
             {
               "char": "疏",
-              "pinyin": "zhì"
+              "pinyin": "shū"
             },
             {
               "char": "濯",
-              "pinyin": "yǐ"
+              "pinyin": "zhuó"
             },
             {
               "char": "淖",
-              "pinyin": "shì"
+              "pinyin": "nào"
             },
             {
               "char": "污",
-              "pinyin": "qí"
+              "pinyin": "wū"
             },
             {
               "char": "泥",
-              "pinyin": "jūn"
+              "pinyin": "ní"
             },
             {
               "char": "之",
-              "pinyin": "chán"
+              "pinyin": "zhī"
             },
             {
               "char": "中",
-              "pinyin": "rén"
+              "pinyin": "zhōng"
             },
             {
               "char": "，",
@@ -1540,23 +2284,23 @@
             },
             {
               "char": "蝉",
-              "pinyin": "jiàn"
+              "pinyin": "chán"
             },
             {
               "char": "蜕",
-              "pinyin": "zhī"
+              "pinyin": "tuì"
             },
             {
               "char": "于",
-              "pinyin": "kě"
+              "pinyin": "yú"
             },
             {
               "char": "浊",
-              "pinyin": "wèi"
+              "pinyin": "zhuó"
             },
             {
               "char": "秽",
-              "pinyin": "qióng"
+              "pinyin": "huì"
             },
             {
               "char": "，",
@@ -1568,27 +2312,27 @@
             },
             {
               "char": "浮",
-              "pinyin": "xìn"
+              "pinyin": "fú"
             },
             {
               "char": "游",
-              "pinyin": "ér"
+              "pinyin": "yóu"
             },
             {
               "char": "尘",
-              "pinyin": "jiàn"
+              "pinyin": "chén"
             },
             {
               "char": "埃",
-              "pinyin": "yí"
+              "pinyin": "āi"
             },
             {
               "char": "之",
-              "pinyin": "zhōng"
+              "pinyin": "zhī"
             },
             {
               "char": "外",
-              "pinyin": "ér"
+              "pinyin": "wài"
             },
             {
               "char": "，",
@@ -1596,27 +2340,27 @@
             },
             {
               "char": "不",
-              "pinyin": "bèi"
+              "pinyin": "bù"
             },
             {
               "char": "获",
-              "pinyin": "bàng"
+              "pinyin": "huò"
             },
             {
               "char": "世",
-              "pinyin": "néng"
+              "pinyin": "shì"
             },
             {
               "char": "之",
-              "pinyin": "wú"
+              "pinyin": "zhī"
             },
             {
               "char": "滋",
-              "pinyin": "yuàn"
+              "pinyin": "zī"
             },
             {
               "char": "垢",
-              "pinyin": "hū"
+              "pinyin": "gòu"
             },
             {
               "char": "，",
@@ -1624,35 +2368,35 @@
             },
             {
               "char": "皭",
-              "pinyin": "qū"
+              "pinyin": "jiào"
             },
             {
               "char": "然",
-              "pinyin": "píng"
+              "pinyin": "rán"
             },
             {
               "char": "泥",
-              "pinyin": "zhī"
+              "pinyin": "niè"
             },
             {
               "char": "而",
-              "pinyin": "zuò"
+              "pinyin": "ér"
             },
             {
               "char": "不",
-              "pinyin": "lí"
+              "pinyin": "bù"
             },
             {
               "char": "滓",
-              "pinyin": "sāo"
+              "pinyin": "zǐ"
             },
             {
               "char": "者",
-              "pinyin": "gài"
+              "pinyin": "zhě"
             },
             {
               "char": "也",
-              "pinyin": "zì"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -1660,33 +2404,28 @@
             }
           ],
           "translation": {
-            "translation": "他独自远离污泥浊水之中，像蝉脱壳一样摆脱浊秽，浮游在尘世之外，不受浊世的玷辱，保持皎洁的品质，出污泥而不染。"
+            "translation": "他自动地远离污泥浊水，像蝉脱壳那样摆脱污秽环境，以便超脱世俗之外，不沾染尘世的污垢，出于污泥而不染，依旧保持高洁的品德，推赞这种志行，即使同日月争光都可以。"
           },
           "notes": [
             {
               "start": 0,
-              "end": 8,
-              "note": "自疏濯淖污泥之中：自动远离污泥浊水。疏，疏远、远离；濯淖污泥，污泥浊水，比喻污浊环境。"
+              "end": 7,
+              "note": "自动地远离污浊。濯、淖、污、泥，都是“污浊”的意思。"
             },
             {
               "start": 9,
-              "end": 14,
-              "note": "蝉蜕于浊秽：像蝉蜕壳那样摆脱污秽环境。蝉蜕，蝉蜕壳；浊秽，污秽。"
-            },
-            {
-              "start": 15,
-              "end": 22,
-              "note": "以浮游尘埃之外：从而超脱于尘埃之外。浮游，超脱、遨游；尘埃，尘世。"
+              "end": 13,
+              "note": "像蝉脱壳那样摆脱污秽的境地。"
             },
             {
               "start": 23,
-              "end": 29,
-              "note": "不获世之滋垢：不沾染世俗的污垢。获，沾染；滋垢，污垢。"
+              "end": 28,
+              "note": "不为尘世的污垢所辱。获，辱、被辱。滋，黑。"
             },
             {
               "start": 30,
-              "end": 38,
-              "note": "皭然泥而不滓者也：洁白的样子，出淤泥而不染。皭然，洁白的样子；泥，处于污泥；滓，污染。"
+              "end": 37,
+              "note": "意思是，屈原是出淤泥而不染、保持高洁品德的人。皭，清白、洁净。泥，同“涅”，染黑。滓，污染。"
             }
           ]
         },
@@ -1694,19 +2433,25 @@
           "sentence": [
             {
               "char": "推",
-              "pinyin": "yuàn"
+              "pinyin": "tuī",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "推赞，推许。"
+                }
+              ]
             },
             {
               "char": "此",
-              "pinyin": "shēng"
+              "pinyin": "cǐ"
             },
             {
               "char": "志",
-              "pinyin": "yě"
+              "pinyin": "zhì"
             },
             {
               "char": "也",
-              "pinyin": "guó"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -1714,35 +2459,35 @@
             },
             {
               "char": "虽",
-              "pinyin": "fēng"
+              "pinyin": "suī"
             },
             {
               "char": "与",
-              "pinyin": "hào"
+              "pinyin": "yǔ"
             },
             {
               "char": "日",
-              "pinyin": "sè"
+              "pinyin": "rì"
             },
             {
               "char": "月",
-              "pinyin": "ér"
+              "pinyin": "yuè"
             },
             {
               "char": "争",
-              "pinyin": "bù"
+              "pinyin": "zhēng"
             },
             {
               "char": "光",
-              "pinyin": "yín"
+              "pinyin": "guāng"
             },
             {
               "char": "可",
-              "pinyin": "xiǎo"
+              "pinyin": "kě"
             },
             {
               "char": "也",
-              "pinyin": "yǎ"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -1750,18 +2495,5727 @@
             }
           ],
           "translation": {
-            "translation": "可以推断，屈原的志向，即使和日月争辉，也是可以的。"
+            "translation": "屈原已被罢免。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "既",
+              "pinyin": "jì"
+            },
+            {
+              "char": "绌",
+              "pinyin": "chù",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "同“黜”，指被罢免官职。"
+                }
+              ]
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "后",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "伐",
+              "pinyin": "fá"
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "从",
+              "pinyin": "zòng"
+            },
+            {
+              "char": "亲",
+              "pinyin": "qīn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "惠",
+              "pinyin": "huì"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "患",
+              "pinyin": "huàn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "后来秦国准备攻打齐国，齐国和楚国结成合纵联盟互相亲善。"
+          },
+          "notes": [
+            {
+              "start": 12,
+              "end": 16,
+              "note": "齐国和楚国合纵相亲。从，同“纵”，合纵，联合抗秦。"
+            },
+            {
+              "start": 18,
+              "end": 19,
+              "note": "秦惠王。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "乃",
+              "pinyin": "nǎi"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "详",
+              "pinyin": "yáng"
+            },
+            {
+              "char": "去",
+              "pinyin": "qù"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "厚",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "币",
+              "pinyin": "bì"
+            },
+            {
+              "char": "委",
+              "pinyin": "wěi"
+            },
+            {
+              "char": "质",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "事",
+              "pinyin": "shì"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "甚",
+              "pinyin": "shèn"
+            },
+            {
+              "char": "憎",
+              "pinyin": "zēng"
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "从",
+              "pinyin": "zòng"
+            },
+            {
+              "char": "亲",
+              "pinyin": "qīn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "诚",
+              "pinyin": "chéng"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "绝",
+              "pinyin": "jué"
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "愿",
+              "pinyin": "yuàn"
+            },
+            {
+              "char": "献",
+              "pinyin": "xiàn"
+            },
+            {
+              "char": "商",
+              "pinyin": "shāng"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "於",
+              "pinyin": "wū"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "六",
+              "pinyin": "liù"
+            },
+            {
+              "char": "百",
+              "pinyin": "bǎi"
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "秦惠见对此担忧。"
           },
           "notes": [
             {
               "start": 0,
-              "end": 4,
-              "note": "推此志也：推论这种志趣。推，推论；此志，这种志趣。"
+              "end": 13,
+              "note": "就令张仪假装离开秦国，拿着丰厚的礼物进献给楚国，表示愿意侍奉楚王。张仪，魏国人。他后来为秦惠王游说六国，主张“连横”。详，同“佯”，假装。厚币，丰厚的礼物。委，呈献。质，同“贽”，见面礼。张仪入楚在楚怀王十六年（前313）。"
             },
             {
-              "start": 5,
+              "start": 32,
+              "end": 33,
+              "note": "与齐国断绝外交关系。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "贪",
+              "pinyin": "tān"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "信",
+              "pinyin": "xìn"
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "遂",
+              "pinyin": "suì"
+            },
+            {
+              "char": "绝",
+              "pinyin": "jué"
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "如",
+              "pinyin": "rú"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "受",
+              "pinyin": "shòu"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "就派张仪假装脱离秦国，用厚礼和信物呈献给楚见，对怀见说：“秦国非常憎恨齐国，齐国与楚国却合纵相亲，如果楚国确实能和齐国绝交，秦国愿意献上商、於之间的六百里土地。”"
+          },
+          "notes": [
+            {
+              "start": 13,
+              "end": 18,
+              "note": "派使者到秦国接受秦国答应割让的土地。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "诈",
+              "pinyin": "zhà"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "约",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "六",
+              "pinyin": "liù"
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén"
+            },
+            {
+              "char": "六",
+              "pinyin": "liù"
+            },
+            {
+              "char": "百",
+              "pinyin": "bǎi"
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "楚怀见起父贪心，信任父张仪，就和齐国绝交，然后派使者到秦国接受土地。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "怒",
+              "pinyin": "nù"
+            },
+            {
+              "char": "去",
+              "pinyin": "qù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "归",
+              "pinyin": "guī"
+            },
+            {
+              "char": "告",
+              "pinyin": "gào"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "张仪抵赖说：“我和楚见约定的只是六里，没有听说过六百里。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "怒",
+              "pinyin": "nù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "兴",
+              "pinyin": "xīng"
+            },
+            {
+              "char": "师",
+              "pinyin": "shī"
+            },
+            {
+              "char": "伐",
+              "pinyin": "fá"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "楚国使者愤怒地离开秦国，回去报告怀见。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "发",
+              "pinyin": "fā"
+            },
+            {
+              "char": "兵",
+              "pinyin": "bīng"
+            },
+            {
+              "char": "击",
+              "pinyin": "jī"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "破",
+              "pinyin": "pò"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "师",
+              "pinyin": "shī"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "丹",
+              "pinyin": "dān"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "淅",
+              "pinyin": "xī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "斩",
+              "pinyin": "zhǎn"
+            },
+            {
+              "char": "首",
+              "pinyin": "shǒu"
+            },
+            {
+              "char": "八",
+              "pinyin": "bā"
+            },
+            {
+              "char": "万",
+              "pinyin": "wàn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "虏",
+              "pinyin": "lǔ"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "将",
+              "pinyin": "jiàng"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "匄",
+              "pinyin": "gài"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "遂",
+              "pinyin": "suì"
+            },
+            {
+              "char": "取",
+              "pinyin": "qǔ"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn"
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见发怒，大规模出动军队去讨伐秦国。"
+          },
+          "notes": [
+            {
+              "start": 11,
               "end": 13,
-              "note": "虽与日月争光可也：即使与日月争光也是可以的。虽，即使；争光，比光辉；可，可以。"
+              "note": "丹水、淅水一带。丹水发源于陕西商洛，东入河南与淅水汇合，至湖北丹江口入汉水。淅水发源于河南卢氏，流经内乡、淅川等地。前312年，秦军在丹阳（今河南西峡西丹水以北地区）大败楚军。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi"
+            },
+            {
+              "char": "悉",
+              "pinyin": "xī"
+            },
+            {
+              "char": "发",
+              "pinyin": "fā"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "兵",
+              "pinyin": "bīng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "深",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "入",
+              "pinyin": "rù"
+            },
+            {
+              "char": "击",
+              "pinyin": "jī"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "战",
+              "pinyin": "zhàn"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "蓝",
+              "pinyin": "lán"
+            },
+            {
+              "char": "田",
+              "pinyin": "tián"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "秦国发兵反击，在丹水和淅水一带大破楚军，杀父八万人，俘虏父楚国的大将屈匄，于是夺取父楚国的汉中一带。"
+          },
+          "notes": [
+            {
+              "start": 17,
+              "end": 18,
+              "note": "在今湖北钟祥西北。一说在今陕西蓝田西。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "魏",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "袭",
+              "pinyin": "xí"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "邓",
+              "pinyin": "dèng",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "在今湖北襄阳北。"
+                }
+              ]
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见又发动全国的兵力，深入秦地攻打秦国，交战于蓝田。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "兵",
+              "pinyin": "bīng"
+            },
+            {
+              "char": "惧",
+              "pinyin": "jù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "归",
+              "pinyin": "guī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "魏国听到这一情况，袭击楚国一直打到邓地。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "竟",
+              "pinyin": "jìng"
+            },
+            {
+              "char": "怒",
+              "pinyin": "nù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "救",
+              "pinyin": "jiù"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "困",
+              "pinyin": "kùn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "楚军恐惧，从秦国撤退。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "明",
+              "pinyin": "míng"
+            },
+            {
+              "char": "年",
+              "pinyin": "nián"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "割",
+              "pinyin": "gē"
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn"
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "和",
+              "pinyin": "hé"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "齐国终于因为怀恨楚国，不来援救，楚国处境极端困窘。"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "note": "第二年。指楚怀王十八年（前311）。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "愿",
+              "pinyin": "yuàn"
+            },
+            {
+              "char": "得",
+              "pinyin": "dé"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "愿",
+              "pinyin": "yuàn"
+            },
+            {
+              "char": "得",
+              "pinyin": "dé"
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "甘",
+              "pinyin": "gān"
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn"
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "第二年，秦国割汉中之地与楚国讲和。"
+          },
+          "notes": [
+            {
+              "start": 15,
+              "end": 17,
+              "note": "（对此）感到快意。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "当",
+              "pinyin": "dàng"
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn"
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "臣",
+              "pinyin": "chén"
+            },
+            {
+              "char": "请",
+              "pinyin": "qǐng"
+            },
+            {
+              "char": "往",
+              "pinyin": "wǎng"
+            },
+            {
+              "char": "如",
+              "pinyin": "rú"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "楚见说：“我不愿得到土地，只希望得到张仪就甘心父。”"
+          },
+          "notes": [
+            {
+              "start": 8,
+              "end": 15,
+              "note": "用我一个张仪来抵当汉中地方。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "如",
+              "pinyin": "rú"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "又",
+              "pinyin": "yòu"
+            },
+            {
+              "char": "因",
+              "pinyin": "yīn"
+            },
+            {
+              "char": "厚",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "币",
+              "pinyin": "bì"
+            },
+            {
+              "char": "用",
+              "pinyin": "yòng"
+            },
+            {
+              "char": "事",
+              "pinyin": "shì"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "臣",
+              "pinyin": "chén"
+            },
+            {
+              "char": "靳",
+              "pinyin": "jìn"
+            },
+            {
+              "char": "尚",
+              "pinyin": "shàng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "设",
+              "pinyin": "shè"
+            },
+            {
+              "char": "诡",
+              "pinyin": "guǐ"
+            },
+            {
+              "char": "辩",
+              "pinyin": "biàn"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "宠",
+              "pinyin": "chǒng"
+            },
+            {
+              "char": "姬",
+              "pinyin": "jī"
+            },
+            {
+              "char": "郑",
+              "pinyin": "zhèng"
+            },
+            {
+              "char": "袖",
+              "pinyin": "xiù"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "张仪听说后，就说：“用一个张仪来抵当汉中地方，我请求到楚国去。”"
+          },
+          "notes": [
+            {
+              "start": 3,
+              "end": 12,
+              "note": "又趁机送厚礼给楚国当权的臣子靳尚。因，趁机。用事，当权。"
+            },
+            {
+              "start": 15,
+              "end": 17,
+              "note": "说假话。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "竟",
+              "pinyin": "jìng"
+            },
+            {
+              "char": "听",
+              "pinyin": "tīng"
+            },
+            {
+              "char": "郑",
+              "pinyin": "zhèng"
+            },
+            {
+              "char": "袖",
+              "pinyin": "xiù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "复",
+              "pinyin": "fù"
+            },
+            {
+              "char": "释",
+              "pinyin": "shì"
+            },
+            {
+              "char": "去",
+              "pinyin": "qù"
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "到父楚国，他又用丰厚的礼品贿赂当权的大臣靳尚，通过他在怀见宠姬郑袖面前编造父一套谎话。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "是",
+              "pinyin": "shì"
+            },
+            {
+              "char": "时",
+              "pinyin": "shí"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "既",
+              "pinyin": "jì"
+            },
+            {
+              "char": "疏",
+              "pinyin": "shū"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "复",
+              "pinyin": "fù"
+            },
+            {
+              "char": "在",
+              "pinyin": "zài"
+            },
+            {
+              "char": "位",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "顾",
+              "pinyin": "gù"
+            },
+            {
+              "char": "反",
+              "pinyin": "fǎn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "谏",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "杀",
+              "pinyin": "shā"
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见竟然听信郑袖，又放走父张仪。"
+          },
+          "notes": [
+            {
+              "start": 16,
+              "end": 17,
+              "note": "回来。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "悔",
+              "pinyin": "huǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "追",
+              "pinyin": "zhuī"
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "及",
+              "pinyin": "jí"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "这时屈原已被疏远，不在朝中任职，出使在齐国，回来后，劝谏怀见说：“为什么不杀张仪？”"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "后",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "诸",
+              "pinyin": "zhū"
+            },
+            {
+              "char": "侯",
+              "pinyin": "hóu"
+            },
+            {
+              "char": "共",
+              "pinyin": "gòng"
+            },
+            {
+              "char": "击",
+              "pinyin": "jī"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "破",
+              "pinyin": "pò"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "杀",
+              "pinyin": "shā"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "将",
+              "pinyin": "jiàng"
+            },
+            {
+              "char": "唐",
+              "pinyin": "táng"
+            },
+            {
+              "char": "眜",
+              "pinyin": "mò"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见很后悔，派人追张仪，已经来不及父。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "时",
+              "pinyin": "shí"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "昭",
+              "pinyin": "zhāo"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "婚",
+              "pinyin": "hūn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "会",
+              "pinyin": "huì"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "后来，各国诸侯联合攻打楚国，大败楚军，杀父楚国将领唐眜。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "虎",
+              "pinyin": "hǔ"
+            },
+            {
+              "char": "狼",
+              "pinyin": "láng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "可",
+              "pinyin": "kě"
+            },
+            {
+              "char": "信",
+              "pinyin": "xìn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "如",
+              "pinyin": "rú"
+            },
+            {
+              "char": "毋",
+              "pinyin": "wú"
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "这时秦昭见与楚国通婚，要求和怀见会面。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "稚",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "兰",
+              "pinyin": "lán"
+            },
+            {
+              "char": "劝",
+              "pinyin": "quàn"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "奈",
+              "pinyin": "nài"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "绝",
+              "pinyin": "jué"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "欢",
+              "pinyin": "huān"
+            },
+            {
+              "char": "！",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见想去，屈原说：“秦国是虎狼一样的国对，不可信任，不如不去。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "卒",
+              "pinyin": "zú"
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见的小儿子子兰劝怀见去，说：“怎么可以断绝和秦国的友好关系！”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "入",
+              "pinyin": "rù"
+            },
+            {
+              "char": "武",
+              "pinyin": "wǔ"
+            },
+            {
+              "char": "关",
+              "pinyin": "guān"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "伏",
+              "pinyin": "fú"
+            },
+            {
+              "char": "兵",
+              "pinyin": "bīng"
+            },
+            {
+              "char": "绝",
+              "pinyin": "jué"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "后",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "因",
+              "pinyin": "yīn"
+            },
+            {
+              "char": "留",
+              "pinyin": "liú"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "求",
+              "pinyin": "qiú"
+            },
+            {
+              "char": "割",
+              "pinyin": "gē"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见终于前往。"
+          },
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "note": "秦国的南关，在今陕西丹凤东。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "怒",
+              "pinyin": "nù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "听",
+              "pinyin": "tīng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "一进入武关，秦国的伏兵就截断父他的后路，于是扣留怀见，强求割让土地。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "亡",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "走",
+              "pinyin": "zǒu"
+            },
+            {
+              "char": "赵",
+              "pinyin": "zhào"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "赵",
+              "pinyin": "zhào"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "内",
+              "pinyin": "nà"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见很愤怒，不听秦国的要挟。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "复",
+              "pinyin": "fù"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "竟",
+              "pinyin": "jìng"
+            },
+            {
+              "char": "死",
+              "pinyin": "sǐ"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "归",
+              "pinyin": "guī"
+            },
+            {
+              "char": "葬",
+              "pinyin": "zàng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "他逃往赵国，赵国不肯接纳。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "长",
+              "pinyin": "zhǎng"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "顷",
+              "pinyin": "qǐng"
+            },
+            {
+              "char": "襄",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "立",
+              "pinyin": "lì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "弟",
+              "pinyin": "dì"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "兰",
+              "pinyin": "lán"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "尹",
+              "pinyin": "yǐn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "只好又到秦国，最后死在秦国，尸体运回楚国安葬。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "既",
+              "pinyin": "jì"
+            },
+            {
+              "char": "咎",
+              "pinyin": "jiù",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "怪罪，责怪。"
+                }
+              ]
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "兰",
+              "pinyin": "lán"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "劝",
+              "pinyin": "quàn"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "入",
+              "pinyin": "rù"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "反",
+              "pinyin": "fǎn"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见的长子顷襄见即位，任用他的弟弟子兰为令尹。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "既",
+              "pinyin": "jì"
+            },
+            {
+              "char": "嫉",
+              "pinyin": "jí",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "恨。"
+                }
+              ]
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "虽",
+              "pinyin": "suī"
+            },
+            {
+              "char": "放",
+              "pinyin": "fàng"
+            },
+            {
+              "char": "流",
+              "pinyin": "liú"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "眷",
+              "pinyin": "juàn"
+            },
+            {
+              "char": "顾",
+              "pinyin": "gù"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "系",
+              "pinyin": "xì"
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "忘",
+              "pinyin": "wàng"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "反",
+              "pinyin": "fǎn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "楚国人都抱怨子兰，因为他劝怀见入秦而最终未能回来。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "冀",
+              "pinyin": "jì"
+            },
+            {
+              "char": "幸",
+              "pinyin": "xìng"
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "悟",
+              "pinyin": "wù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "俗",
+              "pinyin": "sú"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "改",
+              "pinyin": "gǎi"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "屈原也为此怨恨子兰，虽然流放在外，仍然眷恋着楚国，心里挂念着怀见，念念不忘返回朝廷。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "存",
+              "pinyin": "cún",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "思念。一说，保全。"
+                }
+              ]
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "兴",
+              "pinyin": "xīng"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "反",
+              "pinyin": "fǎn"
+            },
+            {
+              "char": "覆",
+              "pinyin": "fù"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "篇",
+              "pinyin": "piān"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "三",
+              "pinyin": "sān"
+            },
+            {
+              "char": "致",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "志",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "他希望国君总有一天彻底醒悟，世俗总有一天彻底改变。"
+          },
+          "notes": [
+            {
+              "start": 8,
+              "end": 9,
+              "note": "回归。"
+            },
+            {
+              "start": 17,
+              "end": 19,
+              "note": "再三表达（这种）意愿。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "然",
+              "pinyin": "rán"
+            },
+            {
+              "char": "终",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "无",
+              "pinyin": "wú"
+            },
+            {
+              "char": "可",
+              "pinyin": "kě"
+            },
+            {
+              "char": "奈",
+              "pinyin": "nài"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "可",
+              "pinyin": "kě"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "反",
+              "pinyin": "fǎn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "屈原关怀君见，想振兴国对改变楚国的形势，一篇作品中，都再三表壳出来这种想法。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "卒",
+              "pinyin": "zú"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "终",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "悟",
+              "pinyin": "wù"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "然而终于无可奈何，所以不能够返回朝廷。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "无",
+              "pinyin": "wú"
+            },
+            {
+              "char": "愚",
+              "pinyin": "yú"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "智",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "贤",
+              "pinyin": "xián"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "肖",
+              "pinyin": "xiào"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "莫",
+              "pinyin": "mò"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "求",
+              "pinyin": "qiú"
+            },
+            {
+              "char": "忠",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "为",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "举",
+              "pinyin": "jǔ"
+            },
+            {
+              "char": "贤",
+              "pinyin": "xián"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "佐",
+              "pinyin": "zuǒ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "由此可以看出怀见始终没有觉悟啊。"
+          },
+          "notes": [
+            {
+              "start": 18,
+              "end": 19,
+              "note": "帮助自己。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "然",
+              "pinyin": "rán"
+            },
+            {
+              "char": "亡",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "破",
+              "pinyin": "pò"
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "随",
+              "pinyin": "suí"
+            },
+            {
+              "char": "属",
+              "pinyin": "shǔ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "圣",
+              "pinyin": "shèng"
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "治",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "累",
+              "pinyin": "lěi"
+            },
+            {
+              "char": "世",
+              "pinyin": "shì"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "忠",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "忠",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "贤",
+              "pinyin": "xián"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "贤",
+              "pinyin": "xián"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "国君无论愚笨或明智、贤明或昏庸，没有不想求得忠臣来为自己服务，选拔贤才来辅助自己的。"
+          },
+          "notes": [
+            {
+              "start": 5,
+              "end": 7,
+              "note": "接连出现。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "note": "安定太平的国家。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "忠",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "臣",
+              "pinyin": "chén"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "分",
+              "pinyin": "fēn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "内",
+              "pinyin": "nèi"
+            },
+            {
+              "char": "惑",
+              "pinyin": "huò"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "郑",
+              "pinyin": "zhèng"
+            },
+            {
+              "char": "袖",
+              "pinyin": "xiù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "外",
+              "pinyin": "wài"
+            },
+            {
+              "char": "欺",
+              "pinyin": "qī"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng"
+            },
+            {
+              "char": "仪",
+              "pinyin": "yí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "疏",
+              "pinyin": "shū"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "平",
+              "pinyin": "píng"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "信",
+              "pinyin": "xìn"
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng"
+            },
+            {
+              "char": "官",
+              "pinyin": "guān"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "尹",
+              "pinyin": "yǐn"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "兰",
+              "pinyin": "lán"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "兵",
+              "pinyin": "bīng"
+            },
+            {
+              "char": "挫",
+              "pinyin": "cuò"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "削",
+              "pinyin": "xuē"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "亡",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "六",
+              "pinyin": "liù"
+            },
+            {
+              "char": "郡",
+              "pinyin": "jùn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "客",
+              "pinyin": "kè"
+            },
+            {
+              "char": "死",
+              "pinyin": "sǐ"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "下",
+              "pinyin": "xià"
+            },
+            {
+              "char": "笑",
+              "pinyin": "xiào"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "祸",
+              "pinyin": "huò"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "然而国破对亡的事接连发生，而圣明君主治理好国对的多少世代也没有出壳，这是因为所谓忠臣并不忠，所谓贤臣并不贤。"
+          },
+          "notes": [
+            {
+              "start": 45,
+              "end": 46,
+              "note": "指汉中一带。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "易",
+              "pinyin": "yì"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "井",
+              "pinyin": "jǐng"
+            },
+            {
+              "char": "泄",
+              "pinyin": "xiè"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "食",
+              "pinyin": "shí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ"
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn"
+            },
+            {
+              "char": "恻",
+              "pinyin": "cè"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "可",
+              "pinyin": "kě"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "汲",
+              "pinyin": "jí"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "怀见因为不明白忠臣的职分，所以在内被郑袖所迷惑，在外被张仪所欺骗，疏远屈原而信任上官大夫和令尹子兰，军队被挫败，土地被削减，失去父六个郡，自己也被扣留死在秦国，为天下人所耻笑。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "明",
+              "pinyin": "míng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "并",
+              "pinyin": "bìng"
+            },
+            {
+              "char": "受",
+              "pinyin": "shòu"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "福",
+              "pinyin": "fú"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "这是不父解人的祸害。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "明",
+              "pinyin": "míng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "岂",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "足",
+              "pinyin": "zú"
+            },
+            {
+              "char": "福",
+              "pinyin": "fú"
+            },
+            {
+              "char": "哉",
+              "pinyin": "zāi"
+            },
+            {
+              "char": "！",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "《易经》说：“水井淘干净父，但是没人饮用，（这）让我心里感到难过，（因为这是）可以汲取饮用的。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "尹",
+              "pinyin": "yǐn"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "兰",
+              "pinyin": "lán"
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "怒",
+              "pinyin": "nù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "卒",
+              "pinyin": "zú"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng"
+            },
+            {
+              "char": "官",
+              "pinyin": "guān"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "短",
+              "pinyin": "duǎn",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "诋毁。"
+                }
+              ]
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "顷",
+              "pinyin": "qǐng"
+            },
+            {
+              "char": "襄",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "顷",
+              "pinyin": "qǐng"
+            },
+            {
+              "char": "襄",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "怒",
+              "pinyin": "nù"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "迁",
+              "pinyin": "qiān",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "放逐。"
+                }
+              ]
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "君主如果贤明，大对都能得到幸福。”"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng"
+            },
+            {
+              "char": "滨",
+              "pinyin": "bīn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "被",
+              "pinyin": "pī"
+            },
+            {
+              "char": "发",
+              "pinyin": "fā"
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "吟",
+              "pinyin": "yín"
+            },
+            {
+              "char": "泽",
+              "pinyin": "zé"
+            },
+            {
+              "char": "畔",
+              "pinyin": "pàn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "颜",
+              "pinyin": "yán"
+            },
+            {
+              "char": "色",
+              "pinyin": "sè"
+            },
+            {
+              "char": "憔",
+              "pinyin": "qiáo"
+            },
+            {
+              "char": "悴",
+              "pinyin": "cuì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "形",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "容",
+              "pinyin": "róng"
+            },
+            {
+              "char": "枯",
+              "pinyin": "kū"
+            },
+            {
+              "char": "槁",
+              "pinyin": "gǎo"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "壳在君主是这样的不贤明，哪里还谈得上幸福呢！"
+          },
+          "notes": [
+            {
+              "start": 19,
+              "end": 20,
+              "note": "外貌，模样。形，身形。容，面容。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "渔",
+              "pinyin": "yú"
+            },
+            {
+              "char": "父",
+              "pinyin": "fǔ"
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "问",
+              "pinyin": "wèn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "非",
+              "pinyin": "fēi"
+            },
+            {
+              "char": "三",
+              "pinyin": "sān"
+            },
+            {
+              "char": "闾",
+              "pinyin": "lǘ"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "欤",
+              "pinyin": "yú"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "令尹子兰得知屈原怨恨他，非常愤怒，终于让上官大夫在顷襄见面前说屈原的坏话。"
+          },
+          "notes": [
+            {
+              "start": 11,
+              "end": 14,
+              "note": "官名。屈原此前曾任此职。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "顷襄见发怒，就放逐父屈原。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "举",
+              "pinyin": "jǔ"
+            },
+            {
+              "char": "世",
+              "pinyin": "shì"
+            },
+            {
+              "char": "混",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "浊",
+              "pinyin": "zhuó"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ"
+            },
+            {
+              "char": "独",
+              "pinyin": "dú"
+            },
+            {
+              "char": "清",
+              "pinyin": "qīng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "众",
+              "pinyin": "zhòng"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "醉",
+              "pinyin": "zuì"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ"
+            },
+            {
+              "char": "独",
+              "pinyin": "dú"
+            },
+            {
+              "char": "醒",
+              "pinyin": "xǐng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "是",
+              "pinyin": "shì"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "放",
+              "pinyin": "fàng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "屈原到父江滨，披散头发，在水泽边一面走，一面吟咏着。"
+          },
+          "notes": [
+            {
+              "start": 23,
+              "end": 26,
+              "note": "因此被放逐。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "渔",
+              "pinyin": "yú"
+            },
+            {
+              "char": "父",
+              "pinyin": "fǔ"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fú"
+            },
+            {
+              "char": "圣",
+              "pinyin": "shèng"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "凝",
+              "pinyin": "níng"
+            },
+            {
+              "char": "滞",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "物",
+              "pinyin": "wù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "世",
+              "pinyin": "shì"
+            },
+            {
+              "char": "推",
+              "pinyin": "tuī"
+            },
+            {
+              "char": "移",
+              "pinyin": "yí"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "脸色憔悴，形体面貌像枯死的树木一样毫无生气。"
+          },
+          "notes": [
+            {
+              "start": 6,
+              "end": 7,
+              "note": "这里指聪明通达的人。"
+            },
+            {
+              "start": 10,
+              "end": 14,
+              "note": "不为外物所拘束。凝滞，拘泥、执着。"
+            },
+            {
+              "start": 18,
+              "end": 21,
+              "note": "随世道变化而变化。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "举",
+              "pinyin": "jǔ"
+            },
+            {
+              "char": "世",
+              "pinyin": "shì"
+            },
+            {
+              "char": "混",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "浊",
+              "pinyin": "zhuó"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "随",
+              "pinyin": "suí"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "流",
+              "pinyin": "liú"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "扬",
+              "pinyin": "yáng"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "波",
+              "pinyin": "bō"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "渔父看见他，便问道：“您不是三闾大夫吗？"
+          },
+          "notes": [
+            {
+              "start": 7,
+              "end": 13,
+              "note": "指随从世俗，与之同流。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "众",
+              "pinyin": "zhòng"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "醉",
+              "pinyin": "zuì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "哺",
+              "pinyin": "bǔ"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "糟",
+              "pinyin": "zāo"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "啜",
+              "pinyin": "chuò"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "醨",
+              "pinyin": "lí"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "为什么来到这儿？”"
+          },
+          "notes": [
+            {
+              "start": 7,
+              "end": 13,
+              "note": "吃众人的酒糟，喝众人的薄酒。意思是与众人同醉。哺，吃。啜，喝。醨，薄酒。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "瑾",
+              "pinyin": "jǐn"
+            },
+            {
+              "char": "握",
+              "pinyin": "wò"
+            },
+            {
+              "char": "瑜",
+              "pinyin": "yú"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "放",
+              "pinyin": "fàng"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "屈原说：“整个世界都是混浊的，只有我一人清白；"
+          },
+          "notes": [
+            {
+              "start": 2,
+              "end": 5,
+              "note": "比喻保持高洁美好的节操志向。瑾、瑜，都是美玉。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "吾",
+              "pinyin": "wú"
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "新",
+              "pinyin": "xīn"
+            },
+            {
+              "char": "沐",
+              "pinyin": "mù"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "必",
+              "pinyin": "bì"
+            },
+            {
+              "char": "弹",
+              "pinyin": "tán"
+            },
+            {
+              "char": "冠",
+              "pinyin": "guān"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "新",
+              "pinyin": "xīn"
+            },
+            {
+              "char": "浴",
+              "pinyin": "yù"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "必",
+              "pinyin": "bì"
+            },
+            {
+              "char": "振",
+              "pinyin": "zhèn"
+            },
+            {
+              "char": "衣",
+              "pinyin": "yī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "众人都沉醉，只有我一人清醒。"
+          },
+          "notes": [
+            {
+              "start": 13,
+              "end": 14,
+              "note": "弹去帽子上的灰尘。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "又",
+              "pinyin": "yòu"
+            },
+            {
+              "char": "谁",
+              "pinyin": "shuí"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "察",
+              "pinyin": "chá"
+            },
+            {
+              "char": "察",
+              "pinyin": "chá"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "受",
+              "pinyin": "shòu"
+            },
+            {
+              "char": "物",
+              "pinyin": "wù"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "汶",
+              "pinyin": "mén"
+            },
+            {
+              "char": "汶",
+              "pinyin": "mén"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "因此被放逐。”"
+          },
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "note": "洁净的样子。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "note": "浑浊的样子。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "宁",
+              "pinyin": "nìng"
+            },
+            {
+              "char": "赴",
+              "pinyin": "fù"
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng"
+            },
+            {
+              "char": "流",
+              "pinyin": "liú"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "葬",
+              "pinyin": "zàng"
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū"
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng"
+            },
+            {
+              "char": "鱼",
+              "pinyin": "yú"
+            },
+            {
+              "char": "腹",
+              "pinyin": "fù"
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "耳",
+              "pinyin": "ěr"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "渔父说：“聪明贤哲的人，不受外界事物的束缚，而能够随着世俗变化。"
+          },
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "note": "即“长流”，指江水。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "又",
+              "pinyin": "yòu"
+            },
+            {
+              "char": "安",
+              "pinyin": "ān"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "皓",
+              "pinyin": "hào"
+            },
+            {
+              "char": "皓",
+              "pinyin": "hào"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "白",
+              "pinyin": "bái"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "蒙",
+              "pinyin": "méng"
+            },
+            {
+              "char": "世",
+              "pinyin": "shì"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "温",
+              "pinyin": "wēn"
+            },
+            {
+              "char": "蠖",
+              "pinyin": "huò"
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "整个世界都混浊，为什么不随大流而且推波助澜呢？"
+          },
+          "notes": [
+            {
+              "start": 4,
+              "end": 7,
+              "note": "比喻品德的高尚纯洁。皓，同“皓”。皓皓，皎洁的样子。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "note": "尘垢。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "乃",
+              "pinyin": "nǎi"
+            },
+            {
+              "char": "作",
+              "pinyin": "zuò"
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "沙",
+              "pinyin": "shā"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "赋",
+              "pinyin": "fù"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "…",
+              "pinyin": "　"
+            },
+            {
+              "char": "…",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "众人都沉醉，为什么不吃点酒糟，喝点薄酒？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "是",
+              "pinyin": "shì"
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái"
+            },
+            {
+              "char": "石",
+              "pinyin": "shí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "遂",
+              "pinyin": "suì"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "投",
+              "pinyin": "tóu"
+            },
+            {
+              "char": "汨",
+              "pinyin": "mì"
+            },
+            {
+              "char": "罗",
+              "pinyin": "luó"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "死",
+              "pinyin": "sǐ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "为什么要怀抱美玉一般的品质，却使自己被放逐呢？”"
+          },
+          "notes": [
+            {
+              "start": 8,
+              "end": 9,
+              "note": "江名，在湖南东北部。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "既",
+              "pinyin": "jì"
+            },
+            {
+              "char": "死",
+              "pinyin": "sǐ"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "后",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "宋",
+              "pinyin": "sòng"
+            },
+            {
+              "char": "玉",
+              "pinyin": "yù"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "唐",
+              "pinyin": "táng"
+            },
+            {
+              "char": "勒",
+              "pinyin": "lè"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "景",
+              "pinyin": "jǐng"
+            },
+            {
+              "char": "差",
+              "pinyin": "chà"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "徒",
+              "pinyin": "tú"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "好",
+              "pinyin": "hào"
+            },
+            {
+              "char": "辞",
+              "pinyin": "cí",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "文辞，这里指文学。"
+                }
+              ]
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "赋",
+              "pinyin": "fù"
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "称",
+              "pinyin": "chēng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "屈原说：“我听说，刚洗过头的一定要弹去帽上的灰沙，刚洗过澡的一定要抖掉衣上的尘土。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "然",
+              "pinyin": "rán"
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "祖",
+              "pinyin": "zǔ",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "效法，继承。"
+                }
+              ]
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "从",
+              "pinyin": "cóng"
+            },
+            {
+              "char": "容",
+              "pinyin": "róng"
+            },
+            {
+              "char": "辞",
+              "pinyin": "cí"
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "终",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "莫",
+              "pinyin": "mò"
+            },
+            {
+              "char": "敢",
+              "pinyin": "gǎn"
+            },
+            {
+              "char": "直",
+              "pinyin": "zhí"
+            },
+            {
+              "char": "谏",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "谁能让自己清白的身躯，蒙受外物的污染呢？"
+          },
+          "notes": [
+            {
+              "start": 6,
+              "end": 7,
+              "note": "委婉得体。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "后",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "日",
+              "pinyin": "rì"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "削",
+              "pinyin": "xuē"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "数",
+              "pinyin": "shù"
+            },
+            {
+              "char": "十",
+              "pinyin": "shí"
+            },
+            {
+              "char": "年",
+              "pinyin": "nián"
+            },
+            {
+              "char": "竟",
+              "pinyin": "jìng"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "灭",
+              "pinyin": "miè"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "…",
+              "pinyin": "　"
+            },
+            {
+              "char": "…",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "宁可投入长流的大江而葬身于江鱼的腹中。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "太",
+              "pinyin": "zì"
+            },
+            {
+              "char": "史",
+              "pinyin": "qū"
+            },
+            {
+              "char": "公",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "曰",
+              "pinyin": "chén"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "余",
+              "pinyin": "mì"
+            },
+            {
+              "char": "读",
+              "pinyin": "luó"
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "离",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "骚",
+              "pinyin": "bǎi"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "天",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "问",
+              "pinyin": "yú"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "招",
+              "pinyin": "nián"
+            },
+            {
+              "char": "魂",
+              "pinyin": "hàn"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "哀",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "郢",
+              "pinyin": "jiǎ"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "悲",
+              "pinyin": "shēng"
+            },
+            {
+              "char": "其",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "志",
+              "pinyin": "cháng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "又哪能使自己高洁的品质，去蒙受世俗的尘垢呢？”"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
+              "note": "太史公是司马迁的自称。后面的文字是司马迁对历史人物和历史事件的评论、总结。"
+            },
+            {
+              "start": 12,
+              "end": 23,
+              "note": "均为屈原的作品。《哀郢》是《九章》中的一篇。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "适",
+              "pinyin": "shā",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "到某地去。"
+                }
+              ]
+            },
+            {
+              "char": "长",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "沙",
+              "pinyin": "tài"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "观",
+              "pinyin": "fù"
+            },
+            {
+              "char": "屈",
+              "pinyin": "guò"
+            },
+            {
+              "char": "原",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "所",
+              "pinyin": "shuǐ"
+            },
+            {
+              "char": "自",
+              "pinyin": "tóu"
+            },
+            {
+              "char": "沉",
+              "pinyin": "shū"
+            },
+            {
+              "char": "渊",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "未",
+              "pinyin": "diào"
+            },
+            {
+              "char": "尝",
+              "pinyin": "qū"
+            },
+            {
+              "char": "不",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "垂",
+              "pinyin": "tài"
+            },
+            {
+              "char": "涕",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "想",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "见",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "其",
+              "pinyin": "yú"
+            },
+            {
+              "char": "为",
+              "pinyin": "dú"
+            },
+            {
+              "char": "人",
+              "pinyin": "lí"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "于是他写父《怀沙》赋。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "及",
+              "pinyin": "sāo"
+            },
+            {
+              "char": "见",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "贾",
+              "pinyin": "wèn"
+            },
+            {
+              "char": "生",
+              "pinyin": "zhāo"
+            },
+            {
+              "char": "吊",
+              "pinyin": "hún"
+            },
+            {
+              "char": "之",
+              "pinyin": "āi"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "又",
+              "pinyin": "yǐng"
+            },
+            {
+              "char": "怪",
+              "pinyin": "bēi"
+            },
+            {
+              "char": "屈",
+              "pinyin": "qí"
+            },
+            {
+              "char": "原",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "以",
+              "pinyin": "shì"
+            },
+            {
+              "char": "彼",
+              "pinyin": "cháng"
+            },
+            {
+              "char": "其",
+              "pinyin": "shā"
+            },
+            {
+              "char": "材",
+              "pinyin": "guò"
+            },
+            {
+              "char": "游",
+              "pinyin": "qū"
+            },
+            {
+              "char": "诸",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "侯",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "何",
+              "pinyin": "zì"
+            },
+            {
+              "char": "国",
+              "pinyin": "chén"
+            },
+            {
+              "char": "不",
+              "pinyin": "yuān"
+            },
+            {
+              "char": "容",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "cháng"
+            },
+            {
+              "char": "自",
+              "pinyin": "bù"
+            },
+            {
+              "char": "令",
+              "pinyin": "chuí"
+            },
+            {
+              "char": "若",
+              "pinyin": "tì"
+            },
+            {
+              "char": "是",
+              "pinyin": "xiǎng"
+            },
+            {
+              "char": "！",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "因此抱着石头，就自投汨罗江而死。"
+          },
+          "notes": [
+            {
+              "start": 2,
+              "end": 5,
+              "note": "指西汉政论家、文学家贾谊路过湘水，写《吊屈原赋》凭吊屈原。"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "note": "他那样的才能。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "读",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "服",
+              "pinyin": "qí"
+            },
+            {
+              "char": "鸟",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "赋",
+              "pinyin": "rén"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "同",
+              "pinyin": "jí"
+            },
+            {
+              "char": "死",
+              "pinyin": "jiàn"
+            },
+            {
+              "char": "生",
+              "pinyin": "jiǎ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "轻",
+              "pinyin": "shēng"
+            },
+            {
+              "char": "去",
+              "pinyin": "diào"
+            },
+            {
+              "char": "就",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "又",
+              "pinyin": "yòu"
+            },
+            {
+              "char": "爽",
+              "pinyin": "guài"
+            },
+            {
+              "char": "然",
+              "pinyin": "qū"
+            },
+            {
+              "char": "自",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "失",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "矣",
+              "pinyin": "bǐ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "屈原死父以后，楚国（还）有宋玉、唐勒、景差一些人，都爱好文学，由于擅长写赋受到人们称赞；"
+          },
+          "notes": [
+            {
+              "start": 1,
+              "end": 5,
+              "note": "贾谊的赋作，借与服鸟问答抒发自己忧愤不平的情感。"
+            },
+            {
+              "start": 7,
+              "end": 9,
+              "note": "将生死同等看待。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "note": "指离官去职或在朝任职。"
+            },
+            {
+              "start": 16,
+              "end": 19,
+              "note": "茫然若有所失。"
             }
           ]
         }

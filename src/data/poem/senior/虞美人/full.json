@@ -1,0 +1,620 @@
+{
+  "name": "虞美人",
+  "author": "李煜",
+  "dynasty": "五代",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "春",
+              "pinyin": "chūn",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "花",
+              "pinyin": "huā",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "了",
+              "pinyin": "liǎo",
+              "index": 6,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "",
+              "index": 7,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "春花年年开，秋月夜夜圆，这种时日什么时候才能结束呢？",
+          "pinyin": "chūn huā qiū yuè hé shí liǎo ？",
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
+              "content": "指季节的更替。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "往",
+              "pinyin": "wǎng",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "事",
+              "pinyin": "shì",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "多",
+              "pinyin": "duō",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "少",
+              "pinyin": "shǎo",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 13,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "过去的事情还记得多少。",
+          "pinyin": "wǎng shì zhī duō shǎo 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 4,
+              "content": "意思是多少往事都难以忘却。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "小",
+              "pinyin": "xiǎo",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楼",
+              "pinyin": "lóu",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "昨",
+              "pinyin": "zuó",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "又",
+              "pinyin": "yòu",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "故",
+              "pinyin": "gù",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "堪",
+              "pinyin": "kān",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "回",
+              "pinyin": "huí",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "首",
+              "pinyin": "shǒu",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 31,
+              "read": false,
+              "write": false,
+              "pinyin": ""
+            }
+          ],
+          "translation": "昨夜小楼上又吹来了春风，在这皓月当空的夜晚哪里忍受得了回忆故国的伤痛。",
+          "pinyin": "xiǎo lóu zuó yè yòu dōng fēng ，gù guó bù kān huí shǒu yuè míng zhōng 。",
+          "notes": [
+            {
+              "start": 8,
+              "end": 9,
+              "content": "指南唐。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "雕",
+              "pinyin": "diāo",
+              "index": 32,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "栏",
+              "pinyin": "lán",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "玉",
+              "pinyin": "yù",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "砌",
+              "pinyin": "qì",
+              "index": 35,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "应",
+              "pinyin": "yīng",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "犹",
+              "pinyin": "yóu",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "只",
+              "pinyin": "zhǐ",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "朱",
+              "pinyin": "zhū",
+              "index": 42,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "颜",
+              "pinyin": "yán",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "改",
+              "pinyin": "gǎi",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 45,
+              "read": false,
+              "write": false,
+              "pinyin": ""
+            }
+          ],
+          "translation": "精雕细刻的栏杆和玉石砌成的台阶应该都还在，只是住在里面的人已经衰老。",
+          "pinyin": "diāo lán yù qì yīng yóu zài ，zhǐ shì zhū yán gǎi 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
+              "content": "雕饰华美的栏杆与用玉石砌成的台阶，指宫殿建筑。"
+            },
+            {
+              "start": 10,
+              "end": 12,
+              "content": "红润的容颜改变了，指人已憔悴。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 10,
+              "end": 11,
+              "old": "红润的容颜，常代指美人或青春"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "new": "现代汉语中极少使用该词，‘朱’多用于颜色描述，‘颜’泛指面容"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "old": "红润的容颜或宫廷美人，象征青春与繁华"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "new": "仅指红色的脸色，语义范围缩小，失去象征意义"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "问",
+              "pinyin": "wèn",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "能",
+              "pinyin": "néng",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "几",
+              "pinyin": "jǐ",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "多",
+              "pinyin": "duō",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "",
+              "index": 53,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "要问我心中有多少哀愁，",
+          "pinyin": "wèn jūn néng yǒu jǐ duō chóu ？",
+          "notes": [
+            {
+              "start": 4,
+              "end": 5,
+              "content": "多少。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 7,
+              "content": "宾语前置：‘几多愁’为宾语，置于动词‘有’之前，正常语序应为‘能有愁几多’。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "恰",
+              "pinyin": "qià",
+              "index": 54,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "似",
+              "pinyin": "sì",
+              "index": 55,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "春",
+              "pinyin": "chūn",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "向",
+              "pinyin": "xiàng",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "流",
+              "pinyin": "liú",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 63,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "就像那滚滚东流的春江之水没有尽头。",
+          "pinyin": "qià sì yī jiāng chūn shuǐ xiàng dōng liú 。",
+          "notes": [],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 9,
+              "content": "状语后置：‘向东’为状语，修饰‘流’，正常语序应为‘向东流’，此处为强调方向而延展。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "必修上",
+    "词",
+    "背默"
+  ],
+  "background": "此词与《浪淘沙·帘外雨潺潺》均作于李煜被毒死之前，为北宋太宗太平兴国三年（公元978年），是时李煜归宋已近三年。宋太祖开宝八年（公元975年），宋军攻破南唐都城金陵，李煜奉表投降，南唐灭亡。三年后，即太平兴国三年，徐铉奉宋太宗之命探视李煜，李煜对徐铉叹曰：“当初我错杀潘佑、李平，悔之不已！”大概是在这种心境下，李煜写下了这首《虞美人》词。",
+  "appreciation": "《虞美人》是南唐后主李煜的绝笔之作。这首词是一曲生命的哀歌，作者将自然永恒与人生无常的尖锐矛盾进行对比，抒发了亡国后顿感生命落空的悲哀。全词语言明净、凝练、优美、清新，以问起，以答结，由问天、问人而到自问，情感深沉而激越。其艺术结构曲折回旋，情感表达沛然莫御，形成一种凄楚与激越交织的美感，令人回味无穷。",
+  "recommends": [
+    {
+      "title": "相见欢·无言独上西楼",
+      "author": "李煜",
+      "dynasty": "五代",
+      "quote": "无言独上西楼，月如钩。寂寞梧桐深院锁千秋。"
+    },
+    {
+      "title": "浪淘沙令·帘外雨潺潺",
+      "author": "李煜",
+      "dynasty": "五代",
+      "quote": "帘外雨潺潺，春意阑珊。罗衾不耐五更寒。"
+    },
+    {
+      "title": "声声慢",
+      "author": "李清照",
+      "dynasty": "宋",
+      "quote": "寻寻觅觅，冷冷清清，凄凄惨惨戚戚。"
+    },
+    {
+      "title": "雨霖铃·寒蝉凄切",
+      "author": "柳永",
+      "dynasty": "宋",
+      "quote": "今宵酒醒何处？杨柳岸，晓风残月。"
+    }
+  ],
+  "videos": [
+    {
+      "title": "女扮男装跳李煜的《虞美人》有多好看？",
+      "url": "https://www.bilibili.com/video/BV1UT42167pQ/"
+    },
+    {
+      "title": "【戴建业】李煜的“绝命词”写得有多绝？详解《虞美人》",
+      "url": "https://www.bilibili.com/video/BV1794y1i7YZ/"
+    }
+  ]
+}

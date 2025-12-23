@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="小圣施威降大圣"
+  author="吴承恩"
+  dynasty="明代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《小圣施威降大圣》是2024年统编人教版初中语文七年级上册第21课的课文。这篇课文节选自《西游记》第六回，原标题为“观音赴会问原因，小圣施威降大圣”。这篇文章的核心是二郎神与孙悟空的斗法，写得妙趣横生又紧张刺激。双方从法天象地的大战，到麻雀对饿鹰、鱼儿对鱼鹰的连环变化，再到孙悟空变土地庙露破绽、假扮二郎神骗庙官，每处情节都鲜活灵动。既凸显孙悟空的机敏狡黠，也衬出二郎神的沉稳善战，加上众神协助、照妖镜助力的细节，让打斗场面热闹却不混乱，把神魔斗法的奇幻感与趣味性拉满。

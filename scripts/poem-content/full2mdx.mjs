@@ -25,31 +25,39 @@ import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
 <MemorizeContextProvider>
   <PoemPreview data={{ mode: "${data.mode}", preview: previewData.preview }} />
 </MemorizeContextProvider>
+`;
 
+  // 检查是否有推荐数据
+  if (data.background && data.background.length > 0) {
+    mdxContent += `
 ## 写作背景
 
-${data.background || "暂无写作背景。"}
+${data.background}
+`}
 
+  // 检查是否有推荐数据
+  if (data.appreciation && data.appreciation.length > 0) {
+    mdxContent += `
 ## 作品赏析
 
-${data.appreciation || "暂无内容赏析。"}`;
+${data.appreciation}
+`}
 
   // 检查是否有推荐数据
   if (data.recommends && Array.isArray(data.recommends) && data.recommends.length > 0) {
     mdxContent += `
-
 ## 猜你还想学
 
-<PoemQuoteCards poems={${JSON.stringify(data.recommends)}} className="my-4" />`;
+<PoemQuoteCards poems = {${JSON.stringify(data.recommends)}} className = "my-4" /> 
+  `;
   }
 
   // 检查是否有视频数据
   if (data.videos && Array.isArray(data.videos) && data.videos.length > 0) {
     mdxContent += `
-
 ## 更多学习视频
 
-<BilibiliVideos videos={${JSON.stringify(data.videos)}} />`;
+<BilibiliVideos videos = {${JSON.stringify(data.videos)}} />`;
   }
 
   return mdxContent;

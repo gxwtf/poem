@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="旅夜书怀"
+  author="杜甫"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　唐代宗永泰元年（公元765年）正月，杜甫辞去节度参谋职务，返居成都草堂。（公元765年）四月，严武死去，杜甫在成都失去依靠，遂携家由成都乘舟东下，经嘉州（今四川乐山）、渝州（今重庆市）至忠州（今重庆忠县）。此诗约为途中所作。
+
+## 作品赏析
+
+　　《旅夜书怀》是一首五言律诗。这首诗既写旅途风情，更感伤老年多病、漂泊无依的心境。首联写江夜近景，营造了孤舟月夜的清寂情境。颔联写远景，雄浑阔大，“星垂”烘托出原野之广阔，‘“月涌”渲染出江流之气势，以乐景写哀情，反衬出诗人孤苦伶仃的形象和颠连无告的凄怆心情。颈联正话反说，抒发休官的忧愤之感。诗人的名声因文章而显赫，告病辞官，是由于其远大的政治抱负长期被压抑而不能施展。尾联诗人以沙鸥自比，转徙江湖，声声哀叹，感人至深。全诗前二联写点明“旅夜”，后二联紧扣“书怀”，景中有情，融情于景，内容深刻，格调清丽，结构谨严，是杜甫诗歌中的经典作品。

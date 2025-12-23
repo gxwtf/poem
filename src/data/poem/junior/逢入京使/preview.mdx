@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="逢入京使"
+  author="岑参"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　根据刘开扬《岑参诗集编年笺注·岑参年谱》，此诗作于唐玄宗天宝八载（749）诗人赴安西（今新疆维吾尔自治区库车县）上任途中。
+
+## 作品赏析
+
+　　《逢入京使》是一首边塞诗。此诗描写了诗人远涉边塞，路逢回京使者，托其捎带平安口信，以安慰家中悬望的家人的典型场面。旅途的颠沛流离、思乡的肝肠寸断都在诗中得到了深刻的揭示，具有浓烈的人情味。全诗语言朴素自然，清新明快，余味深长，其中包含着两大情怀：思乡之情与渴望建功立业之情，一亲情一豪情，交织相融，感人至深。

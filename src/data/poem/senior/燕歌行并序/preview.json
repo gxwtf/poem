@@ -5,6 +5,191 @@
         {
           "sentence": [
             {
+              "char": "开",
+              "pinyin": "kāi"
+            },
+            {
+              "char": "元",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "二",
+              "pinyin": "èr"
+            },
+            {
+              "char": "十",
+              "pinyin": "shí"
+            },
+            {
+              "char": "六",
+              "pinyin": "liù"
+            },
+            {
+              "char": "年",
+              "pinyin": "nián"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "客",
+              "pinyin": "kè"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "从",
+              "pinyin": "cóng"
+            },
+            {
+              "char": "元",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "戎",
+              "pinyin": "róng"
+            },
+            {
+              "char": "出",
+              "pinyin": "chū"
+            },
+            {
+              "char": "塞",
+              "pinyin": "sāi"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "还",
+              "pinyin": "huán"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "作",
+              "pinyin": "zuò"
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "燕",
+              "pinyin": "yàn"
+            },
+            {
+              "char": "歌",
+              "pinyin": "gē"
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "示",
+              "pinyin": "shì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "适",
+              "pinyin": "shì"
+            },
+            {
+              "char": "感",
+              "pinyin": "gǎn"
+            },
+            {
+              "char": "征",
+              "pinyin": "zhēng"
+            },
+            {
+              "char": "戍",
+              "pinyin": "shù"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "事",
+              "pinyin": "shì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "因",
+              "pinyin": "yīn"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "和",
+              "pinyin": "hè",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "按照别人诗词的题材和体裁作诗词，作为酬答。"
+                }
+              ]
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "唐玄宗开元二十六年，有了随从主帅出塞回来的人，写了一首《燕歌行》给我看。"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 5,
+              "note": "公元738年。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "note": "主将。指辅国大将军、右羽林大将军兼御史大夫张守珪。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
               "char": "汉",
               "pinyin": "hàn"
             },
@@ -70,33 +255,23 @@
             }
           ],
           "translation": {
-            "translation": "唐朝边境举烟火狼烟东北起尘土，唐朝将军辞家去欲破残忍之边贼。"
+            "translation": "我感慨首边疆戍守的事，因而写了这首《燕歌行》应和他。"
           },
           "notes": [
             {
               "start": 0,
               "end": 1,
-              "note": "汉家：汉朝，此处借指唐朝。唐人常以汉喻唐。"
+              "note": "唐人写时事，常托之于汉代。下文“汉将”，用法与此相类。"
             },
             {
               "start": 2,
-              "end": 4,
-              "note": "烟尘：烽烟和尘土，指战争、战事。"
+              "end": 3,
+              "note": "烽烟和尘土，指战乱。"
             },
             {
-              "start": 8,
-              "end": 9,
-              "note": "汉将：汉朝将领，此处借指唐将。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "note": "辞家：告别家人，指出征。"
-            },
-            {
-              "start": 12,
-              "end": 15,
-              "note": "破残贼：击败残暴的敌人。贼，对敌人的蔑称。"
+              "start": 13,
+              "end": 14,
+              "note": "指残忍暴虐的敌寇。"
             }
           ]
         }
@@ -172,28 +347,18 @@
             }
           ],
           "translation": {
-            "translation": "战士们本来在战场上就所向无敌，皇帝又特别给予他们丰厚的赏赐。"
+            "translation": "汉朝东北边境战事又起，将军离家前去别讨贼寇。"
           },
           "notes": [
             {
               "start": 0,
-              "end": 1,
-              "note": "男儿：男子汉，战士。"
+              "end": 6,
+              "note": "男子汉本来就重视在战场上纵横驰骋。"
             },
             {
-              "start": 2,
-              "end": 7,
-              "note": "本自重横行：本来就看重纵横驰骋、征战四方。横行，指驰骋沙场，所向无敌。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "note": "天子：皇帝。"
-            },
-            {
-              "start": 10,
-              "end": 15,
-              "note": "非常赐颜色：特别给予厚遇和赏赐。颜色，指面子、恩宠。"
+              "start": 12,
+              "end": 14,
+              "note": "指给予褒奖恩宠。"
             }
           ]
         }
@@ -269,28 +434,33 @@
             }
           ],
           "translation": {
-            "translation": "锣声响彻重鼓棰声威齐出山海关，旌旗迎风又逶迤猎猎碣石之山间。"
+            "translation": "男儿本来就看重驰骋沙场，杀敌打仗，皇帝又特别给予他们丰厚的赏赐。"
           },
           "notes": [
             {
               "start": 0,
               "end": 3,
-              "note": "摐金伐鼓：敲锣打鼓。摐，撞击；金，指钲、铃一类金属乐器；伐，击打；鼓，战鼓。"
+              "note": "指击打钲、铙之类的金属乐器和鼓，作为行军指挥信号。摐，撞击。金，指军中作信号用的钲、铙等金属乐器。伐，敲击。"
             },
             {
-              "start": 4,
+              "start": 5,
               "end": 6,
-              "note": "下榆关：出山海关。榆关，即山海关。"
+              "note": "古关名，即今山海关（在今河北秦皇岛）。"
             },
             {
               "start": 8,
+              "end": 9,
+              "note": "旗帜。"
+            },
+            {
+              "start": 10,
               "end": 11,
-              "note": "旌旆逶迤：军旗飘扬，蜿蜒绵长。旌旆，泛指旗帜；逶迤，曲折前进的样子。"
+              "note": "舒展的样子。"
             },
             {
               "start": 12,
-              "end": 14,
-              "note": "碣石间：在碣石山一带。碣石，山名，在今河北昌黎西北。"
+              "end": 13,
+              "note": "山名，在今河北昌黎西北。"
             }
           ]
         }
@@ -366,33 +536,33 @@
             }
           ],
           "translation": {
-            "translation": "校尉紧急传羽书飞奔浩瀚之沙海，匈奴单于举猎火光照已到我狼山。"
+            "translation": "擂响金鼓，军队浩浩荡荡开出山海关外，旌旗舒展飘扬在碣石山间。"
           },
           "notes": [
             {
               "start": 0,
               "end": 1,
-              "note": "校尉：武官名，级别低于将军。"
+              "note": "武官名。"
             },
             {
               "start": 2,
               "end": 3,
-              "note": "羽书：插有羽毛的紧急军事文书。"
+              "note": "即羽檄，古代军事文书，插鸟羽以示紧急，必须迅速传递。"
             },
             {
-              "start": 4,
-              "end": 7,
-              "note": "飞瀚海：飞越沙漠。瀚海，指沙漠。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "note": "单于：匈奴君主的称号，此处泛指敌方首领。"
+              "start": 5,
+              "end": 6,
+              "note": "唐代对蒙古高原大沙漠以北及其迤西今准噶尔盆地一带广大地区的泛称。"
             },
             {
               "start": 10,
-              "end": 15,
-              "note": "猎火照狼山：狩猎的火光照亮了狼山。猎火，狩猎时点燃的火把，此处指战火；狼山，泛指敌方活动的地域。"
+              "end": 11,
+              "note": "打猎时焚山驱兽之火，借指游牧民族兴兵打仗的战火。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "note": "古代称狼山者不止一处，这里借指边地交战区域的山。"
             }
           ]
         }
@@ -448,19 +618,19 @@
             },
             {
               "char": "陵",
-              "pinyin": "líng"
+              "pinyin": "língzá"
             },
             {
               "char": "杂",
-              "pinyin": "zá"
-            },
-            {
-              "char": "风",
               "pinyin": "fēng"
             },
             {
-              "char": "雨",
+              "char": "风",
               "pinyin": "yǔ"
+            },
+            {
+              "char": "雨",
+              "pinyin": "zhàn"
             },
             {
               "char": "。",
@@ -468,33 +638,18 @@
             }
           ],
           "translation": {
-            "translation": "山河荒芜多萧条满目凄凉到边土，胡人骑兵仗威力兵器声里夹风雨。"
+            "translation": "校尉飞奔过浩瀚沙海，紧急传递文书，匈奴单首打猎时点燃的火光已照到我狼山。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 4,
-              "note": "山川萧条：山河荒凉冷落。萧条，荒凉、寂寥。"
-            },
-            {
               "start": 5,
-              "end": 7,
-              "note": "极边土：直到边疆的尽头。极，尽、到达。"
+              "end": 6,
+              "note": "即边地，靠近边境的地域。"
             },
             {
               "start": 8,
-              "end": 9,
-              "note": "胡骑：胡人的骑兵。胡，古代对北方少数民族的泛称。"
-            },
-            {
-              "start": 10,
-              "end": 12,
-              "note": "凭陵：侵犯、欺凌。"
-            },
-            {
-              "start": 13,
-              "end": 15,
-              "note": "杂风雨：夹杂着风雨，形容敌军进攻猛烈如暴风雨。"
+              "end": 14,
+              "note": "指敌人侵犯，来势凶猛如同风雨交加。胡骑，这里指契丹人、奚人的军队。凭陵，逼压。"
             }
           ]
         }
@@ -506,31 +661,31 @@
           "sentence": [
             {
               "char": "战",
-              "pinyin": "zhàn"
-            },
-            {
-              "char": "士",
               "pinyin": "shì"
             },
             {
-              "char": "军",
+              "char": "士",
               "pinyin": "jūn"
             },
             {
-              "char": "前",
+              "char": "军",
               "pinyin": "qián"
             },
             {
-              "char": "半",
+              "char": "前",
               "pinyin": "bàn"
             },
             {
-              "char": "死",
+              "char": "半",
               "pinyin": "sǐ"
             },
             {
-              "char": "生",
+              "char": "死",
               "pinyin": "shēng"
+            },
+            {
+              "char": "生",
+              "pinyin": "měi"
             },
             {
               "char": "，",
@@ -538,31 +693,31 @@
             },
             {
               "char": "美",
-              "pinyin": "měi"
-            },
-            {
-              "char": "人",
               "pinyin": "rén"
             },
             {
-              "char": "帐",
+              "char": "人",
               "pinyin": "zhàng"
             },
             {
-              "char": "下",
+              "char": "帐",
               "pinyin": "xià"
             },
             {
-              "char": "犹",
+              "char": "下",
               "pinyin": "yóu"
             },
             {
-              "char": "歌",
+              "char": "犹",
               "pinyin": "gē"
             },
             {
-              "char": "舞",
+              "char": "歌",
               "pinyin": "wǔ"
+            },
+            {
+              "char": "舞",
+              "pinyin": "dà"
             },
             {
               "char": "。",
@@ -570,18 +725,23 @@
             }
           ],
           "translation": {
-            "translation": "战士拼斗军阵前半数死去半生还，美人却在营帐中还是歌来还是舞！"
+            "translation": "山河荒芜多萧条，满目凄凉到边土，胡人的骑兵来势凶猛，如风雨交加。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "note": "军前半死生：战士们在前线一半生一半死，伤亡惨重。"
+              "start": 2,
+              "end": 3,
+              "note": "战场。"
             },
             {
-              "start": 8,
-              "end": 15,
-              "note": "美人帐下犹歌舞：将领的营帐中美人还在唱歌跳舞，暗示将领生活腐化，不顾士卒死活。"
+              "start": 4,
+              "end": 6,
+              "note": "死生各半，指伤亡惨重。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "note": "指统帅的营帐中。"
             }
           ]
         }
@@ -593,31 +753,37 @@
           "sentence": [
             {
               "char": "大",
-              "pinyin": "dà"
-            },
-            {
-              "char": "漠",
               "pinyin": "mò"
             },
             {
-              "char": "穷",
+              "char": "漠",
               "pinyin": "qióng"
             },
             {
-              "char": "秋",
+              "char": "穷",
               "pinyin": "qiū"
             },
             {
-              "char": "塞",
+              "char": "秋",
               "pinyin": "sài"
             },
             {
-              "char": "草",
+              "char": "塞",
               "pinyin": "cǎo"
             },
             {
-              "char": "腓",
+              "char": "草",
               "pinyin": "féi"
+            },
+            {
+              "char": "腓",
+              "pinyin": "gū",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "枯萎。"
+                }
+              ]
             },
             {
               "char": "，",
@@ -625,31 +791,31 @@
             },
             {
               "char": "孤",
-              "pinyin": "gū"
-            },
-            {
-              "char": "城",
               "pinyin": "chéng"
             },
             {
-              "char": "落",
+              "char": "城",
               "pinyin": "luò"
             },
             {
-              "char": "日",
+              "char": "落",
               "pinyin": "rì"
             },
             {
-              "char": "斗",
+              "char": "日",
               "pinyin": "dòu"
             },
             {
-              "char": "兵",
+              "char": "斗",
               "pinyin": "bīng"
             },
             {
-              "char": "稀",
+              "char": "兵",
               "pinyin": "xī"
+            },
+            {
+              "char": "稀",
+              "pinyin": "shēn"
             },
             {
               "char": "。",
@@ -657,18 +823,13 @@
             }
           ],
           "translation": {
-            "translation": "时值深秋大沙漠塞外百草尽凋枯，孤城一片映落日战卒越斗越稀少。"
+            "translation": "战士在前线杀得昏天黑地，不辨死生；"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "note": "大漠穷秋塞草腓：深秋的大漠边塞草木枯萎。穷秋，深秋；腓，枯萎。"
-            },
-            {
-              "start": 8,
-              "end": 15,
-              "note": "孤城落日斗兵稀：孤城落日下，能战斗的士兵越来越少。斗兵，能战斗的士兵。"
+              "start": 2,
+              "end": 3,
+              "note": "晚秋，深秋。"
             }
           ]
         }
@@ -680,31 +841,37 @@
           "sentence": [
             {
               "char": "身",
-              "pinyin": "shēn"
-            },
-            {
-              "char": "当",
               "pinyin": "dāng"
             },
             {
-              "char": "恩",
-              "pinyin": "ēn"
+              "char": "当",
+              "pinyin": "ēn",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "承受。"
+                }
+              ]
             },
             {
-              "char": "遇",
+              "char": "恩",
               "pinyin": "yù"
             },
             {
-              "char": "常",
+              "char": "遇",
               "pinyin": "cháng"
             },
             {
-              "char": "轻",
+              "char": "常",
               "pinyin": "qīng"
             },
             {
-              "char": "敌",
+              "char": "轻",
               "pinyin": "dí"
+            },
+            {
+              "char": "敌",
+              "pinyin": "lì"
             },
             {
               "char": "，",
@@ -712,31 +879,31 @@
             },
             {
               "char": "力",
-              "pinyin": "lì"
-            },
-            {
-              "char": "尽",
               "pinyin": "jìn"
             },
             {
-              "char": "关",
+              "char": "尽",
               "pinyin": "guān"
             },
             {
-              "char": "山",
+              "char": "关",
               "pinyin": "shān"
             },
             {
-              "char": "未",
+              "char": "山",
               "pinyin": "wèi"
             },
             {
-              "char": "解",
+              "char": "未",
               "pinyin": "jiě"
             },
             {
-              "char": "围",
+              "char": "解",
               "pinyin": "wéi"
+            },
+            {
+              "char": "围",
+              "pinyin": "tiě"
             },
             {
               "char": "。",
@@ -744,18 +911,13 @@
             }
           ],
           "translation": {
-            "translation": "身受皇家深恩义常思报国轻寇敌，边塞之地尽力量尚未破除匈奴围。"
+            "translation": "将军们依然逍遥自在地在营帐中观赏美人的歌地！"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "note": "身当恩遇常轻敌：身受朝廷恩宠常常轻视敌人。恩遇，恩宠和优待。"
-            },
-            {
-              "start": 8,
-              "end": 15,
-              "note": "力尽关山未解围：尽力作战也未能解除关山之围。"
+              "start": 2,
+              "end": 3,
+              "note": "天子的知遇之恩。"
             }
           ]
         }
@@ -767,31 +929,31 @@
           "sentence": [
             {
               "char": "铁",
-              "pinyin": "tiě"
-            },
-            {
-              "char": "衣",
               "pinyin": "yī"
             },
             {
-              "char": "远",
+              "char": "衣",
               "pinyin": "yuǎn"
             },
             {
-              "char": "戍",
+              "char": "远",
               "pinyin": "shù"
             },
             {
-              "char": "辛",
+              "char": "戍",
               "pinyin": "xīn"
             },
             {
-              "char": "勤",
+              "char": "辛",
               "pinyin": "qín"
             },
             {
-              "char": "久",
+              "char": "勤",
               "pinyin": "jiǔ"
+            },
+            {
+              "char": "久",
+              "pinyin": "yù"
             },
             {
               "char": "，",
@@ -799,31 +961,31 @@
             },
             {
               "char": "玉",
-              "pinyin": "yù"
-            },
-            {
-              "char": "箸",
               "pinyin": "zhù"
             },
             {
-              "char": "应",
+              "char": "箸",
               "pinyin": "yīng"
             },
             {
-              "char": "啼",
+              "char": "应",
               "pinyin": "tí"
             },
             {
-              "char": "别",
+              "char": "啼",
               "pinyin": "bié"
             },
             {
-              "char": "离",
+              "char": "别",
               "pinyin": "lí"
             },
             {
-              "char": "后",
+              "char": "离",
               "pinyin": "hòu"
+            },
+            {
+              "char": "后",
+              "pinyin": "shǎo"
             },
             {
               "char": "。",
@@ -831,23 +993,18 @@
             }
           ],
           "translation": {
-            "translation": "身穿铁甲守边远疆场辛勤已长久，珠泪纷落挂双目丈夫远去独啼哭。"
+            "translation": "深秋季节，塞外沙漠上草木枯萎；"
           },
           "notes": [
             {
               "start": 0,
-              "end": 7,
-              "note": "铁衣远戍辛勤久：穿着铁甲远戍边疆辛苦已久。铁衣，铠甲；远戍，戍守边疆。"
+              "end": 1,
+              "note": "用铁片制作的战衣，借指战士。"
             },
             {
               "start": 8,
-              "end": 10,
-              "note": "玉箸：玉制的筷子，比喻思妇的眼泪。"
-            },
-            {
-              "start": 11,
-              "end": 15,
-              "note": "应啼别离后：应该在离别后哭泣。"
+              "end": 9,
+              "note": "玉制筷子，比喻思妇的眼泪。"
             }
           ]
         }
@@ -859,31 +1016,31 @@
           "sentence": [
             {
               "char": "少",
-              "pinyin": "shào"
-            },
-            {
-              "char": "妇",
               "pinyin": "fù"
             },
             {
-              "char": "城",
+              "char": "妇",
               "pinyin": "chéng"
             },
             {
-              "char": "南",
+              "char": "城",
               "pinyin": "nán"
             },
             {
-              "char": "欲",
+              "char": "南",
               "pinyin": "yù"
             },
             {
-              "char": "断",
+              "char": "欲",
               "pinyin": "duàn"
             },
             {
-              "char": "肠",
+              "char": "断",
               "pinyin": "cháng"
+            },
+            {
+              "char": "肠",
+              "pinyin": "zhēng"
             },
             {
               "char": "，",
@@ -891,31 +1048,31 @@
             },
             {
               "char": "征",
-              "pinyin": "zhēng"
-            },
-            {
-              "char": "人",
               "pinyin": "rén"
             },
             {
-              "char": "蓟",
+              "char": "人",
               "pinyin": "jì"
             },
             {
-              "char": "北",
+              "char": "蓟",
               "pinyin": "běi"
             },
             {
-              "char": "空",
+              "char": "北",
               "pinyin": "kōng"
             },
             {
-              "char": "回",
+              "char": "空",
               "pinyin": "huí"
             },
             {
-              "char": "首",
+              "char": "回",
               "pinyin": "shǒu"
+            },
+            {
+              "char": "首",
+              "pinyin": "biān"
             },
             {
               "char": "。",
@@ -923,18 +1080,13 @@
             }
           ],
           "translation": {
-            "translation": "少妇孤单住城南泪下凄伤欲断肠，远征军人驻蓟北依空仰望频回头。"
+            "translation": "日落时分，边城孤危，作战的士兵越打越少。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "note": "少妇城南欲断肠：年轻的妻子在城南思念欲绝。少妇，年轻的妻子；断肠，形容极度悲伤。"
-            },
-            {
-              "start": 8,
-              "end": 15,
-              "note": "征人蓟北空回首：戍卒在蓟北空自回头远望家乡。征人，戍卒；蓟北，泛指北方边地；空，徒然。"
+              "start": 10,
+              "end": 11,
+              "note": "蓟州（今属天津）以北地区。"
             }
           ]
         }
@@ -946,31 +1098,31 @@
           "sentence": [
             {
               "char": "边",
-              "pinyin": "biān"
-            },
-            {
-              "char": "庭",
               "pinyin": "tíng"
             },
             {
-              "char": "飘",
+              "char": "庭",
               "pinyin": "piāo"
             },
             {
-              "char": "飖",
+              "char": "飘",
               "pinyin": "yáo"
             },
             {
-              "char": "那",
+              "char": "飖",
               "pinyin": "nà"
             },
             {
-              "char": "可",
+              "char": "那",
               "pinyin": "kě"
             },
             {
-              "char": "度",
+              "char": "可",
               "pinyin": "dù"
+            },
+            {
+              "char": "度",
+              "pinyin": "jué"
             },
             {
               "char": "，",
@@ -978,31 +1130,31 @@
             },
             {
               "char": "绝",
-              "pinyin": "jué"
-            },
-            {
-              "char": "域",
               "pinyin": "yù"
             },
             {
-              "char": "苍",
+              "char": "域",
               "pinyin": "cāng"
             },
             {
-              "char": "茫",
+              "char": "苍",
               "pinyin": "máng"
             },
             {
+              "char": "茫",
+              "pinyin": "wú"
+            },
+            {
               "char": "无",
-              "pinyin": "gèng"
+              "pinyin": "suǒ"
             },
             {
               "char": "所",
-              "pinyin": "hé"
+              "pinyin": "yǒu"
             },
             {
               "char": "有",
-              "pinyin": "yǒu"
+              "pinyin": "shā"
             },
             {
               "char": "。",
@@ -1010,18 +1162,13 @@
             }
           ],
           "translation": {
-            "translation": "边境飘渺多遥远怎可轻易来奔赴，绝远之地尽苍茫更是人烟何所有。"
+            "translation": "身受朝廷恩宠厚遇的主将常常不畏惧强敌，战士筋疲力尽仍难解关山之围。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "note": "边庭飘飖那可度：边疆动荡不安怎能度过。飘飖，动荡不安；度，度过、生活。"
-            },
-            {
               "start": 8,
-              "end": 15,
-              "note": "绝域苍茫无所有：极远的边地苍茫荒凉一无所有。绝域，极远的边地；苍茫，空旷迷茫。"
+              "end": 9,
+              "note": "极远的地方。"
             }
           ]
         }
@@ -1033,31 +1180,31 @@
           "sentence": [
             {
               "char": "杀",
-              "pinyin": "shā"
-            },
-            {
-              "char": "气",
               "pinyin": "qì"
             },
             {
-              "char": "三",
+              "char": "气",
               "pinyin": "sān"
             },
             {
-              "char": "时",
+              "char": "三",
               "pinyin": "shí"
             },
             {
-              "char": "作",
+              "char": "时",
               "pinyin": "zuò"
             },
             {
-              "char": "阵",
+              "char": "作",
               "pinyin": "zhèn"
             },
             {
-              "char": "云",
+              "char": "阵",
               "pinyin": "yún"
+            },
+            {
+              "char": "云",
+              "pinyin": "hán"
             },
             {
               "char": "，",
@@ -1065,31 +1212,31 @@
             },
             {
               "char": "寒",
-              "pinyin": "hán"
-            },
-            {
-              "char": "声",
               "pinyin": "shēng"
             },
             {
-              "char": "一",
+              "char": "声",
               "pinyin": "yī"
             },
             {
-              "char": "夜",
+              "char": "一",
               "pinyin": "yè"
             },
             {
-              "char": "传",
+              "char": "夜",
               "pinyin": "chuán"
             },
             {
-              "char": "刁",
+              "char": "传",
               "pinyin": "diāo"
             },
             {
-              "char": "斗",
+              "char": "刁",
               "pinyin": "dǒu"
+            },
+            {
+              "char": "斗",
+              "pinyin": "xiāng"
             },
             {
               "char": "。",
@@ -1097,18 +1244,28 @@
             }
           ],
           "translation": {
-            "translation": "杀气春夏秋三季腾起阵前似乌云，一夜寒风声声里如泣更声惊耳鼓。"
+            "translation": "身披铁甲的别夫，不知道守卫边疆多少年了，那家中的思妇自丈夫被别走后，应该一直在悲痛啼哭吧。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "note": "杀气三时作阵云：一天中长时间杀气凝聚成战云。三时，指早、中、晚，即整天；阵云，战云。"
+              "start": 2,
+              "end": 3,
+              "note": "早、午、晚。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "note": "浓重堆积似战阵的云层。"
             },
             {
               "start": 8,
-              "end": 15,
-              "note": "寒声一夜传刁斗：寒夜中整夜传来刁斗声。刁斗，古代军中用具，白天用来做饭，晚上用来打更。"
+              "end": 9,
+              "note": "凄凉的声音。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "note": "三足长柄的锅，古代军中兼用于炊煮和巡更敲击的铜制用具。"
             }
           ]
         }
@@ -1120,31 +1277,31 @@
           "sentence": [
             {
               "char": "相",
-              "pinyin": "xiāng"
-            },
-            {
-              "char": "看",
               "pinyin": "kàn"
             },
             {
-              "char": "白",
+              "char": "看",
               "pinyin": "bái"
             },
             {
-              "char": "刃",
+              "char": "白",
               "pinyin": "rèn"
             },
             {
-              "char": "血",
+              "char": "刃",
               "pinyin": "xuè"
             },
             {
-              "char": "纷",
+              "char": "血",
               "pinyin": "fēn"
             },
             {
               "char": "纷",
               "pinyin": "fēn"
+            },
+            {
+              "char": "纷",
+              "pinyin": "sǐ"
             },
             {
               "char": "，",
@@ -1152,50 +1309,45 @@
             },
             {
               "char": "死",
-              "pinyin": "sǐ"
-            },
-            {
-              "char": "节",
               "pinyin": "jié"
             },
             {
-              "char": "从",
+              "char": "节",
               "pinyin": "cóng"
             },
             {
-              "char": "来",
+              "char": "从",
               "pinyin": "lái"
             },
             {
-              "char": "岂",
+              "char": "来",
               "pinyin": "qǐ"
             },
             {
-              "char": "顾",
+              "char": "岂",
               "pinyin": "gù"
             },
             {
-              "char": "勋",
+              "char": "顾",
               "pinyin": "xūn"
             },
             {
-              "char": "。",
+              "char": "勋",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "！",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "互看白刃乱飞舞夹杂鲜血纷飞，从来死节为报国难道还求著功勋？"
+            "translation": "思妇独守故乡，悲苦地牵肠挂肚，别夫在边疆遥望家园空自回头。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "note": "相看白刃血纷纷：互相看着雪白的战刀上鲜血淋漓。"
-            },
-            {
               "start": 8,
-              "end": 15,
-              "note": "死节从来岂顾勋：为国捐躯从来难道是为了个人的功勋？死节，为节义而死；顾，顾及；勋，功勋。"
+              "end": 14,
+              "note": "意思是，历来志士为（保卫国家的）气节献身，难道是为了个人的功勋！"
             }
           ]
         }
@@ -1207,23 +1359,23 @@
           "sentence": [
             {
               "char": "君",
-              "pinyin": "jūn"
+              "pinyin": "bú"
             },
             {
               "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "见",
               "pinyin": "jiàn"
             },
             {
-              "char": "沙",
+              "char": "见",
               "pinyin": "shā"
             },
             {
-              "char": "场",
+              "char": "沙",
               "pinyin": "chǎng"
+            },
+            {
+              "char": "场",
+              "pinyin": "zhàn"
             },
             {
               "char": "征",
@@ -1231,11 +1383,11 @@
             },
             {
               "char": "战",
-              "pinyin": "zhàn"
+              "pinyin": "kǔ"
             },
             {
               "char": "苦",
-              "pinyin": "kǔ"
+              "pinyin": "zhì"
             },
             {
               "char": "，",
@@ -1243,31 +1395,31 @@
             },
             {
               "char": "至",
-              "pinyin": "zhì"
-            },
-            {
-              "char": "今",
               "pinyin": "jīn"
             },
             {
-              "char": "犹",
+              "char": "今",
               "pinyin": "yóu"
             },
             {
-              "char": "忆",
+              "char": "犹",
               "pinyin": "yì"
             },
             {
-              "char": "李",
+              "char": "忆",
               "pinyin": "lǐ"
             },
             {
-              "char": "将",
+              "char": "李",
               "pinyin": "jiāng"
             },
             {
-              "char": "军",
+              "char": "将",
               "pinyin": "jūn"
+            },
+            {
+              "char": "军",
+              "pinyin": ""
             },
             {
               "char": "。",
@@ -1275,23 +1427,13 @@
             }
           ],
           "translation": {
-            "translation": "你没看见拼杀在沙场战斗多惨苦，现在还在思念有勇有谋的李将军。"
+            "translation": "边塞战场动荡不安哪里能够轻易归来，更遥远的边陲更加荒凉不毛。"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 2,
-              "note": "君不见：您没有看见吗？古诗中常用的提示语。"
-            },
-            {
-              "start": 3,
-              "end": 8,
-              "note": "沙场征战苦：战场征战的艰苦。沙场，战场。"
-            },
-            {
               "start": 9,
-              "end": 16,
-              "note": "至今犹忆李将军：到现在还在怀念李广将军。李将军，指汉代名将李广，以爱惜士卒著称。"
+              "end": 15,
+              "note": "这句是感慨当时没有李将军那样的守边将帅。李将军，指西汉名将李广。李广任右北平（辖今河北承德及天津蓟州区以东地区）太守，捍御匈奴，关爱士卒，匈奴称其为“汉之飞将军”，数岁不敢进犯。一说指战国时赵将李牧。李牧对抗匈奴，厚待战士，曾破匈奴十余万骑，使匈奴十余年不敢靠近赵国边境。"
             }
           ]
         }

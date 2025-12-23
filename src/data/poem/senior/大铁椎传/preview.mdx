@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="大铁椎传"
+  author="魏禧"
+  dynasty="明代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　明末清初之际，传体之文的创作呈现出勃兴之势，究其原因，盖与表扬忠烈 、以文存史之观念密不可分，因此具有鲜明且繁复的时代内涵，是清初士人（尤其是明遗民）复杂心迹的具体体现，魏禧就是其中的典范 。考察其传志之文，可以见出清初士人复杂的心灵轨迹，也可解读清初文章的文化蕴涵及美学追求。此类传记中，传颂最广的无疑是 《大铁椎传》。
+
+## 作品赏析
+
+　　《大铁椎传》是一篇传记散文。文中以细腻生动的手法，刻画出一位有识见、有气节、精武艺、识文墨，使用铁椎的大力士的“异人”的形象，描写出这样一个英雄人物，本可大有作为，在当时却所遇不合，无用武之地，只能去与响马决斗的可悲境遇，透露出作者对明朝亡国君臣的不满，抒发了他的亡国之痛，表示他希望有人能来“抗清复明”的爱国思想。

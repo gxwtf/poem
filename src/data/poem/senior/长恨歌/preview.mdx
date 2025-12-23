@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="长恨歌"
+  author="白居易"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　唐宪宗元和元年（公元806年），白居易任盩厔（今西安市周至县）县尉。一日，与友人陈鸿、王质夫到马嵬驿附近的仙游寺游览，谈及李隆基与杨贵妃事。王质夫认为，像这样突出的事情，如无大手笔加工润色，就会随着时间的推移而消没。他鼓励白居易：“乐天深于诗，多于情者也，试为歌之，何如？”于是，白居易写下了这首长诗。
+
+## 作品赏析
+
+　　《长恨歌》是一首长篇叙事诗。此诗的中心思想是批评唐玄宗重色误国导致安史之乱，同时又同情唐玄宗和杨贵妃的爱情悲剧，歌颂他们生死不渝的爱情。其主题具有复杂性，既有批判、讽谕成分，又有同情、歌颂成分。在这首长篇叙事诗中，诗人以精练的语言、优美的形象、叙事和抒情结合的手法，叙述了唐玄宗和杨贵妃在安史之乱中的爱情悲剧。诗人并不拘泥于历史，而是借着历史的一点影子，根据当时人们的传说、街坊的歌唱，进行艺术的再创造，从中蜕化出一个回旋曲折、宛转动人的故事，用回环往复、缠绵悱恻的艺术形式，将之描摹、歌咏出来。

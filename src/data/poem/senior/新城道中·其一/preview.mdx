@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="新城道中·其一"
+  author="苏轼"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《新城道中·其一》是一首七言律诗。此诗首联赋予东风以人的情感，显得格外亲切，为全诗定下明快的基调；颔联以生动的比喻描绘山间的景象，展现了一幅美丽的山间日出图；颈联中“野桃含笑”和“溪柳自摇”都运用拟人手法，使得自然界的生物仿佛都有了人的情感和动作，显得更加生动有趣；尾联则将笔触转向山间的居民。虽然生活简朴，但却充满了田园生活的乐趣和安宁。全诗描绘了春天山间生机盎然的景象，绘制出人与自然和谐生活的美好图景。

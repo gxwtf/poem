@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="行军九日思长安故园"
+  author="岑参"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　公元755年（唐玄宗天宝十四载），安禄山起兵叛乱，次年长安被攻陷。公元757年（唐肃宗至德二载）二月肃宗由彭原行军至凤翔，岑参随行。这首诗原有小注说：“时未收长安”。九月唐军收复长安，此诗可能是当年重阳节在凤翔写的。
+
+## 作品赏析
+
+　　《行军九日思长安故园》是一首五言绝句。此诗由欲登高而引出无人送酒的联想，又由无人送酒遥想故园之菊，复由故园之菊而慨叹故园为战场，蝉联而下，犹如弹丸脱手，圆美流转。诗中表达了诗人浓郁的思乡之情，更寄托着其对国事的忧虑、对战乱中人民疾苦的深深关切和对和平的渴望。全诗语言朴实，构思精巧，情韵无限，是一首言简意深、耐人寻味的抒情佳作。

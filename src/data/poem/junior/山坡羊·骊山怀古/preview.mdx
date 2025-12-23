@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="山坡羊·骊山怀古"
+  author="张养浩"
+  dynasty="元代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　公元前206年秦朝灭亡，项羽攻入咸阳后阿房宫被焚。张养浩在途经骊山时有所感写下了《山坡羊·骊山怀古》这首小令。
+
+## 作品赏析
+
+　　《山坡羊·骊山怀古》是一首散曲。作者起笔三句用“今何处”作问句结，强调了对从古到今历史所发生的巨大变化的感慨，并自然而然地引出了下二句，更加重了其怀古伤今的情感分量；六七句讽刺后人都已遗忘了前朝败亡的教训，结尾两句则显示了作者作为一位封建文人对历史兴亡的大彻大悟，其触目伤怀，引史为证，感情痛切，风格沉郁，抒发了世事无常之悲叹，此曲亦深刻揭示出封建统治者因荒淫奢侈和争权夺位而导致灭亡的历史教训。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="泊秦淮"
+  author="杜牧"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　杜牧前期颇为关心政治，对当时百孔千疮的唐王朝表示忧虑。诗人夜泊秦淮河岸，眼见灯红酒绿，耳闻淫歌艳曲，触景生情，又想到唐朝国势日衰，当权者昏庸荒淫，便感慨万千，写下了这首《泊秦淮》。
+
+## 作品赏析
+
+　　《泊秦淮》是一首七言绝句。此诗是诗人夜泊秦淮时触景感怀之作，前半段写秦淮夜景，后半段抒发感慨，诗人借陈后主因追求荒淫享乐终至亡国的历史，讽刺那些不从中汲取教训，整日醉生梦死的晚唐统治者，表现了作者对国家命运的无比关怀和深切忧虑。全诗寓情于景，意境悲凉，感情深沉含蓄，语言精当锤炼，艺术构思颇具匠心，写景、抒情、叙事有机结合，具有强烈的艺术感染力。

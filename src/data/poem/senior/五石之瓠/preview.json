@@ -38,35 +38,41 @@
             },
             {
               "char": "魏",
-              "pinyin": "yí"
+              "pinyin": "wáng"
             },
             {
               "char": "王",
-              "pinyin": "wǒ"
+              "pinyin": "yí"
             },
             {
               "char": "贻",
-              "pinyin": "dà"
+              "pinyin": "wǒ"
             },
             {
               "char": "我",
-              "pinyin": "hù"
+              "pinyin": "dà"
             },
             {
               "char": "大",
-              "pinyin": "zhī"
+              "pinyin": "hù"
             },
             {
               "char": "瓠",
-              "pinyin": "zhǒng"
+              "pinyin": "zhī",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "葫芦。"
+                }
+              ]
             },
             {
               "char": "之",
-              "pinyin": "，wǒ"
+              "pinyin": "zhǒng"
             },
             {
               "char": "种",
-              "pinyin": "shù"
+              "pinyin": "，"
             },
             {
               "char": "，",
@@ -74,39 +80,41 @@
             },
             {
               "char": "我",
-              "pinyin": "chéng"
+              "pinyin": "shù"
             },
             {
               "char": "树",
-              "pinyin": "ér"
-            },
-            {
-              "char": "之",
-              "pinyin": "shí"
-            },
-            {
-              "char": "成",
-              "pinyin": "wǔ"
-            },
-            {
-              "char": "而",
-              "pinyin": "dàn"
-            },
-            {
-              "char": "实",
-              "pinyin": "。"
-            },
-            {
-              "char": "五"
-            },
-            {
-              "char": "石",
+              "pinyin": "zhī",
               "note": [
                 {
                   "title": "注释",
-                  "content": "计算容量的单位，十斗为一石。"
+                  "content": "种植。"
                 }
               ]
+            },
+            {
+              "char": "之",
+              "pinyin": "chéng"
+            },
+            {
+              "char": "成",
+              "pinyin": "ér"
+            },
+            {
+              "char": "而",
+              "pinyin": "shí"
+            },
+            {
+              "char": "实",
+              "pinyin": "wǔ"
+            },
+            {
+              "char": "五",
+              "pinyin": "shí"
+            },
+            {
+              "char": "石",
+              "pinyin": "。"
             },
             {
               "char": "。",
@@ -114,9 +122,15 @@
             }
           ],
           "translation": {
-            "translation": "惠子对庄子说：“魏王送给我一颗大葫芦的种子，我种下后结出的果实有五石容量。"
+            "translation": "惠子对庄子说：“魏王送我大葫芦的种子，我种下后结出的果实有五石大。"
           },
-          "notes": []
+          "notes": [
+            {
+              "start": 22,
+              "end": 24,
+              "note": "能容得下五石的东西。石，计算容量的单位，十斗为一石。"
+            }
+          ]
         },
         {
           "sentence": [
@@ -142,31 +156,37 @@
             },
             {
               "char": "其",
-              "pinyin": "jiān"
+              "pinyin": "qí"
             },
             {
               "char": "坚",
-              "pinyin": "bù"
+              "pinyin": "jiān",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "坚固。这里指大瓠的坚固程度。"
+                }
+              ]
             },
             {
               "char": "不",
-              "pinyin": "néng"
+              "pinyin": "bù"
             },
             {
               "char": "能",
-              "pinyin": "zì"
+              "pinyin": "néng"
             },
             {
               "char": "自",
-              "pinyin": "jǔ"
+              "pinyin": "zì"
             },
             {
               "char": "举",
-              "pinyin": "yě"
+              "pinyin": "jǔ"
             },
             {
               "char": "也",
-              "pinyin": "。"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -174,7 +194,7 @@
             }
           ],
           "translation": {
-            "translation": "用来盛水，它的坚固程度却无法承受自身的重量。"
+            "translation": "用它来盛水，它的坚硬程度不足以支撑自身。"
           },
           "notes": []
         },
@@ -206,33 +226,27 @@
             },
             {
               "char": "则",
-              "pinyin": "hù"
+              "pinyin": "zé"
             },
             {
               "char": "瓠",
-              "pinyin": "luò",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "葫芦。"
-                }
-              ]
+              "pinyin": "hù"
             },
             {
               "char": "落",
-              "pinyin": "wú"
+              "pinyin": "luò"
             },
             {
               "char": "无",
-              "pinyin": "suǒ"
+              "pinyin": "wú"
             },
             {
               "char": "所",
-              "pinyin": "róng"
+              "pinyin": "suǒ"
             },
             {
               "char": "容",
-              "pinyin": "。"
+              "pinyin": "róng"
             },
             {
               "char": "。",
@@ -240,9 +254,15 @@
             }
           ],
           "translation": {
-            "translation": "剖开来做瓢，又太大而没有地方可以容纳。"
+            "translation": "剖开来做瓢，却因太大而无处可放。"
           },
-          "notes": []
+          "notes": [
+            {
+              "start": 7,
+              "end": 11,
+              "note": "宽大而没有什么可盛受的东西。瓠落，宽大空廓的样子。"
+            }
+          ]
         },
         {
           "sentence": [
@@ -276,31 +296,31 @@
             },
             {
               "char": "吾",
-              "pinyin": "wéi"
-            },
-            {
-              "char": "为",
-              "pinyin": "qí"
-            },
-            {
-              "char": "其",
               "pinyin": "wú"
             },
             {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
               "char": "无",
-              "pinyin": "yòng"
+              "pinyin": "wú"
             },
             {
               "char": "用",
-              "pinyin": "ér"
+              "pinyin": "yòng"
             },
             {
               "char": "而",
-              "pinyin": "póu"
+              "pinyin": "ér"
             },
             {
               "char": "掊",
-              "pinyin": "zhī",
+              "pinyin": "pǒu",
               "note": [
                 {
                   "title": "注释",
@@ -310,7 +330,7 @@
             },
             {
               "char": "之",
-              "pinyin": "。”"
+              "pinyin": "zhī"
             },
             {
               "char": "。",
@@ -322,7 +342,7 @@
             }
           ],
           "translation": {
-            "translation": "它不是不大啊，但我因为它没有用处就把它砸碎了。”"
+            "translation": "它并非不巨大，但我因为它无用而砸碎了它。”"
           },
           "notes": [
             {
@@ -356,34 +376,842 @@
             },
             {
               "char": "夫",
-              "pinyin": "gù"
+              "pinyin": "zǐ"
             },
             {
               "char": "子",
-              "pinyin": "zhuō"
+              "pinyin": "gù"
             },
             {
               "char": "固",
-              "pinyin": "yú"
+              "pinyin": "zhuō"
             },
             {
               "char": "拙",
-              "pinyin": "yòng"
+              "pinyin": "yú"
             },
             {
               "char": "于",
-              "pinyin": "dà"
+              "pinyin": "yòng"
             },
             {
               "char": "用",
-              "pinyin": "yǐ"
+              "pinyin": "dà"
             },
             {
               "char": "大",
-              "pinyin": "！”"
+              "pinyin": "yǐ"
             },
             {
-              "char": "矣"
+              "char": "矣",
+              "pinyin": "！"
+            },
+            {
+              "char": "！",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "庄子说：“先生实在是不善于使用大的东西啊！"
+          },
+          "notes": [
+            {
+              "start": 8,
+              "end": 11,
+              "note": "不善于使用大的东西，不善于发挥事物的“大”的功用。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "宋",
+              "pinyin": "sòng"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "善",
+              "pinyin": "shàn"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "龟",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "手",
+              "pinyin": "shǒu"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "药",
+              "pinyin": "yào"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "世",
+              "pinyin": "shì"
+            },
+            {
+              "char": "世",
+              "pinyin": "shì"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "洴",
+              "pinyin": "píng"
+            },
+            {
+              "char": "澼",
+              "pinyin": "pì"
+            },
+            {
+              "char": "絖",
+              "pinyin": "kuàng"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "事",
+              "pinyin": "shì"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "宋国有个善于制作防止手冻裂的药的人，世代以漂洗丝絮为业。"
+          },
+          "notes": [
+            {
+              "start": 5,
+              "end": 9,
+              "note": "防止手冻裂的药物。龟，同“皲”，皮肤冻裂。"
+            },
+            {
+              "start": 15,
+              "end": 17,
+              "note": "漂洗丝絮。洴澼，漂洗。絖，同“纩”，丝绵絮。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "客",
+              "pinyin": "kè"
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "请",
+              "pinyin": "qǐng"
+            },
+            {
+              "char": "买",
+              "pinyin": "mǎi"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "方",
+              "pinyin": "fāng"
+            },
+            {
+              "char": "百",
+              "pinyin": "bǎi"
+            },
+            {
+              "char": "金",
+              "pinyin": "jīn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "有个客人听说了，请求用百金买下这个药方。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "聚",
+              "pinyin": "jù"
+            },
+            {
+              "char": "族",
+              "pinyin": "zú"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "谋",
+              "pinyin": "móu"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "‘",
+              "pinyin": "　"
+            },
+            {
+              "char": "我",
+              "pinyin": "shì"
+            },
+            {
+              "char": "世",
+              "pinyin": "shì"
+            },
+            {
+              "char": "世",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "为",
+              "pinyin": "píng"
+            },
+            {
+              "char": "洴",
+              "pinyin": "pì"
+            },
+            {
+              "char": "澼",
+              "pinyin": "kuàng"
+            },
+            {
+              "char": "絖",
+              "pinyin": "，"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "guò"
+            },
+            {
+              "char": "过",
+              "pinyin": "shù"
+            },
+            {
+              "char": "数",
+              "pinyin": "jīn"
+            },
+            {
+              "char": "金",
+              "pinyin": "；"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            },
+            {
+              "char": "今",
+              "pinyin": "yī"
+            },
+            {
+              "char": "一",
+              "pinyin": "zhāo"
+            },
+            {
+              "char": "朝",
+              "pinyin": "ér"
+            },
+            {
+              "char": "而",
+              "pinyin": "yù"
+            },
+            {
+              "char": "鬻",
+              "pinyin": "jì",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "卖。"
+                }
+              ]
+            },
+            {
+              "char": "技",
+              "pinyin": "bǎi"
+            },
+            {
+              "char": "百",
+              "pinyin": "jīn"
+            },
+            {
+              "char": "金",
+              "pinyin": "，"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "请",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "与",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "。’"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "’",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "全家人聚在一起商量说：‘我们世代漂洗丝絮，不过赚几金；现在一下子卖技术得百金，就卖给他吧。’"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "客",
+              "pinyin": "kè"
+            },
+            {
+              "char": "得",
+              "pinyin": "dé"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "说",
+              "pinyin": "shuō",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "劝说别人听从自己的意见。一说，同“悦”，取悦。"
+                }
+              ]
+            },
+            {
+              "char": "吴",
+              "pinyin": "wú"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "客人得到药方，用它去游说吴王。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "越",
+              "pinyin": "yuè"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "难",
+              "pinyin": "nàn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "吴",
+              "pinyin": "wú"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "将",
+              "pinyin": "jiāng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "越国发难，吴王派他率领军队。"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 2,
+              "note": "指越人发兵侵吴。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "冬",
+              "pinyin": "dōng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "越",
+              "pinyin": "yuè"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ"
+            },
+            {
+              "char": "战",
+              "pinyin": "zhàn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "败",
+              "pinyin": "bài"
+            },
+            {
+              "char": "越",
+              "pinyin": "yuè"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "裂",
+              "pinyin": "liè"
+            },
+            {
+              "char": "地",
+              "pinyin": "dì"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "封",
+              "pinyin": "fēng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "冬天，与越国人在水上作战，大败越军，吴王划地封赏他。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "龟",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "手",
+              "pinyin": "shǒu"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "或",
+              "pinyin": "huò"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "封",
+              "pinyin": "fēng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "或",
+              "pinyin": "huò"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "免",
+              "pinyin": "miǎn"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "洴",
+              "pinyin": "píng"
+            },
+            {
+              "char": "澼",
+              "pinyin": "pì"
+            },
+            {
+              "char": "絖",
+              "pinyin": "kuàng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "则",
+              "pinyin": "zé"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "用",
+              "pinyin": "yòng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "异",
+              "pinyin": "yì"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "能使手不冻裂的方法是一样的，有人因此封赏，有人却免不了漂洗丝絮，这就是使用方法的不同。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "今",
+              "pinyin": "jīn"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "五",
+              "pinyin": "wǔ"
+            },
+            {
+              "char": "石",
+              "pinyin": "shí"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "瓠",
+              "pinyin": "hù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "虑",
+              "pinyin": "lǜ",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "用绳结缀。一说，考虑。"
+                }
+              ]
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "樽",
+              "pinyin": "zūn",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "盛酒器。这是说大瓠像大樽，缚于身，可使人漂浮渡水。"
+                }
+              ]
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "浮",
+              "pinyin": "fú"
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū"
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng"
+            },
+            {
+              "char": "湖",
+              "pinyin": "hú"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "忧",
+              "pinyin": "yōu"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "瓠",
+              "pinyin": "hù"
+            },
+            {
+              "char": "落",
+              "pinyin": "luò"
+            },
+            {
+              "char": "无",
+              "pinyin": "wú"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "容",
+              "pinyin": "róng"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "现在你有五石大的葫芦，为什么不考虑把它做成大酒器漂浮在江湖上，却担心它太大无处可放？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "则",
+              "pinyin": "zé"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "犹",
+              "pinyin": "yóu"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "蓬",
+              "pinyin": "péng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
             },
             {
               "char": "！",
@@ -395,13 +1223,13 @@
             }
           ],
           "translation": {
-            "translation": "庄子说：“你实在是不善于使用大的东西啊！”"
+            "translation": "可见先生的心还是被蓬草堵塞着啊！”"
           },
           "notes": [
             {
-              "start": 8,
-              "end": 11,
-              "note": "不善于使用大的东西，不善于发挥事物的“大”的功用。"
+              "start": 5,
+              "end": 7,
+              "note": "比喻不通达的见识。蓬，一种草，弯曲不直。"
             }
           ]
         }

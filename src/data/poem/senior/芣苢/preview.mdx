@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="芣苢"
+  author="诗经·国风·周南"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　《周南·芣苢》是周代人们采集芣苢时所唱的歌谣，应是周公时代的作品。《毛诗序》云：“《芣苢》，后妃之美也，和平则妇人乐有子矣。”后人多不赞成毛序的说法。其他说法有所谓“伤夫有恶疾”说、“室家乐完聚”说、“喻求贤才”说、“祈子求福”说、“童儿斗草嬉戏”说、普通劳动歌谣说以及歌颂夏禹说等等。
+
+## 作品赏析
+
+　　《芣苢》是《诗经》中的一首诗，为一曲劳动的欢歌。诗中描画了整个劳动的过程和场面，充满了劳动的欢欣，洋溢着劳动的热情。全诗三章，每章四句，全是重章叠句，只变换了少数几个动词，其余一概不变，反复咏唱，以鲜明轻快的节奏、和谐优美的音韵，抒发了纯真的思想感情，表现出人们的欢快情绪和赞美劳动的主题思想。

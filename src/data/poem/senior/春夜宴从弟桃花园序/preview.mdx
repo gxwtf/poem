@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="春夜宴从弟桃花园序"
+  author="李白"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　唐玄宗开元十五年（公元727年），二十七岁的作者“仗剑去国，辞亲远游”来到安陆。《春夜宴从弟桃花园序》约于公元733年（开元二十一年）前后作于安陆，作者与堂弟们相聚宴饮，并为之作此序文。
+
+## 作品赏析
+
+　　《春夜宴从弟桃花园序》是一篇骈文。全文生动地记述了作者和众兄弟在春夜聚会、饮酒赋诗的情景。作者感叹天地广大，光阴易逝，人生短暂，欢乐甚少，并援引古人“秉烛夜游”加以佐证，表达了其热爱生活、热爱自然的豪情逸兴，同时抒发“浮生若梦”、及时行乐的感喟，更显示出俯仰古今的广阔胸襟。整篇文章潇洒自然，波澜起伏，音调铿锵，精彩的骈偶句式使文章更加生色。

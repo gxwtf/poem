@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="氓"
+  author="诗经·国风·卫风"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　《氓》是春秋时期的一首民歌。自汉代以来，学者多以此诗为“刺淫奔”之作。《毛诗序》说：“《氓》，刺时也。宣公之时，礼义消亡，淫风大行，男女无别，遂相奔诱，华落色衰，复相弃背。或乃困而自悔，丧其妃偶，故序其事以风焉。美反正，刺淫泆也。”清人方玉润在《诗经原始》中说此诗“为弃妇而作也”，今人多从之。
+
+## 作品赏析
+
+　　《氓》是《诗经》中的一首诗，为一首弃妇自诉婚姻悲剧的诗歌。诗中女子以无比沉痛的口气回忆了恋爱生活的甜蜜以及婚后被丈夫虐待和遗弃的痛苦，表达了她悔恨的心情与决绝的态度，深刻地反映了古代社会妇女在恋爱婚姻问题上倍受压迫和摧残的情况。全诗运用现实主义创作方法，赋、比、兴交替使用，加之以对比、顶真、借代、呼告等表现手法，音调铿锵自然，富有真情实感，有很强的艺术表现力。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="越中览古"
+  author="李白"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此诗当是唐玄宗开元十四年（726年）李白游览越中（唐越州，治所在今浙江绍兴）时所作。作为一首怀古诗，所涉及的历史事件是春秋时期的吴越争霸。
+
+## 作品赏析
+
+　　《越中览古》是一首七言绝句。此诗首句点明题意，说明所怀古迹的具体内容；二、三两句分写战士还家、越王勾践还宫的情况；结句突然一转，说过去曾经存在过的一切如今所剩下的只是几只鹧鸪在飞。全诗通过昔时的繁盛和眼前的凄凉的对比，表现人事变化和盛衰无常的主题。

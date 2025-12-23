@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="峨眉山月歌"
+  author="李白"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首诗出自《李太白全集》卷八，是李白年轻时的作品。峨眉山是蜀中大山，也是蜀地的代称。李白是蜀人，因此峨眉山月也就是故园之月。此诗是李白初离蜀地时的作品，大约作于开元十二年（724年）秋天。
+
+## 作品赏析
+
+　　《峨眉山月歌》是一首山水诗。此诗通过描写诗人月夜舟中所见之景，表达其依恋家乡山水之情。首句是仰望，写静态之景；次句是俯视，写动态之景；第三句点明出发和前往的地点；末句表思念友人之情。全诗连用五个地名，通过山月和江水描绘出一幅千里蜀江行旅图，语言自然流畅，构思新颖精巧，意境清朗秀美，充分显示了青年李白的艺术天赋。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="题破山寺后禅院"
+  author="常建"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　破山在今江苏常熟，寺指兴福寺。常建一生仕途不得意，常游览名山胜景以自娱。此诗是诗人游览破山寺后禅院时所作，具体创作时间未得确证。
+
+## 作品赏析
+
+　　《题破山寺后禅院》是一首题壁诗。此诗抒写诗人清晨游寺后禅院的观感，以凝炼简洁的诗笔营造了一个风物独特、幽深寂静的境界，表达了诗人游览名胜的喜悦和对高远境界的强烈追求。全诗笔调古朴，层次分明，兴象深微，意境浑融，简洁明净，感染力强，是唐代山水诗中独具一格的名篇。

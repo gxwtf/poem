@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="穿井得一人"
+  author="吕不韦"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《穿井得一人》出自《吕氏春秋》。这则故事精简地揭示了信息传播中容易出现的误解和失真现象。丁氏原本只是说挖井后节省了人力，但传言却逐渐变形，最终变成了丁氏挖井挖出了一个人。这种误传不仅曲解了丁氏的原意，还可能引起不必要的恐慌和误解。全文阐明这样一个道理：在信息传播过程中要保持警惕，避免轻信谣言，同时也要注意自己的言辞，避免因表述不清而引起误解。

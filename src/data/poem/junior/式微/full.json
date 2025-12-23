@@ -1,8 +1,12 @@
 {
   "name": "式微",
-  "author": "佚名",
+  "author": "诗经·国风·邶风",
   "dynasty": "先秦",
   "mode": "poem",
+  "annotation": "式微：天黑了。式，语气助词；微，昏暗。胡：何，为什么。微：（如果）不是。君：君主。中露：即露中，在露水中。躬：身体。",
+  "comprehensive_appreciation": "赏析：《式微》是一首先秦时代的诗歌，采用反问、隐语、互文等多种修辞方式，情感表达宛转而有情致。重章换字，押韵和谐。兼有长短的句式，节奏感强，韵律和谐优美，用词异常精巧。式微也成为后世诗歌中常用的意象，对后世古典诗歌有着深远的影响。全诗只有短短二章，都以“式微，式微，胡不归”起调：天黑了，天黑了，为什么还不回家？诗人紧接着便交待了原因：“微君之故，胡为乎中露”；“微君之躬，胡为乎泥中”。意思是说，为了君主的事情，为了养活他们的贵体，才不得不终年累月、昼夜不辍地在露水和泥浆中奔波劳作。然而，《式微》诗上下二章只变换了两处文字， 但就在这巧妙的变换中， 体现出了作者用词的独具匠心。其一， 一章“微君之故”和二章“微君之躬”。上下章只变换“故”“躬”两字， 却使诗歌语义饱满、押韵和谐。“微君之故”， 朱熹《诗集传》释为： “我若非以君之故”； “微君之躬”， “躬”是“躳”的异体， 《尔雅·释言》： “躬， 身也。”躬、身二字互训， 故“躬”即自身也， 也即“君”。“微君之躬”即“我若无君”。上章言“我若非以君之故”， 下章言“我若无君”。上下章表达相同的意思却运用不同的字眼， 把作者委婉含蓄的感情表达得淋漓尽致。其二， 一章“胡为乎中露”和二章“胡为乎泥中”。“露”为“路”的假借字。《尔雅·释名》： “路， 露也。言人所践蹈而露见也。”方玉润《诗经原始》： “‘泥中’犹言泥涂也。”按： “中露”也即今俗语所谓心里沉沉的， 像被什么东西堵得慌； “泥中”犹今所谓陷入泥中而不能自拔。因此“中露”、“泥中”是虚写而非实写， 上下章可互相补充理解。同时，作者字数的变换中， 始终不忘记押韵的和谐。一章“故”、“露”为阴声“鱼”韵和入声“铎”韵同用； 二章“躬”、“中”押阴声“侵”部韵。此两句在表达作者思想感情的同时， 又能押韵和谐字数整齐， 有一箭双雕之功效。短短二章，寥寥几句，受奴役者的非人处境以及他们对统治者的满腔愤懑，给读者留下极其深刻的印象。由是，重章换字， 押韵和谐。体现了一唱三叹、余味无穷的特色。体现了《诗经》精巧凝练的语言，兼有长短的句式， 节奏感强。《式微》诗短短三十二个字， 就包含了三言、四言和五言等多种变化， 工整与灵活相整合， 参差错落， 能极力地表达女主人公思想感情的起伏。而其句式的选择又是随着诗的内容和思想感情而灵活变化的， 增强了诗的节奏感。总之， 《式微》运用语言的艺术， 非但韵律和谐优美， 而且用词精巧。在艺术上，这首诗以设问强化语言效果。从全诗看，“式微，式微，胡不归”，并不是有疑而问，而是胸中早有定见的故意设问。诗人遭受统治者的压迫，夜以继日地在野外干活，有家不能回，苦不堪言，自然要倾吐心中的牢骚不平，但如果是正言直述，则易于穷尽，采用这种虽无疑而故作有疑的设问形式，使诗篇显得宛转而有情致，同时也引人注意，启人以思，所谓不言怨而怨自深矣。正是因为这些修辞手法的巧妙使用， 才使《式微》一诗“境界具于词语之外， 愈反复看去，愈觉其含义无穷。”",
+  "appreciation": "《式微》是一首杂言古诗。此诗或是苦于劳役的人发出的怨词，表达了服役之人遭受统治者的压迫，夜以继日地在野外干活，有家不能归的怨愤。全诗采用设问等修辞手法，情感表达宛转而富有情致，重章换字，韵律和谐，用词精巧，兼有长短的句式，节奏短促，情调急迫，充分表达出服役之人的苦痛心情以及他们背弃暴政的决心。",
+  "background": "关于《邶风·式微》的主旨，近现代学者多认为这是人民苦于劳役，对国君发出的怨词；也有人认为这是情人幽会相互戏谑的情歌。《毛诗序》说是黎侯为狄所逐，流亡于卫，其臣作此劝他归国。刘向《列女传·贞顺篇》说是卫侯之女嫁黎国庄公，却不为其所纳，有人劝以归，她则“终执贞一，不违妇道，以俟君命”，并赋此诗以明志。",
   "paragraphs": [
     {
       "sentences": [
@@ -11,266 +15,115 @@
             {
               "char": "式",
               "pinyin": "shì",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "微",
               "pinyin": "wēi",
-              "index": 1,
-              "read": false,
-              "write": true
+              "index": 1
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 2
             },
             {
               "char": "式",
               "pinyin": "shì",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "微",
               "pinyin": "wēi",
-              "index": 3,
-              "read": false,
-              "write": true
+              "index": 4
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 4,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 5
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "？",
-              "pinyin": "？",
-              "index": 8,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 9
             }
           ],
-          "translation": "天黑了啊天黑了，为什么还不回家？",
-          "pinyin": "shì wēi shì wēi ， hú bù guī ？",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "式微：天色昏暗，比喻劳役艰辛而不得归。‘式’为发语词，无实义；‘微’指昏暗。"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "胡：为什么，疑问代词，用于句首表反问。"
-            },
-            {
-              "start": 0,
-              "end": 1,
-              "content": "式微：天将黑，引申为国家衰微。式，发语词；微，昏暗、衰落。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "式微：同上，重章叠句，强调时局衰败或天色已晚。"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "胡：为何，为什么。古汉语中常用作疑问副词。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 5,
-              "old": "为什么"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "姓氏或北方民族泛称"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "old": "为什么"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "胡乱、胡人（无‘为什么’义）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "天黑了，天黑了，为什么还不回家？"
+        },
         {
           "content": [
             {
               "char": "微",
               "pinyin": "wēi",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 13,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 14
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 15,
-              "read": true,
-              "write": false
+              "index": 16
             },
             {
               "char": "乎",
               "pinyin": "hū",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "露",
               "pinyin": "lù",
-              "index": 18,
-              "read": true,
-              "write": true
+              "index": 19
             },
             {
-              "char": "！",
-              "pinyin": "！",
-              "index": 19,
-              "read": false,
-              "write": false
+              "char": "？",
+              "pinyin": "",
+              "index": 20
             }
           ],
-          "translation": "如果不是为了君主的事，为何还在露水中劳作！",
-          "pinyin": "wēi jūn zhī gù ， hú wéi hū zhōng lù ！",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "微：如果没有，文言否定假设连词，与‘非’相近。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "故：缘故、原因，指君主征召服役之事。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "中露：在露水中。‘中’为方位词，‘露’指露水，语序为‘露中’的倒装，属状语后置。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "微：如果没有。此处为文言否定假设连词，非‘微小’之意。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "故：缘故、原因。指因公事而滞留于外。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "如果没有"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "微小、轻微"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "old": "如果没有"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "微小、轻微"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "宾语前置：‘胡为’即‘为胡’，疑问代词‘胡’作介词‘为’的宾语前置。"
-            },
-            {
-              "start": 7,
-              "end": 9,
-              "content": "状语后置：‘乎中露’即‘于露中’，介词结构作状语后置于动词‘为’之后。"
-            }
-          ]
+          "translation": "（如果）不是为了君主，何必还在露水中劳作！"
         }
       ]
     },
@@ -281,268 +134,117 @@
             {
               "char": "式",
               "pinyin": "shì",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "微",
               "pinyin": "wēi",
-              "index": 21,
-              "read": false,
-              "write": true
+              "index": 22
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 23
             },
             {
               "char": "式",
               "pinyin": "shì",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "微",
               "pinyin": "wēi",
-              "index": 23,
-              "read": false,
-              "write": true
+              "index": 25
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 24,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 26
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "？",
-              "pinyin": "？",
-              "index": 28,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 30
             }
           ],
-          "translation": "天黑了啊天黑了，为什么还不回家？",
-          "pinyin": "shì wēi shì wēi ， hú bù guī ？",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "式微：同前，天色将晚，暗示归家无望。"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "胡：为什么，同前，表反问语气。"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "胡：为何，为什么。与前文呼应，加强质问语气。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 5,
-              "old": "为什么"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "姓氏或北方民族泛称"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "old": "为什么"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "胡乱、胡人"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "宾语前置：‘胡为’即‘为胡’，结构同前。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": ""
+        },
         {
           "content": [
             {
               "char": "微",
               "pinyin": "wēi",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "躬",
               "pinyin": "gōng",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 33,
-              "read": false,
-              "write": true
+              "pinyin": "",
+              "index": 35
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 35,
-              "read": true,
-              "write": false
+              "index": 37
             },
             {
               "char": "乎",
               "pinyin": "hū",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "泥",
               "pinyin": "ní",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 38,
-              "read": true,
-              "write": true
+              "index": 40
             },
             {
-              "char": "！",
-              "pinyin": "！",
-              "index": 39,
-              "read": false,
-              "write": false
+              "char": "？",
+              "pinyin": "",
+              "index": 41
             }
           ],
-          "translation": "如果不是为了君主自身，为何还在泥泞中奔波！",
-          "pinyin": "wēi jūn zhī gōng ， hú wéi hū ní zhōng ！",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "微：如果没有，同前，用于假设条件。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "躬：身体，此处指君主自身的劳役需求，即‘为了你们的差事’。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "泥中：在泥里。‘泥’指泥泞之地，‘中’表处所，语序为‘泥中’倒装，即‘在泥中’，属状语后置。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "微：如果没有。用法同前，表假设条件。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "躬：身体。指君主自身的安危或事务。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "如果没有"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "微小、轻微"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "old": "如果没有"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "微小、轻微"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 7,
-              "end": 9,
-              "content": "状语后置：‘乎泥中’即‘于泥中’，介词结构后置修饰动词‘为’。"
-            }
-          ]
+          "translation": ""
         }
       ]
     }
-  ],
-  "background": "《式微》出自《诗经·邶风》，创作于周代，反映当时服役之人因公事滞留外地、不得归家的苦闷。‘式微’意为‘天将暮’，象征人生境遇的衰落与压迫。此诗可能为邶地百姓或役夫所作，表达对沉重劳役的不满与对家庭生活的深切思念。",
-  "appreciation": "全诗采用重章叠句结构，两章复沓，仅更换‘故’与‘躬’、‘中露’与‘泥中’，层层递进，强化了服役之苦的普遍性与持续性。‘式微式微，胡不归？’以设问起句，情感直切，充满无奈与控诉。‘微君之故’‘微君之躬’则用假设反问，揭示劳苦根源在于君主之需，暗含讽刺。语言质朴而情感深沉，是中国早期诗歌中表现民生疾苦的典范之作。",
-  "tags": [
-    "八年级下册",
-    "徭役诗",
-    "重章叠句",
-    "诗经"
   ]
 }

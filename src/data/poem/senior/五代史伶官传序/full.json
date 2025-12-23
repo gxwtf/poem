@@ -11,182 +11,111 @@
             {
               "char": "呜",
               "pinyin": "wū",
-              "index": 0,
-              "read": true,
-              "write": true
+              "index": 0
             },
             {
               "char": "呼",
               "pinyin": "hū",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             }
           ],
           "translation": "唉！",
-          "pinyin": "wū hū ！",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "呜呼：叹词，表示感慨，相当于“唉”。"
-            }
-          ]
+          "notes": []
         },
         {
           "content": [
             {
               "char": "盛",
               "pinyin": "shèng",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "衰",
               "pinyin": "shuāi",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "理",
               "pinyin": "lǐ",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "虽",
               "pinyin": "suī",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "命",
               "pinyin": "mìng",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "岂",
               "pinyin": "qǐ",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "事",
               "pinyin": "shì",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "哉",
               "pinyin": "zāi",
-              "index": 17,
-              "read": true,
-              "write": true
+              "index": 17
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             }
           ],
-          "translation": "盛衰的道理，虽说是天命决定的，难道说不是人事造成的吗？",
-          "pinyin": "shèng shuāi zhī lǐ ， suī yuē tiān mìng ， qǐ fēi rén shì zāi ！",
+          "translation": "国家的兴盛与衰败，虽与有天命注定的成分，但若与与人为因素无关，又怎么可能失？",
           "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "盛衰：兴盛和衰败。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "之：结构助词，的。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "虽曰：虽然说。虽，虽然；曰，说。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "天命：上天的意志。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "岂非：难道不是。"
-            },
             {
               "start": 12,
               "end": 13,
-              "content": "人事：人的作为。"
+              "content": "人的作为。"
             }
           ]
         },
@@ -195,218 +124,135 @@
             {
               "char": "原",
               "pinyin": "yuán",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "庄",
               "pinyin": "zhuāng",
-              "index": 20,
-              "read": true,
-              "write": false
+              "index": 20
             },
             {
               "char": "宗",
               "pinyin": "zōng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "失",
               "pinyin": "shī",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "矣",
               "pinyin": "yǐ",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             }
           ],
-          "translation": "推究庄宗所以取得天下，与他所以失去天下的原因，就可以明白了。",
-          "pinyin": "yuán zhuāng zōng zhī suǒ yǐ dé tiān xià ， yǔ qí suǒ yǐ shī zhī zhě ， kě yǐ zhī zhī yǐ 。",
+          "translation": "只要探究庄宗夺得天下与失去天下的缘由，其中的道理便一目了然。",
           "notes": [
             {
               "start": 0,
               "end": 0,
-              "content": "原：推究，考察。"
+              "content": "推其根本。"
             },
             {
               "start": 1,
               "end": 2,
-              "content": "庄宗：指后唐庄宗李存勖。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "之：结构助词，取消句子独立性。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "content": "所以：……的原因。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "content": "可以：可以用来。可，可以；以，用来。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 18,
-              "end": 19,
-              "old": "可以用来"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "new": "表示允许或可能"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 17,
-              "content": "宾语前置句，‘原庄宗之所以得天下’即‘推究庄宗得天下的原因’。"
+              "content": "后唐庄宗李存勖（885—926），五代后唐王朝的建立者，923年至926年在位。"
             }
           ]
         }
@@ -419,657 +265,433 @@
             {
               "char": "世",
               "pinyin": "shì",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "言",
               "pinyin": "yán",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "晋",
               "pinyin": "jìn",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "终",
               "pinyin": "zhōng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "三",
               "pinyin": "sān",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "矢",
               "pinyin": "shǐ",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "赐",
               "pinyin": "cì",
-              "index": 55,
-              "read": true,
-              "write": true
+              "index": 55
             },
             {
               "char": "庄",
               "pinyin": "zhuāng",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "宗",
               "pinyin": "zōng",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "告",
               "pinyin": "gào",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "梁",
               "pinyin": "liáng",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "仇",
               "pinyin": "chóu",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
+            }
+          ],
+          "translation": "世人相传，晋王敌终之际，将三支箭赐予庄宗，叮嘱道：“梁王朱温是我的仇敌，燕王是我扶持拥立的，契丹曾与我结为兄弟，可后来他们都背弃盟约转而投靠了梁国。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "李存勖之父李克用，沙陀部人（他的父亲姓朱邪，名赤心，有功于唐朝，赐姓名为李国昌），因出兵帮助唐朝镇压黄巢起义，受封为晋王。"
             },
+            {
+              "start": 21,
+              "end": 25,
+              "content": "梁王朱温是我的仇敌。梁，黄巢部将朱温，投降唐朝，赐名全忠，受封为梁王。唐僖宗时，他设计谋杀李克用，李克用也屡次上表请求讨伐他。李克用曾长期与朱温交战。"
+            }
+          ]
+        },
+        {
+          "content": [
             {
               "char": "燕",
               "pinyin": "yān",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 71,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "立",
               "pinyin": "lì",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 76,
-              "read": false,
-              "write": false
-            },
+              "index": 75
+            }
+          ],
+          "translation": "这三件事是我毕生的遗憾，今将三支箭交付于你，你千万不可忘记为父亲报仇的志向。”",
+          "notes": [
+            {
+              "start": 0,
+              "end": 4,
+              "content": "刘仁恭本来是幽州将领，借李克用的势力夺取幽州，任卢龙节度使。后来刘仁恭归附朱温，他的儿子刘守光开始称燕王，后来称帝。这里称刘仁恭为燕王，是笼统的说法。"
+            }
+          ]
+        },
+        {
+          "content": [
             {
               "char": "契",
               "pinyin": "qì",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "丹",
               "pinyin": "dān",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "约",
               "pinyin": "yuē",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "兄",
               "pinyin": "xiōng",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "弟",
               "pinyin": "dì",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 85,
-              "read": false,
-              "write": false
-            },
+              "index": 84
+            }
+          ],
+          "translation": "庄宗接过箭，郑重地收藏在祖庙之中。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 7,
+              "content": "李克用和契丹首领耶律阿保机订立盟约，结为兄弟，希望共同举兵攻打朱温。后来阿保机背盟，派人和朱温通好。"
+            }
+          ]
+        },
+        {
+          "content": [
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "皆",
               "pinyin": "jiē",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "背",
               "pinyin": "bèi",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "晋",
               "pinyin": "jìn",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "梁",
               "pinyin": "liáng",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "。",
-              "index": 93,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 92
             }
           ],
-          "translation": "世人传说晋王临死时，把三枝箭赐给庄宗，并告诉他说：“梁国是我的仇敌，燕王是我推立的，契丹与我约为兄弟，可是后来都背叛我去投靠了梁。",
-          "pinyin": "shì yán jìn wáng zhī jiāng zhōng yě ， yǐ sān shǐ cì zhuāng zōng ér gào zhī yuē ：“ liáng ， wú chóu yě ； yān wáng ， wú suǒ lì ； qì dān yǔ wú yuē wéi xiōng dì ； ér jiē bèi jìn yǐ guī liáng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "世言：世人说。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "晋王：指李存勖的父亲李克用，被封为晋王。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "之：结构助词，取消句子独立性。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "将终：将要去世的时候。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "以三矢：用三支箭。以，用。"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "content": "矢：箭。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "赐：赏赐。"
-            },
-            {
-              "start": 20,
-              "end": 21,
-              "content": "梁：指后梁太祖朱温，李克用、李存勖的仇敌。"
-            },
-            {
-              "start": 27,
-              "end": 28,
-              "content": "燕王：指刘仁恭、刘守光父子。刘仁恭本是李克用部将，后背叛归梁。"
-            },
-            {
-              "start": 34,
-              "end": 35,
-              "content": "契丹：指契丹首领耶律阿保机。"
-            },
-            {
-              "start": 36,
-              "end": 37,
-              "content": "与吾：和我。"
-            },
-            {
-              "start": 38,
-              "end": 39,
-              "content": "约为兄弟：约定结为兄弟。"
-            },
-            {
-              "start": 43,
-              "end": 44,
-              "content": "而皆：但是都。而，表转折。"
-            },
-            {
-              "start": 45,
-              "end": 45,
-              "content": "背：背叛。"
-            },
-            {
-              "start": 46,
-              "end": 46,
-              "content": "晋：指李克用。"
-            },
-            {
-              "start": 47,
-              "end": 48,
-              "content": "以归：而投靠。以，而。"
-            }
-          ]
+          "translation": "此后每当出兵征战，他都会派遣身边的属官，用猪羊祭祀祖先，再从祖庙中恭敬地取出箭，用华美的锦囊装裹，背着它促军在前，待到凯旋，再将箭放回祖庙。",
+          "notes": []
         },
         {
           "content": [
             {
               "char": "此",
               "pinyin": "cǐ",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "三",
               "pinyin": "sān",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "遗",
               "pinyin": "yí",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "恨",
               "pinyin": "hèn",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 101
             }
           ],
-          "translation": "这三件事是我的遗恨。",
-          "pinyin": "cǐ sān zhě ， wú yí hèn yě 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "此三者：这三件事。者，……的事情。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "content": "吾遗恨：我留下的遗憾。恨，遗憾。"
-            }
-          ]
+          "translation": "当他用绳索捆绑燕王父子，用木匣盛放梁国君臣的首级，步入祖庙将箭供奉在晋王灵位前，告知父亲报仇的志向已然实现时，那神情气概，何等威风凛凛！",
+          "notes": []
         },
         {
           "content": [
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "尔",
               "pinyin": "ěr",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "三",
               "pinyin": "sān",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "矢",
               "pinyin": "shǐ",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "尔",
               "pinyin": "ěr",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "忘",
               "pinyin": "wàng",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "乃",
               "pinyin": "nǎi",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "父",
               "pinyin": "fù",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "志",
               "pinyin": "zhì",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 115
             },
             {
               "char": "”",
-              "index": 117,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 116
             }
           ],
-          "translation": "交给你三枝箭，你不要忘记你父亲报仇的志向！”",
-          "pinyin": "yǔ ěr sān shǐ ， ěr qí wú wàng nǎi fù zhī zhì ！”",
+          "translation": "可等到仇敌尽数消灭，天下归于安定，有人在夜间起兵作乱，叛乱者便四方响应。",
           "notes": [
             {
-              "start": 0,
-              "end": 1,
-              "content": "与尔：给你。与，给；尔，你。"
-            },
-            {
-              "start": 5,
+              "start": 6,
               "end": 6,
-              "content": "尔其：你可要。其，语气副词，表示期望。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "无忘：不要忘记。无，通“毋”，不要。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "乃父：你的父亲。乃，你的。"
+              "content": "副词，表示祈使语气。"
             }
           ]
         },
@@ -1078,435 +700,266 @@
             {
               "char": "庄",
               "pinyin": "zhuāng",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "宗",
               "pinyin": "zōng",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "受",
               "pinyin": "shòu",
-              "index": 120,
-              "read": false,
-              "write": false
+              "index": 119
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 121,
-              "read": false,
-              "write": false
+              "index": 120
             },
             {
               "char": "藏",
               "pinyin": "cáng",
-              "index": 122,
-              "read": false,
-              "write": false
+              "index": 121
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 123,
-              "read": false,
-              "write": false
+              "index": 122
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 123
             },
             {
               "char": "庙",
               "pinyin": "miào",
-              "index": 125,
-              "read": false,
-              "write": false
+              "index": 124
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 126,
-              "read": false,
-              "write": false
+              "index": 125
             }
           ],
-          "translation": "庄宗受箭收藏在祖庙。",
-          "pinyin": "zhuāng zōng shòu ér cáng zhī yú miào 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "庄宗：指李存勖。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "受而藏之：接受并收藏它们。而，表顺承。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "于庙：在宗庙里。于，在。"
-            }
-          ]
+          "translation": "他仓促率军向东逃窜，还未遭遇叛军，部下士兵已然四散奔逃。",
+          "notes": []
         },
         {
           "content": [
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 126
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 128,
-              "read": false,
-              "write": false
+              "index": 127
             },
             {
               "char": "用",
               "pinyin": "yòng",
-              "index": 129,
-              "read": false,
-              "write": false
+              "index": 128
             },
             {
               "char": "兵",
               "pinyin": "bīng",
-              "index": 130,
-              "read": false,
-              "write": false
+              "index": 129
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 131,
-              "read": false,
-              "write": false
+              "index": 130
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 132,
-              "read": false,
-              "write": false
+              "index": 131
             },
             {
               "char": "遣",
               "pinyin": "qiǎn",
-              "index": 133,
-              "read": false,
-              "write": false
+              "index": 132
             },
             {
               "char": "从",
               "pinyin": "cóng",
-              "index": 134,
-              "read": false,
-              "write": false
+              "index": 133
             },
             {
               "char": "事",
               "pinyin": "shì",
-              "index": 135,
-              "read": false,
-              "write": false
+              "index": 134
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 136,
-              "read": false,
-              "write": false
+              "index": 135
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 137,
-              "read": false,
-              "write": false
+              "index": 136
             },
             {
               "char": "少",
               "pinyin": "shào",
-              "index": 138,
-              "read": false,
-              "write": false
+              "index": 137
             },
             {
               "char": "牢",
               "pinyin": "láo",
-              "index": 139,
-              "read": false,
-              "write": false
+              "index": 138
             },
             {
               "char": "告",
               "pinyin": "gào",
-              "index": 140,
-              "read": false,
-              "write": true
+              "index": 139
             },
             {
               "char": "庙",
               "pinyin": "miào",
-              "index": 141,
-              "read": false,
-              "write": false
+              "index": 140
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 142,
-              "read": false,
-              "write": false
+              "index": 141
             },
             {
               "char": "请",
               "pinyin": "qǐng",
-              "index": 143,
-              "read": false,
-              "write": false
+              "index": 142
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 144,
-              "read": false,
-              "write": false
+              "index": 143
             },
             {
               "char": "矢",
               "pinyin": "shǐ",
-              "index": 145,
-              "read": false,
-              "write": false
+              "index": 144
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 146,
-              "read": false,
-              "write": false
+              "index": 145
             },
             {
               "char": "盛",
               "pinyin": "chéng",
-              "index": 147,
-              "read": false,
-              "write": false
+              "index": 146
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 148,
-              "read": false,
-              "write": false
+              "index": 147
             },
             {
               "char": "锦",
               "pinyin": "jǐn",
-              "index": 149,
-              "read": false,
-              "write": false
+              "index": 148
             },
             {
               "char": "囊",
               "pinyin": "náng",
-              "index": 150,
-              "read": false,
-              "write": false
+              "index": 149
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 151,
-              "read": false,
-              "write": false
+              "index": 150
             },
             {
               "char": "负",
               "pinyin": "fù",
-              "index": 152,
-              "read": false,
-              "write": false
+              "index": 151
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 153,
-              "read": false,
-              "write": false
+              "index": 152
             },
             {
               "char": "前",
               "pinyin": "qián",
-              "index": 154,
-              "read": false,
-              "write": false
+              "index": 153
             },
             {
               "char": "驱",
               "pinyin": "qū",
-              "index": 155,
-              "read": false,
-              "write": false
+              "index": 154
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 156,
-              "read": false,
-              "write": false
+              "index": 155
             },
             {
               "char": "及",
               "pinyin": "jí",
-              "index": 157,
-              "read": false,
-              "write": false
+              "index": 156
             },
             {
               "char": "凯",
               "pinyin": "kǎi",
-              "index": 158,
-              "read": false,
-              "write": false
+              "index": 157
             },
             {
               "char": "旋",
               "pinyin": "xuán",
-              "index": 159,
-              "read": false,
-              "write": false
+              "index": 158
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 160,
-              "read": false,
-              "write": false
+              "index": 159
             },
             {
               "char": "纳",
               "pinyin": "nà",
-              "index": 161,
-              "read": false,
-              "write": false
+              "index": 160
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 162,
-              "read": false,
-              "write": false
+              "index": 161
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 163,
-              "read": false,
-              "write": false
+              "index": 162
             }
           ],
-          "translation": "以后庄宗出兵打仗，便派手下的随从官员，用猪羊去祭告祖先，从宗庙里恭敬地取出箭来，装在漂亮的丝织口袋里，使人背着在军前开路，等打了胜仗回来，仍旧把箭收进宗庙。",
-          "pinyin": "qí hòu yòng bīng ， zé qiǎn cóng shì yǐ yī shǎo láo gào miào ， qǐng qí shǐ ， shèng yǐ jǐn náng ， fù ér qián qū ， jí kǎi xuán ér nà zhī 。",
+          "translation": "君臣相视无言，不知该往何处去，最终到了割下头发对天盟誓、抱头痛哭、泪水浸湿衣襟的凄惨境地，何等衰败落魄啊！",
           "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "其后：那以后。其，那。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "用兵：出兵打仗。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "则遣：就派遣。则，就。"
-            },
             {
               "start": 7,
               "end": 8,
-              "content": "从事：官名，这里泛指属官。"
+              "content": "官名，这里泛指一般属官。"
             },
             {
-              "start": 9,
-              "end": 10,
-              "content": "以一少牢：用一份少牢。少牢，古代祭祀用羊和猪各一头称“少牢”。"
+              "start": 10,
+              "end": 12,
+              "content": "羊、猪各一头。古代祭祀用牛、羊、猪各一头叫“太牢”，用羊、猪各一头叫“少牢”。牢，祭祀用的牲畜。"
             },
             {
               "start": 13,
               "end": 14,
-              "content": "告庙：祭告宗庙。"
+              "content": "天子或诸侯遇出巡、战争等重大事件而祭告祖庙。"
             },
             {
               "start": 16,
-              "end": 17,
-              "content": "请其矢：请出那三支箭。"
-            },
-            {
-              "start": 20,
-              "end": 21,
-              "content": "盛以锦囊：用锦囊装着。盛，装；以，用。"
-            },
-            {
-              "start": 25,
-              "end": 26,
-              "content": "负而前驱：背着在前面奔跑。负，背；而，表修饰；前驱，在前面跑。"
-            },
-            {
-              "start": 30,
-              "end": 31,
-              "content": "及凯旋：等到胜利归来。及，等到；凯旋，胜利归来。"
+              "end": 18,
+              "content": "恭敬地取出他父亲（留下）的箭。请，敬辞，用以代替某些动词，表示恭敬、慎重。"
             },
             {
               "start": 34,
               "end": 35,
-              "content": "纳之：把它们放回（宗庙）。纳，放回。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 9,
-              "end": 9,
-              "old": "官名，泛指属官"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "new": "投身到事业中"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "old": "猪和羊的祭祀"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "new": "监狱"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 20,
-              "end": 24,
-              "content": "状语后置句，‘盛以锦囊’即‘以锦囊盛’（用锦囊装着）。"
+              "content": "把箭收藏（在祖庙里）。"
             }
           ]
         }
@@ -1519,374 +972,230 @@
             {
               "char": "方",
               "pinyin": "fāng",
-              "index": 164,
-              "read": false,
-              "write": false
+              "index": 163
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 165,
-              "read": false,
-              "write": false
+              "index": 164
             },
             {
               "char": "系",
               "pinyin": "xì",
-              "index": 166,
-              "read": false,
-              "write": false
+              "index": 165
             },
             {
               "char": "燕",
               "pinyin": "yān",
-              "index": 167,
-              "read": false,
-              "write": false
+              "index": 166
             },
             {
               "char": "父",
               "pinyin": "fù",
-              "index": 168,
-              "read": false,
-              "write": false
+              "index": 167
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 169,
-              "read": false,
-              "write": false
+              "index": 168
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 170,
-              "read": false,
-              "write": false
+              "index": 169
             },
             {
               "char": "组",
               "pinyin": "zǔ",
-              "index": 171,
-              "read": false,
-              "write": false
+              "index": 170
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 172,
-              "read": false,
-              "write": false
+              "index": 171
             },
             {
               "char": "函",
               "pinyin": "hán",
-              "index": 173,
-              "read": true,
-              "write": true
+              "index": 172
             },
             {
               "char": "梁",
               "pinyin": "liáng",
-              "index": 174,
-              "read": false,
-              "write": false
+              "index": 173
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 175,
-              "read": false,
-              "write": false
+              "index": 174
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 176,
-              "read": false,
-              "write": false
+              "index": 175
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 177,
-              "read": false,
-              "write": false
+              "index": 176
             },
             {
               "char": "首",
               "pinyin": "shǒu",
-              "index": 178,
-              "read": false,
-              "write": false
+              "index": 177
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 179,
-              "read": false,
-              "write": false
+              "index": 178
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 180,
-              "read": false,
-              "write": false
+              "index": 179
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 181,
-              "read": false,
-              "write": false
+              "index": 180
             },
             {
               "char": "太",
               "pinyin": "tài",
-              "index": 182,
-              "read": false,
-              "write": false
+              "index": 181
             },
             {
               "char": "庙",
               "pinyin": "miào",
-              "index": 183,
-              "read": false,
-              "write": false
+              "index": 182
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 184,
-              "read": false,
-              "write": false
+              "index": 183
             },
             {
               "char": "还",
               "pinyin": "huán",
-              "index": 185,
-              "read": false,
-              "write": false
+              "index": 184
             },
             {
               "char": "矢",
               "pinyin": "shǐ",
-              "index": 186,
-              "read": false,
-              "write": false
+              "index": 185
             },
             {
               "char": "先",
               "pinyin": "xiān",
-              "index": 187,
-              "read": false,
-              "write": false
+              "index": 186
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 188,
-              "read": false,
-              "write": false
+              "index": 187
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 189,
-              "read": false,
-              "write": false
+              "index": 188
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 190,
-              "read": false,
-              "write": false
+              "index": 189
             },
             {
               "char": "告",
               "pinyin": "gào",
-              "index": 191,
-              "read": false,
-              "write": false
+              "index": 190
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 192,
-              "read": false,
-              "write": false
+              "index": 191
             },
             {
               "char": "成",
               "pinyin": "chéng",
-              "index": 193,
-              "read": false,
-              "write": false
+              "index": 192
             },
             {
               "char": "功",
               "pinyin": "gōng",
-              "index": 194,
-              "read": false,
-              "write": false
+              "index": 193
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 195,
-              "read": false,
-              "write": false
+              "index": 194
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 196,
-              "read": false,
-              "write": false
+              "index": 195
             },
             {
               "char": "意",
               "pinyin": "yì",
-              "index": 197,
-              "read": false,
-              "write": false
+              "index": 196
             },
             {
               "char": "气",
               "pinyin": "qì",
-              "index": 198,
-              "read": false,
-              "write": false
+              "index": 197
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 199,
-              "read": false,
-              "write": false
+              "index": 198
             },
             {
               "char": "盛",
               "pinyin": "shèng",
-              "index": 200,
-              "read": false,
-              "write": false
+              "index": 199
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 201,
-              "read": false,
-              "write": false
+              "index": 200
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 202,
-              "read": false,
-              "write": false
+              "index": 201
             },
             {
               "char": "谓",
               "pinyin": "wèi",
-              "index": 203,
-              "read": false,
-              "write": false
+              "index": 202
             },
             {
               "char": "壮",
               "pinyin": "zhuàng",
-              "index": 204,
-              "read": false,
-              "write": false
+              "index": 203
             },
             {
               "char": "哉",
               "pinyin": "zāi",
-              "index": 205,
-              "read": false,
-              "write": false
+              "index": 204
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 206,
-              "read": false,
-              "write": false
+              "index": 205
             }
           ],
-          "translation": "当他用绳子绑住燕王父子，用小木匣装着梁国君臣的头，走进祖庙，把箭交还到晋王的灵座前，告诉他生前报仇的志向已经完成，他那神情气概，是多么威风！",
-          "pinyin": "fāng qí xì yān fù zǐ yǐ zǔ ， hán liáng jūn chén zhī shǒu ， rù yú tài miào ， huán shǐ xiān wáng ， ér gào yǐ chéng gōng ， qí yì qì zhī shèng ， kě wèi zhuàng zāi ！",
+          "translation": "难道是夺得天下艰难，而失去天下容易才导致这般结果吗？",
           "notes": [
             {
-              "start": 0,
-              "end": 1,
-              "content": "方其：当他。方，当；其，他。"
-            },
-            {
               "start": 2,
-              "end": 3,
-              "content": "系燕父子：捆绑燕王刘仁恭父子。系，捆绑。"
-            },
-            {
-              "start": 7,
               "end": 7,
-              "content": "组：丝带，这里指绳索。"
+              "content": "用绳索捆绑着刘仁恭、刘守光父子。911年，刘守光自称大燕皇帝。913年，李存勖派兵攻破幽州，俘获刘仁恭及其族人；刘守光逃到沧州，仍被捕获。父子都被处死。系，缚。组，丝带、丝绳，这里泛指绳索。"
             },
             {
               "start": 9,
-              "end": 9,
-              "content": "函：用木匣装。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "梁君臣：指后梁末帝朱友贞及其部将皇甫麟等。"
-            },
-            {
-              "start": 14,
               "end": 14,
-              "content": "首：头颅。"
-            },
-            {
-              "start": 16,
-              "end": 17,
-              "content": "入于：进入。于，助词，无实义。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "content": "太庙：帝王的祖庙。"
-            },
-            {
-              "start": 21,
-              "end": 22,
-              "content": "还矢：把箭放回。"
-            },
-            {
-              "start": 23,
-              "end": 24,
-              "content": "先王：指李克用。"
-            },
-            {
-              "start": 26,
-              "end": 27,
-              "content": "告以成功：把成功的事祭告（先王）。告以，把……告。"
-            },
-            {
-              "start": 32,
-              "end": 33,
-              "content": "意气：气势。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 26,
-              "end": 31,
-              "content": "状语后置句，‘告以成功’即‘以成功告’（把成功的事祭告）。"
+              "content": "用木匣子装着后梁皇帝、大臣的头。923年，后唐军队攻入开封。后梁末帝朱友贞命令部将皇甫麟杀死自己。皇甫麟杀了末帝，随后自杀。函，匣子，这里用作动词，用匣子装。"
             }
           ]
         },
@@ -1895,422 +1204,245 @@
             {
               "char": "及",
               "pinyin": "jí",
-              "index": 207,
-              "read": false,
-              "write": false
+              "index": 206
             },
             {
               "char": "仇",
               "pinyin": "chóu",
-              "index": 208,
-              "read": false,
-              "write": false
+              "index": 207
             },
             {
               "char": "雠",
               "pinyin": "chóu",
-              "index": 209,
-              "read": true,
-              "write": true
+              "index": 208
             },
             {
               "char": "已",
               "pinyin": "yǐ",
-              "index": 210,
-              "read": false,
-              "write": false
+              "index": 209
             },
             {
               "char": "灭",
               "pinyin": "miè",
-              "index": 211,
-              "read": false,
-              "write": false
+              "index": 210
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 212,
-              "read": false,
-              "write": false
+              "index": 211
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 213,
-              "read": false,
-              "write": false
+              "index": 212
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 214,
-              "read": false,
-              "write": false
+              "index": 213
             },
             {
               "char": "已",
               "pinyin": "yǐ",
-              "index": 215,
-              "read": false,
-              "write": false
+              "index": 214
             },
             {
               "char": "定",
               "pinyin": "dìng",
-              "index": 216,
-              "read": false,
-              "write": false
+              "index": 215
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 217,
-              "read": false,
-              "write": false
+              "index": 216
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 218,
-              "read": false,
-              "write": false
+              "index": 217
             },
             {
               "char": "夫",
               "pinyin": "fū",
-              "index": 219,
-              "read": false,
-              "write": false
+              "index": 218
             },
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 220,
-              "read": false,
-              "write": false
+              "index": 219
             },
             {
               "char": "呼",
               "pinyin": "hū",
-              "index": 221,
-              "read": false,
-              "write": false
+              "index": 220
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 222,
-              "read": false,
-              "write": false
+              "index": 221
             },
             {
               "char": "乱",
               "pinyin": "luàn",
-              "index": 223,
-              "read": false,
-              "write": false
+              "index": 222
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 224,
-              "read": false,
-              "write": false
+              "index": 223
             },
             {
               "char": "四",
               "pinyin": "sì",
-              "index": 225,
-              "read": false,
-              "write": false
+              "index": 224
             },
             {
               "char": "应",
               "pinyin": "yìng",
-              "index": 226,
-              "read": false,
-              "write": false
+              "index": 225
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 227,
-              "read": false,
-              "write": false
+              "index": 226
             },
             {
               "char": "仓",
               "pinyin": "cāng",
-              "index": 228,
-              "read": false,
-              "write": false
+              "index": 227
             },
             {
               "char": "皇",
               "pinyin": "huáng",
-              "index": 229,
-              "read": false,
-              "write": false
+              "index": 228
             },
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 230,
-              "read": false,
-              "write": false
+              "index": 229
             },
             {
               "char": "出",
               "pinyin": "chū",
-              "index": 231,
-              "read": false,
-              "write": false
+              "index": 230
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 232,
-              "read": false,
-              "write": false
+              "index": 231
             },
             {
               "char": "未",
               "pinyin": "wèi",
-              "index": 233,
-              "read": false,
-              "write": false
+              "index": 232
             },
             {
               "char": "及",
               "pinyin": "jí",
-              "index": 234,
-              "read": false,
-              "write": false
+              "index": 233
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 235,
-              "read": false,
-              "write": false
+              "index": 234
             },
             {
               "char": "贼",
               "pinyin": "zéi",
-              "index": 236,
-              "read": false,
-              "write": false
+              "index": 235
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 237,
-              "read": false,
-              "write": false
+              "index": 236
             },
             {
               "char": "士",
               "pinyin": "shì",
-              "index": 238,
-              "read": false,
-              "write": false
+              "index": 237
             },
             {
               "char": "卒",
               "pinyin": "zú",
-              "index": 239,
-              "read": false,
-              "write": false
+              "index": 238
             },
             {
               "char": "离",
               "pinyin": "lí",
-              "index": 240,
-              "read": false,
-              "write": false
+              "index": 239
             },
             {
               "char": "散",
               "pinyin": "sàn",
-              "index": 241,
-              "read": false,
-              "write": false
+              "index": 240
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 242,
-              "read": false,
-              "write": false
+              "index": 241
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 243,
-              "read": false,
-              "write": false
+              "index": 242
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 244,
-              "read": false,
-              "write": false
+              "index": 243
             },
             {
               "char": "相",
               "pinyin": "xiāng",
-              "index": 245,
-              "read": false,
-              "write": false
+              "index": 244
             },
             {
               "char": "顾",
               "pinyin": "gù",
-              "index": 246,
-              "read": false,
-              "write": false
+              "index": 245
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 247,
-              "read": false,
-              "write": false
+              "index": 246
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 248,
-              "read": false,
-              "write": false
+              "index": 247
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 249,
-              "read": false,
-              "write": false
+              "index": 248
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 250,
-              "read": false,
-              "write": false
+              "index": 249
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 251,
-              "read": false,
-              "write": false
+              "index": 250
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 252,
-              "read": false,
-              "write": false
+              "index": 251
             }
           ],
-          "translation": "等到仇敌已经消灭，天下已经安定，一人在夜里发难，作乱的人四面响应，他慌慌张张出兵东进，还没见到乱贼，部下的兵士就纷纷逃散，君臣们你看着我，我看着你，不知道哪里去好；",
-          "pinyin": "jí chóu chóu yǐ miè ， tiān xià yǐ dìng ， yī fū yè hū ， luàn zhě sì yìng ， cāng huáng dōng chū ， wèi jí jiàn zéi ér shì zú lí sàn ， jūn chén xiāng gù ， bù zhī suǒ guī 。",
+          "translation": "还是与，认真推究他成败的根源，全在于人为因素失？",
           "notes": [
             {
-              "start": 0,
-              "end": 1,
-              "content": "及仇雠已灭：等到仇敌已经灭亡。及，等到；仇雠，仇敌。"
+              "start": 1,
+              "end": 2,
+              "content": "仇人。雠，与“仇”同义。"
             },
             {
               "start": 11,
-              "end": 12,
-              "content": "一夫：一个人，指皇甫晖。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "夜呼：在夜里呼喊。"
-            },
-            {
-              "start": 16,
-              "end": 17,
-              "content": "乱者：作乱的人。"
-            },
-            {
-              "start": 18,
               "end": 19,
-              "content": "四应：在四方响应。"
-            },
-            {
-              "start": 21,
-              "end": 22,
-              "content": "仓皇：匆忙慌张的样子。"
-            },
-            {
-              "start": 23,
-              "end": 24,
-              "content": "东出：向东出逃。"
-            },
-            {
-              "start": 26,
-              "end": 27,
-              "content": "未及：没有等到。"
-            },
-            {
-              "start": 28,
-              "end": 29,
-              "content": "见贼：看见乱贼。"
-            },
-            {
-              "start": 31,
-              "end": 32,
-              "content": "士卒：士兵。"
-            },
-            {
-              "start": 33,
-              "end": 34,
-              "content": "离散：溃散。"
-            },
-            {
-              "start": 36,
-              "end": 37,
-              "content": "君臣：指庄宗和大臣。"
-            },
-            {
-              "start": 38,
-              "end": 39,
-              "content": "相顾：互相看着。"
-            },
-            {
-              "start": 41,
-              "end": 42,
-              "content": "不知：不知道。"
-            },
-            {
-              "start": 43,
-              "end": 44,
-              "content": "所归：去哪里。所，地方；归，归向。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 2,
-              "end": 2,
-              "old": "仇敌"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "new": "仇恨"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 41,
-              "end": 45,
-              "content": "固定结构，‘不知所归’即‘不知归所’（不知道去哪里）。"
+              "content": "一个人夜里呼喊，作乱的人四方响应。926年，屯驻在贝州（今河北清河）的后唐军士皇甫晖勾结党羽作乱，拥立指挥使赵在礼为帅，攻入邺都（今河南安阳）。邢州（今河北邢台）、沧州（今属河北）驻军相继叛乱。"
             }
           ]
         },
@@ -2319,388 +1451,242 @@
             {
               "char": "至",
               "pinyin": "zhì",
-              "index": 253,
-              "read": false,
-              "write": false
+              "index": 252
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 254,
-              "read": false,
-              "write": false
+              "index": 253
             },
             {
               "char": "誓",
               "pinyin": "shì",
-              "index": 255,
-              "read": false,
-              "write": false
+              "index": 254
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 256,
-              "read": false,
-              "write": false
+              "index": 255
             },
             {
               "char": "断",
               "pinyin": "duàn",
-              "index": 257,
-              "read": false,
-              "write": false
+              "index": 256
             },
             {
               "char": "发",
               "pinyin": "fà",
-              "index": 258,
-              "read": true,
-              "write": true
+              "index": 257
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 259,
-              "read": false,
-              "write": false
+              "index": 258
             },
             {
               "char": "泣",
               "pinyin": "qì",
-              "index": 260,
-              "read": false,
-              "write": false
+              "index": 259
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 261,
-              "read": false,
-              "write": false
+              "index": 260
             },
             {
               "char": "沾",
               "pinyin": "zhān",
-              "index": 262,
-              "read": false,
-              "write": false
+              "index": 261
             },
             {
               "char": "襟",
               "pinyin": "jīn",
-              "index": 263,
-              "read": false,
-              "write": false
+              "index": 262
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 264,
-              "read": false,
-              "write": false
+              "index": 263
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 265,
-              "read": false,
-              "write": false
+              "index": 264
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 266,
-              "read": false,
-              "write": false
+              "index": 265
             },
             {
               "char": "衰",
               "pinyin": "shuāi",
-              "index": 267,
-              "read": false,
-              "write": false
+              "index": 266
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 268,
-              "read": false,
-              "write": false
+              "index": 267
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 269,
-              "read": false,
-              "write": false
+              "index": 268
             }
           ],
-          "translation": "到了割下头发来对天发誓，抱头痛哭，眼泪沾湿衣襟的可怜地步，怎么那样的衰败差劲呢！",
-          "pinyin": "zhì yú shì tiān duàn fà ， qì xià zhān jīn ， hé qí shuāi yě ！",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "至于：甚至到了……的地步。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "誓天：对天发誓。"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "断：割断。"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "content": "发：头发。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "泣下：眼泪流下。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "沾襟：沾湿衣襟。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "何其：多么。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 8,
-              "old": "眼泪"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "new": "哭泣"
-            }
-          ]
+          "translation": "《尚书》有言：“自满会招致损害，谦逊能获得益处。”",
+          "notes": []
         },
         {
           "content": [
             {
               "char": "岂",
               "pinyin": "qǐ",
-              "index": 270,
-              "read": false,
-              "write": false
+              "index": 269
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 271,
-              "read": false,
-              "write": false
+              "index": 270
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 272,
-              "read": false,
-              "write": false
+              "index": 271
             },
             {
               "char": "难",
               "pinyin": "nán",
-              "index": 273,
-              "read": false,
-              "write": false
+              "index": 272
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 274,
-              "read": false,
-              "write": false
+              "index": 273
             },
             {
               "char": "失",
               "pinyin": "shī",
-              "index": 275,
-              "read": false,
-              "write": false
+              "index": 274
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 276,
-              "read": false,
-              "write": false
+              "index": 275
             },
             {
               "char": "易",
               "pinyin": "yì",
-              "index": 277,
-              "read": false,
-              "write": false
+              "index": 276
             },
             {
               "char": "欤",
               "pinyin": "yú",
-              "index": 278,
-              "read": false,
-              "write": false
+              "index": 277
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 279,
-              "read": false,
-              "write": false
+              "index": 278
             }
           ],
-          "translation": "难道说是因为取得天下难，而失去天下容易才像这样的吗？",
-          "pinyin": "qǐ dé zhī nán ér shī zhī yì yú ？",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "岂得之难：难道是取得天下困难。岂，难道；之，指天下。"
-            },
-            {
-              "start": 2,
-              "end": 6,
-              "content": "而失之易欤：而失去天下容易吗？而，表转折；欤，吗。"
-            }
-          ]
+          "translation": "忧虑辛劳能让国家兴盛，安逸享乐会使自身覆灭，这是亘古不变的道理。",
+          "notes": []
         },
         {
           "content": [
             {
               "char": "抑",
               "pinyin": "yì",
-              "index": 280,
-              "read": true,
-              "write": true
+              "index": 279
             },
             {
               "char": "本",
               "pinyin": "běn",
-              "index": 281,
-              "read": false,
-              "write": false
+              "index": 280
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 282,
-              "read": false,
-              "write": false
+              "index": 281
             },
             {
               "char": "成",
               "pinyin": "chéng",
-              "index": 283,
-              "read": false,
-              "write": false
+              "index": 282
             },
             {
               "char": "败",
               "pinyin": "bài",
-              "index": 284,
-              "read": false,
-              "write": false
+              "index": 283
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 285,
-              "read": false,
-              "write": false
+              "index": 284
             },
             {
               "char": "迹",
               "pinyin": "jì",
-              "index": 286,
-              "read": false,
-              "write": false
+              "index": 285
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 287,
-              "read": false,
-              "write": false
+              "index": 286
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 288,
-              "read": false,
-              "write": false
+              "index": 287
             },
             {
               "char": "皆",
               "pinyin": "jiē",
-              "index": 289,
-              "read": false,
-              "write": false
+              "index": 288
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 290,
-              "read": false,
-              "write": false
+              "index": 289
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 291,
-              "read": false,
-              "write": false
+              "index": 290
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 292,
-              "read": false,
-              "write": false
+              "index": 291
             },
             {
               "char": "欤",
               "pinyin": "yú",
-              "index": 293,
-              "read": false,
-              "write": false
+              "index": 292
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 294,
-              "read": true,
-              "write": false
+              "index": 293
             }
           ],
-          "translation": "还是认真推究他成功失败的原因，都是由于人事呢？",
-          "pinyin": "yì běn qí chéng bài zhī jì ， ér jiē zì yú rén yú ？",
+          "translation": "因此，当他兴盛之时，天下豪杰无人能与他抗衡；",
           "notes": [
             {
               "start": 0,
+              "end": 0,
+              "content": "或者，还是。"
+            },
+            {
+              "start": 1,
               "end": 1,
-              "content": "抑本其：或者推究他。抑，或者；本，推究；其，他。"
+              "content": "考察，探究。"
             },
             {
-              "start": 2,
-              "end": 6,
-              "content": "成败之迹：成功和失败的事迹。之，的；迹，事迹。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "而皆自于人欤：却都由于人事吗？而，却；自于，由于；人，人事；欤，吗。"
+              "start": 9,
+              "end": 13,
+              "content": "都出自人的原因吗？"
             }
           ]
         },
@@ -2709,131 +1695,85 @@
             {
               "char": "《",
               "pinyin": "",
-              "index": 295,
-              "read": false,
-              "write": false
+              "index": 294
             },
             {
               "char": "书",
               "pinyin": "shū",
-              "index": 296,
-              "read": false,
-              "write": false
+              "index": 295
             },
             {
               "char": "》",
               "pinyin": "",
-              "index": 297,
-              "read": false,
-              "write": false
+              "index": 296
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 298,
-              "read": false,
-              "write": false
+              "index": 297
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 299,
-              "read": false,
-              "write": false
+              "index": 298
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 300,
-              "read": false,
-              "write": false
+              "index": 299
             },
             {
               "char": "满",
               "pinyin": "mǎn",
-              "index": 301,
-              "read": false,
-              "write": false
+              "index": 300
             },
             {
               "char": "招",
               "pinyin": "zhāo",
-              "index": 302,
-              "read": false,
-              "write": false
+              "index": 301
             },
             {
               "char": "损",
               "pinyin": "sǔn",
-              "index": 303,
-              "read": false,
-              "write": false
+              "index": 302
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 304,
-              "read": false,
-              "write": false
+              "index": 303
             },
             {
               "char": "谦",
               "pinyin": "qiān",
-              "index": 305,
-              "read": false,
-              "write": false
+              "index": 304
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 306,
-              "read": false,
-              "write": false
+              "index": 305
             },
             {
               "char": "益",
               "pinyin": "yì",
-              "index": 307,
-              "read": false,
-              "write": false
+              "index": 306
             },
             {
               "char": "。",
-              "index": 308,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 307
             },
             {
               "char": "”",
-              "index": 309,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 308
             }
           ],
-          "translation": "《尚书》上说：“自满会招来损害，谦虚能得到益处。”",
-          "pinyin": "《 shū 》 yuē ：“ mǎn zhāo sǔn ， qiān dé yì 。”",
+          "translation": "可到了衰败之际，却被数十个伶人困住，最终身死国灭，被天下人耻笑。",
           "notes": [
             {
-              "start": 0,
-              "end": 1,
-              "content": "《书》：指《尚书》。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "曰：说。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "满招损：自满会招来损失。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "谦得益：谦虚会得到好处。"
+              "start": 6,
+              "end": 12,
+              "content": "语出《尚书·大禹谟》。原句是“满招损，谦受益”。"
             }
           ]
         },
@@ -2842,181 +1782,110 @@
             {
               "char": "忧",
               "pinyin": "yōu",
-              "index": 310,
-              "read": false,
-              "write": false
+              "index": 309
             },
             {
               "char": "劳",
               "pinyin": "láo",
-              "index": 311,
-              "read": false,
-              "write": false
+              "index": 310
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 312,
-              "read": false,
-              "write": false
+              "index": 311
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 313,
-              "read": false,
-              "write": false
+              "index": 312
             },
             {
               "char": "兴",
               "pinyin": "xīng",
-              "index": 314,
-              "read": false,
-              "write": false
+              "index": 313
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 315,
-              "read": false,
-              "write": false
+              "index": 314
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 316,
-              "read": false,
-              "write": false
+              "index": 315
             },
             {
               "char": "逸",
               "pinyin": "yì",
-              "index": 317,
-              "read": false,
-              "write": false
+              "index": 316
             },
             {
               "char": "豫",
               "pinyin": "yù",
-              "index": 318,
-              "read": false,
-              "write": false
+              "index": 317
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 319,
-              "read": false,
-              "write": false
+              "index": 318
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 320,
-              "read": false,
-              "write": false
+              "index": 319
             },
             {
               "char": "亡",
               "pinyin": "wáng",
-              "index": 321,
-              "read": false,
-              "write": false
+              "index": 320
             },
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 322,
-              "read": false,
-              "write": false
+              "index": 321
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 323,
-              "read": false,
-              "write": false
+              "index": 322
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 324,
-              "read": false,
-              "write": false
+              "index": 323
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 325,
-              "read": false,
-              "write": false
+              "index": 324
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 326,
-              "read": false,
-              "write": false
+              "index": 325
             },
             {
               "char": "理",
               "pinyin": "lǐ",
-              "index": 327,
-              "read": false,
-              "write": false
+              "index": 326
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 328,
-              "read": false,
-              "write": false
+              "index": 327
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 329,
-              "read": false,
-              "write": false
+              "index": 328
             }
           ],
-          "translation": "忧劳可以使国家兴盛，安乐可以使自身灭亡，这是自然的道理。",
-          "pinyin": "yōu láo kě yǐ xīng guó ， yì yù kě yǐ wáng shēn ， zì rán zhī lǐ yě 。",
+          "translation": "祸患往往是由细微的过失日年月累酿成的，即便是聪慧有才、英勇果敢之人，也常常因沉迷于某种嗜好而被迷惑，最终陷入困厄，难道仅仅是伶人让他沉溺吗？",
           "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "忧劳：忧虑勤劳。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "可以：可以用来。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "content": "兴国：使国家兴盛。"
-            },
             {
               "start": 7,
               "end": 8,
-              "content": "逸豫：安逸享乐。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "可以：可以用来。"
-            },
-            {
-              "start": 11,
-              "end": 12,
-              "content": "亡身：使自身灭亡。"
-            },
-            {
-              "start": 14,
-              "end": 15,
-              "content": "自然：理所当然。"
+              "content": "安乐。指李存勖喜好音律，宠用伶人，以至自傅粉墨，与伶人共戏于庭。"
             }
           ]
         }
@@ -3029,357 +1898,237 @@
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 330,
-              "read": false,
-              "write": false
+              "index": 329
             },
             {
               "char": "方",
               "pinyin": "fāng",
-              "index": 331,
-              "read": false,
-              "write": false
+              "index": 330
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 332,
-              "read": false,
-              "write": false
+              "index": 331
             },
             {
               "char": "盛",
               "pinyin": "shèng",
-              "index": 333,
-              "read": false,
-              "write": false
+              "index": 332
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 334,
-              "read": false,
-              "write": false
+              "index": 333
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 335,
-              "read": false,
-              "write": false
+              "index": 334
             },
             {
               "char": "举",
               "pinyin": "jǔ",
-              "index": 336,
-              "read": false,
-              "write": false
+              "index": 335
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 337,
-              "read": false,
-              "write": false
+              "index": 336
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 338,
-              "read": false,
-              "write": false
+              "index": 337
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 339,
-              "read": false,
-              "write": false
+              "index": 338
             },
             {
               "char": "豪",
               "pinyin": "háo",
-              "index": 340,
-              "read": false,
-              "write": false
+              "index": 339
             },
             {
               "char": "杰",
               "pinyin": "jié",
-              "index": 341,
-              "read": false,
-              "write": false
+              "index": 340
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 342,
-              "read": false,
-              "write": false
+              "index": 341
             },
             {
               "char": "莫",
               "pinyin": "mò",
-              "index": 343,
-              "read": false,
-              "write": false
+              "index": 342
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 344,
-              "read": false,
-              "write": false
+              "index": 343
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 345,
-              "read": false,
-              "write": false
+              "index": 344
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 346,
-              "read": false,
-              "write": false
+              "index": 345
             },
             {
               "char": "争",
               "pinyin": "zhēng",
-              "index": 347,
-              "read": false,
-              "write": false
+              "index": 346
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 348,
-              "read": false,
-              "write": false
-            },
+              "index": 347
+            }
+          ],
+          "translation": "",
+          "notes": [
+            {
+              "start": 6,
+              "end": 6,
+              "content": "全，整个。"
+            }
+          ]
+        },
+        {
+          "content": [
             {
               "char": "及",
               "pinyin": "jí",
-              "index": 349,
-              "read": false,
-              "write": false
+              "index": 348
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 350,
-              "read": false,
-              "write": false
+              "index": 349
             },
             {
               "char": "衰",
               "pinyin": "shuāi",
-              "index": 351,
-              "read": false,
-              "write": false
+              "index": 350
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 352,
-              "read": false,
-              "write": false
+              "index": 351
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 353,
-              "read": false,
-              "write": false
+              "index": 352
             },
             {
               "char": "数",
               "pinyin": "shù",
-              "index": 354,
-              "read": false,
-              "write": false
+              "index": 353
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 355,
-              "read": false,
-              "write": false
+              "index": 354
             },
             {
               "char": "伶",
               "pinyin": "líng",
-              "index": 356,
-              "read": false,
-              "write": false
+              "index": 355
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 357,
-              "read": true,
-              "write": true
+              "index": 356
             },
             {
               "char": "困",
               "pinyin": "kùn",
-              "index": 358,
-              "read": false,
-              "write": false
+              "index": 357
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 359,
-              "read": false,
-              "write": false
+              "index": 358
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 360,
-              "read": false,
-              "write": false
+              "index": 359
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 361,
-              "read": false,
-              "write": false
+              "index": 360
             },
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 362,
-              "read": false,
-              "write": false
+              "index": 361
             },
             {
               "char": "死",
               "pinyin": "sǐ",
-              "index": 363,
-              "read": false,
-              "write": false
+              "index": 362
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 364,
-              "read": false,
-              "write": false
+              "index": 363
             },
             {
               "char": "灭",
               "pinyin": "miè",
-              "index": 365,
-              "read": false,
-              "write": false
+              "index": 364
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 366,
-              "read": false,
-              "write": false
+              "index": 365
             },
             {
               "char": "为",
               "pinyin": "wèi",
-              "index": 367,
-              "read": false,
-              "write": false
+              "index": 366
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 368,
-              "read": false,
-              "write": false
+              "index": 367
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 369,
-              "read": false,
-              "write": false
+              "index": 368
             },
             {
               "char": "笑",
               "pinyin": "xiào",
-              "index": 370,
-              "read": false,
-              "write": false
+              "index": 369
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 371,
-              "read": false,
-              "write": false
+              "index": 370
             }
           ],
-          "translation": "因此，当他兴盛时，普天下的豪杰，没有谁能和他相争；到他衰败时，数十个乐官就把他困住，最后身死国灭，被天下人耻笑。",
-          "pinyin": "gù fāng qí shèng yě ， jǔ tiān xià zhī háo jié ， mò néng yǔ zhī zhēng ； jí qí shuāi yě ， shù shí líng rén kùn zhī ， ér shēn sǐ guó miè ， wèi tiān xià xiào 。",
+          "translation": "",
           "notes": [
             {
-              "start": 0,
-              "end": 1,
-              "content": "故方其盛也：所以当他强盛的时候。故，所以；方，当；其，他；盛，强盛；也，表停顿。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "举天下：全天下。举，全。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "豪杰：英雄豪杰。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "莫能：没有人能够。莫，没有人。"
+              "start": 5,
+              "end": 10,
+              "content": "伶人郭从谦趁李嗣源攻占大梁，李存勖众叛亲离之际，起兵作乱。李存勖率兵抵御，被乱箭射死。"
             },
             {
               "start": 15,
               "end": 16,
-              "content": "与之争：和他争锋。与，和；之，他；争，争锋。"
-            },
-            {
-              "start": 19,
-              "end": 20,
-              "content": "及其衰也：等到他衰败的时候。及，等到；其，他；衰，衰败；也，表停顿。"
-            },
-            {
-              "start": 24,
-              "end": 26,
-              "content": "数十伶人：几十个伶人。伶人，演戏的人。"
-            },
-            {
-              "start": 27,
-              "end": 28,
-              "content": "困之：使他困窘。困，使……困窘；之，他。"
-            },
-            {
-              "start": 31,
-              "end": 32,
-              "content": "而身死国灭：而自己死了国家也灭亡了。而，表结果。"
-            },
-            {
-              "start": 37,
-              "end": 38,
-              "content": "为天下笑：被天下人嘲笑。为，被。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 37,
-              "end": 41,
-              "content": "被动句，‘为天下笑’即‘被天下人嘲笑’。"
+              "content": "李存勖死后，李嗣源即位（即后唐明宗），群臣中有人劝他自建国号，此事虽未实行，但是庄宗死后，李克用嫡亲子孙都被杀，也可以说是“国灭”。"
             }
           ]
         },
@@ -3388,211 +2137,140 @@
             {
               "char": "夫",
               "pinyin": "fú",
-              "index": 372,
-              "read": false,
-              "write": false
+              "index": 371
             },
             {
               "char": "祸",
               "pinyin": "huò",
-              "index": 373,
-              "read": false,
-              "write": false
+              "index": 372
             },
             {
               "char": "患",
               "pinyin": "huàn",
-              "index": 374,
-              "read": false,
-              "write": false
+              "index": 373
             },
             {
               "char": "常",
               "pinyin": "cháng",
-              "index": 375,
-              "read": false,
-              "write": false
+              "index": 374
             },
             {
               "char": "积",
               "pinyin": "jī",
-              "index": 376,
-              "read": false,
-              "write": false
+              "index": 375
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 377,
-              "read": false,
-              "write": false
+              "index": 376
             },
             {
               "char": "忽",
               "pinyin": "hū",
-              "index": 378,
-              "read": false,
-              "write": false
+              "index": 377
             },
             {
               "char": "微",
               "pinyin": "wēi",
-              "index": 379,
-              "read": false,
-              "write": false
+              "index": 378
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 380,
-              "read": false,
-              "write": false
+              "index": 379
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 381,
-              "read": false,
-              "write": false
+              "index": 380
             },
             {
               "char": "智",
               "pinyin": "zhì",
-              "index": 382,
-              "read": false,
-              "write": false
+              "index": 381
             },
             {
               "char": "勇",
               "pinyin": "yǒng",
-              "index": 383,
-              "read": false,
-              "write": false
+              "index": 382
             },
             {
               "char": "多",
               "pinyin": "duō",
-              "index": 384,
-              "read": false,
-              "write": false
+              "index": 383
             },
             {
               "char": "困",
               "pinyin": "kùn",
-              "index": 385,
-              "read": false,
-              "write": false
+              "index": 384
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 386,
-              "read": false,
-              "write": false
+              "index": 385
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 387,
-              "read": false,
-              "write": false
+              "index": 386
             },
             {
               "char": "溺",
               "pinyin": "nì",
-              "index": 388,
-              "read": false,
-              "write": false
+              "index": 387
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 389,
-              "read": false,
-              "write": false
+              "index": 388
             },
             {
               "char": "岂",
               "pinyin": "qǐ",
-              "index": 390,
-              "read": false,
-              "write": false
+              "index": 389
             },
             {
               "char": "独",
               "pinyin": "dú",
-              "index": 391,
-              "read": false,
-              "write": false
+              "index": 390
             },
             {
               "char": "伶",
               "pinyin": "líng",
-              "index": 392,
-              "read": false,
-              "write": false
+              "index": 391
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 393,
-              "read": false,
-              "write": true
+              "index": 392
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 394,
-              "read": false,
-              "write": false
+              "index": 393
             },
             {
               "char": "哉",
               "pinyin": "zāi",
-              "index": 395,
-              "read": false,
-              "write": false
+              "index": 394
             },
             {
-              "char": "！",
+              "char": "？",
               "pinyin": "",
-              "index": 396,
-              "read": false,
-              "write": false
+              "index": 395
             }
           ],
-          "translation": "祸患常常是由一点一滴极小的错误积累而酿成的，纵使是聪明有才能和英勇果敢的人，也多半沉溺于某种爱好之中，受其迷惑而结果陷于困穷，难道只有乐工（是所溺的成分）吗？",
-          "pinyin": "fū huò huàn cháng jī yú hū wēi ， ér zhì yǒng duō kùn yú suǒ nì ， qǐ dú líng rén yě zāi ！",
+          "translation": "",
           "notes": [
             {
-              "start": 0,
-              "end": 1,
-              "content": "夫祸患：唉，祸患。夫，句首语气词。"
+              "start": 6,
+              "end": 7,
+              "content": "极小的事。忽，一寸的十万分之一。微，一寸的百万分之一。"
             },
             {
-              "start": 2,
-              "end": 3,
-              "content": "常积于忽微：常常从微小的事情积累起来。于，从；忽微，微小的事。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "而智勇：而有智有勇的人。而，而且；智勇，有智有勇的人。"
-            },
-            {
-              "start": 11,
-              "end": 12,
-              "content": "多困于所溺：大多被所溺爱的事物困住。于，被；所溺，所溺爱的事物。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "content": "岂独：难道只是。"
-            },
-            {
-              "start": 20,
-              "end": 21,
-              "content": "伶人也哉：伶人吗？也哉，语气词连用，表示反问。"
+              "start": 15,
+              "end": 16,
+              "content": "所溺爱的人或物。溺，沉湎、无节制。"
             }
           ]
         }
@@ -3604,5 +2282,7 @@
     "文言文"
   ],
   "background": "欧阳修进入政界后，正是北宋王朝开始由盛到衰的时期，社会上的各种矛盾日趋尖锐，政治上的一些弊端越来越严重。欧阳修、范仲淹等人针对当时的敝政，力图实行政治改革，以挽救北宋王朝的危机却接二连三地遭到当权派的打击。在这种情况下，欧阳修忧心忡忡，很担心五代惨痛历史即将重演。而宋太祖时薛居正奉命主修的 《旧五代史》 又 “繁猥失实”，无助于劝善惩恶。于是自己动手，撰成了七十四卷的 《新五代史》，此文便选自《新五代史》。",
-  "appreciation": "《五代史伶官传序》是一篇史论。此文通过对五代时期的后唐盛衰过程的具体分析，推论出：“忧劳可以兴国，逸豫可以亡身”和“祸患常积于忽微，而智勇多困于所溺”的结论，说明国家兴衰败亡不由天命而取决于“人事”，借以告诫当时北宋王朝执政者要吸取历史教训，居安思危，防微杜渐，力戒骄侈纵欲。文中采用先扬后抑和对比论证的方法，先极赞庄宗成功时意气之盛，再叹其失败时形势之衰，兴与亡、盛与衰前后对照，强烈感人，最后再辅以《尚书》古训，更增强了文章说服力。全文紧扣“盛衰”二字，夹叙夹议，史论结合，语调顿挫多姿，感染力很强，是历来为人传诵的佳作。"
+  "appreciation": "《五代史伶官传序》是一篇史论。此文通过对五代时期的后唐盛衰过程的具体分析，推论出：“忧劳可以兴国，逸豫可以亡身”和“祸患常积于忽微，而智勇多困于所溺”的结论，说明国家兴衰败亡不由天命而取决于“人事”，借以告诫当时北宋王朝执政者要吸取历史教训，居安思危，防微杜渐，力戒骄侈纵欲。文中采用先扬后抑和对比论证的方法，先极赞庄宗成功时意气之盛，再叹其失败时形势之衰，兴与亡、盛与衰前后对照，强烈感人，最后再辅以《尚书》古训，更增强了文章说服力。全文紧扣“盛衰”二字，夹叙夹议，史论结合，语调顿挫多姿，感染力很强，是历来为人传诵的佳作。",
+  "annotation": "伶（líng）官：宫廷中的乐官和授有官职的演戏艺人。原：推究，考查。庄宗：即后唐庄宗李存勖，李克用长子，继父为晋王，又于后梁龙德三年（923）称帝，国号唐。同年灭后梁。同光四年（926），在兵变中被杀，在位仅三年。晋王：西域突厥族沙陀部酋长李克用。因受唐王朝之召镇压黄巢起义有功，后封晋王。矢：箭。梁：后梁太祖朱温，原是黄巢部将，叛变归唐，后封为梁王。燕王：指卢龙节度使刘仁恭。其子刘守光，后被朱温封为燕王。此处称刘仁恭为燕王，是笼统与法。契丹：宋时北方的一个部族。与：赐给。其：语气副词，表示命令或祈求。乃：你的。庙：指宗庙，古代帝王祭祀祖先之所。此处专指李克用的祠，同下文的“太庙”。从事：原指州郡长官的僚属，这里泛指一般幕僚随从。少牢：用一猪一羊祭祀。纳之：把箭放好。系：捆绑。组：绳索。函：木匣。此处用作动词，盛以木匣。先王：指晋王李克用。仇雠（chóu）：仇敌。一夫：指唐庄宗同光四年（926）发动贝州兵变的军士皇甫晖。誓天断发：截发置地，向天发誓。岂：难道。欤（yú）：表疑问的语气助词。抑：表转折的连词，相当于“或者”、“还是”。本：考究。迹：事迹，道理。《书》：《尚书》。逸（yì）豫：安逸舒适。举：全、所有。忽微：形容细小之事。忽是寸的十万分之一，微是寸的百万分之一。溺：溺爱，对人或事物爱好过分。也哉：语气词连用，表示反诘语气。",
+  "comprehensive_appreciation": "赏析：《五代史伶官传序》作为欧阳修史论中的巅峰之作，以五代后唐盛衰兴亡的史实为根基，深刻揭示出“国家兴亡非由天命，实系于人事”的核心主旨，更提炼出“忧劳可以兴国，逸豫可以亡身”“祸患常积于忽微，而智勇多困于所溺”的警世箴言，字里行间满含对北宋统治者的劝诫——当吸取历史教训，居安思危、防微杜渐，切勿沉溺骄侈纵欲。全文融叙事、议论、抒情于一体，叙史简练传神，论证层层递进，情感沉挚饱满，成为流传千古的史论典范。文章的立意深邃且论证逻辑严密，开篇即以“盛衰之理，虽曰天命，岂非人事哉！”这一兼含感叹与反诘的句子振聋发聩，既鲜明驳斥了当时盛行的宿命论历史观，又直接确立全文核心论点，尽显“起势横空而来”的磅礴气势。紧接着以“原庄宗之所以得天下，与其所以失之者，可以知之矣”自然过渡，明确将庄宗得失天下的史事作为核心论据，让论点与论据衔接紧密、不显突兀。为强化论证力度，作者并未堆砌繁杂史料，而是精选极具传奇色彩与典型意义的史事：晋王李克用临终以三矢遗命，嘱托庄宗报朱温、燕王、契丹背叛之仇；庄宗谨记遗志，将箭藏于祖庙，每逢征战必祭告取箭、凯旋归箭，最终生擒燕王父子、收纳梁国君臣首级，完成复仇大业，彼时意气风发、威风凛凛。然而灭梁之后，庄宗渐生骄纵，宠信伶官、纵情声色，终致民怨沸腾、众叛亲离，在位仅三年便死于兵变，落得身死国灭、被天下耻笑的结局。作者以“先扬后抑”之法，将庄宗成功时的盛气与衰败时的落魄形成强烈对比，再以“岂得之难而失之易欤？抑本其成败之迹，而皆自于人欤？”的反诘回扣主旨，让论证极具说服力。在叙事之后，文章顺势转入论理，立意层层深化。作者引《尚书》“满招损，谦得益”的古训，自然推出“忧劳可以兴国，逸豫可以亡身”的结论，再以庄宗盛衰的浓缩史实反证此理，与开篇立论形成首尾呼应。继而更进一步提出“祸患常积于忽微，而智勇多困于所溺”的深刻见解，将“人事”的影响细化到细微过失与个人沉溺之物上，让读者对历史教训的认知更为透彻。文末以“岂独伶人也哉！”点睛，表明作者作《伶官传》并非单纯评述史事，而是借伶官乱政的个案，警示世人凡沉溺所好皆可能招致祸患，赋予文章广泛而现实的醒世意义，言尽而意无穷。文章的语言艺术同样堪称典范，兼具三大鲜明特色。其一，委婉中见气势。全文以“呜呼”起笔，以叹咏贯穿始终，慨叹庄宗败亡时寓惋惜而无苛责，意正言婉。行文多用反问句、对称句，关键处以凝练工整的格言式骈句强化节奏与对比，长短句、骈散句交错运用，读来抑扬顿挫、一唱三叹，既饱含感情又气势充沛，被沈德潜赞为“得《史记》神髓”。其二，酣畅中见波澜。开篇突兀立论，随即落于史实叙事，再扬庄宗之盛、抑其之衰，继而引古训、设疑问、推结论，语势大起大落、跌宕起伏。篇幅虽短却一气呵成，淋漓酣畅，极具感染力。其三，平易中见凝练。文中无生僻晦涩之词，无堆砌雕琢之弊，以平实语言叙史说理，通俗易懂。叙事不枝不蔓，议论简明扼要，尤其“满招损，谦受益”等格言，句式整齐、言简意丰，成为流传后世的千古警句。历代文人对这篇文章赞誉有加，茅坤称其为“千古绝调”，沈德潜赞其为“《五代史》中第一篇文字”。它不仅展现了欧阳修“善善恶恶”的史识与针砭时弊的政见，更以精妙的构思、深邃的思想与高超的语言艺术，成为后世史论写作的典范，其蕴含的历史智慧与警世意义，至今仍能给人深刻启迪。"
 }

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="南安军"
+  author="文天祥"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　公元1279年（帝昺祥兴二年），南宋厓山被元军攻陷，宋朝灭亡。文天祥在前一年被俘北行，在五月四日出大庾岭，经南安军（治所在今江西大庾）时写此诗。
+
+## 作品赏析
+
+　　《南安军》是一首五言律诗。此诗前两联叙述了行程中的地点、景色及诗人的感喟，抒写了这次行程中的悲苦心情；颈联以祖国山河万世永存与城郭一时沦陷进行对比，突出诗人对恢复大宋江山的信念和对元人的蔑视；尾联表明自己的态度：决心饿死殉国，完成“首丘”之义的心愿。诗人化用杜甫诗句以抒写自己的胸怀，表现出强烈的爱国感情，显示出民族正气。全诗逐层递进，声情激荡，不假雕饰，而自见功力。

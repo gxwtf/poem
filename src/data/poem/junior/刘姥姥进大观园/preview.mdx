@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="刘姥姥进大观园"
+  author="曹雪芹"
+  dynasty="清代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此文节选自《红楼梦》第四十回（人民文学出版社 1964 年版）。刘姥姥曾“三进大观园”，本文写的是第二次的情景。刘姥姥为感谢上次贾家的救助，特地去谢恩。正巧，贾母想找个上岁数的老太太说说话，所以，就留她在这儿住，留她在这儿玩，几次宴请，在参观的过程当中，又是坐船又是行酒令，活动内容非常丰富。
+
+## 作品赏析
+
+　　此文语言生动、情节紧凑、人物性格鲜明，生动描绘了贾母带领刘姥姥及众人在大观园中的一次宴饮活动，既展现了贾府生活的奢华与讲究，又展现出人与人之间的相处，用朴素的语言表达了刘姥姥对富贵生活的惊叹、贾府女眷的宽和，具有相当的趣味性，是《红楼梦》中一段精彩的生活描写。

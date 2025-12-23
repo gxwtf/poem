@@ -11,160 +11,105 @@
             {
               "char": "吴",
               "pinyin": "wú",
-              "index": 0,
-              "read": false,
-              "write": true
+              "index": 0
             },
             {
               "char": "丝",
               "pinyin": "sī",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "蜀",
               "pinyin": "shǔ",
-              "index": 2,
-              "read": false,
-              "write": true
+              "index": 2
             },
             {
               "char": "桐",
               "pinyin": "tóng",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "张",
               "pinyin": "zhāng",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "高",
               "pinyin": "gāo",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "空",
               "pinyin": "kōng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "凝",
               "pinyin": "níng",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "颓",
               "pinyin": "tuí",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 13,
-              "read": true,
-              "write": false
+              "index": 13
             },
             {
               "char": "流",
               "pinyin": "liú",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
-          "translation": "在深秋的夜晚，弹奏起吴丝蜀桐制成精美的箜篌。听到美妙的乐声，天空的白云凝聚起来不再飘游。",
-          "pinyin": "wú sī shǔ tóng zhāng gāo qiū ， kōng shān níng yún tuí bù liú 。",
+          "translation": "秋夜弹奏起吴丝蜀桐制声的精美箜篌，听到美妙的乐声，山上的白云都凝聚起来不斑飘游。",
           "notes": [
             {
               "start": 0,
-              "end": 1,
-              "content": "吴丝：吴地（今江苏一带）产的蚕丝，指箜篌的弦。吴地以产丝著称，质地优良。"
-            },
-            {
-              "start": 2,
               "end": 3,
-              "content": "蜀桐：蜀地（今四川一带）产的桐木，指箜篌的琴身。蜀桐以木质坚实、适宜制琴闻名。"
+              "content": "指精美的箜篌，其弦用吴地所产的丝制作（吴地以产丝著称），其身干用蜀地所产的桐木制作（蜀中桐木适宜做乐器）。"
             },
             {
               "start": 4,
-              "end": 5,
-              "content": "张：调紧琴弦，准备弹奏。"
+              "end": 4,
+              "content": "弹奏。"
             },
             {
               "start": 5,
               "end": 6,
-              "content": "高秋：指深秋天气高爽，适合弹琴。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "空山：空旷的山野。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "凝云：凝聚的云彩。"
+              "content": "深秋九月。"
             },
             {
               "start": 12,
-              "end": 14,
-              "content": "颓不流：形容云彩停滞不流动，仿佛被音乐吸引。颓，停滞。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 8,
-              "end": 14,
-              "content": "倒装句：'空山凝云颓不流'正常语序应为'空山凝云不颓流'，意为空山中的凝云停滞不流"
+              "end": 12,
+              "content": "下垂、堆积的样子。"
             }
           ]
         }
@@ -177,155 +122,100 @@
             {
               "char": "江",
               "pinyin": "jiāng",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "娥",
               "pinyin": "é",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "啼",
               "pinyin": "tí",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "竹",
               "pinyin": "zhú",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "素",
               "pinyin": "sù",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "愁",
               "pinyin": "chóu",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "李",
               "pinyin": "lǐ",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "凭",
               "pinyin": "píng",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "弹",
               "pinyin": "tán",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "箜",
               "pinyin": "kōng",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "篌",
               "pinyin": "hóu",
-              "index": 30,
-              "read": false,
-              "write": true
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
-          "translation": "湘娥把泪珠洒满斑竹，九天素女也牵动满腔忧愁。出现这种情况，是由于乐工李凭在京城弹奏箜篌。",
-          "pinyin": "jiāng é tí zhú sù nǚ chóu ， lǐ píng zhōng guó tán kōng hóu 。",
+          "translation": "湘娥把点点泪珠洒满斑竹，九天素女也被牵动满腔忧愁；",
           "notes": [
             {
               "start": 0,
-              "end": 1,
-              "content": "江娥：指舜的妃子娥皇、女英，传说她们在舜死后哭泣，泪洒竹上成斑。"
-            },
-            {
-              "start": 2,
               "end": 3,
-              "content": "啼竹：对着竹子哭泣。"
+              "content": "传说舜南巡，死于苍梧山（在今湖南宁远），二妃娥皇、女英得到消息，挥泪于竹，竹尽生斑。江娥，指娥皇、女英。"
             },
             {
               "start": 4,
               "end": 5,
-              "content": "素女：传说中的神女，善鼓瑟，常带愁容。"
+              "content": "传说中与黄帝同时期的神女，善于弹瑟歌唱。"
             },
             {
-              "start": 8,
+              "start": 10,
               "end": 11,
-              "content": "李凭：当时的梨园艺人，善弹箜篌。中国：即国中，指京城长安。"
-            },
-            {
-              "start": 12,
-              "end": 14,
-              "content": "弹箜篌：演奏箜篌。箜篌，古代弦乐器，似瑟而小。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 11,
-              "old": "国中，指京城"
-            },
-            {
-              "start": 8,
-              "end": 11,
-              "new": "中国（国家名称）"
+              "content": "即国中，指在国都长安城里。"
             }
           ]
         }
@@ -338,148 +228,105 @@
             {
               "char": "昆",
               "pinyin": "kūn",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "玉",
               "pinyin": "yù",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "碎",
               "pinyin": "suì",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "凤",
               "pinyin": "fèng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "凰",
               "pinyin": "huáng",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "叫",
               "pinyin": "jiào",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "芙",
               "pinyin": "fú",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "蓉",
               "pinyin": "róng",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "泣",
               "pinyin": "qì",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "露",
               "pinyin": "lù",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "香",
               "pinyin": "xiāng",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "兰",
               "pinyin": "lán",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "笑",
               "pinyin": "xiào",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "乐声清脆动听得就像昆仑山美玉击碎，凤凰鸣叫；时而使芙蓉在露水中饮泣，时而使香兰开怀欢笑。",
-          "pinyin": "kūn shān yù suì fèng huáng jiào ， fú róng qì lù xiāng lán xiào 。",
+          "translation": "这高妙的乐声从哪儿山出？",
           "notes": [
             {
               "start": 0,
-              "end": 3,
-              "content": "昆山玉碎：形容乐声清脆如昆仑山美玉碎裂。昆山，昆仑山，产美玉。"
+              "end": 1,
+              "content": "即昆仑山，传说中著名的美玉产地。"
             },
             {
-              "start": 4,
-              "end": 6,
-              "content": "凤凰叫：形容乐声婉转如凤凰鸣叫。"
+              "start": 2,
+              "end": 3,
+              "content": "美玉碎裂（声音清脆悦耳）。"
             },
             {
               "start": 8,
-              "end": 10,
-              "content": "芙蓉：荷花。"
+              "end": 11,
+              "content": "指荷花滴露。"
             },
             {
-              "start": 11,
-              "end": 12,
-              "content": "泣露：哭泣的露珠，形容乐声悲切。"
-            },
-            {
-              "start": 13,
+              "start": 12,
               "end": 14,
-              "content": "香兰：兰花。"
-            },
-            {
-              "start": 15,
-              "end": 15,
-              "content": "笑：形容乐声欢快如兰花欢笑。"
+              "content": "指兰花盛开。"
             }
           ]
         }
@@ -492,138 +339,100 @@
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "二",
               "pinyin": "èr",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "门",
               "pinyin": "mén",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "前",
               "pinyin": "qián",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "融",
               "pinyin": "róng",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "冷",
               "pinyin": "lěng",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "光",
               "pinyin": "guāng",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "二",
               "pinyin": "èr",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "三",
               "pinyin": "sān",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "丝",
               "pinyin": "sī",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "动",
               "pinyin": "dòng",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "紫",
               "pinyin": "zǐ",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "皇",
               "pinyin": "huáng",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             }
           ],
-          "translation": "清脆的乐声，融和了长安城十二门前的清冷光气。二十三根弦丝高弹轻拨，打动了高高在上的天帝。",
-          "pinyin": "shí èr mén qián róng lěng guāng ， èr shí sān sī dòng zǐ huáng 。",
+          "translation": "是乐工李凭在京城弹奏箜篌。",
           "notes": [
             {
               "start": 0,
-              "end": 3,
-              "content": "十二门：长安城有十二座城门，这里代指长安。"
-            },
-            {
-              "start": 4,
               "end": 6,
-              "content": "融冷光：消融了冷气寒光，形容乐声温暖动人。"
+              "content": "指笼罩整个长安城的月光变得温煦。十二门，长安城四面，每一面各有三门。"
             },
             {
               "start": 8,
               "end": 11,
-              "content": "二十三丝：箜篌有二十三弦（一说二十二弦），这里指代乐声。"
+              "content": "指箜篌。有一种竖箜篌，有二十三弦。"
             },
             {
-              "start": 12,
+              "start": 13,
               "end": 14,
-              "content": "动紫皇：感动天帝。紫皇，道教传说中最尊贵的天神。"
+              "content": "道教传说中地位最高的神仙。"
             }
           ]
         }
@@ -636,140 +445,90 @@
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "娲",
               "pinyin": "wā",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "炼",
               "pinyin": "liàn",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "石",
               "pinyin": "shí",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "补",
               "pinyin": "bǔ",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "处",
               "pinyin": "chù",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "石",
               "pinyin": "shí",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "破",
               "pinyin": "pò",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "惊",
               "pinyin": "jīng",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "逗",
               "pinyin": "dòu",
-              "index": 76,
-              "read": true,
-              "write": true
+              "index": 76
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "雨",
               "pinyin": "yǔ",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             }
           ],
-          "translation": "高亢的乐声直冲云霄，冲上女娲炼石补过的天际。好似补天的五彩石被击破，逗落了漫天绵绵秋雨。",
-          "pinyin": "nǚ wā liàn shí bǔ tiān chù ， shí pò tiān jīng dòu qiū yǔ 。",
+          "translation": "乐声清脆得就像昆仑山的美玉被击碎，凤凰在鸣叫；",
           "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "女娲炼石补天：传说上古时天塌地陷，女娲炼五色石补天。"
-            },
             {
               "start": 8,
               "end": 11,
-              "content": "石破天惊：形容乐声激昂，惊天动地。"
-            },
-            {
-              "start": 12,
-              "end": 14,
-              "content": "逗秋雨：引来秋雨淅沥。逗，引。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "省略句：'女娲炼石补天处'省略了介词'于'，完整应为'女娲炼石补天之处'"
+              "content": "女娲所补五色石为箜篌声破裂，天界为之震惊。"
             }
           ]
         }
@@ -782,157 +541,90 @@
             {
               "char": "梦",
               "pinyin": "mèng",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "神",
               "pinyin": "shén",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "教",
               "pinyin": "jiāo",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "神",
               "pinyin": "shén",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "妪",
               "pinyin": "yù",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 87,
-              "read": true,
-              "write": true
+              "index": 87
             },
             {
               "char": "老",
               "pinyin": "lǎo",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "鱼",
               "pinyin": "yú",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "跳",
               "pinyin": "tiào",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "波",
               "pinyin": "bō",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "瘦",
               "pinyin": "shòu",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "蛟",
               "pinyin": "jiāo",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "舞",
               "pinyin": "wǔ",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             }
           ],
-          "translation": "幻觉中仿佛乐工进入了神山，把技艺向女仙传授；老鱼兴奋得在波中跳跃，瘦蛟也翩翩起舞乐悠悠。",
-          "pinyin": "mèng rù shén shān jiào shén yù ， lǎo yú tiào bō shòu jiāo wǔ 。",
+          "translation": "时而又像芙蓉在露水中饮泣，像兰花迎风开放笑语轻柔。",
           "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "梦入神山：梦中进入神山。"
-            },
             {
               "start": 5,
               "end": 6,
-              "content": "教：使，让。"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "content": "神妪：成夫人的神仙婆婆，传说善弹箜篌。"
-            },
-            {
-              "start": 8,
-              "end": 14,
-              "content": "老鱼跳波瘦蛟舞：形容音乐使鱼蛟欢跃起舞。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 7,
-              "old": "老年妇女"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "通常无特指含义"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "宾语前置：'梦入神山教神妪'中'教神妪'是'教于神妪'的省略，意为向神妪请教"
+              "content": "指女神成夫人。据说她喜好音乐，善弹箜篌，听见有人依琴瑟咏歌就翩翩起舞。"
             }
           ]
         }
@@ -945,160 +637,95 @@
             {
               "char": "吴",
               "pinyin": "wú",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "质",
               "pinyin": "zhì",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 98,
-              "read": true,
-              "write": true
+              "index": 98
             },
             {
               "char": "眠",
               "pinyin": "mián",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "倚",
               "pinyin": "yǐ",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "桂",
               "pinyin": "guì",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "树",
               "pinyin": "shù",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "露",
               "pinyin": "lù",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "脚",
               "pinyin": "jiǎo",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "斜",
               "pinyin": "xié",
-              "index": 106,
-              "read": true,
-              "write": false
+              "index": 106
             },
             {
               "char": "飞",
               "pinyin": "fēi",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "湿",
               "pinyin": "shī",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "寒",
               "pinyin": "hán",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "兔",
               "pinyin": "tù",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             }
           ],
-          "translation": "月宫中吴刚被乐声吸引，彻夜不眠在桂树下逗留。桂树下的兔子也伫立聆听，不顾露珠斜飞寒飕飕！",
-          "pinyin": "wú zhì bù mián yǐ guì shù ， lù jiǎo xié fēi shī hán tù 。",
+          "translation": "乐声使笼罩了整个长安城的月光消融；",
           "notes": [
             {
               "start": 0,
-              "end": 2,
-              "content": "吴质：即吴刚，传说在月宫中砍桂树。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "不眠：睡不着，形容听得入神。"
-            },
-            {
-              "start": 5,
-              "end": 7,
-              "content": "倚桂树：靠着桂树。"
+              "end": 1,
+              "content": "即传说中月宫的仙人吴刚，其字为质。"
             },
             {
               "start": 8,
-              "end": 10,
-              "content": "露脚：露滴。"
-            },
-            {
-              "start": 11,
-              "end": 12,
-              "content": "斜飞：斜飘。"
-            },
-            {
-              "start": 13,
-              "end": 15,
-              "content": "湿寒兔：打湿了月中的玉兔。寒兔，指月亮。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 10,
-              "old": "露滴"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "new": "脚的部位"
+              "end": 14,
+              "content": "露滴斜斜坠落，打湿了（全神贯注聆听箜篌演奏的）玉兔。寒兔，玉兔。"
             }
           ]
         }
@@ -1106,8 +733,13 @@
     }
   ],
   "tags": [
-    "选必中"
+    "选必中",
+    "诗",
+    "背默",
+    "乐府"
   ],
-  "background": "此诗大约作于公元811年（唐宪宗元和六年）至公元813年（元和八年），当时李贺任职于长安，官奉礼郎（执掌祭祀的九品小官）。",
-  "appreciation": "《李凭箜篌引》是一首音乐诗。此诗使用一连串出人意料的比喻，传神地再现了乐工李凭创造的诗意浓郁的音乐境界，表现其弹奏箜篌的高超技艺，也展示出诗人对乐曲的深刻理解和丰富的艺术想象力。全诗语言峭丽，构思新奇，独辟蹊径，对乐曲本身，仅用两句略加描摹，而将大量笔墨用来渲染乐曲惊天地、泣鬼神的震撼效果，运用了大量的联想、想象和神话传说，使作品充溢着浪漫主义气息。"
+  "annotation": "李凭：当时的梨园艺人，善弹奏箜篌。杨巨源《听李凭弹箜篌》诗曰：“听奏繁弦玉殿清，风山曲度禁林明。君王听乐梨园暖，翻到《云门》第几声？”“花咽娇莺玉嗽泉，名高半在玉筵前。汉王欲助人间乐，从遣新声坠九天。”箜篌引：乐府旧题，属《相和歌·瑟调曲》。箜篌：古代弦乐器。又名空侯、坎侯。形状有多种。据诗中“二十三丝”，可知李凭弹的是竖箜篌。引：一种古代诗歌体裁，篇幅较长，音节、格律一般比较自由，形式有五言、七言、杂言。吴丝蜀桐：吴地之丝，蜀地之桐。此指制作箜篌的材料。张：调好弦，准备调奏。高秋：指弹奏时间。这句说在深秋天气弹奏起箜篌。空白：一作“空山”。《列子·汤问》：“秦青抚节悲歌，响遏行云”。此句言山中的行云因听到李凭弹奏的箜篌声而凝定不动了。江娥：一作“湘娥”。李衎《竹玉详录》卷六：“泪竹生全湘九疑山中……《述异记》云：‘舜南巡，葬于苍梧，尧二女娥皇、女英泪下沾竹，文悉为之斑。’一名湘妃竹。”素女：山说中的神女。《汉书·郊祀志上》：“秦帝使素女鼓五十弦瑟，帝禁不止，故破其瑟为二十五弦。”这句说乐声使江娥、素女都感动了。中国：即国之中央，意谓在京城。昆山玉碎凤凰叫：昆仑玉碎，形容乐音清脆。昆山，即昆仑山。凤凰叫，形容乐音和缓。芙蓉泣露、香兰笑：形容乐声时而低回，时而轻快。十二门：长安城东西南北每一面各三门，共十二门，故言。二十三丝：《通典》卷一百四十四：“竖箜篌，胡乐也，汉灵帝好之，体曲而长，二十三弦。竖抱于怀中，用两手齐奏，俗谓之擘箜篌。”“紫皇”：道教称天上最尊的神为“紫皇”。这里用来指皇帝。女娲：中华上古之神，人首蛇身，为伏羲之妹，风姓。《淮南子·览冥训》和《列子·汤问》载有女娲炼五色石补天故事。石破天惊逗秋雨：补天的五色石（被乐音）震破，引来了一场秋雨。逗，引。昆山：一作“神山”。神妪（yù）：《搜神记》卷四：“永嘉中，有神现兖州，自称樊道基。有妪号声夫人。夫人好音乐，能弹箜篌，闻人弦歌，辄便起舞。”所谓“神妪”，疑用此典。从这句以下写李凭在梦中将他的绝艺教给神仙，惊动了仙界。老园跳波：园随着乐声跳跃。源自《列子·汤问》：“瓠巴鼓琴而鸟舞园跃。”吴质：即吴刚。《酉阳杂俎》卷一：“旧言月中有桂，有蟾蜍。故异书言月桂高五百丈，下有一人常斫之，树创随合。人姓吴名刚，西河人，学仙有过，谪令伐树。”露脚：露珠下滴的形象说法。寒兔：指秋月，山说月中有玉兔，故称。",
+  "comprehensive_appreciation": "赏析：李凭是梨园弟子，因善弹箜篌，名噪一时。“天子一日一回见，王侯将相立马迎”，身价之高，似乎远远超过盛唐时期的著名歌手李龟年。他的精湛技艺，受到诗人们的热情赞赏。李贺此篇想象丰富，设色瑰丽，艺术感染力很强。清人方扶南把它与白居易的《琵琶行》、韩愈的《听颖师弹琴》相提并论，推许为“摹写声音至文”。此诗运用一连串出人意表的比喻，传神地再现了乐工李凭创造的诗意浓郁的音乐境界，生动地记录下李凭弹奏箜篌的高超技艺，也表现了作者对乐曲有深刻理解，具备丰富的艺术想象力。全诗语言峭丽，构思新奇，独辟蹊径，对乐曲本身，仅用两句略加描摹，而将大量笔墨用来渲染乐曲惊天地、泣鬼神的动人效果，大量的联想、想象和神话传说，使作品充满浪漫主义气息。诗的起句开门见山，“吴丝蜀桐”写箜篌构造精良，借以衬托演奏者技艺的高超，写物亦即写人，收到一箭双雕的功效。“高秋”一语，除了表明时间是九月深秋，还含有“秋高气爽”的意思，与“深秋”、“暮秋”之类相比，更富含蕴。二、三两句写乐声。诗人故意避开无形无色、难以捉摸的主体（箜篌声），从客体（“空山凝云”之类）落笔，以实写虚，亦真亦幻，极富表现力。优美悦耳的弦歌声一经传出，空旷山野上的浮云便颓然为之凝滞，仿佛在俯首谛听；善于鼓瑟的湘娥与素女，也被这乐声触动了愁怀，潸然泪下。“空山”句移情于物，把云写成具有人的听觉功能和思想感情，似乎比“天若有情天亦老”（《金铜仙人辞汉歌》）更进一层。它和下面的“江娥”句互相配合，互相补充，极力烘托箜篌声神奇美妙，具有“惊天地，泣鬼神”的魅力。第四句“李凭中国弹箜篌”，用“赋”笔点出演奏者的名姓，并且交代了演奏的地点。前四句，诗人故意突破按顺序交待人物、时间、地点的一般写法，另作精心安排，先写琴，写声，然后写人，时间和地点一前一后，穿插其中。这样，突出了乐声，有着先声夺人的艺术力量。五、六两句正面写乐声，而又各具特色。“昆山”句是以声写声，着重表现乐声的起伏多变；“芙蓉”句则是以形写声，刻意渲染乐声的优美动听。“昆山玉碎凤凰叫”，那箜篌，时而众弦齐鸣，嘈嘈杂杂，仿佛玉碎山崩，令人不遑分辨；时而又一弦独响，宛如凤凰鸣叫，声振林木，响遏行云。“芙蓉泣露香兰笑”，构思奇特。琴声时而像芙蓉在露水中饮泣，时而像香兰开怀欢笑。它们都是美的化身。诗人用“芙蓉泣露”摹写琴声的悲抑，而以“香兰笑”显示琴声的欢快，不仅可以耳闻，而且可以目睹。这种表现方法，真有形神兼备之妙。从第七句起到篇终，都是写音响效果。先写近处，长安十二道城门前的冷气寒光，全被箜篌声所消融。其实，冷气寒光是无法消融的，因为李凭箜篌弹得特别好，人们陶醉在他那美妙的弦歌声中，以致连深秋时节的风寒露冷也感觉不到了。虽然用语浪漫夸张，表达的却是一种真情实感。“紫皇”是双关语，兼指天帝和当时的皇帝。诗人不用“君王”而用“紫皇”，不单是遣词造句上追求新奇，而且是一种巧妙的过渡手法，承上启下，比较自然地把诗歌的意境由人寰扩大到仙府。以下六句，诗人凭借想象的翅膀，飞向天庭，飞上神山，把读者带进更为辽阔深广、神奇瑰丽的境界。“女娲炼石补天处，石破天惊逗秋雨”，声音高上天际，冲破了天空，让秋雨倾泻。这种想象是何等大胆超奇，出人意料，而又感人肺腑。一个“逗”字，把音乐的强大魅力和上述奇瑰的景象紧紧联系起来了。而且，石破天惊、秋雨霶霈的景象，也可视作音乐形象的示现。第五联，诗人又从天庭描写到神山。那美妙绝伦的乐声传入神山，教令神妪也为之感动不已；乐声感物至深，致使“老鱼跳波瘦蛟舞”。诗人用“老”和“瘦”这两个似平干枯的字眼修饰鱼龙，却有着完全相反的艺术效果，使音乐形象更加丰满。老鱼和瘦蛟本来羸弱乏力，行动艰难，竟然伴随着音乐的旋律腾跃起舞，这种出奇不意的形象描写，使那无形美妙的箜篌声浮雕般地呈现在读者的眼前了。以上八句以形写声，摄取的多是运动着的物象，它们联翩而至，新奇瑰丽，令人目不暇接。结末两句改用静物，作进一步烘托：成天伐桂、劳累不堪的吴刚倚着桂树，久久地立在那儿，竟忘了睡眠；玉兔蹲伏一旁，任凭深夜的露水不停地洒落在身上，把毛发浸湿，也不肯离去。这些饱含思想感情的优美形象，深深印在读者心中，就像皎洁的月亮投影于水，显得幽深渺远，逗人情思，发人联想。诗的最大特点是想象奇特，形象鲜明，充满浪漫主义色彩。诗人致力于把自己对于箜篌声的抽象感觉、感情与思想借助联想转化成具体的物象，使之可见可感。诗歌没有对李凭的技艺作直接的评判，也没有直接描述诗人的自我感受，有的只是对于乐声及其效果的摹绘。然而纵观全篇，又无处不寄托着诗人的情思，曲折而又明朗地表达了他对乐曲的感受和评价。这就使外在的物象和内在的情思融为一体，构成可以悦目赏心的艺术境界。",
+  "appreciation": "《李凭箜篌引》是一首音乐诗。此诗使用一连串出人意料的比喻，传神地再现了乐工李凭创造的诗意浓郁的音乐境界，表现其弹奏箜篌的高超技艺，也展示出诗人对乐曲的深刻理解和丰富的艺术想象力。全诗语言峭丽，构思新奇，独辟蹊径，对乐曲本身，仅用两句略加描摹，而将大量笔墨用来渲染乐曲惊天地、泣鬼神的震撼效果，运用了大量的联想、想象和神话传说，使作品充溢着浪漫主义气息。",
+  "background": "此诗大约作于公元811年（唐宪宗元和六年）至公元813年（元和八年），当时李贺任职于长安，官奉礼郎（执掌祭祀的九品小官）。"
 }

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="定风波·莫听穿林打叶声"
+  author="苏轼"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首词作于宋神宗元丰五年（公元1082年）春，当时是苏轼因“乌台诗案”被贬为黄州团练副使的第三个春天。词人与朋友春日出游突遇风雨，心生感慨，故作此词。
+
+## 作品赏析
+
+　　《定风波·莫听穿林打叶声》为一篇醉归遇雨抒怀之作，全词即景生情，语言诙谐。词中通过野外途中偶遇风雨这一生活中的小事映射出一位正直文人在坎坷人生中力求解脱之道。词人借雨中潇洒徐行之举动，表现了其虽处逆境、屡遭挫折仍不畏惧、不颓丧的倔强性格和旷达胸怀。这首词于简朴中见深意，于寻常处生奇景，篇幅虽短，但意境深邃、内蕴丰富。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="九歌·湘夫人"
+  author="屈原"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　一般认为，湘夫人是湘水女性之神，与湘水男性之神湘君是配偶神。湘水是楚国境内的最大河流。湘君、湘夫人这对神祇反映了原始初民崇拜自然神灵的一种意识形态和“神人恋爱”的构想。楚国民间文艺，有着浓厚的宗教气氛，祭坛实际上就是“剧坛”或“文坛”。湘君和湘夫人就是以舜与二妃（娥皇、女英）的传说为原型的。
+
+## 作品赏析
+
+　　《九歌·湘夫人》是一首骚体诗，为《九歌·湘君》的姊妹篇。此诗写湘君企待湘夫人而不至，产生的思慕哀怨之情，以湘君思念湘夫人的语调去写，描绘出那种驰神遥望但祈之不来、盼而不见的惆怅心情。全诗写男子的相思，所抒情意缠绵悱恻；诗中汲取了民间情歌的直白抒情方式，同时运用传统比兴手法，使得诗篇更具艺术感染力，对后世的文学创作产生了深远的影响。

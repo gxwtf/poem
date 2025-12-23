@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="秋词二首·其一"
+  author="刘禹锡"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　公元805年（永贞元年），顺宗即位，任用王叔文改革朝政，刘禹锡也参加了这场革新运动。失败被贬。但他这个人求异心理很强，做事都想与众不同，不肯人云亦云。《秋词二首》就是被贬朗州司马时所作。
+
+## 作品赏析
+
+　　《秋词二首·其一》是一首七言绝句。这首诗的可贵之处在于诗人对秋天和秋色的感受与众不同，他一反过去文人悲秋的传统，赞颂了秋天的美好与清新舒朗。全诗气势雄浑，意境壮丽，融情、景、理为一体，不仅描写出秋天的生机和素色，也显露出一种奋发高昂的豪情和豁达开阔的胸襟。

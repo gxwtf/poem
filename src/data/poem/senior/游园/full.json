@@ -9,317 +9,228 @@
         {
           "content": [
             {
+              "char": "【",
+              "pinyin": "",
+              "index": 0
+            },
+            {
+              "char": "皂",
+              "pinyin": "zhà",
+              "index": 1
+            },
+            {
+              "char": "罗",
+              "pinyin": "zǐ",
+              "index": 2
+            },
+            {
+              "char": "袍",
+              "pinyin": "yān",
+              "index": 3
+            },
+            {
+              "char": "】",
+              "pinyin": "",
+              "index": 4
+            },
+            {
               "char": "原",
-              "pinyin": "yuán",
-              "index": 0,
-              "read": false,
-              "write": false
+              "pinyin": "hóng",
+              "index": 5
             },
             {
               "char": "来",
-              "pinyin": "lái",
-              "index": 1,
-              "read": false,
-              "write": false
+              "pinyin": "kāi",
+              "index": 6
             },
             {
               "char": "姹",
-              "pinyin": "chà",
-              "index": 2,
-              "read": false,
-              "write": false
+              "pinyin": "biàn",
+              "index": 7
             },
             {
               "char": "紫",
-              "pinyin": "zǐ",
-              "index": 3,
-              "read": true,
-              "write": true
+              "pinyin": "shì",
+              "index": 8
             },
             {
               "char": "嫣",
-              "pinyin": "yān",
-              "index": 4,
-              "read": false,
-              "write": false
+              "pinyin": "bān",
+              "index": 9
             },
             {
               "char": "红",
-              "pinyin": "hóng",
-              "index": 5,
-              "read": false,
-              "write": false
+              "pinyin": "dōu",
+              "index": 10
             },
             {
               "char": "开",
-              "pinyin": "kāi",
-              "index": 6,
-              "read": false,
-              "write": false
+              "pinyin": "fù",
+              "index": 11
             },
             {
               "char": "遍",
-              "pinyin": "biàn",
-              "index": 7,
-              "read": false,
-              "write": false
+              "pinyin": "yǔ",
+              "index": 12
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 8,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 13
             },
             {
               "char": "似",
-              "pinyin": "sì",
-              "index": 9,
-              "read": false,
-              "write": false
+              "pinyin": "duàn",
+              "index": 14
             },
             {
               "char": "这",
-              "pinyin": "zhè",
-              "index": 10,
-              "read": false,
-              "write": false
+              "pinyin": "jǐng",
+              "index": 15
             },
             {
               "char": "般",
-              "pinyin": "bān",
-              "index": 11,
-              "read": false,
-              "write": false
+              "pinyin": "tuí",
+              "index": 16
             },
             {
               "char": "都",
-              "pinyin": "dōu",
-              "index": 12,
-              "read": false,
-              "write": false
+              "pinyin": "yuán",
+              "index": 17
             },
             {
               "char": "付",
-              "pinyin": "fù",
-              "index": 13,
-              "read": false,
-              "write": false
+              "pinyin": "liáng",
+              "index": 18
             },
             {
               "char": "与",
-              "pinyin": "yǔ",
-              "index": 14,
-              "read": false,
-              "write": false
+              "pinyin": "chén",
+              "index": 19
             },
             {
               "char": "断",
-              "pinyin": "duàn",
-              "index": 15,
-              "read": false,
-              "write": false
+              "pinyin": "měi",
+              "index": 20
             },
             {
               "char": "井",
               "pinyin": "jǐng",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "颓",
-              "pinyin": "tuí",
-              "index": 17,
-              "read": true,
-              "write": true
+              "pinyin": "nài",
+              "index": 22
             },
             {
               "char": "垣",
-              "pinyin": "yuán",
-              "index": 18,
-              "read": false,
-              "write": false
+              "pinyin": "hé",
+              "index": 23
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 19,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 24
             }
           ],
           "translation": "这样繁花似锦的春色无人赏识，只能存在于这破败的断壁残垣之中。",
-          "pinyin": "yuán lái chà zǐ yān hóng kāi biàn ， sì zhè bān dōu fù yǔ duàn jǐng tuí yuán 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "原来：在此处意为‘本来’，非现代汉语中表示发现或醒悟的副词。"
-            },
-            {
-              "start": 3,
-              "end": 6,
-              "content": "姹紫嫣红：形容百花娇艳盛开。姹，美丽；嫣，美好。"
-            },
-            {
-              "start": 14,
-              "end": 19,
-              "content": "断井颓垣：指破败的井台和倒塌的墙垣，形容庭院荒芜。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 2,
-              "old": "本来"
-            },
-            {
-              "start": 0,
-              "end": 2,
-              "new": "表示发现或醒悟"
-            }
-          ]
+          "notes": []
         },
         {
           "content": [
             {
               "char": "良",
-              "pinyin": "liáng",
-              "index": 20,
-              "read": false,
-              "write": false
+              "pinyin": "tiān",
+              "index": 25
             },
             {
               "char": "辰",
-              "pinyin": "chén",
-              "index": 21,
-              "read": false,
-              "write": false
+              "pinyin": "shǎng",
+              "index": 26
             },
             {
               "char": "美",
-              "pinyin": "měi",
-              "index": 22,
-              "read": false,
-              "write": false
+              "pinyin": "xīn",
+              "index": 27
             },
             {
               "char": "景",
-              "pinyin": "jǐng",
-              "index": 23,
-              "read": false,
-              "write": false
+              "pinyin": "lè",
+              "index": 28
             },
             {
               "char": "奈",
-              "pinyin": "nài",
-              "index": 24,
-              "read": false,
-              "write": false
+              "pinyin": "shì",
+              "index": 29
             },
             {
               "char": "何",
-              "pinyin": "hé",
-              "index": 25,
-              "read": false,
-              "write": false
+              "pinyin": "shuí",
+              "index": 30
             },
             {
               "char": "天",
-              "pinyin": "tiān",
-              "index": 26,
-              "read": false,
-              "write": false
+              "pinyin": "jiā",
+              "index": 31
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 27,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 32
             },
             {
               "char": "赏",
-              "pinyin": "shǎng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "pinyin": "yuàn",
+              "index": 33
             },
             {
               "char": "心",
-              "pinyin": "xīn",
-              "index": 29,
-              "read": false,
-              "write": false
+              "pinyin": "cháo",
+              "index": 34
             },
             {
               "char": "乐",
-              "pinyin": "lè",
-              "index": 30,
-              "read": false,
-              "write": false
+              "pinyin": "fēi",
+              "index": 35
             },
             {
               "char": "事",
-              "pinyin": "shì",
-              "index": 31,
-              "read": false,
-              "write": false
+              "pinyin": "mù",
+              "index": 36
             },
             {
               "char": "谁",
-              "pinyin": "shuí",
-              "index": 32,
-              "read": false,
-              "write": false
+              "pinyin": "juǎn",
+              "index": 37
             },
             {
               "char": "家",
-              "pinyin": "jiā",
-              "index": 33,
-              "read": false,
-              "write": false
+              "pinyin": "yún",
+              "index": 38
             },
             {
               "char": "院",
-              "pinyin": "yuàn",
-              "index": 34,
-              "read": false,
-              "write": false
+              "pinyin": "xiá",
+              "index": 39
             },
             {
               "char": "！",
-              "pinyin": "！",
-              "index": 35,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 40
             }
           ],
           "translation": "这美好的景色、美好的时光让我怎样面对，那让人欢心愉快的事究竟在谁家的院子里上演？",
-          "pinyin": "liáng chén měi jǐng nài hé tiān ， shǎng xīn lè shì shuí jiā yuàn ！",
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "content": "良辰美景奈何天：意为美好的时光和景色，却无奈天意弄人。奈何，如何、怎么办。"
+              "start": 4,
+              "end": 6,
+              "content": "令人无可奈何的时光。多表示百无聊赖的思绪。"
             },
             {
-              "start": 8,
-              "end": 15,
-              "content": "赏心乐事谁家院：使人心情愉悦的乐事，不知发生在谁家的庭院。谁家，哪一家。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "‘奈何天’为宾语前置结构，正常语序应为‘天奈何’，意为天意无奈何"
-            },
-            {
-              "start": 8,
-              "end": 15,
-              "content": "‘谁家院’为疑问代词宾语前置，正常语序应为‘院谁家’"
+              "start": 12,
+              "end": 13,
+              "content": "哪一家。一说作“什么”解。"
             }
           ]
         },
@@ -327,87 +238,61 @@
           "content": [
             {
               "char": "朝",
-              "pinyin": "zhāo",
-              "index": 36,
-              "read": false,
-              "write": false
+              "pinyin": "cuì",
+              "index": 41
             },
             {
               "char": "飞",
-              "pinyin": "fēi",
-              "index": 37,
-              "read": false,
-              "write": false
+              "pinyin": "xuān",
+              "index": 42
             },
             {
               "char": "暮",
-              "pinyin": "mù",
-              "index": 38,
-              "read": false,
-              "write": false
+              "pinyin": "yǔ",
+              "index": 43
             },
             {
               "char": "卷",
-              "pinyin": "juǎn",
-              "index": 39,
-              "read": false,
-              "write": false
+              "pinyin": "sī",
+              "index": 44
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 40,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 45
             },
             {
               "char": "云",
-              "pinyin": "yún",
-              "index": 41,
-              "read": false,
-              "write": false
+              "pinyin": "fēng",
+              "index": 46
             },
             {
               "char": "霞",
-              "pinyin": "xiá",
-              "index": 42,
-              "read": false,
-              "write": false
+              "pinyin": "piàn",
+              "index": 47
             },
             {
               "char": "翠",
-              "pinyin": "cuì",
-              "index": 43,
-              "read": false,
-              "write": false
+              "pinyin": "yān",
+              "index": 48
             },
             {
               "char": "轩",
-              "pinyin": "xuān",
-              "index": 44,
-              "read": false,
-              "write": false
+              "pinyin": "bō",
+              "index": 49
             },
             {
               "char": "；",
-              "pinyin": "；",
-              "index": 45,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 50
             }
           ],
-          "translation": "朝云铺扬，暮云卷收；云霞映着亭台楼阁；",
-          "pinyin": "zhāo fēi mù juǎn ， yún xiá cuì xuān ；",
+          "translation": "朝云铺扬，暮云卷收；",
           "notes": [
             {
               "start": 0,
-              "end": 4,
-              "content": "朝飞暮卷：形容云霞或画卷在早晚舒展卷起，此处借指时光流转、景色变幻。"
-            },
-            {
-              "start": 5,
-              "end": 9,
-              "content": "云霞翠轩：云霞映照着的华美亭台。翠轩，装饰华丽的楼阁。"
+              "end": 3,
+              "content": "语出唐王勃《滕王阁》：“画栋朝飞南浦云，珠帘暮卷西山雨。”"
             }
           ]
         },
@@ -415,206 +300,116 @@
           "content": [
             {
               "char": "雨",
-              "pinyin": "yǔ",
-              "index": 46,
-              "read": false,
-              "write": false
+              "pinyin": "huà",
+              "index": 51
             },
             {
               "char": "丝",
-              "pinyin": "sī",
-              "index": 47,
-              "read": false,
-              "write": false
+              "pinyin": "chuán",
+              "index": 52
             },
             {
               "char": "风",
-              "pinyin": "fēng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "pinyin": "jǐn",
+              "index": 53
             },
             {
               "char": "片",
-              "pinyin": "piàn",
-              "index": 49,
-              "read": false,
-              "write": false
+              "pinyin": "píng",
+              "index": 54
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 50,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 55
             },
             {
               "char": "烟",
-              "pinyin": "yān",
-              "index": 51,
-              "read": false,
-              "write": false
+              "pinyin": "rén",
+              "index": 56
             },
             {
               "char": "波",
-              "pinyin": "bō",
-              "index": 52,
-              "read": false,
-              "write": false
+              "pinyin": "tuī",
+              "index": 57
             },
             {
               "char": "画",
-              "pinyin": "huà",
-              "index": 53,
-              "read": false,
-              "write": false
+              "pinyin": "kàn",
+              "index": 58
             },
             {
               "char": "船",
-              "pinyin": "chuán",
-              "index": 54,
-              "read": false,
-              "write": false
+              "pinyin": "de",
+              "index": 59
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 55,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "细雨几丝，和风片片，烟波浩渺的春水中浮动着画船，",
-          "pinyin": "yǔ sī fēng piàn ， yān bō huà chuán ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "雨丝风片：细雨如丝，微风轻拂。片，形容微风轻柔。"
+              "pinyin": "",
+              "index": 60
             },
             {
-              "start": 5,
-              "end": 9,
-              "content": "烟波画船：烟雾笼罩的水面上装饰华美的游船。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
               "char": "锦",
-              "pinyin": "jǐn",
-              "index": 56,
-              "read": false,
-              "write": false
+              "pinyin": "zhè",
+              "index": 61
             },
             {
               "char": "屏",
-              "pinyin": "píng",
-              "index": 57,
-              "read": false,
-              "write": false
+              "pinyin": "sháo",
+              "index": 62
             },
             {
               "char": "人",
-              "pinyin": "rén",
-              "index": 58,
-              "read": false,
-              "write": false
+              "pinyin": "guāng",
+              "index": 63
             },
             {
               "char": "忒",
-              "pinyin": "tuī",
-              "index": 59,
-              "read": true,
-              "write": true
+              "pinyin": "jiàn",
+              "index": 64
             },
             {
               "char": "看",
-              "pinyin": "kàn",
-              "index": 60,
-              "read": true,
-              "write": true
+              "pinyin": "",
+              "index": 65
             },
             {
               "char": "的",
-              "pinyin": "de",
-              "index": 61,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 66
             },
             {
               "char": "这",
-              "pinyin": "zhè",
-              "index": 62,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 67
             },
             {
               "char": "韶",
-              "pinyin": "sháo",
-              "index": 63,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 68
             },
             {
               "char": "光",
-              "pinyin": "guāng",
-              "index": 64,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 69
             },
             {
               "char": "贱",
-              "pinyin": "jiàn",
-              "index": 65,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 70
             },
             {
               "char": "！",
-              "pinyin": "！",
-              "index": 66,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 71
             }
           ],
-          "translation": "我这被阻隔在深闺中的人太辜负这大好春光。",
-          "pinyin": "jǐn píng rén tuī kàn de zhè sháo guāng jiàn ！",
+          "translation": "云霞映着亭台楼阁；",
           "notes": [
             {
-              "start": 0,
-              "end": 2,
-              "content": "锦屏人：指深闺中的女子。锦屏，华丽的屏风，代指闺阁。"
-            },
-            {
-              "start": 3,
-              "end": 5,
-              "content": "忒看的：太看得。忒，太、过于；看的，看得。"
-            },
-            {
-              "start": 6,
-              "end": 10,
-              "content": "韶光贱：美好的春光被轻视。韶光，春光；贱，轻视、浪费。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "太、过于"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "方言或特定语境使用"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 10,
-              "content": "整句为省略句，省略主语‘锦屏人’，完整意为‘锦屏人忒看的这韶光贱’"
+              "start": 10,
+              "end": 19,
+              "content": "意思是，我这深闺女子太辜负这美好春光。锦屏人，深闺中人。忒，过于。看的……贱，把……看轻。韶光，美好的时光，多指春光。"
             }
           ]
         }
@@ -623,8 +418,11 @@
   ],
   "tags": [
     "必修下",
-    "词"
+    "曲",
+    "背默"
   ],
   "background": "这支曲子出自《牡丹亭》第十出《惊梦》。《牡丹亭》是汤显祖在明代万历（明神宗年号，1563－1620）年间据明人小说《杜丽娘慕色还魂》改编而成的传奇作品。《惊梦·皂罗袍》是《牡丹亭》女主人公杜丽娘偶尔来到后园游赏时的一段唱词。",
-  "appreciation": "此曲描写贵族小姐杜丽娘游色自己家的后花园，发现万紫色红与破井断墙相伴，无人欣异，良辰美景空自流逝，感到惊异和惋惜，抒发了对美好青春被禁锢、被扼杀的叹息。全曲活言精美，以词的手法写曲，抒情、写景及刻划人物的心理活动，无不细腻生动，真切感人，流动着优雅的韵律之美。这段唱词是《牡丹亭》在最有名的一支曲子，历久传唱不衰。全曲雅丽浓艳而不失蕴藉，情真意切，随景摇荡，充分地展示了杜丽娘在游园时的情绪流转，体现出情、景、戏、思一体化的特点。首句“原来姹紫嫣红开遍”，写深闭幽闺的少女从未涉迹园林，这次乍进后园，只见百花盛开，万紫色红，艳丽眩目的春园物态，予人以强烈的视觉冲击，叩开了少女的心扉，然而，主人公并非只是流连其中，只“入”而不“出”，接承第一眼春色的是少女心中幻设的虚景，她预见到浓艳富丽之春景的未来走向——“都付与断井颓垣”，残败破落的画面从另一个极端给予少女强烈的震撼。“春色如许”开启了主人公的视野，使之充满了诧异和惊喜，接踵而来的对匆匆春将归去的联想则轰的一声震响了少女的心房，使之充满了惊惧和无奈。这遇夹杂着深深的伤感，自己的人生春天也同样多姿多彩，然而却无一人走进来。女主人公心花初放紧接着又上眉头的景象，包蕴的是无奈的情绪——“良辰美景奈何天，异心乐事谁家院”。这两句话突出了良辰美景与异心乐事之间的矛盾，指出杜丽娘黯然的心情与艳丽春光间的不谐，春天的生机强化了她黯然伤感的情怀。现实的苦闷，青春的觉醒使得女主人公对外部世界充满了无限向往。她在这遇意识到生命的困境，换个角度看待这些唏嘘，则遇面并不仅仅残存着纯粹的悲观意绪，主人公情绪跌入低谷之后，仍念念不忘“良辰美景”“异心乐事”“云霞翠轩”“烟波画船”，美好的事物始终深刻内嵌于少女的思维深处，读者不难从中窥探出主人公内心深处的期待，为下一段奇遇柳梦梅，为情而死的故事找到心理依据。这段唱词既是景活，也是情活。人物的感情和景色交织在一起，映衬了主人公的对景自怜的伤感，其内心深处顾影自怜的哀愁在美好春光的感召下喷薄而出。此曲从喜乐到苦痛的情绪流变紧紧扣咬着从浓艳的实景向残败的虚景的转变，读者很难剖判外在之景与内在之情的严格界限，只因在此处，景现而情发，情入而景犹存。此曲表现了杜丽娘游园恨晚、青春寂寞的悔怨，进而控诉了了封建礼教和封建观念对少女青春的无情摧残。杜丽娘作为一个刚刚觉醒的少女，感叹春光易逝，哀伤春光寂寞，渴望自由幸福的生活，强烈要求身心解放，这折射出明中叶后要求个性解放的时代精神，对后世深有影响。在《红楼梦》中，即有林黛玉读这首曲时联想到自己的遭遇处境无限感伤的情节。简析：《惊梦·皂罗袍》描写贵族小姐杜丽娘游览自己家的后花园，发现万紫千红与破井断墙相伴，无人欣赏，良辰美景空自流逝，感到惊异和惋惜，抒发了她对美好青春被禁锢、被扼杀的叹息。全曲语言精美，雅丽浓艳而不失蕴藉，情真意切，随景摇荡，充分展示了杜丽娘在游园时的情绪流转，体现出情、景、戏、思一体化的特点，其细腻生动，真切感人，流动着优雅的韵律之美。"
+  "appreciation": "《惊梦·皂罗袍》描写贵族小姐杜丽娘游览自己家的后花园，发现万紫千红与破井断墙相伴，无人欣赏，良辰美景空自流逝，感到惊异和惋惜，抒发了她对美好青春被禁锢、被扼杀的叹息。全曲语言精美，雅丽浓艳而不失蕴藉，情真意切，随景摇荡，充分展示了杜丽娘在游园时的情绪流转，体现出情、景、戏、思一体化的特点，其细腻生动，真切感人，流动着优雅的韵律之美。",
+  "annotation": "姹紫嫣红：形容花的鲜艳美丽。断井颓垣：断了的井栏，倒了的短墙。这里是形容庭院的破旧冷落。赏心乐事：晋宋时期谢灵运《拟魏太子邺中集诗序》：“天下良辰、美景、赏心、乐事，四者难并”，这两句用此句意。奈何天：无可奈何的意思。谁家：哪一家。后句意为自己家的庭院花园里没有赏心乐事。朝飞暮卷：唐代王勃《滕王阁诗》中有“画栋朝飞南浦云，珠帘暮卷西山雨”句，形容楼阁巍峨，景色开阔。翠轩：华美的亭台楼阁。画船：装饰华美的游船。锦屏人：被阻隔在深闺中的人。忒：过于。韶光：大好春光。",
+  "comprehensive_appreciation": "赏析：此曲描写贵族小姐杜丽娘游色自己家的后花园，发现万紫色红与破井断墙相伴，无人欣异，良辰美景空自流逝，感到惊异和惋惜，抒发了对美好青春被禁锢、被扼杀的叹息。全曲活言精美，以词的手法写曲，抒情、写景及刻画人物的心理活动，无不细腻生动，真切感人，流动着优雅的韵律之美。这段唱词是《牡丹亭》在最有名的一支曲子，历久传唱不衰。全曲雅丽浓艳而不失蕴藉，情真意切，随景摇荡，充分地展示了杜丽娘在游园时的情绪流转，体现出情、景、戏、思一体化的特点。首句“原来姹紫嫣红开遍”，写深闭幽闺的少女从未涉迹园林，这次乍进后园，只见百花盛开，万紫色红，艳丽眩目的春园物态，予人以强烈的视觉冲击，叩开了少女的心扉，然而，主人公并非只是流连其中，只“入”而不“出”，接承第一眼春色的是少女心中幻设的虚景，她预见到浓艳富丽之春景的未来走向——“都付与断井颓垣”，残败破落的画面从另一个极端给予少女强烈的震撼。“春色如许”开启了主人公的视野，使之充满了诧异和惊喜，接踵而来的对匆匆春将归去的联想则轰的一声震响了少女的心房，使之充满了惊惧和无奈。这遇夹杂着深深的伤感，自己的人生春天也同样多姿多彩，然而却无一人走进来。女主人公心花初放紧接着又上眉头的景象，包蕴的是无奈的情绪——“良辰美景奈何天，异心乐事谁家院”。这两句话突出了良辰美景与异心乐事之间的矛盾，指出杜丽娘黯然的心情与艳丽春光间的不谐，春天的生机强化了她黯然伤感的情怀。现实的苦闷，青春的觉醒使得女主人公对外部世界充满了无限向往。她在这遇意识到生命的困境，换个角度看待这些唏嘘，则遇面并不仅仅残存着纯粹的悲观意绪，主人公情绪跌入低谷之后，仍念念不忘“良辰美景”“异心乐事”“云霞翠轩”“烟波画船”，美好的事物始终深刻内嵌于少女的思维深处，读者不难从中窥探出主人公内心深处的期待，为下一段奇遇柳梦梅，为情而死的故事找到心理依据。这段唱词既是景活，也是情活。人物的感情和景色交织在一起，映衬了主人公的对景自怜的伤感，其内心深处顾影自怜的哀愁在美好春光的感召下喷薄而出。此曲从喜乐到苦痛的情绪流变紧紧扣咬着从浓艳的实景向残败的虚景的转变，读者很难剖判外在之景与内在之情的严格界限，只因在此处，景现而情发，情入而景犹存。此曲表现了杜丽娘游园恨晚、青春寂寞的悔怨，进而控诉了了封建礼教和封建观念对少女青春的无情摧残。杜丽娘作为一个刚刚觉醒的少女，感叹春光易逝，哀伤春光寂寞，渴望自由幸福的生活，强烈要求身心解放，这折射出明中叶后要求个性解放的时代精神，对后世深有影响。在《红楼梦》中，即有林黛玉读这首曲时联想到自己的遭遇处境无限感伤的情节。"
 }

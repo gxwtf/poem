@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="苏武传"
+  author="班固"
+  dynasty="东汉"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　苏武是西汉大臣。他出使匈奴，正当汉朝与匈奴的关系有所改善、两国矛盾有所缓和的时期。匈奴方面先做出友好姿态，把以往扣留的汉朝使臣全部放回。汉武帝为了答谢匈奴方面的好意，也采取了同样的行动，派苏武护送以往扣留在汉朝的匈奴使臣回国。 此文便记叙这一历史事件。
+
+## 作品赏析
+
+　　这篇文章节选自《苏武传》，其为《汉书》中的名篇之一，它记述了苏武出使匈奴，面对威胁利诱坚守节操，历尽艰辛而不辱使命的事迹，生动刻画了一个“富贵不能淫，威武不能屈”的爱国志士的光辉形象。作者采用写人物传记时常用的纵式结构来组织文章，以顺叙为主，适当运用插叙的方法，依时间的先后进行叙述，脉络清晰，故事完整。

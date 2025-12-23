@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="式微"
+  author="诗经·国风·邶风"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　关于《邶风·式微》的主旨，近现代学者多认为这是人民苦于劳役，对国君发出的怨词；也有人认为这是情人幽会相互戏谑的情歌。《毛诗序》说是黎侯为狄所逐，流亡于卫，其臣作此劝他归国。刘向《列女传·贞顺篇》说是卫侯之女嫁黎国庄公，却不为其所纳，有人劝以归，她则“终执贞一，不违妇道，以俟君命”，并赋此诗以明志。
+
+## 作品赏析
+
+　　《式微》是一首杂言古诗。此诗或是苦于劳役的人发出的怨词，表达了服役之人遭受统治者的压迫，夜以继日地在野外干活，有家不能归的怨愤。全诗采用设问等修辞手法，情感表达宛转而富有情致，重章换字，韵律和谐，用词精巧，兼有长短的句式，节奏短促，情调急迫，充分表达出服役之人的苦痛心情以及他们背弃暴政的决心。

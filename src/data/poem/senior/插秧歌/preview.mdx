@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="插秧歌"
+  author="杨万里"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　淳熙六年（1179）春，杨万里常州任满，西归故乡吉水；途经衢州（今浙江衢州市），时值农田大忙季节，诗人目睹一户农家插秧之辛劳，作该诗。
+
+## 作品赏析
+
+　　《插秧歌》是一首七言古诗。该诗生动地描绘了江南农户全家总动员插秧的情景；田夫、田妇、大儿、小儿各有分工，拔秧、抛秧、接秧、插秧，紧张忙碌而秩序井然。前四句，纯用描写手法，极富表现力；后四句宛若一组特写镜头，绘形绘声。全诗写得新、奇、快、恬，充分体现出诚斋体的风格。

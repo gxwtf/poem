@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="陶庵梦忆序"
+  author="张岱"
+  dynasty="明代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　作者张岱生当明清社会大变动之际，由贵族公子而沦为山间野人，由鲜衣美食而降为衲苎粗粝，常“瓶粟屡罄，不能举火”，感“繁华靡丽，过眼皆空，五十年来，总成一梦”，因此“遥思往事，忆即书之”，创作了《陶庵梦忆》，此文即是序文。《陶庵梦忆》成书于甲申明亡（1644）之后，书中追叙了昔日的生活，包括苏、杭、宁、扬等地的山川名胜、风土人情。
+
+## 作品赏析
+
+　　这篇文章第一段简述国破家亡后，自己的思想矛盾和贫困生活；第二段以简净的句法，将早年的豪华生活与今日的蔽败潦倒作种种对比，认为这都是现世的因果报应；第三段用黄粱梦、槐安国的典故，点明“五十年来，总成一梦”的主旨，自比“痴人”，犹喜说梦；第四段说了两则故事来比喻人生的虚幻；末段承认，自己虽大梦将醒，仍旧难舍名根，故有种种记叙。全文字数有限，但作者的生活变迁、心路历程、著文渊源清晰可见，自嘲、自悔、自诩之情毕备，可谓言约而意丰。

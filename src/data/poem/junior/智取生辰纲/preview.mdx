@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="智取生辰纲"
+  author="施耐庵"
+  dynasty="明代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此文节选自《水浒传》第十六回（人民文学出版社1975年版）。有删节。题目是编者加的。《水浒传》是一部以北宋末年宋江起义为题材的长篇白话小说。节选的这一部分的背景是：杨志受大名府（治所在今河北大名东）留守梁中书的派遣，押送生辰纲前往汴梁（今河南开封），为梁的岳丈、当朝太师蔡京祝寿。
+
+## 作品赏析
+
+　　这篇文章节选自《水浒传》，是“智取生辰纲”情节的经典描写，此文主要讲述了杨志押送生辰纲途中，被晁盖、吴用等人用智谋劫走的故事。文章从杨志押送生辰纲启程开始，详细描述了队伍的组成、路途的艰辛以及杨志与军汉、虞候、老都管之间的矛盾冲突，为后文的智取埋下伏笔；而后描写吴用等人的巧妙计策、白胜的密切配合以及杨志等人的上当受骗，展现了一场精彩的智谋较量。全文情节紧凑，人物刻画栩栩如生，不仅展示了古代英雄好汉的智勇双全和机智应变，也侧面反映出当时社会的失序与混乱。

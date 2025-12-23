@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="范进中举"
+  author="吴敬梓"
+  dynasty="清代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　这则故事通过描写范进参加乡试中了举人一事，运用夸张的修辞手法刻画出他为科举考试喜极而疯的形象，用岳丈在范进中举前后的极其鲜明的肢体动作和言语表情，以及中举后邻居对他的前呼后拥和乡绅赠屋等事例重点刻画出了一个趋炎附势、热衷仕途、好功名利禄且世态炎凉的可耻社会风气，对当时社会及其阴暗的特征进行了辛辣的讽刺。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="行香子·树绕村庄"
+  author="秦观"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此词大约作于作者创作早期的熙宁年间（公元1068~公元1077年），当时作者家居，尚未出仕。在一个春天，作者乘兴游览了一座村庄，被朴质自然的村野风光所感染，因此创作了此词。
+
+## 作品赏析
+
+　　这首词写景抒情朴质自然，语言生动清新。词的上片表现的是一处静态风景，主要描写小园和各种色彩缤纷的春花；下片则描写农家乡院以及莺歌燕舞、蝶儿翻飞的迷人春色。此词一反词人其他词中常有的哀怨情调，色彩鲜明，又形象生动。全词以白描的手法、浅近的语言，勾勒出一幅春光明媚、万物竞发的田园风光图。

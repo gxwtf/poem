@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="梁甫行"
+  author="曹植"
+  dynasty="魏晋"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　《泰山梁甫行》是借乐府旧题描写海边逃民的困苦生活而作。关于此诗的创作时间考证，有多种说法。有人根据曹植《求自试表》中“臣昔从先武帝南极赤岸，东临沧海……”的叙述，认为这首诗当作于曹植随曹操北征乌桓时，写途中所见。可为不实，因当时曹植虽在戎马之中，未经流离之苦，还不可能对灾难中的人民有如此诗中那样深厚强烈的同情。这首诗写于魏明帝时是无疑的，但不是诗人自况。在曹叡的时代徭役繁兴，赋敛苛细，百姓为了逃避征调，常常不敢家居而窜入山林；诗中写的正是这种悲惨情景。
+
+## 作品赏析
+
+　　《梁甫行》是诗人借乐府旧题描写海边逃民的困苦生活而作。此诗描述了边海百姓的艰难生活，比较深刻地映射出那个时代百姓生活困苦不堪的惨痛生活景象，表现出诗人对劳动人民深刻的同情。全诗言简意赅，寓意深刻，采用正面描写与侧面烘托的手法，使边海贫民悲惨的生活图景跃然纸上。

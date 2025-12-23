@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="孔雀东南飞并序"
+  author="佚名"
+  dynasty="两汉"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　《孔雀东南飞》的写作年代，历来有所争论。根据此诗“小序”，应是汉末建安时代的作品，故属“汉乐府”范围。
+
+## 作品赏析
+
+　　《孔雀东南飞》是一首长篇叙事诗，是乐府诗发展史上的高峰之作，后人盛称它与北朝的《木兰诗》为“乐府双璧”。此诗取材于东汉献帝年间发生在庐江郡的一桩婚姻悲剧，其主要讲述了焦仲卿、刘兰芝夫妇被迫分离并双双自杀的故事，控诉了封建礼教的残酷无情，歌颂了焦刘夫妇的真挚感情和反抗精神。全诗故事繁简剪裁得当，人物刻画栩栩如生，其比兴手法和浪漫色彩的运用，对形象的塑造起了非常重要的作用，诗中不仅塑造了焦刘夫妇心心相印、坚贞不屈的形象，也把焦母的顽固和刘兄的蛮横刻画得入木三分。篇末构思刘兰芝和焦仲卿死后双双化为鸳鸯的神话，寄托了人民群众追求恋爱自由和幸福生活的强烈愿望。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="苦斋记"
+  author="刘基"
+  dynasty="明代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　元朝末年，刘基和宋濂、章溢、叶琛结庐匡山，世称“浙西四贤”，他们在此著书立说，关注民生。刘基在匡山驻留较长时间，赋有大量诗文，《苦斋记》就是在匡山时章溢请刘基写的书斋记。
+
+## 作品赏析
+
+　　这篇文章着眼一个“苦”字，书斋不仅位处苦地，而且连四周的动植物都具苦性，在无往而不苦之中，主人却乐在其中。最后揭示原因，说明苦乐相倚伏的道理，苦中自有其乐，具有辩证的观点，并在更深一层上说明了命名“苦斋”的深意。全文内容层层推进、结构前呼后应，文学手段灵活多样，笔调深沉，语言隽永，淋滴尽致地表现出章溢“以苦为乐，乐于吃苦”的情操志趣。

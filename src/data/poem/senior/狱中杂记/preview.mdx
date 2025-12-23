@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="狱中杂记"
+  author="方苞"
+  dynasty="清代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　公元1711年（康熙五十年），方苞因《南山集》案牵连入狱。《南山集》为桐城人戴名世所著。戴名世在《南山集》的《与余生书》一文中提出写历史时应给明末几个皇帝立“本纪”。此事被御史赵申乔揭发，戴名世全家及其族人牵累定死罪者甚多。方苞也因《南山集》序文上列有名字，被捕入狱。开始在江宁县狱，后解至京城，下刑部狱。两年后出狱，被编入汉军旗，以奴隶身份入值南书房。康熙皇帝死后被特赦，解除旗籍。后累官至礼部侍郎。这篇文章是方苞出狱后，追述他在刑部狱中所见所闻的记录。
+
+## 作品赏析
+
+　　《狱中杂记》是一篇散文。此文可分为四个部分。第一、二两段为第一部分，写狱中瘟疫流行，死者甚众的情况和原因；第三、四段为第二部分，进一步揭露行刑者，主缚者、主梏扑者手段的狠毒和用心的险恶；第五、六段为第三部分，揭发奸吏贪赃枉法的罪恶行为；第七段为第四部分，揭露胥吏狱卒和奸民相勾结牟利的事实，说明当时的监狱阴森可怕。前文记叙具体真切，富有说服力，行文简洁有序，却不失生动。

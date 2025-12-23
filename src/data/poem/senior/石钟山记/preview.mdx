@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="石钟山记"
+  author="苏轼"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　宋神宗元丰七年（1084年）六月，苏轼由黄州团练副使调任汝州（现河南临汝）团练副使时，顺便送他的长子苏迈到饶州德兴县任县尉，途经湖口，游览了石钟山，为辨明石钟山命名的由来，写了这篇文章。
+
+## 作品赏析
+
+　　《石钟山记》是一篇考察性的游记。全文可分为三段，第一段提出石钟山得名由来的两种说法，以及对这两种说法的怀疑；第二段记叙实地考察石钟山，得以探明其名由来的经过；第三段写探明石钟山得名由来的感想，表明写作意图。这篇文章将议论和叙述相结合，通过夜游石钟山的实地考查，对郦道元和李渤关于石钟山得名的说法进行了分析批评，提出了事不目见耳闻，不能臆断其有无的论断，表现了作者注重调查研究的求实精神。在艺术上，此文具有结构独特、行文曲折、修饰巧妙、语言灵活等特色。

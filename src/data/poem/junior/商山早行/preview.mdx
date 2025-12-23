@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="商山早行"
+  author="温庭筠"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首诗准确写作年代已不可考，但联系温庭筠生平，他曾任隋县尉，徐商镇襄阳，他被辟为巡官。据夏承焘《温飞卿系年》，这两件事均发生在唐宣宗大中十三年（859年），当年温庭筠四十八岁。自长安赴隋县，当道出商山。此诗当是温庭筠此次离开长安赴襄阳投奔徐商经过商山时所作。
+
+## 作品赏析
+
+　　《商山早行》是一首行旅诗。此诗描写了旅途中寒冷凄清的早行景色，抒发了游子在外的孤寂之情和浓烈的思乡之意，字里行间流露出人在旅途的失意和无奈。整首诗正文虽无“早”字，但无处不写“早”，通过霜、茅店、鸡声、人迹、板桥、月这六个意象，把初春山村黎明特有的景色，细腻而又精致地描绘出来。全诗语言明净，结构缜密，情景交融，含蓄有致，是唐诗中的名篇，也是文学史上写羁旅之情的名篇，历来为诗词选家所重视。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="晚春"
+  author="韩愈"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此诗为《游城南十六首》中的一首。该诗创作于公元816年（唐宪宗元和十一年），韩愈年近半百时。
+
+## 作品赏析
+
+　　《晚春》是一首七言绝句，此诗写郊游即目所见之暮春景物。诗人运用拟人的修辞手法，描写花草树木得知春天不久就要归去，想要留住它，于是使出浑身解数，吐艳争芳，呈现出万紫千红、繁花似锦的景象，就连那乏色少香的杨花、榆荚也不甘寂寞，来凑热闹，因风起舞，化作雪飞，加入了留春的行列。全诗表达了惜春的思想感情，同时也蕴含着应抓住时机、乘时而进以创造美好未来之意，其语言生动，亦庄亦谐，富含哲理。

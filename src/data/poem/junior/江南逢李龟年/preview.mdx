@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="江南逢李龟年"
+  author="杜甫"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此诗大概作于公元770年（大历五年）杜甫在长沙的时候。安史之乱后，杜甫漂泊到江南一带，和流落的宫廷歌唱家李龟年重逢，回忆起在岐王和崔九的府第频繁相见和听歌的情景而感慨万千写下这首诗。
+
+## 作品赏析
+
+　　这首诗为抚今思昔之作。前二句追忆昔日与李龟年的接触，寄寓着诗人对开元盛世的眷怀之情；后两句则是诗人对安史之乱后国事凋零、时人颠沛流离的感慨。全诗语言极平易，而含意极深远，内涵极丰满，包含着非常丰富的社会生活内容，表达了时世凋零丧乱与人生凄凉飘零之感。

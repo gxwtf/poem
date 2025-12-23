@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="烛之武退秦师"
+  author="左丘明"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　公元前630年（鲁僖公三十年）九月甲午时，秦、晋联合攻打郑国。郑伯闻讯后，派烛之武面见秦穆公，劝他退兵。烛之武分析当时形势、抓住利害关系，说动秦国退兵，晋军失去盟军支持后，也被迫撤离了郑国。此文即是记叙了这一历史事件。
+
+## 作品赏析
+
+　　《烛之武退秦师》是一篇散文。此文记述的是秦晋联合攻打郑国之前开展的一场外交斗争，烛之武以一己之力，凭借对时局的洞若观火和过人的辩才，成功说服秦穆公退兵，瓦解秦晋攻打郑国的联盟，终于使郑国免于灭亡。这篇文章赞扬了其临危不惧、解除国难的爱国精神以及能言善辩的杰出外交才能，同时也反映了春秋时代各诸侯国之间斗争的复杂性。全文形象鲜明，语言优美，层次分明，组织严密，说理非常透彻、有力。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="长沙过贾谊宅"
+  author="刘长卿"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　刘长卿“刚而犯上，两遭迁谪”。第一次迁谪在唐肃宗至德三年（758）春天，由苏州长洲县尉被贬为潘州南巴县尉；第二次在唐代宗大历八年（773）至大历十二年（777）间的一个深秋，因被诬陷，由淮西鄂岳转运留后被贬为睦州司马。从诗中所描写的深秋景象来看，此诗当作于诗人第二次迁谪来到长沙的时候，那时正是秋冬之交，与诗中节令恰相符合。
+
+## 作品赏析
+
+　　《长沙过贾谊宅》是一首怀古诗。此诗通过对汉代文学家贾谊不幸遭遇的凭吊和痛惜，抒发了诗人被贬的悲愤与对当时社会现实的不满情绪。他把自己的身世际遇、悲愁感兴，巧妙地结合到诗歌的形象中去，于曲折处微露讽世之意。全诗意境悲凉，真挚感人，语言含蓄蕴藉，意味深长，堪称唐人七律中的精品。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="竹里馆"
+  author="王维"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首诗是作于王维晚年隐居蓝田辋川时期。王维早年信奉佛教，思想超脱，加之仕途坎坷，四十岁以后就过着半官半隐的生活。
+
+## 作品赏析
+
+　　《竹里馆》是一首山水诗。此诗写隐者的闲适生活以及情趣，描绘了诗人月下独坐、弹琴长啸的悠闲生活，遣词造句简朴清丽，传达出诗人宁静、淡泊的心情，表现了清幽宁静、高雅绝俗的境界。全诗虽篇幅极短，但有景有情、有声有色、有静有动、有实有虚，对立统一，相映成趣，是诗人生活态度以及作品特点的绝佳体现。

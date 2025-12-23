@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="十一月四日风雨大作·其二"
+  author="陆游"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　陆游自南宋孝宗淳熙十六年（1189年）罢官后，闲居家乡山阴农村。此诗作于南宋光宗绍熙三年（1192年）十一月四日。当时诗人已经68岁，他关于家国的强烈愿望，在现实中已不可能实现，于是，在一个“风雨大作”的夜里，触景生情，由情生思，在梦中实现了自己的愿望。
+
+## 作品赏析
+
+　　这首诗是《十一月四日风雨大作二首》中第二首。此诗以“痴情化梦”的手法，深沉地表达了诗人欲收复国土、报效祖国的壮志和那种“年既老而不衰”的矢志不渝精神，展现了诗人的一片赤胆忠心，表明其投身抗战、为国雪耻的壮志至老不衰。但是，诗人空怀壮志，却不为朝廷所重，只能“僵卧孤村”，把为国家恢复中原的理想寄托到梦境之中。全诗情调深沉悲壮，凝聚着诗人的爱国主义激情和报国无门的郁愤之意。

@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="人皆有不忍人之心"
+  author="孟子"
+  dynasty="战国"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《人皆有不忍人之心》是一篇语录体散文，出自《孟子》。此文是对人性的深度剖析，也是对道德修养的殷切期望。它提醒我们，作为人，本身就具有一颗善良的心，关键在于如何去发掘和培育它。只有当真正理解和实践了这些道德准则，才能够成为一个真正意义上的“人”，才能够为个人、为家庭、为天下做出应有的贡献。

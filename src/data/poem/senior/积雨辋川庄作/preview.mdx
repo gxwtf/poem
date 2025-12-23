@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="积雨辋川庄作"
+  author="王维"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此诗是王维后期的作品。后期的王维就开始了亦官亦隐的生活，对现实基本是抱着一种“无可无不可”的漠不关心的态度。最初隐居终南山，后来在蓝田辋川得到宋之问的别墅，生活更为悠闲，“与道友裴迪，浮舟往来，弹琴赋诗”，并吃斋念佛，“退朝之后，焚香独坐，以禅诵为事”。这首诗就是作于王维隐居辋川蓝田时期。
+
+## 作品赏析
+
+　　《积雨辋川庄作》是一首山水田园诗。此诗以鲜丽生新的色彩，描绘出夏日久雨初停后关中平原上美丽繁忙的景象，前四句写诗人静观所见，后四句写其隐居生活。诗人把自己幽雅清淡的禅寂生活与辋川恬静优美的田园风光结合描写，创造出一个物我相惬、情景交融的意境。全诗写景生动真切，生活气息浓厚，如同一幅淡雅的水墨画，流露出诗人隐居山林、脱离尘俗的闲情逸致。

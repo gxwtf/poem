@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="庭中有奇树"
+  author="佚名"
+  dynasty="两汉"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　《庭中有奇树》是《古诗十九首》的第九首。关于《古诗十九首》的时代背景有多种说法。宇文所安认为中国早期诗歌是一个复制系统，找不到“古诗”早于建安时期的确凿证据。至于《庭中有奇树》的具体创作时间，则难以确考。
+
+## 作品赏析
+
+　　《庭中有奇树》是一首文人五言诗，为表现思妇忆远的闺怨诗。全诗八句，前四句描写环境，后四句抒发情感。诗中每两句提示一个完整的意象，四个意象正是起、承、转、合的安排。整首诗层次井然，一气呵成，风格明快，情感深挚，传神写出女子对远行丈夫所产生的深切怀念之情，以及长期盼归又寄情无望而产生的忧愁。

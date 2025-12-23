@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="月夜忆舍弟"
+  author="杜甫"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首诗是唐肃宗乾元二年（759）秋杜甫在秦州所作。唐玄宗天宝十四年（755），安史之乱爆发，乾元二年九月，叛军安禄山、史思明从范阳引兵南下，攻陷汴州，西进洛阳，山东、河南都处于战乱之中。当时，杜甫的几个弟弟正分散在这一带。
+
+## 作品赏析
+
+　　《月夜忆舍弟》是一首五言律诗。此诗前两联侧重写景，后两联侧重抒情，情景交融，结构严谨，首尾呼应。诗中写兄弟几人因战乱而离散，居无定处，杳无音信，生死未卜。正值白露时节，在戍楼鼓声和孤雁哀鸣的映衬之下，诗人对兄弟的忧虑和思念之情愈发显得深沉和浓烈。全诗语言精工，格调沉郁哀伤，真挚感人。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="望洞庭湖赠张丞相"
+  author="孟浩然"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此诗当作于公元733年（唐玄宗开元二十一年）。当时孟浩然西游长安，张九龄任秘书少监、集贤院学士副知院士，二人及王维为忘年之交。后张九龄拜中书令，孟浩然写了这首诗赠给张九龄，目的是想得到张九龄的引荐。
+
+## 作品赏析
+
+　　《望洞庭湖赠张丞相》是一首五言律诗，为一首投赠之作。此诗以洞庭湖的浩渺烟波为背景，表达了欲渡无舟的无奈感叹与临渊羡鱼的情怀，诗人借此曲折地传达出希望得到张九龄援引的愿望。前四句写洞庭湖壮丽景象和磅礴气势，后四句则借景抒发其政治热情和希望。全诗以望洞庭湖起兴，由“欲济无舟楫”过渡，对洞庭湖进行了泼墨山水般的大笔渲绘，呈现出八百里洞庭的壮伟景观与阔大境界，取得撼人心魄的艺术效果，使此诗实际上成为了山水诗杰作。

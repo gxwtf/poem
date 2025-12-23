@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="丑奴儿·书博山道中壁"
+  author="辛弃疾"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此词创作时间在公元1181年至1192年间，是辛弃疾被弹劾去职、闲居带湖时在博山道中一壁上题了这首词。
+
+## 作品赏析
+
+　　这首词通篇言愁，上片描绘出少年涉世未深却故作深沉的情态，下片写出词人至中年几经坎坷后，满腹愁苦却无处倾诉的抑郁，通过“少年”时与“而今”的鲜明对比，表达了词人受压抑、遭排挤、报国无门的痛苦之情。全词突出地渲染了一个“愁”字，以此作为贯穿全篇的线索，构思精巧，情感真率而又委婉，言浅意深，它不仅是对愁绪的简单抒发，更是对人生的深刻思考。

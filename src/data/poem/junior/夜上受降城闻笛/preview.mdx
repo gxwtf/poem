@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="夜上受降城闻笛"
+  author="李益"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《夜上受降城闻笛》是一首七言绝句，从多角度描写了戍边将士浓烈的乡思和满心的哀愁之情。这首诗最大的特点是蕴藉含蓄，将所要抒发的感情蕴涵在对景物和情态的叙写之中。诗中写登城时所见的月下景色，如霜的月光和月下雪一般的沙漠，正是触发征人乡思的典型环境；在这万籁俱寂的静夜里，夜风送来了凄凉幽怨的芦笛声，更加唤起了征人望乡之情。全诗不说思乡，不说盼归，而是以人物的情态行为展现其心理，道出不尽的乡愁。

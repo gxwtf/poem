@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="三顾茅庐"
+  author="罗贯中"
+  dynasty="明代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此文节选自《三国演义》第三十八回（人民文学出版社 1973 年版）。有删节。题目是编者加的。东汉末年，刘备攻打曹操失败，投奔荆州刘表。为了日后成就大业，他留心访求人才，请荆州名士司马徽推荐。司马徽说：“此间自有伏龙、凤雏。”刘备得知“伏龙”就是诸葛亮，此人隐居在隆中，住茅庐草棚，耕作自养，精研史书，是个杰出人才，于是专程去拜访，便有了“三顾茅庐”的历史故事。本文讲述的是刘备协同关羽、张飞第三次拜见诸葛亮的故事。
+
+## 作品赏析
+
+　　这篇文章节选自《三国演义》，展现出刘备的求贤若渴与诸葛亮的雄才大略。刘备为求贤才，不顾身份，三次亲访诸葛亮，其诚心与决心令人动容；诸葛亮虽隐居草庐，却对天下形势了如指掌，文中既展现了他的豁达与自信，也预示其即将出山、一展才华。他与刘备的对话，不仅分析了当时的政治格局，还提出占据荆州、益州，形成鼎足之势的战略构想，显示出卓越的政治智慧与军事才能。全文通过生动的对话与细腻的心理描写，表现出刘备与诸葛亮之间深厚的君臣情谊，以及他们共同为“兴复汉室”而奋斗的崇高理想。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="祭十二郎文"
+  author="韩愈"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　《祭十二郎文》写于贞元十九年（按《文苑英华》说是写于五月二十六日，应是笔误，因是年六月下旬十二郎还写过信），文章的十二郎是指韩愈的侄子韩老成，“八仙”中著名的韩湘子即是老成之长子。韩愈与其侄十二郎自幼相守，历经患难，感情深厚。但成年以后，韩愈四处飘泊，与十二郎很少见面。正当韩愈有可能与十二郎相聚的时候，突然传来十二郎去世的噩耗。韩愈尤为悲痛，遂作此文。
+
+## 作品赏析
+
+　　《祭十二郎文》是一篇祭文。作者把抒情与叙事结合在一起，联系家庭、身世和生活琐事，反复抒写他对兄嫂及侄儿深切的怀念和痛惜之情，也饱含着自己宦海沉浮的人生悲慨。全文以向死者诉说的口吻写成，哀家族之凋落、哀己身之未老先衰、哀死者之早夭，疑天理疑神明，疑生死之数，乃至疑后嗣之成立，极写内心的辛酸悲痛。文章语意反复而一气贯注，既没有铺排，也没有张扬，一往情深，感人肺腑，具有浓厚的抒情色彩。

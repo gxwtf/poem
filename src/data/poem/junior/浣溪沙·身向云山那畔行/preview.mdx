@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="浣溪沙·身向云山那畔行"
+  author="纳兰性德"
+  dynasty="清代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　康熙二十一年（1682年）八月，纳兰受命与副都统郎谈等出使觇梭龙打虎山，十二月还京，此篇大约作于此行中。
+
+## 作品赏析
+
+　　该词上片“身向”句说明行程辽远。“北风”句谓寒风吹来，满耳尽是马嘶之声。而后作一小结；下片“一抹”二句写眼前景色，此时边关的云烟、堡垒、落日均染上了情绪的色彩，满目萧瑟的冷清与破败。末句画龙点睛，点明这首词的主旨在于“古今幽恨”。全词情景交融，语意低宛，情感深挚，显示出词人胸中翻涌着的怀古之心、恋乡之情、忧虑之思，纷纷扰扰难以平静。

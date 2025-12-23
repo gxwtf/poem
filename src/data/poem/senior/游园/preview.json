@@ -5,36 +5,56 @@
         {
           "sentence": [
             {
-              "char": "原",
-              "pinyin": "yuán"
+              "char": "【",
+              "pinyin": ""
             },
             {
-              "char": "来",
-              "pinyin": "lái"
+              "char": "皂",
+              "pinyin": "zhà"
             },
             {
-              "char": "姹",
-              "pinyin": "chà"
-            },
-            {
-              "char": "紫",
+              "char": "罗",
               "pinyin": "zǐ"
             },
             {
-              "char": "嫣",
+              "char": "袍",
               "pinyin": "yān"
             },
             {
-              "char": "红",
+              "char": "】",
+              "pinyin": ""
+            },
+            {
+              "char": "原",
               "pinyin": "hóng"
             },
             {
-              "char": "开",
+              "char": "来",
               "pinyin": "kāi"
             },
             {
-              "char": "遍",
+              "char": "姹",
               "pinyin": "biàn"
+            },
+            {
+              "char": "紫",
+              "pinyin": "shì"
+            },
+            {
+              "char": "嫣",
+              "pinyin": "bān"
+            },
+            {
+              "char": "红",
+              "pinyin": "dōu"
+            },
+            {
+              "char": "开",
+              "pinyin": "fù"
+            },
+            {
+              "char": "遍",
+              "pinyin": "yǔ"
             },
             {
               "char": "，",
@@ -42,31 +62,31 @@
             },
             {
               "char": "似",
-              "pinyin": "sì"
+              "pinyin": "duàn"
             },
             {
               "char": "这",
-              "pinyin": "zhè"
+              "pinyin": "jǐng"
             },
             {
               "char": "般",
-              "pinyin": "bān"
+              "pinyin": "tuí"
             },
             {
               "char": "都",
-              "pinyin": "dōu"
+              "pinyin": "yuán"
             },
             {
               "char": "付",
-              "pinyin": "fù"
+              "pinyin": "liáng"
             },
             {
               "char": "与",
-              "pinyin": "yǔ"
+              "pinyin": "chén"
             },
             {
               "char": "断",
-              "pinyin": "duàn"
+              "pinyin": "měi"
             },
             {
               "char": "井",
@@ -74,11 +94,11 @@
             },
             {
               "char": "颓",
-              "pinyin": "tuí"
+              "pinyin": "nài"
             },
             {
               "char": "垣",
-              "pinyin": "yuán"
+              "pinyin": "hé"
             },
             {
               "char": "。",
@@ -88,53 +108,37 @@
           "translation": {
             "translation": "这样繁花似锦的春色无人赏识，只能存在于这破败的断壁残垣之中。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "原来：在此处意为‘本来’，非现代汉语中表示发现或醒悟的副词。"
-            },
-            {
-              "start": 3,
-              "end": 6,
-              "note": "姹紫嫣红：形容百花娇艳盛开。姹，美丽；嫣，美好。"
-            },
-            {
-              "start": 14,
-              "end": 19,
-              "note": "断井颓垣：指破败的井台和倒塌的墙垣，形容庭院荒芜。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "良",
-              "pinyin": "liáng"
+              "pinyin": "tiān"
             },
             {
               "char": "辰",
-              "pinyin": "chén"
+              "pinyin": "shǎng"
             },
             {
               "char": "美",
-              "pinyin": "měi"
+              "pinyin": "xīn"
             },
             {
               "char": "景",
-              "pinyin": "jǐng"
+              "pinyin": "lè"
             },
             {
               "char": "奈",
-              "pinyin": "nài"
+              "pinyin": "shì"
             },
             {
               "char": "何",
-              "pinyin": "hé"
+              "pinyin": "shuí"
             },
             {
               "char": "天",
-              "pinyin": "tiān"
+              "pinyin": "jiā"
             },
             {
               "char": "，",
@@ -142,31 +146,31 @@
             },
             {
               "char": "赏",
-              "pinyin": "shǎng"
+              "pinyin": "yuàn"
             },
             {
               "char": "心",
-              "pinyin": "xīn"
+              "pinyin": "cháo"
             },
             {
               "char": "乐",
-              "pinyin": "lè"
+              "pinyin": "fēi"
             },
             {
               "char": "事",
-              "pinyin": "shì"
+              "pinyin": "mù"
             },
             {
               "char": "谁",
-              "pinyin": "shuí"
+              "pinyin": "juǎn"
             },
             {
               "char": "家",
-              "pinyin": "jiā"
+              "pinyin": "yún"
             },
             {
               "char": "院",
-              "pinyin": "yuàn"
+              "pinyin": "xiá"
             },
             {
               "char": "！",
@@ -178,14 +182,14 @@
           },
           "notes": [
             {
-              "start": 0,
-              "end": 7,
-              "note": "良辰美景奈何天：意为美好的时光和景色，却无奈天意弄人。奈何，如何、怎么办。"
+              "start": 4,
+              "end": 6,
+              "note": "令人无可奈何的时光。多表示百无聊赖的思绪。"
             },
             {
-              "start": 8,
-              "end": 15,
-              "note": "赏心乐事谁家院：使人心情愉悦的乐事，不知发生在谁家的庭院。谁家，哪一家。"
+              "start": 12,
+              "end": 13,
+              "note": "哪一家。一说作“什么”解。"
             }
           ]
         },
@@ -193,19 +197,19 @@
           "sentence": [
             {
               "char": "朝",
-              "pinyin": "zhāo"
+              "pinyin": "cuì"
             },
             {
               "char": "飞",
-              "pinyin": "fēi"
+              "pinyin": "xuān"
             },
             {
               "char": "暮",
-              "pinyin": "mù"
+              "pinyin": "yǔ"
             },
             {
               "char": "卷",
-              "pinyin": "juǎn"
+              "pinyin": "sī"
             },
             {
               "char": "，",
@@ -213,19 +217,19 @@
             },
             {
               "char": "云",
-              "pinyin": "yún"
+              "pinyin": "fēng"
             },
             {
               "char": "霞",
-              "pinyin": "xiá"
+              "pinyin": "piàn"
             },
             {
               "char": "翠",
-              "pinyin": "cuì"
+              "pinyin": "yān"
             },
             {
               "char": "轩",
-              "pinyin": "xuān"
+              "pinyin": "bō"
             },
             {
               "char": "；",
@@ -233,18 +237,13 @@
             }
           ],
           "translation": {
-            "translation": "朝云铺扬，暮云卷收；云霞映着亭台楼阁；"
+            "translation": "朝云铺扬，暮云卷收；"
           },
           "notes": [
             {
               "start": 0,
-              "end": 4,
-              "note": "朝飞暮卷：形容云霞或画卷在早晚舒展卷起，此处借指时光流转、景色变幻。"
-            },
-            {
-              "start": 5,
-              "end": 9,
-              "note": "云霞翠轩：云霞映照着的华美亭台。翠轩，装饰华丽的楼阁。"
+              "end": 3,
+              "note": "语出唐王勃《滕王阁》：“画栋朝飞南浦云，珠帘暮卷西山雨。”"
             }
           ]
         },
@@ -252,19 +251,19 @@
           "sentence": [
             {
               "char": "雨",
-              "pinyin": "yǔ"
+              "pinyin": "huà"
             },
             {
               "char": "丝",
-              "pinyin": "sī"
+              "pinyin": "chuán"
             },
             {
               "char": "风",
-              "pinyin": "fēng"
+              "pinyin": "jǐn"
             },
             {
               "char": "片",
-              "pinyin": "piàn"
+              "pinyin": "píng"
             },
             {
               "char": "，",
@@ -272,82 +271,63 @@
             },
             {
               "char": "烟",
-              "pinyin": "yān"
+              "pinyin": "rén"
             },
             {
               "char": "波",
-              "pinyin": "bō"
+              "pinyin": "tuī"
             },
             {
               "char": "画",
-              "pinyin": "huà"
+              "pinyin": "kàn"
             },
             {
               "char": "船",
-              "pinyin": "chuán"
+              "pinyin": "de"
             },
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "细雨几丝，和风片片，烟波浩渺的春水中浮动着画船，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "雨丝风片：细雨如丝，微风轻拂。片，形容微风轻柔。"
             },
-            {
-              "start": 5,
-              "end": 9,
-              "note": "烟波画船：烟雾笼罩的水面上装饰华美的游船。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "锦",
-              "pinyin": "jǐn"
-            },
-            {
-              "char": "屏",
-              "pinyin": "píng"
-            },
-            {
-              "char": "人",
-              "pinyin": "rén"
-            },
-            {
-              "char": "忒",
-              "pinyin": "tuī"
-            },
-            {
-              "char": "看",
-              "pinyin": "kàn"
-            },
-            {
-              "char": "的",
-              "pinyin": "de"
-            },
-            {
-              "char": "这",
               "pinyin": "zhè"
             },
             {
-              "char": "韶",
+              "char": "屏",
               "pinyin": "sháo"
             },
             {
-              "char": "光",
+              "char": "人",
               "pinyin": "guāng"
             },
             {
-              "char": "贱",
+              "char": "忒",
               "pinyin": "jiàn"
+            },
+            {
+              "char": "看",
+              "pinyin": ""
+            },
+            {
+              "char": "的",
+              "pinyin": ""
+            },
+            {
+              "char": "这",
+              "pinyin": ""
+            },
+            {
+              "char": "韶",
+              "pinyin": ""
+            },
+            {
+              "char": "光",
+              "pinyin": ""
+            },
+            {
+              "char": "贱",
+              "pinyin": ""
             },
             {
               "char": "！",
@@ -355,23 +335,13 @@
             }
           ],
           "translation": {
-            "translation": "我这被阻隔在深闺中的人太辜负这大好春光。"
+            "translation": "云霞映着亭台楼阁；"
           },
           "notes": [
             {
-              "start": 0,
-              "end": 2,
-              "note": "锦屏人：指深闺中的女子。锦屏，华丽的屏风，代指闺阁。"
-            },
-            {
-              "start": 3,
-              "end": 5,
-              "note": "忒看的：太看得。忒，太、过于；看的，看得。"
-            },
-            {
-              "start": 6,
-              "end": 10,
-              "note": "韶光贱：美好的春光被轻视。韶光，春光；贱，轻视、浪费。"
+              "start": 10,
+              "end": 19,
+              "note": "意思是，我这深闺女子太辜负这美好春光。锦屏人，深闺中人。忒，过于。看的……贱，把……看轻。韶光，美好的时光，多指春光。"
             }
           ]
         }

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="春夜洛城闻笛"
+  author="李白"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首诗是公元734年（唐玄宗开元二十二年）或公元735年（唐玄宗开元二十三年）李白游洛阳时所作。当时李白客居洛城，大概正在客栈里，闻笛声有感而写下此诗。
+
+## 作品赏析
+
+　　《春夜洛城闻笛》是一首七言绝句。此诗抒发了诗人客居洛阳夜深人静之时被笛声引起的思乡之情，其前两句描写笛声随春风而传遍洛阳城，后两句写其因闻笛而思乡。全诗扣紧一个“闻”字，抒写诗人闻笛的感受，合理运用想象和夸张，条理通畅，感情真挚，余韵无穷。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="太常引·建康中秋夜为吕叔潜赋"
+  author="辛弃疾"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　据词题可知，此词当作于公元1174年（宋孝宗淳熙元年）中秋夜。当时辛弃疾任江东安抚司参议官，治所建康即今江苏省南京市。这时作者南归已整整十二年了。十二年中，为了收复中原，作者曾多次上书，力主抗金，但始终冷落一旁，未被采纳。
+
+## 作品赏析
+
+　　这首词为赠友之作，此词通过古代的神话传说，强烈地表达了词人反对妥协投降、立志收复中原失土的政治理想。这首词的上片，词人巧妙地运用神话传说构成一种超现实的艺术境界，以寄托自己的情怀；词的下片，他展开想象，直入月宫，并幻想砍去遮住月光的桂树。更直接、强烈地表现了词人的现实理想与为实现理想的坚强意志，鲜明揭示了词的主旨。全词想象丰富，把词人超现实的奇思妙想与其现实中的思想矛盾和情志结合起来，体现了一种浓郁的浪漫主义词风。

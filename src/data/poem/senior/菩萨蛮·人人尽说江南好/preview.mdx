@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="菩萨蛮·人人尽说江南好"
+  author="韦庄"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　根据中国古典文学专家叶嘉莹教授的研究，韦庄的《菩萨蛮五首》词中的“江南”，都是确指的江南之地，并非指蜀地。这组词创作于韦庄晚年寓居蜀地时期，是作者为回忆江南旧游而作。本首词就是组诗中的第二首。
+
+## 作品赏析
+
+　　这首词描写了江南水乡的人美、景美、生活美 ，表现出词人对江南水乡的依恋之情，也抒发了其飘泊难归的愁苦之感，全词情真意切，具有极强的艺术感染力。在谋篇布局上，上片开首两句与结拍两句抒情，中间四句写景、写人，纯用白描写法，清新明丽，真切可感；起结四句虽直抒胸臆，却又婉转含蓄，饶有韵致，韦庄词“似直而纡，似达而郁”的特色，在这表面率直而内里千回百转的文字中得到充分的体现。

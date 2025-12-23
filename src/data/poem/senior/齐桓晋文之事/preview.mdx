@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="齐桓晋文之事"
+  author="孟子及弟子"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　本文通过孟子游说齐宣王提出放弃霸道，施行王道的经过，比较系统地阐明了孟子的仁政主张：人皆有不忍之心，为国君者，只要能发扬心中这种善端，推己及人，恩及百姓，就不难保民而王。文章通过孟子与齐宣王的对话，表现出孟子“保民而王”的王道思想和富民、教民的政治主张，也展现了孟子善辩的性格和高超的论辩技巧。

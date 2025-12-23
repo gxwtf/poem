@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="杞人忧天"
+  author="《列子》"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《杞人忧天》出自《列子·天瑞》。这则故事通过杞人忧天的寓言，表达了对于无谓忧虑的批评，提醒人们应该理性看待生活中的不确定性和风险，不要过分担忧和恐慌。同时，该故事也展现出友情的力量，朋友之间的关心和帮助能够让人从困境中走出来，重新找回生活的乐趣。

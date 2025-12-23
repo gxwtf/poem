@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="夜归鹿门山歌"
+  author="孟浩然"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　据《襄阳记》载：“鹿门山旧名苏岭山。建武中，襄阳侯习郁立神祠于山，刻二石鹿夹神庙道口，俗因谓之鹿门庙，后以庙名为山名，并为地名也。”孟浩然早先一直隐居岘山南园的家里，四十岁赴长安谋仕不遇，游历吴、越数年后返乡，决心追步乡先贤庞德公的行迹，特为在鹿门山辟一住处，偶尔也去住住，其实是个标榜归隐性质的别业。此诗当作于作者四十岁后隐居鹿门时。
+
+## 作品赏析
+
+　　《夜归鹿门山歌》是一首七言古诗，为一首写景抒怀诗。此诗通过描写诗人夜归鹿门山的所见所闻所感，抒发了他的隐逸情怀。整首诗按照时空顺序，分别写了江边和山中两个场景，先动后静，以动衬静，写出鹿门清幽的景色，表现了诗人恬静的心境，同时在清闲脱俗的隐逸情趣中也隐寓着孤寂无奈的情绪。全诗笔法顺畅，语言平和质朴，结构自然，点染疏豁，情感真挚。

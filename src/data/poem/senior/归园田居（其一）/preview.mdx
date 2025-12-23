@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="归园田居（其一）"
+  author="陶渊明"
+  dynasty="东晋"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　陶渊明任官十三年，却一直厌恶官场，向往田园。他在公元405年（义熙元年），即四十一岁时最后一次出仕，做了八十多天的彭泽县令即辞官回家。以后再也没有出来做官。归来后，作《归园田居》诗一组。本诗就是其中一首。
+
+## 作品赏析
+
+　　这首诗是《归园田居》中第一首。诗中描写田园风光运用白描手法，远近景相交，语言明白清新，几如白话，质朴无华。全诗以追悔开始，以庆幸结束，追悔自己“误落尘网”“久在樊笼”的压抑与痛苦，庆幸自己终“归园田”、复“返自然”的惬意与欢欣，真切表达了诗人对污浊官场的厌恶，对山林隐居生活的无限向往与怡然陶醉，流露出如释重负的心情，表达了对自然和自由的热爱。

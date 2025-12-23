@@ -1,0 +1,599 @@
+{
+  "name": "鹊桥仙",
+  "author": "秦观",
+  "dynasty": "宋代",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "纤",
+              "pinyin": "xiān",
+              "index": 0,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "云",
+              "pinyin": "yún",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "弄",
+              "pinyin": "nòng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "巧",
+              "pinyin": "qiǎo",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "飞",
+              "pinyin": "fēi",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "星",
+              "pinyin": "xīng",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "传",
+              "pinyin": "chuán",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "恨",
+              "pinyin": "hèn",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "银",
+              "pinyin": "yín",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "迢",
+              "pinyin": "tiáo",
+              "index": 12,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "迢",
+              "pinyin": "tiáo",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "暗",
+              "pinyin": "àn",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "度",
+              "pinyin": "dù",
+              "index": 15,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 16,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "轻盈的彩云在天空中幻化成各种巧妙的花样，天上的流星传递着相思的愁怨，遥远无垠的天河今夜我悄悄渡过。",
+          "pinyin": "xiān yún nòng qiǎo ， fēi xīng chuán hèn ， yín hàn tiáo tiáo àn dù 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
+              "content": "纤细的云编织出各种巧妙的图案样式，比喻织女制作云锦的手艺高超。"
+            },
+            {
+              "start": 5,
+              "end": 8,
+              "content": "流星传递分别的愁苦。"
+            },
+            {
+              "start": 10,
+              "end": 15,
+              "content": "夜里渡过辽阔的天河。传说每年农历七月七日夜，织女、牛郎借鹊桥越过天河相会。银汉，天河、银河。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 8,
+              "old": "遗憾、离愁"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "new": "仇恨"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "金",
+              "pinyin": "jīn",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "玉",
+              "pinyin": "yù",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "露",
+              "pinyin": "lù",
+              "index": 20,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逢",
+              "pinyin": "féng",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "便",
+              "pinyin": "biàn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "胜",
+              "pinyin": "shèng",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "却",
+              "pinyin": "què",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "间",
+              "pinyin": "jiān",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "数",
+              "pinyin": "shù",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 32,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "在秋风白露的七夕相会，就胜过尘世间那些长相厮守却貌合神离的夫妻。",
+          "pinyin": "jīn fēng yù lù yī xiāng féng ， biàn shèng què rén jiān wú shù 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "秋风。五行学说以秋天与金相配。"
+            },
+            {
+              "start": 9,
+              "end": 10,
+              "content": "胜过。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "柔",
+              "pinyin": "róu",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "情",
+              "pinyin": "qíng",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "似",
+              "pinyin": "sì",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "佳",
+              "pinyin": "jiā",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "期",
+              "pinyin": "qī",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "如",
+              "pinyin": "rú",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "梦",
+              "pinyin": "mèng",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "忍",
+              "pinyin": "rěn",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "顾",
+              "pinyin": "gù",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鹊",
+              "pinyin": "què",
+              "index": 45,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "桥",
+              "pinyin": "qiáo",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "归",
+              "pinyin": "guī",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "路",
+              "pinyin": "lù",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 49,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "缱绻的柔情像流水般绵绵不断，重逢的约会如梦影般缥缈虚幻，分别之时不忍去看那鹊桥路。",
+          "pinyin": "róu qíng sì shuǐ ， jiā qī rú mèng ， rěn gù què qiáo guī lù 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "这里指重聚相守的美好时光。"
+            },
+            {
+              "start": 10,
+              "end": 15,
+              "content": "怎么忍心回望由鹊桥回去的路。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 6,
+              "end": 7,
+              "old": "特指恋人相会之日"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "new": "泛指美好时光"
+            },
+            {
+              "start": 10,
+              "end": 10,
+              "old": "怎、哪（反问副词）"
+            },
+            {
+              "start": 10,
+              "end": 10,
+              "new": "忍受"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 10,
+              "end": 16,
+              "content": "‘忍顾鹊桥归路’为情感强烈的反问句式，语序上‘忍’前置以加强语气，相当于‘怎能忍心回头去看那鹊桥归路’，属语气倒装类特殊表达。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "两",
+              "pinyin": "liǎng",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "情",
+              "pinyin": "qíng",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "久",
+              "pinyin": "jiǔ",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "长",
+              "pinyin": "cháng",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "又",
+              "pinyin": "yòu",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "岂",
+              "pinyin": "qǐ",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "朝",
+              "pinyin": "zhāo",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "朝",
+              "pinyin": "zhāo",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "暮",
+              "pinyin": "mù",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "暮",
+              "pinyin": "mù",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 65,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "若是两情相悦，至死不渝，又何必贪求卿卿我我的朝欢暮乐呢。",
+          "pinyin": "liǎng qíng ruò shì jiǔ cháng shí ， yòu qǐ zài zhāo zhāo mù mù 。",
+          "notes": [
+            {
+              "start": 11,
+              "end": 14,
+              "content": "指朝夕相守。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "必修上",
+    "词",
+    "背默",
+    "爱情"
+  ],
+  "background": "关于此词的创作背景，扬州大学教授刘勇刚认为，此词是秦观为寄情长沙义倡而作，写于湘南郴州，时间是宋哲宗绍圣四年（公元1097年）的七夕。公元1096年（绍圣三年）春，秦观从监处州酒税削秩编管郴州，长沙是必经之路。公元1097年（绍圣四年）七夕，秦观在郴州写下了这首《鹊桥仙》，借牛女双星的鹊桥相会寄托了他对长沙歌女的恋情。",
+  "appreciation": "《鹊桥仙》是一首咏七夕的节序词，借牛郎织女悲欢离合的神话故事，讴歌了真挚、细腻、纯洁、坚贞的爱情。上片描绘牛郎织女相聚的温馨场景，下片则诉说着他们无奈的离别。全词哀乐交织，融抒情与议论于一炉，融天上人间为一体，词中优美的形象与深沉的感情相得益彰，起伏跌宕地讴歌了美好的爱情。此词用情深挚，立意高远，语言优美如画，议论自由流畅，通俗易懂，却又显得婉约蕴藉，余味无穷。"
+}

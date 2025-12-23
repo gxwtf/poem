@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="庖丁解牛"
+  author="庄子"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　庄子生活在战国中期，这是非常激烈的社会转型时期，新制度的建立以锐不可挡之势荡涤着千百年来束缚人们的传统，昔日王侯将相可以一夜沦为人臣牧圉，因此，这个时代使统治阶级也实实在在地体味到了人世的艰难和人生的痛苦。在这样的时代背景下，庄子超越了其他先秦诸子为专制政治服务的狭小天地，以他独特的视角去审视生命的价值，探寻生命存在的真谛，进而提出了养生的思想，于是作此篇。
+
+## 作品赏析
+
+　　《庖丁解牛》是一则寓言故事。文章原意是用来说明养生之道的，借此揭示做人做事都要顺应自然规律的道理。全文可分四段。第一段写庖丁解牛的熟练动作和美妙音响；第二段紧接着写文惠君的夸赞，从侧面烘托庖丁技艺的精湛；第三段是庖丁对文惠君的解答，他主要讲述了自己达于“道”境的三个阶段；第四段写文惠君听后领悟了养生之道。全文在写作上采用多种手法，结构严密，语言生动简练，充分体现出庄子文章汪洋恣肆的特点。

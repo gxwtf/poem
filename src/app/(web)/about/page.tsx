@@ -138,7 +138,7 @@ export default async function AboutPage() {
 						<div className="space-y-2 text-sm">
 							<p><strong className="text-[var(--theme-color)]">网站名称：</strong>广学古诗文</p>
 							<p><strong className="text-[var(--theme-color)]">备案号：</strong>京ICP备2025107534号-1</p>
-							<p><strong className="text-[var(--theme-color)]">运营主体：</strong>广学五题坊技术团队</p>
+							<p><strong className="text-[var(--theme-color)]">运营主体：</strong>广学社技术组</p>
 							<p><strong className="text-[var(--theme-color)]">联系方式：</strong>gxwtf@foxmail.com</p>
 						</div>
 					</CardContent>

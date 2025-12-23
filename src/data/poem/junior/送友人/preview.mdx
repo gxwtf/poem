@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="送友人"
+  author="李白"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首诗的具体创作时间及地点不详。安旗《李白全诗编年注释》认为此诗：“诗题疑为后人妄加······其城别之池当在南阳。”并将此诗创作时间定为唐玄宗开元二十六年（738年）。郁贤皓疑为于玄宗天宝六载（747年）于金陵所作。一说地点在安徽宣城市区别士桥。
+
+## 作品赏析
+
+　　《送友人》是一首充满诗情画意的送别诗，为李白的名篇之一，表达了诗人送别友人时的依依不舍之情与离愁别绪。开头点出送友远行时的景物环境，然后诗人以比喻手法，将友人比作孤蓬，隐含不忍分离和担忧之情。后四句寓情于景，通过描绘离别的场景将惜别的情思写得委婉含蓄，言有尽而意无穷。全诗意境开阔，情真意切，其语言对仗工整、自然流畅。

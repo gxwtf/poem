@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="阁夜"
+  author="杜甫"
+  dynasty="唐代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首诗是公元766年（大历元年）冬杜甫寓居夔州西阁时所作。当时西川军阀混战，连年不息，吐蕃也不断侵袭蜀地。而杜甫的好友李白、严武、高适等都先后死去。感时忆旧，他写下了这首诗。
+
+## 作品赏析
+
+　　《阁夜》是一首七言律诗。此诗首联感叹时光流逝，寒宵难熬；颔联紧承“霜雪霁寒宵”写西阁见闻；颈联由“战伐”、“夷歌”想到国事民生；尾联怀古思今，引出无限感慨。全诗通过诗人于西阁冬夜的感受，抒写其战乱未息、人民受难、身世飘零的深沉慨叹。诗人紧扣题目，从多个角度描写夜宿西阁时的所见、所闻、所感，上天下地、古往今来都有所提及，汇聚成一幅令人伤心惨目的图景，既是人民受苦受难的真实写照，亦从中映射出诗人伟大的胸怀。

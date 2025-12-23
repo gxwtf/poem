@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="鸿门宴"
+  author="司马迁"
+  dynasty="西汉"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　司马迁在汉武帝元封三年（公元前108年）接替其父担任太史令，从太初元年（公元前104年）开始创作《太史公书》（后来称为《史记》）。后因向汉武帝为李陵战败投降匈奴之事辩护而被捕入狱并处以腐刑。出狱后任中书令，忍辱发奋继续完成所著史籍。大约在征和二年（公元前91年），终于完成了全书的撰写和修改工作。全书共一百三十篇，其中第七篇即为《项羽本纪》。
+
+## 作品赏析
+
+　　《鸿门宴》是一篇史传文，出自《史记·项羽本纪》。文章叙述的是秦朝灭亡后，两支抗秦军队的领袖项羽和刘邦在秦朝都城咸阳郊外的鸿门举行的一次宴会。全文以刘邦赴项营请罪为核心，连同赴营以前和逃席以后分为三个部分，以曹无伤告密、项羽决定进攻始，以项羽受璧、曹无伤被诛终，按项羽是否发动进攻、刘邦能否安然逃席两个问题逐层展开故事。文章情节跌宕起伏，形象生动鲜明，组织周密严谨，语言精练优美，千年来广为传诵。

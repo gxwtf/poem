@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="朝天子·咏喇叭"
+  author="王磐"
+  dynasty="明代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这支曲子作于明朝中叶的正德年间（1506—1521）。蒋一葵《尧山堂外纪》载：“正德间，阉寺当权，往来河下无虚日，每到辄吹号头，齐丁夫，民不堪命，西楼乃作《咏喇叭》以嘲之。”
+
+## 作品赏析
+
+　　这支散曲可分四层，第一层说喇叭、唢呐最突出的特征是“曲儿小腔儿大”，暗示小人得意的情状；第二层说喇叭、唢呐的用途，是为来往如麻的官船抬声价，即为官方所用；第三层展示喇叭、唢呐用途的另一面：为害军民，即在为官船抬声价的同时，肆意侵害军民的利益，让老百姓一听到喇叭、唢呐之声就不寒而栗，胆战心惊；最后一层写喇叭、唢呐吹奏的结果：吹翻了这家，吹伤了那家，直吹得民穷财尽，家破人亡。此曲表面上写的是喇叭和唢呐，实则处处写的都是宦官。全曲借物抒怀，虽然没有正面提到宦官，却活画出了他们的丑态，讽刺和揭露了明代宦官狐假虎威、残害百姓的罪恶行径，表达了人民对这些人的痛恨情绪。

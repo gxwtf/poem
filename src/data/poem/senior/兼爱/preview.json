@@ -103,12 +103,12 @@
               "pinyin": "zhī"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "圣人把治理天下当作事业的人，必须知道混乱产生的根源，才能治理好它。"
+            "translation": "圣人是把治理天下作为(自己的)事务的人，必须知道混乱从哪里产生，才能对它进行治理。"
           },
           "notes": [
             {
@@ -174,7 +174,7 @@
             }
           ],
           "translation": {
-            "translation": "不知道混乱产生的根源，就不能治理。"
+            "translation": "如果不知道混乱从哪里产生，就不能进行治理。"
           },
           "notes": []
         },
@@ -283,12 +283,12 @@
               "pinyin": "zhī"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "就好比医生治疗人的疾病一样，必须知道疾病产生的根源，才能加以治疗。"
+            "translation": "这就好像大夫给人治病一样，必须知道疾病产生的根源，才能进行医治。"
           },
           "notes": []
         },
@@ -348,43 +348,317 @@
             }
           ],
           "translation": {
-            "translation": "不知道疾病产生的根源，就不能治疗。"
+            "translation": "如果不知道疾病产生的根源，就不能医治。"
           },
           "notes": []
         },
         {
           "sentence": [
             {
-              "char": "故",
-              "pinyin": "gù"
+              "char": "治",
+              "pinyin": "zhì"
             },
             {
-              "char": "子",
-              "pinyin": "zǐ"
+              "char": "乱",
+              "pinyin": "luàn"
             },
             {
-              "char": "墨",
-              "pinyin": "mò"
+              "char": "者",
+              "pinyin": "zhě"
             },
             {
-              "char": "子",
-              "pinyin": "zǐ"
+              "char": "何",
+              "pinyin": "hé"
             },
             {
-              "char": "曰",
-              "pinyin": "yuē"
+              "char": "独",
+              "pinyin": "dú"
             },
             {
-              "char": "：",
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "然",
+              "pinyin": "rán"
+            },
+            {
+              "char": "？",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "治理混乱又何尝不是这样，必须知道混乱产生的根源，才能进行治理。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "必",
+              "pinyin": "bì"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "治",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "如果不知道混乱产生的根源，就不能治理。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "则",
+              "pinyin": "zé"
+            },
+            {
+              "char": "弗",
+              "pinyin": "fú"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "治",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "圣人是把治理天下作为(自己的)事务的人，不可不考察混乱产生的根源。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "圣",
+              "pinyin": "shèng"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
             },
             {
               "char": "以",
               "pinyin": "yǐ"
             },
             {
-              "char": "兼",
-              "pinyin": "jiān"
+              "char": "治",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "下",
+              "pinyin": "xià"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "事",
+              "pinyin": "shì"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "可",
+              "pinyin": "kě"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "察",
+              "pinyin": "chá"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "当",
+              "pinyin": "dāng",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "同“尝”，尝试。"
+                }
+              ]
+            },
+            {
+              "char": "察",
+              "pinyin": "chá"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "起",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
             },
             {
               "char": "相",
@@ -395,36 +669,64 @@
               "pinyin": "ài"
             },
             {
-              "char": "、",
-              "pinyin": "、"
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "臣",
+              "pinyin": "chén"
             },
             {
-              "char": "交",
-              "pinyin": "jiāo"
-            },
-            {
-              "char": "相",
-              "pinyin": "xiāng"
-            },
-            {
-              "char": "利",
-              "pinyin": "lì"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "法",
-              "pinyin": "fǎ"
-            },
-            {
-              "char": "易",
-              "pinyin": "yì"
+              "char": "子",
+              "pinyin": "zǐ"
             },
             {
               "char": "之",
               "pinyin": "zhī"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "孝",
+              "pinyin": "xiào"
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "父",
+              "pinyin": "fù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -432,13 +734,2526 @@
             }
           ],
           "translation": {
-            "translation": "所以墨子说：要用彼此相爱、互相得利的方法来改变社会。"
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "父",
+              "pinyin": "fù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "亏",
+              "pinyin": "kuī",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "使受损失。"
+                }
+              ]
+            },
+            {
+              "char": "父",
+              "pinyin": "fù"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "弟",
+              "pinyin": "dì"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "兄",
+              "pinyin": "xiōng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "亏",
+              "pinyin": "kuī"
+            },
+            {
+              "char": "兄",
+              "pinyin": "xiōng"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "臣",
+              "pinyin": "chén"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "亏",
+              "pinyin": "kuī"
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "虽",
+              "pinyin": "suī",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "即使。"
+                }
+              ]
+            },
+            {
+              "char": "父",
+              "pinyin": "fù"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "慈",
+              "pinyin": "cí",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "慈爱。"
+                }
+              ]
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "兄",
+              "pinyin": "xiōng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "慈",
+              "pinyin": "cí"
+            },
+            {
+              "char": "弟",
+              "pinyin": "dì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "慈",
+              "pinyin": "cí"
+            },
+            {
+              "char": "臣",
+              "pinyin": "chén"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì"
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "下",
+              "pinyin": "xià"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "父",
+              "pinyin": "fù"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "亏",
+              "pinyin": "kuī"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "兄",
+              "pinyin": "xiōng"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "弟",
+              "pinyin": "dì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "亏",
+              "pinyin": "kuī"
+            },
+            {
+              "char": "弟",
+              "pinyin": "dì"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "君",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "臣",
+              "pinyin": "chén"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "亏",
+              "pinyin": "kuī"
+            },
+            {
+              "char": "臣",
+              "pinyin": "chén"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "自",
+              "pinyin": "zì"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "是",
+              "pinyin": "shì"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "皆",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "虽",
+              "pinyin": "suī"
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "下",
+              "pinyin": "xià"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "盗",
+              "pinyin": "dào"
+            },
+            {
+              "char": "贼",
+              "pinyin": "zéi"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì"
+            },
+            {
+              "char": "然",
+              "pinyin": "rán"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
           },
           "notes": [
             {
-              "start": 11,
-              "end": 12,
+              "start": 6,
+              "end": 7,
+              "note": "偷窃和劫夺财物的人。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "盗",
+              "pinyin": "dào"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "室",
+              "pinyin": "shì",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "家。"
+                }
+              ]
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "异",
+              "pinyin": "yì"
+            },
+            {
+              "char": "室",
+              "pinyin": "shì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "窃",
+              "pinyin": "qiè"
+            },
+            {
+              "char": "异",
+              "pinyin": "yì"
+            },
+            {
+              "char": "室",
+              "pinyin": "shì"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "室",
+              "pinyin": "shì"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "贼",
+              "pinyin": "zéi"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "贼",
+              "pinyin": "zéi"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "何",
+              "pinyin": "hé"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "皆",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "虽",
+              "pinyin": "suī"
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "卿大夫的封地。"
+                }
+              ]
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "诸",
+              "pinyin": "zhū"
+            },
+            {
+              "char": "侯",
+              "pinyin": "hóu"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "攻",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì"
+            },
+            {
+              "char": "然",
+              "pinyin": "rán"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "各",
+              "pinyin": "gè"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "异",
+              "pinyin": "yì"
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "异",
+              "pinyin": "yì"
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "诸",
+              "pinyin": "zhū"
+            },
+            {
+              "char": "侯",
+              "pinyin": "hóu"
+            },
+            {
+              "char": "各",
+              "pinyin": "gè"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "异",
+              "pinyin": "yì"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "故",
+              "pinyin": "gù"
+            },
+            {
+              "char": "攻",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "异",
+              "pinyin": "yì"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "利",
+              "pinyin": "lì"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "国",
+              "pinyin": "guó"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "下",
+              "pinyin": "xià"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "物",
+              "pinyin": "wù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "具",
+              "pinyin": "jù"
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "已",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "矣",
+              "pinyin": "chā"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": [
+            {
+              "start": 3,
+              "end": 4,
+              "note": "纷乱之事。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "note": "全都在这里。具，完备、齐全。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "察",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "此",
+              "pinyin": "hé"
+            },
+            {
+              "char": "何",
+              "pinyin": "zì"
+            },
+            {
+              "char": "自",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "起",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "皆",
+              "pinyin": "qǐ"
+            },
+            {
+              "char": "起",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "ài"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "若",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "使",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "天",
+              "pinyin": "xià"
+            },
+            {
+              "char": "下",
+              "pinyin": "jiān"
+            },
+            {
+              "char": "兼",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "ài"
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "爱",
+              "pinyin": "rén"
+            },
+            {
+              "char": "人",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "若",
+              "pinyin": "ài"
+            },
+            {
+              "char": "爱",
+              "pinyin": "qí"
+            },
+            {
+              "char": "其",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "身",
+              "pinyin": "yóu"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "犹",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "有",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "xiào"
+            },
+            {
+              "char": "孝",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "hū"
+            },
+            {
+              "char": "乎",
+              "pinyin": "shì"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "视",
+              "pinyin": "fù"
+            },
+            {
+              "char": "父",
+              "pinyin": "xiōng"
+            },
+            {
+              "char": "兄",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "与",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "君",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "若",
+              "pinyin": "qí"
+            },
+            {
+              "char": "其",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "身",
+              "pinyin": "wù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "恶",
+              "pinyin": "shī"
+            },
+            {
+              "char": "施",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "xiào"
+            },
+            {
+              "char": "孝",
+              "pinyin": "yóu"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": [
+            {
+              "start": 9,
+              "end": 10,
+              "note": "怎么实行。恶，相当于“何”“怎么”。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "犹",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "有",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "cí"
+            },
+            {
+              "char": "慈",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "hū"
+            },
+            {
+              "char": "乎",
+              "pinyin": "shì"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "视",
+              "pinyin": "dì"
+            },
+            {
+              "char": "弟",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "子",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "与",
+              "pinyin": "chén"
+            },
+            {
+              "char": "臣",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "若",
+              "pinyin": "qí"
+            },
+            {
+              "char": "其",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "身",
+              "pinyin": "wù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "恶",
+              "pinyin": "shī"
+            },
+            {
+              "char": "施",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "cí"
+            },
+            {
+              "char": "慈",
+              "pinyin": "gù"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "故",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "xiào"
+            },
+            {
+              "char": "孝",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "cí"
+            },
+            {
+              "char": "慈",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "亡",
+              "pinyin": "yóu",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "同“无”。"
+                }
+              ]
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "犹",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "有",
+              "pinyin": "dào",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "同“又”。"
+                }
+              ]
+            },
+            {
+              "char": "盗",
+              "pinyin": "zéi"
+            },
+            {
+              "char": "贼",
+              "pinyin": "hū"
+            },
+            {
+              "char": "乎",
+              "pinyin": "shì"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "视",
+              "pinyin": "rén"
+            },
+            {
+              "char": "人",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "shì"
+            },
+            {
+              "char": "室",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "若",
+              "pinyin": "qí"
+            },
+            {
+              "char": "其",
+              "pinyin": "shì"
+            },
+            {
+              "char": "室",
+              "pinyin": "shuí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "谁",
+              "pinyin": "qiè"
+            },
+            {
+              "char": "窃",
+              "pinyin": "shì"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "视",
+              "pinyin": "rén"
+            },
+            {
+              "char": "人",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "身",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "若",
+              "pinyin": "qí"
+            },
+            {
+              "char": "其",
+              "pinyin": "shēn"
+            },
+            {
+              "char": "身",
+              "pinyin": "shuí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "谁",
+              "pinyin": "zéi"
+            },
+            {
+              "char": "贼",
+              "pinyin": "gù"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "故",
+              "pinyin": "dào"
+            },
+            {
+              "char": "盗",
+              "pinyin": "zéi"
+            },
+            {
+              "char": "贼",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "有",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "亡",
+              "pinyin": "yóu"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "犹",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "有",
+              "pinyin": "dà"
+            },
+            {
+              "char": "大",
+              "pinyin": "fū"
+            },
+            {
+              "char": "夫",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "乱",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "家",
+              "pinyin": "zhū"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "诸",
+              "pinyin": "hóu"
+            },
+            {
+              "char": "侯",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "攻",
+              "pinyin": "guó"
+            },
+            {
+              "char": "国",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "hū"
+            },
+            {
+              "char": "乎",
+              "pinyin": "shì"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "视",
+              "pinyin": "rén"
+            },
+            {
+              "char": "人",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "家",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "若",
+              "pinyin": "qí"
+            },
+            {
+              "char": "其",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "家",
+              "pinyin": "shuí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "谁",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "乱",
+              "pinyin": "shì"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "视",
+              "pinyin": "rén"
+            },
+            {
+              "char": "人",
+              "pinyin": "guó"
+            },
+            {
+              "char": "国",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "若",
+              "pinyin": "qí"
+            },
+            {
+              "char": "其",
+              "pinyin": "guó"
+            },
+            {
+              "char": "国",
+              "pinyin": "shuí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "谁",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "攻",
+              "pinyin": "gù"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "故",
+              "pinyin": "dà"
+            },
+            {
+              "char": "大",
+              "pinyin": "fū"
+            },
+            {
+              "char": "夫",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "乱",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "家",
+              "pinyin": "zhū"
+            },
+            {
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "诸",
+              "pinyin": "hóu"
+            },
+            {
+              "char": "侯",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "攻",
+              "pinyin": "guó"
+            },
+            {
+              "char": "国",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "有",
+              "pinyin": "wáng"
+            },
+            {
+              "char": "亡",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "若",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "使",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "天",
+              "pinyin": "xià"
+            },
+            {
+              "char": "下",
+              "pinyin": "jiān"
+            },
+            {
+              "char": "兼",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "ài"
+            },
+            {
+              "char": "爱",
+              "pinyin": "guó"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "国",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "与",
+              "pinyin": "guó"
+            },
+            {
+              "char": "国",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "攻",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "家",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "与",
+              "pinyin": "jiā"
+            },
+            {
+              "char": "家",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "乱",
+              "pinyin": "dào"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "盗",
+              "pinyin": "zéi"
+            },
+            {
+              "char": "贼",
+              "pinyin": "wú"
+            },
+            {
+              "char": "无",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "有",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "君",
+              "pinyin": "chén"
+            },
+            {
+              "char": "臣",
+              "pinyin": "fù"
+            },
+            {
+              "char": "父",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "子",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "皆",
+              "pinyin": "néng"
+            },
+            {
+              "char": "能",
+              "pinyin": "xiào"
+            },
+            {
+              "char": "孝",
+              "pinyin": "cí"
+            },
+            {
+              "char": "慈",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "若",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "此",
+              "pinyin": "zé"
+            },
+            {
+              "char": "则",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "天",
+              "pinyin": "xià"
+            },
+            {
+              "char": "下",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "治",
+              "pinyin": "gù"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "故",
+              "pinyin": "shèng"
+            },
+            {
+              "char": "圣",
+              "pinyin": "rén"
+            },
+            {
+              "char": "人",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "以",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "治",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "天",
+              "pinyin": "xià"
+            },
+            {
+              "char": "下",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "为",
+              "pinyin": "shì"
+            },
+            {
+              "char": "事",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "è"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "恶",
+              "pinyin": "dé"
+            },
+            {
+              "char": "得",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "jìn"
+            },
+            {
+              "char": "禁",
+              "pinyin": "è"
+            },
+            {
+              "char": "恶",
+              "pinyin": "ér"
+            },
+            {
+              "char": "而",
+              "pinyin": "quàn"
+            },
+            {
+              "char": "劝",
+              "pinyin": "ài",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "鼓励。"
+                }
+              ]
+            },
+            {
+              "char": "爱",
+              "pinyin": "gù"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "故",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "天",
+              "pinyin": "xià"
+            },
+            {
+              "char": "下",
+              "pinyin": "jiān"
+            },
+            {
+              "char": "兼",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "ài"
+            },
+            {
+              "char": "爱",
+              "pinyin": "zé"
+            },
+            {
+              "char": "则",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "治",
+              "pinyin": "jiāo"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "交",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "相",
+              "pinyin": "è"
+            },
+            {
+              "char": "恶",
+              "pinyin": "zé"
+            },
+            {
+              "char": "则",
+              "pinyin": "luàn"
+            },
+            {
+              "char": "乱",
+              "pinyin": "gù"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": [
+            {
+              "start": 9,
+              "end": 10,
               "note": "互相。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "故",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "子",
+              "pinyin": "mò"
+            },
+            {
+              "char": "墨",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "子",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "曰",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "kě"
+            },
+            {
+              "char": "可",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "以",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "quàn"
+            },
+            {
+              "char": "劝",
+              "pinyin": "ài"
+            },
+            {
+              "char": "爱",
+              "pinyin": "rén"
+            },
+            {
+              "char": "人",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "此",
+              "pinyin": "yě"
+            },
+            {
+              "char": "也",
+              "pinyin": ""
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": [
+            {
+              "start": 1,
+              "end": 3,
+              "note": "墨子的弟子对墨子的尊称。"
             }
           ]
         }

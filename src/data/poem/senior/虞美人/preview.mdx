@@ -1,0 +1,33 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="虞美人"
+  author="李煜"
+  dynasty="五代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　此词与《浪淘沙·帘外雨潺潺》均作于李煜被毒死之前，为北宋太宗太平兴国三年（公元978年），是时李煜归宋已近三年。宋太祖开宝八年（公元975年），宋军攻破南唐都城金陵，李煜奉表投降，南唐灭亡。三年后，即太平兴国三年，徐铉奉宋太宗之命探视李煜，李煜对徐铉叹曰：“当初我错杀潘佑、李平，悔之不已！”大概是在这种心境下，李煜写下了这首《虞美人》词。
+
+## 作品赏析
+
+　　《虞美人》是南唐后主李煜的绝笔之作。这首词是一曲生命的哀歌，作者将自然永恒与人生无常的尖锐矛盾进行对比，抒发了亡国后顿感生命落空的悲哀。全词语言明净、凝练、优美、清新，以问起，以答结，由问天、问人而到自问，情感深沉而激越。其艺术结构曲折回旋，情感表达沛然莫御，形成一种凄楚与激越交织的美感，令人回味无穷。
+
+## 猜你还想学
+
+<PoemQuoteCards poems = {[{"title":"相见欢·无言独上西楼","author":"李煜","dynasty":"五代","quote":"无言独上西楼，月如钩。寂寞梧桐深院锁千秋。"},{"title":"浪淘沙令·帘外雨潺潺","author":"李煜","dynasty":"五代","quote":"帘外雨潺潺，春意阑珊。罗衾不耐五更寒。"},{"title":"声声慢","author":"李清照","dynasty":"宋","quote":"寻寻觅觅，冷冷清清，凄凄惨惨戚戚。"},{"title":"雨霖铃·寒蝉凄切","author":"柳永","dynasty":"宋","quote":"今宵酒醒何处？杨柳岸，晓风残月。"}]} className = "my-4" /> 
+  
+## 更多学习视频
+
+<BilibiliVideos videos = {[{"title":"女扮男装跳李煜的《虞美人》有多好看？","url":"https://www.bilibili.com/video/BV1UT42167pQ/"},{"title":"【戴建业】李煜的“绝命词”写得有多绝？详解《虞美人》","url":"https://www.bilibili.com/video/BV1794y1i7YZ/"}]} />

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="鹊桥仙"
+  author="秦观"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　关于此词的创作背景，扬州大学教授刘勇刚认为，此词是秦观为寄情长沙义倡而作，写于湘南郴州，时间是宋哲宗绍圣四年（公元1097年）的七夕。公元1096年（绍圣三年）春，秦观从监处州酒税削秩编管郴州，长沙是必经之路。公元1097年（绍圣四年）七夕，秦观在郴州写下了这首《鹊桥仙》，借牛女双星的鹊桥相会寄托了他对长沙歌女的恋情。
+
+## 作品赏析
+
+　　《鹊桥仙》是一首咏七夕的节序词，借牛郎织女悲欢离合的神话故事，讴歌了真挚、细腻、纯洁、坚贞的爱情。上片描绘牛郎织女相聚的温馨场景，下片则诉说着他们无奈的离别。全词哀乐交织，融抒情与议论于一炉，融天上人间为一体，词中优美的形象与深沉的感情相得益彰，起伏跌宕地讴歌了美好的爱情。此词用情深挚，立意高远，语言优美如画，议论自由流畅，通俗易懂，却又显得婉约蕴藉，余味无穷。

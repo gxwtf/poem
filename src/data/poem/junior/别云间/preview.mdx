@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="别云间"
+  author="夏完淳"
+  dynasty="明代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　顺治三年，完淳与陈子龙、钱旃饮血为盟，共谋复明大业，上书鲁王（朱以海），鲁王遥授中书舍人，参谋太湖吴易军事。顺治四年（公元1647年）夏，作者因鲁王遥授中书舍人之职而上表谢恩，为清廷发觉，遭到逮捕。《别云间》就是作者在被解送往南京前，临别松江时所作。
+
+## 作品赏析
+
+　　《别云间》是一首五言律诗。此诗起笔叙写艰苦卓绝的飘零生涯；承笔生发故土沦丧、山河破碎之悲愤慨叹；转笔抒写眷念故土、怀恋亲人之深情；结笔盟誓志恢复之决心。诗中既表达了诗人此去誓死不屈的决心，又对行将永别的故乡流露出无限的依恋和深切的感叹。 全诗思路流畅清晰，感情跌宕豪壮，格调慷慨激昂，读来荡气回肠。

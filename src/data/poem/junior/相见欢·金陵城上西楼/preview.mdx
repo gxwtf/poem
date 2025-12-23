@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="相见欢·金陵城上西楼"
+  author="朱敦儒"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　靖康之难，汴京沦陷，二帝被俘。朱敦儒仓猝南逃金陵，总算暂时获得了喘息机会。这首词就是他客居金陵，登上金陵城西门城楼所写的。
+
+## 作品赏析
+
+　　这首词上片即写登楼所见，在词人眼前展开的是无边秋色，万里夕阳，悲秋和夕阳迟暮之伤感不免油然而生；下片由写景转到直言国事，表现渴望早日恢复中原的强烈愿望，同时也是对朝廷苟安旦夕、不图恢复的愤慨和抗议。全词由登楼入题，从写景到抒情，表现了词人强烈的亡国之痛和深厚的爱国精神，感人至深。

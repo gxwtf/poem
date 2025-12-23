@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="九歌·国殇"
+  author="屈原"
+  dynasty="先秦"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　据可考资料，在屈原生前，楚国就有15万以上的将士在与秦军的血战中横死疆场。后人指出：《国殇》之作，乃因“怀、襄之世，任馋弃德，背约忘亲，以至天怒神怨，国蹙兵亡，徒使壮士横尸膏野，以快敌人之意。原盖深悲而极痛之”。古代将尚未成年（不足20岁）而夭折的人称为殇，也用以指未成丧礼的无主之鬼。按古代葬礼，在战场上“无勇而死”者，照例不能敛以棺柩，葬入墓域，也都是被称为“殇”的无主之鬼。在秦楚战争中，战死疆场的楚国将士因是战败者，故而也只能暴尸荒野，无人替这些为国战死者操办丧礼，进行祭祀。正是在一背景下，放逐之中的屈原创作了这一不朽名篇。
+
+## 作品赏析
+
+　　《九歌·国殇》是《九歌》中的一篇，是追悼楚国阵亡士卒的挽诗。此诗分为两节，第一节描写在一场短兵相接的战斗中，楚国将士奋死抗敌的壮烈场面；第二节颂悼楚国将士为国捐躯的高尚志节，歌颂了他们的英雄气概和爱国精神。全诗生动地描写了战况的激烈和将士们奋勇争先的气概，对雪洗国耻寄予热望，抒发了诗人热爱祖国的高尚情操。诗篇情感真挚炽烈，节奏鲜明急促，抒写开张扬厉，传达出一种凛然悲壮、亢直阳刚之美，在楚辞体作品中独树一帜。

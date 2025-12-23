@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="梅岭三章"
+  author="陈毅"
+  dynasty="近现代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《梅岭三章》是一组七言绝句。第一首写诗人视死如归的凛然正气和与敌决一死战的英雄气概；第二首回顾从北伐到打游击的战斗生涯，希望在自己死后战友们能前赴后继、勇敢战斗，为共产主义奋斗终生；第三首写自己以革命为终生使命，早已将生死置之度外，坚信将来人们必将有自由幸福的生活。全诗字里行间充满强烈的爱憎，表现出崇高的革命乐观主义精神和高超的艺术想象力。

@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="咏怀八十二首·其一"
+  author="阮籍"
+  dynasty="魏晋"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　阮籍生活在魏晋之际，原有雄心壮志。曹魏后期，司马氏和曹氏争夺政权，他们大肆屠杀政治上的异己人物，造成异常黑暗、恐怖的政治局面。阮籍随着政治风云日趋险恶，只得放弃了自己的雄心，用佯狂的办法来躲避矛盾，终日饮酒，不问世事，“发言玄远，口不臧否人物”。史传记载他“率意独驾，不由径路，车迹所穷，辄恸哭而返”。他将情绪发泄出来而作组诗《咏怀八十二首》，此诗便为其中之一。
+
+## 作品赏析
+
+　　《咏怀八十二首·其一》是一首五言诗。诗中以“明月”、“清风”、“孤鸿”、“翔鸟”的意象，映衬出诗人不寐而弹琴的孤影，道出了其在长夜未央时代的徘徊和忧思。此诗反映了诗人在险恶的政治环境中，在种种醉态、狂态掩盖下，内心充溢的无限孤独寂寞、痛苦忧愤之情。

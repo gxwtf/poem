@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="临江仙·夜登小阁忆洛中旧游"
+  author="陈与义"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首词大概是在宋高宗绍兴五年（1135）或六年陈与义退居青墩镇僧舍时所作，时年四十六或四十七岁。金兵南下后，北宋灭亡，陈与义流离逃难，艰苦备尝，而南宋朝廷在播迁之后，仅能自立，他回忆二十多年的往事，百感交集，写下这首词。
+
+## 作品赏析
+
+　　这首词是词人晚年追忆洛中朋友和旧游而作的。上片写其对已经沦落敌国之手的家乡以及早年自在快乐生活的回顾；下片宕开笔墨回到现实，概括词人从踏上仕途所经历的颠沛流离和国破家亡的痛苦生活，结句将古今悲慨、国恨家愁，都融入“渔唱”之中，将沉挚的悲感化为旷达的襟怀。此词直抒胸臆，表情达意真切感人，通过上下两片的今昔对比，阐发对家国和人生变化的惊叹与感慨，韵味深远绵长。

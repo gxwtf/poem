@@ -1,0 +1,25 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="苏幕遮·燎沉香"
+  author="周邦彦"
+  dynasty="宋代"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 写作背景
+
+　　这首词作于公元1083年（宋神宗元丰六年）至公元1086年（宋哲宗元祐元年）之间，当时周邦彦一直客居京师，周邦彦本以太学生入都，以献《汴都赋》为神宗所赏识，进为太学正，但仍无所作为，不免有乡关之思，故作此词。
+
+## 作品赏析
+
+　　这首词主要抒写词人的思乡之情，风格清疏明丽，自然清纯。其由眼前的荷花想到故乡的荷花，而向荷花娓娓道出游子浓浓的思乡之情，构思尤为巧妙别致。上片主要描绘荷花姿态，下片由荷花梦回故乡。全词写景、写人、写情、写梦皆语出天然，不加雕饰而又风情万种，通过对清圆的荷叶、五月的江南、渔郎的轻舟这些情景进行虚实变幻的描写，把思乡之情表达得淋漓尽致。

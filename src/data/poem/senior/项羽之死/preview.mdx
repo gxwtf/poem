@@ -1,0 +1,21 @@
+import { Meta } from '@/components/poem-meta';
+import { PoemPreview } from '@/components/poem-preview/poem-preview';
+import previewData from './preview.json';
+import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
+import { Tags } from "@/components/tag"
+import { BilibiliVideos } from "@/components/video"
+import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
+
+<Meta 
+  title="项羽之死"
+  author="司马迁"
+  dynasty="两汉"
+/>
+
+<MemorizeContextProvider>
+  <PoemPreview data={{ mode: "paragraph", preview: previewData.preview }} />
+</MemorizeContextProvider>
+
+## 作品赏析
+
+　　《项羽之死》节选自《史记项羽本纪》，本篇记叙的是项羽一生的最后阶段，其由垓下之围、东城快战、乌江自刎三场组成，包含了楚歌夜警、虞兮悲唱、阴陵失道、东城快战、拒渡赠马、赐头故人等一连串惊心动魄的情节和细节。全篇细节传神，情理兼胜，妙合无垠，达到雄奇悲壮的美学境界，读之令人荡气回肠。
