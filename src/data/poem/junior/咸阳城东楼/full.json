@@ -1,0 +1,601 @@
+{
+  "name": "咸阳城东楼",
+  "author": "许浑",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "高",
+              "pinyin": "gāo",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "万",
+              "pinyin": "wàn",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "蒹",
+              "pinyin": "jiān",
+              "index": 8,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "葭",
+              "pinyin": "jiā",
+              "index": 9,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "杨",
+              "pinyin": "yáng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "柳",
+              "pinyin": "liǔ",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "似",
+              "pinyin": "sì",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汀",
+              "pinyin": "tīng",
+              "index": 13,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "洲",
+              "pinyin": "zhōu",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "一登上咸阳城的高楼就涌起万里愁绪，眼前的芦苇和杨柳就像江南的汀洲。",
+          "pinyin": "yī shàng gāo chéng wàn lǐ chóu ， jiān jiā yáng liǔ sì tīng zhōu 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 0,
+              "content": "一上：登上城楼的动作，引出下文的远望与感慨。"
+            },
+            {
+              "start": 1,
+              "end": 2,
+              "content": "高城：指咸阳城东楼，地势高峻，便于远眺。"
+            },
+            {
+              "start": 3,
+              "end": 4,
+              "content": "万里愁：夸张手法，形容愁绪无边，非实指距离。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "蒹葭：芦苇，出自《诗经·秦风·蒹葭》，常象征思念与苍茫意境。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "content": "汀洲：水边平地或小洲，常为离别、思乡意象。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "溪",
+              "pinyin": "xī",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "云",
+              "pinyin": "yún",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "初",
+              "pinyin": "chū",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沉",
+              "pinyin": "chén",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阁",
+              "pinyin": "gé",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "雨",
+              "pinyin": "yǔ",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "满",
+              "pinyin": "mǎn",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楼",
+              "pinyin": "lóu",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "溪边乌云初起，夕阳已沉落在城楼后，山雨将至，狂风灌满了城楼。",
+          "pinyin": "xī yún chū qǐ rì chén gé ， shān yǔ yù lái fēng mǎn lóu 。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 6,
+              "content": "阁：楼阁，此处指城楼或寺庙建筑，与‘日沉’构成黄昏景象。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "欲来：将要到来，‘欲’表示即将发生，增强紧张氛围。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "鸟",
+              "pinyin": "niǎo",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "下",
+              "pinyin": "xià",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "绿",
+              "pinyin": "lǜ",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "芜",
+              "pinyin": "wú",
+              "index": 35,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "苑",
+              "pinyin": "yuàn",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夕",
+              "pinyin": "xī",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "蝉",
+              "pinyin": "chán",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸣",
+              "pinyin": "míng",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "黄",
+              "pinyin": "huáng",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "叶",
+              "pinyin": "yè",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宫",
+              "pinyin": "gōng",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "鸟儿飞落绿草丛中的秦代宫苑，正值黄昏，蝉在黄叶间鸣叫，如同汉代宫殿的秋天。",
+          "pinyin": "niǎo xià lǜ wú qín yuàn xī ， chán míng huáng yè hàn gōng qiū 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "绿芜：丛生的绿色杂草，象征荒凉与衰败。"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "content": "秦苑：秦代皇家园林，咸阳曾为秦都，今已荒废。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "content": "汉宫：汉代宫殿，代指昔日繁华，与‘秋’构成衰败意象。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 7,
+              "content": "‘鸟下绿芜秦苑夕’为意象并列句，无动词连接，通过名词叠加营造画面感，属诗歌特殊句式。"
+            },
+            {
+              "start": 8,
+              "end": 15,
+              "content": "‘蝉鸣黄叶汉宫秋’为意象并列与视听结合句式，黄叶、蝉鸣、汉宫、秋共同构建衰败意境。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "莫",
+              "pinyin": "mò",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "问",
+              "pinyin": "wèn",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "当",
+              "pinyin": "dāng",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "年",
+              "pinyin": "nián",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "事",
+              "pinyin": "shì",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "故",
+              "pinyin": "gù",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "渭",
+              "pinyin": "wèi",
+              "index": 60,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "流",
+              "pinyin": "liú",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 63,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "过路的人不要再问当年的兴亡往事了，唯有故国东边的渭水依旧滚滚流淌。",
+          "pinyin": "xíng rén mò wèn dāng nián shì ， gù guó dōng lái wèi shuǐ liú 。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 6,
+              "content": "当年事：指秦汉兴亡的历史往事，今已不可追。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "故国：前朝的都城，此处指秦汉旧都咸阳，并非现代‘祖国’之意。"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "content": "渭水：渭河，流经咸阳，是关中重要河流，象征历史的流逝。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 9,
+              "old": "前朝的都城或旧时国家"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "new": "自己的祖国"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于晚唐时期，许浑任监察御史期间巡视关中时登咸阳城楼所作。咸阳为秦都，汉亦建都于旁，六朝兴亡相继，诗人登楼远眺，触景生情，感怀历史盛衰无常，忧虑国势日颓，遂写下此诗。当时藩镇割据、宦官专权，社会动荡，诗中‘山雨欲来’暗喻时局危机。",
+  "appreciation": "全诗以‘愁’字统领，情景交融。首联以‘万里愁’定下基调，借‘蒹葭杨柳’引发思乡与历史联想。颔联‘山雨欲来风满楼’为千古名句，既是实景描绘，又具象征意义，预示社会动荡将至。颈联以‘鸟下’‘蝉鸣’点染秦苑汉宫的荒凉，今昔对比强烈。尾联劝‘行人莫问’，以渭水东流作结，含不尽之意于言外。全诗对仗工整，意境苍茫，是晚唐怀古诗中的杰作。",
+  "tags": [
+    "必修上册",
+    "怀古诗",
+    "登临诗",
+    "忧国伤时"
+  ]
+}

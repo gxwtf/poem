@@ -1,0 +1,459 @@
+{
+  "name": "浣溪沙·身向云山那畔行",
+  "author": "纳兰性德",
+  "dynasty": "清代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "身",
+              "pinyin": "shēn",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "向",
+              "pinyin": "xiàng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "云",
+              "pinyin": "yún",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "那",
+              "pinyin": "nà",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "畔",
+              "pinyin": "pàn",
+              "index": 5,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 7,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我朝着远方的云山前行。",
+          "pinyin": "shēn xiàng yún shān nà pàn xíng 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 5,
+              "content": "那畔：那边，指遥远的边关之外。畔，边缘、一侧。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "北",
+              "pinyin": "běi",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "孤",
+              "pinyin": "gū",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "雁",
+              "pinyin": "yàn",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "正",
+              "pinyin": "zhèng",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吞",
+              "pinyin": "tūn",
+              "index": 13,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "声",
+              "pinyin": "shēng",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "北风中孤雁正悲鸣哽咽。",
+          "pinyin": "běi fēng gū yàn zhèng tūn shēng 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "吞声：忍住哭泣的声音，形容极度悲伤而不敢出声，常用于描绘孤寂悲凉之情。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "遥",
+              "pinyin": "yáo",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "看",
+              "pinyin": "kàn",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "烽",
+              "pinyin": "fēng",
+              "index": 18,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "火",
+              "pinyin": "huǒ",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "过",
+              "pinyin": "guò",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "边",
+              "pinyin": "biān",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "远远望见烽火掠过边塞城池。",
+          "pinyin": "yáo kàn fēng huǒ guò biān chéng 。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "台",
+              "pinyin": "tái",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "古",
+              "pinyin": "gǔ",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寒",
+              "pinyin": "hán",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "未",
+              "pinyin": "wèi",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "古台荒山寒意逼人，天色尚未破晓。",
+          "pinyin": "tái gǔ shān hán tiān wèi míng 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "台古：即古台，指古老的瞭望台或烽火台。语序倒装以强调历史沧桑感。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 6,
+              "content": "意象并置式省略句，由‘台古’‘山寒’‘天未明’三个名词性短语并列构成，无主语与谓语，通过画面叠加营造苍凉意境，类似‘枯藤老树昏鸦’。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "古",
+              "pinyin": "gǔ",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "今",
+              "pinyin": "jīn",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "绪",
+              "pinyin": "xù",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "生",
+              "pinyin": "shēng",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 39,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "古今的愁绪在此刻一齐涌上心头。",
+          "pinyin": "gǔ jīn chóu xù yī shí shēng 。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "深",
+              "pinyin": "shēn",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "捣",
+              "pinyin": "dǎo",
+              "index": 44,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "衣",
+              "pinyin": "yī",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "声",
+              "pinyin": "shēng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "深秋时节，不知何处传来捣衣的声音。",
+          "pinyin": "shēn qiū hé chù dǎo yī shēng 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 5,
+              "content": "捣衣：古代秋夜妇女在石上捶打衣料，为远行亲人准备冬衣，常象征思乡与离愁。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 4,
+              "end": 5,
+              "old": "捶打衣物以制寒衣，多含思亲之意"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "new": "洗衣"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "康熙二十一年（1682年），纳兰性德随康熙帝出巡塞外，途经古边地，目睹苍茫云山、烽火边城，触景生情而作此词。当时清廷正巩固北方边防，词人身为侍卫亲历边塞苦寒，联想到征人远戍、家人思念，引发深沉的羁旅之愁与历史兴亡之感。",
+  "appreciation": "本词以简练笔法勾勒出一幅苍凉的边塞秋行图。上片写行途所见：身向云山、北风孤雁、烽火边城，层层渲染孤寂氛围；下片转写内心感受，古台寒山、天色未明，烘托出心理阴郁。‘古今愁绪一时生’将个人情感升华为历史共感。结句‘深秋何处捣衣声’以声衬静，化用‘长安一片月，万户捣衣声’之意，把征夫思妇之情融入无边秋意，余韵悠长。全词意境开阔，语言清丽而沉郁，体现纳兰词‘哀感顽艳’的风格特征。",
+  "tags": [
+    "课外古诗词诵读",
+    "边塞诗",
+    "羁旅诗",
+    "纳兰词"
+  ]
+}

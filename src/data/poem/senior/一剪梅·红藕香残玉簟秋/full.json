@@ -1,0 +1,680 @@
+{
+  "name": "一剪梅·红藕香残玉簟秋",
+  "author": "李清照",
+  "dynasty": "宋代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "红",
+              "pinyin": "hóng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "藕",
+              "pinyin": "ǒu",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "香",
+              "pinyin": "xiāng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "残",
+              "pinyin": "cán",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "玉",
+              "pinyin": "yù",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "簟",
+              "pinyin": "diàn",
+              "index": 5,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 7,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "荷花凋谢，竹席生凉，秋天已至。",
+          "pinyin": "hóng ǒu xiāng cán yù diàn qiū 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "残：凋谢将尽，既写荷花衰败，也暗示时节入秋与心境凄凉。"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "content": "玉簟：精美的竹席，秋凉时触感生寒，象征孤寂清冷的生活环境。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "轻",
+              "pinyin": "qīng",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "解",
+              "pinyin": "jiě",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "罗",
+              "pinyin": "luó",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "裳",
+              "pinyin": "shang",
+              "index": 11,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，dú",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "独",
+              "pinyin": "shàng",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "lán",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兰",
+              "pinyin": "zhōu",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "舟",
+              "pinyin": "。",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 17,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "轻轻脱下罗裙，独自登上木兰小舟。",
+          "pinyin": "qīng jiě luó shang ，dú shàng lán zhōu 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "罗裳：丝织的裙裳，古代女子服饰，体现身份与生活精致。"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "content": "兰舟：对船的美称，常用于诗词中表达离别或思念之情。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "云",
+              "pinyin": "yún",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "谁",
+              "pinyin": "shuí",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寄",
+              "pinyin": "jì",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "锦",
+              "pinyin": "jǐn",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "书",
+              "pinyin": "shū",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 25,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "云中飞雁，谁会带来你的书信？",
+          "pinyin": "yún zhōng shuí jì jǐn shū lái ？",
+          "notes": [
+            {
+              "start": 4,
+              "end": 5,
+              "content": "锦书：指夫妻间传递的情书，典出苏蕙织锦回文诗，象征深情。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 5,
+              "end": 5,
+              "old": "信件"
+            },
+            {
+              "start": 5,
+              "end": 5,
+              "new": "书籍"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "雁",
+              "pinyin": "yàn",
+              "index": 26,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "回",
+              "pinyin": "huí",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，yuè",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "mǎn",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "满",
+              "pinyin": "xī",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "西",
+              "pinyin": "lóu",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楼",
+              "pinyin": "。",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "当大雁排成‘人’字归来时，月光已洒满西楼。",
+          "pinyin": "yàn zì huí shí ，yuè mǎn xī lóu 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "content": "雁字：大雁飞行时排列如字形，古人认为可传书信，是思乡怀人的重要意象。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "花",
+              "pinyin": "huā",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "飘",
+              "pinyin": "piāo",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "零",
+              "pinyin": "líng",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "流",
+              "pinyin": "liú",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 43,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "花儿自顾飘落，水儿自顾流淌。",
+          "pinyin": "huā zì piāo líng shuǐ zì liú 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "自：各自、自行，强调花与水的无情流动，反衬人的深情难抑。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "种",
+              "pinyin": "zhǒng",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "思",
+              "pinyin": "sī",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，liǎng",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "两",
+              "pinyin": "chù",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "xián",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闲",
+              "pinyin": "chóu",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "。",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 53,
+              "read": false,
+              "write": true
+            }
+          ],
+          "translation": "同是相思之苦，却分隔两地各自忧愁。",
+          "pinyin": "yī zhǒng xiāng sī ，liǎng chù xián chóu 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 9,
+              "content": "一种相思，两处闲愁：虽分居两地，却同怀相思之苦，体现情感的共鸣与无奈。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 8,
+              "old": "无由而生的"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "new": "空闲时的"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "情",
+              "pinyin": "qíng",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "计",
+              "pinyin": "jì",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "消",
+              "pinyin": "xiāo",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "除",
+              "pinyin": "chú",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，cái",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "才",
+              "pinyin": "xià",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "下",
+              "pinyin": "méi",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "眉",
+              "pinyin": "tóu",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "头",
+              "pinyin": "，què",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "shàng",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "却",
+              "pinyin": "xīn",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "tóu",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "心",
+              "pinyin": "。",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "头",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 71,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "这种愁情无法排解，刚从眉头消失，又悄悄涌上心头。",
+          "pinyin": "cǐ qíng wú jì kě xiāo chú ，cái xià méi tóu ，què shàng xīn tóu 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "计：办法、手段，‘无计’即毫无办法，突出情感之深无法排解。"
+            },
+            {
+              "start": 8,
+              "end": 17,
+              "content": "才下眉头，却上心头：愁绪刚从眉间舒展，又涌上心头，以身体动作写心理变化，极言相思之深。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 8,
+              "end": 17,
+              "content": "省略主语的对偶句式，'才下'与'却上'形成时间与心理的转折对照"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此词约作于宋徽宗大观年间，李清照丈夫赵明诚在外为官，两人聚少离多。词人独居闺中，触景生情，借秋景抒写对丈夫的深切思念。‘红藕香残’点明时节，‘独上兰舟’显孤寂之情，全篇以女性细腻笔触展现离愁别绪，是李清照早期代表作之一。",
+  "appreciation": "全词以‘秋’起兴，通过‘玉簟’、‘兰舟’、‘雁字’、‘西楼’等意象构建清冷意境。上下片情感递进：上片写景怀人，下片直抒胸臆。‘花自飘零水自流’一句双关自然之景与人生离合，‘一种相思，两处闲愁’打破单向思念模式，体现双向情感共鸣。结句‘才下眉头，却上心头’化用范仲淹‘眉间心上，无计相回避’，更显灵动深刻，成为千古传诵的名句。",
+  "tags": [
+    "选修下册",
+    "宋词",
+    "闺怨诗",
+    "爱情诗"
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "name": "己亥杂诗·其五",
+  "author": "龚自珍",
+  "dynasty": "清代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "浩",
+              "pinyin": "hào",
+              "index": 0,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "荡",
+              "pinyin": "dàng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "离",
+              "pinyin": "lí",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "白",
+              "pinyin": "bái",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "斜",
+              "pinyin": "xié",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": true,
+              "write": false
+            }
+          ],
+          "translation": "浩浩荡荡的离别愁绪向着日落西斜的远处延伸。",
+          "pinyin": "hào dàng lí chóu bái rì xié ，",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "浩荡：形容离愁如江水般广阔无边，气势宏大，此处用于情感描写而非自然景象。"
+            },
+            {
+              "start": 5,
+              "end": 7,
+              "content": "白日斜：太阳西斜，暗示傍晚时分，象征时光流逝与离别的伤感氛围。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "吟",
+              "pinyin": "yín",
+              "index": 8,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "鞭",
+              "pinyin": "biān",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "指",
+              "pinyin": "zhǐ",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "即",
+              "pinyin": "jí",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "涯",
+              "pinyin": "yá",
+              "index": 14,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "马鞭向东一挥，感觉就是人在天涯一般。",
+          "pinyin": "yín biān dōng zhǐ jí tiān yá 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
+              "content": "吟鞭东指：一边吟诗一边挥动马鞭指向东方，展现诗人洒脱又惆怅的离京形象。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "content": "天涯：天边，极远之地，象征漂泊无依的境遇，具有浓厚的抒情色彩。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 5,
+              "end": 6,
+              "old": "极远的边界，常指人生漂泊的尽头"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "new": "多用于文学表达，实际地理意义弱化，常作比喻"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 6,
+              "content": "‘吟鞭东指即天涯’为省略判断动词的紧缩句，意为‘所指之处即是天涯’，属文言省略句。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "落",
+              "pinyin": "luò",
+              "index": 16,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "红",
+              "pinyin": "hóng",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bú",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "情",
+              "pinyin": "qíng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "物",
+              "pinyin": "wù",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "从枝头上飘落的花瓣并不是无情之物。",
+          "pinyin": "luò hóng bú shì wú qíng wù ，",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "落红：落花，以‘红’代指花，是古典诗词中常见的借代手法，突出美丽生命的凋零。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 1,
+              "end": 1,
+              "old": "花，借代用法"
+            },
+            {
+              "start": 1,
+              "end": 1,
+              "new": "红色，颜色名词"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "化",
+              "pinyin": "huà",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "作",
+              "pinyin": "zuò",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "春",
+              "pinyin": "chūn",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "泥",
+              "pinyin": "ní",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "更",
+              "pinyin": "gèng",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "护",
+              "pinyin": "hù",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "花",
+              "pinyin": "huā",
+              "index": 30,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "它将化作春天的泥土，继续培育新的花朵。",
+          "pinyin": "huà zuò chūn ní gèng hù huā 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "化作：变化成为，体现生命形态的转化，暗含无私奉献的精神升华。"
+            },
+            {
+              "start": 4,
+              "end": 7,
+              "content": "更护花：进一步守护春花，象征诗人虽离职仍心系国家与人才培养的高尚情怀。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 7,
+              "content": "‘化作春泥更护花’为因果紧缩复句，前后动作连贯，体现生命转化的哲理，属特殊复句结构。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "清道光十九年（1839年），正值己亥年，龚自珍因不满官场腐败，辞去礼部主事之职，离京返乡。此诗作于南归途中，共315首组诗之一。当时诗人虽怀抱改革理想却屡遭排挤，此诗既抒发离京的愁绪，又表达退而不休、甘于奉献的精神追求。",
+  "appreciation": "本诗前两句写景抒情，以“浩荡离愁”与“白日斜”渲染苍茫别绪，“吟鞭东指”则转出豪迈气概，将离愁升华为壮游之志。后两句托物言志，以“落红护花”自喻，表明虽退出仕途，仍心系国家命运。其中“化作春泥更护花”一语，成为无私奉献精神的经典象征，超越时代感动后人。全诗融个人情感与社会担当于一体，语言凝练而意象深远。",
+  "tags": [
+    "八年级下册",
+    "奉献",
+    "咏怀诗",
+    "离愁"
+  ]
+}

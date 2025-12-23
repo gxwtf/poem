@@ -1,0 +1,324 @@
+{
+  "name": "长恨歌",
+  "author": "白居易",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "皇",
+              "pinyin": "huáng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "重",
+              "pinyin": "zhòng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "色",
+              "pinyin": "sè",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "思",
+              "pinyin": "sī",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "倾",
+              "pinyin": "qīng",
+              "index": 5,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "御",
+              "pinyin": "yù",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宇",
+              "pinyin": "yǔ",
+              "index": 9,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "多",
+              "pinyin": "duō",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "年",
+              "pinyin": "nián",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "求",
+              "pinyin": "qiú",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "汉家天子看重美色，想得到绝代佳人，统治天下多年却始终找不到。",
+          "pinyin": "hàn huáng zhòng sè sī qīng guó ， yù yǔ duō nián qiú bù dé 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "汉皇：借指唐玄宗，汉代无此称，乃借古讽今笔法。"
+            },
+            {
+              "start": 2,
+              "end": 3,
+              "content": "重色：偏爱美色，暗示其治国失衡，为全诗批判起点。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "content": "倾国：指能使国家倾覆的绝色女子，典出《汉书》，非现代‘全国’之意。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "御宇：统治天下。御，掌控；宇，天下疆域。"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "content": "求不得：始终未能寻得，既是事实，也暗含佛教‘八苦’中的人生遗憾。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 5,
+              "end": 6,
+              "old": "使国家倾覆的美人"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "new": "全国范围的事件或力量"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "杨",
+              "pinyin": "yáng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "女",
+              "pinyin": "nǚ",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "初",
+              "pinyin": "chū",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "长",
+              "pinyin": "zhǎng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "成",
+              "pinyin": "chéng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "养",
+              "pinyin": "yǎng",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "深",
+              "pinyin": "shēn",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闺",
+              "pinyin": "guī",
+              "index": 27,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "未",
+              "pinyin": "wèi",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "识",
+              "pinyin": "shí",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": true,
+              "write": false
+            }
+          ],
+          "translation": "杨家有个女儿刚刚长大，深藏闺中，外人还无人知晓。",
+          "pinyin": "yáng jiā yǒu nǚ chū zhǎng chéng ， yǎng zài shēn guī rén wèi shí 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 6,
+              "content": "初长成：刚刚成年，特指女子达到婚配年龄，非一般成长过程。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "深闺：古代女子居住的内院，象征封闭与神秘，常与‘待字’相连。"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "content": "人未识：无人知晓，强调杨玉环此前身份平凡，未入世人视野。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 8,
+              "end": 15,
+              "content": "‘养在深闺人未识’为状语后置句，‘在深闺’本应前置作状语，文言中常后置；且省略主语，构成紧缩表达。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "《长恨歌》作于唐宪宗元和元年（806年），白居易任盩厔（今陕西周至）县尉时。当时他与友人陈鸿、王质夫同游仙游寺，谈及唐玄宗与杨贵妃的爱情悲剧，感慨不已，遂作此诗。安史之乱后，李杨爱情成为士人反思盛唐由盛转衰的象征。白居易借历史人物和传说，融合虚构成分，创作出这首兼具叙事性与抒情性的长篇叙事诗。",
+  "appreciation": "《长恨歌》是中国古代叙事诗的巅峰之作。全诗以唐玄宗与杨贵妃的爱情悲剧为主线，结构宏大而细腻。开篇以‘汉皇重色思倾国’点题，用汉武帝典故暗喻唐玄宗，既避直指之嫌，又增添历史厚重感。‘御宇多年求不得’为杨玉环出场铺垫，极言其难得。第二段‘杨家有女初长成’以平实语言写出命运转折，‘养在深闺人未识’既写其出身平凡，又隐含命运无常之叹。全诗语言优美流畅，情感真挚动人，将政治批判与爱情歌颂巧妙融合，形成复杂而深刻的审美张力。",
+  "tags": [
+    "必修下册",
+    "叙事诗",
+    "爱情诗",
+    "讽喻诗",
+    "唐诗"
+  ]
+}

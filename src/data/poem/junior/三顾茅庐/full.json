@@ -1,0 +1,804 @@
+{
+  "name": "三顾茅庐",
+  "author": "陈寿",
+  "dynasty": "晋代",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "先",
+              "pinyin": "xiān",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "主",
+              "pinyin": "zhǔ",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "屯",
+              "pinyin": "tún",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "樊",
+              "pinyin": "fán",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "徐",
+              "pinyin": "xú",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "庶",
+              "pinyin": "shù",
+              "index": 7,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "先",
+              "pinyin": "xiān",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "主",
+              "pinyin": "zhǔ",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "先",
+              "pinyin": "xiān",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "主",
+              "pinyin": "zhǔ",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "器",
+              "pinyin": "qì",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 16,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "刘备驻扎在樊城，徐庶来拜见他，刘备很器重他。",
+          "pinyin": "xiān zhǔ tún fán chéng ， xú shù jiàn xiān zhǔ ， xiān zhǔ qì zhī 。",
+          "notes": [
+            {
+              "start": 14,
+              "end": 15,
+              "content": "器：器重，赏识。此处指刘备非常看重徐庶。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "庶",
+              "pinyin": "shù",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "先",
+              "pinyin": "xiān",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "主",
+              "pinyin": "zhǔ",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "诸",
+              "pinyin": "zhū",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "葛",
+              "pinyin": "gě",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "孔",
+              "pinyin": "kǒng",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "卧",
+              "pinyin": "wò",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "龙",
+              "pinyin": "lóng",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "将",
+              "pinyin": "jiāng",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "岂",
+              "pinyin": "qǐ",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愿",
+              "pinyin": "yuàn",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？’",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 42,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "徐庶对刘备说：‘诸葛亮这个人，是卧龙，将军是否愿意见他呢？’",
+          "pinyin": "shù wèi xiān zhǔ yuē ： ‘ zhū gě kǒng míng zhě ， wò lóng yě ， jiāng jūn qǐ yuàn jiàn zhī hū ？’",
+          "notes": [
+            {
+              "start": 13,
+              "end": 15,
+              "content": "卧龙：比喻隐居而有才德之士，此处指诸葛亮未出仕时的称号。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 7,
+              "end": 16,
+              "content": "‘诸葛孔明者，卧龙也’为典型判断句，‘者……也’结构表肯定判断。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "先",
+              "pinyin": "xiān",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "主",
+              "pinyin": "zhǔ",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "俱",
+              "pinyin": "jù",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。’",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 53,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "刘备说：‘你带他一起来吧。’",
+          "pinyin": "xiān zhǔ yuē ： ‘ jūn yǔ jù lái 。’"
+        },
+        {
+          "content": [
+            {
+              "char": "庶",
+              "pinyin": "shù",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "就",
+              "pinyin": "jiù",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "致",
+              "pinyin": "zhì",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愿",
+              "pinyin": "yuàn",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "将",
+              "pinyin": "jiāng",
+              "index": 71,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "枉",
+              "pinyin": "wǎng",
+              "index": 73,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "驾",
+              "pinyin": "jià",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "顾",
+              "pinyin": "gù",
+              "index": 75,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 76,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。’",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 78,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "徐庶说：‘这个人只能您去拜访，不能委屈他前来。希望您亲自前去拜访他。’",
+          "pinyin": "shù yuē ： ‘ cǐ rén kě jiù jiàn ， bù kě qū zhì yě 。 yuàn jiāng jūn wǎng jià gù zhī 。’",
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "content": "就：接近，前往。‘就见’意为登门拜访，强调主动前往。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "content": "屈：使……屈尊，委屈。‘屈致’指强行招来，有失礼之意。"
+            },
+            {
+              "start": 19,
+              "end": 20,
+              "content": "枉驾：屈尊驾车前来。‘枉’为谦辞，表示对方降低身份。"
+            },
+            {
+              "start": 21,
+              "end": 22,
+              "content": "顾：拜访，探望。古义强调尊者对卑者的看望，此处为敬辞。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 7,
+              "end": 7,
+              "old": "前往，接近"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "new": "完成，迁就"
+            },
+            {
+              "start": 19,
+              "end": 19,
+              "old": "屈尊"
+            },
+            {
+              "start": 19,
+              "end": 19,
+              "new": "歪曲，冤枉"
+            },
+            {
+              "start": 21,
+              "end": 21,
+              "old": "拜访"
+            },
+            {
+              "start": 21,
+              "end": 21,
+              "new": "回头看，照顾"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "由",
+              "pinyin": "yóu",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "先",
+              "pinyin": "xiān",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "主",
+              "pinyin": "zhǔ",
+              "index": 82,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "遂",
+              "pinyin": "suì",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "诣",
+              "pinyin": "yì",
+              "index": 84,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亮",
+              "pinyin": "liàng",
+              "index": 85,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "凡",
+              "pinyin": "fán",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "三",
+              "pinyin": "sān",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "往",
+              "pinyin": "wǎng",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 90,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 92,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 93,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "因此刘备就去拜访诸葛亮，总共去了三次，才见到他。",
+          "pinyin": "yóu shì xiān zhǔ suì yì liàng ， fán sān wǎng ， nǎi jiàn 。",
+          "notes": [
+            {
+              "start": 8,
+              "end": 8,
+              "content": "凡：总共，一共。‘凡三往’表示前后共去了三次。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "诣：前往，特指到尊长或贤者处拜访。多用于正式场合。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 8,
+              "old": "总共"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "new": "平凡"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "东汉末年，天下大乱，刘备寄居荆州刘表麾下，渴求贤才以图大业。名士徐庶向其推荐隐居隆中的诸葛亮，称其为‘卧龙’。刘备遂亲自前往拜访，历经三次才得相见，体现了他对人才的极度尊重与诚意。",
+  "appreciation": "本文以简洁笔法记述‘三顾茅庐’始末，通过对话推动情节。‘卧龙’一词既显诸葛亮之才，又增其神秘感；‘可就见，不可屈致’凸显其高士品格。‘凡三往，乃见’五字凝练至极，既写刘备之诚，亦见诸葛亮之慎。全文无一字褒贬，而敬贤之意跃然纸上，堪称史传文学典范。",
+  "tags": [
+    "九年级下册（课外）",
+    "历史故事",
+    "人物传记",
+    "三国演义"
+  ]
+}

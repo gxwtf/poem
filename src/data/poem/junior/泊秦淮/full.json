@@ -1,0 +1,300 @@
+{
+  "name": "泊秦淮",
+  "author": "杜牧",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "烟",
+              "pinyin": "yān",
+              "index": 0,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "笼",
+              "pinyin": "lóng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寒",
+              "pinyin": "hán",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "笼",
+              "pinyin": "lóng",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沙",
+              "pinyin": "shā",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 8,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "泊",
+              "pinyin": "bó",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín",
+              "index": 10,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "淮",
+              "pinyin": "huái",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "近",
+              "pinyin": "jìn",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "酒",
+              "pinyin": "jiǔ",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "烟雾笼罩着寒冷的水面，月光映照着白沙，夜晚船只停泊在秦淮河靠近酒家的地方。",
+          "pinyin": "yān lóng hán shuǐ yuè lóng shā ， yè bó qín huái jìn jiǔ jiā 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 4,
+              "content": "寒水：指寒冷的河水，此处既写实景，又渲染凄清氛围，为全诗奠定哀婉基调。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "夜泊：夜间停船靠岸。‘泊’暗示旅途漂泊，也引出下文所见所闻。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "秦淮：即秦淮河，流经金陵（今南京），六朝时为繁华游乐之地，此处暗含历史兴亡之叹。"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "content": "近酒家：靠近酒馆。‘近’字引出下文歌女演唱场景，也为批判提供现实背景。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 6,
+              "content": "‘烟笼寒水月笼沙’为互文句式，意为‘烟雾和月光笼罩着寒水与沙洲’，不能拆解为‘烟只笼水，月只笼沙’。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "商",
+              "pinyin": "shāng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "女",
+              "pinyin": "nǚ",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亡",
+              "pinyin": "wáng",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "恨",
+              "pinyin": "hèn",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "隔",
+              "pinyin": "gé",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "犹",
+              "pinyin": "yóu",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "唱",
+              "pinyin": "chàng",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "后",
+              "pinyin": "hòu",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "庭",
+              "pinyin": "tíng",
+              "index": 29,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "花",
+              "pinyin": "huā",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "歌女不知道亡国的悲痛，隔着江水还在唱着《玉树后庭花》。",
+          "pinyin": "shāng nǚ bù zhī wáng guó hèn ， gé jiāng yóu chàng hòu tíng huā 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "商女：指以歌唱为业的女子，即歌女。并非普通女子，而是社会底层艺人，常在酒家献唱。"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "content": "后庭花：即《玉树后庭花》，南朝陈后主所制乐曲，被视作‘亡国之音’，象征荒淫误国。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "唐大和七年（833年），杜牧由宣州赴扬州任淮南节度使掌书记，途经六朝古都金陵，夜泊秦淮河畔，闻歌女吟唱《玉树后庭花》，此曲为南朝陈后主所作，被视为亡国之音。杜牧触景生情，借古讽今，抒发对晚唐统治者沉溺声色、不思国政的深切忧虑。",
+  "appreciation": "首句以‘烟笼寒水月笼沙’勾勒出迷蒙冷寂的江夜图景，两个‘笼’字巧妙串联起烟、水、月、沙，营造出幽邃朦胧的意境。次句点明地点与事件，‘近酒家’引出下文歌声。后两句由景入情，表面责备歌女无知，实则讽刺听曲的达官显贵醉生梦死，‘犹唱’二字力透纸背，揭示历史悲剧重演的危机。全诗语言精炼，意境深远，将历史反思与现实批判融为一体，是唐代咏史讽喻诗的典范之作。",
+  "tags": [
+    "七年级下册",
+    "咏史诗",
+    "讽喻诗"
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "name": "促织",
+  "author": "蒲松龄",
+  "dynasty": "清代",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "宣",
+              "pinyin": "xuān",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "德",
+              "pinyin": "dé",
+              "index": 1,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "间",
+              "pinyin": "jiān",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宫",
+              "pinyin": "gōng",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "尚",
+              "pinyin": "shàng",
+              "index": 6,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "促",
+              "pinyin": "cù",
+              "index": 7,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "织",
+              "pinyin": "zhī",
+              "index": 8,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "戏",
+              "pinyin": "xì",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "明朝宣德年间，皇宫中盛行斗蟋蟀的游戏。",
+          "pinyin": "xuān dé jiān ， gōng zhōng shàng cù zhī zhī xì 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 2,
+              "content": "宣德间：明朝宣宗皇帝的年号时期，约公元1426—1435年，是明代宫廷文化较为活跃的时期。"
+            },
+            {
+              "start": 6,
+              "end": 6,
+              "content": "尚：崇尚、盛行，此处指宫廷中流行斗蟋蟀的风气。"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "content": "促织：蟋蟀的古称，因鸣声似‘促织’而得名，古人用以斗玩。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 6,
+              "end": 6,
+              "old": "崇尚、盛行"
+            },
+            {
+              "start": 6,
+              "end": 6,
+              "new": "还、尚且"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "old": "蟋蟀（尤指用于斗玩的）"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "new": "无对应常用词（现代称‘蟋蟀’）"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "岁",
+              "pinyin": "suì",
+              "index": 12,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "征",
+              "pinyin": "zhēng",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "民",
+              "pinyin": "mín",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "间",
+              "pinyin": "jiān",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 16,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "每年都向民间征收蟋蟀。",
+          "pinyin": "suì zhēng mín jiān 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 0,
+              "content": "岁：每年，名词作状语，表示动作的频率。"
+            },
+            {
+              "start": 1,
+              "end": 1,
+              "content": "征：征收、征派，指官府强制向百姓索取蟋蟀作为贡品。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 0,
+              "end": 0,
+              "old": "每年"
+            },
+            {
+              "start": 0,
+              "end": 0,
+              "new": "年、年龄"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 4,
+              "content": "状语后置：‘岁征民间’即‘每年向民间征收’，‘民间’为介词‘于’的宾语，省略介词后置于动词后。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "本文选自《聊斋志异》，描写明代宣德年间因皇帝嗜好玩蟋蟀，官府层层摊派，百姓被迫捕捉进贡，导致家破人亡的悲剧。蒲松龄借古讽今，反映清代社会苛捐杂税、吏治腐败对底层人民的压迫。",
+  "appreciation": "开篇八字‘宣德间，宫中尚促织之戏’即点出祸根所在——上有所好，下必甚焉。‘岁征民间’四字冷峻如刀，揭示制度性剥削的常态化。全文以一只小虫牵动万家悲欢，将荒诞与残酷交织，展现封建专制下个体命运的无力感。语言简练而张力十足，为古典文言小说讽刺艺术的巅峰之作。",
+  "tags": [
+    "必修下册",
+    "讽刺小说",
+    "文言文",
+    "蒲松龄",
+    "聊斋志异"
+  ]
+}

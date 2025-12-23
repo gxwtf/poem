@@ -1,0 +1,335 @@
+{
+  "name": "逢入京使",
+  "author": "岑参",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "故",
+              "pinyin": "gù",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "园",
+              "pinyin": "yuán",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "望",
+              "pinyin": "wàng",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "路",
+              "pinyin": "lù",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "漫",
+              "pinyin": "màn",
+              "index": 5,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "漫",
+              "pinyin": "màn",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "双",
+              "pinyin": "shuāng",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "袖",
+              "pinyin": "xiù",
+              "index": 9,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "龙",
+              "pinyin": "lóng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "钟",
+              "pinyin": "zhōng",
+              "index": 11,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "泪",
+              "pinyin": "lèi",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "干",
+              "pinyin": "gān",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": true,
+              "write": false
+            }
+          ],
+          "translation": "回头向东望去，故乡遥远路途漫长，沾湿双袖泪水流个不停。",
+          "pinyin": "gù yuán dōng wàng lù màn màn ， shuāng xiù lóng zhōng lèi bù gān 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "故园：指故乡，此处表达诗人离家远赴边塞时的深切思乡之情。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "content": "漫漫：形容路途遥远无尽，叠音词增强抒情色彩，突显旅途艰辛。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "龙钟：此处形容泪流满面的样子，非现代‘年老体衰’之意，体现诗人情感激动。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 10,
+              "end": 11,
+              "old": "泪流满面的样子"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "new": "年老体衰、行动不便"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "马",
+              "pinyin": "mǎ",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逢",
+              "pinyin": "féng",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "纸",
+              "pinyin": "zhǐ",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "笔",
+              "pinyin": "bǐ",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "凭",
+              "pinyin": "píng",
+              "index": 24,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "传",
+              "pinyin": "chuán",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "语",
+              "pinyin": "yǔ",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "报",
+              "pinyin": "bào",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "平",
+              "pinyin": "píng",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "安",
+              "pinyin": "ān",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "在马上与你相遇没有纸和笔，只能请你转告家人我平安无事。",
+          "pinyin": "mǎ shàng xiāng féng wú zhǐ bǐ ， píng jūn chuán yǔ bào píng ān 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "纸笔：指书写工具，因战地条件艰苦，无法写信，只能口信传情。"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "content": "凭：请求、托付，相当于‘烦请’，不可理解为‘凭借’。"
+            },
+            {
+              "start": 11,
+              "end": 12,
+              "content": "传语：传递口信，因无纸笔，只能托人带话，反映边塞通信不便。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "content": "平安：指安全无恙，是家人最关心的消息，情感朴素而深沉。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 8,
+              "old": "请求、托付"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "new": "凭借、依靠"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 7,
+              "content": "省略句，省略主语‘吾’与谓语‘欲作书’，完整应为‘（吾）马上相逢（欲作书）无纸笔’。"
+            },
+            {
+              "start": 8,
+              "end": 12,
+              "content": "介宾结构后置，‘凭君传语’即‘以君为凭传语’，现代语序为‘请你帮忙传话’。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于唐玄宗天宝八年（749年），岑参赴安西节度使幕府任职途中。行至河西走廊，偶遇入京使者，托其传话报平安。时值安史之乱前夕，边疆战事频繁，士人远赴西域多有生死未卜之感。诗人离乡万里，情绪复杂，既有建功立业之志，又有思亲怀乡之情。",
+  "appreciation": "全诗以白描手法捕捉旅途偶遇的瞬间。首句‘路漫漫’与‘泪不干’形成空间与情感的双重延展，凸显孤身远行的悲凉。后两句陡转，于无纸笔的窘境中生发出‘传语报平安’的朴素愿望，克制中见深情。‘凭君’二字托付千钧之重，将复杂情感浓缩于一句家常话，体现盛唐边塞诗‘悲而不伤’的美学品格。",
+  "tags": [
+    "七年级下册",
+    "边塞诗",
+    "思乡",
+    "岑参"
+  ]
+}

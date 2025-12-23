@@ -1,0 +1,511 @@
+{
+  "name": "题破山寺后禅院",
+  "author": "常建",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "清",
+              "pinyin": "qīng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "晨",
+              "pinyin": "chén",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "入",
+              "pinyin": "rù",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "古",
+              "pinyin": "gǔ",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寺",
+              "pinyin": "sì",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "初",
+              "pinyin": "chū",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "照",
+              "pinyin": "zhào",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "高",
+              "pinyin": "gāo",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "林",
+              "pinyin": "lín",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "清晨我走进古老的寺庙，初升的太阳照耀着高高的树林。",
+          "pinyin": "qīng chén rù gǔ sì ， chū rì zhào gāo lín 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "清晨：早晨，此处强调时间之早，营造清净空灵的氛围。"
+            },
+            {
+              "start": 3,
+              "end": 4,
+              "content": "古寺：古老的寺庙，点明地点，蕴含历史沧桑与宗教静谧之感。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "初日：初升的太阳，象征希望与光明，映照寺院林木，画面感强。"
+            },
+            {
+              "start": 9,
+              "end": 10,
+              "content": "高林：高大的树林，指寺院周围的古木，层次高远，有肃穆之感。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "曲",
+              "pinyin": "qū",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "径",
+              "pinyin": "jìng",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "通",
+              "pinyin": "tōng",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "幽",
+              "pinyin": "yōu",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "禅",
+              "pinyin": "chán",
+              "index": 18,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "房",
+              "pinyin": "fáng",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "花",
+              "pinyin": "huā",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "木",
+              "pinyin": "mù",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "深",
+              "pinyin": "shēn",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "弯弯曲曲的小路通向幽静的地方，禅房掩映在繁茂的花木丛中。",
+          "pinyin": "qū jìng tōng yōu chù ， chán fáng huā mù shēn 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "曲径：弯曲的小路，体现幽深意境，是古典园林与禅院常见意象。"
+            },
+            {
+              "start": 3,
+              "end": 4,
+              "content": "幽处：幽深的地方，指人迹罕至、环境清静之所，突出禅意。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "禅房：僧人修行居住的房屋，体现宗教氛围与精神追求。"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "content": "花木深：花木茂盛深远，暗示环境清幽、远离尘嚣，强化静谧感。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "光",
+              "pinyin": "guāng",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悦",
+              "pinyin": "yuè",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸟",
+              "pinyin": "niǎo",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "性",
+              "pinyin": "xìng",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "潭",
+              "pinyin": "tán",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "影",
+              "pinyin": "yǐng",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "空",
+              "pinyin": "kōng",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "山中的景色使鸟儿的性情愉悦，潭水的倒影让人心中空明清净。",
+          "pinyin": "shān guāng yuè niǎo xìng ， tán yǐng kōng rén xīn 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "content": "山光：山间日光或山色，描绘自然美景，给人以明丽之感。"
+            },
+            {
+              "start": 2,
+              "end": 4,
+              "content": "悦鸟性：使鸟的本性感到愉悦。‘悦’为使动用法，意为‘使……快乐’。"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "content": "潭影：水潭中的倒影，清冷空灵，映照人心。"
+            },
+            {
+              "start": 8,
+              "end": 11,
+              "content": "空人心：使人心空明清净。‘空’为使动用法，消除杂念，达到禅悟境界。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 2,
+              "end": 4,
+              "content": "‘悦鸟性’为使动用法，意为‘使鸟的本性愉悦’。"
+            },
+            {
+              "start": 8,
+              "end": 11,
+              "content": "‘空人心’为使动用法，意为‘使人心空明清净’。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "万",
+              "pinyin": "wàn",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "籁",
+              "pinyin": "lài",
+              "index": 37,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "俱",
+              "pinyin": "jù",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寂",
+              "pinyin": "jì",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "但",
+              "pinyin": "dàn",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "余",
+              "pinyin": "yú",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "钟",
+              "pinyin": "zhōng",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "磬",
+              "pinyin": "qìng",
+              "index": 45,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "音",
+              "pinyin": "yīn",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "一切声音在这里都归于寂静，只留下钟磬的余音回荡。",
+          "pinyin": "wàn lài cǐ jù jì ， dàn yú zhōng qìng yīn 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "content": "万籁：自然界一切声响，如风声、水声、鸟鸣等，泛指所有声音。"
+            },
+            {
+              "start": 3,
+              "end": 5,
+              "content": "俱寂：全都寂静。‘俱’意为‘都’，‘寂’即安静，强调万籁无声的静境。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "但余：只留下。‘但’古义为‘只、仅仅’，非现代转折连词。"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "content": "钟磬音：钟和磬的声音。钟为金属乐器，磬为石制法器，寺院早晚诵经时敲击，象征清净与觉悟。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 6,
+              "end": 6,
+              "old": "只、仅仅"
+            },
+            {
+              "start": 6,
+              "end": 6,
+              "new": "但是，表转折"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 3,
+              "end": 5,
+              "content": "‘万籁此俱寂’中‘此’为状语后置，正常语序应为‘此万籁俱寂’，意为‘此时一切都寂静’。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于唐玄宗开元年间，常建游历破山寺（今江苏常熟兴福寺）时所作。当时诗人仕途失意，寄情山水佛寺，追求心灵的宁静与超脱。破山寺为南齐时期所建古刹，环境清幽，是理想的禅修之地。诗人于清晨入寺，被其静谧氛围所感染，遂写下此诗以抒发对禅意境界的向往。",
+  "appreciation": "本诗通过移步换景的手法，描绘了破山寺清晨的幽静之美。首联点明时间与地点，展现晨光初照的生机；颔联以‘曲径’‘禅房’勾勒出深邃清幽的意境；颈联由外景转入内心，‘悦’与‘空’二字精妙传达自然与心灵的共鸣；尾联以声衬静，‘万籁俱寂’中唯有钟磬之声，凸显禅院的空灵与超然。全诗语言凝练，意境深远，是唐代山水田园诗与禅意结合的典范之作。",
+  "tags": [
+    "八年级下册",
+    "山水诗",
+    "禅意诗",
+    "唐诗"
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "name": "窦娥冤（节选）",
+  "author": "关汉卿",
+  "dynasty": "元代",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "朝",
+              "pinyin": "cháo",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "暮",
+              "pinyin": "mù",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悬",
+              "pinyin": "xuán",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，yǒu",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "guǐ",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鬼",
+              "pinyin": "shén",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "神",
+              "pinyin": "zhǎng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "掌",
+              "pinyin": "zhe",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "着",
+              "pinyin": "shēng",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "生",
+              "pinyin": "sǐ",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "死",
+              "pinyin": "quán",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "权",
+              "pinyin": "。",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "世间有日月昼夜悬挂，有鬼神掌管生死大权。",
+          "pinyin": "yǒu rì yuè cháo mù xuán ，yǒu guǐ shén zhǎng zhe shēng sǐ quán 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 4,
+              "content": "朝暮：从早晨到晚上，象征时间的永恒，日月始终高悬。"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "content": "生杀权：指掌管人生死的权力，常用于形容神明或上天的权威。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "只",
+              "pinyin": "zhǐ",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "合",
+              "pinyin": "hé",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "把",
+              "pinyin": "bǎ",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "清",
+              "pinyin": "qīng",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "浊",
+              "pinyin": "zhuó",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "分",
+              "pinyin": "fēn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "辨",
+              "pinyin": "biàn",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，kě",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "可",
+              "pinyin": "zěn",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "怎",
+              "pinyin": "shēng",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "生",
+              "pinyin": "hú",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "糊",
+              "pinyin": "tū",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "突",
+              "pinyin": "le",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "了",
+              "pinyin": "dào",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "盗",
+              "pinyin": "zhí",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "跖",
+              "pinyin": "、yán",
+              "index": 35,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "、",
+              "pinyin": "yuān",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "颜",
+              "pinyin": "？",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "渊",
+              "index": 38,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "？",
+              "index": 39,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "天地啊！本该分辨清浊，为何却混淆了盗跖和颜渊？",
+          "pinyin": "tiān dì yě ！ zhǐ hé bǎ qīng zhuó fēn biàn ，kě zěn shēng hú tū le dào zhí 、yán yuān ？",
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "content": "清浊：原指水的清澈与浑浊，此处借喻善恶、是非。"
+            },
+            {
+              "start": 15,
+              "end": 16,
+              "content": "糊突：元代口语，意为混淆、弄错，相当于现代汉语的‘搞混’。"
+            },
+            {
+              "start": 18,
+              "end": 19,
+              "content": "盗跖：春秋时期著名大盗，代表恶人。"
+            },
+            {
+              "start": 21,
+              "end": 22,
+              "content": "颜渊：孔子最贤德的弟子之一，代表善人。此处与盗跖对比，突显命运不公。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 6,
+              "content": "‘只合把清浊分辨’为‘把’字句，属处置式，强调应对‘清浊’进行区分，体现文言特殊句式。"
+            },
+            {
+              "start": 13,
+              "end": 23,
+              "content": "‘可怎生糊突了盗跖、颜渊？’为宾语前置句，‘盗跖、颜渊’为‘糊突’的宾语，前置以加强质疑语气。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "善",
+              "pinyin": "shàn",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "的",
+              "pinyin": "de",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "受",
+              "pinyin": "shòu",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "贫",
+              "pinyin": "pín",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "穷",
+              "pinyin": "qióng",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "更",
+              "pinyin": "gèng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "命",
+              "pinyin": "mìng",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "短",
+              "pinyin": "duǎn",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，zào",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "造",
+              "pinyin": "è",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "恶",
+              "pinyin": "de",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "的",
+              "pinyin": "xiǎng",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "享",
+              "pinyin": "fù",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "富",
+              "pinyin": "guì",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "贵",
+              "pinyin": "yòu",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "又",
+              "pinyin": "shòu",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寿",
+              "pinyin": "yán",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "延",
+              "pinyin": "。",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 59,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "做好事的人贫穷命短，作恶的人反而富贵长寿。",
+          "pinyin": "wéi shàn de shòu pín qióng gèng mìng duǎn ，zào è de xiǎng fù guì yòu shòu yán 。"
+        },
+        {
+          "content": [
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "做",
+              "pinyin": "zuò",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "个",
+              "pinyin": "gè",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "怕",
+              "pinyin": "pà",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "硬",
+              "pinyin": "yìng",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "欺",
+              "pinyin": "qī",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "软",
+              "pinyin": "ruǎn",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，què",
+              "index": 71,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "却",
+              "pinyin": "yuán",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "原",
+              "pinyin": "lái",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "yě",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "zhè",
+              "index": 75,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "这",
+              "pinyin": "bān",
+              "index": 76,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "般",
+              "pinyin": "shùn",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "顺",
+              "pinyin": "shuǐ",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "tuī",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "推",
+              "pinyin": "chuán",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "船",
+              "pinyin": "。",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 82,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "天地啊！竟然也怕强硬欺凌软弱，原来也是这样随波逐流。",
+          "pinyin": "tiān dì yě ！ zuò dé gè pà yìng qī ruǎn ，què yuán lái yě zhè bān shùn shuǐ tuī chuán 。",
+          "notes": [
+            {
+              "start": 7,
+              "end": 11,
+              "content": "怕硬欺软：形容世道不公，畏惧强硬者而欺凌软弱者。"
+            },
+            {
+              "start": 19,
+              "end": 21,
+              "content": "顺水推船：比喻顺势行事，不加抵抗，暗指天地随波逐流，不分善恶。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 84,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，nǐ",
+              "index": 85,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "你",
+              "pinyin": "bù",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "fēn",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "分",
+              "pinyin": "hǎo",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "好",
+              "pinyin": "dǎi",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "歹",
+              "pinyin": "hé",
+              "index": 90,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "wéi",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "dì",
+              "index": 92,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "！",
+              "index": 93,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "index": 94,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "大地啊，你不分好坏算什么地！",
+          "pinyin": "dì yě ，nǐ bù fēn hǎo dǎi hé wéi dì ！",
+          "notes": [
+            {
+              "start": 5,
+              "end": 7,
+              "content": "好歹：好坏，是非。不分好歹即不能辨别善恶。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 3,
+              "end": 11,
+              "content": "‘你不分好歹何为地！’为反问句，‘何为地’即‘为何为地’，属宾语前置结构。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 95,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 96,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，nǐ",
+              "index": 97,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "你",
+              "pinyin": "cuò",
+              "index": 98,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "错",
+              "pinyin": "kān",
+              "index": 99,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "勘",
+              "pinyin": "xián",
+              "index": 100,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "贤",
+              "pinyin": "yú",
+              "index": 101,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "愚",
+              "pinyin": "wǎng",
+              "index": 102,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "枉",
+              "pinyin": "zuò",
+              "index": 103,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "做",
+              "pinyin": "tiān",
+              "index": 104,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "！",
+              "index": 105,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "index": 106,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "上天啊，你错判贤愚枉为上天！",
+          "pinyin": "tiān yě ，nǐ cuò kān xián yú wǎng zuò tiān ！",
+          "notes": [
+            {
+              "start": 5,
+              "end": 8,
+              "content": "错勘贤愚：错误地判断贤人与愚人。勘，判断；贤愚，贤者与愚人。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 3,
+              "end": 11,
+              "content": "‘你错勘贤愚枉做天！’中‘贤愚’为‘错勘’的宾语，前置以突出控诉对象，属宾语前置。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "哎",
+              "pinyin": "āi",
+              "index": 107,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，zhǐ",
+              "index": 108,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "只",
+              "pinyin": "luò",
+              "index": 109,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "落",
+              "pinyin": "de",
+              "index": 110,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "liǎng",
+              "index": 111,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "两",
+              "pinyin": "lèi",
+              "index": 112,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "泪",
+              "pinyin": "lián",
+              "index": 113,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "涟",
+              "pinyin": "lián",
+              "index": 114,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "涟",
+              "pinyin": "。",
+              "index": 115,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 116,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "唉，只剩下泪水不断流淌。",
+          "pinyin": "āi ，zhǐ luò de liǎng lèi lián lián 。",
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "content": "涟涟：叠词，形容泪水不断流淌的样子。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "《窦娥冤》创作于元代，当时社会动荡，吏治腐败，民族压迫严重。关汉卿借东海孝妇窦娥蒙冤被斩的故事，影射现实司法不公与百姓无处申冤的困境。此剧取材于《汉书·于定国传》和民间传说，是元杂剧四大悲剧之一，深刻揭露了封建社会的黑暗面。",
+  "appreciation": "节选部分为窦娥临刑前的悲愤控诉，以强烈的感情直斥天地不公。通过‘为善者’与‘造恶者’的命运对比，揭示社会伦理颠倒的荒谬现实。连用‘天地也！’‘地也！’‘天也！’的呼告句式，层层递进，情感喷薄而出。‘怕硬欺软’‘顺水推船’将抽象批判具象化，赋予天地以人性弱点，极具讽刺力量。最终‘两泪涟涟’归于无力，凸显个体在命运前的渺小与悲怆，是中国古典悲剧精神的集中体现。",
+  "tags": [
+    "必修下册",
+    "古典悲剧",
+    "反抗精神",
+    "冤案题材",
+    "元曲"
+  ]
+}

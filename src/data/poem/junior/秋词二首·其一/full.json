@@ -1,0 +1,318 @@
+{
+  "name": "秋词二首·其一",
+  "author": "刘禹锡",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "古",
+              "pinyin": "gǔ",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逢",
+              "pinyin": "féng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悲",
+              "pinyin": "bēi",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寂",
+              "pinyin": "jì",
+              "index": 5,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "寥",
+              "pinyin": "liáo",
+              "index": 6,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 7,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "自古以来每逢秋天都会感到悲凉寂寥。",
+          "pinyin": "zì gǔ féng qiū bēi jì liáo 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "寂寥：寂静空旷，形容秋日景象冷清，也暗含人心境的落寞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "言",
+              "pinyin": "yán",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "胜",
+              "pinyin": "shèng",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "春",
+              "pinyin": "chūn",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "朝",
+              "pinyin": "cháo",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我认为秋天远胜过春天的早晨。",
+          "pinyin": "wǒ yán qiū rì shèng chūn cháo 。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "晴",
+              "pinyin": "qíng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "空",
+              "pinyin": "kōng",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鹤",
+              "pinyin": "hè",
+              "index": 19,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "排",
+              "pinyin": "pái",
+              "index": 20,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "云",
+              "pinyin": "yún",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "万里晴空中一只白鹤冲破云层向上飞去。",
+          "pinyin": "qíng kōng yī hè pái yún shàng 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "排：冲破、推开，形容白鹤奋力穿云而上的气势，体现奋发向上的精神。"
+            },
+            {
+              "start": 2,
+              "end": 3,
+              "content": "一鹤：一只仙鹤，象征高洁、孤傲与不屈的志向，是诗人自况的意象。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 3,
+              "end": 3,
+              "old": "冲破、推开"
+            },
+            {
+              "start": 3,
+              "end": 3,
+              "new": "排列、排队"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "便",
+              "pinyin": "biàn",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "引",
+              "pinyin": "yǐn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "诗",
+              "pinyin": "shī",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "情",
+              "pinyin": "qíng",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "到",
+              "pinyin": "dào",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "碧",
+              "pinyin": "bì",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "霄",
+              "pinyin": "xiāo",
+              "index": 30,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "这情景立刻把我的诗情带到青天之上。",
+          "pinyin": "biàn yǐn shī qíng dào bì xiāo 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "碧霄：青天，高空。碧，青绿色；霄，云霄，指极高的天空。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于刘禹锡被贬朗州期间（今湖南常德），时值中唐政局动荡，诗人虽遭贬谪，却不随波逐流。面对传统文人悲秋的惯常情绪，他以独特视角讴歌秋天的壮美与生机，表达了乐观进取的人生态度和不屈的精神风貌。",
+  "appreciation": "本诗一反自宋玉《九辩》以来‘悲秋’的传统，以议论开篇，直抒胸臆，提出‘秋日胜春朝’的鲜明观点。后两句借景抒情，以‘晴空一鹤’凌云而上的动态意象，象征诗人虽处逆境却奋发向上的精神境界。‘排’字有力，写出冲破阻碍之势；‘引’字灵动，展现诗情飞扬之态。全诗语言明快，意境开阔，将哲理与诗情融为一体，堪称咏秋诗中的千古绝唱。",
+  "tags": [
+    "七年级上册",
+    "咏物言志",
+    "哲理诗",
+    "刘禹锡"
+  ]
+}

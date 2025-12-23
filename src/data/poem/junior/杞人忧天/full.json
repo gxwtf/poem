@@ -1,0 +1,1659 @@
+{
+  "name": "杞人忧天",
+  "author": "列子",
+  "dynasty": "战国",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "杞",
+              "pinyin": "qǐ",
+              "index": 0,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "忧",
+              "pinyin": "yōu",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "崩",
+              "pinyin": "bēng",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "坠",
+              "pinyin": "zhuì",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亡",
+              "pinyin": "wáng",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寄",
+              "pinyin": "jì",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "废",
+              "pinyin": "fèi",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寝",
+              "pinyin": "qǐn",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "食",
+              "pinyin": "shí",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 19,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "杞国有个人担心天会塌下来，地会陷下去，自己没有地方依托，因而睡不着觉，吃不下饭。",
+          "pinyin": "qǐ guó yǒu rén yōu tiān dì bēng zhuì ， shēn wáng suǒ jì ， fèi qǐn shí zhě 。",
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "content": "崩坠：塌陷，崩指山体崩裂，坠指星月坠落，此处泛指天地毁灭。"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "content": "亡所寄：没有寄托身体的地方。亡，通‘无’；所寄，即‘所’字结构，表示处所。"
+            },
+            {
+              "start": 15,
+              "end": 19,
+              "content": "废寝食者：停止睡觉和吃饭的人。废，停止；寝食，指休息与饮食；者，指代这类人。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 12,
+              "end": 12,
+              "old": "没有"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "new": "死亡"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "又",
+              "pinyin": "yòu",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "忧",
+              "pinyin": "yōu",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "彼",
+              "pinyin": "bǐ",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "忧",
+              "pinyin": "yōu",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "因",
+              "pinyin": "yīn",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "往",
+              "pinyin": "wǎng",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "晓",
+              "pinyin": "xiǎo",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "积",
+              "pinyin": "jī",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "耳",
+              "pinyin": "ěr",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亡",
+              "pinyin": "wáng",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亡",
+              "pinyin": "wáng",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "屈",
+              "pinyin": "qū",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "伸",
+              "pinyin": "shēn",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "呼",
+              "pinyin": "hū",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吸",
+              "pinyin": "xī",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "终",
+              "pinyin": "zhōng",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "止",
+              "pinyin": "zhǐ",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奈",
+              "pinyin": "nài",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "忧",
+              "pinyin": "yōu",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "崩",
+              "pinyin": "bēng",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "坠",
+              "pinyin": "zhuì",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "pinyin": "’",
+              "index": 69,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "又有一个担心他所担心的事情的人，就前去开导他，说：‘天是聚集的气体罢了，到处都没有不是气体的地方。你一屈一伸，一呼一吸，整天都在天空中活动，为什么还担心它会塌下来呢？’",
+          "pinyin": "yòu yǒu yōu bǐ zhī suǒ yōu zhě ， yīn wǎng xiǎo zhī ， yuē ： ‘ tiān ， jī qì ěr ， wáng chù wáng qì 。 ruò qū shēn hū xī ， zhōng rì zài tiān zhōng xíng zhǐ ， nài hé yōu bēng zhuì hū ？ ’",
+          "notes": [
+            {
+              "start": 9,
+              "end": 13,
+              "content": "因往晓之：于是前去开导他。因，于是；往，去；晓，开导，非‘知晓’。"
+            },
+            {
+              "start": 19,
+              "end": 22,
+              "content": "积气耳：不过是聚集的气体罢了。积气，指气体凝聚而成的天空；耳，语气词，相当于‘而已’。"
+            },
+            {
+              "start": 23,
+              "end": 27,
+              "content": "亡处亡气：没有一处没有气。双重否定强调气遍布天地，体现古代气化宇宙观。"
+            },
+            {
+              "start": 28,
+              "end": 28,
+              "content": "若：你，第二人称代词，不可误解为‘如果’。"
+            },
+            {
+              "start": 34,
+              "end": 41,
+              "content": "行止：行动与停留，泛指日常活动。行，行走；止，静止。"
+            },
+            {
+              "start": 42,
+              "end": 48,
+              "content": "奈何忧崩坠乎：为什么担心它会塌陷呢？奈何，对……怎么办；乎，疑问语气词。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 12,
+              "end": 12,
+              "old": "开导"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "new": "知道、明白"
+            },
+            {
+              "start": 28,
+              "end": 28,
+              "old": "你"
+            },
+            {
+              "start": 28,
+              "end": 28,
+              "new": "如果"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 23,
+              "end": 27,
+              "content": "双重否定句，‘亡处亡气’即‘没有一处没有气’，加强肯定语气。"
+            },
+            {
+              "start": 42,
+              "end": 48,
+              "content": "‘奈何……乎’为固定疑问句式，相当于‘为什么……呢’。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 71,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 75,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "果",
+              "pinyin": "guǒ",
+              "index": 76,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "积",
+              "pinyin": "jī",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "星",
+              "pinyin": "xīng",
+              "index": 82,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宿",
+              "pinyin": "xiù",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 84,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 85,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "当",
+              "pinyin": "dāng",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "坠",
+              "pinyin": "zhuì",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "耶",
+              "pinyin": "yé",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "pinyin": "’",
+              "index": 90,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "那人说：‘天如果是聚集的气体，那日月星辰不就会掉下来吗？’",
+          "pinyin": "qí rén yuē ： ‘ tiān guǒ jī qì ， rì yuè xīng xiù ， bù dāng zhuì yé ？ ’",
+          "notes": [
+            {
+              "start": 7,
+              "end": 7,
+              "content": "果：果真，表示假设成立，非‘水果’义。"
+            },
+            {
+              "start": 16,
+              "end": 19,
+              "content": "不当坠耶：难道不该坠落吗？当，应当；耶，疑问语气词，表反问。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 7,
+              "end": 7,
+              "old": "果真"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "new": "水果"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "晓",
+              "pinyin": "xiǎo",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 92,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 93,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 94,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 95,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 96,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 97,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 98,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "星",
+              "pinyin": "xīng",
+              "index": 99,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宿",
+              "pinyin": "xiù",
+              "index": 100,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 101,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì",
+              "index": 102,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "积",
+              "pinyin": "jī",
+              "index": 103,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 104,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 105,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 106,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 107,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "光",
+              "pinyin": "guāng",
+              "index": 108,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "耀",
+              "pinyin": "yào",
+              "index": 109,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 110,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 111,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "只",
+              "pinyin": "zhǐ",
+              "index": 112,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 113,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "坠",
+              "pinyin": "zhuì",
+              "index": 114,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 115,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì",
+              "index": 116,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 117,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "能",
+              "pinyin": "néng",
+              "index": 118,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 119,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ",
+              "index": 120,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhòng",
+              "index": 121,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "伤",
+              "pinyin": "shāng",
+              "index": 122,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 123,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "pinyin": "’",
+              "index": 124,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "开导他的人说：‘日月星辰，也只是聚集的气体中有光亮的部分，即使掉下来，也不会造成什么伤害。’",
+          "pinyin": "xiǎo zhī zhě yuē ： ‘ rì yuè xīng xiù ， yì jī qì zhōng zhī yǒu guāng yào zhě ， zhǐ shǐ zhuì ， yì bù néng yǒu suǒ zhòng shāng 。 ’",
+          "notes": [
+            {
+              "start": 11,
+              "end": 20,
+              "content": "亦积气中之有光耀者：也是聚集的气体中发光的部分。‘之’为定语后置标志，‘有光耀者’作后置定语。"
+            },
+            {
+              "start": 21,
+              "end": 24,
+              "content": "只使：即使，表让步假设，不可拆解为‘只是让’。"
+            },
+            {
+              "start": 25,
+              "end": 32,
+              "content": "不能有所中伤：无法造成任何击中伤害。中伤，古义为‘击中并伤害’，非现代‘诽谤’义。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 30,
+              "end": 31,
+              "old": "击中并伤害"
+            },
+            {
+              "start": 30,
+              "end": 31,
+              "new": "诽谤"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 11,
+              "end": 20,
+              "content": "定语后置句，‘之有光耀者’为‘有光耀的（星体）’，‘之’为标志。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 125,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 126,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 127,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 128,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 129,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奈",
+              "pinyin": "nài",
+              "index": 130,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 131,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "坏",
+              "pinyin": "huài",
+              "index": 132,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 133,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 134,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "pinyin": "’",
+              "index": 135,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "那人又问：‘那如果大地塌陷了怎么办？’",
+          "pinyin": "qí rén yuē ： ‘ nài dì huài hé ？ ’",
+          "notes": [
+            {
+              "start": 5,
+              "end": 9,
+              "content": "奈地坏何：对大地毁坏怎么办？‘奈……何’为固定结构，表示应对某事的忧虑。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 5,
+              "end": 9,
+              "content": "‘奈……何’为固定结构，表示‘对……怎么办’，属宾语前置类固定表达。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "晓",
+              "pinyin": "xiǎo",
+              "index": 136,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 137,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 138,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 139,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 140,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 141,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 142,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "积",
+              "pinyin": "jī",
+              "index": 143,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "块",
+              "pinyin": "kuài",
+              "index": 144,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "耳",
+              "pinyin": "ěr",
+              "index": 145,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 146,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "充",
+              "pinyin": "chōng",
+              "index": 147,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "塞",
+              "pinyin": "sāi",
+              "index": 148,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "四",
+              "pinyin": "sì",
+              "index": 149,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "虚",
+              "pinyin": "xū",
+              "index": 150,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 151,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亡",
+              "pinyin": "wáng",
+              "index": 152,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 153,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亡",
+              "pinyin": "wáng",
+              "index": 154,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "块",
+              "pinyin": "kuài",
+              "index": 155,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 156,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 157,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "躇",
+              "pinyin": "chú",
+              "index": 158,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "步",
+              "pinyin": "bù",
+              "index": 159,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "跐",
+              "pinyin": "cǐ",
+              "index": 160,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "蹈",
+              "pinyin": "dǎo",
+              "index": 161,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 162,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "终",
+              "pinyin": "zhōng",
+              "index": 163,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 164,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 165,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 166,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 167,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 168,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "止",
+              "pinyin": "zhǐ",
+              "index": 169,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 170,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奈",
+              "pinyin": "nài",
+              "index": 171,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 172,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "忧",
+              "pinyin": "yōu",
+              "index": 173,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 174,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "坏",
+              "pinyin": "huài",
+              "index": 175,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 176,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "pinyin": "’",
+              "index": 177,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "开导他的人说：‘大地是堆积的土块罢了，填满了四方空间，到处都有土块。你踏步行走，整天在地上活动，为什么还要担心它会塌陷呢？’",
+          "pinyin": "xiǎo zhě yuē ： ‘ dì ， jī kuài ěr ， chōng sāi sì xū ， wáng chù wáng kuài 。 ruò chú bù cǐ dǎo ， zhōng rì zài dì shàng xíng zhǐ ， nài hé yōu qí huài ？ ’",
+          "notes": [
+            {
+              "start": 7,
+              "end": 10,
+              "content": "积块耳：不过是堆积的土块罢了。块，土块；耳，语气词。"
+            },
+            {
+              "start": 22,
+              "end": 26,
+              "content": "躇步跐蹈：四个同义行走动词并列，形容日常行走动作。躇、步、跐、蹈皆为脚步动作。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 178,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 179,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "舍",
+              "pinyin": "shě",
+              "index": 180,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "然",
+              "pinyin": "rán",
+              "index": 181,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "大",
+              "pinyin": "dà",
+              "index": 182,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "喜",
+              "pinyin": "xǐ",
+              "index": 183,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 184,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "晓",
+              "pinyin": "xiǎo",
+              "index": 185,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 186,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 187,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì",
+              "index": 188,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "舍",
+              "pinyin": "shě",
+              "index": 189,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "然",
+              "pinyin": "rán",
+              "index": 190,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "大",
+              "pinyin": "dà",
+              "index": 191,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "喜",
+              "pinyin": "xǐ",
+              "index": 192,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 193,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "那人放下心来，非常高兴，开导他的人也放下了心，同样高兴。",
+          "pinyin": "qí rén shě rán dà xǐ ， xiǎo zhī zhě yì shě rán dà xǐ 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 6,
+              "content": "舍然大喜：疑虑消除后非常高兴。舍，通‘释’；然，形容词后缀；舍然，即释然。"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "content": "舍然大喜：同上，指开导者也放下心来。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 3,
+              "end": 3,
+              "old": "通‘释’，消除"
+            },
+            {
+              "start": 3,
+              "end": 3,
+              "new": "舍弃"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "old": "通‘释’，消除"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "new": "舍弃"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "《杞人忧天》出自《列子·天瑞》，是战国时期道家代表人物列子所著的一则寓言。故事通过杞人担忧天塌地陷的荒诞情节，讽刺了那些无端忧虑、过度思虑的人。其创作背景反映了战国时期社会动荡、人心不安的时代心理，同时也体现了道家‘顺其自然’‘无为而治’的思想主张。",
+  "appreciation": "本文以简洁生动的语言讲述了一个极具讽刺意味的寓言故事。‘杞人’的形象象征着人类对未知灾难的非理性恐惧，而‘晓者’的解释则体现了古人对天地构成的朴素认知。全文层层递进，对话紧凑，逻辑清晰，最后以‘舍然大喜’收尾，形成强烈的情绪对比。文章不仅具有哲学思辨色彩，也揭示了心理负担源于过度想象的道理，对现代人缓解焦虑仍有启示意义。",
+  "tags": [
+    "七年级上册",
+    "寓言",
+    "哲理",
+    "文言文"
+  ]
+}

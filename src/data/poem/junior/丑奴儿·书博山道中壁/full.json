@@ -1,0 +1,524 @@
+{
+  "name": "丑奴儿·书博山道中壁",
+  "author": "辛弃疾",
+  "dynasty": "宋代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "少",
+              "pinyin": "shào",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "年",
+              "pinyin": "nián",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "识",
+              "pinyin": "shí",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "滋",
+              "pinyin": "zī",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "味",
+              "pinyin": "wèi",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "爱",
+              "pinyin": "ài",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "层",
+              "pinyin": "céng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楼",
+              "pinyin": "lóu",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 12,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "年轻时不懂什么是忧愁的滋味，喜欢登上高楼。",
+          "pinyin": "shào nián bù shí chóu zī wèi ， ài shàng céng lóu 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "识：体会、理解，此处指真正领悟，不同于现代‘认识’的表面含义。"
+            },
+            {
+              "start": 8,
+              "end": 12,
+              "content": "爱上层楼：本义为喜欢登高远眺，暗含少年无愁而刻意寻愁的心理状态。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 3,
+              "end": 3,
+              "old": "体会、感知"
+            },
+            {
+              "start": 3,
+              "end": 3,
+              "new": "知道、认识"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "爱",
+              "pinyin": "ài",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "层",
+              "pinyin": "céng",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楼",
+              "pinyin": "lóu",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wèi",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "赋",
+              "pinyin": "fù",
+              "index": 19,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "新",
+              "pinyin": "xīn",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "词",
+              "pinyin": "cí",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "强",
+              "pinyin": "qiǎng",
+              "index": 22,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "说",
+              "pinyin": "shuō",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 24,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 25,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "喜欢登上高楼，为了写词勉强地诉说忧愁。",
+          "pinyin": "ài shàng céng lóu ， wèi fù xīn cí qiǎng shuō chóu 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 4,
+              "content": "爱上层楼：此处重复出现，语义转变，成为‘为赋新词’的借口，表达强加愁绪。"
+            },
+            {
+              "start": 6,
+              "end": 6,
+              "content": "赋：创作诗词，特指填写词作，体现文人表达方式。"
+            },
+            {
+              "start": 9,
+              "end": 9,
+              "content": "强：读作 qiǎng，意为勉强，反映少年故作深沉的心理。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 9,
+              "end": 9,
+              "old": "勉强"
+            },
+            {
+              "start": 9,
+              "end": 9,
+              "new": "强大、强有力"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 5,
+              "end": 12,
+              "content": "因果倒装：本应先有愁才说愁，此处先写‘赋词说愁’，再点明‘不识愁’，形成逻辑反转。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "今",
+              "pinyin": "jīn",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "识",
+              "pinyin": "shí",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "尽",
+              "pinyin": "jìn",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "滋",
+              "pinyin": "zī",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "味",
+              "pinyin": "wèi",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "说",
+              "pinyin": "shuō",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "还",
+              "pinyin": "huán",
+              "index": 36,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "休",
+              "pinyin": "xiū",
+              "index": 37,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 38,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "现在尝尽了忧愁的滋味，想说却又罢了。",
+          "pinyin": "ér jīn shí jìn chóu zī wèi ， yù shuō huán xiū 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "识尽：彻底体验过，强调经历之深，与‘不识’形成强烈对比。"
+            },
+            {
+              "start": 9,
+              "end": 12,
+              "content": "欲说还休：想说却又止住，表现中年愁绪深重却无法言说的压抑心理。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 11,
+              "end": 11,
+              "old": "停止、作罢"
+            },
+            {
+              "start": 11,
+              "end": 11,
+              "new": "休息"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 9,
+              "end": 12,
+              "content": "宾语省略与反复：‘欲说（愁）还休’省略宾语，且重复使用，强化情感压抑。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "欲",
+              "pinyin": "yù",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "说",
+              "pinyin": "shuō",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "还",
+              "pinyin": "huán",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "休",
+              "pinyin": "xiū",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "却",
+              "pinyin": "què",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "道",
+              "pinyin": "dào",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "凉",
+              "pinyin": "liáng",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "好",
+              "pinyin": "hǎo",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "个",
+              "pinyin": "gè",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 51,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "想说却又罢了，却说天气真凉爽啊，好一个秋天！",
+          "pinyin": "yù shuō huán xiū ， què dào tiān liáng hǎo gè qiū ！",
+          "notes": [
+            {
+              "start": 5,
+              "end": 12,
+              "content": "却道天凉好个秋：表面说天气，实则以轻松语气回避沉重话题，反衬内心悲凉。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 4,
+              "content": "反复修辞：重复‘欲说还休’，增强语言节奏与情感张力，体现难以启齿的复杂心境。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此词作于辛弃疾中年闲居江西带湖时期（约1181—1192年间）。当时他因主战被贬，长期赋闲，壮志难酬，内心郁积深沉忧愤。博山在今江西广丰，其道中壁即旅途中所见墙壁，词人借此抒怀，以‘愁’字贯穿今昔对比，表达人生阅历积累后的无言悲凉。",
+  "appreciation": "全词以‘愁’为核心，通过少年与中年对‘愁’的截然不同体验，展现人生境界的深刻转变。上阕写少年时代涉世未深，为文造情，故作忧愁；两个‘爱上层楼’叠用，既显轻狂，又暗伏今昔对照。下阕转折至‘而今’，‘识尽’二字道尽沧桑，千言万语竟至‘欲说还休’，情感压抑至极点。结尾忽转平淡话语‘天凉好个秋’，看似闲笔，实为极沉痛之语，以淡语反衬浓愁，达到‘此时无声胜有声’的艺术效果。整首词语言浅白而意蕴深远，结构精巧，是宋词中以俗为雅的典范之作。",
+  "tags": [
+    "九年级上册",
+    "人生感悟",
+    "宋词"
+  ]
+}

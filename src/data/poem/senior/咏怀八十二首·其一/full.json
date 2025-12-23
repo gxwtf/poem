@@ -1,0 +1,461 @@
+{
+  "name": "咏怀八十二首·其一",
+  "author": "阮籍",
+  "dynasty": "魏晋",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "能",
+              "pinyin": "néng",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寐",
+              "pinyin": "mèi",
+              "index": 4,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "坐",
+              "pinyin": "zuò",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "弹",
+              "pinyin": "tán",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸣",
+              "pinyin": "míng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "琴",
+              "pinyin": "qín",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "深夜无法入睡，起身坐着弹奏琴弦。",
+          "pinyin": "yè zhōng bù néng mèi ， qǐ zuò tán míng qín 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 4,
+              "content": "寐：入睡，睡眠。‘不能寐’即无法入眠，表现内心烦忧。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "薄",
+              "pinyin": "báo",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "帷",
+              "pinyin": "wéi",
+              "index": 13,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "鉴",
+              "pinyin": "jiàn",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 15,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "清",
+              "pinyin": "qīng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吹",
+              "pinyin": "chuī",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "襟",
+              "pinyin": "jīn",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "薄薄的帐幔映照着明月，清风吹拂着我的衣襟。",
+          "pinyin": "báo wéi jiàn míng yuè ， qīng fēng chuī wǒ jīn 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "鉴：原义为镜子，此处活用为动词，意为‘照’，指月光透过薄帷照进来。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 3,
+              "end": 3,
+              "old": "照（动词）"
+            },
+            {
+              "start": 3,
+              "end": 3,
+              "new": "镜子或借鉴（名词/抽象义）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "孤",
+              "pinyin": "gū",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸿",
+              "pinyin": "hóng",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "号",
+              "pinyin": "hào",
+              "index": 26,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "外",
+              "pinyin": "wài",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "野",
+              "pinyin": "yě",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "翔",
+              "pinyin": "xiáng",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸟",
+              "pinyin": "niǎo",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸣",
+              "pinyin": "míng",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "北",
+              "pinyin": "běi",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "林",
+              "pinyin": "lín",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "孤独的大雁在野外哀鸣，盘旋的鸟儿在北林啼叫。",
+          "pinyin": "gū hóng hào wài yě ， xiáng niǎo míng běi lín 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "号：háo，哀鸣、呼号，形容孤鸿在野外悲鸣，渲染凄凉气氛。"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "content": "翔鸟：本指飞翔之鸟，此处实指盘旋徘徊之鸟，象征内心不安与无依。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "徘",
+              "pinyin": "pái",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "徊",
+              "pinyin": "huái",
+              "index": 37,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "将",
+              "pinyin": "jiāng",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 41,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "徘徊不定又能看见什么呢？",
+          "pinyin": "pái huái jiāng hé jiàn ？",
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "content": "徘徊：来回走动，既写动作，更写心境，表达孤独迷茫、无所适从的情感。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 3,
+              "end": 5,
+              "content": "‘将何见’为宾语前置句，正常语序应为‘将见何’，即‘还能看见什么呢？’"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "忧",
+              "pinyin": "yōu",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "思",
+              "pinyin": "sī",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "独",
+              "pinyin": "dú",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "伤",
+              "pinyin": "shāng",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "满腹忧愁，唯有独自悲伤。",
+          "pinyin": "yōu sī dú shāng xīn 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "独：独自，强调孤独感，突出诗人内心的寂寞与忧伤。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "阮籍生活在魏晋易代之际，司马氏专权，政治黑暗，名士少有全者。他虽居官位，却常以醉酒避世，内心充满压抑与恐惧。《咏怀八十二首》是其抒发政治忧愤、人生苦闷的代表作。此首写深夜不寐、弹琴遣怀，借孤鸿、翔鸟等意象，反映其孤独无依、忧思难解的精神状态。",
+  "appreciation": "本诗以简练笔法勾勒出一个孤独者深夜徘徊的形象。‘夜中不能寐’直抒胸臆，奠定全诗忧郁基调。‘起坐弹鸣琴’化用《诗经》‘妻子好合，如鼓瑟琴’之意，反衬孤独。明月、清风本为美景，却因‘薄帷’‘孤鸿’‘北林’而染上凄清色彩。末两句一问一答，将外在景象收束于内心悲怆，‘独’字点睛，凸显诗人与时代隔绝的深沉悲哀。全诗无一典故，纯以意境取胜，开五言古诗抒情新境。",
+  "tags": [
+    "必修下册",
+    "咏怀诗",
+    "魏晋风骨",
+    "五言古诗"
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "name": "江南逢李龟年",
+  "author": "杜甫",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "岐",
+              "pinyin": "qí",
+              "index": 0,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宅",
+              "pinyin": "zhái",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寻",
+              "pinyin": "xún",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "崔",
+              "pinyin": "cuī",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "九",
+              "pinyin": "jiǔ",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "堂",
+              "pinyin": "táng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "前",
+              "pinyin": "qián",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "几",
+              "pinyin": "jǐ",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "度",
+              "pinyin": "dù",
+              "index": 13,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "在岐王的宅邸里经常见到你，在崔九的厅堂前多次听过你的歌声。",
+          "pinyin": "qí wáng zhái lǐ xún cháng jiàn ， cuī jiǔ táng qián jǐ dù wén 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "岐王：唐玄宗弟李范，封岐王，喜好文艺，常招集文士乐工。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "content": "寻常：古义为‘经常’，此处指多次相见，非现代‘普通’之意。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "content": "几度：多次，表示在崔九堂前听过李龟年演唱的次数之多。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 5,
+              "end": 6,
+              "old": "经常"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "new": "普通、平常"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "正",
+              "pinyin": "zhèng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "南",
+              "pinyin": "nán",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "好",
+              "pinyin": "hǎo",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "景",
+              "pinyin": "jǐng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "落",
+              "pinyin": "luò",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "花",
+              "pinyin": "huā",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "节",
+              "pinyin": "jié",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "又",
+              "pinyin": "yòu",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逢",
+              "pinyin": "féng",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn",
+              "index": 30,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "现在正是江南风光最美的时候，在落花的季节又与你重逢。",
+          "pinyin": "zhèng shì jiāng nán hǎo fēng jǐng ， luò huā shí jié yòu féng jūn 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "江南：长江以南地区，特指今江苏、浙江一带，唐代文化繁荣之地。"
+            },
+            {
+              "start": 8,
+              "end": 11,
+              "content": "落花时节：暮春时节，花瓣飘落之时，既写实景，又暗喻人生迟暮、世事凋零。"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "content": "又逢君：再次遇见你，饱含乱离之后重逢的惊喜与感伤。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 8,
+              "end": 15,
+              "content": "‘落花时节又逢君’中，‘落花时节’作时间状语前置，突出环境与情感背景，具有状语前置的修辞特征。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于唐代宗大历五年（770年），杜甫流落潭州（今湖南长沙）时。安史之乱后，唐王朝由盛转衰，李龟年也流落江南卖艺为生。杜甫在江南偶遇这位昔日宫廷乐师，感慨万千，遂作此诗。诗中‘岐王’‘崔九’为玄宗时期权贵，曾广纳文艺人才，李龟年为其座上宾。",
+  "appreciation": "全诗以乐景写哀情。前两句追忆开元盛世，岐王、崔九代表盛唐文化繁荣，‘寻常’‘几度’写出交往之密。后两句突转现实，‘好风景’与‘落花时’形成反衬，美景反衬人事凋零。‘又逢君’三字饱含无限沧桑：昔日宫廷乐师与诗圣，今成漂泊江南的难民。四句皆对仗，却自然如口语，于平淡中见深沉，被誉为‘江南逢李龟年’为杜甫绝句压卷之作。",
+  "tags": [
+    "七年级下册",
+    "重逢",
+    "感伤",
+    "盛唐衰落"
+  ]
+}

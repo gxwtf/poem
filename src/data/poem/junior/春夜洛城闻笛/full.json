@@ -1,0 +1,300 @@
+{
+  "name": "春夜洛城闻笛",
+  "author": "李白",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "谁",
+              "pinyin": "shuí",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "玉",
+              "pinyin": "yù",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "笛",
+              "pinyin": "dí",
+              "index": 3,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "暗",
+              "pinyin": "àn",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "飞",
+              "pinyin": "fēi",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "声",
+              "pinyin": "shēng",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "散",
+              "pinyin": "sàn",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "入",
+              "pinyin": "rù",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "春",
+              "pinyin": "chūn",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "满",
+              "pinyin": "mǎn",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "洛",
+              "pinyin": "luò",
+              "index": 13,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "不知谁家的玉笛悄悄传来笛声，随风飘散在春风里，响彻整个洛阳城。",
+          "pinyin": "shuí jiā yù dí àn fēi shēng ， sàn rù chūn fēng mǎn luò chéng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "玉笛：指精美的笛子，‘玉’为美称，并非实由玉石制成。"
+            },
+            {
+              "start": 4,
+              "end": 6,
+              "content": "暗飞声：笛声悄然传来，‘暗’形容声音不经意间入耳，渲染幽静氛围。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "散入：随风飘散而进入，描绘声音的弥漫感。"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "content": "满洛城：遍布整个洛阳城，夸张手法，突出笛声传播之广。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曲",
+              "pinyin": "qū",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "折",
+              "pinyin": "zhé",
+              "index": 21,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "柳",
+              "pinyin": "liǔ",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "故",
+              "pinyin": "gù",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "园",
+              "pinyin": "yuán",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "情",
+              "pinyin": "qíng",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "在这个夜晚，听到乐曲中吹奏着《折杨柳》，谁不会涌起思念故乡的感情呢？",
+          "pinyin": "cǐ yè qū zhōng wén zhé liǔ ， hé rén bù qǐ gù yuán qíng 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "折柳：古代送别时折取柳枝相赠，‘柳’与‘留’谐音，象征挽留与离愁，此处指乐曲《折杨柳》。"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "content": "故园情：对故乡的思念之情，‘故园’即家乡，情感核心所在。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 8,
+              "end": 15,
+              "content": "‘何人不起故园情’为反问句式，实际含义为‘所有人都会生起思乡之情’，通过否定疑问加强肯定语气，增强感染力。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "约作于唐玄宗开元二十三年（735年），李白客居洛阳时。当时他远离家乡蜀地，漫游中原。一个春夜，城中传来悠扬的笛声，吹奏的是《折杨柳》这类表达离愁别绪的曲调，触发了诗人强烈的思乡之情。",
+  "appreciation": "全诗紧扣‘闻笛’展开，以听觉为切入点。首句‘暗飞声’写出笛声不经意间飘入耳中，神秘而动人；‘散入春风满洛城’则用通感手法，将无形的笛声化为可触的春风，弥漫全城，渲染出浓郁的春夜氛围。第三句点明曲名《折柳》，暗含惜别怀远之意；结句以反问收束，把个人情感升华为普世共鸣，使乡愁具有广泛感染力。语言清新自然，意境深远，是唐代七绝中的名篇。",
+  "tags": [
+    "七年级下册",
+    "思乡",
+    "七言绝句"
+  ]
+}

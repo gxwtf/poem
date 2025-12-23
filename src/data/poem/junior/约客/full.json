@@ -1,0 +1,294 @@
+{
+  "name": "约客",
+  "author": "赵师秀",
+  "dynasty": "宋代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "黄",
+              "pinyin": "huáng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "梅",
+              "pinyin": "méi",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "节",
+              "pinyin": "jié",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "雨",
+              "pinyin": "yǔ",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 7,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "梅雨时节，每家每户都笼罩在绵绵细雨之中。",
+          "pinyin": "huáng méi shí jié jiā jiā yǔ 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
+              "content": "黄梅时节：指江南夏初梅子成熟时的梅雨季节，约在农历五月，阴雨连绵。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "青",
+              "pinyin": "qīng",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "草",
+              "pinyin": "cǎo",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "池",
+              "pinyin": "chí",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "塘",
+              "pinyin": "táng",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "蛙",
+              "pinyin": "wā",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "长满青草的池塘里，到处都是青蛙的鸣叫声。",
+          "pinyin": "qīng cǎo chí táng chù chù wā 。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "约",
+              "pinyin": "yuē",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "过",
+              "pinyin": "guò",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "半",
+              "pinyin": "bàn",
+              "index": 22,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "约好的客人过了半夜还没来。",
+          "pinyin": "yǒu yuē bù lái guò yè bàn 。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "闲",
+              "pinyin": "xián",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "敲",
+              "pinyin": "qiāo",
+              "index": 25,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "棋",
+              "pinyin": "qí",
+              "index": 26,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "落",
+              "pinyin": "luò",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "灯",
+              "pinyin": "dēng",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "花",
+              "pinyin": "huā",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我无聊地敲着棋子，震落了灯芯结出的灯花。",
+          "pinyin": "xián qiāo qí zǐ luò dēng huā 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "灯花：灯芯燃烧后形成的花状灰烬，古人认为是喜事征兆，此处反衬长夜独候的寂寥。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "《约客》是南宋诗人赵师秀创作于江南地区的一首七言绝句。当时诗人居住在永嘉（今浙江温州），江南梅雨季节气候潮湿，蛙声四起。诗人约友人下棋，但友人久候不至，于是写下此诗记录当时的环境与心境。此诗反映了宋代文人闲适生活中的细微情感波动。",
+  "appreciation": "全诗以白描手法勾勒出江南夏夜的典型图景：梅雨、青草、池塘、蛙鸣，营造出静谧而略带烦闷的氛围。'有约不来过夜半'直述等待之久，'闲敲棋子'这一细节动作传神地表现出诗人内心的孤寂与淡淡的焦躁。'落灯花'既写实又富有诗意，灯花掉落象征时间流逝与希望渐灭。全诗语言简练，意境深远，于平淡中见匠心，是宋人绝句中情景交融的典范之作。",
+  "tags": [
+    "七年级下册",
+    "写景抒情",
+    "闲适诗",
+    "宋诗"
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "name": "望洞庭湖赠张丞相",
+  "author": "孟浩然",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "八",
+              "pinyin": "bā",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "湖",
+              "pinyin": "hú",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "平",
+              "pinyin": "píng",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "涵",
+              "pinyin": "hán",
+              "index": 6,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "虚",
+              "pinyin": "xū",
+              "index": 7,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "混",
+              "pinyin": "hùn",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "太",
+              "pinyin": "tài",
+              "index": 9,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "清",
+              "pinyin": "qīng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "八月洞庭湖水涨满，与岸齐平，水天相接，融为一体。",
+          "pinyin": "bā yuè hú shuǐ píng ， hán xū hùn tài qīng 。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 7,
+              "content": "涵虚：包容天空。涵，包含；虚，指天空，古称太空为‘太虚’。"
+            },
+            {
+              "start": 9,
+              "end": 10,
+              "content": "太清：指天空。道教术语，三清之一，此处与‘虚’同义，形容水天一色。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "蒸",
+              "pinyin": "zhēng",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "云",
+              "pinyin": "yún",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "梦",
+              "pinyin": "mèng",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "泽",
+              "pinyin": "zé",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "波",
+              "pinyin": "bō",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "撼",
+              "pinyin": "hàn",
+              "index": 19,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "岳",
+              "pinyin": "yuè",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阳",
+              "pinyin": "yáng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "水气蒸腾笼罩着云梦泽，波涛汹涌似乎要摇动岳阳城。",
+          "pinyin": "qì zhēng yún mèng zé ， bō hàn yuè yáng chéng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 4,
+              "content": "云梦泽：古代大湖名，跨长江南北，后逐渐淤积成陆地，泛指云梦地区。"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "content": "撼：摇动。极言洞庭湖波涛汹涌，气势宏大，非‘感动’之意。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "欲",
+              "pinyin": "yù",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "济",
+              "pinyin": "jì",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "舟",
+              "pinyin": "zhōu",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楫",
+              "pinyin": "jí",
+              "index": 28,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "端",
+              "pinyin": "duān",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "居",
+              "pinyin": "jū",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "耻",
+              "pinyin": "chǐ",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "圣",
+              "pinyin": "shèng",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "想渡湖却没有船只和桨，闲居无为在圣明时代深感羞愧。",
+          "pinyin": "yù jì wú zhōu jí ， duān jū chǐ shèng míng 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 1,
+              "content": "济：渡河，引申为在政治上施展才能。双关语，暗指希望被引荐出仕。"
+            },
+            {
+              "start": 3,
+              "end": 4,
+              "content": "舟楫：船和桨，比喻引荐之人。‘无舟楫’即无人引荐，无法施展抱负。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "端居：闲居，无所作为。含有自责意味，与‘耻’呼应，表达不安。"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "content": "耻：意动用法，以……为耻。指在圣明时代自己却无所作为，深感羞愧。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 5,
+              "content": "省略句，‘欲济’后省略‘而’，完整为‘欲济而无舟楫’，表转折关系。"
+            },
+            {
+              "start": 6,
+              "end": 11,
+              "content": "意动用法，‘耻圣明’即‘以处于圣明之世而无所作为为耻’。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "坐",
+              "pinyin": "zuò",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "观",
+              "pinyin": "guān",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "垂",
+              "pinyin": "chuí",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "钓",
+              "pinyin": "diào",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "徒",
+              "pinyin": "tú",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "羡",
+              "pinyin": "xiàn",
+              "index": 44,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "鱼",
+              "pinyin": "yú",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "情",
+              "pinyin": "qíng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "坐着观看别人钓鱼，只能白白地产生羡慕之情。",
+          "pinyin": "zuò guān chuí diào zhě ， tú yǒu xiàn yú qíng 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 0,
+              "content": "坐：徒然，空自。并非‘坐着’，而是表示无奈地旁观。"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "content": "羡鱼情：典出《淮南子·说林训》‘临河羡鱼，不如退而结网’，比喻空有愿望而无实际行动。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于唐玄宗开元二十一年（733年）左右，孟浩然西游长安，希望得到时任宰相张九龄的引荐而入仕。当时张九龄任中书侍郎同平章事（即丞相），孟浩然借游览洞庭湖之机，写下这首干谒诗，通过描绘洞庭湖的壮阔景象，引出自己渴望出仕却无人援引的苦闷，委婉表达希望得到举荐的愿望。",
+  "appreciation": "全诗前四句写景，气象宏大。‘气蒸云梦泽，波撼岳阳城’一联以动词‘蒸’‘撼’极写湖水之浩瀚与力量，堪称千古绝唱。后四句转为抒情，巧妙运用‘临渊羡鱼，不如退而结网’的典故，含蓄表达自己欲仕无门的困境与对张丞相的期待。全诗写景与抒情结合自然，干谒而不卑不亢，既展现才华，又保持士人风骨，是唐代干谒诗中的上乘之作。",
+  "tags": [
+    "八年级上册",
+    "干谒诗",
+    "写景抒情",
+    "五言律诗"
+  ]
+}

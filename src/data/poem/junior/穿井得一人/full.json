@@ -1,0 +1,987 @@
+{
+  "name": "穿井得一人",
+  "author": "吕不韦及其门客",
+  "dynasty": "先秦",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "宋",
+              "pinyin": "sòng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "丁",
+              "pinyin": "dīng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "氏",
+              "pinyin": "shì",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "井",
+              "pinyin": "jǐng",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "出",
+              "pinyin": "chū",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "溉",
+              "pinyin": "gài",
+              "index": 10,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "汲",
+              "pinyin": "jí",
+              "index": 11,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "居",
+              "pinyin": "jū",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "外",
+              "pinyin": "wài",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 18,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "宋国有一户姓丁的人家，家里没有水井，需要出门去打水浇灌，常常有一个人要住在外面。",
+          "pinyin": "sòng zhī dīng shì ， jiā wú jǐng ér chū gài jí ， cháng yī rén jū wài 。",
+          "notes": [
+            {
+              "start": 10,
+              "end": 11,
+              "content": "溉汲：打水和汲水，指取水灌溉田地，泛指日常用水劳作。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "及",
+              "pinyin": "jí",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "穿",
+              "pinyin": "chuān",
+              "index": 22,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "井",
+              "pinyin": "jǐng",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "告",
+              "pinyin": "gào",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吾",
+              "pinyin": "wú",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "穿",
+              "pinyin": "chuān",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "井",
+              "pinyin": "jǐng",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。’",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 37,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "等到他们家挖了一口井之后，便告诉别人说：‘我家挖井相当于得到了一个人。’",
+          "pinyin": "jí qí jiā chuān jǐng ， gào rén yuē ： ‘ wú chuān jǐng dé yī rén 。’",
+          "notes": [
+            {
+              "start": 0,
+              "end": 0,
+              "content": "及：等到，表示时间推移，引出后续事件。"
+            },
+            {
+              "start": 3,
+              "end": 4,
+              "content": "穿井：凿井，‘穿’意为开凿，非现代‘穿过’义。"
+            },
+            {
+              "start": 6,
+              "end": 9,
+              "content": "告人曰：告诉别人说，‘告’后省略‘以事’，即告知某事。"
+            },
+            {
+              "start": 10,
+              "end": 17,
+              "content": "吾穿井得一人：我家打井后节省了一个劳动力，并非从井中挖出一人。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "传",
+              "pinyin": "chuán",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "丁",
+              "pinyin": "dīng",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "氏",
+              "pinyin": "shì",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "穿",
+              "pinyin": "chuān",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "井",
+              "pinyin": "jǐng",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "井",
+              "pinyin": "jǐng",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。’",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 58,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "有个听说了这话就传播的人说：‘丁家挖井在井里得到了一个人。’",
+          "pinyin": "yǒu wén ér chuán zhī zhě yuē ： ‘ dīng shì chuān jǐng dé yī rén yú jǐng zhōng 。’",
+          "notes": [
+            {
+              "start": 14,
+              "end": 19,
+              "content": "得一人于井中：误传内容，错误添加‘于井中’状语，造成歧义。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "道",
+              "pinyin": "dào",
+              "index": 61,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宋",
+              "pinyin": "sòng",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 69,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "全国的人都在谈论这件事，后来被宋国的国君听到了。",
+          "pinyin": "guó rén dào zhī ， wén zhī yú sòng jūn 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 2,
+              "content": "国人道之：国都的人谈论这件事，‘道’作动词，意为讲述、传播。"
+            },
+            {
+              "start": 5,
+              "end": 10,
+              "content": "闻之于宋君：被宋国国君听到了，‘闻’为使动用法，‘于’引出动作对象。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 0,
+              "end": 2,
+              "old": "讲述、谈论"
+            },
+            {
+              "start": 0,
+              "end": 2,
+              "new": "道路、道理"
+            },
+            {
+              "start": 5,
+              "end": 5,
+              "old": "使……听到（使动用法）"
+            },
+            {
+              "start": 5,
+              "end": 5,
+              "new": "听到"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 5,
+              "end": 10,
+              "content": "‘闻之于宋君’为使动兼被动句，‘于’引出动作承受者，属状语后置。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "宋",
+              "pinyin": "sòng",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn",
+              "index": 71,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng",
+              "index": 72,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "问",
+              "pinyin": "wèn",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 75,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 76,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "丁",
+              "pinyin": "dīng",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "氏",
+              "pinyin": "shì",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "丁",
+              "pinyin": "dīng",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "氏",
+              "pinyin": "shì",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "对",
+              "pinyin": "duì",
+              "index": 82,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 84,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 85,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 90,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "非",
+              "pinyin": "fēi",
+              "index": 92,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 93,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 94,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 95,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 96,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "井",
+              "pinyin": "jǐng",
+              "index": 97,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 98,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 99,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。’",
+              "index": 100,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 101,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "宋国国君派人向丁家询问这件事，丁家回答说：‘是得到了一个人的劳力，并不是从井里挖出一个人来啊。’",
+          "pinyin": "sòng jūn lìng rén wèn zhī yú dīng shì ， dīng shì duì yuē ： ‘ dé yī rén zhī shǐ ， fēi dé yī rén yú jǐng zhōng yě 。’",
+          "notes": [
+            {
+              "start": 2,
+              "end": 9,
+              "content": "令……问之于丁氏：命令派人向丁氏询问，‘于丁氏’为状语后置。"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "content": "对曰：回答说，‘对’专指在上级或提问者面前回应。"
+            },
+            {
+              "start": 16,
+              "end": 21,
+              "content": "得一人之使：得到一个人的劳力使用，‘之’为结构助词，连接定语与中心词。"
+            },
+            {
+              "start": 22,
+              "end": 30,
+              "content": "非得一人于井中也：不是从井里挖出一个人，‘非……也’构成否定判断句。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 20,
+              "end": 20,
+              "old": "使用、役使"
+            },
+            {
+              "start": 20,
+              "end": 20,
+              "new": "派遣、让"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 2,
+              "end": 9,
+              "content": "‘问之于丁氏’为状语后置句，正常语序应为‘于丁氏问之’。"
+            },
+            {
+              "start": 16,
+              "end": 21,
+              "content": "‘一人之使’为定语后置结构，‘之’为标志，意为‘一人的劳力’。"
+            },
+            {
+              "start": 22,
+              "end": 30,
+              "content": "‘非得一人于井中也’为否定判断句，以‘非……也’构成。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "求",
+              "pinyin": "qiú",
+              "index": 102,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 103,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 104,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 105,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 106,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 107,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 108,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 109,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 110,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 111,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 112,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 113,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "像这样听信传闻，还不如没有听到。",
+          "pinyin": "qiú wén zhī ruò cǐ ， bù ruò wú wén yě 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 5,
+              "content": "求闻之若此：探听消息像这样，‘求闻’指追求听闻，含讽刺意味。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "本文出自《吕氏春秋·慎行论·察传》，是战国末期秦国丞相吕不韦组织门客编撰的一部杂家著作。该文以一则民间故事为素材，借‘穿井得人’的误传现象，揭示当时社会信息传播过程中容易以讹传讹的问题，强调审慎查证的重要性。",
+  "appreciation": "全文虽短，却结构完整，层层递进。通过一个因语言歧义引发的误会，生动揭示了‘道听途说’的危害。‘得一人’本指节省一人劳力，却被误解为‘从井中挖出一人’，凸显语言表达与理解之间的偏差。文章结尾‘求闻之若此，不若无闻也’点明主旨，具有强烈的讽刺意味和现实警示作用，体现了先秦诸子散文注重逻辑与说理的特点。",
+  "tags": [
+    "七年级上册",
+    "寓言",
+    "哲理",
+    "文言文",
+    "以讹传讹"
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "name": "夜归鹿门山歌",
+  "author": "孟浩然",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寺",
+              "pinyin": "sì",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "钟",
+              "pinyin": "zhōng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸣",
+              "pinyin": "míng",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "昼",
+              "pinyin": "zhòu",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "已",
+              "pinyin": "yǐ",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "昏",
+              "pinyin": "hūn",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 7,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "山寺的钟声响起，白昼已经昏暗。",
+          "pinyin": "shān sì zhōng míng zhòu yǐ hūn 。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "渔",
+              "pinyin": "yú",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "梁",
+              "pinyin": "liáng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "渡",
+              "pinyin": "dù",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "头",
+              "pinyin": "tóu",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "争",
+              "pinyin": "zhēng",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "渡",
+              "pinyin": "dù",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "喧",
+              "pinyin": "xuān",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": true,
+              "write": true
+            }
+          ],
+          "translation": "渔梁渡口人们争着过河，喧闹不已。",
+          "pinyin": "yú liáng dù tóu zhēng dù xuān 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "渔梁：地名，指渔梁洲，汉水中的沙洲，为古代行人渡江之处。"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "content": "争：争抢，表现渡口人们抢渡的喧闹场面。"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "content": "喧：喧闹，形容渡口人声鼎沸。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "随",
+              "pinyin": "suí",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沙",
+              "pinyin": "shā",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "岸",
+              "pinyin": "àn",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "向",
+              "pinyin": "xiàng",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "村",
+              "pinyin": "cūn",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "人们沿着沙岸走向江边的村落。",
+          "pinyin": "rén suí shā àn xiàng jiāng cūn 。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "余",
+              "pinyin": "yú",
+              "index": 24,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乘",
+              "pinyin": "chéng",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "舟",
+              "pinyin": "zhōu",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "归",
+              "pinyin": "guī",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鹿",
+              "pinyin": "lù",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "门",
+              "pinyin": "mén",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我也乘着小船返回鹿门山。",
+          "pinyin": "yú yì chéng zhōu guī lù mén 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 0,
+              "content": "余：我，第一人称代词，古文中常用。"
+            },
+            {
+              "start": 5,
+              "end": 7,
+              "content": "鹿门：山名，在今湖北襄阳，孟浩然隐居之地。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 0,
+              "end": 0,
+              "old": "我"
+            },
+            {
+              "start": 0,
+              "end": 0,
+              "new": "剩余"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "鹿",
+              "pinyin": "lù",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "门",
+              "pinyin": "mén",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "照",
+              "pinyin": "zhào",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "开",
+              "pinyin": "kāi",
+              "index": 36,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "烟",
+              "pinyin": "yān",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "树",
+              "pinyin": "shù",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 39,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "鹿门山的月光照亮了雾气缭绕的树林。",
+          "pinyin": "lù mén yuè zhào kāi yān shù 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 4,
+              "content": "开：照亮、显现，指月光穿透雾气照出树林轮廓。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 4,
+              "end": 4,
+              "old": "显现、照亮"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "new": "打开"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "忽",
+              "pinyin": "hū",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "到",
+              "pinyin": "dào",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "庞",
+              "pinyin": "páng",
+              "index": 42,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "公",
+              "pinyin": "gōng",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "栖",
+              "pinyin": "qī",
+              "index": 44,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "隐",
+              "pinyin": "yǐn",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "忽然就到了庞德公隐居的地方。",
+          "pinyin": "hū dào páng gōng qī yǐn chù 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "庞公：即庞德公，东汉末年隐士，与诸葛亮有交往，曾隐居鹿门山。"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "content": "栖隐：栖身隐居，‘栖’指居住，‘隐’指避世。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "岩",
+              "pinyin": "yán",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "扉",
+              "pinyin": "fēi",
+              "index": 49,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "松",
+              "pinyin": "sōng",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "径",
+              "pinyin": "jìng",
+              "index": 51,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "长",
+              "pinyin": "cháng",
+              "index": 52,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "寂",
+              "pinyin": "jì",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寥",
+              "pinyin": "liáo",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 55,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "岩石的门扉和松林的小径长久寂静冷清。",
+          "pinyin": "yán fēi sōng jìng cháng jì liáo 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "岩扉：山岩间的屋门，比喻隐士居所的简陋。"
+            },
+            {
+              "start": 2,
+              "end": 3,
+              "content": "松径：松林中的小路，象征清幽的隐居环境。"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "content": "长：长久地，形容寂静冷清的氛围持续不断。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "惟",
+              "pinyin": "wéi",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "幽",
+              "pinyin": "yōu",
+              "index": 58,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "去",
+              "pinyin": "qù",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 63,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "只有隐居的人独自来去。",
+          "pinyin": "wéi yǒu yōu rén zì lái qù 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "幽人：隐士，指避世独居之人，非现代‘幽灵’之意。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 2,
+              "end": 3,
+              "old": "隐士"
+            },
+            {
+              "start": 2,
+              "end": 3,
+              "new": "幽暗的人或幽灵"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 4,
+              "end": 6,
+              "content": "‘自来去’为宾语前置结构，‘自’作宾语置于动词‘来去’之前，强调行为的自发性与自由感。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "孟浩然早年隐居鹿门山，后入长安求仕未果，返归故园。此诗作于他晚年彻底归隐时期。鹿门山是东汉隐士庞德公曾隐居之地，孟浩然借此表达对先贤的追慕。诗中‘渔梁’为汉代庞德公携妻采药处，‘鹿门’则是其最终隐居地。诗人通过对比世俗喧嚣与山林幽寂，展现其由仕转隐过程中的精神觉醒。",
+  "appreciation": "全诗以时空转换构建双重意境：前四句写尘世之‘归’，渡头喧闹、人潮涌动，反衬诗人‘独归’的疏离感；后四句写山林之‘归’，月照烟树、松径寂寥，‘忽到’二字暗含精神顿悟。‘惟有幽人自来去’以白描收束，将自我融入永恒山水。诗中‘亦’字巧妙，既呼应庞公先贤，又确立自身隐者身份。八句皆押平声韵，声调悠远，与‘寂寥’意境相契。",
+  "tags": [
+    "选修下册",
+    "山水田园",
+    "隐逸诗",
+    "唐诗三百首"
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "name": "越中览古",
+  "author": "李白",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "越",
+              "pinyin": "yuè",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 1,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "勾",
+              "pinyin": "gōu",
+              "index": 2,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "践",
+              "pinyin": "jiàn",
+              "index": 3,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "破",
+              "pinyin": "pò",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吴",
+              "pinyin": "wú",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "归",
+              "pinyin": "guī",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "义",
+              "pinyin": "yì",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "士",
+              "pinyin": "shì",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "还",
+              "pinyin": "huán",
+              "index": 10,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "乡",
+              "pinyin": "xiāng",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "尽",
+              "pinyin": "jìn",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "锦",
+              "pinyin": "jǐn",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "衣",
+              "pinyin": "yī",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "越王勾践打败吴国胜利归来，战士们回乡时都穿上了华美的衣服。",
+          "pinyin": "yuè wáng gōu jiàn pò wú guī ， yì shì huán xiāng jìn jǐn yī 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 3,
+              "content": "越王勾践：春秋时期越国君主，名勾践，曾被吴王夫差击败，后卧薪尝胆，最终灭吴复仇。"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "content": "尽：副词，表示范围，意为‘全、都’，强调所有义士皆穿上锦衣，反映胜利后的荣耀。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "content": "锦衣：华丽的衣裳，象征富贵荣华，与下文荒凉景象形成强烈对比。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "宫",
+              "pinyin": "gōng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "女",
+              "pinyin": "nǚ",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "如",
+              "pinyin": "rú",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "花",
+              "pinyin": "huā",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "满",
+              "pinyin": "mǎn",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "春",
+              "pinyin": "chūn",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "殿",
+              "pinyin": "diàn",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "只",
+              "pinyin": "zhǐ",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "今",
+              "pinyin": "jīn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "惟",
+              "pinyin": "wéi",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鹧",
+              "pinyin": "zhè",
+              "index": 28,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "鸪",
+              "pinyin": "gū",
+              "index": 29,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "飞",
+              "pinyin": "fēi",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "宫女们像花一样布满春天的宫殿，如今只剩下鹧鸪鸟在飞了。",
+          "pinyin": "gōng nǚ rú huā mǎn chūn diàn ， zhǐ jīn wéi yǒu zhè gū fēi 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 4,
+              "content": "如花：比喻手法，形容宫女容貌美丽如花，展现昔日宫廷繁华。"
+            },
+            {
+              "start": 5,
+              "end": 5,
+              "content": "满：动词，意为‘充满’，生动描绘春殿中宫女簇拥的热闹景象。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "只今：即‘如今’，表示时间转折，由昔日繁华转入今日荒凉。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "惟有：仅仅剩下，强调唯一存在的事物，突出今昔对比的凄凉感。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "content": "鹧鸪：一种鸟，其鸣声凄清，常用于古诗中渲染荒凉、哀怨的气氛。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 9,
+              "old": "仅仅现在、如今（文言常用）"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "new": "现在、目前（现代汉语中‘只今’已不常用，多用‘如今’或‘现在’）"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 10,
+              "end": 15,
+              "content": "‘惟有鹧鸪飞’为存在句，采用‘唯…是…’类强调结构的简化形式，突出唯一存在的景象，表达物是人非的感慨。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于李白游历越地（今浙江一带）时，览古迹而生感慨。越王勾践破吴之事为春秋著名复国典故，李白借古讽今，抒发盛衰无常之叹。安史之乱后唐王朝由盛转衰，诗人目睹历史遗迹，感慨繁华易逝，英雄难再。",
+  "appreciation": "全诗通过今昔对比展现历史沧桑。前两句描绘越王凯旋、将士荣归、宫女如云的繁华盛景，后两句陡转直下，以“只今惟有鹧鸪飞”收束，满目荒凉。由盛而衰的巨变在四句中完成，节奏紧凑，情感强烈。结句以景结情，鹧鸪飞动之态反衬人去殿空之寂，余韵悠长，深得绝句之妙。",
+  "tags": [
+    "七年级下册",
+    "怀古诗",
+    "李白",
+    "唐诗"
+  ]
+}

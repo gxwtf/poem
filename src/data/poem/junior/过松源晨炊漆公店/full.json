@@ -1,0 +1,320 @@
+{
+  "name": "过松源晨炊漆公店",
+  "author": "杨万里",
+  "dynasty": "宋代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "莫",
+              "pinyin": "mò",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "言",
+              "pinyin": "yán",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "下",
+              "pinyin": "xià",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "岭",
+              "pinyin": "lǐng",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "便",
+              "pinyin": "biàn",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "难",
+              "pinyin": "nán",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 7,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "不要说下山就再也没有困难了。",
+          "pinyin": "mò yán xià lǐng biàn wú nán 。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "赚",
+              "pinyin": "zhuàn",
+              "index": 8,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "错",
+              "pinyin": "cuò",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "喜",
+              "pinyin": "xǐ",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "欢",
+              "pinyin": "huān",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "这句让人误以为下山轻松，空欢喜一场。",
+          "pinyin": "zhuàn dé xíng rén cuò xǐ huān 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "赚得：意为‘哄骗得’，使行人产生错觉，并非现代‘赚钱’之意。"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "content": "错喜欢：空欢喜，‘错’意为‘徒然、白白地’，非‘错误’之义。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 0,
+              "end": 0,
+              "old": "哄骗"
+            },
+            {
+              "start": 0,
+              "end": 0,
+              "new": "获得利润"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "old": "徒然、白白地"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "new": "不正确"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "政",
+              "pinyin": "zhèng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "入",
+              "pinyin": "rù",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "万",
+              "pinyin": "wàn",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "围",
+              "pinyin": "wéi",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "刚进入被群山环绕的地方。",
+          "pinyin": "zhèng rù wàn shān wéi zǐ lǐ 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 0,
+              "content": "政：通‘正’，正在之意，属通假字用法。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "放",
+              "pinyin": "fàng",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "出",
+              "pinyin": "chū",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "拦",
+              "pinyin": "lán",
+              "index": 30,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "翻过一座山，另一座山又立刻拦在面前。",
+          "pinyin": "yī shān fàng chū yī shān lán 。"
+        }
+      ]
+    }
+  ],
+  "background": "此诗为杨万里在任江东转运副使期间，途经安徽溧水松源一带所作。当时他奉命巡视地方，翻山越岭，晨间在漆公店炊食时有感而发。诗人借行路之艰，讽喻人生征途中的层层困难，表达对仕途与现实的深刻体察。",
+  "appreciation": "本诗以平白如话的语言揭示深刻哲理。首句直破世人错觉，次句‘错喜欢’三字辛辣讽刺。后两句以‘万山围子’象征困境连绵，‘放出’与‘拦’拟人化山势，生动展现困难接踵而至的现实。全诗看似写景叙事，实则寓理于行，体现杨万里‘诚斋体’善于从日常中发现哲思的风格。",
+  "tags": [
+    "七年级下册",
+    "哲理诗",
+    "杨万里"
+  ]
+}

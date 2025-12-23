@@ -1,0 +1,897 @@
+{
+  "name": "刘姥姥进大观园",
+  "author": "曹雪芹",
+  "dynasty": "清代",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "刘",
+              "pinyin": "liú",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "姥",
+              "pinyin": "lǎo",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "姥",
+              "pinyin": "lǎo",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "入",
+              "pinyin": "rù",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "大",
+              "pinyin": "dà",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "观",
+              "pinyin": "guān",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "园",
+              "pinyin": "yuán",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楼",
+              "pinyin": "lóu",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阁",
+              "pinyin": "gé",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "参",
+              "pinyin": "cēn",
+              "index": 11,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "差",
+              "pinyin": "cī",
+              "index": 12,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "锦",
+              "pinyin": "jǐn",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "绣",
+              "pinyin": "xiù",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "满",
+              "pinyin": "mǎn",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "目",
+              "pinyin": "mù",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "惊",
+              "pinyin": "jīng",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阿",
+              "pinyin": "ā",
+              "index": 23,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "弥",
+              "pinyin": "mí",
+              "index": 24,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "陀",
+              "pinyin": "tuó",
+              "index": 25,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "佛",
+              "pinyin": "fó",
+              "index": 26,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "这",
+              "pinyin": "zhè",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "什",
+              "pinyin": "shén",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "么",
+              "pinyin": "me",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "pinyin": "’",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "刘姥姥进入大观园，看见楼台亭阁错落有致，到处都是华丽的装饰，惊讶地说：‘阿弥陀佛！这是什么地方啊？’",
+          "pinyin": "liú lǎo lǎo rù dà guān yuán ， jiàn lóu gé cēn cī ， jǐn xiù mǎn mù ， jīng yuē ： ‘ ā mí tuó fó ！ zhè shì shén me suǒ zài ？ ’",
+          "notes": [
+            {
+              "start": 11,
+              "end": 12,
+              "content": "参差：cēn cī，形容楼阁高低不齐，错落有致。"
+            },
+            {
+              "start": 14,
+              "end": 15,
+              "content": "锦绣：原指精美丝织品，此处比喻华丽的装饰与陈设。"
+            },
+            {
+              "start": 23,
+              "end": 26,
+              "content": "阿弥陀佛：佛教称谓，此处为人物脱口而出的感叹语，表达惊讶。"
+            },
+            {
+              "start": 32,
+              "end": 33,
+              "content": "所在：地方、处所，古文中常用‘所’+动词构成名词性短语。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 32,
+              "end": 33,
+              "old": "地方、处所"
+            },
+            {
+              "start": 32,
+              "end": 33,
+              "new": "存在状态"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "童",
+              "pinyin": "tóng",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "仆",
+              "pinyin": "pú",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "往",
+              "pinyin": "wǎng",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "如",
+              "pinyin": "rú",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "蚁",
+              "pinyin": "yǐ",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "衣",
+              "pinyin": "yī",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "冠",
+              "pinyin": "guān",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ",
+              "index": 45,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ",
+              "index": 46,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "敢",
+              "pinyin": "gǎn",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "正",
+              "pinyin": "zhèng",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "视",
+              "pinyin": "shì",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 52,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "童仆们来来往往像蚂蚁一样多，个个衣着整齐，她不敢直视。",
+          "pinyin": "tóng pú wǎng lái rú yǐ ， yī guān chǔ chǔ ， bù gǎn zhèng shì 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "如蚁：比喻人群往来频繁而密集，状其多且忙。"
+            },
+            {
+              "start": 9,
+              "end": 10,
+              "content": "楚楚：整齐漂亮的样子，常用于形容衣着整洁。"
+            },
+            {
+              "start": 14,
+              "end": 15,
+              "content": "正视：直视，因礼制或敬畏而不敢直视，体现身份差距。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "忽",
+              "pinyin": "hū",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "钟",
+              "pinyin": "zhōng",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸣",
+              "pinyin": "míng",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乐",
+              "pinyin": "yuè",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "作",
+              "pinyin": "zuò",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "贵",
+              "pinyin": "guì",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "出",
+              "pinyin": "chū",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "迎",
+              "pinyin": "yíng",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "忙",
+              "pinyin": "máng",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "俯",
+              "pinyin": "fǔ",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "叩",
+              "pinyin": "kòu",
+              "index": 68,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "首",
+              "pinyin": "shǒu",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "众",
+              "pinyin": "zhòng",
+              "index": 71,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "哄",
+              "pinyin": "hōng",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "笑",
+              "pinyin": "xiào",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 75,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi",
+              "index": 76,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乡",
+              "pinyin": "xiāng",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "野",
+              "pinyin": "yě",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愚",
+              "pinyin": "yú",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 82,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "识",
+              "pinyin": "shí",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "金",
+              "pinyin": "jīn",
+              "index": 84,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "玉",
+              "pinyin": "yù",
+              "index": 85,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "嗟",
+              "pinyin": "jiē",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 90,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "入",
+              "pinyin": "rù",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "朱",
+              "pinyin": "zhū",
+              "index": 92,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "门",
+              "pinyin": "mén",
+              "index": 93,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "深",
+              "pinyin": "shēn",
+              "index": 94,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "似",
+              "pinyin": "sì",
+              "index": 95,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "海",
+              "pinyin": "hǎi",
+              "index": 96,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 97,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 98,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "间",
+              "pinyin": "jiān",
+              "index": 99,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "冷",
+              "pinyin": "lěng",
+              "index": 100,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "暖",
+              "pinyin": "nuǎn",
+              "index": 101,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "尽",
+              "pinyin": "jìn",
+              "index": 102,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "分",
+              "pinyin": "fēn",
+              "index": 103,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 104,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 105,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "忽然听到钟声响起，音乐奏起，有贵人出来迎接，她连忙弯腰磕头。众人哄堂大笑，说她是乡下人愚昧，不识富贵奢华。唉！一旦踏入富贵人家的大门，就像进入深海一般，人情冷暖顿时分明起来！",
+          "pinyin": "hū wén zhōng míng yuè zuò ， guì rén chū yíng ， máng fǔ shēn kòu shǒu 。 zhòng rén hōng xiào ， wèi xiāng yě zhī yú ， bù shí jīn yù 。 jiē hū ！ yī rù zhū mén shēn sì hǎi ， rén jiān lěng nuǎn jìn fēn míng ！",
+          "notes": [
+            {
+              "start": 5,
+              "end": 5,
+              "content": "作：兴起、开始，此处指音乐奏响。"
+            },
+            {
+              "start": 15,
+              "end": 16,
+              "content": "叩首：古代跪拜礼，低头至地，表示极度恭敬。"
+            },
+            {
+              "start": 26,
+              "end": 27,
+              "content": "乡野：指乡村、偏远之地，与‘城市’‘贵族’相对。"
+            },
+            {
+              "start": 27,
+              "end": 28,
+              "content": "之愚：结构助词‘之’连接定语与中心词，‘愚’指愚昧之人。"
+            },
+            {
+              "start": 31,
+              "end": 32,
+              "content": "不识金玉：比喻不懂珍贵之物，引申为缺乏文化鉴赏力。"
+            },
+            {
+              "start": 34,
+              "end": 35,
+              "content": "嗟乎：感叹词，相当于‘唉呀’，表达感慨或叹息。"
+            },
+            {
+              "start": 39,
+              "end": 40,
+              "content": "朱门：红漆大门，代指富贵人家，出自‘朱门酒肉臭’。"
+            },
+            {
+              "start": 43,
+              "end": 44,
+              "content": "深似海：像海一样深，形容贵族宅院幽深难测，也喻人情冷漠。"
+            },
+            {
+              "start": 49,
+              "end": 50,
+              "content": "冷暖：借代世态炎凉，人情厚薄，非实指温度。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 31,
+              "end": 32,
+              "old": "珍贵之物，才德高雅"
+            },
+            {
+              "start": 31,
+              "end": 32,
+              "new": "财富、金钱"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 41,
+              "end": 44,
+              "content": "‘深似海’为状语后置句式，正常语序应为‘似海深’，文言中常见此类倒装以增强修辞效果。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此情节源自《红楼梦》第四十回，刘姥姥第二次进入贾府，被贾母邀请游览大观园。她朴实憨厚的形象与贵族奢华生活形成鲜明对比，成为全书最具讽刺意味与人情冷暖张力的经典场景之一。作者曹雪芹通过这一情节，展现了封建社会等级差异与世态炎凉。",
+  "appreciation": "本段以白描手法刻画刘姥姥初入大观园的心理震撼与行为拘谨，通过‘惊曰’‘不敢正视’‘忙俯身叩首’等细节，凸显其身份卑微与环境压迫感。‘童仆往来如蚁’暗喻贵族生活的繁复与疏离，‘众人哄笑’则暴露上层对底层的轻蔑。结尾‘一入朱门深似海’化用古诗，升华主题，揭示封建门第之森严与人情冷暖之剧变，具有强烈的社会批判意味。",
+  "tags": [
+    "九年级下册",
+    "讽刺",
+    "世态人情",
+    "《红楼梦》节选"
+  ]
+}

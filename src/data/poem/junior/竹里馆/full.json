@@ -1,0 +1,288 @@
+{
+  "name": "竹里馆",
+  "author": "王维",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "独",
+              "pinyin": "dú",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "坐",
+              "pinyin": "zuò",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "幽",
+              "pinyin": "yōu",
+              "index": 2,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "篁",
+              "pinyin": "huáng",
+              "index": 3,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 5,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "独自坐在幽深的竹林之中。",
+          "pinyin": "dú zuò yōu huáng lǐ 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "幽篁：幽深的竹林。篁，本指竹子，此处指竹林。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "弹",
+              "pinyin": "tán",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "琴",
+              "pinyin": "qín",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "复",
+              "pinyin": "fù",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "长",
+              "pinyin": "cháng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "啸",
+              "pinyin": "xiào",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": true,
+              "write": true
+            }
+          ],
+          "translation": "一边弹琴一边高声吟唱。",
+          "pinyin": "tán qín fù cháng xiào 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "复：又，再。表示动作的叠加，体现诗人自在闲适的情态。"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "content": "长啸：撮口发出清越的口哨声，古人常以此抒发情怀，非现代意义上的大声喊叫。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 5,
+              "end": 5,
+              "old": "撮口发出清越之声，抒发情怀"
+            },
+            {
+              "start": 5,
+              "end": 5,
+              "new": "大声喊叫，多含负面或激烈情绪"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "深",
+              "pinyin": "shēn",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "林",
+              "pinyin": "lín",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 17,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "竹林深处无人知晓我的行踪。",
+          "pinyin": "shēn lín rén bù zhī 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "深林：茂密的树林，与‘幽篁’形成空间上的呼应，强化了人迹罕至的静谧意境。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "照",
+              "pinyin": "zhào",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "唯有明月静静照耀着我。",
+          "pinyin": "míng yuè lái xiāng zhào 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 4,
+              "content": "相照：照我。‘相’在文言中可表示动作偏指一方（此处指‘我’），有拟人意味，体现明月如友。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 3,
+              "end": 3,
+              "old": "指代一方（我）"
+            },
+            {
+              "start": 3,
+              "end": 3,
+              "new": "互相"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 3,
+              "end": 5,
+              "content": "‘来相照’为文言中‘相’字结构，‘相’代指宾语‘我’，实为‘来照我’，属于宾语前置的特殊句式。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "《竹里馆》创作于王维隐居蓝田辋川时期（约公元756年以前）。安史之乱后，王维虽官至尚书右丞，但经历政治风波，心生退意，于辋川别业过着半官半隐的生活。此诗通过描绘独坐竹林、弹琴长啸、明月相伴的场景，寄托了诗人超脱尘世、与自然合一的隐逸情怀。",
+  "appreciation": "全诗以白描手法勾勒出清幽绝俗的意境。‘独坐’二字开篇点出主体状态，却无孤寂之感，反显自在。‘幽篁’‘深林’叠加营造静谧空间，‘弹琴’‘长啸’以动衬静，凸显心灵自由。末句‘明月来相照’将自然拟人化，月成为知己，达到物我两忘的境界。全诗无一‘静’字，却处处见静；无一‘乐’字，却处处显乐。语言极简，意蕴无穷，体现了王维‘诗中有画，画中有诗’的艺术特色。",
+  "tags": [
+    "七年级下册",
+    "山水田园诗",
+    "隐逸诗",
+    "王维"
+  ]
+}

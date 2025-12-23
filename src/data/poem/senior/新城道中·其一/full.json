@@ -1,0 +1,565 @@
+{
+  "name": "新城道中·其一",
+  "author": "苏轼",
+  "dynasty": "宋代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吹",
+              "pinyin": "chuī",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "断",
+              "pinyin": "duàn",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "檐",
+              "pinyin": "yán",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "间",
+              "pinyin": "jiān",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "积",
+              "pinyin": "jī",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "雨",
+              "pinyin": "yǔ",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "声",
+              "pinyin": "shēng",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "东风仿佛知道我想要进山旅行，吹散了屋檐下连绵不断的雨声。",
+          "pinyin": "dōng fēng zhī wǒ yù shān xíng ， chuī duàn yán jiān jī yǔ shēng 。",
+          "notes": [
+            {
+              "start": 9,
+              "end": 9,
+              "content": "吹断：风吹得雨声中断。断，终止、停止，非断裂之意。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "content": "积雨：连绵多日的雨水，形容久雨初歇之景。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "岭",
+              "pinyin": "lǐng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "晴",
+              "pinyin": "qíng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "云",
+              "pinyin": "yún",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "披",
+              "pinyin": "pī",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "絮",
+              "pinyin": "xù",
+              "index": 21,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "帽",
+              "pinyin": "mào",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "树",
+              "pinyin": "shù",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "头",
+              "pinyin": "tóu",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "初",
+              "pinyin": "chū",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "铜",
+              "pinyin": "tóng",
+              "index": 29,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "钲",
+              "pinyin": "zhēng",
+              "index": 30,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "山岭上的云朵像披着棉絮做的帽子，树梢上的初升太阳如同挂上了铜锣。",
+          "pinyin": "lǐng shàng qíng yún pī xù mào ， shù tóu chū rì shàng tóng zhēng 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 6,
+              "content": "披絮帽：比喻山顶白云如棉絮制成的帽子。披，覆盖；絮帽，古时冬季戴的棉帽，此处形容云朵蓬松。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "content": "铜钲：古代铜制打击乐器，形似钟而狭长。诗中比喻初升的太阳，因其颜色与形状相似。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "野",
+              "pinyin": "yě",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "桃",
+              "pinyin": "táo",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "含",
+              "pinyin": "hán",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "笑",
+              "pinyin": "xiào",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "竹",
+              "pinyin": "zhú",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "篱",
+              "pinyin": "lí",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "短",
+              "pinyin": "duǎn",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "溪",
+              "pinyin": "xī",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "柳",
+              "pinyin": "liǔ",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "摇",
+              "pinyin": "yáo",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沙",
+              "pinyin": "shā",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "清",
+              "pinyin": "qīng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "野桃含笑绽放，映衬着低矮的竹篱，溪边的柳枝自在摇曳，沙底的溪水清澈见底。",
+          "pinyin": "yě táo hán xiào zhú lí duǎn ， xī liǔ zì yáo shā shuǐ qīng 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "含笑：拟人手法，形容野桃花盛开，仿佛带着笑容，表现春意盎然。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "‘野桃含笑’使用拟人修辞，将植物赋予人的情感动作，属于文学性特殊表达。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "西",
+              "pinyin": "xī",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "崦",
+              "pinyin": "yān",
+              "index": 49,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "应",
+              "pinyin": "yīng",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "最",
+              "pinyin": "zuì",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乐",
+              "pinyin": "lè",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "煮",
+              "pinyin": "zhǔ",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "葵",
+              "pinyin": "kuí",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "烧",
+              "pinyin": "shāo",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "笋",
+              "pinyin": "sǔn",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "饷",
+              "pinyin": "xiǎng",
+              "index": 60,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "春",
+              "pinyin": "chūn",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "耕",
+              "pinyin": "gēng",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 63,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "西边山里的人家应当最快乐，他们正煮着野菜、烧着竹笋，为春耕的人送饭。",
+          "pinyin": "xī yān rén jiā yīng zuì lè ， zhǔ kuí shāo sǔn xiǎng chūn gēng 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "content": "西崦：西边的山。崦，原指崦嵫山，此处泛指山峦，代指山那边的人家。"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "content": "饷：给田间耕作者送饭。古代农村习俗，家人将饭菜送到田头。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 12,
+              "end": 12,
+              "old": "送饭"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "new": "无直接对应，现代不用此义"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "宋神宗熙宁六年（1073年），苏轼时任杭州通判，巡视属县新城（今浙江富阳新登镇）。途中春雨初歇，山景明丽，诗人有感于自然生机与农事繁忙，写下此诗。此时苏轼虽身处变法争议之中，但暂离政坛纷扰，心境较为舒畅。",
+  "appreciation": "全诗以拟人开篇，'东风知我'赋予自然灵性，展现诗人与天地共鸣的愉悦。'披絮帽''上铜钲'以生活化比喻写山中云日，新颖贴切。颔联'含笑''自摇'进一步以人格化笔法描绘野桃溪柳，生机盎然。尾联转入人间烟火，'煮葵烧笋'的朴素劳作画面，体现对田园生活的向往。全诗情景交融，语言清新自然，展现了苏轼善于从日常中发现诗意的才情。",
+  "tags": [
+    "高中语文选修",
+    "山水田园",
+    "苏轼诗选"
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "name": "鸿门宴",
+  "author": "司马迁",
+  "dynasty": "西汉",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "项",
+              "pinyin": "xiàng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "庄",
+              "pinyin": "zhuāng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "舞",
+              "pinyin": "wǔ",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "剑",
+              "pinyin": "jiàn",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "意",
+              "pinyin": "yì",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沛",
+              "pinyin": "pèi",
+              "index": 7,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "公",
+              "pinyin": "gōng",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 9,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "项庄舞剑的目的，其实是想刺杀沛公。",
+          "pinyin": "xiàng zhuāng wǔ jiàn ， yì zài pèi gōng 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 5,
+              "content": "意：意图、目的，此处指项庄舞剑的真实目的指向沛公。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "项",
+              "pinyin": "xiàng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "伯",
+              "pinyin": "bó",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "舞",
+              "pinyin": "wǔ",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "翼",
+              "pinyin": "yì",
+              "index": 19,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "蔽",
+              "pinyin": "bì",
+              "index": 20,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "沛",
+              "pinyin": "pèi",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "公",
+              "pinyin": "gōng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "庄",
+              "pinyin": "zhuāng",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "击",
+              "pinyin": "jī",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 28,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "项伯也起身舞剑，常用身体像鸟张开翅膀一样掩护沛公，项庄无法刺击。",
+          "pinyin": "xiàng bó yì qǐ wǔ ， cháng yǐ shēn yì bì pèi gōng ， zhuāng bù dé jī 。",
+          "notes": [
+            {
+              "start": 8,
+              "end": 9,
+              "content": "以身翼蔽：用身体像翅膀一样遮挡。‘翼’为名词作状语，表比喻。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 8,
+              "old": "像翅膀一样"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "new": "翅膀"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 6,
+              "end": 10,
+              "content": "状语后置：‘翼蔽’中‘翼’为名词作状语，表示方式，即‘像翅膀一样遮蔽’。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "良",
+              "pinyin": "liáng",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "门",
+              "pinyin": "mén",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "樊",
+              "pinyin": "fán",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "哙",
+              "pinyin": "kuài",
+              "index": 38,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 39,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "于是张良来到军营门口见樊哙。",
+          "pinyin": "yú shì zhāng liáng zhì jūn mén jiàn fán kuài 。"
+        },
+        {
+          "content": [
+            {
+              "char": "樊",
+              "pinyin": "fán",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "哙",
+              "pinyin": "kuài",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "今",
+              "pinyin": "jīn",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "事",
+              "pinyin": "shì",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "如",
+              "pinyin": "rú",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？’",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 52,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "樊哙问道：‘今天的情况怎么样？’",
+          "pinyin": "fán kuài yuē ： ‘ jīn rì zhī shì hé rú ？’",
+          "notes": [
+            {
+              "start": 10,
+              "end": 11,
+              "content": "何如：文言疑问结构，意为‘怎么样’，宾语前置。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 10,
+              "end": 11,
+              "content": "宾语前置：‘何如’即‘如何’，疑问代词‘何’前置。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "良",
+              "pinyin": "liáng",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "甚",
+              "pinyin": "shèn",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "急",
+              "pinyin": "jí",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "今",
+              "pinyin": "jīn",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "项",
+              "pinyin": "xiàng",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "庄",
+              "pinyin": "zhuāng",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "拔",
+              "pinyin": "bá",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "剑",
+              "pinyin": "jiàn",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "舞",
+              "pinyin": "wǔ",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "意",
+              "pinyin": "yì",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 71,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沛",
+              "pinyin": "pèi",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "公",
+              "pinyin": "gōng",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。’",
+              "index": 75,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 76,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "张良说：‘非常危急！现在项庄拔剑起舞，他的意图始终在沛公身上。’",
+          "pinyin": "liáng yuē ： ‘ shèn jí ！ jīn zhě xiàng zhuāng bá jiàn wǔ ， qí yì cháng zài pèi gōng yě 。’",
+          "notes": [
+            {
+              "start": 4,
+              "end": 4,
+              "content": "甚：很、非常，加强语气，表示情况极其紧急。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 7,
+              "end": 8,
+              "content": "时间状语结构：‘今者’为文言常见时间表达，‘者’助词，表停顿。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "哙",
+              "pinyin": "kuài",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "迫",
+              "pinyin": "pò",
+              "index": 82,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "矣",
+              "pinyin": "yǐ",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 84,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "臣",
+              "pinyin": "chén",
+              "index": 85,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "请",
+              "pinyin": "qǐng",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "入",
+              "pinyin": "rù",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 90,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "同",
+              "pinyin": "tóng",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "命",
+              "pinyin": "mìng",
+              "index": 92,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。’",
+              "index": 93,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "index": 94,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "樊哙说：‘这太紧迫了！我请求进去，和他同生共死。’",
+          "pinyin": "kuài yuē ： ‘ cǐ pò yǐ ！ chén qǐng rù ， yǔ zhī tóng mìng 。’",
+          "notes": [
+            {
+              "start": 9,
+              "end": 9,
+              "content": "请：敬辞，表示‘请求允许我做某事’，常用于臣对君或下对上。"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "content": "与之同命：和他同生共死，意为拼死相搏。‘同命’含决绝之意。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 9,
+              "end": 9,
+              "old": "请求允许我……"
+            },
+            {
+              "start": 9,
+              "end": 9,
+              "new": "请求别人做某事"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "old": "一同赴死"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "new": "共同承担命运（现代少用此义）"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 12,
+              "end": 16,
+              "content": "省略句：‘与之同命’省略谓语动词，完整应为‘与之同命而战’或‘与之俱死’。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "鸿门宴发生于公元前206年，刘邦率先攻入咸阳后，项羽率大军进驻鸿门。范增劝项羽趁机除掉刘邦，设宴邀其赴会，暗中埋伏武士欲杀之。席间项庄舞剑助兴，实为刺杀刘邦，项伯挺身相护，张良召樊哙闯帐解围，最终刘邦借机逃脱。此事标志着刘项矛盾公开化，是楚汉相争的序幕。",
+  "appreciation": "司马迁以极简笔墨刻画紧张局势，“项庄舞剑，意在沛公”成为千古名句，揭示表面礼仪下的杀机。通过对话推进情节，樊哙“与之同命”的豪言展现忠勇之气。全文节奏紧凑，人物性格鲜明，伏笔深远，体现了《史记》高超的叙事艺术与历史洞察力。",
+  "tags": [
+    "必修下册",
+    "历史事件",
+    "文言文",
+    "楚汉相争",
+    "司马迁"
+  ]
+}

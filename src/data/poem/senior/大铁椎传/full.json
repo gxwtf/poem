@@ -1,0 +1,612 @@
+{
+  "name": "大铁椎传",
+  "author": "魏禧",
+  "dynasty": "明代",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "大",
+              "pinyin": "dà",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "铁",
+              "pinyin": "tiě",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "椎",
+              "pinyin": "chuí",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 3,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "许",
+              "pinyin": "xǔ",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "北",
+              "pinyin": "běi",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "平",
+              "pinyin": "píng",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "陈",
+              "pinyin": "chén",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "灿",
+              "pinyin": "càn",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "省",
+              "pinyin": "xǐng",
+              "index": 15,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "兄",
+              "pinyin": "xiōng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "河",
+              "pinyin": "hé",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "南",
+              "pinyin": "nán",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "备",
+              "pinyin": "bèi",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "观",
+              "pinyin": "guān",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 24,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "大铁椎，不知道是什么地方的人。北平人陈子灿到河南去看望哥哥，有机会看到他。",
+          "pinyin": "dà tiě chuí ， bù zhī hé xǔ rén ， běi píng chén zǐ càn xǐng xiōng hé nán ， dé bèi guān yān 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
+              "content": "大铁椎：一种铁制重型兵器，形如短棒，用于近战击打。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "何许：什么地方。许，处所，古文中常用‘何许人’表示籍贯或来历不明。"
+            },
+            {
+              "start": 15,
+              "end": 15,
+              "content": "省：探望，特指探望尊长或亲属。此处指陈子灿前往探望兄长。"
+            },
+            {
+              "start": 21,
+              "end": 21,
+              "content": "备：副词，表示‘详尽地’‘全面地’，非‘准备’之意。"
+            },
+            {
+              "start": 23,
+              "end": 23,
+              "content": "焉：兼词，相当于‘于之’，指在那里，即河南，表示得以亲眼见到大铁椎其人。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 6,
+              "end": 7,
+              "old": "地方"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "new": "许可、许多"
+            },
+            {
+              "start": 15,
+              "end": 15,
+              "old": "探望"
+            },
+            {
+              "start": 15,
+              "end": 15,
+              "new": "节省、省份"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 4,
+              "end": 9,
+              "content": "‘不知何许人’为判断句省略形式，完整应为‘不知其为何许人也’，省略谓语与语气词。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "长",
+              "pinyin": "cháng",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "七",
+              "pinyin": "qī",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "尺",
+              "pinyin": "chǐ",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "面",
+              "pinyin": "miàn",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阔",
+              "pinyin": "kuò",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "色",
+              "pinyin": "sè",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "黝",
+              "pinyin": "yǒu",
+              "index": 35,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "黑",
+              "pinyin": "hēi",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "喜",
+              "pinyin": "xǐ",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "饮",
+              "pinyin": "yǐn",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "啖",
+              "pinyin": "dàn",
+              "index": 40,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "食",
+              "pinyin": "shí",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "多",
+              "pinyin": "duō",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "费",
+              "pinyin": "fèi",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 46,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "那人身高七尺，脸很宽，肤色黝黑，喜欢喝酒吃饭，吃得很多却不觉得费力。",
+          "pinyin": "qí rén cháng qī chǐ ， miàn kuò ， sè yǒu hēi ， xǐ yǐn dàn ， shí duō bù fèi 。",
+          "notes": [
+            {
+              "start": 15,
+              "end": 15,
+              "content": "啖：吃，多用于书面或古文，现代汉语中较少单独使用。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 15,
+              "end": 15,
+              "old": "吃"
+            },
+            {
+              "start": 15,
+              "end": 15,
+              "new": "多用于书面或成语，口语中极少使用"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "能",
+              "pinyin": "néng",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "拳",
+              "pinyin": "quán",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "裂",
+              "pinyin": "liè",
+              "index": 50,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "砖",
+              "pinyin": "zhuān",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "石",
+              "pinyin": "shí",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "力",
+              "pinyin": "lì",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "惊",
+              "pinyin": "jīng",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "然",
+              "pinyin": "rán",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "武",
+              "pinyin": "wǔ",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "矜",
+              "pinyin": "jīn",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 64,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "能用拳头打裂砖石，力气惊人，却不因武艺而骄傲自大。",
+          "pinyin": "néng yǐ quán liè zhuān shí ， lì jīng rén ， rán bù yǐ wǔ zì jīn 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "裂：使动用法，意为‘使……破裂’，即用拳头击碎砖石。"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "content": "惊：使动用法，‘使……震惊’，形容其力量惊人。"
+            },
+            {
+              "start": 15,
+              "end": 16,
+              "content": "自矜：自夸。‘自’为‘矜’的宾语，前置，属宾语前置结构。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 15,
+              "end": 16,
+              "old": "自夸"
+            },
+            {
+              "start": 15,
+              "end": 16,
+              "new": "现代汉语中已不常用，仅见于文言引用"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 12,
+              "end": 17,
+              "content": "‘不以武自矜’中‘自’为宾语前置，正常语序应为‘不以武矜自’，属宾语前置句式。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "明末清初之际，社会动荡，士人多怀复国之志，崇尚侠义精神。魏禧本人为明遗民，隐居著述，好谈节义之事。《大铁椎传》作于清初，借一位身怀绝技却隐于江湖的奇人形象，寄托乱世中对英雄人物的向往与对现实的失望。",
+  "appreciation": "本文以简洁传神的笔法塑造了一位神秘豪侠形象。通过外貌、饮食、武艺等细节描写，突出大铁椎的异于常人之处。'能以拳裂砖石'却不自矜，反显其胸襟气度。语言质朴而有力，叙事紧凑，层层递进，体现明末清初散文由华丽转向质实的风格转变。文中虚实结合，大铁椎最终消失于战场，增添传奇色彩，令人回味无穷。",
+  "tags": [
+    "高中选修",
+    "明清散文",
+    "侠义人物",
+    "文言文传记"
+  ]
+}

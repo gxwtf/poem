@@ -1,0 +1,464 @@
+{
+  "name": "送友人",
+  "author": "李白",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "青",
+              "pinyin": "qīng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "横",
+              "pinyin": "héng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "北",
+              "pinyin": "běi",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "郭",
+              "pinyin": "guō",
+              "index": 4,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "白",
+              "pinyin": "bái",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "绕",
+              "pinyin": "rào",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "青翠的山峦横亘在外城北面，清澈的河水环绕着东城流淌。",
+          "pinyin": "qīng shān héng běi guō ， bái shuǐ rào dōng chéng 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 4,
+              "content": "郭：古代指外城，与‘城’相对，‘城’为内城，‘郭’为外城。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "白水：清澈的河水，此处泛指明净的水流，象征离别的纯净情感。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 4,
+              "end": 4,
+              "old": "外城"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "new": "姓氏或泛指城市"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "别",
+              "pinyin": "bié",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "孤",
+              "pinyin": "gū",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "蓬",
+              "pinyin": "péng",
+              "index": 19,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "万",
+              "pinyin": "wàn",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "征",
+              "pinyin": "zhēng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "在此地我们一旦分别，你就像孤飞的蓬草飘向万里之外的远方。",
+          "pinyin": "cǐ dì yī wéi bié ， gū péng wàn lǐ zhēng 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "一：一旦，表示动作的开始，强调离别时刻的到来。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "孤蓬：比喻漂泊无依的游子，蓬草遇风飞散，象征行踪不定。"
+            },
+            {
+              "start": 10,
+              "end": 10,
+              "content": "征：远行，出征，此处指友人踏上漫长旅途。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "浮",
+              "pinyin": "fú",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "云",
+              "pinyin": "yún",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "游",
+              "pinyin": "yóu",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "意",
+              "pinyin": "yì",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "落",
+              "pinyin": "luò",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "故",
+              "pinyin": "gù",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "情",
+              "pinyin": "qíng",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "浮云飘动如同游子的心意不定，落日缓缓下垂仿佛故人依依惜别的情感。",
+          "pinyin": "fú yún yóu zǐ yì ， luò rì gù rén qíng 。",
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 11,
+              "content": "‘浮云游子意，落日故人情’为判断句省略形式，完整结构应为‘浮云，游子意也；落日，故人情也’，属于典型的文言判断句式。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "挥",
+              "pinyin": "huī",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "手",
+              "pinyin": "shǒu",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兹",
+              "pinyin": "zī",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "去",
+              "pinyin": "qù",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "萧",
+              "pinyin": "xiāo",
+              "index": 42,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "萧",
+              "pinyin": "xiāo",
+              "index": 43,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "班",
+              "pinyin": "bān",
+              "index": 44,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "马",
+              "pinyin": "mǎ",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鸣",
+              "pinyin": "míng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "挥挥手从此离去，连马儿也发出萧萧的哀鸣。",
+          "pinyin": "huī shǒu zì zī qù ， xiāo xiāo bān mǎ míng 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "兹：此，这。‘自兹去’意为从此离开。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "班马：离群的马，出自《左传》，象征离别之情，马亦悲鸣，渲染伤感氛围。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 3,
+              "end": 3,
+              "old": "此"
+            },
+            {
+              "start": 3,
+              "end": 3,
+              "new": "现在多用于书面语开头，如‘兹有’"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于唐玄宗开元年间，李白在游历期间与友人于东鲁（今山东）一带分别时所作。当时李白尚未入仕，漂泊江湖，与志同道合之友聚散无常。诗中描绘的‘青山’‘白水’应为鲁地实景，借景抒情，表达对友人深切的眷恋与祝福。",
+  "appreciation": "本诗是唐代送别诗中的名篇，结构严谨，意境浑成。首联以工整对仗点明送别之地，‘青山’‘白水’色彩明丽，反衬离愁。颔联转写离情，‘孤蓬’喻友人漂泊无依，意象苍凉。颈联以‘浮云’‘落日’双关写游子行踪与故人情深，情景交融，被誉为千古妙对。尾联‘班马鸣’细节动人，马犹不舍，何况人乎？全诗虽为律体，却气韵流动，不拘对偶之滞，体现了李白诗自然天成的艺术风格。",
+  "tags": [
+    "八年级下册",
+    "送别诗",
+    "友情",
+    "李白"
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "name": "送杜少府之任蜀州",
+  "author": "王勃",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阙",
+              "pinyin": "què",
+              "index": 1,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "辅",
+              "pinyin": "fǔ",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "三",
+              "pinyin": "sān",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "烟",
+              "pinyin": "yān",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "望",
+              "pinyin": "wàng",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "五",
+              "pinyin": "wǔ",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "津",
+              "pinyin": "jīn",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "雄伟的长安城由三秦之地护卫，遥望蜀州的五津弥漫着风烟。",
+          "pinyin": "chéng què fǔ sān qín ， fēng yān wàng wǔ jīn 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "城阙：指长安城的宫门前楼观，象征京城，此处代指都城。"
+            },
+            {
+              "start": 2,
+              "end": 4,
+              "content": "辅三秦：三秦指关中地区，项羽分封的雍、塞、翟三国之地；辅，护卫之意，形容京师被三秦拱卫。"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "content": "五津：指岷江上的五个渡口（白华津、万里津、江首津、涉头津、江南津），代指蜀地，即友人赴任之地。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "离",
+              "pinyin": "lí",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "别",
+              "pinyin": "bié",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "意",
+              "pinyin": "yì",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "同",
+              "pinyin": "tóng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宦",
+              "pinyin": "huàn",
+              "index": 20,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "游",
+              "pinyin": "yóu",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我和你都有离别的感伤，因为我们都是在外做官而漂泊的人。",
+          "pinyin": "yǔ jūn lí bié yì ， tóng shì huàn yóu rén 。",
+          "notes": [
+            {
+              "start": 8,
+              "end": 9,
+              "content": "宦游：在外做官或求官，漂泊谋职。宦，做官；游，游历。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 6,
+              "end": 11,
+              "content": "‘同是宦游人’为判断句，以‘是’表示判断，相当于‘都是……的人’，属于文言判断句式。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "海",
+              "pinyin": "hǎi",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "内",
+              "pinyin": "nèi",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "存",
+              "pinyin": "cún",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "己",
+              "pinyin": "jǐ",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "涯",
+              "pinyin": "yá",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "比",
+              "pinyin": "bǐ",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "邻",
+              "pinyin": "lín",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "只要四海之内有知心朋友，即使远在天涯也如同近邻一般。",
+          "pinyin": "hǎi nèi cún zhī jǐ ， tiān yá ruò bǐ lín 。",
+          "notes": [
+            {
+              "start": 9,
+              "end": 10,
+              "content": "比邻：古代五家为邻，八家为比，比邻即近邻，意为近在咫尺。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "歧",
+              "pinyin": "qí",
+              "index": 39,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "路",
+              "pinyin": "lù",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "儿",
+              "pinyin": "ér",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "女",
+              "pinyin": "nǚ",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "共",
+              "pinyin": "gòng",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沾",
+              "pinyin": "zhān",
+              "index": 45,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "巾",
+              "pinyin": "jīn",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "不要在分别的岔路口，像儿女一样让泪水打湿衣巾！",
+          "pinyin": "wú wéi zài qí lù ， ér nǚ gòng zhān jīn ！",
+          "notes": [
+            {
+              "start": 3,
+              "end": 4,
+              "content": "歧路：岔路，比喻分别的路口，含有离愁别绪的情感色彩。"
+            },
+            {
+              "start": 9,
+              "end": 10,
+              "content": "沾巾：泪水沾湿手帕，‘沾’为浸湿，‘巾’指擦泪的手帕，代指哭泣。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 10,
+              "end": 10,
+              "old": "手帕，擦泪之物"
+            },
+            {
+              "start": 10,
+              "end": 10,
+              "new": "头巾、毛巾等日常用品"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于王勃任长安县尉时期，友人杜少府赴蜀州（今四川崇州）上任，王勃在长安送别时所作。当时王勃虽才华横溢，但仕途坎坷，对宦游生活深有体会，故此诗既表达惜别之情，又抒发豁达胸襟。",
+  "appreciation": "本诗突破送别诗悲戚传统，以‘海内存知己，天涯若比邻’一联开创新境，将友情升华为超越空间的精神联结。结构严谨，起承转合分明：首联写景壮阔，奠定雄浑基调；颔联直抒离情，自然过渡；颈联哲理升华，气势磅礴；尾联劝慰收束，刚健有力。五言律诗成熟之作，对仗工整而不板滞，情感真挚而境界高远，被誉为送别诗千古绝唱。",
+  "tags": [
+    "八年级下册",
+    "送别诗",
+    "友情",
+    "五言律诗"
+  ]
+}

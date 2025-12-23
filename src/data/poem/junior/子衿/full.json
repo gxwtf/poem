@@ -1,0 +1,588 @@
+{
+  "name": "子衿",
+  "author": "佚名",
+  "dynasty": "先秦",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "青",
+              "pinyin": "qīng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "青",
+              "pinyin": "qīng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "衿",
+              "pinyin": "jīn",
+              "index": 3,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悠",
+              "pinyin": "yōu",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悠",
+              "pinyin": "yōu",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 9,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "你那青青的衣领，牵动我绵绵不绝的思念。",
+          "pinyin": "qīng qīng zǐ jīn ， yōu yōu wǒ xīn 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "子衿：指你衣领，代指所思念的男子。子，古代对男子的尊称；衿，衣领，特指青色交领服饰，象征学子身份。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "悠悠：形容思绪绵长、深沉的样子，表达内心持续不断的思念之情。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 6,
+              "end": 7,
+              "content": "‘悠悠我心’为主谓倒装句，正常语序为‘我心悠悠’，倒装以强调情感的深沉绵长。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "纵",
+              "pinyin": "zòng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "往",
+              "pinyin": "wǎng",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宁",
+              "pinyin": "níng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "嗣",
+              "pinyin": "sì",
+              "index": 18,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "音",
+              "pinyin": "yīn",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 20,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "纵然我没有去找你，你就不能传个音信吗？",
+          "pinyin": "zòng wǒ bù wǎng ， zǐ níng bù sì yīn ？",
+          "notes": [
+            {
+              "start": 0,
+              "end": 0,
+              "content": "纵：即使、纵然，表示让步关系，引出下文的假设语气。"
+            },
+            {
+              "start": 6,
+              "end": 6,
+              "content": "宁：难道，表示反问语气，加强情感表达。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "嗣音：传递音信。嗣，继续、传递；音，消息、书信。指主动联系。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 8,
+              "old": "传递、延续（音信）"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "new": "继承（如嗣位）"
+            },
+            {
+              "start": 9,
+              "end": 9,
+              "old": "音信、书信"
+            },
+            {
+              "start": 9,
+              "end": 9,
+              "new": "声音、音乐"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "青",
+              "pinyin": "qīng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "青",
+              "pinyin": "qīng",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "佩",
+              "pinyin": "pèi",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 25,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "悠",
+              "pinyin": "yōu",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悠",
+              "pinyin": "yōu",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "思",
+              "pinyin": "sī",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 30,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "你那青青的佩带，让我思念绵绵不断。",
+          "pinyin": "qīng qīng zǐ pèi ， yōu yōu wǒ sī 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 4,
+              "content": "子佩：你佩戴的玉饰，代指对方。佩，古人常佩玉以示品德与身份。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 6,
+              "end": 7,
+              "content": "‘悠悠我思’同为主谓倒装，强调思念之情的强烈与持久。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "纵",
+              "pinyin": "zòng",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "往",
+              "pinyin": "wǎng",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宁",
+              "pinyin": "níng",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 40,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "纵然我没有去找你，你就不能主动前来吗？",
+          "pinyin": "zòng wǒ bù wǎng ， zǐ níng bù lái ？"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "挑",
+              "pinyin": "tiāo",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "达",
+              "pinyin": "dá",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阙",
+              "pinyin": "què",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 49,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 50,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我来回徘徊张望，在那城门的高台上。",
+          "pinyin": "tiāo xī dá xī ， zài chéng què xī 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 4,
+              "content": "挑兮达兮：形容来回走动、徘徊不定的样子，表现等待时焦灼不安的心情。"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "content": "城阙：城门两侧的高台，常为会面或守望之所，此处暗示约会地点。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "如",
+              "pinyin": "rú",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "三",
+              "pinyin": "sān",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 60,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "一天没有见到你，就好像过了三个月啊！",
+          "pinyin": "yī rì bù jiàn ， rú sān yuè xī ！"
+        }
+      ]
+    }
+  ],
+  "background": "《子衿》出自《诗经·郑风》，是先秦时期郑地的民间情歌。当时礼乐制度尚存，但民间情感表达较为自由。此诗描写一位女子对恋人的深切思念，因对方久不相见而产生埋怨与期盼交织的复杂情感。诗中‘子衿’‘子佩’为士人服饰，暗示对方为有身份的男子，而女子登城远望，可见其情之深、思之切。",
+  "appreciation": "全诗以内心独白式抒情，层层递进。首章以‘青青子衿’起兴，借衣饰写人，表达思念之深；次章质问‘宁不嗣音’，情绪由柔转急；末章‘挑兮达兮’刻画徘徊之态，‘一日不见，如三月兮’以夸张手法极言相思之苦。重章叠句，回环往复，音韵和谐，体现了《诗经》典型的艺术特征。情感真挚动人，语言质朴而富有感染力，是中国古代最早表现男女相思之情的诗歌之一。",
+  "tags": [
+    "高中语文必修上册",
+    "爱情诗",
+    "《诗经》",
+    "先秦诗歌",
+    "重章叠句"
+  ]
+}

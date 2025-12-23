@@ -1,0 +1,333 @@
+{
+  "name": "贾生",
+  "author": "李商隐",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "宣",
+              "pinyin": "xuān",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "室",
+              "pinyin": "shì",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "求",
+              "pinyin": "qiú",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "贤",
+              "pinyin": "xián",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "访",
+              "pinyin": "fǎng",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逐",
+              "pinyin": "zhú",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "臣",
+              "pinyin": "chén",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "贾",
+              "pinyin": "jiǎ",
+              "index": 8,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "生",
+              "pinyin": "shēng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "才",
+              "pinyin": "cái",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "调",
+              "pinyin": "diào",
+              "index": 11,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "更",
+              "pinyin": "gèng",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "伦",
+              "pinyin": "lún",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "汉文帝在宣室咨询被贬大臣，贾谊的才华气度无人能比。",
+          "pinyin": "xuān shì qiú xián fǎng zhú chén ， jiǎ shēng cái diào gèng wú lún 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "宣室：汉代未央宫中的正殿，汉文帝在此召见贾谊，代指帝王郑重召见大臣的场合。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "content": "逐臣：被贬谪的大臣，此处指贾谊，因遭权贵排挤被贬长沙。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "贾生：指贾谊，西汉政论家、文学家，年少有才，故称‘生’。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "才调：才华与风度，‘才’指才能，‘调’指才情格调，文言中常用搭配。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "怜",
+              "pinyin": "lián",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "半",
+              "pinyin": "bàn",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "虚",
+              "pinyin": "xū",
+              "index": 20,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "前",
+              "pinyin": "qián",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "席",
+              "pinyin": "xí",
+              "index": 22,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "问",
+              "pinyin": "wèn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "苍",
+              "pinyin": "cāng",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "生",
+              "pinyin": "shēng",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "问",
+              "pinyin": "wèn",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鬼",
+              "pinyin": "guǐ",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "神",
+              "pinyin": "shén",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "可惜他半夜徒然移膝靠近，不问百姓生计却问鬼神之事。",
+          "pinyin": "kě lián yè bàn xū qián xí ， bù wèn cāng shēng wèn guǐ shén 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "可怜：此处意为‘可惜’，表达对汉文帝未能重用贤才的遗憾，非现代‘同情’义。"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "content": "虚：徒然、白白地，指虽恭敬倾听却未问治国大事，与‘虚假’无关。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "content": "前席：向前移动坐席，古代席地而坐，向前移席表示倾听专注，体现帝王礼遇。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "苍生：指百姓，古代常用词，体现贾谊治国理政的才能本应用于民生。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 0,
+              "end": 1,
+              "old": "可惜"
+            },
+            {
+              "start": 0,
+              "end": 1,
+              "new": "值得同情"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "old": "徒然"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "new": "不真实"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 8,
+              "end": 15,
+              "content": "‘不问苍生问鬼神’为并列对比句式，省略连词‘而’，通过否定与肯定的并列，突出对朝廷重鬼神轻贤才的讽刺。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗约作于唐宣宗大中年间（847-859年），当时李商隐身处牛李党争夹缝，仕途困顿。他借汉文帝与贾谊典故讽喻晚唐帝王表面求贤若渴，实则不重民生、迷信方术。贾谊少有才名，却遭权贵排挤被贬长沙，汉文帝召其回京于宣室夜谈，然所问者皆鬼神之事而非治国之策。李商隐借此抒发怀才不遇、理想落空的愤懑。",
+  "appreciation": "本诗为咏史讽喻经典。首句‘求贤’与末句‘问鬼神’形成强烈反讽，凸显政治期待与现实落差。‘夜半虚前席’细节生动，既写出君主倾听时的专注姿态，又以‘虚’字点明其关注点错位，情感张力十足。全诗结构精巧，前扬后抑，第三句‘可怜’二字直抒慨叹，将讽刺推向高潮。语言含蓄而锋芒内藏，体现李商隐七绝‘寄托深而措辞婉’的艺术特色。",
+  "tags": [
+    "八年级下册",
+    "咏史诗",
+    "讽刺诗",
+    "怀才不遇"
+  ]
+}

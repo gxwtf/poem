@@ -1,0 +1,311 @@
+{
+  "name": "峨眉山月歌",
+  "author": "李白",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "峨",
+              "pinyin": "é",
+              "index": 0,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "眉",
+              "pinyin": "méi",
+              "index": 1,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "半",
+              "pinyin": "bàn",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "轮",
+              "pinyin": "lún",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "影",
+              "pinyin": "yǐng",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "入",
+              "pinyin": "rù",
+              "index": 9,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "平",
+              "pinyin": "píng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "羌",
+              "pinyin": "qiāng",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "流",
+              "pinyin": "liú",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "峨眉山上悬着半轮秋月，月影倒映在平羌江水中随波流动。",
+          "pinyin": "é méi shān yuè bàn lún qiū ， yǐng rù píng qiāng jiāng shuǐ liú 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "峨眉：山名，位于今四川省峨眉山市，以佛教名山著称。"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "content": "半轮：指半圆形的月亮，形容月相，常见于诗歌描写。"
+            },
+            {
+              "start": 6,
+              "end": 6,
+              "content": "秋：此处非指季节，而是借以形容月色清冷、秋夜澄澈的意境。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "平羌：即平羌江，今称青衣江，流经四川乐山一带。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "发",
+              "pinyin": "fā",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "清",
+              "pinyin": "qīng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "溪",
+              "pinyin": "xī",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "向",
+              "pinyin": "xiàng",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "三",
+              "pinyin": "sān",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "峡",
+              "pinyin": "xiá",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "思",
+              "pinyin": "sī",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "君",
+              "pinyin": "jūn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bú",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "下",
+              "pinyin": "xià",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "渝",
+              "pinyin": "yú",
+              "index": 29,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "州",
+              "pinyin": "zhōu",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "夜里从清溪出发驶向三峡，思念你却无法相见，只能顺江而下前往渝州。",
+          "pinyin": "yè fā qīng xī xiàng sān xiá ， sī jūn bú jiàn xià yú zhōu 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "content": "清溪：指清溪驿，唐代驿站名，位于今四川乐山境内。"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "content": "下：顺江而下，表示乘船沿江流向下游，带有方向性动词用法。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "content": "渝州：古代州名，治所在今重庆市，为巴蜀地区重要城市。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 12,
+              "end": 12,
+              "old": "顺流而下（方向动词）"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "new": "向下（空间位置）"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "唐玄宗开元十二年（724年），李白初离蜀地漫游。时年二十四岁的他乘船经平羌江出蜀，途经峨眉山，见月色清朗，江水奔流，触景生情而作此诗。诗中‘君’既可指友人，亦可指故乡明月，寄托了诗人初离故土的眷恋与对前路的憧憬。",
+  "appreciation": "全诗以‘月’为线索贯穿五地（峨眉山、平羌江、清溪、三峡、渝州），形成千里江流图卷。‘半轮秋’巧写月相，既点明时令又营造残缺意境。‘影入’二字化静为动，将月光与江水融为一体。后两句连用‘发’‘向’‘下’三个动词，勾勒出行程之迅疾，反衬‘思君不见’的绵长遗憾。地名密集而自然流转，音韵清越，被誉为‘四句入地名者五，古今视为绝唱’。",
+  "tags": [
+    "七年级下册",
+    "山水诗",
+    "思乡诗",
+    "李白"
+  ]
+}

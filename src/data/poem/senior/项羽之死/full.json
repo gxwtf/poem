@@ -1,0 +1,1347 @@
+{
+  "name": "项羽之死",
+  "author": "司马迁",
+  "dynasty": "西汉",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "项",
+              "pinyin": "xiàng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "壁",
+              "pinyin": "bì",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "垓",
+              "pinyin": "gāi",
+              "index": 4,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "下",
+              "pinyin": "xià",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兵",
+              "pinyin": "bīng",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "少",
+              "pinyin": "shǎo",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "食",
+              "pinyin": "shí",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "尽",
+              "pinyin": "jìn",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "及",
+              "pinyin": "jí",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "诸",
+              "pinyin": "zhū",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "侯",
+              "pinyin": "hóu",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兵",
+              "pinyin": "bīng",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "围",
+              "pinyin": "wéi",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "数",
+              "pinyin": "shù",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "重",
+              "pinyin": "chóng",
+              "index": 21,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 22,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "项王的军队驻扎在垓下，士兵很少，粮食也吃完了，汉军和诸侯的军队把他们重重包围。",
+          "pinyin": "xiàng wáng jūn bì gāi xià ， bīng shǎo shí jìn ， hàn jūn jí zhū hóu bīng wéi zhī shù chóng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "壁：名词作动 词，意为设营驻扎。"
+            },
+            {
+              "start": 15,
+              "end": 16,
+              "content": "诸侯：指跟随刘邦讨伐项羽的各路将领，如韩信、彭越等封王之人。"
+            },
+            {
+              "start": 21,
+              "end": 21,
+              "content": "重：读chóng，层、道，表示包围的层数多。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "四",
+              "pinyin": "sì",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "面",
+              "pinyin": "miàn",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "歌",
+              "pinyin": "gē",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "项",
+              "pinyin": "xiàng",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "大",
+              "pinyin": "dà",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "惊",
+              "pinyin": "jīng",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "已",
+              "pinyin": "yǐ",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "多",
+              "pinyin": "duō",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "pinyin": "’",
+              "index": 56,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "夜里听到汉军在四面唱着楚地的歌，项王于是大惊道：‘汉军已经占领楚地了吗？为什么楚人这么多啊！’",
+          "pinyin": "yè wén hàn jūn sì miàn jiē chǔ gē ， xiàng wáng nǎi dà jīng yuē ： ‘ hàn jiē yǐ dé chǔ hū ？ shì hé chǔ rén zhī duō yě ！ ’",
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "content": "楚歌：楚地的民歌，项羽军队多为楚人，闻之思乡。"
+            },
+            {
+              "start": 26,
+              "end": 26,
+              "content": "是：指示代词，这，指当前情况。"
+            },
+            {
+              "start": 29,
+              "end": 29,
+              "content": "之：结构助词，用于主谓之间取消句子独立性，加强感叹语气。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 25,
+              "end": 32,
+              "content": "‘是何楚人之多也’为感叹句式，‘何……之多’结构加强语气，属主谓倒装。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "项",
+              "pinyin": "xiàng",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "则",
+              "pinyin": "zé",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "起",
+              "pinyin": "qǐ",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "饮",
+              "pinyin": "yǐn",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "帐",
+              "pinyin": "zhàng",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 66,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "项王于是连夜起身，在帐中饮酒。",
+          "pinyin": "xiàng wáng zé yè qǐ ， yǐn zhàng zhōng 。",
+          "special_sentences": [
+            {
+              "start": 6,
+              "end": 8,
+              "content": "‘饮帐中’省略介词‘于’，应为‘饮于帐中’，属状语后置。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "美",
+              "pinyin": "měi",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "名",
+              "pinyin": "míng",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "虞",
+              "pinyin": "yú",
+              "index": 71,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "幸",
+              "pinyin": "xìng",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "从",
+              "pinyin": "cóng",
+              "index": 75,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "；",
+              "pinyin": "；",
+              "index": 76,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骏",
+              "pinyin": "jùn",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "马",
+              "pinyin": "mǎ",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "名",
+              "pinyin": "míng",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骓",
+              "pinyin": "zhuī",
+              "index": 80,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 82,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骑",
+              "pinyin": "qí",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 84,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 85,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "有位美人名叫虞，常常跟随在身边；有匹骏马名叫骓，项王经常骑它。",
+          "pinyin": "yǒu měi rén míng yú ， cháng xìng cóng ； jùn mǎ míng zhuī ， cháng qí zhī 。",
+          "notes": [
+            {
+              "start": 7,
+              "end": 7,
+              "content": "幸：受宠幸，指虞姬常被项羽宠爱，非现代‘幸运’义。"
+            },
+            {
+              "start": 13,
+              "end": 13,
+              "content": "骓：读zhuī，毛色苍白相间的骏马，项羽坐骑名。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 7,
+              "end": 7,
+              "old": "受宠幸"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "new": "幸运"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "是",
+              "pinyin": "shì",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "项",
+              "pinyin": "xiàng",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi",
+              "index": 90,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悲",
+              "pinyin": "bēi",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "歌",
+              "pinyin": "gē",
+              "index": 92,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "慷",
+              "pinyin": "kāng",
+              "index": 93,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "慨",
+              "pinyin": "kǎi",
+              "index": 94,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 95,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 96,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 97,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "诗",
+              "pinyin": "shī",
+              "index": 98,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 99,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：",
+              "index": 100,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "‘",
+              "pinyin": "‘",
+              "index": 101,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "力",
+              "pinyin": "lì",
+              "index": 102,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "拔",
+              "pinyin": "bá",
+              "index": 103,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 104,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 105,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 106,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "盖",
+              "pinyin": "gài",
+              "index": 107,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "世",
+              "pinyin": "shì",
+              "index": 108,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 109,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 110,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 111,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "利",
+              "pinyin": "lì",
+              "index": 112,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 113,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骓",
+              "pinyin": "zhuī",
+              "index": 114,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 115,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逝",
+              "pinyin": "shì",
+              "index": 116,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 117,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骓",
+              "pinyin": "zhuī",
+              "index": 118,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 119,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逝",
+              "pinyin": "shì",
+              "index": 120,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 121,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 122,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奈",
+              "pinyin": "nài",
+              "index": 123,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 124,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 125,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "虞",
+              "pinyin": "yú",
+              "index": 126,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 127,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "虞",
+              "pinyin": "yú",
+              "index": 128,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 129,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奈",
+              "pinyin": "nài",
+              "index": 130,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 131,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 132,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 133,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "’",
+              "pinyin": "’",
+              "index": 134,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "于是项王慷慨悲歌，自己作诗唱道：‘力量能拔起大山啊气势盖世，时运不济啊骓马不再前行。骓马不再前行啊能怎么办，虞啊虞啊我把你怎么办！’",
+          "pinyin": "yú shì xiàng wáng nǎi bēi gē kāng kǎi ， zì wéi shī yuē ： ‘ lì bá shān xī qì gài shì ， shí bù lì xī zhuī bù shì 。 zhuī bù shì xī kě nài hé ， yú xī yú xī nài ruò hé ！ ’",
+          "notes": [
+            {
+              "start": 6,
+              "end": 7,
+              "content": "慷慨：情绪激昂、悲壮，非现代‘大方’义。"
+            },
+            {
+              "start": 11,
+              "end": 11,
+              "content": "为：读wéi，作、创作，指项羽自己作诗。"
+            },
+            {
+              "start": 19,
+              "end": 19,
+              "content": "兮：语气助词，相当于‘啊’，用于诗歌中调节节奏。"
+            },
+            {
+              "start": 30,
+              "end": 30,
+              "content": "逝：奔驰、前行，此处指马不肯奔逃，非‘死亡’义。"
+            },
+            {
+              "start": 37,
+              "end": 39,
+              "content": "奈何：固定结构，意为‘怎么办’，‘可奈何’即‘该怎么办’。"
+            },
+            {
+              "start": 44,
+              "end": 47,
+              "content": "奈若何：将你怎么办？‘若’为‘你’，‘奈……何’为处置式结构。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 6,
+              "end": 7,
+              "old": "情绪激昂、悲壮"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "new": "大方、不吝啬"
+            },
+            {
+              "start": 30,
+              "end": 30,
+              "old": "奔驰、前行"
+            },
+            {
+              "start": 30,
+              "end": 30,
+              "new": "死亡"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 37,
+              "end": 39,
+              "content": "‘可奈何’为‘奈……何’结构，表示对某事无可奈何，属处置式宾语前置。"
+            },
+            {
+              "start": 44,
+              "end": 47,
+              "content": "‘奈若何’即‘奈何若’，‘若’为宾语前置，属宾语前置句。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "歌",
+              "pinyin": "gē",
+              "index": 135,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "数",
+              "pinyin": "shù",
+              "index": 136,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阕",
+              "pinyin": "què",
+              "index": 137,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 138,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "美",
+              "pinyin": "měi",
+              "index": 139,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 140,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "和",
+              "pinyin": "hè",
+              "index": 141,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 142,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 143,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "他唱了几遍，美人虞姬应和着一起唱。",
+          "pinyin": "gē shù què ， měi rén hè zhī 。",
+          "special_sentences": [
+            {
+              "start": 1,
+              "end": 3,
+              "content": "‘歌数阕’中‘数阕’为数量短语作补语，正常语序为‘数阕歌’，属定语后置。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "项",
+              "pinyin": "xiàng",
+              "index": 144,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 145,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "泣",
+              "pinyin": "qì",
+              "index": 146,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "数",
+              "pinyin": "shù",
+              "index": 147,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 148,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "下",
+              "pinyin": "xià",
+              "index": 149,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 150,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "左",
+              "pinyin": "zuǒ",
+              "index": 151,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "右",
+              "pinyin": "yòu",
+              "index": 152,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē",
+              "index": 153,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "泣",
+              "pinyin": "qì",
+              "index": 154,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 155,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "莫",
+              "pinyin": "mò",
+              "index": 156,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "能",
+              "pinyin": "néng",
+              "index": 157,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "仰",
+              "pinyin": "yǎng",
+              "index": 158,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "视",
+              "pinyin": "shì",
+              "index": 159,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 160,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "项王眼泪流下数行，身边的人都哭了，没有谁能够抬头看他。",
+          "pinyin": "xiàng wáng qì shù xíng xià ， zuǒ yòu jiē qì ， mò néng yǎng shì 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 5,
+              "content": "泣数行下：眼泪成行地流下。‘行’指泪痕，‘下’为落下。"
+            },
+            {
+              "start": 13,
+              "end": 13,
+              "content": "莫：没有人，否定性无定代词。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "公元前202年，楚汉战争进入最后阶段，项羽被刘邦联军围困于垓下。兵少粮尽，夜闻汉军四面楚歌，误以为楚地已失，军心崩溃。项羽在帐中饮酒悲歌，与虞姬诀别，随后率部突围，最终在乌江自刎。此段节选自《史记·项羽本纪》，生动再现了这位悲剧英雄的最后时刻。",
+  "appreciation": "司马迁以极简笔墨营造出强烈戏剧张力。‘四面皆楚歌’一句既写实又象征，彻底击溃项羽心理防线。‘悲歌慷慨’四字浓缩英雄末路的复杂情感——惊、愤、悲、怜交织。‘力拔山兮’之豪壮与‘奈若何’之无奈形成巨大反差，凸显命运不可逆的悲剧性。‘泣数行下’打破霸王刚硬形象，展现其深情与脆弱，使人物更具人性光辉。全文通过环境、语言、动作层层推进，塑造出中国文学史上最动人的悲剧场景之一。",
+  "tags": [
+    "必修下册",
+    "史传文学",
+    "英雄悲剧",
+    "司马迁",
+    "垓下之战"
+  ]
+}

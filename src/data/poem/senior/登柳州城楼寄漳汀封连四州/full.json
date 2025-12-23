@@ -1,0 +1,591 @@
+{
+  "name": "登柳州城楼寄漳汀封连四州",
+  "author": "柳宗元",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "高",
+              "pinyin": "gāo",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楼",
+              "pinyin": "lóu",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "接",
+              "pinyin": "jiē",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "大",
+              "pinyin": "dà",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "荒",
+              "pinyin": "huāng",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "海",
+              "pinyin": "hǎi",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "思",
+              "pinyin": "sī",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "正",
+              "pinyin": "zhèng",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "茫",
+              "pinyin": "máng",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "茫",
+              "pinyin": "máng",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "登上城楼高处远望荒凉旷野，海天之间忧愁的思绪无边无际。",
+          "pinyin": "chéng shàng gāo lóu jiē dà huāng ， hǎi tiān chóu sī zhèng máng máng 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "大荒：荒远之地，指边远荒凉的地区，象征贬谪环境的孤寂与隔绝。"
+            },
+            {
+              "start": 14,
+              "end": 15,
+              "content": "茫茫：形容海天无际，也比喻愁思的广阔深远，情景交融。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "惊",
+              "pinyin": "jīng",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乱",
+              "pinyin": "luàn",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "飐",
+              "pinyin": "zhǎn",
+              "index": 19,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "芙",
+              "pinyin": "fú",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "蓉",
+              "pinyin": "róng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "密",
+              "pinyin": "mì",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "雨",
+              "pinyin": "yǔ",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "斜",
+              "pinyin": "xié",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "侵",
+              "pinyin": "qīn",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "薜",
+              "pinyin": "bì",
+              "index": 28,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "荔",
+              "pinyin": "lì",
+              "index": 29,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "墙",
+              "pinyin": "qiáng",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "狂风惊扰着水中的荷花，暴雨斜斜地侵袭着爬满薜荔的墙。",
+          "pinyin": "jīng fēng luàn zhǎn fú róng shuǐ ， mì yǔ xié qīn bì lì qiáng 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 3,
+              "content": "飐（zhǎn）：风吹物体使其颤动，此处指狂风搅动水面。"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "content": "芙蓉：荷花，象征高洁，此处被风雨摧残，暗喻诗人处境。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "content": "薜荔：一种常绿藤本植物，古诗中常象征坚韧或荒凉，此处暗示环境恶劣。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "岭",
+              "pinyin": "lǐng",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "树",
+              "pinyin": "shù",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "重",
+              "pinyin": "zhòng",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "遮",
+              "pinyin": "zhē",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "千",
+              "pinyin": "qiān",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "目",
+              "pinyin": "mù",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "流",
+              "pinyin": "liú",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曲",
+              "pinyin": "qū",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "似",
+              "pinyin": "sì",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "九",
+              "pinyin": "jiǔ",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "回",
+              "pinyin": "huí",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "肠",
+              "pinyin": "cháng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "山岭上的树木重重遮挡了远望千里的视线，江流曲折如同我九转的愁肠。",
+          "pinyin": "lǐng shù zhòng zhē qiān lǐ mù ， jiāng liú qū sì jiǔ huí cháng 。",
+          "notes": [
+            {
+              "start": 12,
+              "end": 14,
+              "content": "九回肠：比喻内心极度愁苦，形容愁绪缠绕反复，如同肠子九次打结。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 10,
+              "end": 15,
+              "content": "比喻句，以‘江流曲似九回肠’将江水的曲折比作愁肠百转，属典型的比喻特殊句式。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "共",
+              "pinyin": "gòng",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "百",
+              "pinyin": "bǎi",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "越",
+              "pinyin": "yuè",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "文",
+              "pinyin": "wén",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "犹",
+              "pinyin": "yóu",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "音",
+              "pinyin": "yīn",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "书",
+              "pinyin": "shū",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "滞",
+              "pinyin": "zhì",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 61,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "乡",
+              "pinyin": "xiāng",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "！",
+              "pinyin": "！",
+              "index": 63,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我们一同来到这百越之地，身上刺着花纹，却仍音信不通，各自滞留在异乡！",
+          "pinyin": "gòng lái bǎi yuè wén shēn dì ， yóu zì yīn shū zhì yī xiāng ！",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "百越：古代对南方少数民族地区的统称，泛指岭南偏远之地。"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "content": "文身：身上刺画花纹，是古代南方少数民族的习俗，代指异域文化环境。"
+            },
+            {
+              "start": 11,
+              "end": 12,
+              "content": "音书：音信、书信，指亲友间的通信往来。"
+            },
+            {
+              "start": 13,
+              "end": 13,
+              "content": "滞：阻塞、不通，指书信无法传递，表达思念与隔绝之苦。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 4,
+              "end": 5,
+              "old": "身上刺画花纹的习俗"
+            },
+            {
+              "start": 4,
+              "end": 5,
+              "new": "现代多泛指 tattoos，文化含义趋于中性或时尚"
+            },
+            {
+              "start": 11,
+              "end": 12,
+              "old": "书信、音讯"
+            },
+            {
+              "start": 11,
+              "end": 12,
+              "new": "音：声音；书：书籍，合用已不表示通信"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "唐宪宗元和十年（815年），柳宗元被贬为柳州刺史，途经柳州城楼时作此诗，寄赠同样被贬至漳州、汀州、封州、连州的四位友人：韩泰、韩晔、陈谏和刘禹锡。此时距永贞革新失败已十年，五人皆因政治改革失败遭贬，远谪南方边地，诗中寄托了深切的思念与共同的悲愤。",
+  "appreciation": "全诗以登高望远起兴，借景抒情，层层递进。首联写登楼所见，'大荒'与'茫茫'渲染出苍茫孤寂之境；颔联以'惊风'、'密雨'象征政敌迫害，'芙蓉'、'薜荔'喻君子高洁，暗含贬谪之痛；颈联写视线被阻、江流九曲，喻归路难通、愁肠百结；尾联直抒胸臆，同贬异地而音书难达，悲愤之情溢于言表。对仗工整，意象密集，情感沉郁顿挫，是唐代贬谪诗中的杰作。",
+  "tags": [
+    "选择性必修中册",
+    "贬谪诗",
+    "友情诗",
+    "七言律诗"
+  ]
+}

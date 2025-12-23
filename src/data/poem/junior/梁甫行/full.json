@@ -1,0 +1,490 @@
+{
+  "name": "梁甫行",
+  "author": "曹植",
+  "dynasty": "魏晋",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "八",
+              "pinyin": "bā",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "方",
+              "pinyin": "fāng",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "各",
+              "pinyin": "gè",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "异",
+              "pinyin": "yì",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "千",
+              "pinyin": "qiān",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "殊",
+              "pinyin": "shū",
+              "index": 8,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "雨",
+              "pinyin": "yǔ",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "四面八方气候各不相同，千里之内风雨各异。",
+          "pinyin": "bā fāng gè yì qì ， qiān lǐ shū fēng yǔ 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "异气：指各地气候不同，‘异’为不同，‘气’为气候、风气。"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "content": "殊：不同，区别，此处强调风雨各异。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "剧",
+              "pinyin": "jù",
+              "index": 12,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "哉",
+              "pinyin": "zāi",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "边",
+              "pinyin": "biān",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "海",
+              "pinyin": "hǎi",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "民",
+              "pinyin": "mín",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寄",
+              "pinyin": "jì",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "身",
+              "pinyin": "shēn",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "草",
+              "pinyin": "cǎo",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "野",
+              "pinyin": "yě",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "边海的人民多么艰苦，寄居在荒野草丛之中。",
+          "pinyin": "jù zāi biān hǎi mín ， jì shēn yú cǎo yě 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "剧哉：多么艰难啊！‘剧’意为困苦，‘哉’为感叹词，加强语气。"
+            },
+            {
+              "start": 6,
+              "end": 7,
+              "content": "寄身：托身、安身，指生活无依，只能栖身于荒野。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 6,
+              "end": 11,
+              "content": "状语后置，‘于草野’为介宾短语作状语，正常语序应为‘于草野寄身’。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "妻",
+              "pinyin": "qī",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "象",
+              "pinyin": "xiàng",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "禽",
+              "pinyin": "qín",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兽",
+              "pinyin": "shòu",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "止",
+              "pinyin": "zhǐ",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "依",
+              "pinyin": "yī",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "林",
+              "pinyin": "lín",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阻",
+              "pinyin": "zǔ",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 35,
+              "read": true,
+              "write": true
+            }
+          ],
+          "translation": "妻子儿女如同禽兽一般，行动止息都依靠山林险阻。",
+          "pinyin": "qī zǐ xiàng qín shòu ， xíng zhǐ yī lín zǔ 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "象：如同、好像，此处比喻生活状态与禽兽无异。"
+            },
+            {
+              "start": 9,
+              "end": 11,
+              "content": "林阻：山林险阻之地，指依靠山林地形隐蔽生存。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 0,
+              "end": 1,
+              "old": "妻子和子女"
+            },
+            {
+              "start": 0,
+              "end": 1,
+              "new": "仅指配偶中的女方"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 5,
+              "content": "省略句，应为‘妻象（于）禽兽’，省略介词‘于’。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "柴",
+              "pinyin": "chái",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "门",
+              "pinyin": "mén",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "萧",
+              "pinyin": "xiāo",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "条",
+              "pinyin": "tiáo",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "狐",
+              "pinyin": "hú",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兔",
+              "pinyin": "tù",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "翔",
+              "pinyin": "xiáng",
+              "index": 44,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "宇",
+              "pinyin": "yǔ",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "家园的柴门多么萧条，狐狸和兔子在屋子里自由穿行。",
+          "pinyin": "chái mén hé xiāo tiáo ， hú tù xiáng wǒ yǔ 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "柴门：用柴草搭建的门，象征居所简陋，反映生活贫困。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "翔：本义为飞翔，此处引申为自由自在地走动，形容狐兔在屋中出没。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "宇：屋宇、房屋，指居所，与‘翔’结合体现人去屋空。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 8,
+              "old": "行走、活动"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "new": "飞翔"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 3,
+              "end": 5,
+              "content": "主谓倒装，‘何萧条’即‘多么萧条’，为感叹句中的谓语前置结构。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "曹植生活在汉末战乱之后，社会动荡，民生凋敝。《梁甫行》是其反映边海地区百姓困苦生活的现实主义诗作。当时沿海地区开发不足，百姓被迫栖身荒野，生活条件极其恶劣。曹植借乐府旧题抒发现实关怀，表达了对底层人民的深切同情。",
+  "appreciation": "本诗以简练笔法描绘边海民众的非人生活。开篇以‘八方各异气’起兴，突出地域环境之恶劣。‘剧哉’二字直抒胸臆，表达震惊与悲悯。‘妻子象禽兽’一句震撼人心，揭示人类退化到原始生存状态。结尾‘狐兔翔我宇’以反常景象——野兽在人居之所自由活动，侧面烘托出家园荒废之极。全诗无一虚语，纯用白描，却具有强烈的批判力量，体现了曹植后期关注现实、风格转向质朴的特点。",
+  "tags": [
+    "八年级上册",
+    "民生疾苦",
+    "现实主义",
+    "乐府诗"
+  ]
+}

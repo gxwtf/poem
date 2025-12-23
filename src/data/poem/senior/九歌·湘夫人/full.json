@@ -1,0 +1,1835 @@
+{
+  "name": "九歌·湘夫人",
+  "author": "屈原",
+  "dynasty": "战国时期",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "帝",
+              "pinyin": "dì",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "降",
+              "pinyin": "jiàng",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "北",
+              "pinyin": "běi",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "渚",
+              "pinyin": "zhǔ",
+              "index": 5,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "目",
+              "pinyin": "mù",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "眇",
+              "pinyin": "miǎo",
+              "index": 8,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "眇",
+              "pinyin": "miǎo",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "愁",
+              "pinyin": "chóu",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "予",
+              "pinyin": "yú",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 13,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "湘夫人降临在北方的小洲上，我望眼欲穿，心中满是忧愁。",
+          "pinyin": "dì zǐ jiàng xī běi zhǔ ， mù miǎo miǎo xī chóu yú 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "帝子：指湘夫人，传说为尧的女儿，舜的妃子，此处以尊称表达对神灵的敬仰。"
+            },
+            {
+              "start": 5,
+              "end": 5,
+              "content": "渚：水中的小洲，常用于描写水边迎神场景。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "眇眇：形容视线遥远而模糊，表达深切的期盼与怅惘。"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "content": "愁：使动用法，‘使我忧愁’，体现湘君对湘夫人的思念之情。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "袅",
+              "pinyin": "niǎo",
+              "index": 14,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "袅",
+              "pinyin": "niǎo",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秋",
+              "pinyin": "qiū",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "洞",
+              "pinyin": "dòng",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "庭",
+              "pinyin": "tíng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "波",
+              "pinyin": "bō",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "木",
+              "pinyin": "mù",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "叶",
+              "pinyin": "yè",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "下",
+              "pinyin": "xià",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 27,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "秋风轻轻吹拂，洞庭湖上波浪起伏，树叶纷纷飘落。",
+          "pinyin": "niǎo niǎo xī qiū fēng ， dòng tíng bō xī mù yè xià 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "袅袅：微风轻拂的样子，常用来渲染秋意与离愁。"
+            },
+            {
+              "start": 11,
+              "end": 12,
+              "content": "木叶：指树叶，‘木’强调树的质感，‘叶’为落叶，是古典诗歌中的典型意象。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "登",
+              "pinyin": "dēng",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "白",
+              "pinyin": "bái",
+              "index": 29,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "薠",
+              "pinyin": "fán",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骋",
+              "pinyin": "chěng",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "望",
+              "pinyin": "wàng",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "佳",
+              "pinyin": "jiā",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "期",
+              "pinyin": "qī",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夕",
+              "pinyin": "xī",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 41,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我登上长满白薠的高地放眼远望，与佳人相约在黄昏时分。",
+          "pinyin": "dēng bái fán xī chěng wàng ， yǔ jiā qī xī xī zhāng 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "content": "白薠：一种白色的水草，常用于祭祀或象征纯洁。"
+            },
+            {
+              "start": 9,
+              "end": 9,
+              "content": "期：约会，此处指与湘夫人相见的约定，非现代‘期限’之意。"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "content": "张：张设帷帐，准备迎接，有迎神仪式的含义。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 9,
+              "end": 9,
+              "old": "约会"
+            },
+            {
+              "start": 9,
+              "end": 9,
+              "new": "期限"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "old": "张设帷帐"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "new": "展开、扩大"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "鸟",
+              "pinyin": "niǎo",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "萃",
+              "pinyin": "cuì",
+              "index": 44,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "苹",
+              "pinyin": "píng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "罾",
+              "pinyin": "zēng",
+              "index": 49,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "木",
+              "pinyin": "mù",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 55,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "鸟儿为何聚集在水草中？渔网为何挂在树梢上？",
+          "pinyin": "niǎo hé cuì xī píng zhōng ？ zēng hé wéi xī mù shàng ？",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "萃：聚集、栖息，多用于描写鸟兽聚集之地。"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "content": "苹：一种水草，即田字草，可作鸟类栖息之处。"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "content": "罾：古代一种用支架撑开的方形渔网，此处反常地挂在树上，暗示事理颠倒。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 1,
+              "end": 13,
+              "content": "‘鸟何萃兮苹中？罾何为兮木上？’为宾语前置句，疑问代词‘何’作宾语置于动词前，属典型文言疑问句式。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "沅",
+              "pinyin": "yuán",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "芷",
+              "pinyin": "zhǐ",
+              "index": 58,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "澧",
+              "pinyin": "lǐ",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兰",
+              "pinyin": "lán",
+              "index": 62,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "思",
+              "pinyin": "sī",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "公",
+              "pinyin": "gōng",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "未",
+              "pinyin": "wèi",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "敢",
+              "pinyin": "gǎn",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "言",
+              "pinyin": "yán",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 71,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "沅水有白芷，澧水有幽兰，我思念你却不敢说出来。",
+          "pinyin": "yuán yǒu zhǐ xī lǐ yǒu lán ， sī gōng zǐ xī wèi gǎn yán 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "芷：白芷，一种香草，象征高洁品德。"
+            },
+            {
+              "start": 6,
+              "end": 6,
+              "content": "兰：兰花，楚辞中常见的香草意象，代表美好人格。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "荒",
+              "pinyin": "huāng",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "忽",
+              "pinyin": "hū",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "远",
+              "pinyin": "yuǎn",
+              "index": 75,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "望",
+              "pinyin": "wàng",
+              "index": 76,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "观",
+              "pinyin": "guān",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "流",
+              "pinyin": "liú",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "潺",
+              "pinyin": "chán",
+              "index": 82,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "湲",
+              "pinyin": "yuán",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 84,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "我恍惚地向远方眺望，只见那流水缓缓流淌。",
+          "pinyin": "huāng hū xī yuǎn wàng ， guān liú shuǐ xī chán yuán 。",
+          "notes": [
+            {
+              "start": 10,
+              "end": 11,
+              "content": "潺湲：水流缓慢的样子，常用于描写水声与离愁。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "麋",
+              "pinyin": "mí",
+              "index": 85,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "食",
+              "pinyin": "shí",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "庭",
+              "pinyin": "tíng",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 90,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "蛟",
+              "pinyin": "jiāo",
+              "index": 92,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 93,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 94,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 95,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 96,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "裔",
+              "pinyin": "yì",
+              "index": 97,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 98,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "麋鹿为何在庭院中吃草？蛟龙为何在水边徘徊？",
+          "pinyin": "mí hé shí xī tíng zhōng ？ jiāo hé wéi xī shuǐ yì ？",
+          "notes": [
+            {
+              "start": 10,
+              "end": 10,
+              "content": "为：动词，做、在，此处表示蛟龙不该出现在水边。"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "content": "裔：水边、岸边，指水域的边缘地带。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 2,
+              "end": 13,
+              "content": "‘麋何食兮庭中？蛟何为兮水裔？’同为宾语前置句，反映诗人对现实反常的感慨。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "朝",
+              "pinyin": "zhāo",
+              "index": 99,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "驰",
+              "pinyin": "chí",
+              "index": 100,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "余",
+              "pinyin": "yú",
+              "index": 101,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "马",
+              "pinyin": "mǎ",
+              "index": 102,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 103,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 104,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "皋",
+              "pinyin": "gāo",
+              "index": 105,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 106,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夕",
+              "pinyin": "xī",
+              "index": 107,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "济",
+              "pinyin": "jì",
+              "index": 108,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 109,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "西",
+              "pinyin": "xī",
+              "index": 110,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "澨",
+              "pinyin": "shì",
+              "index": 111,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 112,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "清晨我骑马在江边奔驰，傍晚渡过西边的水滨。",
+          "pinyin": "zhāo chí yú mǎ xī jiāng gāo ， xī jì xī xī shì 。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 6,
+              "content": "皋：水边的高地，常用于描写出行或迎神路线。"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "content": "澨：水边，特指湘水之滨，地名用字。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 1,
+              "end": 7,
+              "content": "‘朝驰余马兮江皋’为状语后置句，正常语序应为‘朝于江皋驰余马’，‘江皋’为地点状语后置。"
+            },
+            {
+              "start": 9,
+              "end": 13,
+              "content": "‘夕济兮西澨’为状语后置句，‘西澨’为地点状语后置于动词‘济’之后。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 113,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "佳",
+              "pinyin": "jiā",
+              "index": 114,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 115,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 116,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "召",
+              "pinyin": "zhào",
+              "index": 117,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "予",
+              "pinyin": "yú",
+              "index": 118,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 119,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "将",
+              "pinyin": "jiāng",
+              "index": 120,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "腾",
+              "pinyin": "téng",
+              "index": 121,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "驾",
+              "pinyin": "jià",
+              "index": 122,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 123,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "偕",
+              "pinyin": "xié",
+              "index": 124,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逝",
+              "pinyin": "shì",
+              "index": 125,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 126,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "听说佳人召唤我，我将驾车与你一同远去。",
+          "pinyin": "wén jiā rén xī zhào yú ， jiāng téng jià xī xié shì 。",
+          "different_meanings": [
+            {
+              "start": 12,
+              "end": 12,
+              "old": "前往、离去"
+            },
+            {
+              "start": 12,
+              "end": 12,
+              "new": "死亡"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "筑",
+              "pinyin": "zhù",
+              "index": 127,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "室",
+              "pinyin": "shì",
+              "index": 128,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 129,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 130,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 131,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 132,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "葺",
+              "pinyin": "qì",
+              "index": 133,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 134,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 135,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "荷",
+              "pinyin": "hé",
+              "index": 136,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "盖",
+              "pinyin": "gài",
+              "index": 137,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 138,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "在水中建造房屋，用荷叶覆盖屋顶。",
+          "pinyin": "zhù shì xī shuǐ zhōng ， qì zhī xī hé gài 。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 6,
+              "content": "葺：修盖、修建，此处指用荷叶覆盖屋顶。"
+            },
+            {
+              "start": 9,
+              "end": 10,
+              "content": "荷盖：用荷叶做成的屋顶，象征清雅高洁的生活环境。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "芰",
+              "pinyin": "jì",
+              "index": 139,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "荷",
+              "pinyin": "hé",
+              "index": 140,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 141,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 142,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "衣",
+              "pinyin": "yī",
+              "index": 143,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 144,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 145,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "集",
+              "pinyin": "jí",
+              "index": 146,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "芙",
+              "pinyin": "fú",
+              "index": 147,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "蓉",
+              "pinyin": "róng",
+              "index": 148,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 149,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 150,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "裳",
+              "pinyin": "cháng",
+              "index": 151,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 152,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "用菱叶和荷叶做上衣，采撷荷花做下裳。",
+          "pinyin": "jì hé yǐ wéi yī xī ， jí fú róng yǐ wéi cháng 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "芰荷：菱叶与荷叶，皆为水生植物，用以制作衣裳，象征高洁。"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "content": "芙蓉：荷花的别称，象征纯洁与美丽。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "登",
+              "pinyin": "dēng",
+              "index": 153,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "昆",
+              "pinyin": "kūn",
+              "index": 154,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "仑",
+              "pinyin": "lún",
+              "index": 155,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 156,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "食",
+              "pinyin": "shí",
+              "index": 157,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "玉",
+              "pinyin": "yù",
+              "index": 158,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "英",
+              "pinyin": "yīng",
+              "index": 159,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 160,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 161,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 162,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "地",
+              "pinyin": "dì",
+              "index": 163,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 164,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "同",
+              "pinyin": "tóng",
+              "index": 165,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "寿",
+              "pinyin": "shòu",
+              "index": 166,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 167,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 168,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 169,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 170,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 171,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "同",
+              "pinyin": "tóng",
+              "index": 172,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "光",
+              "pinyin": "guāng",
+              "index": 173,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 174,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "登上昆仑山品尝玉英，与天地一样长寿，与日月一样光辉。",
+          "pinyin": "dēng kūn lún xī shí yù yīng ， yǔ tiān dì xī tóng shòu ， yǔ rì yuè xī tóng guāng 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 7,
+              "content": "玉英：玉的精华，传说中仙人所食，象征长生不老。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "悲",
+              "pinyin": "bēi",
+              "index": 175,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "莫",
+              "pinyin": "mò",
+              "index": 176,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悲",
+              "pinyin": "bēi",
+              "index": 177,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 178,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "生",
+              "pinyin": "shēng",
+              "index": 179,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "别",
+              "pinyin": "bié",
+              "index": 180,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "离",
+              "pinyin": "lí",
+              "index": 181,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 182,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乐",
+              "pinyin": "lè",
+              "index": 183,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "莫",
+              "pinyin": "mò",
+              "index": 184,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乐",
+              "pinyin": "lè",
+              "index": 185,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 186,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "新",
+              "pinyin": "xīn",
+              "index": 187,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng",
+              "index": 188,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 189,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 190,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "悲伤莫过于活生生的别离，快乐莫过于有了新的知己。",
+          "pinyin": "bēi mò bēi xī shēng bié lí ， lè mò lè xī xīn xiāng zhī 。",
+          "notes": [
+            {
+              "start": 12,
+              "end": 14,
+              "content": "新相知：刚刚结识的知己，表达对真挚情感的珍视。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 191,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 192,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 193,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 194,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骤",
+              "pinyin": "zhòu",
+              "index": 195,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 196,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 197,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "聊",
+              "pinyin": "liáo",
+              "index": 198,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "逍",
+              "pinyin": "xiāo",
+              "index": 199,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "遥",
+              "pinyin": "yáo",
+              "index": 200,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兮",
+              "pinyin": "xī",
+              "index": 201,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "容",
+              "pinyin": "róng",
+              "index": 202,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 203,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 204,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "美好的时光难以轻易得到，姑且悠闲自得地徘徊游荡。",
+          "pinyin": "shí bù kě xī zhòu dé ， liáo xiāo yáo xī róng yǔ 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 4,
+              "content": "骤：轻易、突然，‘不可骤得’表示美好时光难以轻易获得。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "聊：姑且、暂且，表达无奈中的自我宽慰。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "逍遥：自由自在，无拘无束。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "content": "容与：从容不迫，安闲自得，联绵词，多用于描写神灵出行的仪态。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 12,
+              "end": 13,
+              "old": "从容安闲"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "new": "现代已少用"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "《九歌·湘夫人》是屈原在楚国民间祭歌基础上创作的《九歌》组诗之一，约作于流放江南时期。湘夫人是传说中尧的女儿、舜的妻子娥皇、女英的化身，死后为湘水之神。此诗以湘君的口吻表达对湘夫人的深切思念与求而不得的惆怅，反映了诗人对理想与君王的期盼与失落。",
+  "appreciation": "全诗以湘君迎候湘夫人而不见的思慕之情为主线，融合神话、自然与情感，意境缥缈深远。通过‘袅袅秋风’‘木叶下’等意象渲染凄清氛围，以‘鸟萃苹中’‘罾在木上’等反常现象隐喻期待落空。诗中‘悲莫悲兮生别离，乐莫乐兮新相知’为千古名句，直抒胸臆，情感真挚。楚辞特有的‘兮’字结构增强节奏感与抒情性，展现浪漫主义色彩。",
+  "tags": [
+    "高中语文选修",
+    "楚辞",
+    "爱情诗",
+    "祭祀诗",
+    "屈原"
+  ]
+}

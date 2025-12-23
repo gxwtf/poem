@@ -1,0 +1,2041 @@
+{
+  "name": "苏武传",
+  "author": "班固",
+  "dynasty": "东汉",
+  "mode": "paragraph",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "武",
+              "pinyin": "wǔ",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "卿",
+              "pinyin": "qīng",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "少",
+              "pinyin": "shǎo",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "父",
+              "pinyin": "fù",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "任",
+              "pinyin": "rèn",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "兄",
+              "pinyin": "xiōng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "弟",
+              "pinyin": "dì",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "并",
+              "pinyin": "bìng",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "郎",
+              "pinyin": "láng",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "苏武字子卿，年轻时因为父亲的职务而被任用，兄弟都做了郎官。",
+          "pinyin": "wǔ zì zǐ qīng ， shǎo yǐ fù rèn ， xiōng dì bìng wéi láng 。",
+          "notes": [
+            {
+              "start": 1,
+              "end": 1,
+              "content": "字：古人的表字，用于尊称，与名相配。"
+            },
+            {
+              "start": 6,
+              "end": 9,
+              "content": "以父任：凭借父亲的功绩获得官职，汉代任子制度。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "稍",
+              "pinyin": "shāo",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "迁",
+              "pinyin": "qiān",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "栘",
+              "pinyin": "yí",
+              "index": 19,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "厩",
+              "pinyin": "jiù",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "监",
+              "pinyin": "jiān",
+              "index": 22,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "逐渐升迁到栘中厩监。",
+          "pinyin": "shāo qiān zhì yí zhōng jiù jiān 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "稍迁：逐渐升迁；‘稍’意为逐渐，非‘稍微’。"
+            },
+            {
+              "start": 3,
+              "end": 7,
+              "content": "栘中厩监：官职名，掌管栘园之中皇室马厩的官员。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "连",
+              "pinyin": "lián",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "伐",
+              "pinyin": "fá",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "胡",
+              "pinyin": "hú",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "数",
+              "pinyin": "shù",
+              "index": 30,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "通",
+              "pinyin": "tōng",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "窥",
+              "pinyin": "kuī",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "观",
+              "pinyin": "guān",
+              "index": 35,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 36,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "当时汉朝接连讨伐匈奴，多次互派使者窥探观察。",
+          "pinyin": "shí hàn lián fá hú ， shù tōng shǐ xiāng kuī guān 。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 6,
+              "content": "数：读shuò，多次，表示频繁。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "通使：互派使者，外交活动。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "匈",
+              "pinyin": "xiōng",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奴",
+              "pinyin": "nú",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "留",
+              "pinyin": "liú",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "郭",
+              "pinyin": "guō",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吉",
+              "pinyin": "jí",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "、",
+              "pinyin": "、",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "路",
+              "pinyin": "lù",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "充",
+              "pinyin": "chōng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "等",
+              "pinyin": "děng",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "前",
+              "pinyin": "qián",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "后",
+              "pinyin": "hòu",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "十",
+              "pinyin": "shí",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "余",
+              "pinyin": "yú",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "辈",
+              "pinyin": "bèi",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 54,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "匈奴扣留了汉使郭吉、路充国等前后十多批。",
+          "pinyin": "xiōng nú liú hàn shǐ guō jí 、 lù chōng guó děng qián hòu shí yú bèi 。",
+          "notes": [
+            {
+              "start": 16,
+              "end": 17,
+              "content": "辈：量词，批、拨，用于人。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 16,
+              "end": 17,
+              "old": "批、拨（量词）"
+            },
+            {
+              "start": 16,
+              "end": 17,
+              "new": "辈分、世代（现代少用此量词）"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "匈",
+              "pinyin": "xiōng",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奴",
+              "pinyin": "nú",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 59,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "留",
+              "pinyin": "liú",
+              "index": 62,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "当",
+              "pinyin": "dāng",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 67,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "匈奴使者到来，汉朝也扣留他们来相抵。",
+          "pinyin": "xiōng nú shǐ lái ， hàn yì liú zhī yǐ xiāng dāng 。",
+          "notes": [
+            {
+              "start": 11,
+              "end": 12,
+              "content": "相当：作为对等、抵偿，非现代‘差不多’之意。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 11,
+              "end": 12,
+              "old": "对等、抵偿"
+            },
+            {
+              "start": 11,
+              "end": 12,
+              "new": "差不多"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "天",
+              "pinyin": "tiān",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "元",
+              "pinyin": "yuán",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "年",
+              "pinyin": "nián",
+              "index": 71,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "且",
+              "pinyin": "jū",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "鞮",
+              "pinyin": "dī",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "侯",
+              "pinyin": "hóu",
+              "index": 75,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "单",
+              "pinyin": "chán",
+              "index": 76,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "初",
+              "pinyin": "chū",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "立",
+              "pinyin": "lì",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "恐",
+              "pinyin": "kǒng",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 82,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "袭",
+              "pinyin": "xí",
+              "index": 83,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 84,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 85,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi",
+              "index": 86,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 87,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "：",
+              "pinyin": "：「",
+              "index": 88,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "「",
+              "pinyin": "hàn",
+              "index": 89,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "tiān",
+              "index": 90,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "天",
+              "pinyin": "zǐ",
+              "index": 91,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "子",
+              "pinyin": "wǒ",
+              "index": 92,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "我",
+              "pinyin": "zhàng",
+              "index": 93,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "丈",
+              "pinyin": "rén",
+              "index": 94,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "xíng",
+              "index": 95,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "行",
+              "pinyin": "yě",
+              "index": 96,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "。",
+              "index": 97,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "。",
+              "index": 98,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "天汉元年，且鞮侯单于刚即位，害怕汉朝袭击他，就说：「汉朝天子是我的长辈啊。",
+          "pinyin": "tiān hàn yuán nián ， jū dī hóu chán yú chū lì ， kǒng hàn xí zhī ， nǎi yuē ：「 hàn tiān zǐ wǒ zhàng rén xíng yě 。",
+          "notes": [
+            {
+              "start": 8,
+              "end": 9,
+              "content": "单于：匈奴最高首领的称号，读chán yú。"
+            },
+            {
+              "start": 26,
+              "end": 27,
+              "content": "丈人：古指对长辈男子的尊称，非今义‘岳父’。"
+            },
+            {
+              "start": 29,
+              "end": 29,
+              "content": "行：读háng，辈、辈分，‘我丈人行’即‘我父辈的人’。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 26,
+              "end": 27,
+              "old": "对长辈男子的尊称"
+            },
+            {
+              "start": 26,
+              "end": 27,
+              "new": "岳父"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "」",
+              "pinyin": "」",
+              "index": 99,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "尽",
+              "pinyin": "jìn",
+              "index": 100,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "归",
+              "pinyin": "guī",
+              "index": 101,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 102,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 103,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "路",
+              "pinyin": "lù",
+              "index": 104,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "充",
+              "pinyin": "chōng",
+              "index": 105,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 106,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "等",
+              "pinyin": "děng",
+              "index": 107,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 108,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "」全部送还了汉朝使者路充国等人。",
+          "pinyin": "」 jìn guī hàn shǐ lù chōng guó děng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "归：使动用法，‘使……归’。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 2,
+              "end": 9,
+              "content": "使动用法：‘尽归汉使’意为‘使汉使全部回归’，‘归’为使动。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "武",
+              "pinyin": "wǔ",
+              "index": 109,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "帝",
+              "pinyin": "dì",
+              "index": 110,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "嘉",
+              "pinyin": "jiā",
+              "index": 111,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 112,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "义",
+              "pinyin": "yì",
+              "index": 113,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 114,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi",
+              "index": 115,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "遣",
+              "pinyin": "qiǎn",
+              "index": 116,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "武",
+              "pinyin": "wǔ",
+              "index": 117,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 118,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 119,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "郎",
+              "pinyin": "láng",
+              "index": 120,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "将",
+              "pinyin": "jiàng",
+              "index": 121,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 122,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "持",
+              "pinyin": "chí",
+              "index": 123,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "节",
+              "pinyin": "jié",
+              "index": 124,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "送",
+              "pinyin": "sòng",
+              "index": 125,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "匈",
+              "pinyin": "xiōng",
+              "index": 126,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奴",
+              "pinyin": "nú",
+              "index": 127,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 128,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "留",
+              "pinyin": "liú",
+              "index": 129,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 130,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 131,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 132,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 133,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "因",
+              "pinyin": "yīn",
+              "index": 134,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "厚",
+              "pinyin": "hòu",
+              "index": 135,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "赂",
+              "pinyin": "lù",
+              "index": 136,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "单",
+              "pinyin": "chán",
+              "index": 137,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 138,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 139,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "答",
+              "pinyin": "dá",
+              "index": 140,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 141,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "善",
+              "pinyin": "shàn",
+              "index": 142,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "意",
+              "pinyin": "yì",
+              "index": 143,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 144,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "汉武帝赞许他的义举，就派苏武以中郎将的身份持节送回留在汉朝的匈奴使者，并趁机赠送厚礼给单于，以答谢他的好意。",
+          "pinyin": "wǔ dì jiā qí yì ， nǎi qiǎn wǔ yǐ zhōng láng jiàng shǐ chí jié sòng xiōng nú shǐ liú zài hàn zhě ， yīn hòu lù chán yú ， dá qí shàn yì 。",
+          "notes": [
+            {
+              "start": 3,
+              "end": 5,
+              "content": "嘉其义：赞许他的道义行为；‘嘉’赞许，‘义’道义。"
+            },
+            {
+              "start": 10,
+              "end": 13,
+              "content": "中郎将：官职名，汉代武官，地位较高。"
+            },
+            {
+              "start": 15,
+              "end": 15,
+              "content": "持节：手持符节，代表皇帝出使的凭证。"
+            },
+            {
+              "start": 23,
+              "end": 24,
+              "content": "者：定语后置标志，‘留在汉者’即‘留在汉朝的人’。"
+            },
+            {
+              "start": 26,
+              "end": 26,
+              "content": "因：趁机，非‘因为’。"
+            },
+            {
+              "start": 27,
+              "end": 27,
+              "content": "赂：赠送财物，非仅指贿赂。"
+            },
+            {
+              "start": 31,
+              "end": 35,
+              "content": "答其善意：回应对方的好意；‘答’回应，非回答问题。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 17,
+              "end": 24,
+              "content": "定语后置句：‘送匈奴使留在汉者’即‘送留在汉的匈奴使者’，‘者’为标志。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "武",
+              "pinyin": "wǔ",
+              "index": 145,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 146,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "副",
+              "pinyin": "fù",
+              "index": 147,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 148,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "郎",
+              "pinyin": "láng",
+              "index": 149,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "将",
+              "pinyin": "jiàng",
+              "index": 150,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "张",
+              "pinyin": "zhāng",
+              "index": 151,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "胜",
+              "pinyin": "shèng",
+              "index": 152,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "及",
+              "pinyin": "jí",
+              "index": 153,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "假",
+              "pinyin": "jiǎ",
+              "index": 154,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吏",
+              "pinyin": "lì",
+              "index": 155,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 156,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "惠",
+              "pinyin": "huì",
+              "index": 157,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "等",
+              "pinyin": "děng",
+              "index": 158,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "募",
+              "pinyin": "mù",
+              "index": 159,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "士",
+              "pinyin": "shì",
+              "index": 160,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "斥",
+              "pinyin": "chì",
+              "index": 161,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "候",
+              "pinyin": "hòu",
+              "index": 162,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "百",
+              "pinyin": "bǎi",
+              "index": 163,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "余",
+              "pinyin": "yú",
+              "index": 164,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 165,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "俱",
+              "pinyin": "jù",
+              "index": 166,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 167,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "苏武与副中郎将张胜以及代理官吏常惠等人招募士兵和斥候一百多人一同前往。",
+          "pinyin": "wǔ yǔ fù zhōng láng jiàng zhāng shèng jí jiǎ lì cháng huì děng mù shì chì hòu bǎi yú rén jù 。",
+          "notes": [
+            {
+              "start": 9,
+              "end": 9,
+              "content": "假：临时的、代理的，此处指非正式任命的官吏。"
+            },
+            {
+              "start": 16,
+              "end": 17,
+              "content": "斥候：古代侦察兵，负责探查敌情。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 9,
+              "end": 9,
+              "old": "临时的、代理的"
+            },
+            {
+              "start": 9,
+              "end": 9,
+              "new": "不真实"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "既",
+              "pinyin": "jì",
+              "index": 168,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì",
+              "index": 169,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "匈",
+              "pinyin": "xiōng",
+              "index": 170,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奴",
+              "pinyin": "nú",
+              "index": 171,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 172,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "置",
+              "pinyin": "zhì",
+              "index": 173,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "币",
+              "pinyin": "bì",
+              "index": 174,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "遗",
+              "pinyin": "yí",
+              "index": 175,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "单",
+              "pinyin": "chán",
+              "index": 176,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 177,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 178,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "到达匈奴后，置办礼物送给单于。",
+          "pinyin": "jì zhì xiōng nú ， zhì bì yí chán yú 。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 6,
+              "content": "币：礼物，特指外交礼品，非货币。"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "content": "遗：读wèi，赠送，非遗失。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 6,
+              "end": 6,
+              "old": "礼物、礼品"
+            },
+            {
+              "start": 6,
+              "end": 6,
+              "new": "货币"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "old": "赠送"
+            },
+            {
+              "start": 7,
+              "end": 7,
+              "new": "遗失"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "单",
+              "pinyin": "chán",
+              "index": 179,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "于",
+              "pinyin": "yú",
+              "index": 180,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "益",
+              "pinyin": "yì",
+              "index": 181,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骄",
+              "pinyin": "jiāo",
+              "index": 182,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 183,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "非",
+              "pinyin": "fēi",
+              "index": 184,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 185,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ",
+              "index": 186,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "望",
+              "pinyin": "wàng",
+              "index": 187,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 188,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 189,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "单于却更加傲慢，不是汉朝所期望的。",
+          "pinyin": "chán yú yì jiāo ， fēi hàn suǒ wàng yě 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 4,
+              "content": "益骄：更加骄傲，反映单于态度转变。"
+            },
+            {
+              "start": 8,
+              "end": 9,
+              "content": "所望：期望的样子；‘所’字结构，表名词性短语。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 7,
+              "end": 10,
+              "content": "判断句 + 所字结构：‘非汉所望也’意为‘不是汉朝所期望的’。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "方",
+              "pinyin": "fāng",
+              "index": 190,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù",
+              "index": 191,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "发",
+              "pinyin": "fā",
+              "index": 192,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ",
+              "index": 193,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "送",
+              "pinyin": "sòng",
+              "index": 194,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "武",
+              "pinyin": "wǔ",
+              "index": 195,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "等",
+              "pinyin": "děng",
+              "index": 196,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 197,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "会",
+              "pinyin": "huì",
+              "index": 198,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "缑",
+              "pinyin": "gōu",
+              "index": 199,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 200,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 201,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "长",
+              "pinyin": "cháng",
+              "index": 202,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 203,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "虞",
+              "pinyin": "yú",
+              "index": 204,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 205,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "等",
+              "pinyin": "děng",
+              "index": 206,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "谋",
+              "pinyin": "móu",
+              "index": 207,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "反",
+              "pinyin": "fǎn",
+              "index": 208,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "匈",
+              "pinyin": "xiōng",
+              "index": 209,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奴",
+              "pinyin": "nú",
+              "index": 210,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 211,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 212,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "正要派使者护送苏武等人回汉，恰逢缑王与长水人虞常等人在匈奴内部密谋反叛。",
+          "pinyin": "fāng yù fā shǐ sòng wǔ děng ， huì gōu wáng yǔ cháng shuǐ yú cháng děng móu fǎn xiōng nú zhōng 。",
+          "notes": [
+            {
+              "start": 8,
+              "end": 8,
+              "content": "会：恰逢，表示事件巧合。"
+            },
+            {
+              "start": 9,
+              "end": 10,
+              "content": "缑王：匈奴贵族名；‘缑’读gōu。"
+            },
+            {
+              "start": 14,
+              "end": 15,
+              "content": "虞常：人名；‘虞’为姓氏。"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 17,
+              "end": 22,
+              "content": "状语后置句：‘谋反匈奴中’即‘于匈奴中谋反’，介词结构后置。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "武",
+              "pinyin": "wǔ",
+              "index": 213,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "留",
+              "pinyin": "liú",
+              "index": 214,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "匈",
+              "pinyin": "xiōng",
+              "index": 215,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奴",
+              "pinyin": "nú",
+              "index": 216,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "凡",
+              "pinyin": "fán",
+              "index": 217,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "十",
+              "pinyin": "shí",
+              "index": 218,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "九",
+              "pinyin": "jiǔ",
+              "index": 219,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "岁",
+              "pinyin": "suì",
+              "index": 220,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 221,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "始",
+              "pinyin": "shǐ",
+              "index": 222,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 223,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "强",
+              "pinyin": "qiáng",
+              "index": 224,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "壮",
+              "pinyin": "zhuàng",
+              "index": 225,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "出",
+              "pinyin": "chū",
+              "index": 226,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 227,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "及",
+              "pinyin": "jí",
+              "index": 228,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "还",
+              "pinyin": "huán",
+              "index": 229,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 230,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "须",
+              "pinyin": "xū",
+              "index": 231,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "发",
+              "pinyin": "fà",
+              "index": 232,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "尽",
+              "pinyin": "jìn",
+              "index": 233,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "白",
+              "pinyin": "bái",
+              "index": 234,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 235,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "苏武留在匈奴总共十九年，当初壮年出使，等到返回时，胡须和头发全都白了。",
+          "pinyin": "wǔ liú xiōng nú fán shí jiǔ suì ， shǐ yǐ qiáng zhuàng chū ， jí huán ， xū fà jìn bái 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 8,
+              "content": "凡十九岁：共十九年；‘凡’总共。"
+            },
+            {
+              "start": 11,
+              "end": 12,
+              "content": "强壮：身体强健，与下文‘须发尽白’形成对比。"
+            },
+            {
+              "start": 19,
+              "end": 22,
+              "content": "须发尽白：胡须和头发全白，极言时间之久。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "《苏武传》出自东汉史学家班固所著《汉书》，记述了西汉使臣苏武出使匈奴被扣，面对威逼利诱坚守节操，历经十九年困苦终得归汉的感人事迹。创作背景为东汉初期，朝廷重视忠君守节之德，班固借苏武事迹弘扬气节精神。苏武事迹发生于汉武帝天汉元年（前100年）至始元六年（前81年），是汉匈外交史上的重要事件。",
+  "appreciation": "《苏武传》以简洁凝练的史笔塑造了苏武这一忠贞不屈的爱国者形象。通过「卧雪牧羊」「啮雪吞毡」等细节描写，展现其在极端环境下的顽强意志。文中对比手法突出：单于的屡次劝降与苏武的誓死不从，卫律的变节与苏武的坚守，形成强烈反差。语言质朴而富有力量，尤以「屈节辱命，虽生，何面目以归汉」一句，道出士人重节甚于生命的信念。结尾「须发尽白」四字，浓缩十九年风霜，极具感染力，成为中国文学中忠臣形象的典范之作。",
+  "tags": [
+    "必修下册",
+    "人物传记",
+    "爱国",
+    "气节",
+    "文言文"
+  ]
+}

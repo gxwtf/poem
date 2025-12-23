@@ -1,0 +1,321 @@
+{
+  "name": "夜上受降城闻笛",
+  "author": "李益",
+  "dynasty": "唐代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "回",
+              "pinyin": "huí",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "乐",
+              "pinyin": "lè",
+              "index": 1,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "烽",
+              "pinyin": "fēng",
+              "index": 2,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "前",
+              "pinyin": "qián",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沙",
+              "pinyin": "shā",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "似",
+              "pinyin": "sì",
+              "index": 5,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "雪",
+              "pinyin": "xuě",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "受",
+              "pinyin": "shòu",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "降",
+              "pinyin": "xiáng",
+              "index": 9,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "城",
+              "pinyin": "chéng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "外",
+              "pinyin": "wài",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "如",
+              "pinyin": "rú",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "霜",
+              "pinyin": "shuāng",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 15,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "回乐烽前的沙地宛如白雪，受降城外的月色如同寒霜。",
+          "pinyin": "huí lè fēng qián shā sì xuě ， shòu xiáng chéng wài yuè rú shuāng 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "回乐：唐代县名，位于今宁夏灵武，为边塞军事要地。"
+            },
+            {
+              "start": 2,
+              "end": 2,
+              "content": "烽：烽火台，古代边防报警设施，夜间燃火称为‘烽’。"
+            },
+            {
+              "start": 8,
+              "end": 10,
+              "content": "受降城：唐代为招降突厥所建的三座城池，此处泛指边疆要塞。"
+            },
+            {
+              "start": 12,
+              "end": 14,
+              "content": "月如霜：比喻月光清冷似霜，既写夜色之寒，也烘托征人内心的孤寂与凄凉。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "吹",
+              "pinyin": "chuī",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "芦",
+              "pinyin": "lú",
+              "index": 21,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "管",
+              "pinyin": "guǎn",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "征",
+              "pinyin": "zhēng",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "尽",
+              "pinyin": "jìn",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "望",
+              "pinyin": "wàng",
+              "index": 29,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "乡",
+              "pinyin": "xiāng",
+              "index": 30,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 31,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "不知从哪里传来吹奏芦管的声音，整夜的戍边将士都望着故乡的方向。",
+          "pinyin": "bù zhī hé chù chuī lú guǎn ， yī yè zhēng rén jìn wàng xiāng 。",
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "content": "芦管：古代边地乐器，用芦苇制成，形似笛子，常吹奏悲凉曲调以寄哀思。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "征人：指出征或戍守边疆的士兵，特指长期远离家乡的军士。"
+            },
+            {
+              "start": 12,
+              "end": 15,
+              "content": "尽望乡：‘尽’意为全、都；‘望乡’即遥望故乡，表现全体征人共同的思乡之情。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 5,
+              "end": 6,
+              "old": "古代边地乐器，类似笛子"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "new": "现代多指芦苇制成的管状物，无乐器含义"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "old": "特指戍边的士兵"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "new": "泛指被征召服役或参与某项任务的人"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于中唐时期，李益曾任幽州节度使府幕僚，亲历边塞生活。当时安史之乱虽已平定，但藩镇割据、边患频仍，士兵长期戍边不得归家。受降城为唐代为招降突厥所建，位于今内蒙古境内，地势荒凉。诗人夜登城楼，闻笛声而动乡愁，遂作此诗。",
+  "appreciation": "诗歌以极简笔法勾勒出边塞夜景的清冷肃杀。前两句运用比喻，‘沙似雪’‘月如霜’不仅写出视觉之寒，更透出心理之冷，为全诗奠定凄清基调。第三句由景入声，芦管悲咽，打破寂静，引出末句情感高潮——‘一夜征人尽望乡’。‘尽’字力透纸背，写出集体性的思乡之痛，非一人一时之感，而是千百征夫共同的命运哀鸣。全诗无一‘愁’字，而愁绪弥漫天地。",
+  "tags": [
+    "七年级下册",
+    "边塞诗",
+    "思乡",
+    "唐代诗歌"
+  ]
+}

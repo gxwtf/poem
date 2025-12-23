@@ -1,0 +1,597 @@
+{
+  "name": "山坡羊·骊山怀古",
+  "author": "张养浩",
+  "dynasty": "元代",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "骊",
+              "pinyin": "lí",
+              "index": 0,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "四",
+              "pinyin": "sì",
+              "index": 2,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "顾",
+              "pinyin": "gù",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "阿",
+              "pinyin": "ā",
+              "index": 5,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "房",
+              "pinyin": "fáng",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "炬",
+              "pinyin": "jù",
+              "index": 8,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "当",
+              "pinyin": "dāng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 11,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "奢",
+              "pinyin": "shē",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "侈",
+              "pinyin": "chǐ",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "今",
+              "pinyin": "jīn",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "何",
+              "pinyin": "hé",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "处",
+              "pinyin": "chù",
+              "index": 16,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "？",
+              "pinyin": "？",
+              "index": 17,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "站在骊山上四处眺望，阿房宫已被一把大火烧毁，当年的豪华奢侈如今又在哪里呢？",
+          "pinyin": "lí shān sì gù ， ā fáng yī jù ， dāng shí shē chǐ jīn hé chù ？",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "骊山：位于今陕西临潼，秦始皇陵所在地，阿房宫亦建于此，为历代帝王巡游之地。"
+            },
+            {
+              "start": 2,
+              "end": 3,
+              "content": "四顾：四处观望。顾，看、望，强调环视之态，体现怀古时的苍茫心境。"
+            },
+            {
+              "start": 5,
+              "end": 6,
+              "content": "阿房：即阿房宫，秦始皇所建宏伟宫殿，象征极度奢华，后被项羽焚毁。"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "content": "一炬：一把火，指被焚烧殆尽。炬，本为名词火把，此处活用为动词，意为‘焚烧’。"
+            },
+            {
+              "start": 12,
+              "end": 13,
+              "content": "奢侈：过分浪费财物，过度享受。侈，音chǐ，意为浪费、挥霍，字形易错。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 8,
+              "end": 8,
+              "old": "焚烧（动词用法）"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "new": "火把（名词）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "只",
+              "pinyin": "zhǐ",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "见",
+              "pinyin": "jiàn",
+              "index": 19,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "草",
+              "pinyin": "cǎo",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "萧",
+              "pinyin": "xiāo",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "疏",
+              "pinyin": "shū",
+              "index": 22,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 23,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "萦",
+              "pinyin": "yíng",
+              "index": 25,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "纡",
+              "pinyin": "yū",
+              "index": 26,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 27,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "只看见荒草稀疏，河水蜿蜒曲折。",
+          "pinyin": "zhǐ jiàn cǎo xiāo shū ， shuǐ yíng yū 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 4,
+              "content": "草萧疏：草木稀疏荒凉。萧疏，形容景象冷落、凋敝，常用于描写古迹荒废之景。"
+            },
+            {
+              "start": 6,
+              "end": 8,
+              "content": "水萦纡：水流回旋曲折。萦，回绕；纡，弯曲。多用于描写山水迂回之态。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "至",
+              "pinyin": "zhì",
+              "index": 28,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "今",
+              "pinyin": "jīn",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "遗",
+              "pinyin": "yí",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "恨",
+              "pinyin": "hèn",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "迷",
+              "pinyin": "mí",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "烟",
+              "pinyin": "yān",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "树",
+              "pinyin": "shù",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "直到今天，那亡国的遗恨还弥漫在如烟的树林中。",
+          "pinyin": "zhì jīn yí hèn mí yān shù 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "遗恨：遗留的遗憾。指历代兴亡未能避免覆灭命运，令人感慨。"
+            },
+            {
+              "start": 4,
+              "end": 7,
+              "content": "迷烟树：笼罩在迷蒙烟雾中的树林。迷，弥漫、笼罩，带有拟人色彩，渲染凄迷氛围。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "列",
+              "pinyin": "liè",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "国",
+              "pinyin": "guó",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "周",
+              "pinyin": "zhōu",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "楚",
+              "pinyin": "chǔ",
+              "index": 42,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 43,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "战国时期周、齐、秦、汉、楚等列国相继兴亡。",
+          "pinyin": "liè guó zhōu qí qín hàn chǔ 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "content": "列国：众多国家，此处指周、齐、秦、汉、楚等相继兴亡的朝代。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "赢",
+              "pinyin": "yíng",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "都",
+              "pinyin": "dōu",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "变",
+              "pinyin": "biàn",
+              "index": 47,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "做",
+              "pinyin": "zuò",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "了",
+              "pinyin": "le",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "土",
+              "pinyin": "tǔ",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "；",
+              "pinyin": "；",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "输",
+              "pinyin": "shū",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "都",
+              "pinyin": "dōu",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "变",
+              "pinyin": "biàn",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "做",
+              "pinyin": "zuò",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "了",
+              "pinyin": "le",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "土",
+              "pinyin": "tǔ",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 59,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "赢了的，全都化为灰土；输了的，也全都化为灰土。",
+          "pinyin": "yíng ， dōu biàn zuò le tǔ ； shū ， dōu biàn zuò le tǔ 。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 0,
+              "content": "赢：指胜利的一方，此处代指成功夺取政权的统治者。"
+            },
+            {
+              "start": 8,
+              "end": 8,
+              "content": "输：指失败的一方，政权覆灭者。与‘赢’对举，强调成败皆空。"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "content": "做：此处意为‘成为’，是元代白话常用词，不同于现代‘做’的多数用法。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 4,
+              "end": 4,
+              "old": "成为"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "new": "从事、制作"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 0,
+              "end": 7,
+              "content": "‘赢，都变做了土’为判断性结论句，主语前置，省略谓语‘皆’，属散曲中典型的议论性判断句式。"
+            },
+            {
+              "start": 8,
+              "end": 15,
+              "content": "‘输，都变做了土’与上句构成对仗与排比，形成强烈对比，突出历史虚无感，属特殊修辞结构。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此曲为张养浩途经骊山时所作。当时他奉命赴陕西赈灾，途经秦汉故都，目睹历代帝王奢华遗迹化为废墟，感慨万千。骊山曾是秦始皇陵与唐华清宫所在地，阿房宫亦在此附近，象征极盛与极衰。张养浩在元朝政局动荡中，借古讽今，抒发对历史兴亡的深刻反思。",
+  "appreciation": "全曲以极简笔法勾勒出历史兴亡的无情图景。‘阿房一炬’浓缩秦亡之速，‘草萧疏，水萦纡’以自然之恒反衬人事之变。‘至今遗恨迷烟树’将历史情绪融入景物，意境苍茫。结尾‘赢，都变做了土；输，都变做了土’以对仗与重复，道破胜败皆空的哲理，直击历史虚无本质，语言质朴而力透纸背，是元曲咏史怀古的巅峰之作。",
+  "tags": [
+    "高中语文选修",
+    "咏史怀古",
+    "兴亡之感",
+    "元曲"
+  ]
+}

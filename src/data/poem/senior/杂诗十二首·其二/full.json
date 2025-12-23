@@ -1,0 +1,802 @@
+{
+  "name": "杂诗十二首·其二",
+  "author": "陶渊明",
+  "dynasty": "东晋",
+  "mode": "poem",
+  "paragraphs": [
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "白",
+              "pinyin": "bái",
+              "index": 0,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 1,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "沦",
+              "pinyin": "lún",
+              "index": 2,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "西",
+              "pinyin": "xī",
+              "index": 3,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "河",
+              "pinyin": "hé",
+              "index": 4,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 5,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "素",
+              "pinyin": "sù",
+              "index": 6,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 7,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "出",
+              "pinyin": "chū",
+              "index": 8,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "东",
+              "pinyin": "dōng",
+              "index": 9,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "岭",
+              "pinyin": "lǐng",
+              "index": 10,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 11,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "太阳沉落在西边的河畔，月亮从东方的山岭升起。",
+          "pinyin": "bái rì lún xī hé ， sù yuè chū dōng lǐng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "沦：沉落，指太阳西沉。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "遥",
+              "pinyin": "yáo",
+              "index": 12,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "遥",
+              "pinyin": "yáo",
+              "index": 13,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "万",
+              "pinyin": "wàn",
+              "index": 14,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 15,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "晖",
+              "pinyin": "huī",
+              "index": 16,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 17,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "荡",
+              "pinyin": "dàng",
+              "index": 18,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "荡",
+              "pinyin": "dàng",
+              "index": 19,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "空",
+              "pinyin": "kōng",
+              "index": 20,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 21,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "景",
+              "pinyin": "jǐng",
+              "index": 22,
+              "read": true,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 23,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "遥远的万里光辉，照耀着辽阔天空中的景象。",
+          "pinyin": "yáo yáo wàn lǐ huī ， dàng dàng kōng zhōng jǐng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "遥遥：形容距离遥远，空间广阔。"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "content": "荡荡：形容空旷无边，此处指月光洒满天空的景象。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "景：通‘影’，指月光或光影，非现代‘风景’之意。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 10,
+              "end": 11,
+              "old": "影子、光影"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "new": "景色、景观"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 24,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "来",
+              "pinyin": "lái",
+              "index": 25,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "入",
+              "pinyin": "rù",
+              "index": 26,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "房",
+              "pinyin": "fáng",
+              "index": 27,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "户",
+              "pinyin": "hù",
+              "index": 28,
+              "read": false,
+              "write": true
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 29,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夜",
+              "pinyin": "yè",
+              "index": 30,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 31,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "枕",
+              "pinyin": "zhěn",
+              "index": 32,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "席",
+              "pinyin": "xí",
+              "index": 33,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "冷",
+              "pinyin": "lěng",
+              "index": 34,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 35,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "风吹进屋门，半夜里枕席感到寒冷。",
+          "pinyin": "fēng lái rù fáng hù ， yè zhōng zhěn xí lěng 。",
+          "notes": [
+            {
+              "start": 4,
+              "end": 4,
+              "content": "户：古代指门，此处‘房户’即房门，与现代‘住户’义不同。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 4,
+              "end": 4,
+              "old": "门"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "new": "住户、家庭"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 36,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "变",
+              "pinyin": "biàn",
+              "index": 37,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悟",
+              "pinyin": "wù",
+              "index": 38,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "时",
+              "pinyin": "shí",
+              "index": 39,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "易",
+              "pinyin": "yì",
+              "index": 40,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 41,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 42,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "眠",
+              "pinyin": "mián",
+              "index": 43,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 44,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "夕",
+              "pinyin": "xī",
+              "index": 45,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "永",
+              "pinyin": "yǒng",
+              "index": 46,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 47,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "气候的变化让人意识到时节更替，难以入睡才感到夜晚漫长。",
+          "pinyin": "qì biàn wù shí yì ， bù mián zhī xī yǒng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "气变：指气候、节气的变化，暗示时节更替。"
+            },
+            {
+              "start": 5,
+              "end": 5,
+              "content": "易：变更，指时节流转。"
+            },
+            {
+              "start": 10,
+              "end": 10,
+              "content": "永：长，指夜晚漫长，非‘永远’之义。"
+            }
+          ],
+          "different_meanings": [
+            {
+              "start": 10,
+              "end": 10,
+              "old": "长（时间）"
+            },
+            {
+              "start": 10,
+              "end": 10,
+              "new": "永远"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "欲",
+              "pinyin": "yù",
+              "index": 48,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "言",
+              "pinyin": "yán",
+              "index": 49,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 50,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "予",
+              "pinyin": "yǔ",
+              "index": 51,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "和",
+              "pinyin": "hé",
+              "index": 52,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 53,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "挥",
+              "pinyin": "huī",
+              "index": 54,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "杯",
+              "pinyin": "bēi",
+              "index": 55,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "劝",
+              "pinyin": "quàn",
+              "index": 56,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "孤",
+              "pinyin": "gū",
+              "index": 57,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "影",
+              "pinyin": "yǐng",
+              "index": 58,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 59,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "想说话却无人应和，只好举杯劝慰自己的孤影。",
+          "pinyin": "yù yán wú yǔ hé ， huī bēi quàn gū yǐng 。",
+          "different_meanings": [
+            {
+              "start": 4,
+              "end": 4,
+              "old": "应和（读hè）"
+            },
+            {
+              "start": 4,
+              "end": 4,
+              "new": "和谐、和平"
+            }
+          ],
+          "special_sentences": [
+            {
+              "start": 2,
+              "end": 5,
+              "content": "宾语前置句，‘无予和’即‘无和予’，否定句中代词‘予’作宾语前置。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "日",
+              "pinyin": "rì",
+              "index": 60,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè",
+              "index": 61,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "掷",
+              "pinyin": "zhì",
+              "index": 62,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 63,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "去",
+              "pinyin": "qù",
+              "index": 64,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 65,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 66,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "志",
+              "pinyin": "zhì",
+              "index": 67,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 68,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "获",
+              "pinyin": "huò",
+              "index": 69,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "骋",
+              "pinyin": "chěng",
+              "index": 70,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 71,
+              "read": true,
+              "write": true
+            }
+          ],
+          "translation": "日月飞逝抛弃世人，胸中抱负无法施展。",
+          "pinyin": "rì yuè zhì rén qù ， yǒu zhì bù huò chěng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 2,
+              "content": "掷：抛掷，比喻时间飞逝，人生被时光抛弃。"
+            },
+            {
+              "start": 10,
+              "end": 11,
+              "content": "骋：奔驰，引申为施展才能，‘不获骋’即抱负不得施展。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "念",
+              "pinyin": "niàn",
+              "index": 72,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 73,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "怀",
+              "pinyin": "huái",
+              "index": 74,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "悲",
+              "pinyin": "bēi",
+              "index": 75,
+              "read": true,
+              "write": true
+            },
+            {
+              "char": "凄",
+              "pinyin": "qī",
+              "index": 76,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "，",
+              "pinyin": "，",
+              "index": 77,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "终",
+              "pinyin": "zhōng",
+              "index": 78,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "晓",
+              "pinyin": "xiǎo",
+              "index": 79,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 80,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "能",
+              "pinyin": "néng",
+              "index": 81,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "静",
+              "pinyin": "jìng",
+              "index": 82,
+              "read": false,
+              "write": false
+            },
+            {
+              "char": "。",
+              "pinyin": "。",
+              "index": 83,
+              "read": false,
+              "write": false
+            }
+          ],
+          "translation": "想到这些心中充满悲凉，直到天明也无法平静。",
+          "pinyin": "niàn cǐ huái bēi qī ， zhōng xiǎo bù néng jìng 。",
+          "notes": [
+            {
+              "start": 2,
+              "end": 3,
+              "content": "悲凄：悲伤凄凉，情感强烈，体现诗人内心苦闷。"
+            },
+            {
+              "start": 7,
+              "end": 8,
+              "content": "终晓：直到天亮，强调彻夜难眠。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "background": "此诗作于东晋末年，陶渊明归隐田园多年之后。虽远离官场，但内心仍存济世之志，面对岁月流逝、理想成空的现实，深夜难眠，感怀身世而作。诗中融合自然景象与人生哲思，体现了诗人对生命短暂与志业无成的深刻焦虑。",
+  "appreciation": "全诗以白日西沉、素月东升开篇，构建宏大的时空背景。‘遥遥万里晖，荡荡空中景’以开阔之景反衬个体之渺小。‘风来入房户，夜中枕席冷’由外景转入内心，触觉写寒，实为心寒。‘气变悟时易’点出节令变迁引发的生命意识觉醒。‘欲言无予和，挥杯劝孤影’化用李白‘对影成三人’之先声，孤独至此极矣。‘日月掷人去’一句力透纸背，‘掷’字写出时间无情的抛离感。结尾‘终晓不能静’与‘不眠’呼应，将悲凄之情延至破晓，余韵悠长。全诗语言质朴而意境深远，是陶渊明晚年心境的真实写照。",
+  "tags": [
+    "必修上册",
+    "感怀诗",
+    "羁旅",
+    "时光流逝",
+    "陶渊明"
+  ]
+}
