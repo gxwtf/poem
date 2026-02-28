@@ -26,7 +26,7 @@ const __dirname = path.dirname(__filename);
 /** 强制更新列表，用于 --force 模式下指定必须覆盖的诗文名称 */
 const forceList = {
     junior: [],
-    senior: ["屈原列传"]
+    senior: ["锦瑟"]
 };
 
 let GLOBAL_TAG_LIST = [];
@@ -45,6 +45,15 @@ function parseArgList(args, key) {
  * - 若断句标点后紧跟引号，引号应归入本句
  */
 const SENTENCE_MATCH_REGEX =
+    /[^；。？！……]+[”’"]*[；。？！……]+[”’"]*|[^；。？！……]+$/g;
+
+/**
+ * translation 专用断句规则：
+ * - 仅全角分号（；）作为断句
+ * - 半角分号（;）不作为断句
+ * - 其他断句符号与正文一致
+ */
+const TRANSLATION_MATCH_REGEX =
     /[^；。？！……]+[”’"]*[；。？！……]+[”’"]*|[^；。？！……]+$/g;
 
 /** 中文及常见标点集合，用于判断某字符是否属于标点 */
@@ -81,7 +90,7 @@ function buildParagraphs(content, translation, pinyin) {
         .match(SENTENCE_MATCH_REGEX) || [];
 
     const globalTransSentences = (translation || "")
-        .match(SENTENCE_MATCH_REGEX) || [];
+        .match(TRANSLATION_MATCH_REGEX) || [];
 
     let globalSentenceCursor = 0;
 
@@ -108,7 +117,9 @@ function buildParagraphs(content, translation, pinyin) {
                 globalIndex++;
             }
             const sentenceIndex = globalSentenceCursor++;
-            const trans = globalTransSentences[sentenceIndex] || "";
+            let trans = globalTransSentences[sentenceIndex] || "";
+            // 所有半角分号统一替换为全角分号（仅影响展示，不影响断句）
+            trans = trans.replace(/;/g, "；");
             if (ENABLE_LOG) {
                 const rawSentence = contentArr.map(c => c.char).join("");
                 console.log("🧾 原文句子：", rawSentence);
