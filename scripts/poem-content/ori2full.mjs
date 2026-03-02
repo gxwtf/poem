@@ -26,7 +26,7 @@ const __dirname = path.dirname(__filename);
 /** 强制更新列表，用于 --force 模式下指定必须覆盖的诗文名称 */
 const forceList = {
     junior: [],
-    senior: ["锦瑟"]
+    senior: ["陈情表"]
 };
 
 let GLOBAL_TAG_LIST = [];
@@ -51,6 +51,8 @@ const SENTENCE_MATCH_REGEX =
  * translation 专用断句规则：
  * - 仅全角分号（；）作为断句
  * - 半角分号（;）不作为断句
+ * - 仅全角句号（。）作为断句
+ * - 半角句点（.）不作为断句
  * - 其他断句符号与正文一致
  */
 const TRANSLATION_MATCH_REGEX =
@@ -109,8 +111,11 @@ function buildParagraphs(content, translation, pinyin) {
                     py = pinyinList[pinyinIndex] || "";
                     pinyinIndex++;
                 }
+                // 半角分号统一转为全角分号（仅影响展示，不影响断句）
+                const displayChar = ch === ";" ? "；" : ch;
+
                 contentArr.push({
-                    char: ch,
+                    char: displayChar,
                     pinyin: py,
                     index: globalIndex
                 });
@@ -120,6 +125,8 @@ function buildParagraphs(content, translation, pinyin) {
             let trans = globalTransSentences[sentenceIndex] || "";
             // 所有半角分号统一替换为全角分号（仅影响展示，不影响断句）
             trans = trans.replace(/;/g, "；");
+            // 所有半角句点统一替换为全角句号（仅影响展示，不影响断句）
+            trans = trans.replace(/\./g, "。");
             if (ENABLE_LOG) {
                 const rawSentence = contentArr.map(c => c.char).join("");
                 console.log("🧾 原文句子：", rawSentence);
