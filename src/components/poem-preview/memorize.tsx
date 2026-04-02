@@ -32,7 +32,10 @@ export function Memorize() {
             <>
                 <Popover>
                     <PopoverTrigger asChild>
-                        <Button variant="outline">背诵</Button>
+                        <Button variant="outline" className="text-primary flex items-center gap-2">
+                            <Brain className="w-4 h-4" />
+                            <span className="hidden sm:inline">背诵</span>
+                        </Button>
                     </PopoverTrigger>
                     <PopoverContent>
                         <h4 className="bold">背诵古诗文</h4>
@@ -52,8 +55,8 @@ export function Memorize() {
                             <Input type="number" id="difficulty" min="0" max="1" defaultValue={isNaN(difficulty) ? '' : difficulty} onInput={(e: React.ChangeEvent<HTMLInputElement>) => {
                                 setDifficulty(parseFloat(e.target.value))
                             }} />
-                            <Button onClick={enterMemorizeMode}>
-                                <Brain />
+                            <Button onClick={enterMemorizeMode} className="flex items-center gap-2">
+                                <Brain className="w-4 h-4" />
                                 开始背诵
                             </Button>
                         </div>
@@ -67,7 +70,10 @@ export function Memorize() {
         <>
             <Button variant="destructive" onClick={quitMemorizeMode} style={{
                 backgroundColor: 'var(--theme-color)'
-            }}>结束背诵</Button>
+            }} className="flex items-center gap-2">
+                <Brain className="w-4 h-4" />
+                <span className="hidden sm:inline">结束背诵</span>
+            </Button>
         </>
     )
 }

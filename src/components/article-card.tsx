@@ -11,6 +11,7 @@ import Image from "next/image"
 import { useRouter } from "next/navigation"
 import { Tag } from "@/components/tag"
 import { Skeleton } from "@/components/ui/skeleton"
+import Link from "next/link"
 
 interface ArticleCardProps {
     title: string
@@ -73,7 +74,15 @@ export function ArticleCard({
 
             <CardFooter className="mt-auto">
                 <div className="flex justify-between items-center w-full text-gray-500 border-t border-dashed border-gray-200 pt-3">
-                    <span>{dynasty && `【${dynasty}】`}{author}</span>
+                    <span>
+                        {dynasty && `【${dynasty}】`}
+                        <Link
+                            href={`/author/${author}`}
+                            className="hover:underline underline-offset-4 no-navigate"
+                        >
+                            {author}
+                        </Link>
+                    </span>
                     {views && <span>阅读：{views.toLocaleString()}</span>}
                 </div>
             </CardFooter>

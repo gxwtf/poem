@@ -3,13 +3,14 @@
 import * as React from "react"
 import { useVersion } from "@/components/version-provider";
 import {
-    // Gamepad2,
+    Gamepad2,
     LifeBuoy,
     Send,
     Tag,
     UserPen,
 	BookOpenText,
-    Info
+    Info,
+    Star
 } from "lucide-react"
 
 import { NavMain } from "@/components/nav-main"
@@ -40,12 +41,23 @@ const data = {
                     url: "/overview",
                 },
                 {
-                    title: "知识梳理[Demo]",
-                    url: "/comb/junior/次北固山下",
-                },
-                {
                     title: "标签",
                     url: "/tag/poem",
+                },
+                {
+                    title: "收藏",
+                    url: "/star/poem",
+                },
+            ],
+        },
+        {
+            title: "收藏",
+            url: "/star/poem",
+            icon: Star,
+            items: [
+                {
+                    title: "古诗文",
+                    url: "/star/poem",
                 },
             ],
         },
@@ -98,29 +110,17 @@ const data = {
                 },
             ],
         },
-        // {
-        //     title: "游戏",
-        //     url: "#",
-        //     icon: Gamepad2,
-        //     items: [
-        //         {
-        //             title: "句读知不知",
-        //             url: "#",
-        //         },
-        //         {
-        //             title: "不背文言",
-        //             url: "#",
-        //         },
-        //         {
-        //             title: "诗词九宫格",
-        //             url: "#",
-        //         },
-        //         {
-        //             title: "诗文连句",
-        //             url: "#",
-        //         },
-        //     ],
-        // },
+        {
+            title: "游戏",
+            url: "/gridgame",
+            icon: Gamepad2,
+            items: [
+                {
+                    title: "诗词九宫格",
+                    url: "/gridgame",
+                },
+            ],
+        },
         {
             title: "关于",
             url: "/about",
@@ -128,16 +128,21 @@ const data = {
         },
     ],
     navSecondary: [
+        // {
+        //     title: "帮助",
+        //     url: "https://docs.gxwtf.cn/",
+        //     icon: LifeBuoy,
+        // },
+        // {
+        //     title: "反馈",
+        //     url: "https://docs.gxwtf.cn/#/community/",
+        //     icon: Send,
+        // },
         {
-            title: "帮助",
-            url: "https://docs.gxwtf.cn/",
-            icon: LifeBuoy,
-        },
-        {
-            title: "反馈",
-            url: "https://docs.gxwtf.cn/#/community/",
-            icon: Send,
-        },
+            title: "广学五题坊",
+            url: "https://gxwtf.cn/",
+            icon: Star,
+        }
     ],
 	projects: []
 }
@@ -179,10 +184,10 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
             </SidebarContent>
             <SidebarFooter>
                 {session?.isLoggedIn && (
-                    <NavUser user={{ name: session?.username, email: session?.email, avatar: `https://gxwtf.cn/avatar?userId=${session?.userid}` }} />
+                    <NavUser user={{ name: session?.username, email: session?.email, avatar: `https://gxwtf.cn/avatar?userId=${session?.userid}`, vip: session?.admin }} />
                 )}
                 {!session?.isLoggedIn && (
-                    <NavUser user={{ name: "游客", email: "", avatar: "#" }} />
+                    <NavUser user={{ name: "游客", email: "", avatar: "#", vip: false }} />
                 )}
             </SidebarFooter>
         </Sidebar>

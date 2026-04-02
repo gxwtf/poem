@@ -41,15 +41,15 @@ export function StarButton({
                 }
             }}
             variant="outline"
+            className="flex items-center gap-2"
         >
             <Star
                 className="w-4 h-4"
-                fill={starStat?"#eac54f":"var(--muted-foreground)"}
-                color={starStat?"#eac54f":"var(--muted-foreground)"}
-                strokeWidth={2}
+                fill={starStat?"#eac54f":"none"}
+                color={starStat?"#eac54f":"var(--primary)"}
             />
-            <span className="text-primary">{starStat ? "Starred" : "Star"}</span>
-            <Badge variant="secondary">{starNum}</Badge>
+            <span className="hidden sm:inline text-primary">{starStat ? "已收藏" : "收藏"}</span>
+            <Badge variant="secondary" className="hidden sm:inline">{starNum}</Badge>
         </Button>
 
     );

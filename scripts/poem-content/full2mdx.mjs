@@ -11,6 +11,7 @@ function convert(data) {
   let mdxContent = `import { Meta } from '@/components/poem-meta';
 import { PoemPreview } from '@/components/poem-preview/poem-preview';
 import previewData from './preview.json';
+import indexData from './index.json';
 import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
 import { Tags } from "@/components/tag"
 import { BilibiliVideos } from "@/components/video"
@@ -25,6 +26,10 @@ import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
 <MemorizeContextProvider>
   <PoemPreview data={{ mode: "${data.mode}", preview: previewData.preview }} />
 </MemorizeContextProvider>
+
+## 标签
+
+<Tags tags={indexData.tags} type="poem" />
 `;
 
   // 检查是否有推荐数据
@@ -32,7 +37,7 @@ import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
     mdxContent += `
 ## 写作背景
 
-${data.background}
+　　${data.background}
 `}
 
   // 检查是否有推荐数据
@@ -40,7 +45,7 @@ ${data.background}
     mdxContent += `
 ## 作品赏析
 
-${data.appreciation}
+　　${data.appreciation}
 `}
 
   // 检查是否有推荐数据

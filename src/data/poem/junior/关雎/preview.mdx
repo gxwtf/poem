@@ -1,6 +1,7 @@
 import { Meta } from '@/components/poem-meta';
 import { PoemPreview } from '@/components/poem-preview/poem-preview';
 import previewData from './preview.json';
+import indexData from './index.json';
 import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
 import { Tags } from "@/components/tag"
 import { BilibiliVideos } from "@/components/video"
@@ -16,10 +17,14 @@ import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
   <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
 </MemorizeContextProvider>
 
+## 标签
+
+<Tags tags={indexData.tags} type="poem" />
+
 ## 写作背景
 
 　　参差荇菜，左右采之。
-　　窈窕淑女，琴瑟友之。
+窈窕淑女，琴瑟友之。
 
 ## 作品赏析
 

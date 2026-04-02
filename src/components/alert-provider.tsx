@@ -1,7 +1,7 @@
 'use client';
 
-import { createContext, useContext, useEffect, useState } from 'react';
-import { CustomAlert } from './alert';
+import { createContext, useContext, useEffect } from 'react';
+import { toast } from 'sonner';
 import { AlertType } from '@/hooks/use-alert';
 
 interface AlertContextType {
@@ -23,19 +23,6 @@ interface AlertProviderProps {
 }
 
 export function AlertProvider({ children }: AlertProviderProps) {
-  const [alert, setAlert] = useState<{
-    visible: boolean;
-    type: AlertType;
-    title: string;
-    description?: string;
-    duration: number;
-  }>({
-    visible: false,
-    type: 'normal',
-    title: '',
-    duration: 2000
-  });
-
   // 处理URL参数中的alert
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -45,42 +32,42 @@ export function AlertProvider({ children }: AlertProviderProps) {
       const alertSec = searchParams.get('alertsec');
 
       if (alertParam) {
-        setAlert({
-          visible: true,
-          type: alertType || 'normal',
-          title: alertParam,
-          description: alertSec || undefined,
-          duration: 2000
-        });
+        if (alertType === 'destructive') {
+          toast.error(alertParam, {
+            description: alertSec,
+            duration: 2000,
+          });
+        } else {
+          toast.success(alertParam, {
+            description: alertSec,
+            duration: 2000,
+          });
+        }
       }
     }
   }, []);
 
   const showAlert = (options: { type?: AlertType; title: string; description?: string; duration?: number }) => {
-    setAlert({
-      visible: true,
-      type: options.type || 'normal',
-      title: options.title,
-      description: options.description,
-      duration: options.duration || 2000
-    });
+    if (options.type === 'destructive') {
+      toast.error(options.title, {
+        description: options.description,
+        duration: options.duration,
+      });
+    } else {
+      toast.success(options.title, {
+        description: options.description,
+        duration: options.duration,
+      });
+    }
   };
 
   const hideAlert = () => {
-    setAlert(prev => ({ ...prev, visible: false }));
+    toast.dismiss();
   };
 
   return (
     <AlertContext.Provider value={{ showAlert, hideAlert }}>
       {children}
-      <CustomAlert
-        type={alert.type}
-        title={alert.title}
-        description={alert.description}
-        visible={alert.visible}
-        duration={alert.duration}
-        onClose={hideAlert}
-      />
     </AlertContext.Provider>
   );
 }

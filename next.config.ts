@@ -15,49 +15,13 @@ const nextConfig: NextConfig = {
         remotePatterns: [
             {
                 protocol: 'https',
-                hostname: 'guwen-1252396323.cos.ap-chengdu.myqcloud.com',
+                hostname: '**',
                 port: '',
                 pathname: '/**',
             },
             {
-                protocol: 'https',
-                hostname: 'img.redocn.com',
-                port: '',
-                pathname: '/**',
-            },
-            {
-                protocol: 'https',
-                hostname: 'gxwtf.cn',
-                port: '',
-                pathname: '/**',
-            },
-            {
-                protocol: 'https',
-                hostname: 'test.gxwtf.cn',
-                port: '',
-                pathname: '/**',
-            },
-            {
-                protocol: 'https',
-                hostname: 'account.gxwtf.cn',
-                port: '',
-                pathname: '/**',
-            },
-            {
-                protocol: 'https',
-                hostname: 'ai.gxwtf.cn',
-                port: '',
-                pathname: '/**',
-            },
-            {
-                protocol: 'https',
-                hostname: 'upload.wikimedia.org',
-                port: '',
-                pathname: '/**',
-            },
-            {
-                protocol: 'https',
-                hostname: 'ziyuan.guwendao.net',
+                protocol: 'http',
+                hostname: '**',
                 port: '',
                 pathname: '/**',
             }

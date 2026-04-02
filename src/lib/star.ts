@@ -60,3 +60,22 @@ export const queryPoemId = async (version: string, title: string): Promise<strin
     if(!res) throw 'poem is not found';
     return res.id;
 }
+
+export const queryStars = async (userId: number) => {
+    const res = await prisma.star.findMany({
+        where: {
+            userId: userId
+        }
+    });
+    const poems = await Promise.all(res.map(async (item) => {
+        return await prisma.poem.findUnique({
+            where: {
+                id: item.poemId
+            }
+        });
+    }));
+    return poems.map(poem => ({
+        ...poem,
+        content: poem?.content ? poem?.content.replace(/[#\/]/g, '') : poem?.content
+    }));
+}

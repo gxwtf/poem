@@ -48,7 +48,7 @@ export function Paragraph({
             onMouseUp={handleMouseUp}
         >
             <div className="sentences">
-                {mode === "paragraph" && <span className="inline-block w-[5em]"></span>}
+                {mode === "paragraph" && <span className="inline-block w-[4.5em]"></span>}
                 {para.paragraph.map((s, index) => (
                     <span
                         key={index}

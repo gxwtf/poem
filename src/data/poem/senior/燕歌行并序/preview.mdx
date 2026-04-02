@@ -1,6 +1,7 @@
 import { Meta } from '@/components/poem-meta';
 import { PoemPreview } from '@/components/poem-preview/poem-preview';
 import previewData from './preview.json';
+import indexData from './index.json';
 import { MemorizeContextProvider } from "@/components/poem-preview/memorize-context";
 import { Tags } from "@/components/tag"
 import { BilibiliVideos } from "@/components/video"
@@ -16,9 +17,13 @@ import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
   <PoemPreview data={{ mode: "poem", preview: previewData.preview }} />
 </MemorizeContextProvider>
 
+## 标签
+
+<Tags tags={indexData.tags} type="poem" />
+
 ## 写作背景
 
-　　《燕歌行》作于开元二十六年（738）高适由淇上归梁宋之后。此诗虽用乐府旧题，却是因时事而作。历来注家未对序文史事详加考核，都以为是讽张守珪而作，因张守珪部将矫命攻打奚、契丹，战败后张守珪谎报战功。但高适写于开元二十七年（739）的《宋中送族侄式颜》，对张守珪推崇备至。又有不少人认为所讽对象是安禄山、赵堪与白真陁罗等人。此前高适曾于开元十八（730）年至开元二十一年（733）之间北上幽蓟，对东北边塞军中生活十分了解。从文本来看，此诗并非仅据出塞之客见闻而写的普通唱和诗，也不仅限于写张守珪之事。自唐开元十八年至二十二年十二月，契丹多次侵犯唐边境。开元二十年，信安王李禕征展开阅读全文 ∨
+　　《燕歌行》作于开元二十六年（738）高适由淇上归梁宋之后。此诗虽用乐府旧题，却是因时事而作。历来注家未对序文史事详加考核，都以为是讽张守珪而作，因张守珪部将矫命攻打奚、契丹，战败后张守珪谎报战功。但高适写于开元二十七年（739）的《宋中送族侄式颜》，对张守珪推崇备至。又有不少人认为所讽对象是安禄山、赵堪与白真陁罗等人。此前高适曾于开元十八（730）年至开元二十一年（733）之间北上幽蓟，对东北边塞军中生活十分了解。从文本来看，此诗并非仅据出塞之客见闻而写的普通唱和诗，也不仅限于写张守珪之事。自唐开元十八年至二十二年十二月，契丹多次侵犯唐边境。开元二十年，信安王李禕征讨奚、契丹，高适北去幽燕，希望到信安王幕府效力，未能如愿。开元二十一年后，幽州节度使张守珪经略边事，初有战功。但二十四年，张让平卢讨击使安禄山讨奚、契丹，“禄山恃勇轻进，为虏所败”（《资治通鉴》卷二百十五）。开元二十六年，幽州将赵堪、白真陁罗矫张守珪之命，逼迫平卢军使乌知义出兵攻奚、契丹，先胜后败。“守珪隐其状，而妄奏克获之功”（《旧唐书·张守珪传》）。高适对开元二十四年以后的两次战败，感慨很深，因作此诗。
 
 ## 作品赏析
 
