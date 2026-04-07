@@ -105,12 +105,12 @@ export default async function AboutPage() {
 								<p className="text-muted-foreground">
 									GitHub:
 									<Link
-										href="https://github.com/gxwtf/gxwtf_poem"
+										href="https://github.com/gxwtf/poem"
 										className="text-blue-500 hover:underline ml-2"
 										target="_blank"
 										rel="noopener noreferrer"
 									>
-										gxwtf/gxwtf_poem
+										gxwtf/poem
 									</Link>
 								</p>
 							</div>
