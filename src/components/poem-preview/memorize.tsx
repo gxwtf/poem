@@ -23,6 +23,11 @@ export function Memorize() {
         setMemorize(difficulty);
     }
 
+    function enterFirstCharMode() {
+        console.log('enterFirstCharMode');
+        setMemorize(-1);
+    }
+
     function quitMemorizeMode() {
         setMemorize(NaN);
     }
@@ -47,7 +52,7 @@ export function Memorize() {
                                     </PopoverTrigger>
                                     <PopoverContent>
                                         <p>
-                                            背诵难度是一个(0,1]之间的实数，表示原文中每个字隐藏的概率。该值越大，难度越高。
+                                            背诵难度是一个 (0,1] 之间的实数，表示原文中每个字隐藏的概率。该值越大，难度越高。
                                         </p>
                                     </PopoverContent>
                                 </Popover>
@@ -59,6 +64,9 @@ export function Memorize() {
                                 <Brain className="w-4 h-4" />
                                 开始背诵
                             </Button>
+                            <Button onClick={enterFirstCharMode} className="flex items-center gap-2">
+                                首字提示
+                            </Button>
                         </div>
                     </PopoverContent>
                 </Popover>
@@ -66,6 +74,7 @@ export function Memorize() {
         );
     }
 
+    // 首字提示模式 (-1) 或背诵模式 (正数) 都显示结束按钮
     return (
         <>
             <Button variant="destructive" onClick={quitMemorizeMode} style={{
