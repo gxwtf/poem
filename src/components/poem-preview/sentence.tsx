@@ -43,7 +43,7 @@ function isFirstCharInSentence(charIndex: number, sentence: CharData[]): boolean
 }
 
 function isPunctuation(char: string): boolean {
-    return `。，、；：？！"'（）【】《》…—·～\n\r`.includes(char);
+    return `。，、；：？！"'（）【】《》…—·～“”‘’\n\r`.includes(char);
 }
 
 export type SentenceData = {

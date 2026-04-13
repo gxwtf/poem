@@ -43,7 +43,7 @@ export function Char({
     const [ memorizeMode, setMemorizeMode ] = useState(CharMode.Read);
 
     useEffect(() => {
-        if (`。，、；：？！"'（）【】《》…—·～\n\r`.includes(data.char))setMemorizeMode(CharMode.Read);
+        if (`。，、；：？！"'（）【】《》…—·～“”‘’\n\r`.includes(data.char))setMemorizeMode(CharMode.Read);
         else if (memorize === -1) {
             // 首字提示模式：是首字就显示，否则隐藏
             setMemorizeMode(isFirstChar ? CharMode.FirstChar : CharMode.Memorize);

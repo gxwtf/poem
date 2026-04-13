@@ -11,7 +11,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
-import { CircleQuestionMark, Brain } from "lucide-react";
+import { CircleQuestionMark, Brain, Lightbulb } from "lucide-react";
 import { MemorizeContext } from "./memorize-context";
 
 export function Memorize() {
@@ -65,6 +65,7 @@ export function Memorize() {
                                 开始背诵
                             </Button>
                             <Button onClick={enterFirstCharMode} className="flex items-center gap-2">
+                                <Lightbulb className="w-4 h-4" />
                                 首字提示
                             </Button>
                         </div>
