@@ -3,10 +3,7 @@
 import * as React from "react"
 import {
     BookOpenText,
-    CreditCard,
-    Settings,
     UserPen,
-    User,
     Search,
     Tag
 } from "lucide-react"
@@ -18,10 +15,7 @@ import {
     CommandInput,
     CommandItem,
     CommandList,
-    CommandSeparator,
-    CommandShortcut,
 } from "@/components/ui/command"
-import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { useDebounce } from "@react-hook/debounce"
 import { useIsMac } from "@/hooks/use-is-mac"
@@ -311,24 +305,6 @@ export function CommandMenu() {
                             >
                                 <Tag className="mr-2 h-4 w-4" />
                                 <span>标签</span>
-                            </CommandItem>
-                        </CommandGroup>
-                        <CommandSeparator />
-                        <CommandGroup heading="设置">
-                            <CommandItem>
-                                <User className="mr-2 h-4 w-4" />
-                                <span>个人资料</span>
-                                <CommandShortcut>⌘P</CommandShortcut>
-                            </CommandItem>
-                            <CommandItem>
-                                <CreditCard className="mr-2 h-4 w-4" />
-                                <span>账单</span>
-                                <CommandShortcut>⌘B</CommandShortcut>
-                            </CommandItem>
-                            <CommandItem>
-                                <Settings className="mr-2 h-4 w-4" />
-                                <span>设置</span>
-                                <CommandShortcut>⌘S</CommandShortcut>
                             </CommandItem>
                         </CommandGroup>
                     </>
