@@ -199,14 +199,14 @@ const BreakSentencePage: React.FC = () => {
 
     if (isLoading) {
         return (
-            <div className="p-4 md:p-6">
+            <>
                 <SiteHeader now="句读知不知" />
                 <div className="max-w-4xl mx-auto">
                     <div className="text-center py-16">
                         <div className="text-xl font-medium text-muted-foreground">加载中...</div>
                     </div>
                 </div>
-            </div>
+            </>
         );
     }
 

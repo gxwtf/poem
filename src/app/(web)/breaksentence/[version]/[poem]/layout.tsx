@@ -1,6 +1,14 @@
-export const metadata = {
-    title: "句读知不知 - 广学古诗文",
-    description: "句读知不知小游戏",
+interface Props {
+    params: Promise<{ poem: string }>;
+}
+
+export async function generateMetadata(props: Props) {
+    const { poem } = await props.params;
+    const Poem = decodeURIComponent(poem);
+    return {
+        title: `句读知不知 - ${Poem}`,
+        description: `句读知不知小游戏`,
+    };
 }
 
 export default function Layout({
