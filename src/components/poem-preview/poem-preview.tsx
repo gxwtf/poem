@@ -11,6 +11,7 @@ import { StarButton } from "../star";
 import { Book, BookOpen, Music, Music3, FileText, FileCheck, Scissors } from "lucide-react";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
+import { MouseDownStatContextProvider } from "../mouse-stat-context";
 
 function ControlButtons({
     showTranslation,
@@ -102,19 +103,21 @@ export function PoemPreview({ data }: PoemPreviewProps) {
                     showNotes={showNotes}
                     setShowNotes={setShowNotes}
                 />
-                <div className={mode === "poem" ? "text-center" : "text-left"}>
-                    {preview.map((paragraph, pIdx) => (
-                        <div key={pIdx} className={mode === "paragraph" ? "my-4" : ""}>
-                            <Paragraph
-                                para={paragraph}
-                                showPinyin={showPinyin}
-                                showTranslation={showTranslation}
-                                mode={mode}
-                                showNotes={showNotes}
-                            />
-                        </div>
-                    ))}
-                </div>
+                <MouseDownStatContextProvider>
+                    <div className={mode === "poem" ? "text-center" : "text-left"}>
+                        {preview.map((paragraph, pIdx) => (
+                            <div key={pIdx} className={mode === "paragraph" ? "my-4" : ""}>
+                                <Paragraph
+                                    para={paragraph}
+                                    showPinyin={showPinyin}
+                                    showTranslation={showTranslation}
+                                    mode={mode}
+                                    showNotes={showNotes}
+                                />
+                            </div>
+                        ))}
+                    </div>
+                </MouseDownStatContextProvider>
             </div>
         </>
     )

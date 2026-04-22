@@ -4,7 +4,6 @@
 
 import { useState } from "react";
 import {Sentence, SentenceData, Translation} from "./sentence";
-import { MouseDownStat } from "../mouse-stat-context";
 
 export type ParagraphData = {
     paragraph: SentenceData[]
@@ -24,7 +23,6 @@ export function Paragraph({
     showNotes: boolean
 }) {
     const [highlightId, setHighlightId] = useState<number | null>(null);
-    const [mouseDownStat, setMouseDownStat] = useState<boolean>(false);
 
     const handleMouseEnter = (id: number) => {
         setHighlightId(id);
@@ -34,60 +32,46 @@ export function Paragraph({
         setHighlightId(null);
     };
 
-    function handleMouseDown() {
-        setMouseDownStat(true);
-    }
-
-    function handleMouseUp() {
-        setMouseDownStat(false);
-    }
-
     return (
-        <div
-            className="leading-13"
-            onMouseDown={handleMouseDown}
-            onMouseUp={handleMouseUp}
-        >
-            <MouseDownStat value={mouseDownStat}>
-                <div className="sentences">
-                    {mode === "paragraph" && <span className="inline-block w-[4.5em]"></span>}
-                    {para.paragraph.map((s, index) => (
-                        <span
-                            key={index}
-                            onMouseEnter={() => showTranslation && handleMouseEnter(index)}
-                            onMouseLeave={() => showTranslation && handleMouseLeave()}
-                            className={`inline ${highlightId === index ? "highlight" : ""}`}
-                        >
-                            <Sentence 
-                                sent={s} 
-                                showPinyin={showPinyin} 
-                                highlight={highlightId === index} 
-                                showNotes={showNotes}
-                            />
-                        </span>
-                    ))}
+        <div className="leading-13">
+            <div className="sentences">
+                {mode === "paragraph" && <span className="inline-block w-[4.5em]"></span>}
+                {para.paragraph.map((s, index) => (
+                    <span
+                        key={index}
+                        onMouseEnter={() => showTranslation && handleMouseEnter(index)}
+                        onMouseLeave={() => showTranslation && handleMouseLeave()}
+                        className={`inline ${highlightId === index ? "highlight" : ""}`}
+                    >
+                        <Sentence 
+                            sent={s} 
+                            showPinyin={showPinyin} 
+                            highlight={highlightId === index} 
+                            showNotes={showNotes}
+                        />
+                    </span>
+                ))}
+            </div>
+            {showTranslation && (
+                <div className="translations mt-4">
+                    {mode === "paragraph" && <span className="inline-block w-[2.5em]"></span>}
+                    {para.paragraph.map((s, index) =>
+                        s.translation ? (
+                            <span
+                                key={index}
+                                onMouseEnter={() => showTranslation && handleMouseEnter(index)}
+                                onMouseLeave={() => showTranslation && handleMouseLeave()}
+                                className={`${highlightId === index ? "highlight" : ""} inline`}
+                            >
+                                <Translation 
+                                    translation={s.translation.translation} 
+                                    highlight={highlightId === index} 
+                                />
+                            </span>
+                        ) : null
+                    )}
                 </div>
-                {showTranslation && (
-                    <div className="translations mt-4">
-                        {mode === "paragraph" && <span className="inline-block w-[2.5em]"></span>}
-                        {para.paragraph.map((s, index) =>
-                            s.translation ? (
-                                <span
-                                    key={index}
-                                    onMouseEnter={() => showTranslation && handleMouseEnter(index)}
-                                    onMouseLeave={() => showTranslation && handleMouseLeave()}
-                                    className={`${highlightId === index ? "highlight" : ""} inline`}
-                                >
-                                    <Translation 
-                                        translation={s.translation.translation} 
-                                        highlight={highlightId === index} 
-                                    />
-                                </span>
-                            ) : null
-                        )}
-                    </div>
-                )}
-            </MouseDownStat>
+            )}
         </div>
     );
 }

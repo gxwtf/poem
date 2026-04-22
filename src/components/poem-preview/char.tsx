@@ -5,7 +5,7 @@
 import { useState, useRef, useContext, useEffect } from "react";
 import CharNote from "./char-note";
 import { MemorizeContext } from "./memorize-context";
-import { MouseDownStat } from "../mouse-stat-context";
+import { MouseDownStatContext } from "../mouse-stat-context";
 
 export type CharData = {
     char: string
@@ -40,7 +40,7 @@ export function Char({
     const hoverTimer = useRef<number | null>(null);
     const { memorize } = useContext(MemorizeContext);
     const [ memorizeMode, setMemorizeMode ] = useState(CharMode.Read);
-    const mouseDownStat = useContext(MouseDownStat);
+    const mouseDownStat = useContext(MouseDownStatContext);
 
     useEffect(() => {
         if (`。，、；：？！"'（）【】《》…—·～“”‘’\n\r`.includes(data.char))setMemorizeMode(CharMode.Read);
