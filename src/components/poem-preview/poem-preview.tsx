@@ -86,7 +86,7 @@ export function PoemPreview({ data }: PoemPreviewProps) {
     const { memorize } = useContext(MemorizeContext);
 
     useEffect(() => {
-        console.log('XC', memorize);
+        // console.log('XC', memorize);
         if (isNaN(memorize)) setShowNotes(true);
         else setShowNotes(false);
     }, [memorize]);

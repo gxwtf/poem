@@ -71,13 +71,11 @@ export function Sentence({
     showPinyin,
     highlight,
     showNotes,
-    mouseDownStat
 }: {
     sent: SentenceData,
     showPinyin: boolean,
     highlight: boolean,
     showNotes: boolean
-    mouseDownStat: boolean
 }) {
     const { sentence, notes } = sent;
     const charList: React.ReactNode[] = [];
@@ -95,7 +93,6 @@ export function Sentence({
                         showPinyin={showPinyin}
                         highlight={highlight}
                         showNotes={showNotes}
-                        mouseDownStat={mouseDownStat}
                         isFirstChar={j === 0 && isFirst}
                     />
                 </WordNotePopover>
@@ -114,7 +111,6 @@ export function Sentence({
                     showPinyin={showPinyin}
                     highlight={highlight}
                     showNotes={showNotes}
-                    mouseDownStat={mouseDownStat}
                     isFirstChar={isCharFirst}
                 />
             );

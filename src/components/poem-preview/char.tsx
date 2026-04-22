@@ -5,6 +5,7 @@
 import { useState, useRef, useContext, useEffect } from "react";
 import CharNote from "./char-note";
 import { MemorizeContext } from "./memorize-context";
+import { MouseDownStat } from "../mouse-stat-context";
 
 export type CharData = {
     char: string
@@ -26,7 +27,6 @@ export function Char({
     highlight,
     suppressNote,
     showNotes,
-    mouseDownStat,
     isFirstChar  // 新增：是否是首字
 }: {
     data: CharData
@@ -34,13 +34,13 @@ export function Char({
     highlight: boolean
     suppressNote?: (suppress: boolean) => void
     showNotes: boolean
-    mouseDownStat: boolean
     isFirstChar?: boolean  // 新增 prop
 }) {
     const [showNote, setShowNote] = useState(false);
     const hoverTimer = useRef<number | null>(null);
     const { memorize } = useContext(MemorizeContext);
     const [ memorizeMode, setMemorizeMode ] = useState(CharMode.Read);
+    const mouseDownStat = useContext(MouseDownStat);
 
     useEffect(() => {
         if (`。，、；：？！"'（）【】《》…—·～“”‘’\n\r`.includes(data.char))setMemorizeMode(CharMode.Read);
