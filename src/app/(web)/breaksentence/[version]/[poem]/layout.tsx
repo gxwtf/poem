@@ -7,7 +7,7 @@ export async function generateMetadata(props: Props) {
     const Poem = decodeURIComponent(poem);
     return {
         title: `句读知不知 - ${Poem}`,
-        description: `句读知不知小游戏`,
+        description: `${Poem}的句读知不知小游戏`,
     };
 }
 

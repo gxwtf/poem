@@ -11,8 +11,8 @@ export async function generateMetadata(props: Props) {
     const { author } = await props.params;
     const Author = decodeURIComponent(author);
     return {
-        title: `作者介绍 - ${Author}`,
-        description: '作者介绍页面',
+        title: `作者 - ${Author}`,
+        description: `${Author}的作者介绍页面`,
     };
 }
 

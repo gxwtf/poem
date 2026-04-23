@@ -7,8 +7,8 @@ import { SiteHeader } from "@/components/site-header"
 import config from "../../../../package.json"
 
 export const metadata = {
-	title: "关于我们 - 广学古诗文",
-	description: "关于广学古诗文的介绍",
+	title: "关于 - 广学古诗文",
+	description: "网站介绍页面",
 }
 
 export default async function AboutPage() {
@@ -16,7 +16,7 @@ export default async function AboutPage() {
 
 	return (
 		<>
-			<SiteHeader now="关于我们" />
+			<SiteHeader now="关于" />
 			<div className="container mx-auto px-4 py-8 max-w-4xl">
 				{/* 新的标题布局 */}
 				<div className="relative mb-12">
@@ -82,17 +82,22 @@ export default async function AboutPage() {
 					</Card>
 				</div>
 
-				<Separator className="my-8" />
-
 				<Card>
 					<CardHeader>
-						<CardTitle className="text-[var(--theme-color)]">开源信息</CardTitle>
+						<CardTitle className="text-[var(--theme-color)]">技术与开源</CardTitle>
 						<CardDescription>
-							遵循开源协议，共建学习生态
+							现代化技术栈，开源共建
 						</CardDescription>
 					</CardHeader>
 					<CardContent>
 						<div className="space-y-4 text-sm">
+							<div>
+								<h4 className="font-medium mb-2 text-[var(--theme-color)]">技术栈</h4>
+								<p className="text-muted-foreground">
+									前端：React + Next.js，语言：TypeScript，数据库：PostgreSQL
+								</p>
+							</div>
+
 							<div>
 								<h4 className="font-medium mb-2 text-[var(--theme-color)]">开源协议</h4>
 								<p className="text-muted-foreground">
@@ -124,33 +129,6 @@ export default async function AboutPage() {
 						</div>
 					</CardContent>
 				</Card>
-
-				<Separator className="my-8" />
-
-				<Card>
-					<CardHeader>
-						<CardTitle className="text-[var(--theme-color)]">备案信息</CardTitle>
-						<CardDescription>
-							合规运营，安全可靠
-						</CardDescription>
-					</CardHeader>
-					<CardContent>
-						<div className="space-y-2 text-sm">
-							<p><strong className="text-[var(--theme-color)]">网站名称：</strong>广学古诗文</p>
-							<p><strong className="text-[var(--theme-color)]">备案号：</strong>京ICP备2025107534号-1</p>
-							<p><strong className="text-[var(--theme-color)]">运营主体：</strong>广学社技术组</p>
-							<p><strong className="text-[var(--theme-color)]">联系方式：</strong>gxwtf@foxmail.com</p>
-						</div>
-					</CardContent>
-				</Card>
-
-				<div className="text-center mt-8">
-					<Button asChild>
-						<Link href="/">
-							返回首页
-						</Link>
-					</Button>
-				</div>
 			</div>
 		</>
 	);
