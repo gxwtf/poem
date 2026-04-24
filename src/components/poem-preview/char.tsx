@@ -110,7 +110,7 @@ export function Char({
             setMemorizeMode(CharMode.ShowAnswer);
     }
 
-    function handleClick() {
+    function handleMouseDown() {
         if (memorizeMode === CharMode.Memorize)
             setMemorizeMode(CharMode.ShowAnswer);
     }
@@ -119,7 +119,7 @@ export function Char({
         <div
             className={`inline-block justify-center text-primary ${highlight ? "bg-yellow-100" : ""} relative select-none`}
             onMouseOver={handleMouseOver}
-            onClick={handleClick}
+            onMouseDown={handleMouseDown}
         >
             <span className="inline-flex flex-col items-center min-w-[1.5em] cursor-pointer">
                 {showPinyin && (
