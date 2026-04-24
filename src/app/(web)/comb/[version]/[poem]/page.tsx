@@ -12,7 +12,7 @@ export async function generateMetadata(props: Props) {
     const Poem = decodeURIComponent(poem);
     return {
         title: `知识梳理 - ${Poem}`,
-        description: '文言知识梳理页面',
+        description: `${Poem}的知识梳理页面`,
     };
 }
 
