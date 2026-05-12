@@ -26,7 +26,7 @@ const __dirname = path.dirname(__filename);
 /** 强制更新列表，用于 --force 模式下指定必须覆盖的诗文名称 */
 const forceList = {
     junior: [],
-    senior: ["子路、曾皙、冉有、公西华侍坐"]
+    senior: ["齐桓晋文之事"]
 };
 
 let GLOBAL_TAG_LIST = [];
@@ -112,7 +112,7 @@ function buildParagraphs(content, translation, pinyin) {
                     pinyinIndex++;
                 }
                 // 半角分号统一转为全角分号（仅影响展示，不影响断句）
-                const displayChar = ch === ";" ? "；" : ch;
+                const displayChar = ch === ";" ? "；" : (ch === "." ? "。" : ch);
 
                 contentArr.push({
                     char: displayChar,
@@ -127,6 +127,10 @@ function buildParagraphs(content, translation, pinyin) {
             trans = trans.replace(/;/g, "；");
             // 所有半角句点统一替换为全角句号（仅影响展示，不影响断句）
             trans = trans.replace(/\./g, "。");
+            // 所有英文问号统一替换为中文问号（仅影响展示，不影响断句）
+            trans = trans.replace(/\?/g, "？");
+            // 所有英文感叹号统一替换为中文感叹号（仅影响展示，不影响断句）
+            trans = trans.replace(/!/g, "！");
             if (ENABLE_LOG) {
                 const rawSentence = contentArr.map(c => c.char).join("");
                 console.log("🧾 原文句子：", rawSentence);
@@ -289,9 +293,10 @@ function main() {
 
     const isAddMode = args.includes("--add");
     const isForceMode = args.includes("--force");
+    const isAllMode = args.includes("--all");
 
-    if (!isAddMode && !isForceMode) {
-        console.error("❌ 请使用 --add 或 --force 运行此脚本");
+    if (!isAddMode && !isForceMode && !isAllMode) {
+        console.error("❌ 请使用 --add、--force 或 --all 运行此脚本");
         process.exit(1);
     }
 
@@ -367,6 +372,42 @@ function main() {
 
         // 输出结果统计
         console.log("\n📊 强制更新模式结果统计:");
+        console.log(`✅ 成功更新: ${successList.length} 个`);
+        console.log(`❌ 更新失败: ${failList.length} 个`);
+
+        if (failList.length > 0) {
+            console.log("\n📋 失败详情:");
+            failList.forEach(item => console.log(`  - ${item}`));
+        }
+    }
+
+    // --all 模式：强制更新所有文件
+    if (isAllMode) {
+        console.log("🔄 开始强制更新所有文件模式...");
+        const versions = ["junior", "senior"];
+
+        const successList = [];
+        const failList = [];
+
+        for (const version of versions) {
+            console.log(`\n📚 处理 ${version} 版本...`);
+            const poemNames = loadOrder(version);
+
+            for (const poemName of poemNames) {
+                const result = createFullJson(version, poemName, true);
+
+                if (result.success) {
+                    successList.push(`${version}/${poemName}`);
+                    console.log(`✅ 强制更新成功: ${version}/${poemName}`);
+                } else {
+                    failList.push(`${version}/${poemName}: ${result.reason}`);
+                    console.log(`❌ 强制更新失败: ${version}/${poemName} - ${result.reason}`);
+                }
+            }
+        }
+
+        // 输出结果统计
+        console.log("\n📊 强制更新所有文件结果统计:");
         console.log(`✅ 成功更新: ${successList.length} 个`);
         console.log(`❌ 更新失败: ${failList.length} 个`);
 
