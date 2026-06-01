@@ -7,6 +7,10 @@
   "comprehensive_appreciation": "",
   "appreciation": "《兼爱》是一篇论述文，出自《墨子》。这篇文章先指出，圣人以治理天下为己任，必须洞悉社会动乱的根源，方能对症下药，实现有效治理；接着深入剖析了社会动乱的根源——“不相爱”；后提出“兼相爱”的解决之道；最后强调，必须不遗余力地倡导“兼相爱”，禁止恶行，鼓励爱心。这篇文章深刻阐述了“兼相爱”思想在治理国家、化解社会动乱中的重要作用；他的思想不仅具有深刻的理论意义，也为后世提供宝贵的治理智慧和实践指南。",
   "background": "",
+  "tags": [
+    "选必上",
+    "文言文"
+  ],
   "paragraphs": [
     {
       "sentences": [
@@ -469,7 +473,7 @@
               "index": 82
             }
           ],
-          "translation": "治理混乱又何尝不是这样，必须知道混乱产生的根源，才能进行治理。",
+          "translation": "治理混乱又何尝不是这样？",
           "notes": []
         },
         {
@@ -540,7 +544,7 @@
               "index": 95
             }
           ],
-          "translation": "如果不知道混乱产生的根源，就不能治理。",
+          "translation": "必须知道混乱产生的根源，才能进行治理。",
           "notes": []
         },
         {
@@ -611,7 +615,7 @@
               "index": 108
             }
           ],
-          "translation": "圣人是把治理天下作为(自己的)事务的人，不可不考察混乱产生的根源。",
+          "translation": "如果不知道混乱产生的根源，就不能治理。",
           "notes": []
         }
       ]
@@ -726,7 +730,7 @@
               "index": 129
             }
           ],
-          "translation": "",
+          "translation": "圣人是把治理天下作为(自己的)事务的人，不可不考察混乱产生的根源。",
           "notes": []
         },
         {
@@ -767,7 +771,7 @@
               "index": 136
             }
           ],
-          "translation": "",
+          "translation": "混乱从哪里产生呢？",
           "notes": [
             {
               "start": 0,
@@ -804,7 +808,7 @@
               "index": 141
             }
           ],
-          "translation": "",
+          "translation": "起于人与人不相爱。",
           "notes": []
         },
         {
@@ -826,7 +830,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 145
             },
             {
@@ -875,7 +879,7 @@
               "index": 154
             }
           ],
-          "translation": "",
+          "translation": "臣与子不孝敬君和父，就是所谓乱。",
           "notes": []
         },
         {
@@ -902,7 +906,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 159
             },
             {
@@ -956,7 +960,7 @@
               "index": 169
             }
           ],
-          "translation": "",
+          "translation": "儿子爱自己而不爱父亲，因而损害父亲以自利；",
           "notes": [
             {
               "start": 9,
@@ -989,7 +993,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 174
             },
             {
@@ -1043,7 +1047,7 @@
               "index": 184
             }
           ],
-          "translation": "",
+          "translation": "弟弟爱自己而不爱兄长，因而损害兄长以自利；",
           "notes": []
         },
         {
@@ -1070,7 +1074,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 189
             },
             {
@@ -1124,7 +1128,7 @@
               "index": 199
             }
           ],
-          "translation": "",
+          "translation": "臣下爱自己而不爱君上，因而损害君上以自利。",
           "notes": []
         },
         {
@@ -1160,7 +1164,7 @@
               "index": 205
             }
           ],
-          "translation": "",
+          "translation": "这就是所谓混乱。",
           "notes": []
         },
         {
@@ -1311,7 +1315,7 @@
               "index": 234
             }
           ],
-          "translation": "",
+          "translation": "反过来，即使父亲不慈爱儿子，兄长不慈爱弟弟，君上不慈爱臣下，这也是天下的所谓混乱。",
           "notes": [
             {
               "start": 0,
@@ -1354,7 +1358,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 240
             },
             {
@@ -1408,7 +1412,7 @@
               "index": 250
             }
           ],
-          "translation": "",
+          "translation": "父亲爱自己而不爱儿子，所以损害儿子以自利；",
           "notes": []
         },
         {
@@ -1440,7 +1444,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 256
             },
             {
@@ -1494,7 +1498,7 @@
               "index": 266
             }
           ],
-          "translation": "",
+          "translation": "兄长爱自己而不爱弟弟，所以损害弟弟以自利；",
           "notes": []
         },
         {
@@ -1526,7 +1530,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 272
             },
             {
@@ -1580,7 +1584,7 @@
               "index": 282
             }
           ],
-          "translation": "",
+          "translation": "君上爱自己而不爱臣下，所以损害臣下以自利。",
           "notes": []
         },
         {
@@ -1606,7 +1610,7 @@
               "index": 286
             }
           ],
-          "translation": "",
+          "translation": "这是什么缘故呢？",
           "notes": []
         },
         {
@@ -1642,7 +1646,7 @@
               "index": 292
             }
           ],
-          "translation": "",
+          "translation": "都是起于不相爱。",
           "notes": []
         },
         {
@@ -1713,7 +1717,7 @@
               "index": 305
             }
           ],
-          "translation": "",
+          "translation": "即使是天下做盗贼的也是这样。",
           "notes": [
             {
               "start": 6,
@@ -1751,7 +1755,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 311
             },
             {
@@ -1820,7 +1824,7 @@
               "index": 324
             }
           ],
-          "translation": "",
+          "translation": "盗只爱自己的家，不爱别人的家，所以偷盗别人家而自得利益。",
           "notes": [
             {
               "start": 3,
@@ -1858,7 +1862,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 330
             },
             {
@@ -1917,7 +1921,7 @@
               "index": 341
             }
           ],
-          "translation": "",
+          "translation": "贼只爱自身而不爱他人，所以抢夺他人身上东西而自得利益。",
           "notes": []
         },
         {
@@ -1943,7 +1947,7 @@
               "index": 345
             }
           ],
-          "translation": "",
+          "translation": "这是什么缘故呢？",
           "notes": []
         },
         {
@@ -1979,7 +1983,7 @@
               "index": 351
             }
           ],
-          "translation": "",
+          "translation": "都是起于不相爱的缘故啊！",
           "notes": []
         },
         {
@@ -2085,7 +2089,7 @@
               "index": 371
             }
           ],
-          "translation": "",
+          "translation": "即使是大夫互相侵扰其家，诸侯互相攻打其国也是这样的。",
           "notes": [
             {
               "start": 7,
@@ -2133,7 +2137,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 379
             },
             {
@@ -2202,7 +2206,7 @@
               "index": 392
             }
           ],
-          "translation": "",
+          "translation": "大夫各自爱自己的家，不爱别人的家，所以扰乱他人的家而使自家得利。",
           "notes": []
         },
         {
@@ -2244,7 +2248,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù",
+              "pinyin": "bú",
               "index": 400
             },
             {
@@ -2313,7 +2317,7 @@
               "index": 413
             }
           ],
-          "translation": "",
+          "translation": "诸侯各自爱自己的国家，而不爱别的国家，所以攻打别国而使自己国家得利。",
           "notes": []
         },
         {
@@ -2370,7 +2374,7 @@
             },
             {
               "char": "矣",
-              "pinyin": "chā",
+              "pinyin": "yǐ",
               "index": 424
             },
             {
@@ -2379,7 +2383,7 @@
               "index": 425
             }
           ],
-          "translation": "",
+          "translation": "天下混乱的事，都具备在这里了。",
           "notes": [
             {
               "start": 3,
@@ -2401,27 +2405,27 @@
           "content": [
             {
               "char": "察",
-              "pinyin": "cǐ",
+              "pinyin": "chá",
               "index": 426
             },
             {
               "char": "此",
-              "pinyin": "hé",
+              "pinyin": "cǐ",
               "index": 427
             },
             {
               "char": "何",
-              "pinyin": "zì",
+              "pinyin": "hé",
               "index": 428
             },
             {
               "char": "自",
-              "pinyin": "qǐ",
+              "pinyin": "zì",
               "index": 429
             },
             {
               "char": "起",
-              "pinyin": "jiē",
+              "pinyin": "qǐ",
               "index": 430
             },
             {
@@ -2430,34 +2434,34 @@
               "index": 431
             }
           ],
-          "translation": "",
+          "translation": "细察它们的起因是什么呢？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "皆",
-              "pinyin": "qǐ",
+              "pinyin": "jiē",
               "index": 432
             },
             {
               "char": "起",
-              "pinyin": "bù",
+              "pinyin": "qǐ",
               "index": 433
             },
             {
               "char": "不",
-              "pinyin": "xiāng",
+              "pinyin": "bù",
               "index": 434
             },
             {
               "char": "相",
-              "pinyin": "ài",
+              "pinyin": "xiāng",
               "index": 435
             },
             {
               "char": "爱",
-              "pinyin": "ruò",
+              "pinyin": "ài",
               "index": 436
             },
             {
@@ -2466,39 +2470,39 @@
               "index": 437
             }
           ],
-          "translation": "",
+          "translation": "都起于不相爱。",
           "notes": []
         },
         {
           "content": [
             {
               "char": "若",
-              "pinyin": "shǐ",
+              "pinyin": "ruò",
               "index": 438
             },
             {
               "char": "使",
-              "pinyin": "tiān",
+              "pinyin": "shǐ",
               "index": 439
             },
             {
               "char": "天",
-              "pinyin": "xià",
+              "pinyin": "tiān",
               "index": 440
             },
             {
               "char": "下",
-              "pinyin": "jiān",
+              "pinyin": "xià",
               "index": 441
             },
             {
               "char": "兼",
-              "pinyin": "xiāng",
+              "pinyin": "jiān",
               "index": 442
             },
             {
               "char": "相",
-              "pinyin": "ài",
+              "pinyin": "xiāng",
               "index": 443
             },
             {
@@ -2513,32 +2517,32 @@
             },
             {
               "char": "爱",
-              "pinyin": "rén",
+              "pinyin": "ài",
               "index": 446
             },
             {
               "char": "人",
-              "pinyin": "ruò",
+              "pinyin": "rén",
               "index": 447
             },
             {
               "char": "若",
-              "pinyin": "ài",
+              "pinyin": "ruò",
               "index": 448
             },
             {
               "char": "爱",
-              "pinyin": "qí",
+              "pinyin": "ài",
               "index": 449
             },
             {
               "char": "其",
-              "pinyin": "shēn",
+              "pinyin": "qí",
               "index": 450
             },
             {
               "char": "身",
-              "pinyin": "yóu",
+              "pinyin": "shēn",
               "index": 451
             },
             {
@@ -2548,32 +2552,32 @@
             },
             {
               "char": "犹",
-              "pinyin": "yǒu",
+              "pinyin": "yóu",
               "index": 453
             },
             {
               "char": "有",
-              "pinyin": "bù",
+              "pinyin": "yǒu",
               "index": 454
             },
             {
               "char": "不",
-              "pinyin": "xiào",
+              "pinyin": "bú",
               "index": 455
             },
             {
               "char": "孝",
-              "pinyin": "zhě",
+              "pinyin": "xiào",
               "index": 456
             },
             {
               "char": "者",
-              "pinyin": "hū",
+              "pinyin": "zhě",
               "index": 457
             },
             {
               "char": "乎",
-              "pinyin": "shì",
+              "pinyin": "hū",
               "index": 458
             },
             {
@@ -2582,49 +2586,49 @@
               "index": 459
             }
           ],
-          "translation": "",
+          "translation": "假若天下都能相亲相爱，爱别人就像爱自己，还能有不孝的吗？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "视",
-              "pinyin": "fù",
+              "pinyin": "shì",
               "index": 460
             },
             {
               "char": "父",
-              "pinyin": "xiōng",
+              "pinyin": "fù",
               "index": 461
             },
             {
               "char": "兄",
-              "pinyin": "yǔ",
+              "pinyin": "xiōng",
               "index": 462
             },
             {
               "char": "与",
-              "pinyin": "jūn",
+              "pinyin": "yǔ",
               "index": 463
             },
             {
               "char": "君",
-              "pinyin": "ruò",
+              "pinyin": "jūn",
               "index": 464
             },
             {
               "char": "若",
-              "pinyin": "qí",
+              "pinyin": "ruò",
               "index": 465
             },
             {
               "char": "其",
-              "pinyin": "shēn",
+              "pinyin": "qí",
               "index": 466
             },
             {
               "char": "身",
-              "pinyin": "wù",
+              "pinyin": "shēn",
               "index": 467
             },
             {
@@ -2634,22 +2638,22 @@
             },
             {
               "char": "恶",
-              "pinyin": "shī",
+              "pinyin": "wū",
               "index": 469
             },
             {
               "char": "施",
-              "pinyin": "bù",
+              "pinyin": "shī",
               "index": 470
             },
             {
               "char": "不",
-              "pinyin": "xiào",
+              "pinyin": "bú",
               "index": 471
             },
             {
               "char": "孝",
-              "pinyin": "yóu",
+              "pinyin": "xiào",
               "index": 472
             },
             {
@@ -2658,7 +2662,7 @@
               "index": 473
             }
           ],
-          "translation": "",
+          "translation": "看待父亲、兄弟和君上像自己一样，怎么会做出不孝的事呢？",
           "notes": [
             {
               "start": 9,
@@ -2671,32 +2675,32 @@
           "content": [
             {
               "char": "犹",
-              "pinyin": "yǒu",
+              "pinyin": "yóu",
               "index": 474
             },
             {
               "char": "有",
-              "pinyin": "bù",
+              "pinyin": "yǒu",
               "index": 475
             },
             {
               "char": "不",
-              "pinyin": "cí",
+              "pinyin": "bù",
               "index": 476
             },
             {
               "char": "慈",
-              "pinyin": "zhě",
+              "pinyin": "cí",
               "index": 477
             },
             {
               "char": "者",
-              "pinyin": "hū",
+              "pinyin": "zhě",
               "index": 478
             },
             {
               "char": "乎",
-              "pinyin": "shì",
+              "pinyin": "hū",
               "index": 479
             },
             {
@@ -2705,49 +2709,49 @@
               "index": 480
             }
           ],
-          "translation": "",
+          "translation": "还会有不慈爱的吗？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "视",
-              "pinyin": "dì",
+              "pinyin": "shì",
               "index": 481
             },
             {
               "char": "弟",
-              "pinyin": "zǐ",
+              "pinyin": "dì",
               "index": 482
             },
             {
               "char": "子",
-              "pinyin": "yǔ",
+              "pinyin": "zǐ",
               "index": 483
             },
             {
               "char": "与",
-              "pinyin": "chén",
+              "pinyin": "yǔ",
               "index": 484
             },
             {
               "char": "臣",
-              "pinyin": "ruò",
+              "pinyin": "chén",
               "index": 485
             },
             {
               "char": "若",
-              "pinyin": "qí",
+              "pinyin": "ruò",
               "index": 486
             },
             {
               "char": "其",
-              "pinyin": "shēn",
+              "pinyin": "qí",
               "index": 487
             },
             {
               "char": "身",
-              "pinyin": "wù",
+              "pinyin": "shēn",
               "index": 488
             },
             {
@@ -2757,22 +2761,22 @@
             },
             {
               "char": "恶",
-              "pinyin": "shī",
+              "pinyin": "wū",
               "index": 490
             },
             {
               "char": "施",
-              "pinyin": "bù",
+              "pinyin": "shī",
               "index": 491
             },
             {
               "char": "不",
-              "pinyin": "cí",
+              "pinyin": "bù",
               "index": 492
             },
             {
               "char": "慈",
-              "pinyin": "gù",
+              "pinyin": "cí",
               "index": 493
             },
             {
@@ -2781,39 +2785,39 @@
               "index": 494
             }
           ],
-          "translation": "",
+          "translation": "看待弟弟、儿子与臣下像自己一样，怎么会做出不慈的事呢？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "故",
-              "pinyin": "bù",
+              "pinyin": "gù",
               "index": 495
             },
             {
               "char": "不",
-              "pinyin": "xiào",
+              "pinyin": "bú",
               "index": 496
             },
             {
               "char": "孝",
-              "pinyin": "bù",
+              "pinyin": "xiào",
               "index": 497
             },
             {
               "char": "不",
-              "pinyin": "cí",
+              "pinyin": "bù",
               "index": 498
             },
             {
               "char": "慈",
-              "pinyin": "wáng",
+              "pinyin": "cí",
               "index": 499
             },
             {
               "char": "亡",
-              "pinyin": "yóu",
+              "pinyin": "wú",
               "index": 500
             },
             {
@@ -2822,7 +2826,7 @@
               "index": 501
             }
           ],
-          "translation": "",
+          "translation": "所以不孝不慈都没有了。",
           "notes": [
             {
               "start": 5,
@@ -2835,27 +2839,27 @@
           "content": [
             {
               "char": "犹",
-              "pinyin": "yǒu",
+              "pinyin": "yóu",
               "index": 502
             },
             {
               "char": "有",
-              "pinyin": "dào",
+              "pinyin": "yǒu",
               "index": 503
             },
             {
               "char": "盗",
-              "pinyin": "zéi",
+              "pinyin": "dào",
               "index": 504
             },
             {
               "char": "贼",
-              "pinyin": "hū",
+              "pinyin": "zéi",
               "index": 505
             },
             {
               "char": "乎",
-              "pinyin": "shì",
+              "pinyin": "hū",
               "index": 506
             },
             {
@@ -2864,7 +2868,7 @@
               "index": 507
             }
           ],
-          "translation": "",
+          "translation": "还有盗贼吗？",
           "notes": [
             {
               "start": 1,
@@ -2877,37 +2881,37 @@
           "content": [
             {
               "char": "视",
-              "pinyin": "rén",
+              "pinyin": "shì",
               "index": 508
             },
             {
               "char": "人",
-              "pinyin": "zhī",
+              "pinyin": "rén",
               "index": 509
             },
             {
               "char": "之",
-              "pinyin": "shì",
+              "pinyin": "zhī",
               "index": 510
             },
             {
               "char": "室",
-              "pinyin": "ruò",
+              "pinyin": "shì",
               "index": 511
             },
             {
               "char": "若",
-              "pinyin": "qí",
+              "pinyin": "ruò",
               "index": 512
             },
             {
               "char": "其",
-              "pinyin": "shì",
+              "pinyin": "qí",
               "index": 513
             },
             {
               "char": "室",
-              "pinyin": "shuí",
+              "pinyin": "shì",
               "index": 514
             },
             {
@@ -2917,12 +2921,12 @@
             },
             {
               "char": "谁",
-              "pinyin": "qiè",
+              "pinyin": "shuí",
               "index": 516
             },
             {
               "char": "窃",
-              "pinyin": "shì",
+              "pinyin": "qiè",
               "index": 517
             },
             {
@@ -2931,39 +2935,39 @@
               "index": 518
             }
           ],
-          "translation": "",
+          "translation": "看待别人的家像自己的家一样，谁会盗窃？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "视",
-              "pinyin": "rén",
+              "pinyin": "shì",
               "index": 519
             },
             {
               "char": "人",
-              "pinyin": "shēn",
+              "pinyin": "rén",
               "index": 520
             },
             {
               "char": "身",
-              "pinyin": "ruò",
+              "pinyin": "shēn",
               "index": 521
             },
             {
               "char": "若",
-              "pinyin": "qí",
+              "pinyin": "ruò",
               "index": 522
             },
             {
               "char": "其",
-              "pinyin": "shēn",
+              "pinyin": "qí",
               "index": 523
             },
             {
               "char": "身",
-              "pinyin": "shuí",
+              "pinyin": "shēn",
               "index": 524
             },
             {
@@ -2973,12 +2977,12 @@
             },
             {
               "char": "谁",
-              "pinyin": "zéi",
+              "pinyin": "shuí",
               "index": 526
             },
             {
               "char": "贼",
-              "pinyin": "gù",
+              "pinyin": "zéi",
               "index": 527
             },
             {
@@ -2987,34 +2991,34 @@
               "index": 528
             }
           ],
-          "translation": "",
+          "translation": "看待别人就像自己一样，谁会害人？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "故",
-              "pinyin": "dào",
+              "pinyin": "gù",
               "index": 529
             },
             {
               "char": "盗",
-              "pinyin": "zéi",
+              "pinyin": "dào",
               "index": 530
             },
             {
               "char": "贼",
-              "pinyin": "yǒu",
+              "pinyin": "zéi",
               "index": 531
             },
             {
               "char": "有",
-              "pinyin": "wáng",
+              "pinyin": "yòu",
               "index": 532
             },
             {
               "char": "亡",
-              "pinyin": "yóu",
+              "pinyin": "wú",
               "index": 533
             },
             {
@@ -3023,49 +3027,49 @@
               "index": 534
             }
           ],
-          "translation": "",
+          "translation": "所以盗贼没有了。",
           "notes": []
         },
         {
           "content": [
             {
               "char": "犹",
-              "pinyin": "yǒu",
+              "pinyin": "yóu",
               "index": 535
             },
             {
               "char": "有",
-              "pinyin": "dà",
+              "pinyin": "yǒu",
               "index": 536
             },
             {
               "char": "大",
-              "pinyin": "fū",
+              "pinyin": "dà",
               "index": 537
             },
             {
               "char": "夫",
-              "pinyin": "zhī",
+              "pinyin": "fū",
               "index": 538
             },
             {
               "char": "之",
-              "pinyin": "xiāng",
+              "pinyin": "zhī",
               "index": 539
             },
             {
               "char": "相",
-              "pinyin": "luàn",
+              "pinyin": "xiāng",
               "index": 540
             },
             {
               "char": "乱",
-              "pinyin": "jiā",
+              "pinyin": "luàn",
               "index": 541
             },
             {
               "char": "家",
-              "pinyin": "zhū",
+              "pinyin": "jiā",
               "index": 542
             },
             {
@@ -3075,42 +3079,42 @@
             },
             {
               "char": "诸",
-              "pinyin": "hóu",
+              "pinyin": "zhū",
               "index": 544
             },
             {
               "char": "侯",
-              "pinyin": "zhī",
+              "pinyin": "hóu",
               "index": 545
             },
             {
               "char": "之",
-              "pinyin": "xiāng",
+              "pinyin": "zhī",
               "index": 546
             },
             {
               "char": "相",
-              "pinyin": "gōng",
+              "pinyin": "xiāng",
               "index": 547
             },
             {
               "char": "攻",
-              "pinyin": "guó",
+              "pinyin": "gōng",
               "index": 548
             },
             {
               "char": "国",
-              "pinyin": "zhě",
+              "pinyin": "guó",
               "index": 549
             },
             {
               "char": "者",
-              "pinyin": "hū",
+              "pinyin": "zhě",
               "index": 550
             },
             {
               "char": "乎",
-              "pinyin": "shì",
+              "pinyin": "hū",
               "index": 551
             },
             {
@@ -3119,39 +3123,39 @@
               "index": 552
             }
           ],
-          "translation": "",
+          "translation": "还有卿大夫相互侵扰封地，诸侯相互攻伐封国吗？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "视",
-              "pinyin": "rén",
+              "pinyin": "shì",
               "index": 553
             },
             {
               "char": "人",
-              "pinyin": "jiā",
+              "pinyin": "rén",
               "index": 554
             },
             {
               "char": "家",
-              "pinyin": "ruò",
+              "pinyin": "jiā",
               "index": 555
             },
             {
               "char": "若",
-              "pinyin": "qí",
+              "pinyin": "ruò",
               "index": 556
             },
             {
               "char": "其",
-              "pinyin": "jiā",
+              "pinyin": "qí",
               "index": 557
             },
             {
               "char": "家",
-              "pinyin": "shuí",
+              "pinyin": "jiā",
               "index": 558
             },
             {
@@ -3161,12 +3165,12 @@
             },
             {
               "char": "谁",
-              "pinyin": "luàn",
+              "pinyin": "shuí",
               "index": 560
             },
             {
               "char": "乱",
-              "pinyin": "shì",
+              "pinyin": "luàn",
               "index": 561
             },
             {
@@ -3175,39 +3179,39 @@
               "index": 562
             }
           ],
-          "translation": "",
+          "translation": "看待别人的家族就像自己的家族，谁会侵犯？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "视",
-              "pinyin": "rén",
+              "pinyin": "shì",
               "index": 563
             },
             {
               "char": "人",
-              "pinyin": "guó",
+              "pinyin": "rén",
               "index": 564
             },
             {
               "char": "国",
-              "pinyin": "ruò",
+              "pinyin": "guó",
               "index": 565
             },
             {
               "char": "若",
-              "pinyin": "qí",
+              "pinyin": "ruò",
               "index": 566
             },
             {
               "char": "其",
-              "pinyin": "guó",
+              "pinyin": "qí",
               "index": 567
             },
             {
               "char": "国",
-              "pinyin": "shuí",
+              "pinyin": "guó",
               "index": 568
             },
             {
@@ -3217,12 +3221,12 @@
             },
             {
               "char": "谁",
-              "pinyin": "gōng",
+              "pinyin": "shuí",
               "index": 570
             },
             {
               "char": "攻",
-              "pinyin": "gù",
+              "pinyin": "gōng",
               "index": 571
             },
             {
@@ -3231,44 +3235,44 @@
               "index": 572
             }
           ],
-          "translation": "",
+          "translation": "看待别人的封国就像自己的封国，谁会攻伐？",
           "notes": []
         },
         {
           "content": [
             {
               "char": "故",
-              "pinyin": "dà",
+              "pinyin": "gù",
               "index": 573
             },
             {
               "char": "大",
-              "pinyin": "fū",
+              "pinyin": "dà",
               "index": 574
             },
             {
               "char": "夫",
-              "pinyin": "zhī",
+              "pinyin": "fū",
               "index": 575
             },
             {
               "char": "之",
-              "pinyin": "xiāng",
+              "pinyin": "zhī",
               "index": 576
             },
             {
               "char": "相",
-              "pinyin": "luàn",
+              "pinyin": "xiāng",
               "index": 577
             },
             {
               "char": "乱",
-              "pinyin": "jiā",
+              "pinyin": "luàn",
               "index": 578
             },
             {
               "char": "家",
-              "pinyin": "zhū",
+              "pinyin": "jiā",
               "index": 579
             },
             {
@@ -3278,47 +3282,47 @@
             },
             {
               "char": "诸",
-              "pinyin": "hóu",
+              "pinyin": "zhū",
               "index": 581
             },
             {
               "char": "侯",
-              "pinyin": "zhī",
+              "pinyin": "hóu",
               "index": 582
             },
             {
               "char": "之",
-              "pinyin": "xiāng",
+              "pinyin": "zhī",
               "index": 583
             },
             {
               "char": "相",
-              "pinyin": "gōng",
+              "pinyin": "xiāng",
               "index": 584
             },
             {
               "char": "攻",
-              "pinyin": "guó",
+              "pinyin": "gōng",
               "index": 585
             },
             {
               "char": "国",
-              "pinyin": "zhě",
+              "pinyin": "guó",
               "index": 586
             },
             {
               "char": "者",
-              "pinyin": "yǒu",
+              "pinyin": "zhě",
               "index": 587
             },
             {
               "char": "有",
-              "pinyin": "wáng",
+              "pinyin": "yòu",
               "index": 588
             },
             {
               "char": "亡",
-              "pinyin": "ruò",
+              "pinyin": "wú",
               "index": 589
             },
             {
@@ -3327,44 +3331,44 @@
               "index": 590
             }
           ],
-          "translation": "",
+          "translation": "所以卿大夫相互侵扰封地，诸侯相互攻伐封国，都没有了。",
           "notes": []
         },
         {
           "content": [
             {
               "char": "若",
-              "pinyin": "shǐ",
+              "pinyin": "ruò",
               "index": 591
             },
             {
               "char": "使",
-              "pinyin": "tiān",
+              "pinyin": "shǐ",
               "index": 592
             },
             {
               "char": "天",
-              "pinyin": "xià",
+              "pinyin": "tiān",
               "index": 593
             },
             {
               "char": "下",
-              "pinyin": "jiān",
+              "pinyin": "xià",
               "index": 594
             },
             {
               "char": "兼",
-              "pinyin": "xiāng",
+              "pinyin": "jiān",
               "index": 595
             },
             {
               "char": "相",
-              "pinyin": "ài",
+              "pinyin": "xiāng",
               "index": 596
             },
             {
               "char": "爱",
-              "pinyin": "guó",
+              "pinyin": "ài",
               "index": 597
             },
             {
@@ -3374,32 +3378,32 @@
             },
             {
               "char": "国",
-              "pinyin": "yǔ",
+              "pinyin": "guó",
               "index": 599
             },
             {
               "char": "与",
-              "pinyin": "guó",
+              "pinyin": "yǔ",
               "index": 600
             },
             {
               "char": "国",
-              "pinyin": "bù",
+              "pinyin": "guó",
               "index": 601
             },
             {
               "char": "不",
-              "pinyin": "xiāng",
+              "pinyin": "bù",
               "index": 602
             },
             {
               "char": "相",
-              "pinyin": "gōng",
+              "pinyin": "xiāng",
               "index": 603
             },
             {
               "char": "攻",
-              "pinyin": "jiā",
+              "pinyin": "gōng",
               "index": 604
             },
             {
@@ -3409,32 +3413,32 @@
             },
             {
               "char": "家",
-              "pinyin": "yǔ",
+              "pinyin": "jiā",
               "index": 606
             },
             {
               "char": "与",
-              "pinyin": "jiā",
+              "pinyin": "yǔ",
               "index": 607
             },
             {
               "char": "家",
-              "pinyin": "bù",
+              "pinyin": "jiā",
               "index": 608
             },
             {
               "char": "不",
-              "pinyin": "xiāng",
+              "pinyin": "bù",
               "index": 609
             },
             {
               "char": "相",
-              "pinyin": "luàn",
+              "pinyin": "xiāng",
               "index": 610
             },
             {
               "char": "乱",
-              "pinyin": "dào",
+              "pinyin": "luàn",
               "index": 611
             },
             {
@@ -3444,22 +3448,22 @@
             },
             {
               "char": "盗",
-              "pinyin": "zéi",
+              "pinyin": "dào",
               "index": 613
             },
             {
               "char": "贼",
-              "pinyin": "wú",
+              "pinyin": "zéi",
               "index": 614
             },
             {
               "char": "无",
-              "pinyin": "yǒu",
+              "pinyin": "wú",
               "index": 615
             },
             {
               "char": "有",
-              "pinyin": "jūn",
+              "pinyin": "yǒu",
               "index": 616
             },
             {
@@ -3469,42 +3473,42 @@
             },
             {
               "char": "君",
-              "pinyin": "chén",
+              "pinyin": "jūn",
               "index": 618
             },
             {
               "char": "臣",
-              "pinyin": "fù",
+              "pinyin": "chén",
               "index": 619
             },
             {
               "char": "父",
-              "pinyin": "zǐ",
+              "pinyin": "fù",
               "index": 620
             },
             {
               "char": "子",
-              "pinyin": "jiē",
+              "pinyin": "zǐ",
               "index": 621
             },
             {
               "char": "皆",
-              "pinyin": "néng",
+              "pinyin": "jiē",
               "index": 622
             },
             {
               "char": "能",
-              "pinyin": "xiào",
+              "pinyin": "néng",
               "index": 623
             },
             {
               "char": "孝",
-              "pinyin": "cí",
+              "pinyin": "xiào",
               "index": 624
             },
             {
               "char": "慈",
-              "pinyin": "ruò",
+              "pinyin": "cí",
               "index": 625
             },
             {
@@ -3514,32 +3518,32 @@
             },
             {
               "char": "若",
-              "pinyin": "cǐ",
+              "pinyin": "ruò",
               "index": 627
             },
             {
               "char": "此",
-              "pinyin": "zé",
+              "pinyin": "cǐ",
               "index": 628
             },
             {
               "char": "则",
-              "pinyin": "tiān",
+              "pinyin": "zé",
               "index": 629
             },
             {
               "char": "天",
-              "pinyin": "xià",
+              "pinyin": "tiān",
               "index": 630
             },
             {
               "char": "下",
-              "pinyin": "zhì",
+              "pinyin": "xià",
               "index": 631
             },
             {
               "char": "治",
-              "pinyin": "gù",
+              "pinyin": "zhì",
               "index": 632
             },
             {
@@ -3548,7 +3552,7 @@
               "index": 633
             }
           ],
-          "translation": "",
+          "translation": "假若天下的人都相亲相爱，国家与国家不相互攻伐，家族与家族不相互侵扰，盗贼没有了，君臣父子间都能孝敬慈爱，像这样，天下也就治理了。",
           "notes": []
         }
       ]
@@ -3559,52 +3563,52 @@
           "content": [
             {
               "char": "故",
-              "pinyin": "shèng",
+              "pinyin": "gù",
               "index": 634
             },
             {
               "char": "圣",
-              "pinyin": "rén",
+              "pinyin": "shèng",
               "index": 635
             },
             {
               "char": "人",
-              "pinyin": "yǐ",
+              "pinyin": "rén",
               "index": 636
             },
             {
               "char": "以",
-              "pinyin": "zhì",
+              "pinyin": "yǐ",
               "index": 637
             },
             {
               "char": "治",
-              "pinyin": "tiān",
+              "pinyin": "zhì",
               "index": 638
             },
             {
               "char": "天",
-              "pinyin": "xià",
+              "pinyin": "tiān",
               "index": 639
             },
             {
               "char": "下",
-              "pinyin": "wéi",
+              "pinyin": "xià",
               "index": 640
             },
             {
               "char": "为",
-              "pinyin": "shì",
+              "pinyin": "wéi",
               "index": 641
             },
             {
               "char": "事",
-              "pinyin": "zhě",
+              "pinyin": "shì",
               "index": 642
             },
             {
               "char": "者",
-              "pinyin": "è",
+              "pinyin": "zhě",
               "index": 643
             },
             {
@@ -3614,42 +3618,42 @@
             },
             {
               "char": "恶",
-              "pinyin": "dé",
+              "pinyin": "wū",
               "index": 645
             },
             {
               "char": "得",
-              "pinyin": "bù",
+              "pinyin": "dé",
               "index": 646
             },
             {
               "char": "不",
-              "pinyin": "jìn",
+              "pinyin": "bú",
               "index": 647
             },
             {
               "char": "禁",
-              "pinyin": "è",
+              "pinyin": "jìn",
               "index": 648
             },
             {
               "char": "恶",
-              "pinyin": "ér",
+              "pinyin": "wù",
               "index": 649
             },
             {
               "char": "而",
-              "pinyin": "quàn",
+              "pinyin": "ér",
               "index": 650
             },
             {
               "char": "劝",
-              "pinyin": "ài",
+              "pinyin": "quàn",
               "index": 651
             },
             {
               "char": "爱",
-              "pinyin": "gù",
+              "pinyin": "ài",
               "index": 652
             },
             {
@@ -3658,7 +3662,7 @@
               "index": 653
             }
           ],
-          "translation": "",
+          "translation": "所以圣人既然是以治理天下为职业的人，怎么能不禁止相互仇恨而鼓励相爱呢？",
           "notes": [
             {
               "start": 17,
@@ -3671,42 +3675,42 @@
           "content": [
             {
               "char": "故",
-              "pinyin": "tiān",
+              "pinyin": "gù",
               "index": 654
             },
             {
               "char": "天",
-              "pinyin": "xià",
+              "pinyin": "tiān",
               "index": 655
             },
             {
               "char": "下",
-              "pinyin": "jiān",
+              "pinyin": "xià",
               "index": 656
             },
             {
               "char": "兼",
-              "pinyin": "xiāng",
+              "pinyin": "jiān",
               "index": 657
             },
             {
               "char": "相",
-              "pinyin": "ài",
+              "pinyin": "xiāng",
               "index": 658
             },
             {
               "char": "爱",
-              "pinyin": "zé",
+              "pinyin": "ài",
               "index": 659
             },
             {
               "char": "则",
-              "pinyin": "zhì",
+              "pinyin": "zé",
               "index": 660
             },
             {
               "char": "治",
-              "pinyin": "jiāo",
+              "pinyin": "zhì",
               "index": 661
             },
             {
@@ -3716,27 +3720,27 @@
             },
             {
               "char": "交",
-              "pinyin": "xiāng",
+              "pinyin": "jiāo",
               "index": 663
             },
             {
               "char": "相",
-              "pinyin": "è",
+              "pinyin": "xiāng",
               "index": 664
             },
             {
               "char": "恶",
-              "pinyin": "zé",
+              "pinyin": "wù",
               "index": 665
             },
             {
               "char": "则",
-              "pinyin": "luàn",
+              "pinyin": "zé",
               "index": 666
             },
             {
               "char": "乱",
-              "pinyin": "gù",
+              "pinyin": "luàn",
               "index": 667
             },
             {
@@ -3745,7 +3749,7 @@
               "index": 668
             }
           ],
-          "translation": "",
+          "translation": "因此天下的人相亲相爱就会治理好，相互憎恶则会混乱。",
           "notes": [
             {
               "start": 9,
@@ -3758,67 +3762,67 @@
           "content": [
             {
               "char": "故",
-              "pinyin": "zǐ",
+              "pinyin": "gù",
               "index": 669
             },
             {
               "char": "子",
-              "pinyin": "mò",
+              "pinyin": "zǐ",
               "index": 670
             },
             {
               "char": "墨",
-              "pinyin": "zǐ",
+              "pinyin": "mò",
               "index": 671
             },
             {
               "char": "子",
-              "pinyin": "yuē",
+              "pinyin": "zǐ",
               "index": 672
             },
             {
               "char": "曰",
-              "pinyin": "bù",
+              "pinyin": "yuē",
               "index": 673
             },
             {
               "char": "不",
-              "pinyin": "kě",
+              "pinyin": "bù",
               "index": 674
             },
             {
               "char": "可",
-              "pinyin": "yǐ",
+              "pinyin": "kě",
               "index": 675
             },
             {
               "char": "以",
-              "pinyin": "bù",
+              "pinyin": "yǐ",
               "index": 676
             },
             {
               "char": "不",
-              "pinyin": "quàn",
+              "pinyin": "bú",
               "index": 677
             },
             {
               "char": "劝",
-              "pinyin": "ài",
+              "pinyin": "quàn",
               "index": 678
             },
             {
               "char": "爱",
-              "pinyin": "rén",
+              "pinyin": "ài",
               "index": 679
             },
             {
               "char": "人",
-              "pinyin": "zhě",
+              "pinyin": "rén",
               "index": 680
             },
             {
               "char": "者",
-              "pinyin": "cǐ",
+              "pinyin": "zhě",
               "index": 681
             },
             {
@@ -3828,12 +3832,12 @@
             },
             {
               "char": "此",
-              "pinyin": "yě",
+              "pinyin": "cǐ",
               "index": 683
             },
             {
               "char": "也",
-              "pinyin": "",
+              "pinyin": "yě",
               "index": 684
             },
             {
@@ -3842,7 +3846,7 @@
               "index": 685
             }
           ],
-          "translation": "",
+          "translation": "所以墨子说：“不能不鼓励爱别人”，道理就在此。",
           "notes": [
             {
               "start": 1,
