@@ -2,9 +2,9 @@
 import { notFound } from 'next/navigation'
 import { MDXPreview } from '@/components/mdx-preview'
 import { loadMDXWithTOC } from '@/lib/mdx-utils'
-import {MetaData} from "fumadocs-core/source";
+import type { Metadata } from "next";
 
-export const metadata: MetaData = {
+export const metadata: Metadata = {
     title: `作者标签 - 广学古诗文`,
     description: `作者标签概览页面`,
 }
