@@ -22,15 +22,17 @@ model Poem {
     dynasty   String?
     mode      String // "poem" or "paragraph"
     content   String
-    starredBy Star[]
+    starredBy       Star[]
+    sentenceStarredBy SentenceStar[]
 
     @@map("poems")
     @@unique(name: "compoundId",[version, title])
 }
 
 model User {
-    id       Int       @id
+    id       Int             @id
     star     Star[]
+    sentenceStars SentenceStar[]
     checkIns CheckIn[]
 
     @@map("users")
@@ -62,6 +64,21 @@ model Star {
     @@index([userId])
     @@index([poemId])
     @@index([userId,poemId])
+}
+
+model SentenceStar {
+    id        Int      @id @default(autoincrement())
+    user      User     @relation(fields: [userId], references: [id])
+    userId    Int
+    poem      Poem     @relation(fields: [poemId], references: [id])
+    poemId    String
+    text      String
+    createdAt DateTime @default(now())
+
+    @@map("sentence_stars")
+    @@unique([userId, poemId, text])
+    @@index([userId])
+    @@index([poemId])
 }
 
 model Author {

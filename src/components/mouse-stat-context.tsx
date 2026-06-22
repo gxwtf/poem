@@ -4,7 +4,7 @@
  * author: JiZiQian
  */
 
-import { createContext, useState } from "react";
+import { createContext, useEffect, useState } from "react";
 
 export const MouseDownStatContext = createContext<boolean>(false);
 
@@ -22,5 +22,25 @@ export function MouseDownStatContextProvider({children}:{children: React.ReactNo
                 {children}
             </div>
         </MouseDownStatContext>
+    );
+}
+
+export const MouseSelection = createContext<Selection | null>(null);
+
+export function MouseSelectionContextProvider({children}:{children: React.ReactNode}){
+    const [selection, setSelection] = useState<Selection | null>(null);
+    function handleSelectionChange(){
+        setSelection(window.getSelection());
+    }
+    useEffect(handleSelectionChange);
+    function handleMouseUp(){
+        handleSelectionChange();
+    }
+    return (
+        <MouseSelection value={selection}>
+            <div onMouseUp={handleMouseUp}>
+                {children}
+            </div>
+        </MouseSelection>
     );
 }

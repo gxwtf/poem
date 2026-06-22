@@ -27,6 +27,8 @@ export default async function Page(props: Props) {
                 toc={toc}
                 headerData={[{ name: "古诗文", href: "/overview" }]}
                 now={Poem}
+                title={Poem}
+                version={version}
             />
         );
     } catch (error) {

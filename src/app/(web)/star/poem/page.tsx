@@ -67,19 +67,26 @@ export default function OverviewPage() {
                 now="收藏"
                 data={[{ name: "古诗文", href: "/overview" }]}
             />
-            <div className="p-2 sm:p-4 md:p-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-4 md:gap-6">
-                {poems.map((poem) => (
-                    <PoemCard
-                        key={poem.id}
-                        title={poem.title}
-                        author={poem.author}
-                        dynasty={poem.dynasty}
-                        content={poem.content}
-                        tags={poem.tags}
-                        url={`/poem/${version}/${poem.title}`}
-                    />
-                ))}
-            </div>
+            {poems.length === 0 ? (
+                <div className="text-center text-muted-foreground py-20">
+                    <p className="text-lg">暂无收藏的古诗文</p>
+                    <p className="text-sm mt-2">浏览古诗文时点击收藏按钮即可添加</p>
+                </div>
+            ) : (
+                <div className="p-2 sm:p-4 md:p-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 sm:gap-4 md:gap-6">
+                    {poems.map((poem) => (
+                        <PoemCard
+                            key={poem.id}
+                            title={poem.title}
+                            author={poem.author}
+                            dynasty={poem.dynasty}
+                            content={poem.content}
+                            tags={poem.tags}
+                            url={`/poem/${version}/${poem.title}`}
+                        />
+                    ))}
+                </div>
+            )}
         </>
     )
 }

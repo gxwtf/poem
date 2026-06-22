@@ -120,6 +120,55 @@
     font-weight: bold;
 }
 
+/* 句子划线高亮样式 */
+.sentence-highlight {
+    cursor: pointer;
+    position: relative;
+    display: inline;
+    transition: background-color 0.15s;
+}
+
+/* 高亮背景色设在 [data-char] 上，因为 [data-char] div 大小一致 */
+.sentence-highlight [data-char] {
+    background-color: oklch(0.97 0.01 0) !important;
+}
+
+.dark .sentence-highlight [data-char] {
+    background-color: oklch(0.269 0.01 0) !important;
+}
+
+/* 波浪线画在每个 [data-char]::after 上 */
+/* [data-char] div 大小一致，波浪线位置统一 */
+/* --wave-offset 由 JS 设置，保证相邻字符之间波浪线相位对齐 */
+/* bottom: -8px 确保波浪线在注释直线下方，注释字和普通字波浪线对齐 */
+.sentence-highlight [data-char]::after {
+    content: '' !important;
+    position: absolute !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: -8px !important;
+    height: 4px !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='4' viewBox='0 0 20 4'%3E%3Cpath d='M0 2 Q5 0 10 2 Q15 4 20 2' fill='none' stroke='%23a31f24' stroke-width='1.5'/%3E%3C/svg%3E") !important;
+    background-repeat: repeat-x !important;
+    background-size: 20px 4px !important;
+    background-position-x: calc(-1 * var(--wave-offset, 0px)) !important;
+    pointer-events: none !important;
+}
+
+.dark .sentence-highlight [data-char]::after {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='4' viewBox='0 0 20 4'%3E%3Cpath d='M0 2 Q5 0 10 2 Q15 4 20 2' fill='none' stroke='%23c22525' stroke-width='1.5'/%3E%3C/svg%3E") !important;
+}
+
+.sentence-highlight-active [data-char],
+.sentence-highlight:hover [data-char] {
+    background-color: oklch(0.94 0.02 0) !important;
+}
+
+.dark .sentence-highlight-active [data-char],
+.dark .sentence-highlight:hover [data-char] {
+    background-color: oklch(0.3 0.02 0) !important;
+}
+
 @layer base {
     * {
         @apply border-border outline-ring/50;

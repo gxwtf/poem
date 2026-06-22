@@ -82,7 +82,14 @@ export function Char({
 
         return (
             <div
-                className={`inline-block justify-center ${memorizeMode === CharMode.Read || memorizeMode === CharMode.FirstChar ? "text-primary" : "text-[var(--theme-color)]"} ${highlight ? "bg-yellow-100" : ""} relative select-none`}
+                data-char={data.char}
+                className={`
+                    inline-block justify-center
+                    ${memorizeMode === CharMode.Read || memorizeMode === CharMode.FirstChar ? "text-primary" : "text-[var(--theme-color)]"}
+                    ${highlight ? "bg-yellow-100" : ""}
+                    relative
+                    ${!isNaN(memorize) ? "select-none" : ""}
+                `}
                 onMouseEnter={handleMouseEnter}
                 onMouseLeave={handleMouseLeave}
             >
@@ -117,6 +124,7 @@ export function Char({
 
     return (
         <div
+            data-char={data.char}
             className={`inline-block justify-center text-primary ${highlight ? "bg-yellow-100" : ""} relative select-none`}
             onMouseOver={handleMouseOver}
             onMouseDown={handleMouseDown}
