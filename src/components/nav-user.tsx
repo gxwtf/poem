@@ -97,7 +97,7 @@ export function NavUser({
               <DropdownMenuSeparator />
               <DropdownMenuGroup>
                 <DropdownMenuItem asChild>
-                  <Link href="https://gxwtf.cn/account">
+                  <Link href="https://account.gxwtf.cn/">
                     <BadgeCheck />
                     账号中心
                   </Link>

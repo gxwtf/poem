@@ -45,6 +45,7 @@ export async function main() {
     // 清空现有数据
     // await prisma.checkIn.deleteMany() 
     // await prisma.quote.deleteMany()
+    await prisma.star.deleteMany()
     await prisma.article.deleteMany()
     await prisma.author.deleteMany()
     await prisma.poem.deleteMany()

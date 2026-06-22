@@ -57,8 +57,8 @@ export function Memorize() {
                                     </PopoverContent>
                                 </Popover>
                             </Label>
-                            <Input type="number" id="difficulty" min="0" max="1" defaultValue={isNaN(difficulty) ? '' : difficulty} onInput={(e: React.ChangeEvent<HTMLInputElement>) => {
-                                setDifficulty(parseFloat(e.target.value))
+                            <Input type="number" id="difficulty" min="0" max="1" defaultValue={isNaN(difficulty) ? '' : difficulty} onInput={(e: React.InputEvent<HTMLInputElement>) => {
+                                setDifficulty(parseFloat(e.currentTarget.value))
                             }} />
                             <Button onClick={enterMemorizeMode} className="flex items-center gap-2">
                                 <Brain className="w-4 h-4" />
