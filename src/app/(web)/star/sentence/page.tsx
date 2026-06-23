@@ -12,6 +12,7 @@ import { toast } from "sonner"
 interface SentenceStarItem {
     id: number
     text: string
+    charOffset: number
     poemId: string
     createdAt: Date
     poem: {
@@ -80,7 +81,7 @@ export default function SentenceStarPage() {
                                 className="group relative border-l-2 border-[var(--theme-color)]/30 hover:border-[var(--theme-color)] pl-4 py-2 transition-colors"
                             >
                                 <Link
-                                    href={`/poem/${star.poem.version}/${star.poem.title}?highlight=${encodeURIComponent(star.text)}`}
+                                    href={`/poem/${star.poem.version}/${star.poem.title}?highlight=${encodeURIComponent(star.text)}&offset=${star.charOffset}`}
                                     className="block"
                                 >
                                     <p className="text-base leading-relaxed text-foreground">

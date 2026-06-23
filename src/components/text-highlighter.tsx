@@ -17,6 +17,7 @@ interface ToolbarPosition {
 interface HighlightData {
     id: number
     text: string
+    charOffset: number
 }
 
 interface TextHighlighterProps {
@@ -37,6 +38,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
     const observerRef = useRef<MutationObserver | null>(null)
     const [toolbarPos, setToolbarPos] = useState<ToolbarPosition | null>(null)
     const [selectedText, setSelectedText] = useState("")
+    const [selectedCharOffset, setSelectedCharOffset] = useState(0)
     const [highlights, setHighlights] = useState<HighlightData[]>([])
     const [poemId, setPoemId] = useState<string>("")
     const [activeHighlight, setActiveHighlight] = useState<number | null>(null)
@@ -44,6 +46,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
     const { session } = useSession()
     const searchParams = useSearchParams()
     const scrollToText = searchParams.get("highlight")
+    const scrollOffset = searchParams.get("offset")
 
     // 获取 poemId
     useEffect(() => {
@@ -61,8 +64,8 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                 })
                 const data = await res.json()
                 if (!data.isLoggedIn) return
-                const stars = await querySentenceStarsByPoem(data.userid, poemId) as { id: number; text: string }[]
-                setHighlights(stars.map(s => ({ id: s.id, text: s.text })))
+                const stars = await querySentenceStarsByPoem(data.userid, poemId) as unknown as { id: number; text: string; charOffset: number }[]
+                setHighlights(stars.map(s => ({ id: s.id, text: s.text, charOffset: s.charOffset })))
             } catch {
                 // ignore
             }
@@ -99,11 +102,13 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             return
         }
 
-        // 计算期望的高亮映射
+        // 计算期望的高亮映射（使用 charOffset 精确定位，而非 indexOf）
         const charHighlightMap = new Map<number, number>()
         for (const highlight of highlights) {
-            const idx = text.indexOf(highlight.text)
-            if (idx === -1) continue
+            const idx = highlight.charOffset
+            // 校验：charOffset 位置的文本必须匹配
+            if (idx < 0 || idx + highlight.text.length > text.length) continue
+            if (text.substring(idx, idx + highlight.text.length) !== highlight.text) continue
             for (let i = idx; i < idx + highlight.text.length; i++) {
                 charHighlightMap.set(i, highlight.id)
             }
@@ -135,6 +140,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             const wrap = document.createElement("span")
             wrap.className = "sentence-highlight"
             wrap.dataset.highlightId = String(group.highlightId)
+            wrap.dataset.charOffset = String(highlights.find(h => h.id === group.highlightId)?.charOffset ?? 0)
 
             // 保存插入位置（在移动元素之前）
             const nextInParent = els[group.endIdx].nextSibling
@@ -201,13 +207,23 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
     useEffect(() => {
         if (!scrollToText || !containerRef.current) return
         const timer = setTimeout(() => {
+            if (scrollOffset !== null) {
+                // 使用 charOffset 精确定位
+                const offset = parseInt(scrollOffset, 10)
+                const el = containerRef.current?.querySelector(`.sentence-highlight[data-char-offset="${offset}"]`)
+                if (el) {
+                    el.scrollIntoView({ behavior: "smooth", block: "center" })
+                    return
+                }
+            }
+            // 回退：使用第一个高亮元素
             const el = containerRef.current?.querySelector(`.sentence-highlight[data-highlight-id]`)
             if (el) {
                 el.scrollIntoView({ behavior: "smooth", block: "center" })
             }
         }, 500)
         return () => clearTimeout(timer)
-    }, [scrollToText, highlights])
+    }, [scrollToText, scrollOffset, highlights])
 
     // 监听文本选择和点击
     useEffect(() => {
@@ -239,12 +255,25 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                 return
             }
 
+            // 计算选区在全文中的字符偏移量
+            const { els } = getCharElements(container)
+            let charOffset = -1
+            const rangeStart = range.startContainer
+            // 找到选区起始位置对应的 [data-char] 元素索引
+            for (let i = 0; i < els.length; i++) {
+                if (els[i].contains(rangeStart) || els[i] === rangeStart) {
+                    charOffset = i
+                    break
+                }
+            }
+
             const rect = range.getBoundingClientRect()
             setToolbarPos({
                 x: rect.left + rect.width / 2,
                 y: rect.top - 8
             })
             setSelectedText(text)
+            setSelectedCharOffset(charOffset >= 0 ? charOffset : 0)
         }
 
         const handleMouseDown = (e: MouseEvent) => {
@@ -329,14 +358,14 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         if (!poemId || !selectedText) return
 
         try {
-            const starred = await toggleSentenceStar(userId, poemId, selectedText)
+            const starred = await toggleSentenceStar(userId, poemId, selectedText, selectedCharOffset)
             if (starred) {
                 toast.success("已划线收藏")
-                const stars = await querySentenceStarsByPoem(userId, poemId) as { id: number; text: string }[]
-                setHighlights(stars.map(s => ({ id: s.id, text: s.text })))
+                const stars = await querySentenceStarsByPoem(userId, poemId) as unknown as { id: number; text: string; charOffset: number }[]
+                setHighlights(stars.map(s => ({ id: s.id, text: s.text, charOffset: s.charOffset })))
             } else {
                 toast.info("已取消划线")
-                setHighlights(prev => prev.filter(h => h.text !== selectedText))
+                setHighlights(prev => prev.filter(h => h.text !== selectedText || h.charOffset !== selectedCharOffset))
             }
         } catch {
             toast.error("操作失败")
