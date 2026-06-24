@@ -54,7 +54,7 @@ const data = {
             title: "收藏",
             url: "/star/poem",
             icon: Star,
-            isActive: true,
+            isActive: false,
             items: [
                 {
                     title: "古诗文",

@@ -1,6 +1,6 @@
 {
     "name": "gxwtf_poem",
-    "version": "0.5.3",
+    "version": "0.6.0",
     "private": true,
     "scripts": {
         "generate:overview": "tsx scripts/generate-overview.tsx",
@@ -11,7 +11,7 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "lint": "next lint"
+        "lint": "eslint"
     },
     "prisma": {
         "seed": "tsx prisma/seed.ts"
@@ -40,7 +40,7 @@
         "@radix-ui/react-tooltip": "^1.2.10",
         "@react-hook/debounce": "^4.0.0",
         "@types/mdx": "^2.0.14",
-        "axios": "^1.18.0",
+        "axios": "^1.18.1",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
         "cmdk": "^1.1.1",
@@ -60,7 +60,7 @@
         "remark": "^15.0.1",
         "remark-gfm": "^4.0.1",
         "sonner": "^2.0.7",
-        "swr": "^2.4.1",
+        "swr": "^2.4.2",
         "tailwind-merge": "^3.6.0"
     },
     "devDependencies": {

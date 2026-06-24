@@ -52,13 +52,13 @@ export default function SentenceStarPage() {
     return (
         <>
             <SiteHeader
-                now="句子收藏"
+                now="句子"
                 data={[
-                    { name: "收藏", href: "/star/poem" },
-                    { name: "句子", href: "/star/sentence" }
+                    { name: "古诗文", href: "/overview" },
+                    { name: "收藏", href: "/star/poem" }
                 ]}
             />
-            <div className="p-4 md:p-6 max-w-2xl mx-auto">
+            <div className="max-w-2xl mx-auto">
                 {loading ? (
                     <div className="space-y-4">
                         {Array.from({ length: 3 }).map((_, i) => (
@@ -88,9 +88,9 @@ export default function SentenceStarPage() {
                                         {star.text}
                                     </p>
                                     <p className="text-sm text-muted-foreground mt-1.5 group-hover:text-[var(--theme-color)] transition-colors">
-                                        {star.poem.dynasty && <span>【{star.poem.dynasty}】</span>}
-                                        <span>{star.poem.title}</span>
-                                        {star.poem.author && <span> · {star.poem.author}</span>}
+                                        {star.poem.dynasty && <span>——【{star.poem.dynasty}】</span>}
+                                        {star.poem.author && <span>{star.poem.author}</span>}
+                                        《<span>{star.poem.title}</span>》
                                     </p>
                                 </Link>
                                 <Button

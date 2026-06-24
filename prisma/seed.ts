@@ -46,6 +46,7 @@ export async function main() {
     // await prisma.checkIn.deleteMany() 
     // await prisma.quote.deleteMany()
     await prisma.star.deleteMany()
+    await prisma.sentenceStar.deleteMany()
     await prisma.article.deleteMany()
     await prisma.author.deleteMany()
     await prisma.poem.deleteMany()
