@@ -83,7 +83,7 @@ export function ArticleCard({
                             {author}
                         </Link>
                     </span>
-                    {views && <span>阅读：{views.toLocaleString()}</span>}
+                    {views ? <span>阅读：{views.toLocaleString()}</span> : null}
                 </div>
             </CardFooter>
         </Card>
