@@ -203,12 +203,14 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         }
     }, [applyHighlights])
 
-    // 从收藏页跳转时自动滚动到高亮句子
+    // 从收藏页跳转时自动滚动到高亮句子（仅首次加载，等 highlights 就绪后执行一次）
+    const hasScrolledRef = useRef(false)
     useEffect(() => {
-        if (!scrollToText || !containerRef.current) return
+        if (!scrollToText || hasScrolledRef.current) return
+        if (highlights.length === 0) return // 等数据加载完
+        hasScrolledRef.current = true
         const timer = setTimeout(() => {
             if (scrollOffset !== null) {
-                // 使用 charOffset 精确定位
                 const offset = parseInt(scrollOffset, 10)
                 const el = containerRef.current?.querySelector(`.sentence-highlight[data-char-offset="${offset}"]`)
                 if (el) {
@@ -216,12 +218,11 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                     return
                 }
             }
-            // 回退：使用第一个高亮元素
             const el = containerRef.current?.querySelector(`.sentence-highlight[data-highlight-id]`)
             if (el) {
                 el.scrollIntoView({ behavior: "smooth", block: "center" })
             }
-        }, 500)
+        }, 300)
         return () => clearTimeout(timer)
     }, [scrollToText, scrollOffset, highlights])
 
@@ -255,16 +256,28 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                 return
             }
 
-            // 计算选区在全文中的字符偏移量
+            // 仅在正文中允许划线（选区的起止必须都在 [data-char] 元素内）
             const { els } = getCharElements(container)
-            let charOffset = -1
+            let startIdx = -1
             const rangeStart = range.startContainer
-            // 找到选区起始位置对应的 [data-char] 元素索引
             for (let i = 0; i < els.length; i++) {
                 if (els[i].contains(rangeStart) || els[i] === rangeStart) {
-                    charOffset = i
+                    startIdx = i
                     break
                 }
+            }
+            const rangeEnd = range.endContainer
+            let endIdx = -1
+            for (let i = 0; i < els.length; i++) {
+                if (els[i].contains(rangeEnd) || els[i] === rangeEnd) {
+                    endIdx = i
+                    break
+                }
+            }
+            if (startIdx === -1 || endIdx === -1) {
+                setToolbarPos(null)
+                setSelectedText("")
+                return
             }
 
             const rect = range.getBoundingClientRect()
@@ -273,7 +286,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                 y: rect.top - 8
             })
             setSelectedText(text)
-            setSelectedCharOffset(charOffset >= 0 ? charOffset : 0)
+            setSelectedCharOffset(startIdx)
         }
 
         const handleMouseDown = (e: MouseEvent) => {
@@ -404,10 +417,10 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                 >
                     <div className="rounded-lg border shadow-lg bg-background p-1.5">
                         <button
-                            className="flex items-center gap-1.5 px-3 py-1.5 text-sm text-primary hover:bg-accent rounded-md transition-colors"
+                            className="flex items-center gap-1.5 px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:bg-primary/90 rounded-md transition-colors"
                             onClick={handleHighlight}
                         >
-                            <Highlighter className="w-3.5 h-3.5 text-[var(--theme-color)]" />
+                            <Highlighter className="w-3.5 h-3.5" />
                             划线
                         </button>
                     </div>
@@ -427,7 +440,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                 >
                     <div className="rounded-lg border shadow-lg bg-background p-1.5">
                         <button
-                            className="flex items-center gap-1.5 px-3 py-1.5 text-sm text-destructive hover:bg-accent rounded-md transition-colors"
+                            className="flex items-center gap-1.5 px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:bg-primary/90 rounded-md transition-colors"
                             onClick={() => handleUnstar(activeHighlight)}
                         >
                             <X className="w-3.5 h-3.5" />
