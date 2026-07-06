@@ -1,17 +1,20 @@
 "use client"
 
-import React, { useCallback, useEffect, useRef, useState } from "react"
-import { createPortal } from "react-dom"
+import React, { useCallback, useContext, useEffect, useLayoutEffect, useRef, useState } from "react"
 import { useSearchParams } from "next/navigation"
 import { Highlighter, X } from "lucide-react"
+import { Popover, PopoverContent, PopoverAnchor } from "@/components/ui/popover"
 import { toggleSentenceStar, querySentenceStarsByPoem, deleteSentenceStar } from "@/lib/sentence-star"
 import { queryPoemId } from "@/lib/star"
 import useSession from "@/lib/use-session"
 import { toast } from "sonner"
+import { MemorizeContext } from "@/components/poem-preview/memorize-context"
 
-interface ToolbarPosition {
+interface AnchorRect {
     x: number
     y: number
+    width: number
+    height: number
 }
 
 interface HighlightData {
@@ -36,17 +39,41 @@ function getCharElements(container: HTMLElement): { els: HTMLElement[]; text: st
 export function TextHighlighter({ children, version, title }: TextHighlighterProps) {
     const containerRef = useRef<HTMLDivElement>(null)
     const observerRef = useRef<MutationObserver | null>(null)
-    const [toolbarPos, setToolbarPos] = useState<ToolbarPosition | null>(null)
+    const [toolbarAnchor, setToolbarAnchor] = useState<AnchorRect | null>(null)
     const [selectedText, setSelectedText] = useState("")
     const [selectedCharOffset, setSelectedCharOffset] = useState(0)
     const [highlights, setHighlights] = useState<HighlightData[]>([])
     const [poemId, setPoemId] = useState<string>("")
     const [activeHighlight, setActiveHighlight] = useState<number | null>(null)
-    const [popoverPos, setPopoverPos] = useState<ToolbarPosition | null>(null)
+    const [popoverAnchor, setPopoverAnchor] = useState<AnchorRect | null>(null)
     const { session } = useSession()
+    const { memorize } = useContext(MemorizeContext)
     const searchParams = useSearchParams()
     const scrollToText = searchParams.get("highlight")
     const scrollOffset = searchParams.get("offset")
+
+    // 用 ref 存储 memorize 状态，使旧闭包也能获取最新值，防止 rAF 调度的旧 applyHighlights 重新应用高亮
+    const memorizeModeRef = useRef(false)
+    memorizeModeRef.current = !isNaN(memorize)
+
+    // 背诵模式下不应用高亮（避免手动 DOM 操作与 React 冲突导致崩溃）
+    const activeHighlights = isNaN(memorize) ? highlights : []
+
+    // 背诵模式切换时，同步清除高亮包裹
+    useLayoutEffect(() => {
+        const container = containerRef.current
+        if (!container) return
+        if (!isNaN(memorize)) {
+            observerRef.current?.disconnect()
+            container.querySelectorAll(".sentence-highlight").forEach((wrap) => {
+                const parent = wrap.parentNode
+                if (parent) {
+                    while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
+                    parent.removeChild(wrap)
+                }
+            })
+        }
+    }, [memorize])
 
     // 获取 poemId
     useEffect(() => {
@@ -82,6 +109,20 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         // 断开 observer 防止无限循环（applyHighlights 修改 DOM 会触发 observer）
         observerRef.current?.disconnect()
 
+        // 背诵模式下只清除高亮包裹，不重新应用
+        // 检查全局标志（在 setMemorize 之前同步设置）和 ref（渲染阶段更新）
+        if ((window as unknown as Record<string, unknown>).__poemMemorizeMode || memorizeModeRef.current) {
+            container.querySelectorAll(".sentence-highlight").forEach((wrap) => {
+                const parent = wrap.parentNode
+                if (parent) {
+                    while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
+                    parent.removeChild(wrap)
+                }
+            })
+            observerRef.current?.observe(container, { childList: true, subtree: true })
+            return
+        }
+
         // 先清除已有高亮包裹
         container.querySelectorAll(".sentence-highlight").forEach((wrap) => {
             const parent = wrap.parentNode
@@ -91,7 +132,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             }
         })
 
-        if (highlights.length === 0) {
+        if (activeHighlights.length === 0) {
             observerRef.current?.observe(container, { childList: true, subtree: true })
             return
         }
@@ -104,7 +145,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
 
         // 计算期望的高亮映射（使用 charOffset 精确定位，而非 indexOf）
         const charHighlightMap = new Map<number, number>()
-        for (const highlight of highlights) {
+        for (const highlight of activeHighlights) {
             const idx = highlight.charOffset
             // 校验：charOffset 位置的文本必须匹配
             if (idx < 0 || idx + highlight.text.length > text.length) continue
@@ -140,7 +181,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             const wrap = document.createElement("span")
             wrap.className = "sentence-highlight"
             wrap.dataset.highlightId = String(group.highlightId)
-            wrap.dataset.charOffset = String(highlights.find(h => h.id === group.highlightId)?.charOffset ?? 0)
+            wrap.dataset.charOffset = String(activeHighlights.find(h => h.id === group.highlightId)?.charOffset ?? 0)
 
             // 保存插入位置（在移动元素之前）
             const nextInParent = els[group.endIdx].nextSibling
@@ -167,7 +208,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
 
         // 重连 observer
         observerRef.current?.observe(container, { childList: true, subtree: true })
-    }, [highlights])
+    }, [activeHighlights])
 
     // 首次应用及 highlights 变化时应用
     useEffect(() => {
@@ -233,25 +274,25 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
 
         const handleMouseUp = (e: MouseEvent) => {
             const target = e.target as HTMLElement
-            if (target.closest(".highlight-popover") || target.closest(".selection-toolbar")) return
+            if (target.closest("[data-slot='popover-content']")) return
 
             const selection = window.getSelection()
             if (!selection || selection.isCollapsed || !selection.toString().trim()) {
-                setToolbarPos(null)
+                setToolbarAnchor(null)
                 setSelectedText("")
                 return
             }
 
             const range = selection.getRangeAt(0)
             if (!container.contains(range.commonAncestorContainer)) {
-                setToolbarPos(null)
+                setToolbarAnchor(null)
                 setSelectedText("")
                 return
             }
 
             const text = selection.toString().trim().replace(/[\n\r]+/g, "")
             if (!text) {
-                setToolbarPos(null)
+                setToolbarAnchor(null)
                 setSelectedText("")
                 return
             }
@@ -275,16 +316,14 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                 }
             }
             if (startIdx === -1 || endIdx === -1) {
-                setToolbarPos(null)
+                setToolbarAnchor(null)
                 setSelectedText("")
                 return
             }
 
             const rect = range.getBoundingClientRect()
-            setToolbarPos({
-                x: rect.left + rect.width / 2,
-                y: rect.top - 8
-            })
+            const containerRect = container.getBoundingClientRect()
+            setToolbarAnchor({ x: rect.left - containerRect.left, y: rect.top - containerRect.top, width: rect.width, height: rect.height })
             setSelectedText(text)
             setSelectedCharOffset(startIdx)
         }
@@ -292,27 +331,27 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         const handleMouseDown = (e: MouseEvent) => {
             const target = e.target as HTMLElement
 
+            // 不在 Popover 内点击时才处理
+            if (target.closest("[data-slot='popover-content']")) return
+
             // 点击高亮字符时显示管理弹窗
             const highlightEl = target.closest(".sentence-highlight") as HTMLElement | null
             if (highlightEl && highlightEl.dataset.highlightId) {
                 const id = Number(highlightEl.dataset.highlightId)
                 if (id) {
                     const rect = highlightEl.getBoundingClientRect()
+                    const containerRect = container.getBoundingClientRect()
                     setActiveHighlight(id)
-                    setPopoverPos({
-                        x: rect.left + rect.width / 2,
-                        y: rect.top - 8
-                    })
+                    setPopoverAnchor({ x: rect.left - containerRect.left, y: rect.top - containerRect.top, width: rect.width, height: rect.height })
                 }
                 return
             }
 
-            if (!target.closest(".highlight-popover") && !target.closest(".selection-toolbar")) {
-                setToolbarPos(null)
-                setSelectedText("")
-                setActiveHighlight(null)
-                setPopoverPos(null)
-            }
+            // 点击其他区域时关闭工具栏和弹窗
+            setToolbarAnchor(null)
+            setSelectedText("")
+            setActiveHighlight(null)
+            setPopoverAnchor(null)
         }
 
         // hover 时高亮同组所有字符
@@ -383,7 +422,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         } catch {
             toast.error("操作失败")
         }
-        setToolbarPos(null)
+        setToolbarAnchor(null)
         setSelectedText("")
         window.getSelection()?.removeAllRanges()
     }
@@ -395,7 +434,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             toast.success("已取消收藏")
             setHighlights(prev => prev.filter(h => h.id !== id))
             setActiveHighlight(null)
-            setPopoverPos(null)
+            setPopoverAnchor(null)
         } catch {
             toast.error("操作失败")
         }
@@ -406,50 +445,56 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             {children}
 
             {/* 选区工具栏 */}
-            {toolbarPos && selectedText && createPortal(
-                <div
-                    className="selection-toolbar fixed z-50"
-                    style={{
-                        left: toolbarPos.x,
-                        top: toolbarPos.y,
-                        transform: "translate(-50%, -100%)"
-                    }}
-                >
-                    <div className="rounded-lg border shadow-lg bg-background p-1.5">
-                        <button
-                            className="flex items-center gap-1.5 px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:bg-primary/90 rounded-md transition-colors"
-                            onClick={handleHighlight}
-                        >
-                            <Highlighter className="w-3.5 h-3.5" />
-                            划线
-                        </button>
-                    </div>
-                </div>,
-                document.body
-            )}
+            <Popover
+                open={toolbarAnchor !== null && selectedText !== ""}
+                onOpenChange={(open) => { if (!open) { setToolbarAnchor(null); setSelectedText(""); } }}
+            >
+                <PopoverAnchor asChild>
+                    <div style={{
+                        position: "absolute",
+                        left: toolbarAnchor?.x ?? 0,
+                        top: toolbarAnchor?.y ?? 0,
+                        width: toolbarAnchor?.width ?? 0,
+                        height: toolbarAnchor?.height ?? 0,
+                        pointerEvents: "none"
+                    }} />
+                </PopoverAnchor>
+                <PopoverContent side="top" align="center" sideOffset={8} className="w-auto p-1.5">
+                    <button
+                        className="flex items-center gap-1.5 px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:bg-primary/90 rounded-md transition-colors"
+                        onClick={handleHighlight}
+                    >
+                        <Highlighter className="w-3.5 h-3.5" />
+                        划线
+                    </button>
+                </PopoverContent>
+            </Popover>
 
-            {/* 高亮管理弹窗 - 使用简单浮动面板替代 Popover */}
-            {activeHighlight !== null && popoverPos && createPortal(
-                <div
-                    className="highlight-popover fixed z-50"
-                    style={{
-                        left: popoverPos.x,
-                        top: popoverPos.y,
-                        transform: "translate(-50%, -100%)"
-                    }}
-                >
-                    <div className="rounded-lg border shadow-lg bg-background p-1.5">
-                        <button
-                            className="flex items-center gap-1.5 px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:bg-primary/90 rounded-md transition-colors"
-                            onClick={() => handleUnstar(activeHighlight)}
-                        >
-                            <X className="w-3.5 h-3.5" />
-                            取消收藏
-                        </button>
-                    </div>
-                </div>,
-                document.body
-            )}
+            {/* 高亮管理弹窗 */}
+            <Popover
+                open={activeHighlight !== null && popoverAnchor !== null}
+                onOpenChange={(open) => { if (!open) { setActiveHighlight(null); setPopoverAnchor(null); } }}
+            >
+                <PopoverAnchor asChild>
+                    <div style={{
+                        position: "absolute",
+                        left: popoverAnchor?.x ?? 0,
+                        top: popoverAnchor?.y ?? 0,
+                        width: popoverAnchor?.width ?? 0,
+                        height: popoverAnchor?.height ?? 0,
+                        pointerEvents: "none"
+                    }} />
+                </PopoverAnchor>
+                <PopoverContent side="top" align="center" sideOffset={8} className="w-auto p-1.5">
+                    <button
+                        className="flex items-center gap-1.5 px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:bg-primary/90 rounded-md transition-colors"
+                        onClick={() => handleUnstar(activeHighlight!)}
+                    >
+                        <X className="w-3.5 h-3.5" />
+                        取消收藏
+                    </button>
+                </PopoverContent>
+            </Popover>
         </div>
     )
 }
