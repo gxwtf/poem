@@ -46,7 +46,18 @@ function ControlButtons({
                 <span className="hidden sm:inline">{showPinyin ? "隐藏拼音" : "显示拼音"}</span>
             </Button>
             {isNaN(memorize) ? (
-                <Button variant="outline" className="text-primary flex items-center gap-2" onClick={() => setShowNotes(v => !v)}>
+                <Button variant="outline" className="text-primary flex items-center gap-2" onClick={() => {
+                    // 在 React 重新渲染前同步清除高亮包裹，否则 .sentence-highlight 干扰 reconciliation 导致崩溃
+                    (window as unknown as Record<string, unknown>).__poemHighlightSuspended = true
+                    document.querySelectorAll(".sentence-highlight").forEach((wrap) => {
+                        const parent = wrap.parentNode
+                        if (parent) {
+                            while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
+                            parent.removeChild(wrap)
+                        }
+                    })
+                    setShowNotes(v => !v)
+                }}>
                     {showNotes ? <FileCheck className="w-4 h-4" /> : <FileText className="w-4 h-4" />}
                     <span className="hidden sm:inline">{showNotes ? "隐藏注释" : "显示注释"}</span>
                 </Button>
@@ -87,9 +98,19 @@ export function PoemPreview({ data }: PoemPreviewProps) {
     const { memorize } = useContext(MemorizeContext);
 
     useEffect(() => {
-        // console.log('XC', memorize);
         if (isNaN(memorize)) setShowNotes(true);
-        else setShowNotes(false);
+        else {
+            // 背诵模式切换时也需要清除高亮包裹
+            (window as unknown as Record<string, unknown>).__poemHighlightSuspended = true
+            document.querySelectorAll(".sentence-highlight").forEach((wrap) => {
+                const parent = wrap.parentNode
+                if (parent) {
+                    while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
+                    parent.removeChild(wrap)
+                }
+            })
+            setShowNotes(false);
+        }
     }, [memorize]);
 
     return (

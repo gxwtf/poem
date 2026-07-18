@@ -111,7 +111,9 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
 
         // 背诵模式下只清除高亮包裹，不重新应用
         // 检查全局标志（在 setMemorize 之前同步设置）和 ref（渲染阶段更新）
-        if ((window as unknown as Record<string, unknown>).__poemMemorizeMode || memorizeModeRef.current) {
+        // 同时检查 __poemHighlightSuspended（showNotes 变化时设置）
+        const w = window as unknown as Record<string, unknown>
+        if (w.__poemMemorizeMode || w.__poemHighlightSuspended || memorizeModeRef.current) {
             container.querySelectorAll(".sentence-highlight").forEach((wrap) => {
                 const parent = wrap.parentNode
                 if (parent) {
@@ -119,6 +121,11 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                     parent.removeChild(wrap)
                 }
             })
+            // __poemHighlightSuspended 是一次性的：React re-render 完成后清除，下一帧重新应用高亮
+            if (w.__poemHighlightSuspended) {
+                delete w.__poemHighlightSuspended
+                requestAnimationFrame(() => applyHighlights())
+            }
             observerRef.current?.observe(container, { childList: true, subtree: true })
             return
         }
