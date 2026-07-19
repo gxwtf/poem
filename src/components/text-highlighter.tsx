@@ -29,6 +29,17 @@ interface TextHighlighterProps {
     title: string
 }
 
+/** 清除容器内所有 [data-char] 上的高亮属性 */
+function clearHighlightAttrs(container: HTMLElement) {
+    container.querySelectorAll("[data-char][data-highlight-id]").forEach((el) => {
+        if (el instanceof HTMLElement) {
+            delete el.dataset.highlightId
+            delete el.dataset.charOffset
+            el.classList.remove("sentence-highlight-active")
+        }
+    })
+}
+
 /** 获取容器内所有 [data-char] 元素及其拼接文本 */
 function getCharElements(container: HTMLElement): { els: HTMLElement[]; text: string } {
     const els = Array.from(container.querySelectorAll("[data-char]")) as HTMLElement[]
@@ -59,19 +70,13 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
     // 背诵模式下不应用高亮（避免手动 DOM 操作与 React 冲突导致崩溃）
     const activeHighlights = isNaN(memorize) ? highlights : []
 
-    // 背诵模式切换时，同步清除高亮包裹
+    // 背诵模式切换时，同步清除高亮属性
     useLayoutEffect(() => {
         const container = containerRef.current
         if (!container) return
         if (!isNaN(memorize)) {
             observerRef.current?.disconnect()
-            container.querySelectorAll(".sentence-highlight").forEach((wrap) => {
-                const parent = wrap.parentNode
-                if (parent) {
-                    while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
-                    parent.removeChild(wrap)
-                }
-            })
+            clearHighlightAttrs(container)
         }
     }, [memorize])
 
@@ -100,27 +105,21 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         loadHighlights()
     }, [poemId])
 
-    // 应用高亮到 DOM：用 span 包裹高亮字符（避免 React 重渲染清除 class）
-    // 关键：按相同父元素拆分组，避免跨父元素移动字符破坏 DOM 结构
+    // 应用高亮到 DOM：直接在 [data-char] 元素上添加 data-highlight-id 属性
+    // 不再插入包裹 span，避免 Safari 中 display:inline/contents 在 flex 容器内的渲染异常
     const applyHighlights = useCallback(() => {
         const container = containerRef.current
         if (!container) return
 
-        // 断开 observer 防止无限循环（applyHighlights 修改 DOM 会触发 observer）
+        // 断开 observer 防止无限循环
         observerRef.current?.disconnect()
 
-        // 背诵模式下只清除高亮包裹，不重新应用
+        // 背诵模式下只清除高亮属性，不重新应用
         // 检查全局标志（在 setMemorize 之前同步设置）和 ref（渲染阶段更新）
         // 同时检查 __poemHighlightSuspended（showNotes 变化时设置）
         const w = window as unknown as Record<string, unknown>
         if (w.__poemMemorizeMode || w.__poemHighlightSuspended || memorizeModeRef.current) {
-            container.querySelectorAll(".sentence-highlight").forEach((wrap) => {
-                const parent = wrap.parentNode
-                if (parent) {
-                    while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
-                    parent.removeChild(wrap)
-                }
-            })
+            clearHighlightAttrs(container)
             // __poemHighlightSuspended 是一次性的：React re-render 完成后清除，下一帧重新应用高亮
             if (w.__poemHighlightSuspended) {
                 delete w.__poemHighlightSuspended
@@ -130,14 +129,8 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             return
         }
 
-        // 先清除已有高亮包裹
-        container.querySelectorAll(".sentence-highlight").forEach((wrap) => {
-            const parent = wrap.parentNode
-            if (parent) {
-                while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
-                parent.removeChild(wrap)
-            }
-        })
+        // 先清除已有高亮属性
+        clearHighlightAttrs(container)
 
         if (activeHighlights.length === 0) {
             observerRef.current?.observe(container, { childList: true, subtree: true })
@@ -150,66 +143,39 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             return
         }
 
-        // 计算期望的高亮映射（使用 charOffset 精确定位，而非 indexOf）
+        // 计算期望的高亮映射
+        // 优先用 charOffset 精确定位；若校验失败（charOffset 因历史数据/渲染差异而偏移），回退到 indexOf
         const charHighlightMap = new Map<number, number>()
         for (const highlight of activeHighlights) {
-            const idx = highlight.charOffset
-            // 校验：charOffset 位置的文本必须匹配
-            if (idx < 0 || idx + highlight.text.length > text.length) continue
-            if (text.substring(idx, idx + highlight.text.length) !== highlight.text) continue
+            let idx = highlight.charOffset
+            if (idx < 0 || idx + highlight.text.length > text.length ||
+                text.substring(idx, idx + highlight.text.length) !== highlight.text) {
+                // charOffset 不匹配，回退到 indexOf 查找
+                idx = text.indexOf(highlight.text)
+                if (idx === -1) continue
+            }
             for (let i = idx; i < idx + highlight.text.length; i++) {
                 charHighlightMap.set(i, highlight.id)
             }
         }
 
-        // 按连续的 highlightId 且相同父元素 分组
-        // 同一高亮跨越不同父元素（如 WordNotePopover）时，拆分为多个子组
-        const groups: { startIdx: number; endIdx: number; highlightId: number; parent: Node }[] = []
-        let currentId: number | null = null
-        let currentParent: Node | null = null
-        let groupStart = -1
-
-        for (let i = 0; i <= els.length; i++) {
-            const hid = i < els.length ? (charHighlightMap.get(i) ?? null) : null
-            const parent = i < els.length ? els[i].parentNode : null
-            if (hid !== currentId || parent !== currentParent) {
-                if (currentId !== null && currentParent !== null) {
-                    groups.push({ startIdx: groupStart, endIdx: i - 1, highlightId: currentId, parent: currentParent })
-                }
-                currentId = hid
-                currentParent = parent
-                groupStart = i
+        // 直接在 [data-char] 元素上设置属性（不移动 DOM）
+        for (let i = 0; i < els.length; i++) {
+            const hid = charHighlightMap.get(i)
+            if (hid !== undefined) {
+                els[i].dataset.highlightId = String(hid)
+                els[i].dataset.charOffset = String(activeHighlights.find(h => h.id === hid)?.charOffset ?? 0)
             }
         }
 
-        // 从后往前包裹，避免索引偏移
-        for (let g = groups.length - 1; g >= 0; g--) {
-            const group = groups[g]
-            const wrap = document.createElement("span")
-            wrap.className = "sentence-highlight"
-            wrap.dataset.highlightId = String(group.highlightId)
-            wrap.dataset.charOffset = String(activeHighlights.find(h => h.id === group.highlightId)?.charOffset ?? 0)
-
-            // 保存插入位置（在移动元素之前）
-            const nextInParent = els[group.endIdx].nextSibling
-
-            for (let i = group.startIdx; i <= group.endIdx; i++) {
-                wrap.appendChild(els[i])
-            }
-
-            group.parent.insertBefore(wrap, nextInParent)
-
-            // 计算波浪线相位偏移，确保相邻字符之间波浪线相位对齐
-            // 每个字符根据自己的 left 位置对波浪周期(20px)取模
-            if (containerRef.current) {
-                const containerRect = containerRef.current.getBoundingClientRect()
-                wrap.querySelectorAll("[data-char]").forEach((char) => {
-                    const charRect = char.getBoundingClientRect()
-                    const offset = charRect.left - containerRect.left
-                    if (char instanceof HTMLElement) {
-                        char.style.setProperty("--wave-offset", `${Math.round(offset) % 20}px`)
-                    }
-                })
+        // 计算波浪线相位偏移，确保相邻字符之间波浪线相位对齐
+        if (containerRef.current) {
+            const containerRect = containerRef.current.getBoundingClientRect()
+            for (let i = 0; i < els.length; i++) {
+                if (!charHighlightMap.has(i)) continue
+                const charRect = els[i].getBoundingClientRect()
+                const offset = charRect.left - containerRect.left
+                els[i].style.setProperty("--wave-offset", `${Math.round(offset) % 20}px`)
             }
         }
 
@@ -260,13 +226,13 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         const timer = setTimeout(() => {
             if (scrollOffset !== null) {
                 const offset = parseInt(scrollOffset, 10)
-                const el = containerRef.current?.querySelector(`.sentence-highlight[data-char-offset="${offset}"]`)
+                const el = containerRef.current?.querySelector(`[data-char][data-char-offset="${offset}"]`)
                 if (el) {
                     el.scrollIntoView({ behavior: "smooth", block: "center" })
                     return
                 }
             }
-            const el = containerRef.current?.querySelector(`.sentence-highlight[data-highlight-id]`)
+            const el = containerRef.current?.querySelector(`[data-char][data-highlight-id]`)
             if (el) {
                 el.scrollIntoView({ behavior: "smooth", block: "center" })
             }
@@ -342,40 +308,46 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             if (target.closest("[data-slot='popover-content']")) return
 
             // 点击高亮字符时显示管理弹窗
-            const highlightEl = target.closest(".sentence-highlight") as HTMLElement | null
+            const highlightEl = target.closest("[data-highlight-id]") as HTMLElement | null
             if (highlightEl && highlightEl.dataset.highlightId) {
-                const id = Number(highlightEl.dataset.highlightId)
-                if (id) {
-                    const rect = highlightEl.getBoundingClientRect()
-                    const containerRect = container.getBoundingClientRect()
-                    setActiveHighlight(id)
-                    setPopoverAnchor({ x: rect.left - containerRect.left, y: rect.top - containerRect.top, width: rect.width, height: rect.height })
-                }
+                const id = highlightEl.dataset.highlightId
+                // 计算所有同组 [data-char] 元素的包围矩形
+                const charEls = container.querySelectorAll(`[data-char][data-highlight-id="${id}"]`)
+                let left = Infinity, top = Infinity, right = -Infinity, bottom = -Infinity
+                charEls.forEach(el => {
+                    const r = el.getBoundingClientRect()
+                    left = Math.min(left, r.left)
+                    top = Math.min(top, r.top)
+                    right = Math.max(right, r.right)
+                    bottom = Math.max(bottom, r.bottom)
+                })
+                const containerRect = container.getBoundingClientRect()
+                setActiveHighlight(Number(id))
+                setPopoverAnchor({ x: left - containerRect.left, y: top - containerRect.top, width: right - left, height: bottom - top })
                 return
             }
 
             // 点击其他区域时关闭工具栏和弹窗
-            setToolbarAnchor(null)
+            // 只清除控制 open 的状态，保留 anchor 位置避免关闭动画时 Popover 跳到 (0,0)
             setSelectedText("")
             setActiveHighlight(null)
-            setPopoverAnchor(null)
         }
 
         // hover 时高亮同组所有字符
         const handleMouseEnter = (e: MouseEvent) => {
-            const target = (e.target as HTMLElement).closest(".sentence-highlight") as HTMLElement | null
+            const target = (e.target as HTMLElement).closest("[data-highlight-id]") as HTMLElement | null
             if (!target || !target.dataset.highlightId) return
             const id = target.dataset.highlightId
-            container.querySelectorAll(`.sentence-highlight[data-highlight-id="${id}"]`).forEach(el => {
+            container.querySelectorAll(`[data-char][data-highlight-id="${id}"]`).forEach(el => {
                 el.classList.add("sentence-highlight-active")
             })
         }
 
         const handleMouseLeave = (e: MouseEvent) => {
-            const target = (e.target as HTMLElement).closest(".sentence-highlight") as HTMLElement | null
+            const target = (e.target as HTMLElement).closest("[data-highlight-id]") as HTMLElement | null
             if (!target || !target.dataset.highlightId) return
             const id = target.dataset.highlightId
-            container.querySelectorAll(`.sentence-highlight[data-highlight-id="${id}"]`).forEach(el => {
+            container.querySelectorAll(`[data-char][data-highlight-id="${id}"]`).forEach(el => {
                 el.classList.remove("sentence-highlight-active")
             })
         }
@@ -429,7 +401,6 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         } catch {
             toast.error("操作失败")
         }
-        setToolbarAnchor(null)
         setSelectedText("")
         window.getSelection()?.removeAllRanges()
     }
@@ -441,7 +412,6 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
             toast.success("已取消收藏")
             setHighlights(prev => prev.filter(h => h.id !== id))
             setActiveHighlight(null)
-            setPopoverAnchor(null)
         } catch {
             toast.error("操作失败")
         }
@@ -453,8 +423,8 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
 
             {/* 选区工具栏 */}
             <Popover
-                open={toolbarAnchor !== null && selectedText !== ""}
-                onOpenChange={(open) => { if (!open) { setToolbarAnchor(null); setSelectedText(""); } }}
+                open={selectedText !== ""}
+                onOpenChange={(open) => { if (!open) setSelectedText("") }}
             >
                 <PopoverAnchor asChild>
                     <div style={{
@@ -466,7 +436,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                         pointerEvents: "none"
                     }} />
                 </PopoverAnchor>
-                <PopoverContent side="top" align="center" sideOffset={8} className="w-auto p-1.5">
+                <PopoverContent side="top" align="center" sideOffset={8} className="w-auto p-1.5 data-[state=closed]:!animate-none">
                     <button
                         className="flex items-center gap-1.5 px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:bg-primary/90 rounded-md transition-colors"
                         onClick={handleHighlight}
@@ -479,8 +449,8 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
 
             {/* 高亮管理弹窗 */}
             <Popover
-                open={activeHighlight !== null && popoverAnchor !== null}
-                onOpenChange={(open) => { if (!open) { setActiveHighlight(null); setPopoverAnchor(null); } }}
+                open={activeHighlight !== null}
+                onOpenChange={(open) => { if (!open) setActiveHighlight(null) }}
             >
                 <PopoverAnchor asChild>
                     <div style={{
@@ -492,7 +462,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                         pointerEvents: "none"
                     }} />
                 </PopoverAnchor>
-                <PopoverContent side="top" align="center" sideOffset={8} className="w-auto p-1.5">
+                <PopoverContent side="top" align="center" sideOffset={8} className="w-auto p-1.5 data-[state=closed]:!animate-none">
                     <button
                         className="flex items-center gap-1.5 px-3 py-1.5 text-sm bg-primary text-primary-foreground hover:bg-primary/90 rounded-md transition-colors"
                         onClick={() => handleUnstar(activeHighlight!)}

@@ -19,14 +19,13 @@ export function Memorize() {
     const [difficulty, setDifficulty] = useState(0.5);
 
     function enterMemorizeMode() {
-        // 在 setMemorize 之前同步设置标志并清除高亮包裹
+        // 在 setMemorize 之前同步设置标志并清除高亮属性
         // 必须在 React 渲染前完成，否则旧 rAF 闭包会重新应用高亮导致崩溃
         (window as unknown as Record<string, unknown>).__poemMemorizeMode = true;
-        document.querySelectorAll(".sentence-highlight").forEach((wrap) => {
-            const parent = wrap.parentNode
-            if (parent) {
-                while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
-                parent.removeChild(wrap)
+        document.querySelectorAll("[data-char][data-highlight-id]").forEach((el) => {
+            if (el instanceof HTMLElement) {
+                delete el.dataset.highlightId
+                delete el.dataset.charOffset
             }
         })
         setMemorize(difficulty);
@@ -34,11 +33,10 @@ export function Memorize() {
 
     function enterFirstCharMode() {
         (window as unknown as Record<string, unknown>).__poemMemorizeMode = true;
-        document.querySelectorAll(".sentence-highlight").forEach((wrap) => {
-            const parent = wrap.parentNode
-            if (parent) {
-                while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
-                parent.removeChild(wrap)
+        document.querySelectorAll("[data-char][data-highlight-id]").forEach((el) => {
+            if (el instanceof HTMLElement) {
+                delete el.dataset.highlightId
+                delete el.dataset.charOffset
             }
         })
         setMemorize(-1);

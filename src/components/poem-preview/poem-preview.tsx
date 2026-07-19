@@ -47,13 +47,12 @@ function ControlButtons({
             </Button>
             {isNaN(memorize) ? (
                 <Button variant="outline" className="text-primary flex items-center gap-2" onClick={() => {
-                    // 在 React 重新渲染前同步清除高亮包裹，否则 .sentence-highlight 干扰 reconciliation 导致崩溃
+                    // 在 React 重新渲染前同步清除高亮属性，否则干扰 reconciliation 导致崩溃
                     (window as unknown as Record<string, unknown>).__poemHighlightSuspended = true
-                    document.querySelectorAll(".sentence-highlight").forEach((wrap) => {
-                        const parent = wrap.parentNode
-                        if (parent) {
-                            while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
-                            parent.removeChild(wrap)
+                    document.querySelectorAll("[data-char][data-highlight-id]").forEach((el) => {
+                        if (el instanceof HTMLElement) {
+                            delete el.dataset.highlightId
+                            delete el.dataset.charOffset
                         }
                     })
                     setShowNotes(v => !v)
@@ -100,13 +99,12 @@ export function PoemPreview({ data }: PoemPreviewProps) {
     useEffect(() => {
         if (isNaN(memorize)) setShowNotes(true);
         else {
-            // 背诵模式切换时也需要清除高亮包裹
+            // 背诵模式切换时也需要清除高亮属性
             (window as unknown as Record<string, unknown>).__poemHighlightSuspended = true
-            document.querySelectorAll(".sentence-highlight").forEach((wrap) => {
-                const parent = wrap.parentNode
-                if (parent) {
-                    while (wrap.firstChild) parent.insertBefore(wrap.firstChild, wrap)
-                    parent.removeChild(wrap)
+            document.querySelectorAll("[data-char][data-highlight-id]").forEach((el) => {
+                if (el instanceof HTMLElement) {
+                    delete el.dataset.highlightId
+                    delete el.dataset.charOffset
                 }
             })
             setShowNotes(false);
