@@ -10,7 +10,7 @@
             },
             {
               "char": "子",
-              "pinyin": "zi"
+              "pinyin": "zǐ"
             },
             {
               "char": "曰",
@@ -109,7 +109,26 @@
             {
               "char": "；",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "靛青是从蓝草里提取的，可是比蓝草的颜色更深；"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 5,
+              "note": "靛青从蓝草中取得。青，靛青，一种染料。蓝，草名，叶子可提取靛青。"
             },
+            {
+              "start": 8,
+              "end": 10,
+              "note": "比蓝草颜色深。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "冰",
               "pinyin": "bīng"
@@ -124,7 +143,7 @@
             },
             {
               "char": "为",
-              "pinyin": "wéi"
+              "pinyin": "wèi"
             },
             {
               "char": "之",
@@ -156,20 +175,9 @@
             }
           ],
           "translation": {
-            "translation": "靛青是从蓝草里提取的，可是比蓝草的颜色更深；冰是水凝结而成的，却比水还要寒冷。"
+            "translation": "冰是水凝结而成的，却比水还要寒冷。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "靛青从蓝草中取得。青，靛青，一种染料。蓝，草名，叶子可提取靛青。"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "note": "比蓝草颜色深。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -183,7 +191,7 @@
             },
             {
               "char": "中",
-              "pinyin": "zhòng"
+              "pinyin": "zhōng"
             },
             {
               "char": "绳",
@@ -194,7 +202,7 @@
               "pinyin": "　"
             },
             {
-              "char": "輮",
+              "char": "𫐓",
               "pinyin": "róu"
             },
             {
@@ -223,21 +231,21 @@
             },
             {
               "char": "中",
-              "pinyin": "zhòng"
+              "pinyin": "zhōng"
             },
             {
               "char": "规",
-              "pinyin": "guī",
+              "pinyin": "guī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　",
               "note": [
                 {
                   "title": "注释",
                   "content": "圆规。"
                 }
               ]
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
             }
           ],
           "translation": {
@@ -259,7 +267,7 @@
             },
             {
               "char": "有",
-              "pinyin": "yòu"
+              "pinyin": "yǒu"
             },
             {
               "char": "槁",
@@ -300,7 +308,7 @@
               "pinyin": "　"
             },
             {
-              "char": "輮",
+              "char": "𫐓",
               "pinyin": "róu"
             },
             {
@@ -401,7 +409,7 @@
             },
             {
               "char": "子",
-              "pinyin": "zi"
+              "pinyin": "zǐ"
             },
             {
               "char": "博",
@@ -445,7 +453,7 @@
             },
             {
               "char": "知",
-              "pinyin": "zhì",
+              "pinyin": "zhī",
               "note": [
                 {
                   "title": "注释",
@@ -576,7 +584,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "我曾经整天思索，却不如片刻学到的知识多；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "吾",
               "pinyin": "wú"
@@ -649,7 +665,7 @@
             }
           ],
           "translation": {
-            "translation": "我曾经整天思索，却不如片刻学到的知识多；我曾经踮起脚远望，却不如登到高处看得广阔。"
+            "translation": "我曾经踮起脚远望，却不如登到高处看得广阔。"
           },
           "notes": []
         },
@@ -689,7 +705,7 @@
             },
             {
               "char": "长",
-              "pinyin": "cháng"
+              "pinyin": "zhǎng"
             },
             {
               "char": "也",
@@ -705,7 +721,7 @@
             },
             {
               "char": "见",
-              "pinyin": "jiàn"
+              "pinyin": "xiàn"
             },
             {
               "char": "者",
@@ -718,7 +734,21 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "登到高处招手，胳膊没有加长，可是别人在远处也能看见；"
+          },
+          "notes": [
+            {
+              "start": 12,
+              "end": 14,
+              "note": "意思是远处的人也能看见。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "顺",
               "pinyin": "shùn"
@@ -797,15 +827,9 @@
             }
           ],
           "translation": {
-            "translation": "登到高处招手，胳膊没有加长，可是别人在远处也能看见；顺着风呼叫，声音没有变得洪亮，可是听的人在远处也能听得很清楚。"
+            "translation": "顺着风呼叫，声音没有变得洪亮，可是听的人在远处也能听得很清楚。"
           },
-          "notes": [
-            {
-              "start": 12,
-              "end": 14,
-              "note": "意思是远处的人也能看见。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -880,7 +904,26 @@
             {
               "char": "；",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "借助车马的人，并不是脚走得快，却可以达到千里之外；"
+          },
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "note": "车马。这里指车子。"
             },
+            {
+              "start": 6,
+              "end": 7,
+              "note": "善于奔走。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "假",
               "pinyin": "jiǎ"
@@ -949,22 +992,12 @@
             }
           ],
           "translation": {
-            "translation": "借助车马的人，并不是脚走得快，却可以达到千里之外；借助舟船的人，并不善于游泳，却可以横渡江河。"
+            "translation": "借助舟船的人，并不善于游泳，却可以横渡江河。"
           },
           "notes": [
             {
-              "start": 1,
-              "end": 2,
-              "note": "车马。这里指车子。"
-            },
-            {
               "start": 6,
               "end": 7,
-              "note": "善于奔走。"
-            },
-            {
-              "start": 21,
-              "end": 22,
               "note": "善于游水。水，游泳。"
             }
           ]
@@ -977,11 +1010,11 @@
             },
             {
               "char": "子",
-              "pinyin": "zi"
+              "pinyin": "zǐ"
             },
             {
               "char": "生",
-              "pinyin": "xìng"
+              "pinyin": "shēng"
             },
             {
               "char": "非",
@@ -1005,7 +1038,7 @@
             },
             {
               "char": "假",
-              "pinyin": "jiǎ"
+              "pinyin": "jià"
             },
             {
               "char": "于",
@@ -1077,7 +1110,7 @@
             },
             {
               "char": "兴",
-              "pinyin": "xīng"
+              "pinyin": "xìng"
             },
             {
               "char": "焉",
@@ -1086,7 +1119,21 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "堆积土石成了高山，风雨从这里兴起；"
+          },
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "note": "在这里兴起。兴，起。焉，兼词，相当于“于此”。下文“生焉”的“焉”同此。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "积",
               "pinyin": "jī"
@@ -1126,7 +1173,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "汇积水流成为深渊，蛟龙从这儿产生；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "积",
               "pinyin": "jī"
@@ -1193,22 +1248,17 @@
             }
           ],
           "translation": {
-            "translation": "堆积土石成了高山，风雨从这里兴起；汇积水流成为深渊，蛟龙从这儿产生；积累善行养成高尚的道德，精神得到提升，圣人的心境由此具备。"
+            "translation": "积累善行养成高尚的道德，精神得到提升，圣人的心境由此具备。"
           },
           "notes": [
             {
-              "start": 7,
-              "end": 8,
-              "note": "在这里兴起。兴，起。焉，兼词，相当于“于此”。下文“生焉”的“焉”同此。"
-            },
-            {
-              "start": 26,
-              "end": 27,
+              "start": 6,
+              "end": 7,
               "note": "非凡的智慧。"
             },
             {
-              "start": 31,
-              "end": 32,
+              "start": 11,
+              "end": 12,
               "note": "圣人的心怀。"
             }
           ]
@@ -1262,7 +1312,26 @@
             {
               "char": "；",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "所以不积累一步半步的行程，就没有办法达到千里之远；"
+          },
+          "notes": [
+            {
+              "start": 3,
+              "end": 4,
+              "note": "古代称跨出一脚为“跬”，跨出两脚为“步”。"
             },
+            {
+              "start": 6,
+              "end": 7,
+              "note": "没有用来……的，无从。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "不",
               "pinyin": "bù"
@@ -1309,20 +1378,9 @@
             }
           ],
           "translation": {
-            "translation": "所以不积累一步半步的行程，就没有办法达到千里之远；不积累细小的流水，就没有办法汇成江河大海。"
+            "translation": "不积累细小的流水，就没有办法汇成江河大海。"
           },
-          "notes": [
-            {
-              "start": 3,
-              "end": 4,
-              "note": "古代称跨出一脚为“跬”，跨出两脚为“步”。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "note": "没有用来……的，无从。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -1365,7 +1423,21 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "骏马一跨跃，也不足十步远；"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "note": "骏马。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "驽",
               "pinyin": "nú"
@@ -1408,22 +1480,17 @@
             }
           ],
           "translation": {
-            "translation": "骏马一跨跃，也不足十步远；劣马连走十天，它的成功在于不停止。"
+            "translation": "劣马连走十天，它的成功在于不停止。"
           },
           "notes": [
             {
               "start": 0,
-              "end": 1,
-              "note": "骏马。"
-            },
-            {
-              "start": 10,
-              "end": 13,
+              "end": 3,
               "note": "劣马拉车走十天。驾，一天的行程。"
             },
             {
-              "start": 15,
-              "end": 18,
+              "start": 5,
+              "end": 8,
               "note": "功效来源于走个不停。舍，停止、止息。"
             }
           ]
@@ -1470,12 +1537,20 @@
             },
             {
               "char": "折",
-              "pinyin": "shé"
+              "pinyin": "zhé"
             },
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "如果刻几下就停下来了，那么腐朽的木头也刻不断。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "锲",
               "pinyin": "qiè"
@@ -1524,7 +1599,7 @@
             }
           ],
           "translation": {
-            "translation": "如果刻几下就停下来了，那么腐朽的木头也刻不断。如果不停地刻下去，那么金石也能雕刻成功。"
+            "translation": "如果不停地刻下去，那么金石也能雕刻成功。"
           },
           "notes": []
         },
@@ -1646,7 +1721,7 @@
             }
           ],
           "translation": {
-            "translation": "蚯蚓没有锐利的爪子和牙齿，强健的筋骨，却能向上吃到泥土，向下喝到地下的泉水，这是由于它用心专一。"
+            "translation": "蚯蚓没有锐利的爪子和牙齿，强健的筋骨，却能向上吃到泥土，向下喝到地下的泉水，这是因为它用心专一。"
           },
           "notes": [
             {
@@ -1673,7 +1748,7 @@
             },
             {
               "char": "跪",
-              "pinyin": "guì"
+              "pinyin": "kuài"
             },
             {
               "char": "而",

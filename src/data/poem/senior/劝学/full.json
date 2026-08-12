@@ -11,76 +11,55 @@
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "子",
-              "pinyin": "zi",
-              "index": 1,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 1
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "学",
               "pinyin": "xué",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "已",
               "pinyin": "yǐ",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             }
           ],
           "translation": "君子说：学习是不可以停止的。",
-          "pinyin": "jūn zǐ yuē ： xué bù kě yǐ yǐ 。",
           "notes": [
             {
               "start": 0,
@@ -98,179 +77,65 @@
             {
               "char": "青",
               "pinyin": "qīng",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "取",
               "pinyin": "qǔ",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "蓝",
               "pinyin": "lán",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "青",
               "pinyin": "qīng",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "蓝",
               "pinyin": "lán",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 21,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "冰",
-              "pinyin": "bīng",
-              "index": 22,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "水",
-              "pinyin": "shuǐ",
-              "index": 24,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "为",
-              "pinyin": "wéi",
-              "index": 25,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "index": 26,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 27,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "而",
-              "pinyin": "ér",
-              "index": 28,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "寒",
-              "pinyin": "hán",
-              "index": 29,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "于",
-              "pinyin": "yú",
-              "index": 30,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "水",
-              "pinyin": "shuǐ",
-              "index": 31,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 21
             }
           ],
-          "translation": "靛青是从蓝草里提取的，可是比蓝草的颜色更深；冰是水凝结而成的，却比水还要寒冷。",
-          "pinyin": "qīng ， qǔ zhī yú lán ， ér qīng yú lán ； bīng ， shuǐ wéi zhī ， ér hán yú shuǐ 。",
-          "special_sentences": [
-            {
-              "start": 8,
-              "end": 11,
-              "content": "状语后置句，‘青于蓝’即‘于蓝青’，意为‘比从蓝草提取的青更青’。"
-            },
-            {
-              "start": 18,
-              "end": 22,
-              "content": "状语后置句，‘寒于水’即‘于水寒’，意为‘比水更冷’。"
-            }
-          ],
+          "translation": "靛青是从蓝草里提取的，可是比蓝草的颜色更深；",
           "notes": [
             {
               "start": 0,
@@ -287,113 +152,143 @@
         {
           "content": [
             {
-              "char": "木",
-              "pinyin": "mù",
-              "index": 33,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "直",
-              "pinyin": "zhí",
-              "index": 34,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "中",
-              "pinyin": "zhòng",
-              "index": 35,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "绳",
-              "pinyin": "shéng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "char": "冰",
+              "pinyin": "bīng",
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
-              "char": "輮",
-              "pinyin": "róu",
-              "index": 38,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ",
-              "index": 39,
-              "read": false,
-              "write": false
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 24
             },
             {
               "char": "为",
-              "pinyin": "wéi",
-              "index": 40,
-              "read": false,
-              "write": false
+              "pinyin": "wèi",
+              "index": 25
             },
             {
-              "char": "轮",
-              "pinyin": "lún",
-              "index": 41,
-              "read": false,
-              "write": false
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 26
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
-              "char": "其",
-              "pinyin": "qí",
-              "index": 43,
-              "read": false,
-              "write": false
+              "char": "而",
+              "pinyin": "ér",
+              "index": 28
             },
             {
-              "char": "曲",
-              "pinyin": "qū",
-              "index": 44,
-              "read": false,
-              "write": false
+              "char": "寒",
+              "pinyin": "hán",
+              "index": 29
             },
             {
-              "char": "中",
-              "pinyin": "zhòng",
-              "index": 45,
-              "read": false,
-              "write": false
+              "char": "于",
+              "pinyin": "yú",
+              "index": 30
             },
             {
-              "char": "规",
-              "pinyin": "guī",
-              "index": 46,
-              "read": false,
-              "write": false
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 31
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 32
+            }
+          ],
+          "translation": "冰是水凝结而成的，却比水还要寒冷。",
+          "notes": []
+        },
+        {
+          "content": [
+            {
+              "char": "木",
+              "pinyin": "mù",
+              "index": 33
+            },
+            {
+              "char": "直",
+              "pinyin": "zhí",
+              "index": 34
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 35
+            },
+            {
+              "char": "绳",
+              "pinyin": "shéng",
+              "index": 36
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 37
+            },
+            {
+              "char": "𫐓",
+              "pinyin": "róu",
+              "index": 38
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 39
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 40
+            },
+            {
+              "char": "轮",
+              "pinyin": "lún",
+              "index": 41
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 42
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 43
+            },
+            {
+              "char": "曲",
+              "pinyin": "qū",
+              "index": 44
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng",
+              "index": 45
+            },
+            {
+              "char": "规",
+              "pinyin": "guī",
+              "index": 46
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 47
             }
           ],
           "translation": "一块木材直得合乎墨线，假如用火烤使它弯曲做成车轮，它的弧度就可以符合圆规的标准。",
-          "pinyin": "mù zhí zhòng shéng ， róu yǐ wéi lún ， qí qū zhòng guī 。",
           "notes": [
             {
               "start": 2,
@@ -401,16 +296,9 @@
               "content": "合乎木匠用来取直的墨线。"
             },
             {
-              "start": 13,
-              "end": 13,
+              "start": 14,
+              "end": 14,
               "content": "圆规。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 5,
-              "end": 9,
-              "content": "省略句，‘輮以（之）为轮’，省略宾语‘之’。"
             }
           ]
         },
@@ -419,118 +307,85 @@
             {
               "char": "虽",
               "pinyin": "suī",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "有",
-              "pinyin": "yòu",
-              "index": 49,
-              "read": false,
-              "write": false
+              "pinyin": "yǒu",
+              "index": 49
             },
             {
               "char": "槁",
               "pinyin": "gǎo",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "暴",
               "pinyin": "pù",
-              "index": 51,
-              "read": true,
-              "write": true
+              "index": 51
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "复",
               "pinyin": "fù",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "挺",
               "pinyin": "tǐng",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
-              "char": "輮",
+              "char": "𫐓",
               "pinyin": "róu",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "使",
               "pinyin": "shǐ",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             }
           ],
           "translation": "即使又被风吹日晒而干枯了，木材也不会再挺直，是因为经过加工使它成为这样的。",
-          "pinyin": "suī yǒu gǎo pù ， bù fù tǐng zhě ， róu shǐ zhī rán yě 。",
           "notes": [
             {
               "start": 0,
@@ -549,237 +404,170 @@
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "木",
               "pinyin": "mù",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "受",
               "pinyin": "shòu",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "绳",
               "pinyin": "shéng",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "直",
               "pinyin": "zhí",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "金",
               "pinyin": "jīn",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "就",
               "pinyin": "jiù",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "砺",
               "pinyin": "lì",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "利",
               "pinyin": "lì",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "子",
-              "pinyin": "zi",
-              "index": 78,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 78
             },
             {
               "char": "博",
               "pinyin": "bó",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "学",
               "pinyin": "xué",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "参",
               "pinyin": "cān",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "省",
               "pinyin": "xǐng",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "乎",
               "pinyin": "hū",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "己",
               "pinyin": "jǐ",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "知",
-              "pinyin": "zhì",
-              "index": 89,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 89
             },
             {
               "char": "明",
               "pinyin": "míng",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "过",
               "pinyin": "guò",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "矣",
               "pinyin": "yǐ",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             }
           ],
           "translation": "所以木材用墨线量过再经辅具加工就能取直，刀剑在磨刀石上磨过就能变得锋利，君子广泛地学习并且每天检验反省自己，那么他就会智慧明达而且行为没有过失了。",
-          "pinyin": "gù mù shòu shéng zé zhí ， jīn jiù lì zé lì ， jūn zǐ bó xué ér rì cān xǐng hū jǐ ， zé zhī míng ér xíng wú guò yǐ 。",
           "notes": [
             {
               "start": 2,
@@ -806,28 +594,6 @@
               "end": 25,
               "content": "同“智”，见识。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 7,
-              "old": "金属制的兵器"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "黄金"
-            },
-            {
-              "start": 16,
-              "end": 17,
-              "old": "广泛地学习"
-            },
-            {
-              "start": 16,
-              "end": 17,
-              "new": "学识广博（形容词）"
-            }
           ]
         }
       ]
@@ -839,241 +605,180 @@
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "尝",
               "pinyin": "cháng",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "终",
               "pinyin": "zhōng",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "思",
               "pinyin": "sī",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "矣",
               "pinyin": "yǐ",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "须",
               "pinyin": "xū",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "臾",
               "pinyin": "yú",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "学",
               "pinyin": "xué",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 113,
-              "read": false,
-              "write": false
-            },
+              "index": 113
+            }
+          ],
+          "translation": "我曾经整天思索，却不如片刻学到的知识多；",
+          "notes": []
+        },
+        {
+          "content": [
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "尝",
               "pinyin": "cháng",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 115
             },
             {
               "char": "跂",
               "pinyin": "qǐ",
-              "index": 116,
-              "read": true,
-              "write": true
+              "index": 116
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 117,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "望",
               "pinyin": "wàng",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "矣",
               "pinyin": "yǐ",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 119
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 120,
-              "read": false,
-              "write": false
+              "index": 120
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 121,
-              "read": false,
-              "write": false
+              "index": 121
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 122,
-              "read": false,
-              "write": false
+              "index": 122
             },
             {
               "char": "登",
               "pinyin": "dēng",
-              "index": 123,
-              "read": false,
-              "write": false
+              "index": 123
             },
             {
               "char": "高",
               "pinyin": "gāo",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 124
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 125,
-              "read": false,
-              "write": false
+              "index": 125
             },
             {
               "char": "博",
               "pinyin": "bó",
-              "index": 126,
-              "read": false,
-              "write": false
+              "index": 126
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 127
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 128,
-              "read": false,
-              "write": false
+              "index": 128
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 129,
-              "read": false,
-              "write": false
+              "index": 129
             }
           ],
-          "translation": "我曾经整天思索，却不如片刻学到的知识多；我曾经踮起脚远望，却不如登到高处看得广阔。",
-          "pinyin": "wú cháng zhōng rì ér sī yǐ ， bù rú xū yú zhī suǒ xué yě ； wú cháng qǐ ér wàng yǐ ， bù rú dēng gāo zhī bó jiàn yě 。",
+          "translation": "我曾经踮起脚远望，却不如登到高处看得广阔。",
           "notes": [
             {
-              "start": 19,
-              "end": 19,
+              "start": 2,
+              "end": 2,
               "content": "踮起脚后跟。"
             }
           ]
@@ -1083,257 +788,187 @@
             {
               "char": "登",
               "pinyin": "dēng",
-              "index": 130,
-              "read": false,
-              "write": false
+              "index": 130
             },
             {
               "char": "高",
               "pinyin": "gāo",
-              "index": 131,
-              "read": false,
-              "write": false
+              "index": 131
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 132,
-              "read": false,
-              "write": false
+              "index": 132
             },
             {
               "char": "招",
               "pinyin": "zhāo",
-              "index": 133,
-              "read": false,
-              "write": false
+              "index": 133
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 134,
-              "read": false,
-              "write": false
+              "index": 134
             },
             {
               "char": "臂",
               "pinyin": "bì",
-              "index": 135,
-              "read": false,
-              "write": false
+              "index": 135
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 136,
-              "read": false,
-              "write": false
+              "index": 136
             },
             {
               "char": "加",
               "pinyin": "jiā",
-              "index": 137,
-              "read": false,
-              "write": false
+              "index": 137
             },
             {
               "char": "长",
-              "pinyin": "cháng",
-              "index": 138,
-              "read": false,
-              "write": false
+              "pinyin": "zhǎng",
+              "index": 138
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 139,
-              "read": false,
-              "write": false
+              "index": 139
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 140,
-              "read": false,
-              "write": false
+              "index": 140
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 141,
-              "read": false,
-              "write": false
+              "index": 141
             },
             {
               "char": "见",
-              "pinyin": "jiàn",
-              "index": 142,
-              "read": false,
-              "write": false
+              "pinyin": "xiàn",
+              "index": 142
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 143,
-              "read": false,
-              "write": false
+              "index": 143
             },
             {
               "char": "远",
               "pinyin": "yuǎn",
-              "index": 144,
-              "read": false,
-              "write": false
+              "index": 144
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 145,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "顺",
-              "pinyin": "shùn",
-              "index": 146,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "风",
-              "pinyin": "fēng",
-              "index": 147,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "而",
-              "pinyin": "ér",
-              "index": 148,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "呼",
-              "pinyin": "hū",
-              "index": 149,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 150,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "声",
-              "pinyin": "shēng",
-              "index": 151,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "非",
-              "pinyin": "fēi",
-              "index": 152,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "加",
-              "pinyin": "jiā",
-              "index": 153,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "疾",
-              "pinyin": "jí",
-              "index": 154,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "也",
-              "pinyin": "yě",
-              "index": 155,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 156,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "而",
-              "pinyin": "ér",
-              "index": 157,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "闻",
-              "pinyin": "wén",
-              "index": 158,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě",
-              "index": 159,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "彰",
-              "pinyin": "zhāng",
-              "index": 160,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 161,
-              "read": false,
-              "write": false
+              "index": 145
             }
           ],
-          "translation": "登到高处招手，胳膊没有加长，可是别人在远处也能看见；顺着风呼叫，声音没有变得洪亮，可是听的人在远处也能听得很清楚。",
-          "pinyin": "dēng gāo ér zhāo ， bì fēi jiā zhǎng yě ， ér jiàn zhě yuǎn ； shùn fēng ér hū ， shēng fēi jiā jí yě ， ér wén zhě zhāng 。",
+          "translation": "登到高处招手，胳膊没有加长，可是别人在远处也能看见；",
           "notes": [
             {
               "start": 12,
               "end": 14,
               "content": "意思是远处的人也能看见。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "顺",
+              "pinyin": "shùn",
+              "index": 146
             },
             {
-              "start": 24,
-              "end": 24,
+              "char": "风",
+              "pinyin": "fēng",
+              "index": 147
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 148
+            },
+            {
+              "char": "呼",
+              "pinyin": "hū",
+              "index": 149
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 150
+            },
+            {
+              "char": "声",
+              "pinyin": "shēng",
+              "index": 151
+            },
+            {
+              "char": "非",
+              "pinyin": "fēi",
+              "index": 152
+            },
+            {
+              "char": "加",
+              "pinyin": "jiā",
+              "index": 153
+            },
+            {
+              "char": "疾",
+              "pinyin": "jí",
+              "index": 154
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 155
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 156
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 157
+            },
+            {
+              "char": "闻",
+              "pinyin": "wén",
+              "index": 158
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 159
+            },
+            {
+              "char": "彰",
+              "pinyin": "zhāng",
+              "index": 160
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 161
+            }
+          ],
+          "translation": "顺着风呼叫，声音没有变得洪亮，可是听的人在远处也能听得很清楚。",
+          "notes": [
+            {
+              "start": 8,
+              "end": 8,
               "content": "劲疾。"
             },
             {
-              "start": 30,
-              "end": 30,
+              "start": 14,
+              "end": 14,
               "content": "清楚。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 24,
-              "end": 24,
-              "old": "声音洪亮、有力"
-            },
-            {
-              "start": 24,
-              "end": 24,
-              "new": "疾病"
             }
           ]
         },
@@ -1342,216 +977,80 @@
             {
               "char": "假",
               "pinyin": "jiǎ",
-              "index": 162,
-              "read": true,
-              "write": true
+              "index": 162
             },
             {
               "char": "舆",
               "pinyin": "yú",
-              "index": 163,
-              "read": false,
-              "write": false
+              "index": 163
             },
             {
               "char": "马",
               "pinyin": "mǎ",
-              "index": 164,
-              "read": false,
-              "write": false
+              "index": 164
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 165,
-              "read": false,
-              "write": false
+              "index": 165
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 166,
-              "read": false,
-              "write": false
+              "index": 166
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 167,
-              "read": false,
-              "write": false
+              "index": 167
             },
             {
               "char": "利",
               "pinyin": "lì",
-              "index": 168,
-              "read": false,
-              "write": false
+              "index": 168
             },
             {
               "char": "足",
               "pinyin": "zú",
-              "index": 169,
-              "read": false,
-              "write": false
+              "index": 169
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 170,
-              "read": false,
-              "write": false
+              "index": 170
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 171,
-              "read": false,
-              "write": false
+              "index": 171
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 172,
-              "read": false,
-              "write": false
+              "index": 172
             },
             {
               "char": "致",
               "pinyin": "zhì",
-              "index": 173,
-              "read": false,
-              "write": false
+              "index": 173
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 174,
-              "read": false,
-              "write": false
+              "index": 174
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 175,
-              "read": false,
-              "write": false
+              "index": 175
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 176,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "假",
-              "pinyin": "jiǎ",
-              "index": 177,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "舟",
-              "pinyin": "zhōu",
-              "index": 178,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "楫",
-              "pinyin": "jí",
-              "index": 179,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě",
-              "index": 180,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 181,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "非",
-              "pinyin": "fēi",
-              "index": 182,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "能",
-              "pinyin": "néng",
-              "index": 183,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "水",
-              "pinyin": "shuǐ",
-              "index": 184,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "也",
-              "pinyin": "yě",
-              "index": 185,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 186,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "而",
-              "pinyin": "ér",
-              "index": 187,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "绝",
-              "pinyin": "jué",
-              "index": 188,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "江",
-              "pinyin": "jiāng",
-              "index": 189,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "河",
-              "pinyin": "hé",
-              "index": 190,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 191,
-              "read": false,
-              "write": false
+              "index": 176
             }
           ],
-          "translation": "借助车马的人，并不是脚走得快，却可以达到千里之外；借助舟船的人，并不善于游泳，却可以横渡江河。",
-          "pinyin": "jiǎ yú mǎ zhě ， fēi lì zú yě ， ér zhì qiān lǐ ； jiǎ zhōu jí zhě ， fēi néng shuǐ yě ， ér jué jiāng hé 。",
+          "translation": "借助车马的人，并不是脚走得快，却可以达到千里之外；",
           "notes": [
             {
               "start": 0,
@@ -1572,38 +1071,98 @@
               "start": 11,
               "end": 11,
               "content": "到达。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "假",
+              "pinyin": "jiǎ",
+              "index": 177
             },
             {
-              "start": 21,
-              "end": 22,
+              "char": "舟",
+              "pinyin": "zhōu",
+              "index": 178
+            },
+            {
+              "char": "楫",
+              "pinyin": "jí",
+              "index": 179
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 180
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 181
+            },
+            {
+              "char": "非",
+              "pinyin": "fēi",
+              "index": 182
+            },
+            {
+              "char": "能",
+              "pinyin": "néng",
+              "index": 183
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 184
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 185
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 186
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 187
+            },
+            {
+              "char": "绝",
+              "pinyin": "jué",
+              "index": 188
+            },
+            {
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 189
+            },
+            {
+              "char": "河",
+              "pinyin": "hé",
+              "index": 190
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 191
+            }
+          ],
+          "translation": "借助舟船的人，并不善于游泳，却可以横渡江河。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 7,
               "content": "善于游水。水，游泳。"
             },
             {
-              "start": 26,
-              "end": 26,
+              "start": 11,
+              "end": 11,
               "content": "横渡。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "借助、利用"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "虚假、不真实"
-            },
-            {
-              "start": 26,
-              "end": 26,
-              "old": "横渡"
-            },
-            {
-              "start": 26,
-              "end": 26,
-              "new": "断绝"
             }
           ]
         },
@@ -1612,97 +1171,70 @@
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 192,
-              "read": false,
-              "write": false
+              "index": 192
             },
             {
               "char": "子",
-              "pinyin": "zi",
-              "index": 193,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 193
             },
             {
               "char": "生",
-              "pinyin": "xìng",
-              "index": 194,
-              "read": false,
-              "write": false
+              "pinyin": "shēng",
+              "index": 194
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 195,
-              "read": false,
-              "write": false
+              "index": 195
             },
             {
               "char": "异",
               "pinyin": "yì",
-              "index": 196,
-              "read": false,
-              "write": false
+              "index": 196
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 197,
-              "read": false,
-              "write": false
+              "index": 197
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 198,
-              "read": false,
-              "write": false
+              "index": 198
             },
             {
               "char": "善",
               "pinyin": "shàn",
-              "index": 199,
-              "read": false,
-              "write": false
+              "index": 199
             },
             {
               "char": "假",
-              "pinyin": "jiǎ",
-              "index": 200,
-              "read": false,
-              "write": false
+              "pinyin": "jià",
+              "index": 200
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 201,
-              "read": false,
-              "write": false
+              "index": 201
             },
             {
               "char": "物",
               "pinyin": "wù",
-              "index": 202,
-              "read": false,
-              "write": false
+              "index": 202
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 203,
-              "read": false,
-              "write": false
+              "index": 203
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 204,
-              "read": false,
-              "write": false
+              "index": 204
             }
           ],
           "translation": "君子的资质秉性跟一般人没有不同，只是君子善于借助外物罢了。",
-          "pinyin": "jūn zǐ shēng fēi yì yě ， shàn jiǎ yú wù yě 。",
           "notes": [
             {
               "start": 2,
@@ -1713,13 +1245,6 @@
               "start": 10,
               "end": 10,
               "content": "外物，包括各种客观条件。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 7,
-              "end": 12,
-              "content": "状语后置句，‘善假于物也’即‘于物善假也’，正常语序为‘于物善假’。"
             }
           ]
         }
@@ -1732,272 +1257,212 @@
             {
               "char": "积",
               "pinyin": "jī",
-              "index": 205,
-              "read": false,
-              "write": false
+              "index": 205
             },
             {
               "char": "土",
               "pinyin": "tǔ",
-              "index": 206,
-              "read": false,
-              "write": false
+              "index": 206
             },
             {
               "char": "成",
               "pinyin": "chéng",
-              "index": 207,
-              "read": false,
-              "write": false
+              "index": 207
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 208,
-              "read": false,
-              "write": false
+              "index": 208
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 209,
-              "read": false,
-              "write": false
+              "index": 209
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 210,
-              "read": false,
-              "write": false
+              "index": 210
             },
             {
               "char": "雨",
               "pinyin": "yǔ",
-              "index": 211,
-              "read": false,
-              "write": false
+              "index": 211
             },
             {
               "char": "兴",
-              "pinyin": "xīng",
-              "index": 212,
-              "read": false,
-              "write": false
+              "pinyin": "xìng",
+              "index": 212
             },
             {
               "char": "焉",
               "pinyin": "yān",
-              "index": 213,
-              "read": false,
-              "write": false
+              "index": 213
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 214,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "积",
-              "pinyin": "jī",
-              "index": 215,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "水",
-              "pinyin": "shuǐ",
-              "index": 216,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "成",
-              "pinyin": "chéng",
-              "index": 217,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "渊",
-              "pinyin": "yuān",
-              "index": 218,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 219,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "蛟",
-              "pinyin": "jiāo",
-              "index": 220,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "龙",
-              "pinyin": "lóng",
-              "index": 221,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "生",
-              "pinyin": "shēng",
-              "index": 222,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "焉",
-              "pinyin": "yān",
-              "index": 223,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "；",
-              "pinyin": "",
-              "index": 224,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "积",
-              "pinyin": "jī",
-              "index": 225,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "善",
-              "pinyin": "shàn",
-              "index": 226,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "成",
-              "pinyin": "chéng",
-              "index": 227,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "德",
-              "pinyin": "dé",
-              "index": 228,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 229,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "而",
-              "pinyin": "ér",
-              "index": 230,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "神",
-              "pinyin": "shén",
-              "index": 231,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "明",
-              "pinyin": "míng",
-              "index": 232,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "自",
-              "pinyin": "zì",
-              "index": 233,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "得",
-              "pinyin": "dé",
-              "index": 234,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 235,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "圣",
-              "pinyin": "shèng",
-              "index": 236,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "心",
-              "pinyin": "xīn",
-              "index": 237,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "备",
-              "pinyin": "bèi",
-              "index": 238,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "焉",
-              "pinyin": "yān",
-              "index": 239,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 240,
-              "read": false,
-              "write": false
+              "index": 214
             }
           ],
-          "translation": "堆积土石成了高山，风雨从这里兴起；汇积水流成为深渊，蛟龙从这儿产生；积累善行养成高尚的道德，精神得到提升，圣人的心境由此具备。",
-          "pinyin": "jī tǔ chéng shān ， fēng yǔ xīng yān ； jī shuǐ chéng yuān ， jiāo lóng shēng yān ； jī shàn chéng dé ， ér shén míng zì dé ， shèng xīn bèi yān 。",
+          "translation": "堆积土石成了高山，风雨从这里兴起；",
           "notes": [
             {
               "start": 7,
               "end": 8,
               "content": "在这里兴起。兴，起。焉，兼词，相当于“于此”。下文“生焉”的“焉”同此。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "积",
+              "pinyin": "jī",
+              "index": 215
             },
             {
-              "start": 26,
-              "end": 27,
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 216
+            },
+            {
+              "char": "成",
+              "pinyin": "chéng",
+              "index": 217
+            },
+            {
+              "char": "渊",
+              "pinyin": "yuān",
+              "index": 218
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 219
+            },
+            {
+              "char": "蛟",
+              "pinyin": "jiāo",
+              "index": 220
+            },
+            {
+              "char": "龙",
+              "pinyin": "lóng",
+              "index": 221
+            },
+            {
+              "char": "生",
+              "pinyin": "shēng",
+              "index": 222
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān",
+              "index": 223
+            },
+            {
+              "char": "；",
+              "pinyin": "",
+              "index": 224
+            }
+          ],
+          "translation": "汇积水流成为深渊，蛟龙从这儿产生；",
+          "notes": []
+        },
+        {
+          "content": [
+            {
+              "char": "积",
+              "pinyin": "jī",
+              "index": 225
+            },
+            {
+              "char": "善",
+              "pinyin": "shàn",
+              "index": 226
+            },
+            {
+              "char": "成",
+              "pinyin": "chéng",
+              "index": 227
+            },
+            {
+              "char": "德",
+              "pinyin": "dé",
+              "index": 228
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 229
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 230
+            },
+            {
+              "char": "神",
+              "pinyin": "shén",
+              "index": 231
+            },
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 232
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 233
+            },
+            {
+              "char": "得",
+              "pinyin": "dé",
+              "index": 234
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 235
+            },
+            {
+              "char": "圣",
+              "pinyin": "shèng",
+              "index": 236
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn",
+              "index": 237
+            },
+            {
+              "char": "备",
+              "pinyin": "bèi",
+              "index": 238
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān",
+              "index": 239
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 240
+            }
+          ],
+          "translation": "积累善行养成高尚的道德，精神得到提升，圣人的心境由此具备。",
+          "notes": [
+            {
+              "start": 6,
+              "end": 7,
               "content": "非凡的智慧。"
             },
             {
-              "start": 31,
-              "end": 32,
+              "start": 11,
+              "end": 12,
               "content": "圣人的心怀。"
             }
           ]
@@ -2007,167 +1472,65 @@
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 241,
-              "read": false,
-              "write": false
+              "index": 241
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 242,
-              "read": false,
-              "write": false
+              "index": 242
             },
             {
               "char": "积",
               "pinyin": "jī",
-              "index": 243,
-              "read": false,
-              "write": false
+              "index": 243
             },
             {
               "char": "跬",
               "pinyin": "kuǐ",
-              "index": 244,
-              "read": false,
-              "write": false
+              "index": 244
             },
             {
               "char": "步",
               "pinyin": "bù",
-              "index": 245,
-              "read": false,
-              "write": false
+              "index": 245
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 246,
-              "read": false,
-              "write": false
+              "index": 246
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 247,
-              "read": false,
-              "write": false
+              "index": 247
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 248,
-              "read": false,
-              "write": false
+              "index": 248
             },
             {
               "char": "至",
               "pinyin": "zhì",
-              "index": 249,
-              "read": false,
-              "write": false
+              "index": 249
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 250,
-              "read": false,
-              "write": false
+              "index": 250
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 251,
-              "read": false,
-              "write": false
+              "index": 251
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 252,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 253,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "积",
-              "pinyin": "jī",
-              "index": 254,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "小",
-              "pinyin": "xiǎo",
-              "index": 255,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "流",
-              "pinyin": "liú",
-              "index": 256,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 257,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "无",
-              "pinyin": "wú",
-              "index": 258,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ",
-              "index": 259,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "成",
-              "pinyin": "chéng",
-              "index": 260,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "江",
-              "pinyin": "jiāng",
-              "index": 261,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "海",
-              "pinyin": "hǎi",
-              "index": 262,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 263,
-              "read": false,
-              "write": false
+              "index": 252
             }
           ],
-          "translation": "所以不积累一步半步的行程，就没有办法达到千里之远；不积累细小的流水，就没有办法汇成江河大海。",
-          "pinyin": "gù bù jī kuǐ bù ， wú yǐ zhì qiān lǐ ； bù jī xiǎo liú ， wú yǐ chéng jiāng hǎi 。",
+          "translation": "所以不积累一步半步的行程，就没有办法达到千里之远；",
           "notes": [
             {
               "start": 3,
@@ -2184,162 +1547,189 @@
         {
           "content": [
             {
-              "char": "骐",
-              "pinyin": "qí",
-              "index": 264,
-              "read": false,
-              "write": false
+              "char": "不",
+              "pinyin": "bù",
+              "index": 253
             },
             {
-              "char": "骥",
-              "pinyin": "jì",
-              "index": 265,
-              "read": false,
-              "write": false
+              "char": "积",
+              "pinyin": "jī",
+              "index": 254
             },
             {
-              "char": "一",
-              "pinyin": "yī",
-              "index": 266,
-              "read": false,
-              "write": false
+              "char": "小",
+              "pinyin": "xiǎo",
+              "index": 255
             },
             {
-              "char": "跃",
-              "pinyin": "yuè",
-              "index": 267,
-              "read": false,
-              "write": false
+              "char": "流",
+              "pinyin": "liú",
+              "index": 256
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 268,
-              "read": false,
-              "write": false
+              "index": 257
             },
             {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 269,
-              "read": false,
-              "write": false
+              "char": "无",
+              "pinyin": "wú",
+              "index": 258
             },
             {
-              "char": "能",
-              "pinyin": "néng",
-              "index": 270,
-              "read": false,
-              "write": false
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 259
             },
             {
-              "char": "十",
-              "pinyin": "shí",
-              "index": 271,
-              "read": false,
-              "write": false
+              "char": "成",
+              "pinyin": "chéng",
+              "index": 260
             },
             {
-              "char": "步",
-              "pinyin": "bù",
-              "index": 272,
-              "read": false,
-              "write": false
+              "char": "江",
+              "pinyin": "jiāng",
+              "index": 261
             },
             {
-              "char": "；",
-              "pinyin": "",
-              "index": 273,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "驽",
-              "pinyin": "nú",
-              "index": 274,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "马",
-              "pinyin": "mǎ",
-              "index": 275,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "十",
-              "pinyin": "shí",
-              "index": 276,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "驾",
-              "pinyin": "jià",
-              "index": 277,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 278,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "功",
-              "pinyin": "gōng",
-              "index": 279,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "在",
-              "pinyin": "zài",
-              "index": 280,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 281,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "舍",
-              "pinyin": "shě",
-              "index": 282,
-              "read": false,
-              "write": false
+              "char": "海",
+              "pinyin": "hǎi",
+              "index": 262
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 283,
-              "read": false,
-              "write": false
+              "index": 263
             }
           ],
-          "translation": "骏马一跨跃，也不足十步远；劣马连走十天，它的成功在于不停止。",
-          "pinyin": "qí jì yī yuè ， bù néng shí bù ； nú mǎ shí jià ， gōng zài bù shě 。",
+          "translation": "不积累细小的流水，就没有办法汇成江河大海。",
+          "notes": []
+        },
+        {
+          "content": [
+            {
+              "char": "骐",
+              "pinyin": "qí",
+              "index": 264
+            },
+            {
+              "char": "骥",
+              "pinyin": "jì",
+              "index": 265
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 266
+            },
+            {
+              "char": "跃",
+              "pinyin": "yuè",
+              "index": 267
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 268
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 269
+            },
+            {
+              "char": "能",
+              "pinyin": "néng",
+              "index": 270
+            },
+            {
+              "char": "十",
+              "pinyin": "shí",
+              "index": 271
+            },
+            {
+              "char": "步",
+              "pinyin": "bù",
+              "index": 272
+            },
+            {
+              "char": "；",
+              "pinyin": "",
+              "index": 273
+            }
+          ],
+          "translation": "骏马一跨跃，也不足十步远；",
           "notes": [
             {
               "start": 0,
               "end": 1,
               "content": "骏马。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "驽",
+              "pinyin": "nú",
+              "index": 274
             },
             {
-              "start": 10,
-              "end": 13,
+              "char": "马",
+              "pinyin": "mǎ",
+              "index": 275
+            },
+            {
+              "char": "十",
+              "pinyin": "shí",
+              "index": 276
+            },
+            {
+              "char": "驾",
+              "pinyin": "jià",
+              "index": 277
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 278
+            },
+            {
+              "char": "功",
+              "pinyin": "gōng",
+              "index": 279
+            },
+            {
+              "char": "在",
+              "pinyin": "zài",
+              "index": 280
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 281
+            },
+            {
+              "char": "舍",
+              "pinyin": "shě",
+              "index": 282
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 283
+            }
+          ],
+          "translation": "劣马连走十天，它的成功在于不停止。",
+          "notes": [
+            {
+              "start": 0,
+              "end": 3,
               "content": "劣马拉车走十天。驾，一天的行程。"
             },
             {
-              "start": 15,
-              "end": 18,
+              "start": 5,
+              "end": 8,
               "content": "功效来源于走个不停。舍，停止、止息。"
             }
           ]
@@ -2349,155 +1739,121 @@
             {
               "char": "锲",
               "pinyin": "qiè",
-              "index": 284,
-              "read": true,
-              "write": true
+              "index": 284
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 285,
-              "read": false,
-              "write": false
+              "index": 285
             },
             {
               "char": "舍",
               "pinyin": "shě",
-              "index": 286,
-              "read": false,
-              "write": false
+              "index": 286
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 287,
-              "read": false,
-              "write": false
+              "index": 287
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 288,
-              "read": false,
-              "write": false
+              "index": 288
             },
             {
               "char": "朽",
               "pinyin": "xiǔ",
-              "index": 289,
-              "read": false,
-              "write": false
+              "index": 289
             },
             {
               "char": "木",
               "pinyin": "mù",
-              "index": 290,
-              "read": false,
-              "write": false
+              "index": 290
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 291,
-              "read": false,
-              "write": false
+              "index": 291
             },
             {
               "char": "折",
-              "pinyin": "shé",
-              "index": 292,
-              "read": false,
-              "write": false
+              "pinyin": "zhé",
+              "index": 292
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 293,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "锲",
-              "pinyin": "qiè",
-              "index": 294,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "而",
-              "pinyin": "ér",
-              "index": 295,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 296,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "舍",
-              "pinyin": "shě",
-              "index": 297,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 298,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "金",
-              "pinyin": "jīn",
-              "index": 299,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "石",
-              "pinyin": "shí",
-              "index": 300,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "可",
-              "pinyin": "kě",
-              "index": 301,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "镂",
-              "pinyin": "lòu",
-              "index": 302,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 303,
-              "read": false,
-              "write": false
+              "index": 293
             }
           ],
-          "translation": "如果刻几下就停下来了，那么腐朽的木头也刻不断。如果不停地刻下去，那么金石也能雕刻成功。",
-          "pinyin": "qiè ér shě zhī ， xiǔ mù bù zhé ； qiè ér bù shě ， jīn shí kě lòu 。",
+          "translation": "如果刻几下就停下来了，那么腐朽的木头也刻不断。",
           "notes": [
             {
               "start": 0,
               "end": 0,
               "content": "刻。"
+            }
+          ]
+        },
+        {
+          "content": [
+            {
+              "char": "锲",
+              "pinyin": "qiè",
+              "index": 294
             },
             {
-              "start": 18,
-              "end": 18,
+              "char": "而",
+              "pinyin": "ér",
+              "index": 295
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 296
+            },
+            {
+              "char": "舍",
+              "pinyin": "shě",
+              "index": 297
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 298
+            },
+            {
+              "char": "金",
+              "pinyin": "jīn",
+              "index": 299
+            },
+            {
+              "char": "石",
+              "pinyin": "shí",
+              "index": 300
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 301
+            },
+            {
+              "char": "镂",
+              "pinyin": "lòu",
+              "index": 302
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 303
+            }
+          ],
+          "translation": "如果不停地刻下去，那么金石也能雕刻成功。",
+          "notes": [
+            {
+              "start": 8,
+              "end": 8,
               "content": "雕刻。"
             }
           ]
@@ -2507,195 +1863,140 @@
             {
               "char": "蚓",
               "pinyin": "yǐn",
-              "index": 304,
-              "read": false,
-              "write": false
+              "index": 304
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 305,
-              "read": false,
-              "write": false
+              "index": 305
             },
             {
               "char": "爪",
               "pinyin": "zhǎo",
-              "index": 306,
-              "read": false,
-              "write": false
+              "index": 306
             },
             {
               "char": "牙",
               "pinyin": "yá",
-              "index": 307,
-              "read": false,
-              "write": false
+              "index": 307
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 308,
-              "read": false,
-              "write": false
+              "index": 308
             },
             {
               "char": "利",
               "pinyin": "lì",
-              "index": 309,
-              "read": false,
-              "write": false
+              "index": 309
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 310,
-              "read": false,
-              "write": false
+              "index": 310
             },
             {
               "char": "筋",
               "pinyin": "jīn",
-              "index": 311,
-              "read": false,
-              "write": false
+              "index": 311
             },
             {
               "char": "骨",
               "pinyin": "gǔ",
-              "index": 312,
-              "read": false,
-              "write": false
+              "index": 312
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 313,
-              "read": false,
-              "write": false
+              "index": 313
             },
             {
               "char": "强",
               "pinyin": "qiáng",
-              "index": 314,
-              "read": false,
-              "write": false
+              "index": 314
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 315,
-              "read": false,
-              "write": false
+              "index": 315
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 316,
-              "read": false,
-              "write": false
+              "index": 316
             },
             {
               "char": "食",
               "pinyin": "shí",
-              "index": 317,
-              "read": false,
-              "write": false
+              "index": 317
             },
             {
               "char": "埃",
               "pinyin": "āi",
-              "index": 318,
-              "read": false,
-              "write": false
+              "index": 318
             },
             {
               "char": "土",
               "pinyin": "tǔ",
-              "index": 319,
-              "read": false,
-              "write": false
+              "index": 319
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 320,
-              "read": false,
-              "write": false
+              "index": 320
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 321,
-              "read": false,
-              "write": false
+              "index": 321
             },
             {
               "char": "饮",
               "pinyin": "yǐn",
-              "index": 322,
-              "read": false,
-              "write": false
+              "index": 322
             },
             {
               "char": "黄",
               "pinyin": "huáng",
-              "index": 323,
-              "read": false,
-              "write": false
+              "index": 323
             },
             {
               "char": "泉",
               "pinyin": "quán",
-              "index": 324,
-              "read": false,
-              "write": false
+              "index": 324
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 325,
-              "read": false,
-              "write": false
+              "index": 325
             },
             {
               "char": "用",
               "pinyin": "yòng",
-              "index": 326,
-              "read": false,
-              "write": false
+              "index": 326
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 327,
-              "read": false,
-              "write": false
+              "index": 327
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 328,
-              "read": false,
-              "write": false
+              "index": 328
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 329,
-              "read": false,
-              "write": false
+              "index": 329
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 330,
-              "read": false,
-              "write": false
+              "index": 330
             }
           ],
-          "translation": "蚯蚓没有锐利的爪子和牙齿，强健的筋骨，却能向上吃到泥土，向下喝到地下的泉水，这是由于它用心专一。",
-          "pinyin": "yǐn wú zhǎo yá zhī lì ， jīn gǔ zhī qiáng ， shàng shí āi tǔ ， xià yǐn huáng quán ， yòng xīn yī yě 。",
+          "translation": "蚯蚓没有锐利的爪子和牙齿，强健的筋骨，却能向上吃到泥土，向下喝到地下的泉水，这是因为它用心专一。",
           "notes": [
             {
               "start": 14,
@@ -2712,13 +2013,6 @@
               "end": 24,
               "content": "专一。"
             }
-          ],
-          "special_sentences": [
-            {
-              "start": 2,
-              "end": 11,
-              "content": "定语后置句，‘爪牙之利’即‘利之爪牙’，‘筋骨之强’即‘强之筋骨’。"
-            }
           ]
         },
         {
@@ -2726,174 +2020,120 @@
             {
               "char": "蟹",
               "pinyin": "xiè",
-              "index": 331,
-              "read": false,
-              "write": false
+              "index": 331
             },
             {
               "char": "六",
               "pinyin": "liù",
-              "index": 332,
-              "read": false,
-              "write": false
+              "index": 332
             },
             {
               "char": "跪",
-              "pinyin": "guì",
-              "index": 333,
-              "read": false,
-              "write": false
+              "pinyin": "kuài",
+              "index": 333
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 334,
-              "read": false,
-              "write": false
+              "index": 334
             },
             {
               "char": "二",
               "pinyin": "èr",
-              "index": 335,
-              "read": false,
-              "write": false
+              "index": 335
             },
             {
               "char": "螯",
               "pinyin": "áo",
-              "index": 336,
-              "read": false,
-              "write": false
+              "index": 336
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 337,
-              "read": true,
-              "write": true
+              "index": 337
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 338,
-              "read": false,
-              "write": false
+              "index": 338
             },
             {
               "char": "蛇",
               "pinyin": "shé",
-              "index": 339,
-              "read": false,
-              "write": false
+              "index": 339
             },
             {
               "char": "鳝",
               "pinyin": "shàn",
-              "index": 340,
-              "read": false,
-              "write": false
+              "index": 340
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 341,
-              "read": false,
-              "write": false
+              "index": 341
             },
             {
               "char": "穴",
               "pinyin": "xué",
-              "index": 342,
-              "read": false,
-              "write": false
+              "index": 342
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 343,
-              "read": false,
-              "write": false
+              "index": 343
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 344,
-              "read": false,
-              "write": false
+              "index": 344
             },
             {
               "char": "寄",
               "pinyin": "jì",
-              "index": 345,
-              "read": false,
-              "write": false
+              "index": 345
             },
             {
               "char": "托",
               "pinyin": "tuō",
-              "index": 346,
-              "read": false,
-              "write": false
+              "index": 346
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 347,
-              "read": false,
-              "write": false
+              "index": 347
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 348,
-              "read": false,
-              "write": false
+              "index": 348
             },
             {
               "char": "用",
               "pinyin": "yòng",
-              "index": 349,
-              "read": false,
-              "write": false
+              "index": 349
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 350,
-              "read": false,
-              "write": false
+              "index": 350
             },
             {
               "char": "躁",
               "pinyin": "zào",
-              "index": 351,
-              "read": false,
-              "write": false
+              "index": 351
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 352,
-              "read": false,
-              "write": false
+              "index": 352
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 353,
-              "read": false,
-              "write": false
+              "index": 353
             }
           ],
           "translation": "螃蟹有六条腿，两个蟹钳，但是没有蛇、鳝的洞穴它就无处藏身，这是因为它用心浮躁。",
-          "pinyin": "xiè liù guì ér èr áo ， fēi shé shàn zhī xué wú kě jì tuō zhě ， yòng xīn zào yě 。",
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 22,
-              "content": "判断句，‘非……无……者’构成否定判断结构，表示‘没有……就无法……’。"
-            }
-          ],
           "notes": [
             {
               "start": 1,
@@ -2921,5 +2161,7 @@
     "背默"
   ],
   "background": "战国时期，许多思想家从不同的立场和角度出发，对当时的社会变革发表各自的主张，并逐渐形成墨家、儒家、道家和法家等不同的派别。荀子是战国后期儒家的代表人物，为了揭示后天学习的重要意义，他创作了《劝学》一文。",
-  "appreciation": "这篇文章节选自《劝学》，其为一篇论说文，是《荀子》一书的首篇。这篇文章分别从学习的重要性、学习的态度以及学习的内容和方法等方面，全面而深刻地论说了有关学习的问题，较为系统地体现了荀子的教育思想。此文各段的条理十分清楚，基本是每段阐述一个具体问题，而且总在文章的开头、结尾部分作出明确的交代；在文章中，多采用对比、比喻、举例等手法，使语言更加形象生动，增强文字的说服力和趣味性；全文语言精练，设喻贴切，说理深入，结构严谨，代表了先秦论说文成熟阶段的水平。"
+  "appreciation": "这篇文章节选自《劝学》，其为一篇论说文，是《荀子》一书的首篇。这篇文章分别从学习的重要性、学习的态度以及学习的内容和方法等方面，全面而深刻地论说了有关学习的问题，较为系统地体现了荀子的教育思想。此文各段的条理十分清楚，基本是每段阐述一个具体问题，而且总在文章的开头、结尾部分作出明确的交代；在文章中，多采用对比、比喻、举例等手法，使语言更加形象生动，增强文字的说服力和趣味性；全文语言精练，设喻贴切，说理深入，结构严谨，代表了先秦论说文成熟阶段的水平。",
+  "annotation": "君子：指有学问有修养的人。学不可以已（yǐ）：学习不能停止。青取之于蓝：靛青，从蓝草中取得。青，靛青，一种染料。蓝，蓼蓝，一年生草本植物，叶子含蓝汁，可以做蓝色染料。中（zhòng）绳：（木材）合乎拉直的墨线。绳，墨线。𫐓（róu）：通“煣”，古代用火烤使木条弯曲的一种工艺。规：圆规，画圆的工具。虽有（yòu）槁暴（pù）：即使又晒干了。有，通“又”。槁，枯。暴，同“曝”，晒干。挺：直。受绳：用墨线量过。金：指金属制的刀剑等。就砺：拿到磨刀石上去磨。砺，磨刀石。就，动词，接近，靠近。日参（cān）省（xǐng）乎己：每天对照反省自己。参，一译检验，检查；二译同“叁”，多次。省，省察。乎，介词，于。博学：广泛地学习。日：每天。知（zhì）：同“智”，见识。须臾（yú）：片刻，一会儿。跂（qǐ）：踮起脚后跟。博见：看见的范围广，见得广。疾：声音洪大。彰：明显，清楚。这里指听得更清楚。假：凭借，利用。舆：车厢，这里指车。利足：脚走得快。水：游泳。绝：横渡。生（xìng）非异：本性（同一般人）没有差别。生，通“性”，天赋，资质。明：明达。行无过：行为没有过错。跬（kuǐ）：行走时两脚之间的距离，等于现在所说的一步、古人所说的半步。步：古人说一步，指左右脚都向前迈一次的距离，等于现在的两步。骐（qí）骥（jì）：骏马，千里马。驽马十驾：劣马拉车连走十天也能到达。驽马：劣马。驾：古代马拉车时，早晨套一上车，晚上卸去。套车叫驾，所以这里用“驾”指代马车一天的行程。十驾就是套十次车，指十天的行程。此指千里的路程。舍：舍弃。指不放弃行路。锲（qiè）：用刀雕刻。镂（lòu）：原指在金属上雕刻，泛指雕刻。蟹六跪而二螯（áo）：螃蟹有六只爪子，两个钳子。六跪：六条腿。蟹实际上是八条腿。跪，蟹脚。一说，海蟹后面的两条腿只能划水，不能用来走路或自卫，所以不能算在“跪”里面。螯，螃蟹等节肢动物身前的大爪，形如钳。蛇鳝：异文“蛇蟮”。躁：浮躁，不专心。",
+  "comprehensive_appreciation": "赏析：开篇“君子曰：学不可以已。”这不但是《劝学》篇的第一句，也是整个《荀子》著作的第一句。荀子认为人的本性是“恶”的，必须用礼义来矫正，所以他特别重视学习。“性恶论”是荀子社会政治思想的出发点，他在著作中首先提出学习不可以停止，就是想抓住关键，解决根本问题。因为他十分重视这个问题，所以他把自己的见解，通过“君子”之口提出来，以示郑重。开头就提出了中心论点，语言简劲，命意深广，因而很自然地引出了下文的滔滔阐述。以“青，取之于蓝，而青于蓝；冰，水为之，而寒于水”，来比喻任何人通过发愤学习，都能进步，今日之我可以胜过昨日之我，学生也可以超过老师。这两个比喻，使学习的人受到很大的启发和鼓舞。不过，要能“青于蓝”“寒于水”，决不是“今日学，明日辍”所能办到的，必须不断地学，也就是说：“学不可以已”。所以，这两个比喻深刻有力地说明了中心论点，催人奋进。接着，文章进一步设喻，从根本上阐明道理：“木直中绳，𫐓以为轮，其曲中规。虽有槁暴，不复挺者，𫐓使之然也。”对学习者更大的鼓励。在强调了学习的重要作用后，文章以设喻引出论断：“故木受绳则直，金就砺则利，君子博学而日参省乎己，则知明而行无过矣。”木材经过墨线量过就会取直，金属制成的刀剑之类拿到磨刀石上去磨就会锋利，这就好比君子广泛学习，而且每天检查省察自己，就会知识通达，行为没有过错。这样以设喻引出论断，显得更有说服力。论断句中的“日”字，与起句“学不可以已”的“已”字，紧密呼应，突出了要“知明而行无过”，就必须不断学习，从而有力地阐明了中心论点。第三段说明了学习在改变人的素质、提高人的智力方面的重大意义。学习意义重大，荀子认为，学习不能单靠坐在房子里苦思冥想，必须利用外界事物，向实际学习。因此，“吾尝终日而思矣，不如须臾之所学也”。荀子以亲身的体验，通过“终日思”与“须臾学”的对比，强调空想不如学习。而这个与空想相对的“学”字，不言而喻，也就是指利用外界事物，向实际学习。这种对于学习的见解，也是荀子基于他的认识论提出来的。荀子否认孟子所说的人有天生的“良知”“良能”，因此他强调从外界实际事物中学习。他在这里提出的“学”的概念，就具有唯物主义因素。接着，连设五喻，展开论证，荀子先从生活经验说起：站在高处望，比踮起脚见得广阔；登高招手，顺风呼喊，手臂并非更长了，声音并非更大了，可是人家却能远远地看到，清楚地听到；可见利用高处、利用顺风的作用之大。推而广之，“假舆马”“假舟楫”的人，也并非善于走路或擅长游泳，可是他们却能“致千里”“绝江河”，由于设喻所用的事例都是日常生活中常见的，因此读起来不但感到亲切，而且觉得可信。随着不断设喻，阐明的道理越来越深入读者心灵，于是水到渠成地得出了结论：“君子生非异也，善假于物也。”这就是说，君子之所以会有超过一般人的才德，就是因为他们善于利用外物来好好学习。推论起来，人如果善于利用外物好好学习，也就可以变为有才德的君子。这与第一段所说的青出于蓝、冰寒于水、直木可“𫐓”为车轮，意脉是一贯的，结构上也是暗相呼应的。此外，荀子把“所学”与“善假于物”联系起来，“这意味着学习的目的是要认识客观事物的规律，并利用这些规律性知识去改造客观世界。”（引自严北溟关于《劝学》的说明）这与他的“制天命”的思想也是联系着的。这一段说明学习必须善于利用外物。最后一段阐述学习必须专心一致、锲而不舍。人们在从外界实际事物中学习的时候，还有需要注意的地方，所以，这一段作了进一步的说明，主要写了两个方面：一个是“积”，一个是“一”。文章先设两喻引出论点：“积土成山，风雨兴焉；积水成渊，蛟龙生焉；积善成德，而神明自得，圣心备焉。”这说明学习要注意积累。荀子根本不承认“天生圣人”的说法，他指出人只要努力学习，“积善积德”，就可以具备圣人的思想。圣人也是不断学习而成的，正如他在《性恶》篇中所说的：“积善不息”，“涂之人可以为禹”。他充分强调“积善”的作用，这与开头提出的“学不可以已”也是一脉相承、遥相呼应的。在笔法上，以设喻引出论点，更加强了论点的语势，使论点一出现就具有一定的说服力。接着，文章又进行申述：“故不积跬步，无以至千里；不积小流，无以成江海。”这是从反面设喻来说明积累的重要。经过一正一反的设喻，学习要注意积累的道理已初步阐明，但是为了深入说明，文章又反复设喻对比：先以“骐骥一跃，不能十步”与“驽马十驾，功在不舍”相比，再以“锲而舍之，朽木不折”与“锲而不舍，金石可镂”相比，从而充分显示出“不舍”的重大意义，而学习要注意积累的道理，也得到了进一步的证明。当然，学习要做到“不舍”，要不断积累，那就必须专一，不能浮躁。因此，文章再以“蚓无爪牙之利，筋骨之强”，能够“上食埃土，下饮黄泉”与“蟹六跪而二螯”，却“非蛇蟮之穴无可寄托”进行对比，说明学习必须专心致志，不能粗心浮气。这两个比喻，强调了学习必须坚持不懈，并照应了上文的层层论述。通过这一段的层层比喻，可以清楚地理解学习必须持之以恒。至此，开篇提出的“学不可以已”的中心论点，已得到了深入的阐发和充分的证明。这篇文章各段的条理十分清楚，基本上是每段阐述一个具体问题，而且总在文章的开头、结尾部分作出明确的交代。在文章中，作者有时又采用对比的方法，将两种相反的情况组织在一起，形成鲜明对照，以增强文字的说服力。例如，在强调学习必须持之以恒、用心专一时，他不但用了一些并列的比喻，也用了好些相反相成的比喻，他列举了“骐骥一跃，不能十步”和“驽马十驾，功在不舍”；“锲而舍之，朽木不折”和“锲而不舍，金石可镂”；以及“无爪牙之利，筋骨之强”的蚯蚓，竟能在地下来去自如，而“六跪而二螯”的螃蟹，却连一个容身的小洞也掘不好。这就表明，“积”与“不积”所产生的效果是截然相反的。在荀子哲学思想中，“积”字是一个重要观点。"
 }
