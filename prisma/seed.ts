@@ -162,7 +162,7 @@ export async function main() {
     // 处理历史事件数据
     const eventPath = path.join(basePath, 'event', 'index.json')
     const eventData = readJsonFile(eventPath)
-    
+
     if (eventData && Array.isArray(eventData)) {
         for (const event of eventData) {
             await prisma.event.create({
@@ -178,8 +178,164 @@ export async function main() {
             })
         }
     }
-    
+
+    // 处理默写真题数据（scripts/dictation 下的标注结果 + 考察记录）
+    await seedDictations()
+
     console.log('Seed data created successfully from file system')
+}
+
+// ---------- 默写真题导入 ----------
+// 标题归一化：去书名号、空格
+function normalizeTitle(s: string): string {
+    return s.replace(/[《》〈〉\s·]/g, '')
+}
+
+// 从考察路径解析试卷信息：./{category}/语文/{paper}/auto/xxx.md
+function parseAppearancePath(p: string): { category: string; year: number; region: string; paper: string } | null {
+    const m = p.match(/\.\/([^/]+)\/语文\/([^/]+)\//)
+    if (!m) return null
+    const paper = m[2]
+    const ym = paper.match(/(\d{4})/)
+    const region =
+        /北京/.test(paper) ? '北京' :
+        /全国/.test(paper) ? '全国' :
+        /天津/.test(paper) ? '天津' :
+        /上海/.test(paper) ? '上海' :
+        /江苏/.test(paper) ? '江苏' :
+        /海南/.test(paper) ? '海南' : '其他'
+    return {
+        category: m[1],
+        year: ym ? parseInt(ym[1], 10) : 0,
+        region,
+        paper
+    }
+}
+
+async function seedDictations() {
+    const dictDir = path.join(__dirname, '../scripts/dictation')
+    const annotated = readJsonFile(path.join(dictDir, 'dictations_annotated.json'))
+    const fullData = readJsonFile(path.join(dictDir, 'dictations_full.json'))
+    if (!annotated || !Array.isArray(fullData)) {
+        console.log('⚠️ 默写数据文件缺失，跳过')
+        return
+    }
+
+    await prisma.dictationAppearance.deleteMany()
+    await prisma.dictation.deleteMany()
+
+    // 数据库篇名映射：归一化标题 → { title, version }，同标题多版本时 senior 优先
+    const poems = await prisma.poem.findMany({ select: { title: true, version: true } })
+    const poemByNorm = new Map<string, { title: string; version: string }>()
+    for (const p of poems) {
+        const key = normalizeTitle(p.title)
+        const cur = poemByNorm.get(key)
+        if (!cur || (cur.version !== 'senior' && p.version === 'senior')) {
+            poemByNorm.set(key, { title: p.title, version: p.version })
+        }
+    }
+
+    // 出处篇名 → 数据库篇名（精确归一化匹配，其次双向包含，避免短标题误配要求 ≥3 字）
+    function resolvePoem(title: string | undefined): { title: string; version: string } | null {
+        if (!title) return null
+        const key = normalizeTitle(title)
+        const exact = poemByNorm.get(key)
+        if (exact) return exact
+        for (const [norm, info] of poemByNorm) {
+            if (key.length >= 3 && (norm.includes(key) || key.includes(norm))) return info
+        }
+        return null
+    }
+
+    // full 数据按 id 与 content 建立索引（annotated 的 key 与 full 数组下标不对应）
+    const fullById = new Map<number, any>(fullData.map((x: any) => [x.id, x]))
+    const fullByContent = new Map<string, any[]>()
+    for (const x of fullData) {
+        if (!fullByContent.has(x.content)) fullByContent.set(x.content, [])
+        fullByContent.get(x.content)!.push(x)
+    }
+
+    // 手动拆分拼接长句产生的条目（条目 id >= 2088，full 中无记录）：
+    // 考察列表继承其前一个原始条目（id < 2088）在 full 中的记录
+    const MANUAL_ID = 2088
+    let prevOriginalId: number | null = null
+    const inheritedId = new Map<object, number>()
+    for (const v of Object.values<any>(annotated)) {
+        if (typeof v.id === 'number' && v.id >= MANUAL_ID) {
+            if (prevOriginalId !== null) inheritedId.set(v, prevOriginalId)
+        } else {
+            prevOriginalId = v.id
+        }
+    }
+
+    // 标注数据中存在同句多条（如 db 与 ai 各标注一次），按 content 合并：
+    // 主条目按 sourceType 可信度 db > db-revised > ai 取，考察记录按卷名去重合并
+    const sourceRank: Record<string, number> = { db: 0, 'db-revised': 1, ai: 2, none: 3 }
+    const groups = new Map<string, any[]>()
+    for (const v of Object.values<any>(annotated)) {
+        if (!groups.has(v.content)) groups.set(v.content, [])
+        groups.get(v.content)!.push(v)
+    }
+    const merged = [...groups.values()].map(vs =>
+        vs.sort((a, b) => (sourceRank[a.sourceType] ?? 9) - (sourceRank[b.sourceType] ?? 9) || a.id - b.id)
+    )
+    const mergedCount = annotated ? Object.values<any>(annotated).length - merged.length : 0
+
+    let appearanceCount = 0
+    let linkedCount = 0
+    for (const vs of merged) {
+        const v = vs[0]
+        const poem = resolvePoem(v.source?.title)
+        if (poem) linkedCount++
+
+        // 组内所有条目对应的 full 记录都参与考察合并（手动条目用继承的 id 查）
+        const fullEntries: any[] = []
+        const seenFull = new Set<number>()
+        for (const x of vs) {
+            const lookupId = typeof x.id === 'number' && x.id >= MANUAL_ID ? inheritedId.get(x) : x.id
+            const fs = (lookupId !== undefined && fullById.get(lookupId)) ? [fullById.get(lookupId)] : (fullByContent.get(x.content) || [])
+            for (const f of fs) {
+                if (f && !seenFull.has(f.id)) {
+                    seenFull.add(f.id)
+                    fullEntries.push(f)
+                }
+            }
+        }
+
+        await prisma.dictation.create({
+            data: {
+                id: v.id,
+                content: v.content,
+                revised: v.revised || null,
+                sourceType: v.sourceType,
+                note: v.note || null,
+                title: v.source?.title || null,
+                author: v.source?.author || null,
+                dynasty: v.source?.dynasty || null,
+                poemTitle: poem?.title || null,
+                poemVersion: poem?.version || null,
+                appearances: {
+                    create: (() => {
+                        const seen = new Set<string>()
+                        const rows: any[] = []
+                        for (const f of fullEntries) {
+                            if (!f || !Array.isArray(f.appearance)) continue
+                            for (const a of f.appearance) {
+                                const parsed = parseAppearancePath(a.path)
+                                if (!parsed || seen.has(parsed.paper)) continue
+                                seen.add(parsed.paper)
+                                rows.push(parsed)
+                            }
+                        }
+                        appearanceCount += rows.length
+                        return rows
+                    })()
+                }
+            }
+        })
+    }
+
+    console.log(`默写数据导入完成：${merged.length} 句（合并 ${mergedCount} 条重复），${appearanceCount} 条考察记录，${linkedCount} 句可跳转诗文页`)
 }
 
 main()

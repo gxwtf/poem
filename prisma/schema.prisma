@@ -132,3 +132,37 @@ model Event {
 
     @@map("events")
 }
+
+// 默写真题句（scripts/dictation/dictations_annotated.json 导入）
+model Dictation {
+    id          Int      @id // 沿用标注数据的原始 id
+    content     String // 试卷上的默写原句
+    revised     String? // 修订后的正确句子（与原文一致时为空）
+    sourceType  String // "db" | "db-revised" | "ai" | "none"
+    note        String?
+    title       String? // 出处篇名（标注结果）
+    author      String?
+    dynasty     String?
+    poemTitle   String? // 数据库中的篇名（可跳转时）
+    poemVersion String? // 跳转版本，多版本时优先 senior
+    appearances DictationAppearance[]
+
+    @@index([sourceType])
+    @@map("dictations")
+}
+
+// 默写句的考察记录（试卷信息，从 dictations_full.json 的 path 解析）
+model DictationAppearance {
+    id          Int        @id @default(autoincrement())
+    dictation   Dictation  @relation(fields: [dictationId], references: [id], onDelete: Cascade)
+    dictationId Int
+    category    String // "真题" | "一模" | "二模" | "上期末" | "下期末"
+    year        Int
+    region      String // "北京" | "全国" | "天津" | "上海" | "其他" ...
+    paper       String // 卷名，如 "2022全国甲卷高考真题语文（教师版）"
+
+    @@index([dictationId])
+    @@index([year])
+    @@index([region])
+    @@map("dictation_appearances")
+}

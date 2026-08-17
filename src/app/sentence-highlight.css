@@ -9,6 +9,16 @@
     background-color: oklch(0.3 0.02 0) !important;
 }
 
+/* 跳转定位高亮（?highlight= 文本匹配，如默写页/收藏页跳入） */
+[data-char].jump-highlight {
+    background-color: oklch(0.92 0.07 95) !important;
+    border-radius: 2px;
+}
+
+.dark [data-char].jump-highlight {
+    background-color: oklch(0.45 0.07 95) !important;
+}
+
 /* 波浪线画在每个 [data-char]::after 上 */
 /* 不再使用 .sentence-highlight 包裹元素，直接用 [data-highlight-id] 属性选择器 */
 [data-char][data-highlight-id]::after {

@@ -48,6 +48,10 @@ const data = {
                     title: "收藏",
                     url: "/star/poem",
                 },
+                {
+                    title: "默写整理",
+                    url: "/dictation",
+                },
             ],
         },
         {

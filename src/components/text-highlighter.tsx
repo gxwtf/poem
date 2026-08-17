@@ -217,28 +217,67 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         }
     }, [applyHighlights])
 
-    // 从收藏页跳转时自动滚动到高亮句子（仅首次加载，等 highlights 就绪后执行一次）
+    // 从收藏页/默写页跳转时自动滚动定位（仅首次加载；offset 优先，否则按 highlight 文本匹配）
     const hasScrolledRef = useRef(false)
     useEffect(() => {
         if (!scrollToText || hasScrolledRef.current) return
-        if (highlights.length === 0) return // 等数据加载完
-        hasScrolledRef.current = true
-        const timer = setTimeout(() => {
-            if (scrollOffset !== null) {
-                const offset = parseInt(scrollOffset, 10)
-                const el = containerRef.current?.querySelector(`[data-char][data-char-offset="${offset}"]`)
-                if (el) {
-                    el.scrollIntoView({ behavior: "smooth", block: "center" })
+        let attempts = 0
+        let timer: ReturnType<typeof setTimeout> | undefined
+
+        // 按 highlight 文本匹配：忽略标点/分行差异，只比较汉字数字序列
+        const locateByText = (): boolean => {
+            const container = containerRef.current
+            if (!container) return false
+            const { els } = getCharElements(container)
+            const norm = (s: string) => s.replace(/[^\p{L}\p{N}]/gu, '')
+            const target = norm(scrollToText)
+            if (!target) return false
+            const idxMap: number[] = []
+            let normText = ''
+            els.forEach((el, i) => {
+                const c = norm(el.dataset.char ?? '')
+                if (c) {
+                    normText += c
+                    idxMap.push(i)
+                }
+            })
+            const idx = normText.indexOf(target)
+            if (idx === -1) return false
+            const first = idxMap[idx]
+            const last = idxMap[idx + target.length - 1]
+            for (let k = first; k <= last; k++) {
+                els[k].classList.add("jump-highlight")
+            }
+            els[first].scrollIntoView({ behavior: "smooth", block: "center" })
+            return true
+        }
+
+        const run = () => {
+            const container = containerRef.current
+            if (container) {
+                if (scrollOffset !== null) {
+                    const el = container.querySelector(`[data-char][data-char-offset="${scrollOffset}"]`)
+                    if (el) {
+                        el.scrollIntoView({ behavior: "smooth", block: "center" })
+                        hasScrolledRef.current = true
+                        return
+                    }
+                }
+                if (locateByText()) {
+                    hasScrolledRef.current = true
                     return
                 }
             }
-            const el = containerRef.current?.querySelector(`[data-char][data-highlight-id]`)
-            if (el) {
-                el.scrollIntoView({ behavior: "smooth", block: "center" })
+            // 诗文尚未渲染完成，等待后重试
+            if (++attempts < 20) {
+                timer = setTimeout(run, 300)
+            } else {
+                hasScrolledRef.current = true
             }
-        }, 300)
+        }
+        run()
         return () => clearTimeout(timer)
-    }, [scrollToText, scrollOffset, highlights])
+    }, [scrollToText, scrollOffset])
 
     // 监听文本选择和点击
     useEffect(() => {

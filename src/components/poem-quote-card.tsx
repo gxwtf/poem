@@ -13,6 +13,11 @@ interface PoemQuoteCardProps {
     author: string
     dynasty?: string
     quote: string
+    href?: string // 指定时优先于默认的相对跳转
+    unlinked?: boolean // 为 true 时不跳转
+    quoteExtra?: React.ReactNode // 正文下方附加内容
+    footerExtra?: React.ReactNode // 页脚左侧附加内容
+    footerNote?: React.ReactNode // 替代默认出处行
 }
 
 export function PoemQuoteCard({
@@ -20,21 +25,29 @@ export function PoemQuoteCard({
     version,
     author,
     dynasty,
-    quote
+    quote,
+    href,
+    unlinked,
+    quoteExtra,
+    footerExtra,
+    footerNote
 }: PoemQuoteCardProps) {
     const router = useRouter()
     return (
         <Card
-            className="border-l-4 border-l-[var(--theme-color)]"
+            className={`border-l-4 border-l-[var(--theme-color)] ${unlinked ? '' : 'cursor-pointer'}`}
             onClick={(e) => {
+                if (unlinked) return
                 if (!(e.target as HTMLElement).closest('.no-navigate')) {
-                    router.push(`../${version}/${title}`)
+                    router.push(href || `../${version}/${title}`)
                 }
             }}
         >
             <CardContent className="truncate text-lg">{quote}</CardContent>
+            {quoteExtra && <CardContent className="text-sm text-muted-foreground -mt-3">{quoteExtra}</CardContent>}
             <CardFooter className="truncate text-sm text-muted-foreground mt-auto justify-end">
-                ——{dynasty ? `【${dynasty}】` : ""}{author}《{title}》
+                {footerExtra && <div className="mr-auto no-navigate truncate">{footerExtra}</div>}
+                {footerNote ? footerNote : <>——{dynasty ? `【${dynasty}】` : ""}{author}《{title}》</>}
             </CardFooter>
         </Card>
     )
