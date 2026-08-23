@@ -16,15 +16,16 @@ export async function GET(request: NextRequest) {
                 sourceType: sourceType || undefined
             },
             include: {
-                appearances: {
-                    select: {
-                        category: true,
-                        year: true,
-                        region: true,
-                        paper: true
-                    }
-                }
-            },
+                        appearances: {
+                            select: {
+                                category: true,
+                                grade: true,
+                                year: true,
+                                region: true,
+                                paper: true
+                            }
+                        }
+                    },
             take
         })
 

@@ -157,8 +157,9 @@ model DictationAppearance {
     dictation   Dictation  @relation(fields: [dictationId], references: [id], onDelete: Cascade)
     dictationId Int
     category    String // "真题" | "一模" | "二模" | "上期末" | "下期末"
+    grade       String // "高一" | "高二" | "高三"（真题/一模/二模均属高三，期末按卷名）
     year        Int
-    region      String // "北京" | "全国" | "天津" | "上海" | "其他" ...
+    region      String // "北京" | "全国" | "天津" | "上海" | "江苏" | "海南" | "其他" ...
     paper       String // 卷名，如 "2022全国甲卷高考真题语文（教师版）"
 
     @@index([dictationId])

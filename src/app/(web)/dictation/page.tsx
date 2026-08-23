@@ -16,6 +16,7 @@ import {
 
 interface Appearance {
     category: string
+    grade: string
     year: number
     region: string
     paper: string
@@ -46,6 +47,7 @@ export default function DictationPage() {
     const [yearRange, setYearRange] = useState("all")
     const [region, setRegion] = useState("all")
     const [category, setCategory] = useState("all")
+    const [grade, setGrade] = useState("all")
 
     useEffect(() => {
         fetch("/api/dictations")
@@ -80,7 +82,7 @@ export default function DictationPage() {
         })
     }, [dictations])
 
-    const filterActive = yearRange !== "all" || region !== "all" || category !== "all"
+    const filterActive = yearRange !== "all" || region !== "all" || category !== "all" || grade !== "all"
 
     // 按筛选条件统计每句考察次数并排序
     const filtered = useMemo(() => {
@@ -89,17 +91,18 @@ export default function DictationPage() {
             const apps = d.appearances.filter(a =>
                 a.year >= yearFrom &&
                 (region === "all" || a.region === region) &&
-                (category === "all" || a.category === category)
+                (category === "all" || a.category === category) &&
+                (grade === "all" || a.grade === grade)
             )
             return { d, count: apps.length }
         })
         const shown = filterActive ? rows.filter(r => r.count > 0) : rows
         shown.sort((x, y) => y.count - x.count || y.d.appearances.length - x.d.appearances.length || x.d.id - y.d.id)
         return shown
-    }, [dictations, yearRange, region, category, filterActive, maxYear])
+    }, [dictations, yearRange, region, category, grade, filterActive, maxYear])
 
     // 筛选变化时重置分页
-    useEffect(() => setVisible(PAGE_SIZE), [yearRange, region, category])
+    useEffect(() => setVisible(PAGE_SIZE), [yearRange, region, category, grade])
 
     return (
         <>
@@ -153,6 +156,20 @@ export default function DictationPage() {
                                     {categoryOptions.map(c => (
                                         <SelectItem key={c} value={c}>{c}</SelectItem>
                                     ))}
+                                </SelectContent>
+                            </Select>
+                        </div>
+                        <div className="space-y-1">
+                            <Label className="text-xs text-muted-foreground">年级</Label>
+                            <Select value={grade} onValueChange={setGrade}>
+                                <SelectTrigger className="w-24">
+                                    <SelectValue />
+                                </SelectTrigger>
+                                <SelectContent>
+                                    <SelectItem value="all">全部</SelectItem>
+                                    <SelectItem value="高三">高三</SelectItem>
+                                    <SelectItem value="高二">高二</SelectItem>
+                                    <SelectItem value="高一">高一</SelectItem>
                                 </SelectContent>
                             </Select>
                         </div>

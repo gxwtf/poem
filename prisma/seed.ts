@@ -192,7 +192,7 @@ function normalizeTitle(s: string): string {
 }
 
 // 从考察路径解析试卷信息：./{category}/语文/{paper}/auto/xxx.md
-function parseAppearancePath(p: string): { category: string; year: number; region: string; paper: string } | null {
+function parseAppearancePath(p: string): { category: string; grade: string; year: number; region: string; paper: string } | null {
     const m = p.match(/\.\/([^/]+)\/语文\/([^/]+)\//)
     if (!m) return null
     const paper = m[2]
@@ -204,8 +204,15 @@ function parseAppearancePath(p: string): { category: string; year: number; regio
         /上海/.test(paper) ? '上海' :
         /江苏/.test(paper) ? '江苏' :
         /海南/.test(paper) ? '海南' : '其他'
+    // 年级：真题/一模/二模均为高三；期末按卷名中的年级关键词
+    const grade =
+        ['真题', '一模', '二模'].includes(m[1]) ? '高三' :
+        /高三/.test(paper) ? '高三' :
+        /高二/.test(paper) ? '高二' :
+        /高一/.test(paper) ? '高一' : '高三'
     return {
         category: m[1],
+        grade,
         year: ym ? parseInt(ym[1], 10) : 0,
         region,
         paper
