@@ -209,7 +209,7 @@ export default function DictationPage() {
                                             <span className="flex items-center gap-1.5">
                                                 {count > 0 && (
                                                     <Badge variant="secondary" className="font-normal">
-                                                        考察 {count} 次
+                                                        考查 {count} 次
                                                     </Badge>
                                                 )}
                                                 {d.note?.includes("人工核查") && (
