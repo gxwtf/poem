@@ -44,7 +44,7 @@ export async function POST(request: NextRequest) {
             session.email = res.data.userEmail;
             session.grade = res.data.grade || 7;
             session.counter = 0;
-            session.version = session.grade >= 10 ? 'senior' : 'junior';
+            session.version = (session.grade ?? 13) >= 10 ? 'senior' : 'junior';
             await session.save();
 
             // 在响应头中添加版本信息，客户端可以在登录后同步到localStorage
@@ -65,7 +65,7 @@ export async function POST(request: NextRequest) {
 export async function PATCH() {
     const session = await getIronSession<SessionData>(await cookies(), sessionOptions);
 
-    session.counter++;
+    session.counter = (session.counter ?? 0) + 1;
     await session.save();
 
     return Response.json(session);

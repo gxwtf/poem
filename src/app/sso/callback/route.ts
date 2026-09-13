@@ -43,7 +43,7 @@ export async function GET(request: NextRequest) {
             session.email = res.data.userEmail;
             session.grade = res.data.grade || 7;
             session.counter = 0;
-            session.version = session.grade >= 10 ? 'senior' : 'junior';
+            session.version = (session.grade ?? 13) >= 10 ? 'senior' : 'junior';
             await session.save();
 
             return NextResponse.redirect(new URL(back + '?alert=登录成功&alerttype=normal&alertsec=欢迎回来！', 'http://'+host), 302);

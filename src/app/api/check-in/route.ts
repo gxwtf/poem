@@ -126,13 +126,15 @@ export async function POST() {
         const randomQuote = quotes[Math.floor(Math.random() * quotes.length)]
 
         // 创建签到记录
-        await prisma.checkIn.create({
-            data: {
-                userId: session.userid,
-                date: new Date(),
-                quoteId: randomQuote.id  // 添加quoteId
-            }
-        })
+        if (session.userid) {
+            await prisma.checkIn.create({
+                data: {
+                    userId: session.userid,
+                    date: new Date(),
+                    quoteId: randomQuote.id  // 添加quoteId
+                }
+            })
+        }
 
         return NextResponse.json({
             success: true,

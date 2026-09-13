@@ -108,6 +108,12 @@ export function NavUser({
                     会员中心
                   </Link>
                 </DropdownMenuItem> : null}
+                <DropdownMenuItem asChild>
+                  <Link href="https://gxwtf.cn/feedback/new">
+                    <BadgeCheck />
+                    网站反馈
+                  </Link>
+                </DropdownMenuItem>
               </DropdownMenuGroup>
               <DropdownMenuSeparator />
               <DropdownMenuItem onClick={(e) => {
