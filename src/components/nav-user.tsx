@@ -7,7 +7,6 @@ import {
   User,
   LogIn,
   LogOut,
-  MessageSquare,
 } from "lucide-react"
 
 import {
@@ -109,12 +108,6 @@ export function NavUser({
                     会员中心
                   </Link>
                 </DropdownMenuItem> : null}
-                <DropdownMenuItem asChild>
-                  <Link href="https://gxwtf.cn/feedback/new">
-                    <MessageSquare />
-                    网站反馈
-                  </Link>
-                </DropdownMenuItem>
               </DropdownMenuGroup>
               <DropdownMenuSeparator />
               <DropdownMenuItem onClick={(e) => {

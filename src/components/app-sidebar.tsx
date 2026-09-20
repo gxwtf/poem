@@ -6,6 +6,7 @@ import {
     Gamepad2,
     LifeBuoy,
     Send,
+    CircleStop,
     Tag,
     UserPen,
 	BookOpenText,
@@ -137,20 +138,20 @@ const data = {
         },
     ],
     navSecondary: [
-        // {
-        //     title: "帮助",
-        //     url: "https://docs.gxwtf.cn/",
-        //     icon: LifeBuoy,
-        // },
-        // {
-        //     title: "反馈",
-        //     url: "https://docs.gxwtf.cn/#/community/",
-        //     icon: Send,
-        // },
+        {
+            title: "帮助",
+            url: "https://docs.gxwtf.cn/#/poem/",
+            icon: LifeBuoy,
+        },
+        {
+            title: "反馈",
+            url: "https://gxwtf.cn/feedback/new",
+            icon: Send,
+        },
         {
             title: "广学五题坊",
             url: "https://gxwtf.cn/",
-            icon: Star,
+            icon: CircleStop,
         }
     ],
 	projects: []
