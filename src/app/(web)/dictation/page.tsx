@@ -110,7 +110,6 @@ export default function DictationPage() {
                 now="默写整理"
                 data={[
                     { name: "古诗文", href: "/overview" },
-                    { name: "默写整理", href: "/dictation" },
                 ]}
             />
             <div className="p-2 sm:p-4 md:p-6">

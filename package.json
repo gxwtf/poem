@@ -1,6 +1,6 @@
 {
     "name": "gxwtf_poem",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "private": true,
     "scripts": {
         "generate:overview": "tsx scripts/generate-overview.tsx",
