@@ -14,7 +14,7 @@ function encode(str) {
   if (!str) return "";
   return str
     .replace(/\\/g, "\\\\")
-    .replace(/(?<=.)(?<!\n)\s*([（(]\s*(?:\d+|[一二三四五六七八九十]+)\s*[）)])/g, "\n$1")
+    .replace(/(?<=.)(?<!\n)\s*([（(]\s*(?:\d+|[一二三四五六七八九十]+)\s*[）)]|[⑴-⒇])/g, "\n$1")
     .replace(/\n/g, "\n\n")
     .replace(/([`*_{}[\]()<>+.!|-])/g, "\\$1");
 }
