@@ -1,6 +1,6 @@
 {
   "name": "关雎",
-  "author": "佚名",
+  "author": "诗经·国风·周南",
   "dynasty": "先秦",
   "mode": "poem",
   "paragraphs": [
@@ -11,192 +11,110 @@
             {
               "char": "关",
               "pinyin": "guān",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "关",
               "pinyin": "guān",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "雎",
               "pinyin": "jū",
-              "index": 2,
-              "read": true,
-              "write": true
+              "index": 2
             },
             {
               "char": "鸠",
               "pinyin": "jiū",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "河",
               "pinyin": "hé",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "洲",
               "pinyin": "zhōu",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "。",
-              "index": 9,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 9
             }
           ],
-          "translation": "关关和鸣的雎鸠，相伴在河中的小洲。",
-          "pinyin": "guān guān jū jiū zài hé zhī zhōu 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "关关：拟声词，形容雎鸠鸟相互和鸣的声音，用于起兴。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "雎鸠：一种水鸟，相传雌雄成双成对，象征忠贞爱情。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 5,
-              "end": 9,
-              "content": "‘在河之洲’为状语后置句，正常语序应为‘在洲之河’，即‘在河中之洲’。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "关关和鸣的雎鸠，栖息在河中的小洲。"
+        },
         {
           "content": [
             {
               "char": "窈",
               "pinyin": "yǎo",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "窕",
               "pinyin": "tiǎo",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "淑",
               "pinyin": "shū",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "好",
               "pinyin": "hǎo",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "逑",
               "pinyin": "qiú",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "。",
-              "index": 19,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 19
             }
           ],
-          "translation": "那美丽贤淑的女子，是君子的好配偶。",
-          "pinyin": "yǎo tiǎo shū nǚ jūn zǐ hǎo qiú 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "窈窕：联绵词，形容女子文静美好，非现代‘身材苗条’之意。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "淑：善良、贤惠，强调女子品德之美。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "好逑：理想的配偶。‘逑’通‘仇’，匹配之意。"
-            }
-          ]
+          "translation": "贤良美好的女子，是君子好的配偶。"
         }
       ]
     },
@@ -207,192 +125,110 @@
             {
               "char": "参",
               "pinyin": "cēn",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "差",
               "pinyin": "cī",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "荇",
               "pinyin": "xìng",
-              "index": 22,
-              "read": true,
-              "write": true
+              "index": 22
             },
             {
               "char": "菜",
               "pinyin": "cài",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "左",
               "pinyin": "zuǒ",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "右",
               "pinyin": "yòu",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "流",
               "pinyin": "liú",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "。",
-              "index": 29,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 29
             }
           ],
-          "translation": "参差不齐的荇菜，从左到右去捞它。",
-          "pinyin": "cēn cī xìng cài zuǒ yòu liú zhī 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "参差：长短不齐的样子，常修饰植物形态。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "荇菜：多年生水生植物，可食用，古代常用于祭祀。"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "content": "流：捞取、顺水摘取，非‘流动’之意。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 7,
-              "old": "捞取"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "流动"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "参差不齐的荇菜，时而向左、时而向右去摘取。"
+        },
         {
           "content": [
             {
               "char": "窈",
               "pinyin": "yǎo",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "窕",
               "pinyin": "tiǎo",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "淑",
               "pinyin": "shū",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "寤",
               "pinyin": "wù",
-              "index": 35,
-              "read": true,
-              "write": true
+              "index": 35
             },
             {
               "char": "寐",
               "pinyin": "mèi",
-              "index": 36,
-              "read": true,
-              "write": true
+              "index": 36
             },
             {
               "char": "求",
               "pinyin": "qiú",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "。",
-              "index": 39,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 39
             }
           ],
-          "translation": "那美丽贤淑的女子，醒来睡去都想追求她。",
-          "pinyin": "yǎo tiǎo shū nǚ wù mèi qiú zhī 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "寤寐：醒与睡，指日夜、无时无刻，表达思念之深。"
-            }
-          ]
+          "translation": "贤良美好的女子，日日夜夜都想追求她。"
         }
       ]
     },
@@ -403,175 +239,110 @@
             {
               "char": "求",
               "pinyin": "qiú",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "寤",
               "pinyin": "wù",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "寐",
               "pinyin": "mèi",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "思",
               "pinyin": "sī",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "服",
               "pinyin": "fú",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "。",
-              "index": 49,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 49
             }
           ],
-          "translation": "追求却没法得到，白天黑夜便总思念她。",
-          "pinyin": "qiú zhī bù dé wù mèi sī fú 。",
-          "notes": [
-            {
-              "start": 8,
-              "end": 9,
-              "content": "思服：思念。‘服’在此处为思念义，与‘思’同义复用。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "追求却没法得到，日日夜夜总思念她。"
+        },
         {
           "content": [
             {
               "char": "悠",
               "pinyin": "yōu",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "哉",
               "pinyin": "zāi",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "悠",
               "pinyin": "yōu",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "哉",
               "pinyin": "zāi",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "辗",
               "pinyin": "zhǎn",
-              "index": 55,
-              "read": true,
-              "write": true
+              "index": 55
             },
             {
               "char": "转",
               "pinyin": "zhuǎn",
-              "index": 56,
-              "read": true,
-              "write": true
+              "index": 56
             },
             {
               "char": "反",
               "pinyin": "fǎn",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "侧",
               "pinyin": "cè",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "。",
-              "index": 59,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 59
             }
           ],
-          "translation": "长长的思念哟，叫人翻来覆去难睡下。",
-          "pinyin": "yōu zāi yōu zāi zhǎn zhuǎn fǎn cè 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "content": "悠哉悠哉：感叹词，形容思念之情绵延不绝。‘悠’作忧思解，非悠闲。"
-            },
-            {
-              "start": 5,
-              "end": 8,
-              "content": "辗转反侧：翻来覆去睡不着，形容内心焦虑不安。成语出处。"
-            }
-          ]
+          "translation": "绵绵不断的思念，叫人翻来覆去难入睡。"
         }
       ]
     },
@@ -582,163 +353,110 @@
             {
               "char": "参",
               "pinyin": "cēn",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "差",
               "pinyin": "cī",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "荇",
               "pinyin": "xìng",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "菜",
               "pinyin": "cài",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "左",
               "pinyin": "zuǒ",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "右",
               "pinyin": "yòu",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "采",
               "pinyin": "cǎi",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "。",
-              "index": 69,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 69
             }
           ],
-          "translation": "参差不齐的荇菜，从左到右去采它。",
-          "pinyin": "cēn cī xìng cài zuǒ yòu cǎi zhī 。"
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "参差不齐的荇菜，在船的左右两边摘取。"
+        },
         {
           "content": [
             {
               "char": "窈",
               "pinyin": "yǎo",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "窕",
               "pinyin": "tiǎo",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "淑",
               "pinyin": "shū",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "琴",
               "pinyin": "qín",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "瑟",
               "pinyin": "sè",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "友",
               "pinyin": "yǒu",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "。",
-              "index": 79,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 79
             }
           ],
-          "translation": "那美丽贤淑的女子，奏起琴瑟来亲近她。",
-          "pinyin": "yǎo tiǎo shū nǚ qín sè yǒu zhī 。",
-          "notes": [
-            {
-              "start": 7,
-              "end": 7,
-              "content": "友：以……为友，动词，表示亲近、结交之意。"
-            }
-          ]
+          "translation": "贤良美好的女子，弹琴鼓瑟来亲近她。"
         }
       ]
     },
@@ -749,163 +467,110 @@
             {
               "char": "参",
               "pinyin": "cēn",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "差",
               "pinyin": "cī",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "荇",
               "pinyin": "xìng",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "菜",
               "pinyin": "cài",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "左",
               "pinyin": "zuǒ",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "右",
               "pinyin": "yòu",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "芼",
               "pinyin": "mào",
-              "index": 87,
-              "read": true,
-              "write": true
+              "index": 87
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "。",
-              "index": 89,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 89
             }
           ],
-          "translation": "参差不齐的荇菜，从左到右去拔它。",
-          "pinyin": "cēn cī xìng cài zuǒ yòu mào zhī 。"
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "参差不齐的荇菜，在船的左右两边去挑选它。"
+        },
         {
           "content": [
             {
               "char": "窈",
               "pinyin": "yǎo",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "窕",
               "pinyin": "tiǎo",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "淑",
               "pinyin": "shū",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "钟",
               "pinyin": "zhōng",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "鼓",
               "pinyin": "gǔ",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "乐",
               "pinyin": "lè",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "。",
-              "index": 99,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 99
             }
           ],
-          "translation": "那美丽贤淑的女子，敲起钟鼓来取悦她。",
-          "pinyin": "yǎo tiǎo shū nǚ zhōng gǔ lè zhī 。",
-          "notes": [
-            {
-              "start": 7,
-              "end": 7,
-              "content": "乐：使……快乐，动词使动用法，读作 lè。"
-            }
-          ]
+          "translation": "贤良美好的女子，用钟鼓奏乐来使她快乐。"
         }
       ]
     }
@@ -915,6 +580,9 @@
     "诗",
     "诗经"
   ],
-  "background": "参差荇菜，左右采之。\n窈窕淑女，琴瑟友之。",
-  "appreciation": "《关雎》是中国古代第一部诗歌总集《诗经》中的第一首诗，通常认为这是描写男女恋爱的情歌。此诗首章以关雎鸟相向合鸣，相依相恋，兴起淑女配君子的联想；以下各章，又以采荇菜这一行为兴起主人公对女子疯狂的相思与追求。整首诗情感丰富，文采斐然，艺术手法独特。它巧妙地运用了“兴”的表现手法，使得诗歌灵动且情感充沛；同时，诗歌的语言优美、朗朗上口，双声叠韵和重章叠词反复出现，显著增强了诗歌的音韵美和写人状物、拟声传情的生动性。"
+  "background": "",
+  "appreciation": "《关雎》是中国古代第一部诗歌总集《诗经》中的第一首诗，通常认为这是描写男女恋爱的情歌。此诗首章以关雎鸟相向合鸣，相依相恋，兴起淑女配君子的联想；以下各章，又以采荇菜这一行为兴起主人公对女子疯狂的相思与追求。整首诗情感丰富，文采斐然，艺术手法独特。它巧妙地运用了“兴”的表现手法，使得诗歌灵动且情感充沛；同时，诗歌的语言优美、朗朗上口，双声叠韵和重章叠词反复出现，显著增强了诗歌的音韵美和写人状物、拟声传情的生动性。",
+  "annotation": "关关：象声词，雌雄二鸟相互应和的叫声。雎鸠（jūjiū）：一种水鸟，一般认为就是鱼鹰，传说它们雌雄形影不离。洲：水中的陆地。窈窕（yǎotiǎo）淑女：贤良美好的样子。窈窕，文静美好的样子。窈，深邃，喻女子心灵美；窕，幽美，喻女子仪表美。淑女：善良美好的女子。好逑（hǎoqiú）：好的配偶。逑，配偶。参差：长短不齐的样子。荇（xìng）菜：一种可食的水草。左右流之：时而向左、时而向右地择取荇菜。这里是以勉力求取荇菜，隐喻“君子”努力追求“淑女”。流，求取。之：指荇菜。寤寐（wùmèi）：醒和睡。指日夜。寤，醒觉。寐，入睡。又，马瑞辰《毛诗传笺注通释》说：“寤寐，犹梦寐。”也可通。思服：思念。服，想。《毛传》：“服，思之也。”悠哉（yōuzāi）悠哉：思念之情绵绵不尽，思念深长的样子。悠，忧思的样子。这句是说思念绵绵不断。悠，感思。见《尔雅·释诂》郭璞注。哉，语气助词。悠哉悠哉，犹言“想念呀，想念呀”。辗转反侧：翻覆不能入眠。辗，古字作展。展转，即反侧。反侧，犹翻覆。琴瑟友之：弹琴鼓瑟来亲近她。琴、瑟，皆弦乐器。琴五或七弦，瑟二十五或五十弦。友：用作动词，此处有亲近之意。这句说，用琴瑟来亲近“淑女”。芼（mào）：挑选。钟鼓乐之：用钟奏乐来使她快乐。乐，使动用法，使……快乐。一说通“悦”，可译为“取悦”。",
+  "comprehensive_appreciation": "赏析：《国风·周南·关雎》这首短小的诗篇，在中国文学史上占据着特殊的位置。它是《诗经》的第一篇，而《诗经》是中国文学最古老的典籍。虽然从性质上判断，一些神话故事产生的年代应该还要早些，但作为书面记载，却是较迟的事情。所以差不多可以说，一翻开中国文学的历史，首先遇到的就是《关雎》。通常认为是一首描写男女恋爱的情歌。此诗在艺术上巧妙地采用了“兴”的表现手法。首章以雎鸟相向合鸣，相依相恋，兴起淑女陪君子的联想。以下各章，又以采荇菜这一行为兴起主人公对女子疯狂地相思与追求。全诗语言优美，善于运用双声、叠韵和重叠词，增强了诗歌的音韵美和写人状物、拟声传情的生动性。赏析二：《关雎》是《风》之始也，也是《诗经》第一篇。古人把它冠于三百零五篇之首，说明对它评价很高。《史记·外戚世家》曾经记述说：“《易》基乾坤，《诗》始《关雎》，《书》美厘降……夫妇之际，人道之大伦也。”又《汉书·匡衡传》记载匡衡疏云：“匹配之际，生民之始，万福之原。婚姻之礼正，然后品物遂而天命全。孔子论《诗》，一般都是以《关雎》为始。……此纲纪之首，王教之端也。”他们的着眼点是迂腐的，但对诗的本义的概括却基本正确。问题在于它所表现的是什么样的婚姻。这关系到我们对《风》的理解。朱熹《诗集传》“序”说：“凡诗之所谓风者，多出于里巷歌谣之作，所谓男女相与咏歌，各言其情者也。”又郑樵《通志·乐略·正声序论》说：“《诗》在于声，不在于义，犹今都邑有新声，巷陌竞歌之，岂为其辞义之美哉？直为其声新耳。”朱熹是从诗义方面论述的，郑樵则从声调方面进行解释。我们把二者结合起来，可以认为《风》是一种用地方声调歌唱的表达男女爱情的歌谣。尽管朱熹对《关雎》主题的解释并不如此，但从《关雎》的具体表现看，它确是男女言情之作，是写一个男子对女子爱情的追求。其声、情、文、义俱佳，足以为《风》之始，三百篇之冠。孔子说：“《关雎》乐而不淫，哀而不伤。”（《论语·八佾》）此后，人们评《关雎》，皆“折中于夫子”（《史记·孔子世家》）。但《关雎》究竟如何呢？这首诗原是三章：一章四句，二章八句，三章八句。郑玄从文义上将后二章又各分为两章，共五章，每章四句。现在用郑玄的分法。第一章雎鸠和鸣于河之洲上，其兴淑女配偶不乱，是君子的好匹配。这一章的佳处，在于舒缓平正之音，并以音调领起全篇，形成全诗的基调。以“窈窕淑女，君子好逑”统摄全诗。第二章的“参差荇菜”承“关关雎鸠”而来，也是以洲上生长之物即景生情。“流”，《毛传》训为“求”，不确。因为下文“寤寐求之”已有“求”字，此处不当再有“求”义。“求”字是全篇的中心，整首诗都在表现男子对女子的追求过程，即从深切的思慕到实现结婚的愿望。第三章抒发求之而不得的忧思。这是一篇的关键，最能体现全诗精神。姚际恒《诗经通论》评云：“前后四章，章四句，辞义悉协。今夹此四句于‘寤寐求之’之下，‘友之’、‘乐之’二章之上，承上递下，通篇精神全在此处。盖必着此四句，方使下‘友’、‘乐’二义快足满意。若无此，则上之云‘求’，下之云‘友’、‘乐’，气势弱而不振矣。此古人文章争扼要法，其调亦迫促，与前后平缓之音别。”姚氏对本章在全诗中的重要性分析最为精当。应当补充者，此章不但以繁弦促管振文气，而且写出了生动逼真的形象，即王士祯《渔洋诗话》所谓“《诗》三百篇真如画工之肖物”。林义光《诗经通解》说：“寐始觉而辗转反侧，则身犹在床。”这种对思念情人的心思的描写，可谓“哀而不伤”者也。第四、五章写求而得之的喜悦。“琴瑟友之”、“钟鼓乐之”，都是既得之后的情景。曰“友”，曰“乐”，用字自有轻重、深浅不同。极写快兴满意而又不涉于侈靡，所谓“乐而不淫”。通篇诗是写一个男子对女子的思念和追求过程，写求而不得的焦虑和求而得之的喜悦。",
+  "knowledge": ""
 }

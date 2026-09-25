@@ -34,15 +34,9 @@
             }
           ],
           "translation": {
-            "translation": "我小时候就喜欢学习。"
+            "translation": "我年幼时就非常喜欢读书。"
           },
-          "notes": [
-            {
-              "start": 3,
-              "end": 4,
-              "note": "嗜学：酷爱学习。嗜，特别爱好。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -83,23 +77,9 @@
               "pinyin": "guān"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "家里贫穷，没有办法得到书籍来看。"
-          },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "致书：得到书籍，指买书或借书。致，取得。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "每",
               "pinyin": "měi"
@@ -178,25 +158,9 @@
             }
           ],
           "translation": {
-            "translation": "每次向藏书的人家借书，亲手抄录，计算着日子归还。"
+            "translation": "家境贫穷，无法得到书来看，常常向藏书的人家求借，亲手用笔抄录，计算着日期按时送还。"
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "note": "假借：同义复词，借的意思。假，借。"
-            },
-            {
-              "start": 4,
-              "end": 7,
-              "note": "藏书之家：收藏书籍的人家，指藏书丰富的人。"
-            },
-            {
-              "start": 9,
-              "end": 13,
-              "note": "手自笔录：亲手用笔抄写。手、笔均为名词作状语。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -278,25 +242,9 @@
             }
           ],
           "translation": {
-            "translation": "天气非常寒冷，砚台里的墨都结了冰，手指冻得不能弯曲伸展，也不曾懈怠。"
+            "translation": "冬天非常寒冷，砚台里的墨汁都结了冰，手指冻得不能弯曲和伸直，也不放松抄录书。"
           },
-          "notes": [
-            {
-              "start": 3,
-              "end": 6,
-              "note": "砚冰坚：砚台里的墨汁结成了坚硬的冰。"
-            },
-            {
-              "start": 8,
-              "end": 14,
-              "note": "手指不可屈伸：手指僵硬得不能弯曲和伸直，极言天气寒冷。"
-            },
-            {
-              "start": 15,
-              "end": 18,
-              "note": "弗之怠：不敢放松抄书的事。之，指代抄书；否定句中代词宾语前置。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -314,13 +262,7 @@
             },
             {
               "char": "走",
-              "pinyin": "zǒu",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "走：跑，此处指赶快送去，古义与今义不同。"
-                }
-              ]
+              "pinyin": "zǒu"
             },
             {
               "char": "送",
@@ -360,15 +302,9 @@
             }
           ],
           "translation": {
-            "translation": "抄录完毕，跑着送还，不敢稍微超过约定的日期。"
+            "translation": "抄写完毕后，便马上跑去还书，不敢稍微超过约定的期限。"
           },
-          "notes": [
-            {
-              "start": 10,
-              "end": 11,
-              "note": "逾约：超过约定的期限。逾，超过。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -442,14 +378,10 @@
             }
           ],
           "translation": {
-            "translation": "因此人们大多肯把书借给我，我因此能够看遍各种书籍。"
+            "translation": "因此有很多人都愿意把书借给我，于是我能够遍观群书。"
           },
           "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
+        },
         {
           "sentence": [
             {
@@ -493,101 +425,80 @@
               "pinyin": "dào"
             },
             {
+              "char": " ",
+              "pinyin": "yòu"
+            },
+            {
               "char": "。",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "成年以后，更加仰慕圣贤的学说。"
+            "translation": "成年以后，我更加仰慕古代圣贤的学说，又苦于不能与学识渊博的老师和名人交游，曾经快步赶到数百里以外，拿着经书向乡里有道德学问的前辈请教。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "既加冠：已经成年。古代男子二十岁行加冠礼，表示成年。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "又",
-              "pinyin": "yòu"
-            },
-            {
-              "char": "患",
               "pinyin": "huàn"
             },
             {
-              "char": "无",
+              "char": "患",
               "pinyin": "wú"
             },
             {
-              "char": "硕",
+              "char": "无",
               "pinyin": "shuò"
             },
             {
-              "char": "师",
+              "char": "硕",
               "pinyin": "shī"
             },
             {
-              "char": "名",
+              "char": "师",
               "pinyin": "míng"
             },
             {
-              "char": "人",
+              "char": "名",
               "pinyin": "rén"
             },
             {
-              "char": "与",
+              "char": "人",
               "pinyin": "yǔ"
             },
             {
-              "char": "游",
+              "char": "与",
               "pinyin": "yóu"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "又担心没有大师、名人与我交往。"
-          },
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "note": "患：担心，忧虑。"
-            },
-            {
-              "start": 3,
-              "end": 5,
-              "note": "硕师：学问渊博的老师。硕，大，引申为博大、渊博。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "尝",
+              "char": "游",
               "pinyin": "cháng"
             },
             {
-              "char": "趋",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "尝",
               "pinyin": "qū"
             },
             {
-              "char": "百",
+              "char": "趋",
               "pinyin": "bǎi"
             },
             {
-              "char": "里",
+              "char": "百",
               "pinyin": "lǐ"
             },
             {
-              "char": "外",
+              "char": "里",
               "pinyin": "wài"
+            },
+            {
+              "char": "外",
+              "pinyin": "cóng"
             },
             {
               "char": "，",
@@ -595,39 +506,39 @@
             },
             {
               "char": "从",
-              "pinyin": "cóng"
-            },
-            {
-              "char": "乡",
               "pinyin": "xiāng"
             },
             {
-              "char": "之",
+              "char": "乡",
               "pinyin": "zhī"
             },
             {
-              "char": "先",
+              "char": "之",
               "pinyin": "xiān"
             },
             {
-              "char": "达",
+              "char": "先",
               "pinyin": "dá"
             },
             {
-              "char": "执",
+              "char": "达",
               "pinyin": "zhí"
             },
             {
-              "char": "经",
+              "char": "执",
               "pinyin": "jīng"
             },
             {
-              "char": "叩",
+              "char": "经",
               "pinyin": "kòu"
             },
             {
-              "char": "问",
+              "char": "叩",
               "pinyin": "wèn"
+            },
+            {
+              "char": "问",
+              "pinyin": "xiān"
             },
             {
               "char": "。",
@@ -635,46 +546,35 @@
             }
           ],
           "translation": {
-            "translation": "曾经跑到百里之外，拿着经书向同乡有道德学问的前辈请教。"
+            "translation": "前辈德高望重，门人弟子挤满了他的屋子，他的言辞和脸色从未稍变得缓和。"
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 4,
-              "note": "趋百里外：快步走到百里之外。趋，快走，表示恭敬。"
-            },
-            {
-              "start": 11,
-              "end": 15,
-              "note": "执经叩问：拿着经书请教。执，拿；叩问，询问。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "先",
-              "pinyin": "xiān"
-            },
-            {
-              "char": "达",
               "pinyin": "dá"
             },
             {
-              "char": "德",
+              "char": "达",
               "pinyin": "dé"
             },
             {
-              "char": "隆",
+              "char": "德",
               "pinyin": "lóng"
             },
             {
-              "char": "望",
+              "char": "隆",
               "pinyin": "wàng"
             },
             {
-              "char": "尊",
+              "char": "望",
               "pinyin": "zūn"
+            },
+            {
+              "char": "尊",
+              "pinyin": "mén"
             },
             {
               "char": "，",
@@ -682,31 +582,31 @@
             },
             {
               "char": "门",
-              "pinyin": "mén"
-            },
-            {
-              "char": "人",
               "pinyin": "rén"
             },
             {
-              "char": "弟",
+              "char": "人",
               "pinyin": "dì"
             },
             {
-              "char": "子",
+              "char": "弟",
               "pinyin": "zǐ"
             },
             {
-              "char": "填",
+              "char": "子",
               "pinyin": "tián"
             },
             {
-              "char": "其",
+              "char": "填",
               "pinyin": "qí"
             },
             {
-              "char": "室",
+              "char": "其",
               "pinyin": "shì"
+            },
+            {
+              "char": "室",
+              "pinyin": "wèi"
             },
             {
               "char": "，",
@@ -714,27 +614,27 @@
             },
             {
               "char": "未",
-              "pinyin": "wèi"
-            },
-            {
-              "char": "尝",
               "pinyin": "cháng"
             },
             {
-              "char": "稍",
+              "char": "尝",
               "pinyin": "shāo"
             },
             {
-              "char": "降",
+              "char": "稍",
               "pinyin": "jiàng"
             },
             {
-              "char": "辞",
+              "char": "降",
               "pinyin": "cí"
             },
             {
-              "char": "色",
+              "char": "辞",
               "pinyin": "sè"
+            },
+            {
+              "char": "色",
+              "pinyin": "yú"
             },
             {
               "char": "。",
@@ -742,47 +642,31 @@
             }
           ],
           "translation": {
-            "translation": "前辈德高望重，学生挤满了他的屋子，他从未稍微把言辞放委婉些。"
+            "translation": "我站着陪侍在他左右，提出疑难，询问道理，俯下身子，侧着耳朵恭敬地请教；"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 6,
-              "note": "德隆望尊：道德高、声望重。隆，高；尊，重。"
-            },
-            {
-              "start": 11,
-              "end": 14,
-              "note": "填其室：挤满了他的屋子。形容学生众多。"
-            },
-            {
-              "start": 18,
-              "end": 21,
-              "note": "降辞色：言辞和脸色缓和下来。降，和缓。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "余",
-              "pinyin": "yú"
-            },
-            {
-              "char": "立",
               "pinyin": "lì"
             },
             {
-              "char": "侍",
+              "char": "立",
               "pinyin": "shì"
             },
             {
-              "char": "左",
+              "char": "侍",
               "pinyin": "zuǒ"
             },
             {
-              "char": "右",
+              "char": "左",
               "pinyin": "yòu"
+            },
+            {
+              "char": "右",
+              "pinyin": "yuán"
             },
             {
               "char": "，",
@@ -790,19 +674,19 @@
             },
             {
               "char": "援",
-              "pinyin": "yuán"
-            },
-            {
-              "char": "疑",
               "pinyin": "yí"
             },
             {
-              "char": "质",
+              "char": "疑",
               "pinyin": "zhì"
             },
             {
-              "char": "理",
+              "char": "质",
               "pinyin": "lǐ"
+            },
+            {
+              "char": "理",
+              "pinyin": "fǔ"
             },
             {
               "char": "，",
@@ -810,75 +694,59 @@
             },
             {
               "char": "俯",
-              "pinyin": "fǔ"
-            },
-            {
-              "char": "身",
               "pinyin": "shēn"
             },
             {
-              "char": "倾",
+              "char": "身",
               "pinyin": "qīng"
             },
             {
-              "char": "耳",
+              "char": "倾",
               "pinyin": "ěr"
             },
             {
-              "char": "以",
+              "char": "耳",
               "pinyin": "yǐ"
             },
             {
-              "char": "请",
+              "char": "以",
               "pinyin": "qǐng"
             },
             {
-              "char": "。",
+              "char": "请",
+              "pinyin": "huò"
+            },
+            {
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "我站在旁边侍候，提出疑难，询问道理，俯下身子侧着耳朵请教。"
+            "translation": "有时遇到他大声训斥，我的表情更加恭顺，礼节更加周到，不敢说一个字反驳；"
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 5,
-              "note": "立侍左右：站着在身边侍奉。表示尊敬。"
-            },
-            {
-              "start": 6,
-              "end": 10,
-              "note": "援疑质理：提出疑难，询问道理。援，引出；质，询问。"
-            },
-            {
-              "start": 11,
-              "end": 16,
-              "note": "俯身倾耳以请：弯下身子，侧着耳朵恭敬地请教。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "或",
-              "pinyin": "huò"
-            },
-            {
-              "char": "遇",
               "pinyin": "yù"
             },
             {
-              "char": "其",
+              "char": "遇",
               "pinyin": "qí"
             },
             {
-              "char": "叱",
+              "char": "其",
               "pinyin": "chì"
             },
             {
-              "char": "咄",
+              "char": "叱",
               "pinyin": "duō"
+            },
+            {
+              "char": "咄",
+              "pinyin": "sè"
             },
             {
               "char": "，",
@@ -886,15 +754,15 @@
             },
             {
               "char": "色",
-              "pinyin": "sè"
-            },
-            {
-              "char": "愈",
               "pinyin": "yù"
             },
             {
-              "char": "恭",
+              "char": "愈",
               "pinyin": "gōng"
+            },
+            {
+              "char": "恭",
+              "pinyin": "lǐ"
             },
             {
               "char": "，",
@@ -902,15 +770,15 @@
             },
             {
               "char": "礼",
-              "pinyin": "lǐ"
-            },
-            {
-              "char": "愈",
               "pinyin": "yù"
             },
             {
-              "char": "至",
+              "char": "愈",
               "pinyin": "zhì"
+            },
+            {
+              "char": "至",
+              "pinyin": "bù"
             },
             {
               "char": "，",
@@ -918,75 +786,59 @@
             },
             {
               "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "敢",
               "pinyin": "gǎn"
             },
             {
-              "char": "出",
+              "char": "敢",
               "pinyin": "chū"
             },
             {
-              "char": "一",
+              "char": "出",
               "pinyin": "yī"
             },
             {
-              "char": "言",
+              "char": "一",
               "pinyin": "yán"
             },
             {
-              "char": "以",
+              "char": "言",
               "pinyin": "yǐ"
             },
             {
-              "char": "复",
+              "char": "以",
               "pinyin": "fù"
             },
             {
-              "char": "。",
+              "char": "复",
+              "pinyin": "sì"
+            },
+            {
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "有时遇到他斥责，我的表情更加恭敬，礼节更加周到，不敢说一句话来辩解。"
+            "translation": "等到他高兴了，则又去请教。"
           },
-          "notes": [
-            {
-              "start": 3,
-              "end": 5,
-              "note": "叱咄：大声斥责。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "note": "至：周到，指礼节周全。"
-            },
-            {
-              "start": 16,
-              "end": 20,
-              "note": "不敢出一言以复：不敢说一句话来辩解。复，辩解。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "俟",
-              "pinyin": "sì"
-            },
-            {
-              "char": "其",
               "pinyin": "qí"
             },
             {
-              "char": "欣",
+              "char": "其",
               "pinyin": "xīn"
             },
             {
-              "char": "悦",
+              "char": "欣",
               "pinyin": "yuè"
+            },
+            {
+              "char": "悦",
+              "pinyin": "zé"
             },
             {
               "char": "，",
@@ -994,19 +846,19 @@
             },
             {
               "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "又",
               "pinyin": "yòu"
             },
             {
-              "char": "请",
+              "char": "又",
               "pinyin": "qǐng"
             },
             {
-              "char": "焉",
+              "char": "请",
               "pinyin": "yān"
+            },
+            {
+              "char": "焉",
+              "pinyin": "gù"
             },
             {
               "char": "。",
@@ -1014,33 +866,27 @@
             }
           ],
           "translation": {
-            "translation": "等到他高兴了，就又去请教。"
+            "translation": "所以我虽然愚笨，但最终获得不少教益。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "俟其欣悦：等他高兴的时候。俟，等待。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "故",
-              "pinyin": "gù"
+              "pinyin": "yú"
             },
             {
               "char": "余",
-              "pinyin": "yú"
-            },
-            {
-              "char": "虽",
               "pinyin": "suī"
             },
             {
-              "char": "愚",
+              "char": "虽",
               "pinyin": "yú"
+            },
+            {
+              "char": "愚",
+              "pinyin": "zú"
             },
             {
               "char": "，",
@@ -1048,23 +894,23 @@
             },
             {
               "char": "卒",
-              "pinyin": "zú"
-            },
-            {
-              "char": "获",
               "pinyin": "huò"
             },
             {
-              "char": "有",
+              "char": "获",
               "pinyin": "yǒu"
             },
             {
-              "char": "所",
+              "char": "有",
               "pinyin": "suǒ"
             },
             {
-              "char": "闻",
+              "char": "所",
               "pinyin": "wén"
+            },
+            {
+              "char": "闻",
+              "pinyin": "dāng"
             },
             {
               "char": "。",
@@ -1072,7 +918,7 @@
             }
           ],
           "translation": {
-            "translation": "所以我虽然愚笨，最终能够有所收获。"
+            "translation": "当我外出求师的时候，背着书箱，拖着鞋子，行走在深山峡谷之中。"
           },
           "notes": []
         }
@@ -1084,27 +930,27 @@
           "sentence": [
             {
               "char": "当",
-              "pinyin": "dāng"
-            },
-            {
-              "char": "余",
               "pinyin": "yú"
             },
             {
-              "char": "之",
+              "char": "余",
               "pinyin": "zhī"
             },
             {
-              "char": "从",
+              "char": "之",
               "pinyin": "cóng"
             },
             {
-              "char": "师",
+              "char": "从",
               "pinyin": "shī"
             },
             {
-              "char": "也",
+              "char": "师",
               "pinyin": "yě"
+            },
+            {
+              "char": "也",
+              "pinyin": "fù"
             },
             {
               "char": "，",
@@ -1112,47 +958,43 @@
             },
             {
               "char": "负",
-              "pinyin": "fù"
-            },
-            {
-              "char": "箧",
               "pinyin": "qiè"
             },
             {
-              "char": "曳",
+              "char": "箧",
               "pinyin": "yè"
             },
             {
-              "char": "屣",
+              "char": "曳",
               "pinyin": "xǐ"
             },
             {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "行",
+              "char": "屣",
               "pinyin": "xíng"
             },
             {
-              "char": "深",
+              "char": "行",
               "pinyin": "shēn"
             },
             {
-              "char": "山",
+              "char": "深",
               "pinyin": "shān"
             },
             {
-              "char": "巨",
+              "char": "山",
               "pinyin": "jù"
             },
             {
-              "char": "谷",
+              "char": "巨",
               "pinyin": "gǔ"
             },
             {
-              "char": "中",
+              "char": "谷",
               "pinyin": "zhōng"
+            },
+            {
+              "char": "中",
+              "pinyin": "qióng"
             },
             {
               "char": "。",
@@ -1160,33 +1002,27 @@
             }
           ],
           "translation": {
-            "translation": "当我跟从老师学习时，背着书箱拖着鞋子，行走在深山大谷之中。"
+            "translation": "隆冬时节，刮着猛烈的寒风，雪有好几尺深，脚上的皮肤因寒冷干燥裂开都不知道。"
           },
-          "notes": [
-            {
-              "start": 7,
-              "end": 11,
-              "note": "负箧曳屣：背着书箱，拖着鞋子。形容行路艰苦。负，背；曳，拖。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "穷",
-              "pinyin": "qióng"
-            },
-            {
-              "char": "冬",
               "pinyin": "dōng"
             },
             {
-              "char": "烈",
+              "char": "冬",
               "pinyin": "liè"
             },
             {
-              "char": "风",
+              "char": "烈",
               "pinyin": "fēng"
+            },
+            {
+              "char": "风",
+              "pinyin": "dà"
             },
             {
               "char": "，",
@@ -1194,23 +1030,23 @@
             },
             {
               "char": "大",
-              "pinyin": "dà"
-            },
-            {
-              "char": "雪",
               "pinyin": "xuě"
             },
             {
-              "char": "深",
+              "char": "雪",
               "pinyin": "shēn"
             },
             {
-              "char": "数",
+              "char": "深",
               "pinyin": "shù"
             },
             {
-              "char": "尺",
+              "char": "数",
               "pinyin": "chǐ"
+            },
+            {
+              "char": "尺",
+              "pinyin": "zú"
             },
             {
               "char": "，",
@@ -1218,31 +1054,31 @@
             },
             {
               "char": "足",
-              "pinyin": "zú"
-            },
-            {
-              "char": "肤",
               "pinyin": "fū"
             },
             {
-              "char": "皲",
+              "char": "肤",
               "pinyin": "jūn"
             },
             {
-              "char": "裂",
+              "char": "皲",
               "pinyin": "liè"
             },
             {
-              "char": "而",
+              "char": "裂",
               "pinyin": "ér"
             },
             {
-              "char": "不",
+              "char": "而",
               "pinyin": "bù"
             },
             {
-              "char": "知",
+              "char": "不",
               "pinyin": "zhī"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhì"
             },
             {
               "char": "。",
@@ -1250,25 +1086,19 @@
             }
           ],
           "translation": {
-            "translation": "严冬刮着猛烈的风，大雪深达几尺，脚上的皮肤冻裂了也不知道。"
+            "translation": "回到客舍，四肢僵硬不能动。"
           },
-          "notes": [
-            {
-              "start": 13,
-              "end": 15,
-              "note": "足肤皲裂：脚上的皮肤因寒冷而开裂。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "至",
-              "pinyin": "zhì"
+              "pinyin": "shè"
             },
             {
               "char": "舍",
-              "pinyin": "shè"
+              "pinyin": "sì"
             },
             {
               "char": "，",
@@ -1276,79 +1106,59 @@
             },
             {
               "char": "四",
-              "pinyin": "sì"
-            },
-            {
-              "char": "支",
               "pinyin": "zhī"
             },
             {
-              "char": "僵",
+              "char": "支",
               "pinyin": "jiāng"
             },
             {
-              "char": "劲",
+              "char": "僵",
               "pinyin": "jìng"
             },
             {
-              "char": "不",
+              "char": "劲",
               "pinyin": "bù"
             },
             {
-              "char": "能",
+              "char": "不",
               "pinyin": "néng"
             },
             {
-              "char": "动",
+              "char": "能",
               "pinyin": "dòng"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "到了旅舍，四肢僵硬不能动弹。"
-          },
-          "notes": [
-            {
-              "start": 4,
-              "end": 9,
-              "note": "四支僵劲：四肢僵硬不能活动。支，通‘肢’；僵劲，僵硬。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "媵",
+              "char": "动",
               "pinyin": "yìng"
             },
             {
-              "char": "人",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "媵",
               "pinyin": "rén"
             },
             {
-              "char": "持",
+              "char": "人",
               "pinyin": "chí"
             },
             {
-              "char": "汤",
-              "pinyin": "tāng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "汤：热水，古义与今义不同。"
-                }
-              ]
+              "char": "持",
+              "pinyin": "tāng"
             },
             {
-              "char": "沃",
+              "char": "汤",
               "pinyin": "wò"
             },
             {
-              "char": "灌",
+              "char": "沃",
               "pinyin": "guàn"
+            },
+            {
+              "char": "灌",
+              "pinyin": "yǐ"
             },
             {
               "char": "，",
@@ -1356,19 +1166,19 @@
             },
             {
               "char": "以",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "衾",
               "pinyin": "qīn"
             },
             {
-              "char": "拥",
+              "char": "衾",
               "pinyin": "yōng"
             },
             {
-              "char": "覆",
+              "char": "拥",
               "pinyin": "fù"
+            },
+            {
+              "char": "覆",
+              "pinyin": "jiǔ"
             },
             {
               "char": "，",
@@ -1376,19 +1186,19 @@
             },
             {
               "char": "久",
-              "pinyin": "jiǔ"
-            },
-            {
-              "char": "而",
               "pinyin": "ér"
             },
             {
-              "char": "乃",
+              "char": "而",
               "pinyin": "nǎi"
             },
             {
-              "char": "和",
+              "char": "乃",
               "pinyin": "hé"
+            },
+            {
+              "char": "和",
+              "pinyin": "yù"
             },
             {
               "char": "。",
@@ -1396,39 +1206,23 @@
             }
           ],
           "translation": {
-            "translation": "仆人拿着热水浇洗，用被子围盖，很久才暖和过来。"
+            "translation": "服侍的人拿着热水为我洗浴，用被子裹着我，很久才暖和起来。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "媵人：指侍仆，古代随嫁或陪侍的仆人。"
-            },
-            {
-              "start": 4,
-              "end": 6,
-              "note": "沃灌：浇洗，指用热水洗脚。"
-            },
-            {
-              "start": 8,
-              "end": 11,
-              "note": "以衾拥覆：用被子围盖。衾，被子。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "寓",
-              "pinyin": "yù"
-            },
-            {
-              "char": "逆",
               "pinyin": "nì"
             },
             {
-              "char": "旅",
+              "char": "逆",
               "pinyin": "lǚ"
+            },
+            {
+              "char": "旅",
+              "pinyin": "zhǔ"
             },
             {
               "char": "，",
@@ -1436,23 +1230,23 @@
             },
             {
               "char": "主",
-              "pinyin": "zhǔ"
-            },
-            {
-              "char": "人",
               "pinyin": "rén"
             },
             {
-              "char": "日",
+              "char": "人",
               "pinyin": "rì"
             },
             {
-              "char": "再",
+              "char": "日",
               "pinyin": "zài"
             },
             {
-              "char": "食",
+              "char": "再",
               "pinyin": "sì"
+            },
+            {
+              "char": "食",
+              "pinyin": "wú"
             },
             {
               "char": "，",
@@ -1460,31 +1254,31 @@
             },
             {
               "char": "无",
-              "pinyin": "wú"
-            },
-            {
-              "char": "鲜",
               "pinyin": "xiān"
             },
             {
-              "char": "肥",
+              "char": "鲜",
               "pinyin": "féi"
             },
             {
-              "char": "滋",
+              "char": "肥",
               "pinyin": "zī"
             },
             {
-              "char": "味",
+              "char": "滋",
               "pinyin": "wèi"
             },
             {
-              "char": "之",
+              "char": "味",
               "pinyin": "zhī"
             },
             {
-              "char": "享",
+              "char": "之",
               "pinyin": "xiǎng"
+            },
+            {
+              "char": "享",
+              "pinyin": "tóng"
             },
             {
               "char": "。",
@@ -1492,56 +1286,39 @@
             }
           ],
           "translation": {
-            "translation": "寄居在旅店，主人每天只给两顿饭吃，没有新鲜肥美的东西可以享受。"
+            "translation": "寄居在旅店里，旅店老板每天供应两顿饭食，没有鱼肉类美味佳肴的享受。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "寓逆旅：住在旅店。寓，寄居；逆旅，旅店。"
-            },
-            {
-              "start": 6,
-              "end": 8,
-              "note": "日再食：每天吃两顿饭。再，两次，古义与今义不同。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "同",
-              "pinyin": "tóng"
-            },
-            {
-              "char": "舍",
               "pinyin": "shè"
             },
             {
-              "char": "生",
+              "char": "舍",
               "pinyin": "shēng"
             },
             {
-              "char": "皆",
+              "char": "生",
               "pinyin": "jiē"
             },
             {
-              "char": "被",
-              "pinyin": "pī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "被：通‘披’，穿着。"
-                }
-              ]
+              "char": "皆",
+              "pinyin": "pī"
             },
             {
-              "char": "绮",
+              "char": "被",
               "pinyin": "qǐ"
             },
             {
-              "char": "绣",
+              "char": "绮",
               "pinyin": "xiù"
+            },
+            {
+              "char": "绣",
+              "pinyin": "dài"
             },
             {
               "char": "，",
@@ -1549,31 +1326,31 @@
             },
             {
               "char": "戴",
-              "pinyin": "dài"
-            },
-            {
-              "char": "朱",
               "pinyin": "zhū"
             },
             {
-              "char": "缨",
+              "char": "朱",
               "pinyin": "yīng"
             },
             {
-              "char": "宝",
+              "char": "缨",
               "pinyin": "bǎo"
             },
             {
-              "char": "饰",
+              "char": "宝",
               "pinyin": "shì"
             },
             {
-              "char": "之",
+              "char": "饰",
               "pinyin": "zhī"
             },
             {
-              "char": "帽",
+              "char": "之",
               "pinyin": "mào"
+            },
+            {
+              "char": "帽",
+              "pinyin": "yāo"
             },
             {
               "char": "，",
@@ -1581,59 +1358,39 @@
             },
             {
               "char": "腰",
-              "pinyin": "yāo",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "腰：名词作动词，腰佩。"
-                }
-              ]
-            },
-            {
-              "char": "白",
               "pinyin": "bái"
             },
             {
-              "char": "玉",
+              "char": "白",
               "pinyin": "yù"
             },
             {
-              "char": "之",
+              "char": "玉",
               "pinyin": "zhī"
             },
             {
-              "char": "环",
+              "char": "之",
               "pinyin": "huán"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "同屋住的同学都穿着华丽的丝绸衣服，戴着红缨宝石装饰的帽子。左边佩着刀，右边挂着香袋，光彩照人像神仙一样。"
-          },
-          "notes": [
-            {
-              "start": 5,
-              "end": 7,
-              "note": "绮绣：华丽的丝绸衣服。绮，有花纹的丝织品。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "左",
+              "char": "环",
               "pinyin": "zuǒ"
             },
             {
-              "char": "佩",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "左",
               "pinyin": "pèi"
             },
             {
-              "char": "刀",
+              "char": "佩",
               "pinyin": "dāo"
+            },
+            {
+              "char": "刀",
+              "pinyin": "yòu"
             },
             {
               "char": "，",
@@ -1641,19 +1398,19 @@
             },
             {
               "char": "右",
-              "pinyin": "yòu"
-            },
-            {
-              "char": "备",
               "pinyin": "bèi"
             },
             {
-              "char": "容",
+              "char": "备",
               "pinyin": "róng"
             },
             {
-              "char": "臭",
+              "char": "容",
               "pinyin": "xiù"
+            },
+            {
+              "char": "臭",
+              "pinyin": "yè"
             },
             {
               "char": "，",
@@ -1661,82 +1418,71 @@
             },
             {
               "char": "烨",
-              "pinyin": "yè"
-            },
-            {
-              "char": "然",
               "pinyin": "rán"
             },
             {
-              "char": "若",
+              "char": "然",
               "pinyin": "ruò"
             },
             {
-              "char": "神",
+              "char": "若",
               "pinyin": "shén"
             },
             {
-              "char": "人",
+              "char": "神",
               "pinyin": "rén"
             },
             {
-              "char": "。",
+              "char": "人",
+              "pinyin": "yú"
+            },
+            {
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "左边佩着刀，右边挂着香袋，光彩照人像神仙一样。"
+            "translation": "同客舍的人都穿着华丽的绸缎衣服，戴着用红色帽带和珠宝装饰的帽子，腰间悬挂着白玉环，左边佩戴宝刀，右边挂着香囊，光彩照人，像神仙一样；"
           },
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "note": "容臭：香囊。臭，古音xiù，指香气，与今义不同。"
-            },
-            {
-              "start": 9,
-              "end": 11,
-              "note": "烨然：光彩耀眼的样子。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "余",
-              "pinyin": "yú"
-            },
-            {
-              "char": "则",
               "pinyin": "zé"
             },
             {
-              "char": "缊",
+              "char": "则",
               "pinyin": "yùn"
             },
             {
-              "char": "袍",
+              "char": "缊",
               "pinyin": "páo"
             },
             {
-              "char": "敝",
+              "char": "袍",
               "pinyin": "bì"
             },
             {
-              "char": "衣",
+              "char": "敝",
               "pinyin": "yī"
             },
             {
-              "char": "处",
+              "char": "衣",
               "pinyin": "chǔ"
             },
             {
-              "char": "其",
+              "char": "处",
               "pinyin": "qí"
             },
             {
-              "char": "间",
+              "char": "其",
               "pinyin": "jiān"
+            },
+            {
+              "char": "间",
+              "pinyin": "lüè"
             },
             {
               "char": "，",
@@ -1744,65 +1490,51 @@
             },
             {
               "char": "略",
-              "pinyin": "lüè"
-            },
-            {
-              "char": "无",
               "pinyin": "wú"
             },
             {
-              "char": "慕",
+              "char": "无",
               "pinyin": "mù"
             },
             {
-              "char": "艳",
+              "char": "慕",
               "pinyin": "yàn"
             },
             {
-              "char": "意",
+              "char": "艳",
               "pinyin": "yì"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "我却穿着破旧的衣服生活在他们中间，毫无羡慕的意思。"
-          },
-          "notes": [
-            {
-              "start": 2,
-              "end": 6,
-              "note": "缊袍敝衣：破旧的棉袍和衣服。缊，乱麻，旧絮。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "以",
+              "char": "意",
               "pinyin": "yǐ"
             },
             {
-              "char": "中",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
               "pinyin": "zhōng"
             },
             {
-              "char": "有",
+              "char": "中",
               "pinyin": "yǒu"
             },
             {
-              "char": "足",
+              "char": "有",
               "pinyin": "zú"
             },
             {
-              "char": "乐",
+              "char": "足",
               "pinyin": "lè"
             },
             {
-              "char": "者",
+              "char": "乐",
               "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "bù"
             },
             {
               "char": "，",
@@ -1810,43 +1542,43 @@
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "zhī"
             },
             {
               "char": "知",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "口",
               "pinyin": "kǒu"
             },
             {
-              "char": "体",
+              "char": "口",
               "pinyin": "tǐ"
             },
             {
-              "char": "之",
+              "char": "体",
               "pinyin": "zhī"
             },
             {
-              "char": "奉",
+              "char": "之",
               "pinyin": "fèng"
             },
             {
-              "char": "不",
+              "char": "奉",
               "pinyin": "bù"
             },
             {
-              "char": "若",
+              "char": "不",
               "pinyin": "ruò"
             },
             {
-              "char": "人",
+              "char": "若",
               "pinyin": "rén"
             },
             {
-              "char": "也",
+              "char": "人",
               "pinyin": "yě"
+            },
+            {
+              "char": "也",
+              "pinyin": "gài"
             },
             {
               "char": "。",
@@ -1854,49 +1586,43 @@
             }
           ],
           "translation": {
-            "translation": "因为心中有足以快乐的事，不觉得吃的穿的不如别人。"
+            "translation": "我却穿着破旧的衣服处于他们之间，但我毫无羡慕之心。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 16,
-              "note": "以中有足乐者，不知口体之奉不若人也：因为内心有值得快乐的事，不觉得吃穿不如别人。口体之奉，指饮食衣物的供养。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "盖",
-              "pinyin": "gài"
-            },
-            {
-              "char": "余",
               "pinyin": "yú"
             },
             {
-              "char": "之",
+              "char": "余",
               "pinyin": "zhī"
             },
             {
-              "char": "勤",
+              "char": "之",
               "pinyin": "qín"
             },
             {
-              "char": "且",
+              "char": "勤",
               "pinyin": "qiě"
             },
             {
-              "char": "艰",
+              "char": "且",
               "pinyin": "jiān"
             },
             {
-              "char": "若",
+              "char": "艰",
               "pinyin": "ruò"
             },
             {
-              "char": "此",
+              "char": "若",
               "pinyin": "cǐ"
+            },
+            {
+              "char": "此",
+              "pinyin": "jīn"
             },
             {
               "char": "。",
@@ -1904,31 +1630,27 @@
             }
           ],
           "translation": {
-            "translation": "我的勤劳和艰苦就是这样。"
+            "translation": "因为心中有足以快乐的事情，所以不觉得吃的、穿的享受不如别人。"
           },
           "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
+        },
         {
           "sentence": [
             {
               "char": "今",
-              "pinyin": "jīn"
-            },
-            {
-              "char": "虽",
               "pinyin": "suī"
             },
             {
-              "char": "耄",
+              "char": "虽",
               "pinyin": "mào"
             },
             {
-              "char": "老",
+              "char": "耄",
               "pinyin": "lǎo"
+            },
+            {
+              "char": "老",
+              "pinyin": "wèi"
             },
             {
               "char": "，",
@@ -1936,65 +1658,51 @@
             },
             {
               "char": "未",
-              "pinyin": "wèi"
-            },
-            {
-              "char": "有",
               "pinyin": "yǒu"
             },
             {
-              "char": "所",
+              "char": "有",
               "pinyin": "suǒ"
             },
             {
-              "char": "成",
+              "char": "所",
               "pinyin": "chéng"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "现在虽然年纪大了，没有什么成就。"
-          },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "耄老：年老。耄，指八九十岁，泛指老年。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "犹",
+              "char": "成",
               "pinyin": "yóu"
             },
             {
-              "char": "幸",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "犹",
               "pinyin": "xìng"
             },
             {
-              "char": "预",
+              "char": "幸",
               "pinyin": "yù"
             },
             {
-              "char": "君",
+              "char": "预",
               "pinyin": "jūn"
             },
             {
-              "char": "子",
+              "char": "君",
               "pinyin": "zi"
             },
             {
-              "char": "之",
+              "char": "子",
               "pinyin": "zhī"
             },
             {
-              "char": "列",
+              "char": "之",
               "pinyin": "liè"
+            },
+            {
+              "char": "列",
+              "pinyin": "ér"
             },
             {
               "char": "，",
@@ -2002,74 +1710,55 @@
             },
             {
               "char": "而",
-              "pinyin": "ér"
-            },
-            {
-              "char": "承",
               "pinyin": "chéng"
             },
             {
-              "char": "天",
+              "char": "承",
               "pinyin": "tiān"
             },
             {
-              "char": "子",
+              "char": "天",
               "pinyin": "zǐ"
             },
             {
-              "char": "之",
+              "char": "子",
               "pinyin": "zhī"
             },
             {
-              "char": "宠",
+              "char": "之",
               "pinyin": "chǒng"
             },
             {
-              "char": "光",
+              "char": "宠",
               "pinyin": "guāng"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "还能有幸参与在君子的行列里，承受着天子的恩宠光耀。"
-          },
-          "notes": [
-            {
-              "start": 2,
-              "end": 6,
-              "note": "预君子之列：列入君子的行列，指做官。预，参与。"
-            },
-            {
-              "start": 9,
-              "end": 15,
-              "note": "承天子之宠光：承受皇帝的恩宠荣耀。承，承受。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "缀",
+              "char": "光",
               "pinyin": "zhuì"
             },
             {
-              "char": "公",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "缀",
               "pinyin": "gōng"
             },
             {
-              "char": "卿",
+              "char": "公",
               "pinyin": "qīng"
             },
             {
-              "char": "之",
+              "char": "卿",
               "pinyin": "zhī"
             },
             {
-              "char": "后",
+              "char": "之",
               "pinyin": "hòu"
+            },
+            {
+              "char": "后",
+              "pinyin": "rì"
             },
             {
               "char": "，",
@@ -2077,105 +1766,83 @@
             },
             {
               "char": "日",
-              "pinyin": "rì"
+              "pinyin": "shì"
             },
             {
               "char": "侍",
-              "pinyin": "shì"
-            },
-            {
-              "char": "坐",
               "pinyin": "zuò"
             },
             {
-              "char": "备",
+              "char": "坐",
               "pinyin": "bèi"
             },
             {
-              "char": "顾",
+              "char": "备",
               "pinyin": "gù"
             },
             {
-              "char": "问",
+              "char": "顾",
               "pinyin": "wèn"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "跟随在公卿之后，每天在皇帝座位旁边侍奉，预备顾问。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "缀公卿之后：跟随在公卿之后，指位列朝班。缀，跟随。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "四",
+              "char": "问",
               "pinyin": "sì"
             },
             {
-              "char": "海",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "四",
               "pinyin": "hǎi"
             },
             {
-              "char": "亦",
+              "char": "海",
               "pinyin": "yì"
             },
             {
-              "char": "谬",
+              "char": "亦",
               "pinyin": "miù"
             },
             {
-              "char": "称",
+              "char": "谬",
               "pinyin": "chēng"
             },
             {
-              "char": "其",
+              "char": "称",
               "pinyin": "qí"
             },
             {
-              "char": "氏",
+              "char": "其",
               "pinyin": "shì"
             },
             {
-              "char": "名",
+              "char": "氏",
               "pinyin": "míng"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "全国也错误地称颂我的姓名。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "况",
+              "char": "名",
               "pinyin": "kuàng"
             },
             {
-              "char": "才",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "况",
               "pinyin": "cái"
             },
             {
-              "char": "之",
+              "char": "才",
               "pinyin": "zhī"
             },
             {
-              "char": "过",
+              "char": "之",
               "pinyin": "guò"
+            },
+            {
+              "char": "过",
+              "pinyin": "yú"
             },
             {
               "char": "于",
@@ -2183,15 +1850,15 @@
             },
             {
               "char": "余",
-              "pinyin": "yú"
-            },
-            {
-              "char": "者",
               "pinyin": "zhě"
             },
             {
-              "char": "乎",
+              "char": "者",
               "pinyin": "hū"
+            },
+            {
+              "char": "乎",
+              "pinyin": "jīn"
             },
             {
               "char": "？",
@@ -2199,7 +1866,7 @@
             }
           ],
           "translation": {
-            "translation": "何况才能超过我的人呢？"
+            "translation": "我求学的辛勤和艰苦大概就是像这个样子。"
           },
           "notes": []
         }
@@ -2211,119 +1878,103 @@
           "sentence": [
             {
               "char": "今",
-              "pinyin": "jīn"
-            },
-            {
-              "char": "诸",
               "pinyin": "zhū"
             },
             {
-              "char": "生",
+              "char": "诸",
               "pinyin": "shēng"
             },
             {
-              "char": "学",
+              "char": "生",
               "pinyin": "xué"
             },
             {
-              "char": "于",
+              "char": "学",
               "pinyin": "yú"
             },
             {
-              "char": "太",
+              "char": "于",
               "pinyin": "tài"
             },
             {
-              "char": "学",
+              "char": "太",
               "pinyin": "xué"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "现在学生们在太学里学习。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "县",
+              "char": "学",
               "pinyin": "xiàn"
             },
             {
-              "char": "官",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "县",
               "pinyin": "guān"
             },
             {
-              "char": "日",
+              "char": "官",
               "pinyin": "rì"
             },
             {
-              "char": "有",
+              "char": "日",
               "pinyin": "yǒu"
             },
             {
-              "char": "廪",
+              "char": "有",
               "pinyin": "lǐn"
             },
             {
-              "char": "稍",
+              "char": "廪",
               "pinyin": "shāo"
             },
             {
-              "char": "之",
+              "char": "稍",
               "pinyin": "zhī"
             },
             {
-              "char": "供",
+              "char": "之",
               "pinyin": "gōng"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "官府每天有米粮供给。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "父",
+              "char": "供",
               "pinyin": "fù"
             },
             {
-              "char": "母",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "父",
               "pinyin": "mǔ"
             },
             {
-              "char": "岁",
+              "char": "母",
               "pinyin": "suì"
             },
             {
-              "char": "有",
+              "char": "岁",
               "pinyin": "yǒu"
             },
             {
-              "char": "裘",
+              "char": "有",
               "pinyin": "qiú"
             },
             {
-              "char": "葛",
+              "char": "裘",
               "pinyin": "gé"
             },
             {
-              "char": "之",
+              "char": "葛",
               "pinyin": "zhī"
             },
             {
-              "char": "遗",
+              "char": "之",
               "pinyin": "wèi"
+            },
+            {
+              "char": "遗",
+              "pinyin": "wú"
             },
             {
               "char": "，",
@@ -2331,35 +1982,35 @@
             },
             {
               "char": "无",
-              "pinyin": "wú"
-            },
-            {
-              "char": "冻",
               "pinyin": "dòng"
             },
             {
-              "char": "馁",
+              "char": "冻",
               "pinyin": "něi"
             },
             {
-              "char": "之",
+              "char": "馁",
               "pinyin": "zhī"
             },
             {
-              "char": "患",
+              "char": "之",
               "pinyin": "huàn"
             },
             {
-              "char": "矣",
+              "char": "患",
               "pinyin": "yǐ"
             },
             {
-              "char": "。",
+              "char": "矣",
+              "pinyin": "zuò"
+            },
+            {
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "父母每年有冬夏衣服送来，没有挨冻受饿的忧虑了。"
+            "translation": "如今我虽已年老，没有什么成就，但所幸还得以置身于君子的行列中，承受着天子的恩宠荣耀，跟随在公卿之后，每天陪侍着皇上，听候询问，天底下也不适当地称颂自己的姓名，更何况才能超过我的人呢？"
           },
           "notes": []
         },
@@ -2367,39 +2018,39 @@
           "sentence": [
             {
               "char": "坐",
-              "pinyin": "zuò"
-            },
-            {
-              "char": "大",
               "pinyin": "dà"
             },
             {
-              "char": "厦",
+              "char": "大",
               "pinyin": "shà"
             },
             {
-              "char": "之",
+              "char": "厦",
               "pinyin": "zhī"
             },
             {
-              "char": "下",
+              "char": "之",
               "pinyin": "xià"
             },
             {
-              "char": "而",
+              "char": "下",
               "pinyin": "ér"
             },
             {
-              "char": "诵",
+              "char": "而",
               "pinyin": "sòng"
             },
             {
-              "char": "诗",
+              "char": "诵",
               "pinyin": "shī"
             },
             {
-              "char": "书",
+              "char": "诗",
               "pinyin": "shū"
+            },
+            {
+              "char": "书",
+              "pinyin": "wú"
             },
             {
               "char": "，",
@@ -2407,35 +2058,35 @@
             },
             {
               "char": "无",
-              "pinyin": "wú"
-            },
-            {
-              "char": "奔",
               "pinyin": "bēn"
             },
             {
-              "char": "走",
+              "char": "奔",
               "pinyin": "zǒu"
             },
             {
-              "char": "之",
+              "char": "走",
               "pinyin": "zhī"
             },
             {
-              "char": "劳",
+              "char": "之",
               "pinyin": "láo"
             },
             {
-              "char": "矣",
+              "char": "劳",
               "pinyin": "yǐ"
             },
             {
-              "char": "。",
+              "char": "矣",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "坐在高大的屋子下面诵读诗书，没有奔走的劳累了。"
+            "translation": "如今的学生们在太学中学习，朝廷每天供给膳食，父母每年都赠送冬天的皮衣和夏天的葛衣，没有冻饿的忧虑了；"
           },
           "notes": []
         },
@@ -2443,15 +2094,15 @@
           "sentence": [
             {
               "char": "有",
-              "pinyin": "yǒu"
-            },
-            {
-              "char": "司",
               "pinyin": "sī"
             },
             {
-              "char": "业",
+              "char": "司",
               "pinyin": "yè"
+            },
+            {
+              "char": "业",
+              "pinyin": "bó"
             },
             {
               "char": "、",
@@ -2459,23 +2110,23 @@
             },
             {
               "char": "博",
-              "pinyin": "bó"
-            },
-            {
-              "char": "士",
               "pinyin": "shì"
             },
             {
-              "char": "为",
+              "char": "士",
               "pinyin": "wéi"
             },
             {
-              "char": "之",
+              "char": "为",
               "pinyin": "zhī"
             },
             {
-              "char": "师",
+              "char": "之",
               "pinyin": "shī"
+            },
+            {
+              "char": "师",
+              "pinyin": "wèi"
             },
             {
               "char": "，",
@@ -2483,97 +2134,91 @@
             },
             {
               "char": "未",
-              "pinyin": "wèi"
-            },
-            {
-              "char": "有",
               "pinyin": "yǒu"
             },
             {
-              "char": "问",
+              "char": "有",
               "pinyin": "wèn"
             },
             {
-              "char": "而",
+              "char": "问",
               "pinyin": "ér"
             },
             {
-              "char": "不",
+              "char": "而",
               "pinyin": "bù"
             },
             {
-              "char": "告",
+              "char": "不",
               "pinyin": "gào"
             },
             {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "求",
+              "char": "告",
               "pinyin": "qiú"
             },
             {
-              "char": "而",
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "求",
               "pinyin": "ér"
             },
             {
-              "char": "不",
+              "char": "而",
               "pinyin": "bù"
             },
             {
-              "char": "得",
+              "char": "不",
               "pinyin": "dé"
             },
             {
-              "char": "者",
+              "char": "得",
               "pinyin": "zhě"
             },
             {
-              "char": "也",
+              "char": "者",
               "pinyin": "yě"
             },
             {
-              "char": "。",
+              "char": "也",
+              "pinyin": "fán"
+            },
+            {
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "有司业、博士做他们的老师，没有问而不答、求而不得的了。"
+            "translation": "坐在大厦之下诵读诗书，没有奔走的劳苦了；"
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 5,
-              "note": "司业、博士：古代学官名，负责教学与管理。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "凡",
-              "pinyin": "fán"
-            },
-            {
-              "char": "所",
               "pinyin": "suǒ"
             },
             {
-              "char": "宜",
+              "char": "所",
               "pinyin": "yí"
             },
             {
-              "char": "有",
+              "char": "宜",
               "pinyin": "yǒu"
             },
             {
-              "char": "之",
+              "char": "有",
               "pinyin": "zhī"
             },
             {
-              "char": "书",
+              "char": "之",
               "pinyin": "shū"
+            },
+            {
+              "char": "书",
+              "pinyin": "jiē"
             },
             {
               "char": "，",
@@ -2581,59 +2226,51 @@
             },
             {
               "char": "皆",
-              "pinyin": "jiē"
-            },
-            {
-              "char": "集",
               "pinyin": "jí"
             },
             {
-              "char": "于",
+              "char": "集",
               "pinyin": "yú"
             },
             {
-              "char": "此",
+              "char": "于",
               "pinyin": "cǐ"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "凡是应该有的书，都集中在这里。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "不",
+              "char": "此",
               "pinyin": "bù"
             },
             {
-              "char": "必",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
               "pinyin": "bì"
             },
             {
-              "char": "若",
+              "char": "必",
               "pinyin": "ruò"
             },
             {
-              "char": "余",
+              "char": "若",
               "pinyin": "yú"
             },
             {
-              "char": "之",
+              "char": "余",
               "pinyin": "zhī"
             },
             {
-              "char": "手",
+              "char": "之",
               "pinyin": "shǒu"
             },
             {
-              "char": "录",
+              "char": "手",
               "pinyin": "lù"
+            },
+            {
+              "char": "录",
+              "pinyin": "jiǎ"
             },
             {
               "char": "，",
@@ -2641,31 +2278,31 @@
             },
             {
               "char": "假",
-              "pinyin": "jiǎ"
-            },
-            {
-              "char": "诸",
               "pinyin": "zhū"
             },
             {
-              "char": "人",
+              "char": "诸",
               "pinyin": "rén"
             },
             {
-              "char": "而",
+              "char": "人",
               "pinyin": "ér"
             },
             {
-              "char": "后",
+              "char": "而",
               "pinyin": "hòu"
             },
             {
-              "char": "见",
+              "char": "后",
               "pinyin": "jiàn"
             },
             {
-              "char": "也",
+              "char": "见",
               "pinyin": "yě"
+            },
+            {
+              "char": "也",
+              "pinyin": "qí"
             },
             {
               "char": "。",
@@ -2673,7 +2310,7 @@
             }
           ],
           "translation": {
-            "translation": "不必像我那样亲手抄写，向别人借来才能看到。"
+            "translation": "有司业和博士当他们的老师，没有询问而不告诉，求教而无所收获的了；"
           },
           "notes": []
         },
@@ -2681,47 +2318,47 @@
           "sentence": [
             {
               "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "业",
               "pinyin": "yè"
             },
             {
-              "char": "有",
+              "char": "业",
               "pinyin": "yǒu"
             },
             {
-              "char": "不",
+              "char": "有",
               "pinyin": "bù"
             },
             {
-              "char": "精",
+              "char": "不",
               "pinyin": "jīng"
             },
             {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "德",
+              "char": "精",
               "pinyin": "dé"
             },
             {
-              "char": "有",
+              "char": "、",
+              "pinyin": ""
+            },
+            {
+              "char": "德",
               "pinyin": "yǒu"
             },
             {
-              "char": "不",
+              "char": "有",
               "pinyin": "bù"
             },
             {
-              "char": "成",
+              "char": "不",
               "pinyin": "chéng"
             },
             {
-              "char": "者",
+              "char": "成",
               "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "fēi"
             },
             {
               "char": "，",
@@ -2729,115 +2366,87 @@
             },
             {
               "char": "非",
-              "pinyin": "fēi"
-            },
-            {
-              "char": "天",
               "pinyin": "tiān"
             },
             {
-              "char": "质",
+              "char": "天",
               "pinyin": "zhì"
             },
             {
-              "char": "之",
+              "char": "质",
               "pinyin": "zhī"
             },
             {
-              "char": "卑",
+              "char": "之",
               "pinyin": "bēi"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "他们的学业如果有不精通的地方，品德如果有不成器的地方。不是天资低下，"
-          },
-          "notes": [
-            {
-              "start": 14,
-              "end": 17,
-              "note": "天质之卑：天赋资质低下。天质，天赋。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "则",
+              "char": "卑",
               "pinyin": "zé"
             },
             {
-              "char": "心",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "则",
               "pinyin": "xīn"
             },
             {
-              "char": "不",
+              "char": "心",
               "pinyin": "bù"
             },
             {
-              "char": "若",
+              "char": "不",
               "pinyin": "ruò"
             },
             {
-              "char": "余",
+              "char": "若",
               "pinyin": "yú"
             },
             {
-              "char": "之",
+              "char": "余",
               "pinyin": "zhī"
             },
             {
-              "char": "专",
+              "char": "之",
               "pinyin": "zhuān"
             },
             {
-              "char": "耳",
+              "char": "专",
               "pinyin": "ěr"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "就是用心不如我专一罢了。"
-          },
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "note": "专：专心，专注。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "岂",
+              "char": "耳",
               "pinyin": "qǐ"
             },
             {
-              "char": "他",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "岂",
               "pinyin": "tā"
             },
             {
-              "char": "人",
+              "char": "他",
               "pinyin": "rén"
             },
             {
-              "char": "之",
+              "char": "人",
               "pinyin": "zhī"
             },
             {
-              "char": "过",
+              "char": "之",
               "pinyin": "guò"
             },
             {
-              "char": "哉",
+              "char": "过",
               "pinyin": "zāi"
+            },
+            {
+              "char": "哉",
+              "pinyin": "dōng"
             },
             {
               "char": "！",
@@ -2845,7 +2454,7 @@
             }
           ],
           "translation": {
-            "translation": "难道是别人的过错吗？"
+            "translation": "凡是所应该具备的书籍，都集中在这里，不必再像我这样用手抄录，从别人处借来然后才能看到了。"
           },
           "notes": []
         }
@@ -2857,27 +2466,27 @@
           "sentence": [
             {
               "char": "东",
-              "pinyin": "dōng"
-            },
-            {
-              "char": "阳",
               "pinyin": "yáng"
             },
             {
-              "char": "马",
+              "char": "阳",
               "pinyin": "mǎ"
             },
             {
-              "char": "生",
+              "char": "马",
               "pinyin": "shēng"
             },
             {
-              "char": "君",
+              "char": "生",
               "pinyin": "jūn"
             },
             {
-              "char": "则",
+              "char": "君",
               "pinyin": "zé"
+            },
+            {
+              "char": "则",
+              "pinyin": "zài"
             },
             {
               "char": "，",
@@ -2885,63 +2494,55 @@
             },
             {
               "char": "在",
-              "pinyin": "zài"
-            },
-            {
-              "char": "太",
               "pinyin": "tài"
             },
             {
-              "char": "学",
+              "char": "太",
               "pinyin": "xué"
             },
             {
-              "char": "已",
+              "char": "学",
               "pinyin": "yǐ"
             },
             {
-              "char": "二",
+              "char": "已",
               "pinyin": "èr"
             },
             {
-              "char": "年",
+              "char": "二",
               "pinyin": "nián"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "东阳马生君则，在太学学习已经两年。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "流",
+              "char": "年",
               "pinyin": "liú"
             },
             {
-              "char": "辈",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "流",
               "pinyin": "bèi"
             },
             {
-              "char": "甚",
+              "char": "辈",
               "pinyin": "shèn"
             },
             {
-              "char": "称",
+              "char": "甚",
               "pinyin": "chēng"
             },
             {
-              "char": "其",
+              "char": "称",
               "pinyin": "qí"
             },
             {
-              "char": "贤",
+              "char": "其",
               "pinyin": "xián"
+            },
+            {
+              "char": "贤",
+              "pinyin": "yú"
             },
             {
               "char": "。",
@@ -2949,7 +2550,7 @@
             }
           ],
           "translation": {
-            "translation": "同辈人很称赞他的贤能。"
+            "translation": "他们中如果学业有所不精通，品德有所未养成的，不是天资太低下，而是用心不如我这样专一罢了，难道可以说是别人的过错吗？"
           },
           "notes": []
         },
@@ -2957,19 +2558,19 @@
           "sentence": [
             {
               "char": "余",
-              "pinyin": "yú"
-            },
-            {
-              "char": "朝",
               "pinyin": "cháo"
             },
             {
-              "char": "京",
+              "char": "朝",
               "pinyin": "jīng"
             },
             {
-              "char": "师",
+              "char": "京",
               "pinyin": "shī"
+            },
+            {
+              "char": "师",
+              "pinyin": "shēng"
             },
             {
               "char": "，",
@@ -2977,67 +2578,59 @@
             },
             {
               "char": "生",
-              "pinyin": "shēng"
-            },
-            {
-              "char": "以",
               "pinyin": "yǐ"
             },
             {
-              "char": "乡",
+              "char": "以",
               "pinyin": "xiāng"
             },
             {
-              "char": "人",
+              "char": "乡",
               "pinyin": "rén"
             },
             {
-              "char": "子",
+              "char": "人",
               "pinyin": "zǐ"
             },
             {
-              "char": "谒",
+              "char": "子",
               "pinyin": "yè"
             },
             {
-              "char": "余",
+              "char": "谒",
               "pinyin": "yú"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "我到京城朝见皇帝，马生以同乡晚辈的身份拜见我。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "撰",
+              "char": "余",
               "pinyin": "zhuàn"
             },
             {
-              "char": "长",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "撰",
               "pinyin": "cháng"
             },
             {
-              "char": "书",
+              "char": "长",
               "pinyin": "shū"
             },
             {
-              "char": "以",
+              "char": "书",
               "pinyin": "yǐ"
             },
             {
-              "char": "为",
+              "char": "以",
               "pinyin": "wéi"
             },
             {
-              "char": "贽",
+              "char": "为",
               "pinyin": "zhì"
+            },
+            {
+              "char": "贽",
+              "pinyin": "cí"
             },
             {
               "char": "，",
@@ -3045,19 +2638,19 @@
             },
             {
               "char": "辞",
-              "pinyin": "cí"
-            },
-            {
-              "char": "甚",
               "pinyin": "shèn"
             },
             {
-              "char": "畅",
+              "char": "甚",
               "pinyin": "chàng"
             },
             {
-              "char": "达",
+              "char": "畅",
               "pinyin": "dá"
+            },
+            {
+              "char": "达",
+              "pinyin": "yǔ"
             },
             {
               "char": "。",
@@ -3065,33 +2658,27 @@
             }
           ],
           "translation": {
-            "translation": "写了一封长信作为见面礼，言辞很流畅通达。"
+            "translation": "东阳的马君则，在太学中已学习二年了，同辈的人都称赞他的贤能。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "note": "撰长书以为贽：写了一封长信作为进见的礼物。贽，见面礼。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "与",
-              "pinyin": "yǔ"
-            },
-            {
-              "char": "之",
               "pinyin": "zhī"
             },
             {
-              "char": "论",
+              "char": "之",
               "pinyin": "lùn"
             },
             {
-              "char": "辨",
+              "char": "论",
               "pinyin": "biàn"
+            },
+            {
+              "char": "辨",
+              "pinyin": "yán"
             },
             {
               "char": "，",
@@ -3099,23 +2686,23 @@
             },
             {
               "char": "言",
-              "pinyin": "yán"
-            },
-            {
-              "char": "和",
               "pinyin": "hé"
             },
             {
-              "char": "而",
+              "char": "和",
               "pinyin": "ér"
             },
             {
-              "char": "色",
+              "char": "而",
               "pinyin": "sè"
             },
             {
-              "char": "夷",
+              "char": "色",
               "pinyin": "yí"
+            },
+            {
+              "char": "夷",
+              "pinyin": "zì"
             },
             {
               "char": "。",
@@ -3123,97 +2710,83 @@
             }
           ],
           "translation": {
-            "translation": "和他谈论分析问题，言语温和态度平和。"
+            "translation": "我到京师朝见皇上时，马生以同乡晚辈的身份拜见我，写了一封长信作为礼物，文辞很顺畅通达，同他论辩，言语温和而态度谦恭。"
           },
-          "notes": [
-            {
-              "start": 6,
-              "end": 10,
-              "note": "言和而色夷：言语温和，脸色平易。形容态度谦和。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "自",
-              "pinyin": "zì"
-            },
-            {
-              "char": "谓",
               "pinyin": "wèi"
             },
             {
-              "char": "少",
+              "char": "谓",
               "pinyin": "shào"
             },
             {
-              "char": "时",
+              "char": "少",
               "pinyin": "shí"
             },
             {
-              "char": "用",
+              "char": "时",
               "pinyin": "yòng"
             },
             {
-              "char": "心",
+              "char": "用",
               "pinyin": "xīn"
             },
             {
-              "char": "于",
+              "char": "心",
               "pinyin": "yú"
             },
             {
-              "char": "学",
+              "char": "于",
               "pinyin": "xué"
             },
             {
-              "char": "甚",
+              "char": "学",
               "pinyin": "shèn"
             },
             {
-              "char": "劳",
+              "char": "甚",
               "pinyin": "láo"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "他自己说小时候用心学习很勤劳。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "是",
+              "char": "劳",
               "pinyin": "shì"
             },
             {
-              "char": "可",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "是",
               "pinyin": "kě"
             },
             {
-              "char": "谓",
+              "char": "可",
               "pinyin": "wèi"
             },
             {
-              "char": "善",
+              "char": "谓",
               "pinyin": "shàn"
             },
             {
-              "char": "学",
+              "char": "善",
               "pinyin": "xué"
             },
             {
-              "char": "者",
+              "char": "学",
               "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "yǐ"
             },
             {
               "char": "矣",
-              "pinyin": "yǐ"
+              "pinyin": "qí"
             },
             {
               "char": "。",
@@ -3221,151 +2794,39 @@
             }
           ],
           "translation": {
-            "translation": "这可以说是善于学习的人了。"
+            "translation": "他自己说少年时对于学习很用心、刻苦，这可以称作善于学习者吧！"
           },
           "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
+        },
         {
           "sentence": [
             {
               "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "将",
               "pinyin": "jiāng"
             },
             {
-              "char": "归",
+              "char": "将",
               "pinyin": "guī"
             },
             {
-              "char": "见",
+              "char": "归",
               "pinyin": "jiàn"
             },
             {
-              "char": "其",
+              "char": "见",
               "pinyin": "qí"
             },
             {
-              "char": "亲",
+              "char": "其",
               "pinyin": "qīn"
             },
             {
-              "char": "也",
+              "char": "亲",
               "pinyin": "yě"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "他将要回去探望他的父母。"
-          },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "亲：父母，双亲。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "余",
+              "char": "也",
               "pinyin": "yú"
-            },
-            {
-              "char": "故",
-              "pinyin": "gù"
-            },
-            {
-              "char": "道",
-              "pinyin": "dào"
-            },
-            {
-              "char": "为",
-              "pinyin": "wéi"
-            },
-            {
-              "char": "学",
-              "pinyin": "xué"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "难",
-              "pinyin": "nán"
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "告",
-              "pinyin": "gào"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "我特意说求学的艰难来告诉他。"
-          },
-          "notes": [
-            {
-              "start": 2,
-              "end": 10,
-              "note": "道为学之难以告之：讲述求学的艰难来告诉他。道，讲述；以，用来。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "谓",
-              "pinyin": "wèi"
-            },
-            {
-              "char": "余",
-              "pinyin": "yú"
-            },
-            {
-              "char": "勉",
-              "pinyin": "miǎn"
-            },
-            {
-              "char": "乡",
-              "pinyin": "xiāng"
-            },
-            {
-              "char": "人",
-              "pinyin": "rén"
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "学",
-              "pinyin": "xué"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
             },
             {
               "char": "，",
@@ -3373,19 +2834,43 @@
             },
             {
               "char": "余",
-              "pinyin": "yú"
+              "pinyin": "gù"
             },
             {
-              "char": "之",
+              "char": "故",
+              "pinyin": "dào"
+            },
+            {
+              "char": "道",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "为",
+              "pinyin": "xué"
+            },
+            {
+              "char": "学",
               "pinyin": "zhī"
             },
             {
-              "char": "志",
-              "pinyin": "zhì"
+              "char": "之",
+              "pinyin": "nán"
             },
             {
-              "char": "也",
-              "pinyin": "yě"
+              "char": "难",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "以",
+              "pinyin": "gào"
+            },
+            {
+              "char": "告",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "wèi"
             },
             {
               "char": "。",
@@ -3393,113 +2878,147 @@
             }
           ],
           "translation": {
-            "translation": "说我勉励同乡学习的人，是我的本意。"
+            "translation": "他将要回家拜见父母双亲，我特地将自己求学的艰辛告诉他。"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 12,
-              "end": 13,
-              "note": "志：志向，心愿。"
+              "char": "谓",
+              "pinyin": "yú"
+            },
+            {
+              "char": "余",
+              "pinyin": "miǎn"
+            },
+            {
+              "char": "勉",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "乡",
+              "pinyin": "rén"
+            },
+            {
+              "char": "人",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "以",
+              "pinyin": "xué"
+            },
+            {
+              "char": "学",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "yú"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "余",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "志",
+              "pinyin": "yě"
+            },
+            {
+              "char": "也",
+              "pinyin": "dǐ"
+            },
+            {
+              "char": "；",
+              "pinyin": "　"
             }
-          ]
+          ],
+          "translation": {
+            "translation": "如果说我勉励同乡努力学习，是我的本意啊；"
+          },
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "诋",
-              "pinyin": "dǐ"
-            },
-            {
-              "char": "我",
               "pinyin": "wǒ"
             },
             {
-              "char": "夸",
+              "char": "我",
               "pinyin": "kuā"
             },
             {
-              "char": "际",
+              "char": "夸",
               "pinyin": "jì"
             },
             {
-              "char": "遇",
+              "char": "际",
               "pinyin": "yù"
             },
             {
-              "char": "之",
+              "char": "遇",
               "pinyin": "zhī"
             },
             {
-              "char": "盛",
+              "char": "之",
               "pinyin": "shèng"
             },
             {
-              "char": "而",
+              "char": "盛",
               "pinyin": "ér"
             },
             {
-              "char": "骄",
+              "char": "而",
               "pinyin": "jiāo"
             },
             {
-              "char": "乡",
+              "char": "骄",
               "pinyin": "xiāng"
             },
             {
-              "char": "人",
+              "char": "乡",
               "pinyin": "rén"
             },
             {
-              "char": "者",
+              "char": "人",
               "pinyin": "zhě"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "诋毁我夸耀自己的遭遇好而在同乡面前骄傲的人。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "诋：诋毁，指责。"
-            },
-            {
-              "start": 3,
-              "end": 7,
-              "note": "际遇之盛：遭遇的优厚待遇。指自己受到重用。"
-            },
-            {
-              "start": 8,
-              "end": 11,
-              "note": "骄乡人：对同乡人骄傲自满。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "岂",
+              "char": "者",
               "pinyin": "qǐ"
             },
             {
-              "char": "知",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "岂",
               "pinyin": "zhī"
             },
             {
-              "char": "余",
+              "char": "知",
               "pinyin": "yú"
             },
             {
-              "char": "者",
+              "char": "予",
               "pinyin": "zhě"
             },
             {
-              "char": "哉",
+              "char": "者",
               "pinyin": "zāi"
+            },
+            {
+              "char": "哉",
+              "pinyin": ""
             },
             {
               "char": "！",
@@ -3507,7 +3026,7 @@
             }
           ],
           "translation": {
-            "translation": "难道了解我吗？"
+            "translation": "如果诋毁我夸耀自己际遇之好而在同乡前骄傲，哪里是理解我的人呢？"
           },
           "notes": []
         }

@@ -1,7 +1,7 @@
 {
   "name": "生于忧患，死于安乐",
-  "author": "孟子",
-  "dynasty": "战国",
+  "author": "孟子及其弟子",
+  "dynasty": "先秦",
   "mode": "paragraph",
   "paragraphs": [
     {
@@ -11,1539 +11,884 @@
             {
               "char": "舜",
               "pinyin": "shùn",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "发",
               "pinyin": "fā",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "畎",
               "pinyin": "quǎn",
-              "index": 3,
-              "read": true,
-              "write": true
+              "index": 3
             },
             {
               "char": "亩",
               "pinyin": "mǔ",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "傅",
               "pinyin": "fù",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "说",
               "pinyin": "yuè",
-              "index": 9,
-              "read": true,
-              "write": false
+              "index": 9
             },
             {
               "char": "举",
               "pinyin": "jǔ",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "版",
               "pinyin": "bǎn",
-              "index": 12,
-              "read": false,
-              "write": true
+              "index": 12
             },
             {
               "char": "筑",
               "pinyin": "zhù",
-              "index": 13,
-              "read": false,
-              "write": true
+              "index": 13
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "间",
               "pinyin": "jiān",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "胶",
               "pinyin": "jiāo",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "鬲",
               "pinyin": "gé",
-              "index": 18,
-              "read": true,
-              "write": true
+              "index": 18
             },
             {
               "char": "举",
               "pinyin": "jǔ",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "鱼",
               "pinyin": "yú",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "盐",
               "pinyin": "yán",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "管",
               "pinyin": "guǎn",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "夷",
               "pinyin": "yí",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "举",
               "pinyin": "jǔ",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "士",
               "pinyin": "shì",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "孙",
               "pinyin": "sūn",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "叔",
               "pinyin": "shū",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "敖",
               "pinyin": "áo",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "举",
               "pinyin": "jǔ",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "海",
               "pinyin": "hǎi",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "百",
               "pinyin": "bǎi",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "奚",
               "pinyin": "xī",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "举",
               "pinyin": "jǔ",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "市",
               "pinyin": "shì",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             }
           ],
-          "translation": "舜自田间兴起，傅说从筑墙工中擢升，胶鬲在鱼盐贩中被举荐，管仲自狱官手中解放，孙叔敖从海滨起用，百里奚从市集被赎。",
-          "pinyin": "shùn fā yú quǎn mǔ zhī zhōng ， fù yuè jǔ yú bǎn zhù zhī jiān ， jiāo gé jǔ yú yú yán zhī zhōng ， guǎn yí wú jǔ yú shì ， sūn shū áo jǔ yú hǎi ， bǎi lǐ xī jǔ yú shì 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "发：被起用，指舜从田野中被选拔出来，含被动意义。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "畎亩：田间，指农耕之地；‘畎’指田间小沟，‘亩’指田垄。"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "content": "说：指傅说（yuè），殷商名臣，此处为人名专用字。"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "content": "举：被举荐、提拔，与‘发’同为被动用法。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "版筑：古代筑墙技术，用夹板填土夯实；‘版’指模板，‘筑’指捣土工具。"
-            },
-            {
-              "start": 21,
-              "end": 22,
-              "content": "鱼盐：贩卖鱼和盐，指地位低下的职业，胶鬲曾以此为生。"
-            },
-            {
-              "start": 31,
-              "end": 31,
-              "content": "士：狱官，此处指管仲曾被囚于狱中而后被提拔。"
-            },
-            {
-              "start": 38,
-              "end": 38,
-              "content": "海：指海边，喻边远之地，孙叔敖曾隐居于此。"
-            },
-            {
-              "start": 45,
-              "end": 45,
-              "content": "市：市场，百里奚曾作为奴隶在市场上被买卖。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 31,
-              "end": 31,
-              "old": "狱官或低级官吏"
-            },
-            {
-              "start": 31,
-              "end": 31,
-              "new": "知识分子、读书人"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "‘舜发于畎亩之中’为状语后置句，正常语序应为‘舜于畎亩之中发’。"
-            },
-            {
-              "start": 8,
-              "end": 15,
-              "content": "‘傅说举于版筑之间’为状语后置句，‘于版筑之间’为地点状语后置。"
-            },
-            {
-              "start": 17,
-              "end": 24,
-              "content": "‘胶鬲举于鱼盐之中’为状语后置句，结构同上。"
-            },
-            {
-              "start": 26,
-              "end": 31,
-              "content": "‘管夷吾举于士’为状语后置句，‘于士’表提拔来源。"
-            },
-            {
-              "start": 33,
-              "end": 38,
-              "content": "‘孙叔敖举于海’为状语后置句，‘于海’为地点状语后置。"
-            },
-            {
-              "start": 40,
-              "end": 45,
-              "content": "‘百里奚举于市’为状语后置句，结构一致。"
-            }
-          ]
+          "translation": "舜从田野耕作之中被起用，傅说从筑墙的劳作之中被起用，胶鬲从贩鱼卖盐中被起用，管夷吾是从狱官手里被释放并加以任用的，孙叔敖从海滨隐居的地方被起用，百里奚被从奴隶集市里赎买回来并被起用。"
         },
         {
           "content": [
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "降",
               "pinyin": "jiàng",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "大",
               "pinyin": "dà",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "任",
               "pinyin": "rèn",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "必",
               "pinyin": "bì",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "先",
               "pinyin": "xiān",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "苦",
               "pinyin": "kǔ",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "志",
               "pinyin": "zhì",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "劳",
               "pinyin": "láo",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "筋",
               "pinyin": "jīn",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "骨",
               "pinyin": "gǔ",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "饿",
               "pinyin": "è",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "体",
               "pinyin": "tǐ",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "肤",
               "pinyin": "fū",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "空",
               "pinyin": "kòng",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "乏",
               "pinyin": "fá",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "拂",
               "pinyin": "fú",
-              "index": 81,
-              "read": true,
-              "write": true
+              "index": 81
             },
             {
               "char": "乱",
               "pinyin": "luàn",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "动",
               "pinyin": "dòng",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "忍",
               "pinyin": "rěn",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "性",
               "pinyin": "xìng",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "曾",
               "pinyin": "zēng",
-              "index": 94,
-              "read": true,
-              "write": true
+              "index": 94
             },
             {
               "char": "益",
               "pinyin": "yì",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             }
           ],
-          "translation": "故天将降大任给此人时，必先煎熬其心志，劳累其筋骨，饥饿其体肤，使其身困乏，使其所行受阻，以此锤炼心志坚韧性情，增强其不具备的能力。",
-          "pinyin": "gù tiān jiàng jiàng dà rèn yú shì rén yě ， bì xiān kǔ qí xīn zhì ， láo qí jīn gǔ ， è qí tǐ fū ， kōng fá qí shēn ， xíng fú luàn qí suǒ wéi ， suǒ yǐ dòng xīn rěn xìng ， zēng yì qí suǒ bù néng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "故：因此，承接上文六位贤人的经历，引出下文议论。"
-            },
-            {
-              "start": 2,
-              "end": 5,
-              "content": "降大任：下达重大的责任，‘降’有天命赋予之意。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "是人：这样的人，指前文经历磨难而终成大业者。"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "content": "苦：使……痛苦，使动用法，作用于‘心志’。"
-            },
-            {
-              "start": 18,
-              "end": 18,
-              "content": "劳：使……劳累，使动用法，作用于‘筋骨’。"
-            },
-            {
-              "start": 23,
-              "end": 23,
-              "content": "饿：使……饥饿，使动用法，作用于‘体肤’。"
-            },
-            {
-              "start": 28,
-              "end": 29,
-              "content": "空乏：使……资财缺乏，使动用法，作用于‘身’。"
-            },
-            {
-              "start": 33,
-              "end": 35,
-              "content": "行拂乱其所为：行为总是受到违背和扰乱；‘拂乱’即扰乱。"
-            },
-            {
-              "start": 41,
-              "end": 42,
-              "content": "所以：用来……的方法或手段，此处引出培养人才的方式，非现代因果连词。"
-            },
-            {
-              "start": 43,
-              "end": 43,
-              "content": "动：使……震动，使动用法，作用于‘心’。"
-            },
-            {
-              "start": 45,
-              "end": 45,
-              "content": "忍：使……坚韧，使动用法，作用于‘性’。"
-            },
-            {
-              "start": 47,
-              "end": 47,
-              "content": "曾：通‘增’，增加，指增强原本不具备的能力。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 41,
-              "end": 42,
-              "old": "用来……的方法或手段"
-            },
-            {
-              "start": 41,
-              "end": 42,
-              "new": "表示因果关系的连词，相当于‘因此’"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 13,
-              "end": 17,
-              "content": "‘苦其心志’为使动句式，意为‘使其心志受苦’。"
-            },
-            {
-              "start": 18,
-              "end": 22,
-              "content": "‘劳其筋骨’为使动句式，意为‘使其筋骨劳累’。"
-            },
-            {
-              "start": 23,
-              "end": 27,
-              "content": "‘饿其体肤’为使动句式，意为‘使其体肤饥饿’。"
-            },
-            {
-              "start": 28,
-              "end": 32,
-              "content": "‘空乏其身’为使动句式，意为‘使其身体资财匮乏’。"
-            }
-          ]
-        },
+          "translation": "所以上天要把重任降临在某人的身上，必定要先使他的内心痛苦，使他的筋骨劳累，使他经受饥饿之苦，以致肌肤消瘦，使他身处贫困之中，使他做事不顺，通过那样的途径来使他的心灵受到震撼，使他的性格坚韧起来，增加他所不具备的能力。"
+        }
+      ]
+    },
+    {
+      "sentences": [
         {
           "content": [
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "恒",
               "pinyin": "héng",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "过",
               "pinyin": "guò",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "改",
               "pinyin": "gǎi",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 109,
-              "read": false,
-              "write": false
-            },
+              "index": 109
+            }
+          ],
+          "translation": "人常常犯错，这样以后才能改正；"
+        },
+        {
+          "content": [
             {
               "char": "困",
               "pinyin": "kùn",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "衡",
               "pinyin": "héng",
-              "index": 114,
-              "read": true,
-              "write": true
+              "index": 114
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 115
             },
             {
               "char": "虑",
               "pinyin": "lǜ",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 116
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 117,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 119
             },
             {
               "char": "作",
               "pinyin": "zuò",
-              "index": 120,
-              "read": false,
-              "write": false
+              "index": 120
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 121,
-              "read": false,
-              "write": false
-            },
+              "index": 121
+            }
+          ],
+          "translation": "内心忧困，思想阻塞，然后才能奋起；"
+        },
+        {
+          "content": [
             {
-              "char": "徵",
+              "char": "征",
               "pinyin": "zhēng",
-              "index": 122,
-              "read": true,
-              "write": true
+              "index": 122
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 123,
-              "read": false,
-              "write": false
+              "index": 123
             },
             {
               "char": "色",
               "pinyin": "sè",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 124
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 125,
-              "read": false,
-              "write": false
+              "index": 125
             },
             {
               "char": "发",
               "pinyin": "fā",
-              "index": 126,
-              "read": false,
-              "write": false
+              "index": 126
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 127
             },
             {
               "char": "声",
               "pinyin": "shēng",
-              "index": 128,
-              "read": false,
-              "write": false
+              "index": 128
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 129,
-              "read": false,
-              "write": false
+              "index": 129
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 130,
-              "read": false,
-              "write": false
+              "index": 130
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 131,
-              "read": false,
-              "write": false
+              "index": 131
             },
             {
               "char": "喻",
               "pinyin": "yù",
-              "index": 132,
-              "read": false,
-              "write": false
+              "index": 132
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 133,
-              "read": false,
-              "write": false
+              "index": 133
             }
           ],
-          "translation": "人常犯错然后能改；心受困，思虑阻塞，而后奋起；显于色，发于声，而后觉悟。",
-          "pinyin": "rén héng guò ， rán hòu néng gǎi ； kùn yú xīn ， héng yú lǜ ， ér hòu zuò ； zhēng yú sè ， fā yú shēng ， ér hòu yù 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "content": "恒过：常常犯错误；‘恒’表示频率高。"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "content": "困：内心困扰，形容精神上的压抑。"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "content": "衡：通‘横’，梗塞、不顺，指思虑不通畅。"
-            },
-            {
-              "start": 20,
-              "end": 20,
-              "content": "作：奋起，有所作为，指在困境中崛起。"
-            },
-            {
-              "start": 21,
-              "end": 21,
-              "content": "徵：同‘征’，表现、显露，指情绪外显于面容。"
-            },
-            {
-              "start": 24,
-              "end": 24,
-              "content": "色：脸色、神情，指内心的外在表现。"
-            },
-            {
-              "start": 26,
-              "end": 26,
-              "content": "发：抒发，指通过言语表达内心情感。"
-            },
-            {
-              "start": 27,
-              "end": 27,
-              "content": "声：声音、言辞，指通过语言表达思想。"
-            },
-            {
-              "start": 32,
-              "end": 32,
-              "content": "喻：明白、理解，指别人能够理解其主张。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 21,
-              "end": 21,
-              "old": "表现、显现"
-            },
-            {
-              "start": 21,
-              "end": 21,
-              "new": "征收、征召"
-            },
-            {
-              "start": 32,
-              "end": 32,
-              "old": "被理解、明白"
-            },
-            {
-              "start": 32,
-              "end": 32,
-              "new": "比喻、说明"
-            },
-            {
-              "start": 20,
-              "end": 20,
-              "old": "奋起、有所作为"
-            },
-            {
-              "start": 20,
-              "end": 20,
-              "new": "写作、制作"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 9,
-              "end": 16,
-              "content": "‘困于心，衡于虑’为状语后置句，应为‘于心困，于虑衡’。"
-            },
-            {
-              "start": 21,
-              "end": 27,
-              "content": "‘徵于色，发于声’为状语后置句，正常语序为‘于色徵，于声发’。"
-            }
-          ]
+          "translation": "表现在脸色上，流露在言谈中，才能被人们了解。"
         },
         {
           "content": [
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 134,
-              "read": false,
-              "write": false
+              "index": 134
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 135,
-              "read": false,
-              "write": false
+              "index": 135
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 136,
-              "read": false,
-              "write": false
+              "index": 136
             },
             {
               "char": "法",
               "pinyin": "fǎ",
-              "index": 137,
-              "read": false,
-              "write": false
+              "index": 137
             },
             {
               "char": "家",
               "pinyin": "jiā",
-              "index": 138,
-              "read": false,
-              "write": false
+              "index": 138
             },
             {
               "char": "拂",
               "pinyin": "bì",
-              "index": 139,
-              "read": true,
-              "write": true
+              "index": 139
             },
             {
               "char": "士",
               "pinyin": "shì",
-              "index": 140,
-              "read": false,
-              "write": false
+              "index": 140
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 141,
-              "read": false,
-              "write": false
+              "index": 141
             },
             {
               "char": "出",
               "pinyin": "chū",
-              "index": 142,
-              "read": false,
-              "write": false
+              "index": 142
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 143,
-              "read": false,
-              "write": false
+              "index": 143
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 144,
-              "read": false,
-              "write": false
+              "index": 144
             },
             {
               "char": "敌",
               "pinyin": "dí",
-              "index": 145,
-              "read": false,
-              "write": false
+              "index": 145
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 146,
-              "read": false,
-              "write": false
+              "index": 146
             },
             {
               "char": "外",
               "pinyin": "wài",
-              "index": 147,
-              "read": false,
-              "write": false
+              "index": 147
             },
             {
               "char": "患",
               "pinyin": "huàn",
-              "index": 148,
-              "read": false,
-              "write": false
+              "index": 148
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 149,
-              "read": false,
-              "write": false
+              "index": 149
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 150,
-              "read": false,
-              "write": false
+              "index": 150
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 151,
-              "read": false,
-              "write": false
+              "index": 151
             },
             {
               "char": "恒",
               "pinyin": "héng",
-              "index": 152,
-              "read": false,
-              "write": false
+              "index": 152
             },
             {
               "char": "亡",
               "pinyin": "wáng",
-              "index": 153,
-              "read": false,
-              "write": false
+              "index": 153
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 154,
-              "read": false,
-              "write": false
+              "index": 154
             }
           ],
-          "translation": "国内无守法大臣辅佐，国外无敌国外患警惕，国家往往灭亡。",
-          "pinyin": "rù zé wú fǎ jiā bì shì ， chū zé wú dí guó wài huàn zhě ， guó héng wáng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "入：指在国内，与‘出’相对，方位名词作状语。"
-            },
-            {
-              "start": 3,
-              "end": 6,
-              "content": "法家拂士：‘法家’指坚持法度的臣子，‘拂士’同‘弼士’，指能纠正君主过失的贤士。"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "content": "出：指在国外，与‘入’对应，表空间方位。"
-            },
-            {
-              "start": 11,
-              "end": 12,
-              "content": "敌国：势力相当的国家，能形成制衡，非字面‘敌对国家’之意。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 16,
-              "content": "‘入则无法家拂士，出则无敌国外患者’为判断句，无判断词，靠语意表达国家存亡条件。"
-            }
-          ]
+          "translation": "一个国家，在内如果没有坚守法度的大臣和足以辅佐君王的贤士，在外没有与之匹敌的邻国和来自外国的祸患，就常常会有覆灭的危险。"
         },
         {
           "content": [
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 155,
-              "read": false,
-              "write": false
+              "index": 155
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 156,
-              "read": false,
-              "write": false
+              "index": 156
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 157,
-              "read": false,
-              "write": false
+              "index": 157
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 158,
-              "read": false,
-              "write": false
+              "index": 158
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 159,
-              "read": false,
-              "write": false
+              "index": 159
             },
             {
               "char": "忧",
               "pinyin": "yōu",
-              "index": 160,
-              "read": false,
-              "write": false
+              "index": 160
             },
             {
               "char": "患",
               "pinyin": "huàn",
-              "index": 161,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 162,
-              "read": false,
-              "write": false
+              "index": 161
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 163,
-              "read": false,
-              "write": false
+              "index": 162
             },
             {
               "char": "死",
               "pinyin": "sǐ",
-              "index": 164,
-              "read": false,
-              "write": false
+              "index": 163
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 165,
-              "read": false,
-              "write": false
+              "index": 164
             },
             {
               "char": "安",
               "pinyin": "ān",
-              "index": 166,
-              "read": false,
-              "write": false
+              "index": 165
             },
             {
               "char": "乐",
               "pinyin": "lè",
-              "index": 167,
-              "read": false,
-              "write": false
+              "index": 166
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 168,
-              "read": false,
-              "write": false
+              "index": 167
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 169,
-              "read": false,
-              "write": false
+              "index": 168
             }
           ],
-          "translation": "由此可知忧患使人生存，安乐使人灭亡。",
-          "pinyin": "rán hòu zhī shēng yú yōu huàn ， ér sǐ yú ān lè yě 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "生：使……生存，使动用法，指在忧患中得以发展。"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "content": "死：使……灭亡，使动用法，指因安乐而衰亡。"
-            }
-          ]
+          "translation": "这样，就知道常处忧愁祸患之中可以使人生存，常处安逸快乐之中可以使人死亡的道理了。"
         }
       ]
     }
@@ -1554,5 +899,8 @@
     "说理散文"
   ],
   "background": "春秋战国时期，战乱纷争，一个国家要想立于不败之地，就不能安于现状、不思进取，要奋发图强；一个人若安逸享乐，没有克服困难的能力，就会在困难面前束手无策，随时有生命危险。因此，孟子作《生于忧患，死于安乐》，是在提醒人们，不管什么时候，都应该有忧患意识，居安思危。",
-  "appreciation": "《生于忧患，死于安乐》是一篇议论文。这篇文章以舜、傅说等古代圣贤在困境中振作精神、奋发努力才终有所成的实例为引，深入阐述了个人要完成天赋使命就必须经历种种挫折与考验的道理，进而推及一个国家的生死存亡亦是如此，最后得出论点“生于忧患而死于安乐”。此文语言流畅，作者运用类推的逻辑方法说明深刻道理，全文逻辑层次清晰，论证严密，文章紧凑，神完气足。"
+  "appreciation": "《生于忧患，死于安乐》是一篇议论文。这篇文章以舜、傅说等古代圣贤在困境中振作精神、奋发努力才终有所成的实例为引，深入阐述了个人要完成天赋使命就必须经历种种挫折与考验的道理，进而推及一个国家的生死存亡亦是如此，最后得出论点“生于忧患而死于安乐”。此文语言流畅，作者运用类推的逻辑方法说明深刻道理，全文逻辑层次清晰，论证严密，文章紧凑，神完气足。",
+  "annotation": "舜：姚姓，名重华。唐尧时耕于历山（在今山东济南东南，一说在今山西永济东南），“父顽，母嚣，弟傲，能和以孝”，尧帝使其人山林川泽，遇暴风雷雨，舜行不迷，于是传以天子之位。国名虞，史称虞舜。事迹见于《尚书·尧典》及《史记·五帝本纪》等。发：兴起，这里指被任用。畎亩：田亩，此处意为耕田。傅说：殷商时为胥靡（一种刑徒），筑于傅险（又作傅岩，在今山西平陆东）。商王武丁欲兴殷，梦得圣人，名曰说，视群臣皆非，使人求于野，得傅说。见武丁，武丁曰：“是也。”与之语，果圣人，举以为相，殷国大治。遂以傅险为姓，名为傅说。事迹见于《史记·殷本纪》等。举：被选拔。版筑：筑墙的时候在两块夹板中间放土，用杵捣土，使它坚实。筑，捣土用的杵。胶鬲（gé）：商纣王大臣，与微子、箕子、王子比干同称贤人。鱼盐：此处意为在海边捕鱼晒盐。《史记》称燕在渤碣之间，有鱼盐之饶；齐带山海，多鱼盐。管夷吾：管仲，颍上（今安徽省颍上县）人，家贫困。辅佐齐国公子纠，公子纠未能即位，公子小白即位，是为齐桓公。齐桓公知其贤，释其囚，用以为相，尊称之为仲父。《史记·管晏列传》：“管仲既用，任政于齐，齐桓公以霸。九合诸侯，一匡天下，管仲之谋也。”士：狱官。孙叔敖（áo）：蒍姓，名敖，字孙叔，一字艾猎。春秋时为楚国令尹（宰相）。本为“期思之鄙人”，期思在今河南固始，偏僻之地称为鄙。海：海滨。百里奚（xī）：又作百里傒。本为虞国大夫。晋国灭虞国，百里奚与虞国国君一起被俘至晋国。晋国嫁女于秦，百里奚被当作媵臣陪嫁到秦国。百里奚逃往楚国，行至宛（今河南南阳），为楚国边界之鄙人所执。秦穆公闻其贤，欲重赎之，恐楚人不与，乃使人谓楚曰：“吾媵臣百里奚在焉，请以五羖羊皮赎之。”楚人于是与之。时百里奚年已七十余，至秦，秦穆公亲释其囚，与语国事三日，大悦。授以国政，号称“五羖大夫”。史称秦穆公用百里奚、蹇叔、由余为政，“开地千里，遂霸西戎”，成为“春秋五霸”之一。事迹见于《史记·秦本纪》。市：集市。故：所以。任：责任，担子。是：代词，这，这些。也：助词，用在前半句的末尾，表示停顿一下，后半句将要加以解说。必：一定。苦：形容词的使动用法，使……苦恼。心志：意志。劳：动词的使动用法，使……劳累。饿：动词的使动用法，使……饥饿。体肤：肌肤。空乏：形容词的使动用法，使……穷困。拂乱：形容词的使动用法，使……颠倒错乱。拂，违背，不顺。乱，错乱。所为：所行。所以：用来（通过那样的途径来……）。动：动词的使动用法，使……惊动。忍：形容词的使动用法，使……坚韧。曾益：增加。曾，通“增”。能：才干。恒：常常，总是。过：犯错误。然后：这样以后。困于心：心中有困苦。衡于虑：思虑堵塞。衡，通“横”，梗塞，指不顺。作：奋起，指有所作为。征于色：表现在脸色上。征，征验，征兆。色，颜面，面色。赵岐《孟子注》：“若屈原憔悴，渔父见而怪之。”《史记·屈原贾谊列传》：“屈原至于江滨，被发行吟泽畔，颜色憔悴，形容枯槁。渔父见而问之曰：‘子非三闾大夫与？何故而至此？’屈原曰：‘举世混浊我独清，众人皆醉我独醒，是以见放。’”发于声：流露在言谈中。赵岐《孟子注》：“若甯戚商歌，桓公异之。”甯戚，春秋时卫国人。家贫，为人挽车。至齐，喂牛于车下，齐桓公夜出迎客，甯戚见之，疾击其牛角而商歌。歌曰：“南山矸，白石烂，生不逢尧与舜禅。短布单衣适至骭，从昏饭牛薄夜半，长夜漫漫何时旦。”齐桓公召与语，悦之，以为大夫。而后喻：才能被人们了解。喻，知晓，明白。入：动词活用作状语，在国内。法家：有法度的世臣。拂（bì）士：辅佐君主的贤士。拂，通“弼”，辅佐。出：动词用作状语，在国外。敌国：实力相当、足以抗衡的国家。外患：来自国外的祸患。恒：常常。亡：灭亡。生于忧患：忧患使人生存发展。死于安乐：享受安乐使人萎靡死亡。",
+  "comprehensive_appreciation": "赏析二：《生于忧患，死于安乐》这篇短文不但立论高远，见解卓越，道常人所不能道，而且论证明晰，逻辑严谨，有不容置辩的说服力。本文善用排比，层层深入进行论证，形成压倒一切的逼人气势，在艺术上也很值得称道。孟子在这篇不到二百字的短章中，围绕客观环境与个人和国家命运的关系，阐述了“生于忧患，死于安乐”的深刻道理。文中说一个人要成就大事，一定要经历许多艰难困苦的磨炼，只有经历艰难困苦，经风雨，见世面，才能锻炼意志，增长才干，担当大任。安逸享乐，在温室里成长，则不能养成克服困难，摆脱逆境的能力，会在困难面前束手无策，遇挫折、逆境则消沉绝望，往往导致灭亡。所以他得出结论：“生于忧患而死于安乐”。文章一开头并没有正面提出任何观点，而是一口气列举了虞舜、傅说、胶鬲、管仲、孙叔敖、百里奚等六位古代圣贤从贫贱中发迹的例子。这六个人的共同特点是他们在担当“大任”之前，都曾饱经忧患，经历过坎坷艰难的人生历程。正因为付出了非同寻常的代价，这些圣贤才能“动心忍性，曾益其所不能”，成就一番宏大的事业。所以这后面的结论又倒过来说明了这六位圣贤成功的原因。“动心忍性，曾益其所不能”为使动句。动心，使心惊动。忍性，《孟子正义》释为使本性(性格、性情)符合仁的要求。忍，能也；能，任也，故忍性为任性。孟子主张性善，仁义礼智生于心，即本于性。任其性，即以仁为己任也。“曾益其所不能”，使他们增加了做本来不能做的事的能力。命运的挫折，身心的磨难，不但没有使他们屈服，反而磨砺他们的人格，增长他们的才干，使他们变得更加成熟，最终成为历史上的杰出人物。由此推论，上天如果要把重大的使命放到一个人的肩上，就一定要先磨练他的意志，锻炼他的筋骨，还要让他经受缺吃少穿、穷困潦倒之苦，这样，才能使他适应各种艰苦的生活，为将来的建功立业奠定坚实的基础。接着，孟子进一步指出：“人恒过，然后能改；困于心，衡于虑，而后作；征于色，发于声，而后喻。”这写的是生于忧患。这是一个并列复句，每个分句前半写“忧”，后半写“生”。人在客观世界中，不能无过，有过能改，就求得了“生”。能改是一种境界，这种境界是指人的主观世界在客观世界中取得了相对的自由。能改，不仅指人在道德品质上符合了仁义礼智信的要求，还指人对客观世界的认识水平、创造能力得到了提高与发挥。一个“能”是人的愿望、决心与主观能动性的体现。人的一生常常会因为主观愿望与客观世界的巨大矛盾，主观学识品行才能与客观处境的矛盾而忧心忡忡，内心充满苦恼压抑与困惑，思虑阻塞不畅。但是人也正是忧患困境中磨练了意志、提高了认识、超越了自我奋发而有所作为。人是有感情的动物，客观世界常常引起人们喜怒哀乐好恶忧惧等感情，他们被这些感情所困扰。表露在脸色上与语言中，然后得到别人的同情与理解。人就在这种与忧患的斗争中，找到了“生”的方式与途径，获得了“生”的意义与价值．，取得了“生”的信心与自由，这就是生于忧患的含义。“苦其心志”等主要是说物质上的忧患，这一层主要讲的是精神上的忧患。“入则无法家拂士，出则无敌国外患者，国恒亡”写的是死于安乐。如果在内没有能干的大臣时时注意修明法度，没有敢于直谏的贤士处处提醒国君；在外又没有足以与自己的国家抗衡、对自己的国家构成威胁的敌国，那么在这种宽松平和的国度里，国君便可以整日耽于安乐(他既不需文韬，又不需武略；既不需文治又不需武功)，而安乐的结果也往往就是国家的灭亡，这就是“死于安乐”的含义。忧患可以使人发奋，安乐可以松懈斗志；逆境中求生，顺境中灭亡，这就是人生的辩证法，这就是生活的哲理。这也是孟子作为孔子之后又一个儒学大师所提出的体现儒家奋发有为、积极用世思想的著名论断。富贵福泽可以使我们生活得更好，这是人所共知的常识，也是人们追求的愿望。贫贱忧戚，则是人们所不愿接受的。但张载却说贫贱忧戚，“庸玉汝于成也”，是帮助你取得成功的机会。人们都希望一帆风顺，万事如意，孟子却说 “生于忧患而死于安乐”；人们不愿贫贱忧戚，张载却说这是“玉汝于成”，帮助你成功。二者思想是一致的，包含着深刻哲理，体现了中国人的人生智慧。它告诉我们一个真理：人生不是康庄大道，总是会遇到种种艰难曲折，要在不断经历失败和挫折，不断克服困难的奋斗中前进。正是这样的人生智慧，指引人们把困难和逆境看作激励自己奋进的动力，自觉地在困难和逆境中磨炼自己，愈挫愈奋，不屈不挠地去争取胜利，养成了中华民族不畏艰险，自强不息的精神。一部中国历史，处处渗透着这种精神。司马迁在蒙受宫刑的奇耻大辱的情况下，发奋著述，完成了不朽巨著《史记》。他在致友人任安的信《报任安书》中，曾列举了许多先贤在逆境中奋起的事例，如周文王被拘禁，推演了《周易》；孔子受困厄，作了《春秋》；屈原遭放逐，写了《离骚》；左丘明双目失明，著了《国语》；孙子受了膑脚之刑，修了《兵法》，等等。他说，所有这一切，都是先贤在困厄中发奋作出的业绩。司马迁正是以此激励自己，继承这种精神，完成了撰写《史记》的伟业。牢记生于忧患死于安乐的真理，提倡自觉磨炼的精神，有着特别重要的意义；只有自觉经受艰难困苦的磨炼，才能担当起迎接伟大民族复兴的重任。孟子善用排比(也善于将排比、对偶夹在一段文字里用)，往往对于同一论题，采用一连串整齐的句式进行多角度多层次的说明，有如干流万壑、一时俱下，形成滔滔汩汩、一泻千里、不可阻挡的气势。《舜发》开头，运用归纳椎弹的方式．一口气举了六个圣贤成功的事例，形成了一组结构相似、意义相关的排比句，这就从数量上予以强调，说明了“生于忧患”是一种普遍的社会现象，给读者以深刻印象；接着又用排比句极力铺排天降大任于是人之前对人们的磨练与考验，反衬了圣贤成功的不易；然后再用排比句进一步说明生于忧患、死于安乐的道理。《舜发》几乎通篇用排比，从语义上说，以简练的语言表达了丰富内容；从语气上说，加强了语言气势和感情色彩；从语形上看，给人以整齐对称的美感。赏析：《生于忧患，死于安乐》选自《孟子·告子下》，是一篇论证严密、雄辩有力的说理散文。作者先列举六位经过贫困、挫折的磨炼而终于担当大任的人的事例，证明忧患可以激励人奋发有为，磨难可以促使人有新成就。接着，作者从一个人的发展和一个国家的兴亡两个不同的角度进一步论证忧患则生、安乐则亡的道理。最后水到渠成，得出“生于忧患，而死于安乐”的结论。全文采用列举历史事例和讲道理相结合的写法，逐层推论，使文章紧凑，论证缜密；此外，文章多用排比句和对仗句，即使语气错落有致，又造成一种势不可挡的气势，有力地增强了论辩的说服力。文章开头，作者一连列举了六位古代圣贤在困难忧患中崛起的事例，来证明“天将降大任于是人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为，所以动心忍性，曾益其所不能”这一著名论断。这个推理过程属于逻辑学上的归纳推理，即由前面六个特殊的事例，归纳出后面带普通意义的结论；又通过后面的结论，说明了前面六个人物所以成功的原因：艰苦的环境，一方面给人们以困苦、饥饿、贫困、疲乏、忧虑，每每就不如人意，但另一方面，也正是这些困难，坚定、振奋人们的意志，使人们在不断克服困难，求得生存的过程中增加了聪明才干。然而道理在此还没有说完，上面只谈到，在人与客观环境这一对矛盾中，客观环境对人的触动，反过来，针对人的主观世界对此又是怎样做出反应，孟子接着指出：“人恒过，然后能改；困于心，衡于虑，而后作；征于色，发于声，而后喻。”客观环境的困难和自身判断的失误，造成人在改造客观的过程中的错误，而他也就在不断克服困难的过程中积累了经验教训，从而达到“能改”的境界——这个“能”，从语义上讲，不仅体现了人的愿望、决心，也体现了人的能力。他因为自身所遭遇的困难而忧虑、痛苦、困惑，造成内心的压抑，而他也就在不断冲破这些心理压抑的尝试中，活跃了自己的思维，激发了自己的创造力。更重要的一点，人是有感情的，又是社会性的，他有痛苦，有忧虑，想发愤，想创造，必然表现在形色上，吐发在言辞中，期望得到理解与同情、启发与帮助。人就在这一切与忧患的斗争中，一方面求得了物质的生存可能，另一方面更求得了精神的生存，表现了他的活力、意志、情感、创造能力，一句话，表现了他“生”的价值。这，就是“生于忧患，死于安乐”的全部含义。刘熙载在《艺概·文概》里指出：“昌黎（韩愈）以‘是’、‘异’二字论文，然二者仍须合一。若不‘异’之‘是’，则庸而已；若不‘是’之‘异’，则妄而已。”这种主张，实在起于孟子的影响。孟子在提出“生于忧患”这一“是”命题的同时，也提出了它的“异”命题： “死于安乐”。“入则无法家拂士，出则无敌国外患”。在内没有能干的大臣，时时注意修明法度；没有敢于直谏的贤士，处处提醒国君克己慎终。在外又没有敌国的抗衡、外寇的侵扰。如此安适的环境，首先带来的必然是精神的怠惰和意志的消沉。这是精神上的死亡。紧接着必然是物质上的死亡——“国恒亡”。“生于忧患，死于安乐”，一反一正，一是一异，相辅相成地说明了同一人生哲理的两面。既不使人因正面说教而感沉闷，又不为邀人眷顾而故发惊人之谈；既娓娓动听，又给人警策；既不庸，又不妄。尤其值得注意的是：“生于忧患，死于安乐”这一命题的明确提出，在孟子也许只是为了给人以政治道德上的启迪。但作为一条具普遍意义的人生哲理，其影响绝不仅仅表现在政治道德上。特别是“困于心，衡于虑，而后作；征于色，发于声，而后喻”两句，直接导引了中国古典文学艺术创造的一条极重要的美学原则的形成，这就是“发愤抒情”这一美学创作原则。这亦是千百年来，孟子此篇所以脍炙人口的原因。在修辞上，此文也很有特色。《孟子》善用排比句，往往采用一连串结构相同的句式，对于同一论题，进行多角度多层次的说明，有如千流万壑，一时俱下，形成滔滔万里不可阻挡的气势。孟子文之称雄辩，这类句式的采用是很重要的一个原因。《生于忧患，死于安乐》，配合归纳的推理方式，便采用了这种句式，一起首连举六位圣贤的成功事迹，从数量上给人以深刻印象，使人觉得“生于忧患”确是一种普遍存在的社会现象；接着又极力铺排艰难环境给人们带来的磨难，反衬了圣贤成功的不易；然后再历述圣贤面对艰难忧患的正确态度与处理方法，最终得出“生于忧患，死于安乐”的结论，很有说服力。一般说来，铺陈排比的写法，固可造成宏大气势；若处理不当，也可致繁复拖沓之虞。其后的汉大赋，由于片面强调了这一特点，往往使人难以卒读。而孟子的这篇文章，虽通篇采用排比句式，却仍给人以行文简洁的印象。原因在于，孟子十分注意遣词用字，尽量扩充每一词语，尤其是动词的容量。以起首一段为例，共六句话，六个动词，包括一个“发”，五个“举”，既表现了人物由微贱趋向显达的运动过程，又暗示了人物身份：舜君子，是圣人，他的成功，固然因为尧的赏识，但主要靠的是他自身的才能与努力，故曰“发”；傅说等是臣，是贤人，他们的成功，固然因为自身的才能与努力，但主要靠的是明主的知遇，故曰“举”。如同所有成就辉煌的文人学者一样，孟子的一生也是不甚得意的。此文写得如此出色，诚为“发愤抒情”的结果。",
+  "knowledge": "### 通假字\n\n1. 曾益其所不能\n（曾，通“增”。）\n2. 衡于虑 （衡，通“横”，梗塞，指不顺。）\n3. 入则无法家拂士 （拂（bì），通“弼”，辅佐。）\n\n### 词类活用\n生于忧患（生：名词作动词，生存）死于安乐（死：名词作动词，死亡\n）必先苦其心志（苦：动词的使动用法，使……苦恼。）劳其筋骨（劳：动词的使动用法，使……劳累。）饿其体肤（饿：动词的使动用法，使……饥饿。）空乏其身（空乏：形容词的使动用法，使……穷困。）行拂乱其所为（拂乱：形容词的使动用法，使……颠倒错乱。）所以动心忍性（动：动词的使动用法，使……惊动。忍：形容词的使动用法，使……坚韧。）入则无法家拂士（入：动词活用作状语，在国内。）出则无敌国外患者（出：动词活用作状语，在国外。）\n\n### 一词多义\n拂：\n1. 行拂乱其所为（违背）\n2. 入则无法家拂士 （辅佐 ）发：\n1. 发于畎亩之中 （任用 ）\n2. 发于声 （显露 ）士 ：\n1. 管夷吾举于士 （狱官）\n2. 入则无法家拂士 （贤士 ）\n\n### 古今异义\n管夷吾举于士古义：狱官。今义：指男子，也引申官阶等级；也用作姓氏故天将降大任于是人也古义：代词，这，这些。今义：用作系词表示判断。所以动心忍性古义：用来（通过那样的途径来……）今义：因此、因而。发于声古义：流露，显露。今义：生长、发生、送出、表达、开展等义"
 }

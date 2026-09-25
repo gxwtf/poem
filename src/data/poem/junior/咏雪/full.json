@@ -1,8 +1,8 @@
 {
   "name": "咏雪",
   "author": "刘义庆",
-  "dynasty": "南朝宋",
-  "mode": "paragraph",
+  "dynasty": "南北朝",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,786 +11,475 @@
             {
               "char": "谢",
               "pinyin": "xiè",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "太",
               "pinyin": "tài",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "傅",
               "pinyin": "fù",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "寒",
               "pinyin": "hán",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "内",
               "pinyin": "nèi",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "集",
               "pinyin": "jí",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "儿",
               "pinyin": "ér",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "讲",
               "pinyin": "jiǎng",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "论",
               "pinyin": "lùn",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "文",
               "pinyin": "wén",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "义",
               "pinyin": "yì",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             }
           ],
-          "translation": "谢安在寒冷雪日家庭聚会，与子侄辈讲解诗文义理。",
-          "pinyin": "xiè tài fù hán xuě rì nèi jí ， yǔ ér nǚ jiǎng lùn wén yì 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "content": "内集：家庭内部聚会，指谢安与子侄辈聚集。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "儿女：此处泛指子侄辈，不限于亲生子女。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "文义：诗文的义理或内容，指文学讨论的主题。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 10,
-              "end": 11,
-              "old": "子侄辈"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "new": "子女"
-            }
-          ]
+          "translation": "谢安在寒冷的雪天把家里人聚集在一起，给家里的小辈讲解文章的义理。"
         },
         {
           "content": [
             {
               "char": "俄",
               "pinyin": "é",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "骤",
               "pinyin": "zhòu",
-              "index": 20,
-              "read": true,
-              "write": true
+              "index": 20
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "欣",
               "pinyin": "xīn",
-              "index": 23,
-              "read": true,
-              "write": true
+              "index": 23
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "白",
               "pinyin": "bái",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "纷",
               "pinyin": "fēn",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "纷",
               "pinyin": "fēn",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "似",
               "pinyin": "sì",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "”",
-              "index": 36,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 36
             }
           ],
-          "translation": "不久雪势转急，谢公兴致勃勃地问：“这纷纷扬扬的白雪像什么？”",
-          "pinyin": "é ér xuě zhòu ， gōng xīn rán yuē ： “ bái xuě fēn fēn hé suǒ sì ？”",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "俄而：不久，一会儿，表示时间短暂。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "骤：急、猛，形容雪下得急促。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "欣然：高兴的样子。欣，喜悦；然，形容词词尾。"
-            },
-            {
-              "start": 15,
-              "end": 17,
-              "content": "何所似：像什么？‘何’为疑问代词作宾语前置。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 15,
-              "end": 17,
-              "content": "宾语前置句，‘何所似’即‘所似者何’，疑问代词‘何’作宾语前置。"
-            }
-          ]
+          "translation": "不久，雪下得很急，太傅高兴地说：“这纷纷扬扬的白雪像什么？”"
         },
         {
           "content": [
             {
               "char": "兄",
               "pinyin": "xiōng",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "儿",
               "pinyin": "ér",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "撒",
               "pinyin": "sǎ",
-              "index": 44,
-              "read": true,
-              "write": true
+              "index": 44
             },
             {
               "char": "盐",
               "pinyin": "yán",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "空",
               "pinyin": "kōng",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "差",
               "pinyin": "chā",
-              "index": 48,
-              "read": true,
-              "write": false
+              "index": 48
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "拟",
               "pinyin": "nǐ",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "”",
-              "index": 52,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 52
             }
           ],
-          "translation": "侄子谢朗说：“勉强可比作空中撒盐。”",
-          "pinyin": "xiōng zǐ hú ér yuē ： “ sǎ yán kōng zhōng chà kě nǐ 。”",
-          "notes": [
-            {
-              "start": 11,
-              "end": 13,
-              "content": "差可拟：大致可以相比。差，大致；拟，比拟。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 11,
-              "end": 11,
-              "old": "大致"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "new": "错误"
-            }
-          ]
+          "translation": "他哥哥的长子谢朗说：“在空中撒盐大体可以相比。”"
         },
         {
           "content": [
             {
               "char": "兄",
               "pinyin": "xiōng",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "未",
               "pinyin": "wèi",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "若",
               "pinyin": "ruò",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "柳",
               "pinyin": "liǔ",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "絮",
               "pinyin": "xù",
-              "index": 61,
-              "read": true,
-              "write": true
+              "index": 61
             },
             {
               "char": "因",
               "pinyin": "yīn",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "起",
               "pinyin": "qǐ",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "”",
-              "index": 66,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 66
             }
           ],
-          "translation": "侄女道：“不如比作柳絮乘风起舞。”",
-          "pinyin": "xiōng nǚ yuē ： “ wèi ruò liǔ xù yīn fēng qǐ 。”",
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "未若：不如，比不上。"
-            },
-            {
-              "start": 9,
-              "end": 11,
-              "content": "因风起：随风而起。因，凭借、随着。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 10,
-              "end": 10,
-              "old": "随、凭借"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "new": "因为"
-            }
-          ]
+          "translation": "另一个哥哥的女儿说：“不如比作柳絮乘风飞舞。”"
         },
         {
           "content": [
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "大",
               "pinyin": "dà",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "笑",
               "pinyin": "xiào",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "乐",
               "pinyin": "lè",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             }
           ],
-          "translation": "谢安开怀大笑。",
-          "pinyin": "gōng dà xiào lè 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 4,
-              "content": "大笑乐：大笑并感到快乐，形容气氛欢快。"
-            }
-          ]
+          "translation": "太傅大笑起来。"
         },
         {
           "content": [
             {
               "char": "即",
               "pinyin": "jí",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "大",
               "pinyin": "dà",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "兄",
               "pinyin": "xiōng",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "奕",
               "pinyin": "yì",
-              "index": 77,
-              "read": true,
-              "write": true
+              "index": 77
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "左",
               "pinyin": "zuǒ",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "军",
               "pinyin": "jūn",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "凝",
               "pinyin": "níng",
-              "index": 84,
-              "read": true,
-              "write": true
+              "index": 84
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "妻",
               "pinyin": "qī",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             }
           ],
-          "translation": "这女孩正是谢安长兄谢无奕之女，后来成为左将军王凝之的妻子。",
-          "pinyin": "jí gōng dà xiōng wú yì nǚ ， zuǒ jiāng jūn wáng níng zhī qī yě 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 6,
-              "content": "无奕女：指谢道韫，谢无奕之女，才女代表。"
-            },
-            {
-              "start": 11,
-              "end": 13,
-              "content": "王凝之：东晋书法家王羲之次子，曾任左将军。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 16,
-              "content": "判断句，用‘即……也’结构表示身份判断，相当于‘是’。"
-            }
-          ]
+          "translation": "她就是谢无奕的女儿谢道韫，左将军王凝之的妻子。"
         }
       ]
     }
@@ -801,5 +490,8 @@
     "笔记小说"
   ],
   "background": "这篇《咏雪》始出于东晋谢安与其子侄辈们的一段即兴对话。",
-  "appreciation": "这篇文章言简意赅地勾勒了疾风骤雪、纷纷扬扬的下雪天，谢家子女即景赋诗咏雪的情景，展示了古代家庭文化生活轻松和谐的画面。文中通过神态描写和身份补叙，赞赏谢道韫的文学才华，并因此而流传千古，成为一段佳话。此文尤其注意传达魏晋清谈家独特的语言形象，重视人物语言的润饰，真可谓“读其语言，晋人面目气韵，恍忽生动，而简约玄澹，真致不穷，古今绝唱也。”"
+  "appreciation": "这篇文章言简意赅地勾勒了疾风骤雪、纷纷扬扬的下雪天，谢家子女即景赋诗咏雪的情景，展示了古代家庭文化生活轻松和谐的画面。文中通过神态描写和身份补叙，赞赏谢道韫的文学才华，并因此而流传千古，成为一段佳话。此文尤其注意传达魏晋清谈家独特的语言形象，重视人物语言的润饰，真可谓“读其语言，晋人面目气韵，恍忽生动，而简约玄澹，真致不穷，古今绝唱也。”",
+  "annotation": "谢太傅：即谢安（320—385），字安石，陈郡阳夏（jiǎ）（今河南太康）人，东晋政治家。死后追赠为太傅。内集：把家里人聚集在一起。儿女：子女，这里泛指家里的小辈，包括侄儿侄女。文义：文章的义理。俄而：不久，一会儿。骤：急。欣然：高兴的样子。然：......的样子。何所似：像什么。胡儿：即谢朗，字长度，小名胡儿，谢安次兄谢据的长子。差（chā）可拟：大体可以相比。差，大体。拟，相比。未若：不如，不及。因风：乘风。因，趁、乘。公大兄无奕女：指东晋诗人谢道韫（yùn），谢无奕之女，聪慧有才辩。无奕，谢安长兄谢奕，字无奕。王凝之：字叔平，书法家王羲之的次子，曾任左将军。",
+  "comprehensive_appreciation": "赏析二：始出于东晋谢安与其子侄辈们的一段即兴对话。言简意赅地勾勒了疾风骤雪、纷纷扬扬的下雪天，谢家子女即景赋诗咏雪的情景，展示了古代家庭文化生活轻松和谐的画面。文章通过神态描写和身份补叙，赞赏谢道韫的文学才华，并因此而流传千古，成为一段佳话。《咏雪》作为清谈名士的教科书，特别注意传达魏晋清谈家的独特的语言形象，重视人物语言的润饰，“读其语言，晋人面目气韵，恍忽生动，而简约玄澹，真致不穷，古今绝唱也。”“谢太傅寒雪日内集，与儿女讲论文义。”文章第一句交代咏雪的背景。短短的十五个字，涵盖的内容相当多。东晋的谢氏家族是个赫赫有名的诗礼簪缨之家，为首的是谢太傅即谢安。在这样的家族里，遇到雪天无法外出，才有“讲论文义”的雅兴。召集人兼主讲人自然是谢安，听众是“儿女”们。时间、地点、人物、事件全都说到了。接着写主要事件咏雪（其实是主讲人出题考听众）。主讲人何以有此雅兴？原来是天气发生了变化：“俄而雪骤”，早先也有雪，但不大，而此刻变成了纷纷扬扬的鹅毛大雪。这使主讲人感到很高兴，于是“公欣然曰：‘白雪纷纷何所似?’兄子胡儿曰：‘撒盐空中差可拟。’兄女曰：‘未若柳絮因风起。’”答案可能不少，但作者只记录下了两个：一个是谢朗说的“撒盐空中”；另一个是谢道韫说的“柳絮因风起”。主讲人对这两个答案的优劣未做评定，只是“大笑乐”而已，十分耐人寻味。作者也没有表态，却在最后补充交代了谢道韫的身份，“即公大兄无奕女，左将军王凝之妻也。”这是一个有力的暗示，表明他欣赏及赞扬谢道韫的才气，并写出了谢道韫是“咏絮才”。为何说谢道韫作的词句更好呢？柳絮，作为春时景物，有似花非花，因风而起，飘忽无根，满天飞舞的特征。晋伍辑之《柳花赋》曾形容：“扬零花而雪飞，或风回而游薄，或雾乱而飙零，野净秽而同降，物均色而齐明。”谢道韫将此来比拟北风吹起漫天飞雪，堪称契合无间。取柳絮可比其形言其大，点明当时的“雪骤”之景，而“因风起”更指出它随风飘舞，漫无边际的自然特点。（宋代的贺铸《青玉案》词有“满城风絮”句。）由此较之，雪花柳絮，可谓是异迹而同趣了。如此再看“撒盐空中”的比方，则未免有局促见肘之嫌了。比喻更讲究神似：盐在空中唰唰地撒，重重地下落，躲都来不及，何谈欣赏？无美感可言。比作柳絮，一扫滞重之感，因风而起，漫天飘飞，这才是大自然的造化。而且柳絮飘飞的季节是春暖花开之时，冬季之冷景，以春季之暖景写出，更见诗意。赏析：这是一则千古佳话，表现了女才子谢道韫杰出的诗歌才华、对事物细致的观察和具有灵活想象力。据《晋书·王凝之妻谢氏传》及《世说新语·言语》篇载，谢安寒雪日尝内集，与儿女讲论文义，俄而雪骤，安欣然唱韵，兄子朗及兄女道韫赓歌（诗即如上），安大笑乐。谢安所乐，在于裙钗不让须眉，侄女之诗才，更在侄子之上。按谢朗少有文名，《世说新语·言语》篇引《续晋阳秋》称他“文义艳发”，《文学》篇引《中兴书》说他“博涉有逸才”。所以叔父出韵起题，侄子即为唱和，正见其才思敏捷也。平心而论，“撒盐空中”亦不失为一种比方，雪，以其粉白晶莹飘散而下，谢朗就近取譬，用撤盐空中拟之，虽不高明，也差可形容了。然而，聪颖的妹妹并不迷信兄长的才名。她觉得，以盐拟雪固然不错，但没有形容出雪花六瓣，随风飘舞，纷纷扬扬，无边无际的根本特征。于是，针对兄长的原句，她作了大胆的修正：“未若柳絮因风起。”清人沈德潜说：“事难显陈，理难言罄，每托物连类以形之。”（《说诗晬语》卷下）比喻是诗歌的基本修辞手法。其要在于贴切传神，新颖入妙。这正是谢道韫此句高于他兄长的地方。但是，真正的佳句名句之所以千古流传，播传人口，更重要还在于它能通过形象传达出作者内心的思想感情。谢道韫的这句诗，其佳处不仅在工干设譬，还在于透露出女才子热爱生活、热爱自然的情怀。她将北风飞雪的严寒冬景，比作东风吹绵的和煦春色，正表现出女作者开朗乐观的胸襟以及对美好春光的由衷向往。据《晋书》本传，谢道韫的联句不仅得到她叔父的称赏，而且还受到在场嘉宾的一致赞许。这次联句，遂传为一时佳话，谢道韫从此也赢得了“咏絮才”的美名。后来南朝梁刘孝绰写过一首《对雪诗》，其中有“桂华殊皎皎，柳絮亦霏霏。讵比咸池曲，飘飖千里飞”。也许是受到谢道韫的启发。须要说明的是，谢道韫的出色联句。并不是一时之功，刹那灵感，而是有她平时深厚的文学修养作基础的。《世说新语·言语》篇引《妇人集》称她“有文才，所著诗、赋、诔，颂传于世”。可惜绝大部分没有保存到今天。",
+  "knowledge": "### 古今异义\n\n1. 与儿女讲论文义古义：子侄辈的年轻一代；今义：自己亲生的儿子与女儿\n2. 与儿女讲论文义古义：文章的义理；今义：文章的意思 \n3. 未若柳絮因风起古义：趁、乘；今义：因为\n\n### 一词多义\n日谢太傅寒雪日内集（名词，天）期日中（名词，太阳）\n\n### 特殊句式\n\n1. 左将军王凝之妻也。（判断句）\n2. 谢太傅（于）寒雪日内集。（省略句）\n3. 白雪纷纷何所似？（倒装句，疑问句中，代词充当宾语，宾语前置，是“白雪纷纷所似何”的倒装。）\n\n### 问答题\n1. “寒雪”、“内集”、“欣然”、“大笑乐”等词语营造了一种怎样的家庭气氛？和睦、温馨、欢快、轻松，其乐融融的场景。\n2. 两个咏雪句“撒盐空中差可拟”与“未若柳絮因风起”，哪一个更好？请从文中找出根据，并谈谈你的看法。“未若柳絮因风起”更好。作者也没有表态，却在最后补充交代了道韫的身份，这是一个有力的暗示，表明他赞赏道韫的才气。 我认为“柳絮因风起” 比喻好，它写出雪花飘舞的轻盈姿态，漫天飞舞的情景，更给人以想象和美感，让人有一种春天即将到来的感觉，有深刻的意蕴。\n\n3. “未若柳絮因风起”被后人称为咏雪佳句，妙在何处？因为柳絮呈团状，与雪花相似，比喻十分传神，它写出雪花飘舞的轻盈姿态，漫天飞舞的情景，更给人以想象和美感，让人有一种春天即将到来的感觉，有深刻的意蕴。"
 }

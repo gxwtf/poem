@@ -66,30 +66,9 @@
             }
           ],
           "translation": {
-            "translation": "北方地区的壮丽景色，千里冰封，万里雪飘。"
+            "translation": "北方的风光，千里冰封冻，下里雪花飘。"
           },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "千里：极言地域广阔，非实指，为夸张手法。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "note": "冰封：冰雪覆盖冻结，形容严寒之景。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "note": "万里：与‘千里’对仗，极言雪域辽阔。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "note": "雪飘：雪花飞舞之态，展现动态美。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -138,30 +117,15 @@
               "pinyin": "mǎng"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "眺望长城内外，只剩下无边白茫茫一片。"
+            "translation": "望长城内外，只剩下无边无际白茫茫一片。"
           },
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "note": "惟余：只剩下，文言结构，强调空旷感。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "note": "莽莽：叠音词，形容原野被雪覆盖后无边无际的苍茫景象。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -186,13 +150,7 @@
             },
             {
               "char": "顿",
-              "pinyin": "dùn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "顿：立刻、突然，强调黄河由奔腾转为静止的剧烈变化。"
-                }
-              ]
+              "pinyin": "dùn"
             },
             {
               "char": "失",
@@ -212,15 +170,45 @@
             }
           ],
           "translation": {
-            "translation": "黄河上下游，顿时失去滔滔水势。"
+            "translation": "整条水河，立刻失去了波涛滚滚的水势。"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 7,
-              "end": 8,
-              "note": "滔滔：原指水流盛大，此处借指黄河平日波涛汹涌之貌。"
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "余",
+              "pinyin": "shān"
+            },
+            {
+              "char": " ",
+              "pinyin": "wǔ"
+            },
+            {
+              "char": "通",
+              "pinyin": "yín"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "馀",
+              "pinyin": "shé"
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": "被白雪覆盖的群山好像银蛇的舞动，高原好像白象的奔跑，它们都想试着和老天爷比一下谁更高。"
+          },
+          "notes": []
         }
       ]
     },
@@ -230,38 +218,18 @@
           "sentence": [
             {
               "char": "山",
-              "pinyin": "shān"
-            },
-            {
-              "char": "舞",
-              "pinyin": "wǔ"
-            },
-            {
-              "char": "银",
-              "pinyin": "yín"
-            },
-            {
-              "char": "蛇",
-              "pinyin": "shé"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "原",
               "pinyin": "yuán"
             },
             {
-              "char": "驰",
+              "char": "舞",
               "pinyin": "chí"
             },
             {
-              "char": "蜡",
+              "char": "银",
               "pinyin": "là"
             },
             {
-              "char": "象",
+              "char": "蛇",
               "pinyin": "xiàng"
             },
             {
@@ -269,38 +237,52 @@
               "pinyin": "　"
             },
             {
-              "char": "欲",
+              "char": "原",
               "pinyin": "yù"
             },
             {
-              "char": "与",
-              "pinyin": "yǔ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "与：介词，和、同，引出比较对象。"
-                }
-              ]
+              "char": "驰",
+              "pinyin": "yǔ"
             },
             {
-              "char": "天",
+              "char": "蜡",
               "pinyin": "tiān"
             },
             {
-              "char": "公",
+              "char": "象",
               "pinyin": "gōng"
             },
             {
-              "char": "试",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "欲",
               "pinyin": "shì"
             },
             {
-              "char": "比",
+              "char": "与",
               "pinyin": "bǐ"
             },
             {
-              "char": "高",
+              "char": "天",
               "pinyin": "gāo"
+            },
+            {
+              "char": "公",
+              "pinyin": "xū"
+            },
+            {
+              "char": "试",
+              "pinyin": "qíng"
+            },
+            {
+              "char": "比",
+              "pinyin": "rì"
+            },
+            {
+              "char": "高",
+              "pinyin": "kàn"
             },
             {
               "char": "。",
@@ -308,30 +290,9 @@
             }
           ],
           "translation": {
-            "translation": "群山像银蛇舞动，高原似白象奔驰，都想与天公比试高低。"
+            "translation": "等到晴天的时候，看皇日和白雪交相辉映，格外娇艳美好。"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "银蛇：比喻积雪蜿蜒的山峦，形似银色蛇舞。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "note": "蜡象：比喻雪覆高原如白色象群奔驰，‘蜡’形容其色白而光亮。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "note": "天公：上天之神，拟人化表达，体现人与自然抗衡的豪情。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "note": "比高：较量高度，象征竞争意志，‘高’为形容词作动词宾语。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -341,15 +302,15 @@
           "sentence": [
             {
               "char": "须",
-              "pinyin": "xū"
+              "pinyin": "hóng"
             },
             {
               "char": "晴",
-              "pinyin": "qíng"
+              "pinyin": "zhuāng"
             },
             {
               "char": "日",
-              "pinyin": "rì"
+              "pinyin": "sù"
             },
             {
               "char": "，",
@@ -357,23 +318,23 @@
             },
             {
               "char": "看",
-              "pinyin": "kàn"
+              "pinyin": "guǒ"
             },
             {
               "char": "红",
-              "pinyin": "hóng"
+              "pinyin": "fèn"
             },
             {
               "char": "装",
-              "pinyin": "zhuāng"
+              "pinyin": "wài"
             },
             {
               "char": "素",
-              "pinyin": "sù"
+              "pinyin": "yāo"
             },
             {
               "char": "裹",
-              "pinyin": "guǒ"
+              "pinyin": "ráo"
             },
             {
               "char": "，",
@@ -381,19 +342,19 @@
             },
             {
               "char": "分",
-              "pinyin": "fèn"
+              "pinyin": "jiāng"
             },
             {
               "char": "外",
-              "pinyin": "wài"
+              "pinyin": "shān"
             },
             {
               "char": "妖",
-              "pinyin": "yāo"
+              "pinyin": "rú"
             },
             {
               "char": "娆",
-              "pinyin": "ráo"
+              "pinyin": "cǐ"
             },
             {
               "char": "。",
@@ -401,25 +362,9 @@
             }
           ],
           "translation": {
-            "translation": "等到天晴，看红日映照白雪，格外娇艳美好。"
+            "translation": "江山是如此的媚娇，引得无数英雄竞相倾倒。"
           },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "红装：原指女子艳丽服饰，此处比喻夕阳或朝霞映照雪地的红色光影。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "note": "素裹：白色外衣包裹，指白雪覆盖大地，与‘红装’形成色彩对比。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "note": "分外：格外、特别，强调程度加深。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -429,27 +374,27 @@
           "sentence": [
             {
               "char": "江",
-              "pinyin": "jiāng"
-            },
-            {
-              "char": "山",
-              "pinyin": "shān"
-            },
-            {
-              "char": "如",
-              "pinyin": "rú"
-            },
-            {
-              "char": "此",
-              "pinyin": "cǐ"
-            },
-            {
-              "char": "多",
               "pinyin": "duō"
             },
             {
-              "char": "娇",
+              "char": "山",
               "pinyin": "jiāo"
+            },
+            {
+              "char": "如",
+              "pinyin": "yǐn"
+            },
+            {
+              "char": "此",
+              "pinyin": "wú"
+            },
+            {
+              "char": "多",
+              "pinyin": "shù"
+            },
+            {
+              "char": "娇",
+              "pinyin": "yīng"
             },
             {
               "char": "，",
@@ -457,35 +402,35 @@
             },
             {
               "char": "引",
-              "pinyin": "yǐn"
-            },
-            {
-              "char": "无",
-              "pinyin": "wú"
-            },
-            {
-              "char": "数",
-              "pinyin": "shù"
-            },
-            {
-              "char": "英",
-              "pinyin": "yīng"
-            },
-            {
-              "char": "雄",
               "pinyin": "xióng"
             },
             {
-              "char": "竞",
+              "char": "无",
               "pinyin": "jìng"
             },
             {
-              "char": "折",
+              "char": "数",
               "pinyin": "zhé"
             },
             {
-              "char": "腰",
+              "char": "英",
               "pinyin": "yāo"
+            },
+            {
+              "char": "雄",
+              "pinyin": "xī"
+            },
+            {
+              "char": "竞",
+              "pinyin": "qín"
+            },
+            {
+              "char": "折",
+              "pinyin": "huáng"
+            },
+            {
+              "char": "腰",
+              "pinyin": "hàn"
             },
             {
               "char": "。",
@@ -493,20 +438,9 @@
             }
           ],
           "translation": {
-            "translation": "江山如此媚丽，引得无数英雄争相倾倒。"
+            "translation": "可惜秦始皇、汉武帝，略差文治功劳；"
           },
-          "notes": [
-            {
-              "start": 12,
-              "end": 13,
-              "note": "竞：争着，表现英雄们争相倾慕的场面。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "note": "折腰：本义弯腰行礼，引申为倾倒、崇拜。典出陶渊明‘不为五斗米折腰’。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -516,23 +450,23 @@
           "sentence": [
             {
               "char": "惜",
-              "pinyin": "xī"
+              "pinyin": "wǔ"
             },
             {
               "char": "秦",
-              "pinyin": "qín"
+              "pinyin": "lüè"
             },
             {
               "char": "皇",
-              "pinyin": "huáng"
+              "pinyin": "shū"
             },
             {
               "char": "汉",
-              "pinyin": "hàn"
+              "pinyin": "wén"
             },
             {
               "char": "武",
-              "pinyin": "wǔ"
+              "pinyin": "cǎi"
             },
             {
               "char": "，",
@@ -540,62 +474,47 @@
             },
             {
               "char": "略",
-              "pinyin": "lüè"
+              "pinyin": "táng"
             },
             {
               "char": "输",
-              "pinyin": "shū"
+              "pinyin": "zōng"
             },
             {
               "char": "文",
-              "pinyin": "wén"
+              "pinyin": "sòng"
             },
             {
               "char": "采",
-              "pinyin": "cǎi"
+              "pinyin": "zǔ"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "可惜秦始皇汉武帝，稍欠文学才华。"
+            "translation": "唐太宗、候太祖，稍逊文学才华。"
           },
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "note": "略输：稍微欠缺，评价古人时的委婉说法。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "note": "文采：原指辞藻华美，此处泛指文化修养与治国才能。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
               "char": "唐",
-              "pinyin": "táng"
+              "pinyin": "shāo"
             },
             {
               "char": "宗",
-              "pinyin": "zōng"
+              "pinyin": "xùn"
             },
             {
               "char": "宋",
-              "pinyin": "sòng"
+              "pinyin": "fēng"
             },
             {
               "char": "祖",
-              "pinyin": "zǔ"
+              "pinyin": "sāo"
             },
             {
               "char": "，",
@@ -603,19 +522,19 @@
             },
             {
               "char": "稍",
-              "pinyin": "shāo"
+              "pinyin": "yī"
             },
             {
               "char": "逊",
-              "pinyin": "xùn"
+              "pinyin": "dài"
             },
             {
               "char": "风",
-              "pinyin": "fēng"
+              "pinyin": "tiān"
             },
             {
               "char": "骚",
-              "pinyin": "sāo"
+              "pinyin": "jiāo"
             },
             {
               "char": "。",
@@ -623,15 +542,9 @@
             }
           ],
           "translation": {
-            "translation": "唐太宗宋太祖，略逊文治风范。"
+            "translation": "称雄一世的英雄人物，成吉思汗，只知道拉弓射大雕。"
           },
-          "notes": [
-            {
-              "start": 7,
-              "end": 8,
-              "note": "风骚：《诗经·国风》与《楚辞·离骚》的合称，代指文学才华与政治抱负。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -641,38 +554,18 @@
           "sentence": [
             {
               "char": "一",
-              "pinyin": "yī"
-            },
-            {
-              "char": "代",
-              "pinyin": "dài"
-            },
-            {
-              "char": "天",
-              "pinyin": "tiān"
-            },
-            {
-              "char": "骄",
-              "pinyin": "jiāo"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "成",
               "pinyin": "chéng"
             },
             {
-              "char": "吉",
+              "char": "代",
               "pinyin": "jí"
             },
             {
-              "char": "思",
+              "char": "天",
               "pinyin": "sī"
             },
             {
-              "char": "汗",
+              "char": "骄",
               "pinyin": "hán"
             },
             {
@@ -680,32 +573,52 @@
               "pinyin": "　"
             },
             {
-              "char": "只",
+              "char": "成",
               "pinyin": "zhǐ"
             },
             {
-              "char": "识",
+              "char": "吉",
               "pinyin": "shí"
             },
             {
-              "char": "弯",
+              "char": "思",
               "pinyin": "wān"
             },
             {
-              "char": "弓",
+              "char": "汗",
               "pinyin": "gōng"
             },
             {
-              "char": "射",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "只",
               "pinyin": "shè"
             },
             {
-              "char": "大",
+              "char": "识",
               "pinyin": "dà"
             },
             {
-              "char": "雕",
+              "char": "弯",
               "pinyin": "diāo"
+            },
+            {
+              "char": "弓",
+              "pinyin": "jù"
+            },
+            {
+              "char": "射",
+              "pinyin": "wǎng"
+            },
+            {
+              "char": "大",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "雕",
+              "pinyin": "shǔ"
             },
             {
               "char": "。",
@@ -713,20 +626,9 @@
             }
           ],
           "translation": {
-            "translation": "称雄一时的成吉思汗，只懂拉弓射大雕。"
+            "translation": "这些人物都已经过去了，称得上能建功立业的英雄人物，还要看今天的人们。"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "天骄：‘天之骄子’的简称，原为汉代对匈奴的称呼，后泛指杰出人物。"
-            },
-            {
-              "start": 12,
-              "end": 16,
-              "note": "弯弓射大雕：形容勇武善战，但也暗含文化修养不足的批评。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -736,15 +638,15 @@
           "sentence": [
             {
               "char": "俱",
-              "pinyin": "jù"
+              "pinyin": "fēng"
             },
             {
               "char": "往",
-              "pinyin": "wǎng"
+              "pinyin": "liú"
             },
             {
               "char": "矣",
-              "pinyin": "yǐ"
+              "pinyin": "rén"
             },
             {
               "char": "，",
@@ -752,23 +654,23 @@
             },
             {
               "char": "数",
-              "pinyin": "shǔ"
+              "pinyin": "wù"
             },
             {
               "char": "风",
-              "pinyin": "fēng"
+              "pinyin": "hái"
             },
             {
               "char": "流",
-              "pinyin": "liú"
+              "pinyin": "kàn"
             },
             {
               "char": "人",
-              "pinyin": "rén"
+              "pinyin": "jīn"
             },
             {
               "char": "物",
-              "pinyin": "wù"
+              "pinyin": "zhāo"
             },
             {
               "char": "，",
@@ -776,19 +678,19 @@
             },
             {
               "char": "还",
-              "pinyin": "hái"
+              "pinyin": ""
             },
             {
               "char": "看",
-              "pinyin": "kàn"
+              "pinyin": ""
             },
             {
               "char": "今",
-              "pinyin": "jīn"
+              "pinyin": ""
             },
             {
               "char": "朝",
-              "pinyin": "zhāo"
+              "pinyin": ""
             },
             {
               "char": "。",
@@ -796,23 +698,12 @@
             }
           ],
           "translation": {
-            "translation": "这些人物都已过去，真正建功立业的英雄，还要看今朝人民。"
+            "translation": ""
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "note": "俱往矣：都已经过去了，‘俱’表全、都，‘矣’为语气助词，表感叹。"
-            },
-            {
-              "start": 4,
-              "end": 9,
-              "note": "风流人物：指能开创时代、建立伟业的英雄人物，非现代‘风流’之意。"
-            }
-          ]
+          "notes": []
         }
       ]
     }
   ],
-  "mode": "paragraph"
+  "mode": "poem"
 }

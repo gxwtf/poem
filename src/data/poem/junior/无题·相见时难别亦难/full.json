@@ -2,7 +2,7 @@
   "name": "无题·相见时难别亦难",
   "author": "李商隐",
   "dynasty": "唐代",
-  "mode": "paragraph",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,135 +11,85 @@
             {
               "char": "相",
               "pinyin": "xiāng",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "难",
               "pinyin": "nán",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "别",
               "pinyin": "bié",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "亦",
               "pinyin": "yì",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "难",
               "pinyin": "nán",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "力",
               "pinyin": "lì",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "百",
               "pinyin": "bǎi",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "花",
               "pinyin": "huā",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "残",
               "pinyin": "cán",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": true,
-              "write": true
+              "index": 15
             }
           ],
-          "translation": "相见已难离别更难，暮春东风衰微百花凋残。",
-          "pinyin": "xiāng jiàn shí nán bié yì nán ， dōng fēng wú lì bǎi huā cán 。",
-          "notes": [
-            {
-              "start": 8,
-              "end": 9,
-              "content": "东风：春风，象征春天的生机，此处‘无力’暗示春将尽，情感低落。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "百花：泛指各种花卉，象征美好事物。"
-            },
-            {
-              "start": 15,
-              "end": 15,
-              "content": "残：凋零、衰败，既写景又寓情。"
-            }
-          ]
+          "translation": "相见很难，离别更难，何况春这东风无力、百花凋谢的暮春时节。"
         }
       ]
     },
@@ -150,152 +100,85 @@
             {
               "char": "春",
               "pinyin": "chūn",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "蚕",
               "pinyin": "cán",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "到",
               "pinyin": "dào",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "死",
               "pinyin": "sǐ",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "丝",
               "pinyin": "sī",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "方",
               "pinyin": "fāng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "尽",
               "pinyin": "jìn",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "蜡",
               "pinyin": "là",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "炬",
               "pinyin": "jù",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "成",
               "pinyin": "chéng",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "灰",
               "pinyin": "huī",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "泪",
               "pinyin": "lèi",
-              "index": 28,
-              "read": true,
-              "write": true
+              "index": 28
             },
             {
               "char": "始",
               "pinyin": "shǐ",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "干",
               "pinyin": "gān",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
-          "translation": "春蚕吐丝至死方尽，蜡炬燃尽蜡泪始干。",
-          "pinyin": "chūn cán dào sǐ sī fāng jìn ， là jù chéng huī lèi shǐ gàn 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 4,
-              "content": "丝：谐音‘思’，双关语，指蚕丝亦指思念之情。"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "方：才，强调直到生命尽头才停止，突出执着。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "泪：蜡烛燃烧时流下的蜡油，拟人化为‘泪’，象征离人之泪。"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "content": "始：才，与上句‘方’呼应，强调时间上的终结条件。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 12,
-              "end": 12,
-              "old": "蜡烛燃烧时流下的蜡油"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "new": "人的眼泪"
-            }
-          ]
+          "translation": "春蚕结茧到死时丝才一完，蜡烛要烧成灰烬时像泪一样的蜡油才能滴干。"
         }
       ]
     },
@@ -306,145 +189,85 @@
             {
               "char": "晓",
               "pinyin": "xiǎo",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "镜",
               "pinyin": "jìng",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "但",
               "pinyin": "dàn",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "愁",
               "pinyin": "chóu",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "鬓",
               "pinyin": "bìn",
-              "index": 37,
-              "read": true,
-              "write": true
+              "index": 37
             },
             {
               "char": "改",
               "pinyin": "gǎi",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "吟",
               "pinyin": "yín",
-              "index": 41,
-              "read": true,
-              "write": false
+              "index": 41
             },
             {
               "char": "应",
               "pinyin": "yīng",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "觉",
               "pinyin": "jué",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "光",
               "pinyin": "guāng",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "寒",
               "pinyin": "hán",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "晨妆对镜唯恐鬓发斑白，夜吟诗篇应感月光清寒。",
-          "pinyin": "xiǎo jìng dàn chóu yún bìn gǎi ， yè yín yīng jué yuè guāng hán 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "晓镜：早晨照镜子，‘镜’作动词，意为照镜。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "content": "云鬓：女子鬓发浓密柔美如云，形容青春美貌。"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "content": "改：改变，指容颜衰老，暗含时光流逝之悲。"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "content": "吟：吟诗，暗示孤独中寄托情感。"
-            },
-            {
-              "start": 14,
-              "end": 14,
-              "content": "寒：既指月光清冷，也指内心孤寂凄凉，移情于景。"
-            }
-          ]
+          "translation": "早晨梳妆照镜，只担忧如云的鬓发人变颜色，容颜不再。"
         }
       ]
     },
@@ -455,142 +278,85 @@
             {
               "char": "蓬",
               "pinyin": "péng",
-              "index": 48,
-              "read": false,
-              "write": true
+              "index": 48
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "此",
               "pinyin": "cǐ",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "多",
               "pinyin": "duō",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "路",
               "pinyin": "lù",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "青",
               "pinyin": "qīng",
-              "index": 56,
-              "read": true,
-              "write": true
+              "index": 56
             },
             {
               "char": "鸟",
               "pinyin": "niǎo",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "殷",
               "pinyin": "yīn",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "勤",
               "pinyin": "qín",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "为",
               "pinyin": "wèi",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "探",
               "pinyin": "tàn",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "看",
               "pinyin": "kān",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": true,
-              "write": false
+              "index": 63
             }
           ],
-          "translation": "蓬莱仙山离此不算遥远，殷勤青鸟请代探看。",
-          "pinyin": "péng shān cǐ qù wú duō lù ， qīng niǎo yīn qín wèi tàn kàn 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "蓬山：蓬莱山，传说中的仙山，借指爱人居住的遥远之地。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "殷勤：情意恳切、周到，形容青鸟传信的用心。"
-            },
-            {
-              "start": 14,
-              "end": 15,
-              "content": "探看：探望、问候，‘看’读kān，意为照看、探访。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 8,
-              "end": 15,
-              "content": "‘为探看’为状语后置结构，正常语序应为‘为（之）探看’，即‘为了他去探望’，属介词结构后置。"
-            }
-          ]
+          "translation": "长夜独自吟诗不寐，必然感到冷月侵人。"
         }
       ]
     }
@@ -600,6 +366,9 @@
     "诗",
     "爱情诗"
   ],
-  "background": "此诗约作于唐文宗开成三年（838年）。李商隐青年时在玉阳山学道，与女道士宋华阳相恋，但受唐代道教戒律与世俗礼法约束，感情隐秘难言。另说为向权贵令狐绹陈情而作，寄寓仕途困顿之悲。诗中\"蓬山\"或暗指令狐绹府邸，\"青鸟\"喻沟通媒介。",
-  "appreciation": "《无题》是一首以男女离别为题材创作的七言爱情诗。全诗以“别”字为诗眼，整体氛围绵缈深沉而不晦涩，语言华丽又自然，情怀凄苦而不失优美。全诗从头至尾都充满了痛苦、失望，但又缠绵、执着的情感。诗中每一联都是这种感情状态的反映，但是各联的具体意境又彼此有别。它们从不同的方面反复表现着融贯全诗的复杂感情，同时又相互衔接，纵向地展现出这种情感的心理过程。这首诗成功地再现了诗人心底深处的绵邈深情，情感联绵往复，细微精深，令人感动。"
+  "background": "",
+  "appreciation": "《无题》是一首以男女离别为题材创作的七言爱情诗。全诗以“别”字为诗眼，整体氛围绵缈深沉而不晦涩，语言华丽又自然，情怀凄苦而不失优美。全诗从头至尾都充满了痛苦、失望，但又缠绵、执着的情感。诗中每一联都是这种感情状态的反映，但是各联的具体意境又彼此有别。它们从不同的方面反复表现着融贯全诗的复杂感情，同时又相互衔接，纵向地展现出这种情感的心理过程。这首诗成功地再现了诗人心底深处的绵邈深情，情感联绵往复，细微精深，令人感动。",
+  "annotation": "无题：唐代以来，有的诗人不愿意标出能够表示主题的题目时，常用“无题”作诗的标题。东风无力百花残：这里指百花凋谢的暮春时节。东风，春风。残，凋零。丝方尽：丝，与“思”谐音，以“丝”喻“思”，含相思之意。蜡炬：蜡烛。泪始干：泪，指燃烧时的蜡烛油，这里取双关义，指相思的眼泪。晓镜：早晨梳妆照镜子。镜，用作动词，照镜子的意思。云鬓：女子多而美的头发，这里比喻青春年华。应觉：设想之词。月光寒：指夜渐深。蓬山：蓬莱山，传说中海上仙山，指仙境，这里借指所思之人的住处。青鸟：神话中为西王母传递音讯的信使。殷勤：情谊恳切深厚。探看(kàn,旧时读kān)：探望。",
+  "comprehensive_appreciation": "赏析：这首诗，以女性的口吻抒写爱情心理，在悲伤、痛苦之中，寓有灼热的渴望和坚忍的执着精神，感情境界深微绵邈，极为丰富。开头两句，写爱情的不幸遭遇和抒情主人公的心境：由于受到某种力量的阻隔，一对情人已经难以相会，分离的痛苦使她不堪忍受。首句的“别”字，不是说当下正在话别，而是指既成的被迫分离。两个“难”字，第一个指相会困难，第二个是痛苦难堪的意思。前人诗中曾有“别日何易会日难”（曹丕《燕歌行》）“别易会难得”（宋武帝《丁都护歌》）等句，都是以强调重聚之难而感叹离别之苦。李商隐从这里推进一步，表明因为“相见时难”所以“别亦难”——难以割舍、痛苦得难以禁受。诗人在一句之中两次使用“难”字，第二个“难”字的出现，因重复而给人以轻微的突兀感，造成了诗句的绵联纤曲之势，使相见无期的离别之痛因表达方式的低回婉转而显得分外的深沉和缠绵；这样的缠绵情态，在“别易会难得”等平直叙述中是不易体会的。这位抒情主人公既已伤怀如此，恰又面对着暮春景物，当然更使她悲怀难遣。暮春时节，东风无力，百花纷谢，美好的春光即将逝去，人力对此是无可奈何的，而自己的境遇之不幸，和心灵的创痛，也同眼前这随着春天的流逝而凋残的花朵一样，因为美的事物受到摧残，岂不令人兴起无穷的怅惘与惋惜！“东风无力百花残”一句，既写自然环境，也是抒情者心境的反映，物我交融，心灵与自然取得了精微的契合。这种借景物反映人的境遇和感情的描写，在李商隐的笔底是常见的。例如《夜雨寄北》的前两句：“君问归期未有期，巴山夜雨涨秋池。”次句不仅象征诗人留滞巴蜀，而且反映了客子离人的百无聊赖，同“东风无力百花残”一样，写实与象征融为一体，赋予感情以可以感触的外在形态，也就是通常说的寓情于景的抒情方式。三、四句，接着写因为“相见时难”而“别亦难”的感情，表现得更为曲折入微。“春蚕到死丝方尽”中的“丝”字与“思”谐音，全句是说，自己对于对方的思念，如同春蚕吐丝，到死方休。“蜡炬成灰泪始干”是比喻自己为不能相聚而痛苦，无尽无休，仿佛蜡泪直到蜡烛烧成了灰方始流尽一样。思念不止，表现着眷恋之深，但是终其一生都将处于思念中，却又表明相会无期，前途是无望的，因此，自己的痛苦也将终生以随。可是，虽然前途无望，她却至死靡它，一辈子都要眷恋着；尽管痛苦，也只有忍受。所以，在这两句里，既有失望的悲伤与痛苦，也有缠绵、灼热的执着与追求。追求是无望的，无望中仍要追求，因此这追求也着有悲观色彩。这些感情，好象在无穷地循环，难以求其端绪；又仿佛组成一个多面的立体，光从一个角度是不能见其全貌的。诗人只用两个比喻就圆满地表现了如此复杂的心理状态，表明他的联想是很丰富的。“春蚕”句首先是人的眷恋感情之缠绵同春蚕吐丝绵绵不尽之间的联想，又从蚕吐丝到“死”方止而推移到人的感情之生死不渝，因此写出了“到死丝方尽”，使这一形象具有了多种比喻的意义。南朝乐府西曲歌《作蚕丝》：“春蚕不应老（不应，这里是“不顾”的意思），昼夜常怀丝。何惜微躯尽，缠绵自有时。”造意与《无题》的“春蚕”句相近。不过，这里的春蚕“何惜微躯尽”，是在料定“缠绵自有时”、前途颇有希望的情况下产生的意念。《无题》“春蚕”句则不然，就其表现追求精神而言，它表现的追求是无望的，却又是不计希望之有无的，感情境界有差异，联想也更为曲折。以蜡烛的燃烧比喻痛苦的煎熬，在李商隐以前的南朝乐府中，也不少见。如“思君如明烛，中宵空自煎”（王融《自君之出矣》），“思君如夜烛，煎泪几千行”（陈叔达，同题）等皆是。“蜡炬成灰泪始干”同样是用蜡烛作比喻，却不是单一地以蜡泪比拟痛苦，而是还进一步以“成灰始干”反映痛苦的感情终生以随，联想比前人深微复杂得多，形象的底蕴也因此而丰富得多了。以上四句着重揭示内心的感情活动，使难以言说的复杂感情具体化，写得很精彩。五六句转入写外向的意念活动。上句写自己，次句想象对方。“云鬓改”，是说自己因为痛苦的折磨，夜晚辗转不能成眠，以至于鬓发斑白，容颜憔悴，亦即六朝诗人吴均所说“绿鬓愁中改，红颜啼里灭”（《和萧洗马子显古意六首》）的意思。但是，《无题》“晓镜”句说的是清晨照镜时为“云鬓改”而愁苦，并且是“但愁”——只为此而愁。这就生动地描写了纡折婉曲的精神活动，而不再是单纯地叙述青春被痛苦所消磨这件事了。自己于夜间因痛苦而憔悴，清晨又为憔悴而痛苦。夜间的痛苦，是因为爱情的追求不得实现；次日为憔悴而愁，是为了爱情而希望长葆青春，总之，为爱情而憔悴，而痛苦，而郁悒。这种昼夜廻环、缠绵往复的感情，仍然表现着痛苦而执着的心曲。“夜吟”句是推己及人，想象对方和自己一样痛苦。他揣想对方大概也将夜不成寐，常常吟诗遣怀，但是愁怀深重，无从排遣，所以愈发感到环境凄清，月光寒冷，心情也随之更趋暗淡。月下的色调是冷色调，“应觉月光寒”是借生理上冷的感觉反映心理上的凄凉之感。“应”字是揣度、料想的口气，表明这一切都是自己对于对方的想象。想象如此生动，体现了她对于情人的思念之切和了解之深。想象愈具体，思念愈深切，便愈会燃起会面的渴望。既然会面无望，于是只好请使者为自己殷勤致意，替自己去看望他。这就是结尾两句的内容。诗词中常以仙侣比喻情侣，青鸟是一位女性仙人西王母的使者，蓬山是神话、传说中的一座仙山，所以这里即以蓬山用为对方居处的象征，而以青鸟作为抒情主人公的使者出现。这个寄希望于使者的结尾，并没有改变“相见时难”的痛苦境遇，不过是无望中的希望，前途依旧渺茫。诗已经结束了，抒情主人公的痛苦与追求还将继续下去。这首诗，从头至尾都融铸着痛苦、失望而又缠绵、执着的感情，诗中每一联都是这种感情状态的反映，但是各联的具体意境又彼此有别。它们从不同的方面反复表现着融贯全诗的复杂感情，同时又以彼此之间的密切衔接而纵向地反映以这种复杂感情为内容的心理过程。这样的抒情，联绵往复，细微精深，成功地再现了心底的绵邈深情。诗中一、三、四、五各句，都可以从李商隐以前的诗歌创作中发现相似的描写。在前人创作的薰陶和启发下，诗人有所继承和借鉴。但是他并没有简单地模仿前人，而是以很高的创造性，向前跨进了一大步，把原来比较朴素的表现手段改造得更曲折、生动，用以反映更为丰富、深刻的思想感情，实际上已经脱去旧的形迹，成为新的创造了。从这里可以看出，诗人丰富的文学修养与他对于意境和表现手段的探索，是这首诗取得成就的重要条件。赏析二：相见时难别亦难，后的是义山长时的处境艰难，离开徐州到长安后想进翰林院，向令狐綯后明此时，也就是找熟人走个后门，令狐陶升官之后，为了避嫌谢绝见客，致使义山处境残尬，相见难，离别又不甘心，所以出此名句。东风无力百花残，长时义山已经很大年纪，东风无回天之力挽救百花的凋零，映射自己留不住青春春蚕到死丝方尽，蜡炬成灰泪始干，此名句献给所有为理想奋斗终生之人。晓镜但愁云鬓改，夜吟应觉月光寒，和上句呼应，青春难留，云鬓斑白，蜡炬燃尽，月光甚寒。蓬山此去无多路，青鸟殷勤为探看，最后一句起死回生，由深深地“到死”,\"成灰\"的绝望，到‘无多路’，可见作者还是对綯抱有希望，不肯决绝。从现在来看，此诗不难看出也是写给令狐綯，希望他看到之后体会到自己的心情，也希望綯能感受到自己并没有绝望，而是继续等待綯这个救命稻草的帮助。",
+  "knowledge": ""
 }

@@ -2,7 +2,7 @@
   "name": "虞美人",
   "author": "李煜",
   "dynasty": "五代",
-  "mode": "paragraph",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,62 +11,45 @@
             {
               "char": "春",
               "pinyin": "chūn",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "花",
               "pinyin": "huā",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "了",
               "pinyin": "liǎo",
-              "index": 6,
-              "read": true,
-              "write": false
+              "index": 6
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             }
           ],
           "translation": "春花年年开，秋月夜夜圆，这种时日什么时候才能结束呢？",
-          "pinyin": "chūn huā qiū yuè hé shí liǎo ？",
           "notes": [
             {
               "start": 0,
@@ -80,48 +63,35 @@
             {
               "char": "往",
               "pinyin": "wǎng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "事",
               "pinyin": "shì",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "多",
               "pinyin": "duō",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "少",
               "pinyin": "shǎo",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             }
           ],
           "translation": "过去的事情还记得多少。",
-          "pinyin": "wǎng shì zhī duō shǎo 。",
           "notes": [
             {
               "start": 0,
@@ -135,132 +105,95 @@
             {
               "char": "小",
               "pinyin": "xiǎo",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "楼",
               "pinyin": "lóu",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "昨",
               "pinyin": "zuó",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "又",
               "pinyin": "yòu",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "堪",
               "pinyin": "kān",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "回",
               "pinyin": "huí",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "首",
               "pinyin": "shǒu",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "明",
               "pinyin": "míng",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
-              "index": 31,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 31
             }
           ],
           "translation": "昨夜小楼上又吹来了春风，在这皓月当空的夜晚哪里忍受得了回忆故国的伤痛。",
-          "pinyin": "xiǎo lóu zuó yè yòu dōng fēng ，gù guó bù kān huí shǒu yuè míng zhōng 。",
           "notes": [
             {
               "start": 8,
@@ -278,104 +211,75 @@
             {
               "char": "雕",
               "pinyin": "diāo",
-              "index": 32,
-              "read": false,
-              "write": true
+              "index": 32
             },
             {
               "char": "栏",
               "pinyin": "lán",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "玉",
               "pinyin": "yù",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "砌",
               "pinyin": "qì",
-              "index": 35,
-              "read": true,
-              "write": true
+              "index": 35
             },
             {
               "char": "应",
               "pinyin": "yīng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "犹",
               "pinyin": "yóu",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "只",
               "pinyin": "zhǐ",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "朱",
               "pinyin": "zhū",
-              "index": 42,
-              "read": false,
-              "write": true
+              "index": 42
             },
             {
               "char": "颜",
               "pinyin": "yán",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "改",
               "pinyin": "gǎi",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "。",
-              "index": 45,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 45
             }
           ],
           "translation": "精雕细刻的栏杆和玉石砌成的台阶应该都还在，只是住在里面的人已经衰老。",
-          "pinyin": "diāo lán yù qì yīng yóu zài ，zhǐ shì zhū yán gǎi 。",
           "notes": [
             {
               "start": 0,
@@ -387,28 +291,6 @@
               "end": 12,
               "content": "红润的容颜改变了，指人已憔悴。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 10,
-              "end": 11,
-              "old": "红润的容颜，常代指美人或青春"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "new": "现代汉语中极少使用该词，‘朱’多用于颜色描述，‘颜’泛指面容"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "old": "红润的容颜或宫廷美人，象征青春与繁华"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "new": "仅指红色的脸色，语义范围缩小，失去象征意义"
-            }
           ]
         },
         {
@@ -416,74 +298,50 @@
             {
               "char": "问",
               "pinyin": "wèn",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "几",
               "pinyin": "jǐ",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "多",
               "pinyin": "duō",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "愁",
               "pinyin": "chóu",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             }
           ],
-          "translation": "要问我心中有多少哀愁，",
-          "pinyin": "wèn jūn néng yǒu jǐ duō chóu ？",
+          "translation": "要问我心中有多少哀愁，就像那滚滚东流的春江之水没有尽头。",
           "notes": [
             {
               "start": 4,
               "end": 5,
               "content": "多少。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "宾语前置：‘几多愁’为宾语，置于动词‘有’之前，正常语序应为‘能有愁几多’。"
             }
           ]
         },
@@ -492,84 +350,56 @@
             {
               "char": "恰",
               "pinyin": "qià",
-              "index": 54,
-              "read": true,
-              "write": true
+              "index": 54
             },
             {
               "char": "似",
               "pinyin": "sì",
-              "index": 55,
-              "read": true,
-              "write": true
+              "index": 55
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "江",
               "pinyin": "jiāng",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "春",
               "pinyin": "chūn",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "向",
               "pinyin": "xiàng",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "流",
               "pinyin": "liú",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             }
           ],
-          "translation": "就像那滚滚东流的春江之水没有尽头。",
-          "pinyin": "qià sì yī jiāng chūn shuǐ xiàng dōng liú 。",
-          "notes": [],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 9,
-              "content": "状语后置：‘向东’为状语，修饰‘流’，正常语序应为‘向东流’，此处为强调方向而延展。"
-            }
-          ]
+          "translation": "",
+          "notes": []
         }
       ]
     }
@@ -616,5 +446,8 @@
       "title": "【戴建业】李煜的“绝命词”写得有多绝？详解《虞美人》",
       "url": "https://www.bilibili.com/video/BV1794y1i7YZ/"
     }
-  ]
+  ],
+  "annotation": "此调原为唐教坊曲，初咏项羽宠姬虞美人死后地下开出一朵鲜花，因以为名。又名《一江春水》《玉壶水》《巫山十二峰》等。双调，五十六字，上下片各四句，皆为两仄韵转两平韵。春花秋月：指季节的更替。了：了结，完结。故国：指南唐故都金陵（今南京）。砌：台阶。雕栏玉砌：即雕花的栏杆和玉石砌成的台阶，这里泛指南唐宫殿。栏，一作“阑”。砌，台阶。应犹：一作“依然”。朱颜改：指所怀念的人已衰老，暗指亡国。朱颜，红颜，年轻的容颜，指美人。一说泛指人。君：作者自称。能：或作“都”、“那”、“还”、“却”。几多：多少。",
+  "comprehensive_appreciation": "赏析：作为一个“好声色，不恤政事”的国君，李煜是失败的；但正是亡国成就了他千古词坛的“南面王”（清沈雄《古今词话》语）地位。正所谓“国家不幸诗家幸，话到沧桑语始工”。《虞美人》就是千古传诵不衰的著名诗篇。这首词刻画了强烈的故国之思，取得了惊天地泣鬼神的艺术效果。“春花秋月”这些最容易勾起人们美好联想的事物却使李煜倍添烦恼，他劈头怨问苍天：年年春花开，岁岁秋月圆，什么时候才能了结呢？一语读来，令人不胜好奇。但只要我们设身处地去想象词人的处境，就不难理解了：一个处于刀俎之上的亡国之君，这些美好的事物只会让他触景伤情，勾起对往昔美好生活的无限追思，今昔对比，徒生伤感。问天天不语，转而自问，“往事知多少。”“往事”当指往昔为人君时的美好生活，但是一切都已消逝，化为虚幻了。自然界的春天去了又来，为什么人生的春天却一去不复返呢？“小楼昨夜又东风，故国不堪回首月明中。”“东风”带来春的讯息，却引起词人“不堪回首”的嗟叹，“亡国之音哀以思”，大抵只能如此吧。让我们来想象：夜阑人静，明月晓风，幽囚在小楼中的不眠之人，不由凭栏远望，对着故国家园的方向，多少凄楚之情，涌上心头，又有谁能忍受这其中的况味？一“又”字包含了多少无奈、哀痛的感情！东风又入，可见春花秋月没有了结，还要继续；而自己仍须苟延残喘，历尽苦痛折磨。“故国不堪回首月明中”是“月明中不堪回首故国”的倒装。“不堪回首”，但毕竟回首了。回首处“雕栏玉砌应犹在，只是朱颜改”。想象中，故国的江山、旧日的宫殿都还在吧，只是物是人非，江山易主；怀想时，多少悲恨在其中。“只是”二字以叹惋的口气，传达出无限怅恨之感。以上六句在结构上是颇具匠心的。几度运用两相对比和隔句呼应，反复强调自然界的轮回更替和人生的短暂易逝，富有哲理意味，感慨深沉。一二两句春花秋月的无休无止和人间事的一去难返对比；三四两句“又东风”和“故国不堪回首”对比；五六两句“应犹在”和“改”对比。“又东风”、“应犹在”又呼应“何时了”；“不堪回首”、“朱颜改”又呼应“往事”。如此对比和回环，形象逼真地传达出词人心灵上的波涛起伏和忧思难平。最后，词人的满腔幽愤再难控制，汇成了旷世名句“问君能有几多愁？恰似一江春水向东流”。以水喻愁，可谓“前有古人，后有来者”。刘禹锡《竹枝词》“水流无限似侬愁”，秦观《江城子·西城杨柳弄春柔》“便作春江都是泪，流不尽，许多愁”。这些诗句或失之于轻描淡写，或失之于直露，都没有“恰似一江春水向东流”来得打动人心，所谓“真伤心人语”也。把愁思比作“一江春水”就使抽象的情感显得形象可感。愁思如春水涨溢恣肆，奔放倾泻；又如春水不舍昼夜，无尽东流。形式上，九个字平仄交替，读来亦如满江春水起伏连绵，把感情在升腾流动中的深度和力度全表达出来了。以这样声情并茂的词句作结，大大增强了作品的感染力，合上书页，读者似也被这无尽的哀思所淹没了。全词抒写亡国之痛，意境深远，感情真挚，结构精妙，语言清新；词虽短小，余味无穷。难怪王国维有如是评价：“唐五代之词，有句而无篇。南宋名家之词，有篇而无句。有篇有句，唯李后主降宋后之作，及永叔、子瞻、少游、美成、稼轩数人而已。”（《人间词话》删稿之四○）（蒋雅云）赏析二：李煜的故国之思也许并不值得同情，他所眷念的往事离不开“雕栏玉砌”的帝王生活和朝暮私情的宫闱秘事。但这首脍炙人口的名作，在艺术上确有独到之处。“春花秋月何时了”表明词人身为阶下囚，怕春花秋月勾起往事而伤怀。“春花秋月”人多以美好，作者却殷切企盼它早日“了”却；小楼“东风”带来春天的信息，却反而引起作者“不堪回首”的嗟叹，因为它们都勾发了作者物是人非的枨触，跌衬出他的囚居异邦之愁，用以描写由珠围翠绕，烹金馔玉的江南国主一变而为长歌当哭的阶下囚的作者的心境，是真切而又深刻的。面对“春花秋月”这良辰美景，引起无限往事的回忆：“往事知多少？”回首往昔，身为国君，过去许许多多的事历历在目。据史书记载，李煜当国君时，日日纵情声色，不理朝政，枉杀谏臣……透过此诗句，不难看出这位从威赫的国君沦为阶下囚的南唐后主，此时此刻的心中有的不只是悲苦愤慨，多少也有悔恨之意。“小楼昨夜又东风，故国不堪回首月明中。”苟且偷生的小楼又一次春风吹拂，春花又将怒放。回想起南唐的王朝、李氏的社稷——自己的故国却早已被灭亡。作者身居囚屋，听着春风，望着明月，触景生情，愁绪万千，夜不能寐。一个“又”字，表明此情此景已多次出现，这精神上的痛苦真让人难以忍受。“又”点明了“春花秋月”的时序变化，词人降宋又苟活了一年，加重了上两句流露的愁绪，也引出词人对故国往事的回忆。过片“雕栏玉砌应犹在”一句承上，写的是回首中故国的情景。这句与上片一、三句相应，全从宇宙之永恒不变一面下笔。上文说“故国不堪回首”是不能忍受“回首”之悲苦，但这句“雕栏玉砌应犹在”，说明虽“不堪回首”，却又不能不“回首”，而是时时刻刻都在“回首”。“只是朱颜改”一句揭示出物是人非。这句与上片二、四句呼应，全从人生短暂、变幻无常一面下笔，表现出“往事”“故国”“朱颜”都已经长逝不复返的哀痛。这里暗含着李后主对国土更姓，山河变色的感慨。“朱颜”一词在这里固然具体指往日宫中的红粉佳人，但同时又是过去一切美好事物、美好生活的象征。以上六句，作者竭力将美景与悲情，往昔与当今，景物与人事的对比融为一体，尤其是通过自然的永恒和人事的沧桑的强烈对比，把蕴蓄于胸中的悲愁悔恨曲折有致地倾泻出来，凝成最后的千古绝唱——“问君能有几多愁？恰似一江春水向东流。”作者以其奔放之笔用问答的形式吐露心中深长的愁恨：先用发人深思的设问，点明抽象的本体“愁”，接着用生动的喻体奔流的江“水”作答。用满江的春水来比喻满腹的愁恨，极为贴切形象，不仅显示了愁恨的悠长深远，而且显示了愁恨的汹涌翻腾，充分体现出奔腾中的感情所具有的力度和深度。同它相比，刘禹锡的《竹枝词九首》其二“水流无限似侬愁”，稍嫌直率，而秦观《江城子·西城杨柳弄春柔》“便作春江都是泪，流不尽，许多愁”，则又说得过尽，反而削弱了感人的力量。此词所以能引起广泛的共鸣，在很大程度上，正有赖于结句以富有感染力和象征性的比喻，将愁思写得既形象化，又抽象化：作者并没有明确写出其愁思的真实内涵——怀念昔日纸醉金迷的享乐生活，而仅仅展示了它的外部形态。这样人们就很容易从中取得某种心灵上的呼应，并借用它来抒发自己类似的情感。因为人们的愁思虽然内涵各异，却都可以具有“恰似一江春水向东流”那样的外部形态。由于“形象往往大于思想”，李煜此词便能在广泛的范围内产生共鸣而得以千古传诵。全词以明净、凝练、优美、清新的语言，运用比喻、比拟、对比、设问等多种修辞手法，高度地概括和淋漓尽致地表达了作者的真情实感。此词感情之深厚强烈，真如滔滔江水，大有不顾一切，冲决而出之势。一个处在刀俎之上的的亡国之君，竟敢如此大胆地抒发亡国之恨，是史所罕见的。李煜这种纯真感情的全心倾注，大概就是王国维说的出于“赤子之心”的“天真之词”，以致作者为此付出了生命。法国作家缪塞说：“最美的诗歌是最绝望的诗歌，有些不朽的篇章是纯粹的眼泪。”（《五月之歌》）这首词就是这样的作品。",
+  "knowledge": ""
 }

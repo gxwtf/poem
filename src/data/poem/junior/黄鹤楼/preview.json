@@ -35,30 +35,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "仙人早已驾黄鹤飞去，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "昔人：传说中驾鹤飞升的仙人，泛指古代离去的贤者或隐士。"
             },
-            {
-              "start": 4,
-              "end": 5,
-              "note": "黄鹤：传说中仙人所乘的仙鹤，象征超凡脱俗、飞升成仙。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
             {
               "char": "此",
               "pinyin": "cǐ"
@@ -93,7 +70,7 @@
             }
           ],
           "translation": {
-            "translation": "此地只剩空寂的黄鹤楼。"
+            "translation": "过去的仙人已经驾着黄鹤飞走了，只留下空荡荡的黄鹤楼。"
           },
           "notes": []
         }
@@ -134,25 +111,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "黄鹤一去不再回返，"
-          },
-          "notes": [
-            {
-              "start": 3,
-              "end": 6,
-              "note": "不复返：不再回来。‘复’意为‘再’，强调一去不返的怅惘。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
+            },
             {
               "char": "白",
               "pinyin": "bái"
@@ -187,15 +146,9 @@
             }
           ],
           "translation": {
-            "translation": "白云千年徒然飘荡。"
+            "translation": "黄鹤一去再也没有回来，千百年来只看见白云在天上飘飘荡荡。"
           },
-          "notes": [
-            {
-              "start": 4,
-              "end": 5,
-              "note": "空：徒然、白白地，表达仙人不返、历史空茫的无奈。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -234,30 +187,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "晴日照耀汉阳树清晰可见，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "晴川：阳光照耀下的江面。‘川’指江河，非陆地。"
             },
-            {
-              "start": 2,
-              "end": 3,
-              "note": "历历：清晰分明的样子，形容树木清晰可见。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
             {
               "char": "芳",
               "pinyin": "fāng"
@@ -292,15 +222,9 @@
             }
           ],
           "translation": {
-            "translation": "鹦鹉洲上芳草茂盛。"
+            "translation": "阳光照耀下的汉阳树木清晰可见，更能看清芳草繁茂的鹦鹉洲。"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "萋萋：草木茂盛的样子，非‘凄凉’义，注意与‘凄凄’区分。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -342,25 +266,10 @@
             }
           ],
           "translation": {
-            "translation": "暮色中故乡在何方？"
+            "translation": "暮色渐渐漫起，哪里是我的家乡？"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "乡关：故乡。‘关’在此泛指家乡所在之地。"
-            },
-            {
-              "start": 4,
-              "end": 6,
-              "note": "何处是：即‘是在何处’，疑问句中宾语前置。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -397,15 +306,9 @@
             }
           ],
           "translation": {
-            "translation": "江上烟波令人愁绪万千。"
+            "translation": "江面烟波渺渺让人更生烦愁。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "烟波：江面上雾气缭绕的水波，营造迷蒙愁绪的意象。"
-            }
-          ]
+          "notes": []
         }
       ]
     }

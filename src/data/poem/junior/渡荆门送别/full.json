@@ -11,129 +11,65 @@
             {
               "char": "渡",
               "pinyin": "dù",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "远",
               "pinyin": "yuǎn",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "荆",
               "pinyin": "jīng",
-              "index": 2,
-              "read": true,
-              "write": true
+              "index": 2
             },
             {
               "char": "门",
               "pinyin": "mén",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "外",
               "pinyin": "wài",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "从",
               "pinyin": "cóng",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "楚",
               "pinyin": "chǔ",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "游",
               "pinyin": "yóu",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "乘舟远渡荆门关外，来到楚国故地漫游。",
-          "pinyin": "dù yuǎn jīng mén wài ， lái cóng chǔ guó yóu 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "渡远：远行渡水，指诗人离开蜀地远赴楚地。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "荆门：山名，位于今湖北宜都西北，为巴蜀与荆楚交界处。"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "外：指离开荆门，进入楚地，表示行程的起点。"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "content": "从：到、往，此处指前往楚国游览，古义与今义不同。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "楚国：先秦诸侯国，此指长江中游地区，今湖北湖南一带。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 7,
-              "old": "到、往"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "跟随"
-            }
-          ]
+          "translation": "我乘舟渡江来到遥远的荆门外，来到战国时期楚国的境内游览。"
         }
       ]
     },
@@ -144,107 +80,65 @@
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "随",
               "pinyin": "suí",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "平",
               "pinyin": "píng",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "野",
               "pinyin": "yě",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "尽",
               "pinyin": "jìn",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "江",
               "pinyin": "jiāng",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "大",
               "pinyin": "dà",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "荒",
               "pinyin": "huāng",
-              "index": 21,
-              "read": true,
-              "write": true
+              "index": 21
             },
             {
               "char": "流",
               "pinyin": "liú",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             }
           ],
-          "translation": "高山随着平野的展开而消失，长江涌入辽阔荒原奔流。",
-          "pinyin": "shān suí píng yě jìn ， jiāng rù dà huāng liú 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "平野：平坦广阔的原野，形容进入楚地后的地形变化。"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "尽：消失，指山脉逐渐消失在平原尽头。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "大荒：荒远空旷的原野，古语，非现代‘荒废土地’之意。"
-            }
-          ]
+          "translation": "高山随着平坦广阔的原野的出现而逐渐消失，江水在广阔无际的田野中奔流。"
         }
       ]
     },
@@ -255,109 +149,65 @@
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "飞",
               "pinyin": "fēi",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "镜",
               "pinyin": "jìng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "结",
               "pinyin": "jié",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "海",
               "pinyin": "hǎi",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "楼",
               "pinyin": "lóu",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
-          "translation": "月影如天上飞来的明镜，云霞结成海市蜃楼。",
-          "pinyin": "yuè xià fēi tiān jìng ， yún shēng jié hǎi lóu 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "月下飞天镜：月亮倒映江中，宛如从天上飞下的明镜，比喻月影之美。"
-            },
-            {
-              "start": 6,
-              "end": 11,
-              "content": "云生结海楼：云霞升腾，形成海市蜃楼般的壮丽景象。海楼，即海市蜃楼。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "倒装与比喻句式，‘月下飞天镜’实为‘月亮如飞下的天镜’，语序倒置以增强诗意。"
-            }
-          ]
+          "translation": "月亮在水中的倒影好像天上飞下来的一面天镜，云彩升起，变幻无穷，结成了海市蜃楼。"
         }
       ]
     },
@@ -368,126 +218,65 @@
             {
               "char": "仍",
               "pinyin": "réng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "怜",
               "pinyin": "lián",
-              "index": 37,
-              "read": true,
-              "write": true
+              "index": 37
             },
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "乡",
               "pinyin": "xiāng",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "送",
               "pinyin": "sòng",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 45,
-              "read": true,
-              "write": true
+              "index": 45
             },
             {
               "char": "舟",
               "pinyin": "zhōu",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "依然眷念故乡的江水，不远万里相送行舟。",
-          "pinyin": "réng lián gù xiāng shuǐ ， wàn lǐ sòng xíng zhōu 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 1,
-              "content": "怜：喜爱、爱惜，古义与今义‘同情’不同，此处表达对故乡水的深情。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "故乡水：指长江上游来自蜀地的江水，寄托思乡之情。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "行舟：远行之舟，点明离乡主题。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 1,
-              "end": 1,
-              "old": "喜爱"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "new": "同情"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 6,
-              "end": 11,
-              "content": "拟人句式，‘万里送行舟’将故乡之水拟人化，表达依依惜别之情。"
-            }
-          ]
+          "translation": "我依然喜爱这来自故乡之水，不远万里来送我东行的小舟。"
         }
       ]
     }
@@ -498,5 +287,8 @@
     "五言律诗"
   ],
   "background": "这首诗是李白青年时期出蜀至荆门时赠别家乡而作，具体创作时间不详，具体有三种说法：一说作于724年（开元十二年），二说作于725年（开元十三年），三说作于726年（开元十四年）。",
-  "appreciation": "《渡荆门送别》是一首五言律诗。此诗开头点题，继写沿途见闻和观感，后以思念作结，勾勒出一幅壮丽的远游画卷。全诗意境高远，风格雄健，形象奇伟，想象瑰丽，诗人以卓越的绘景技巧描画出雄浑壮阔之景，表现出他年少远游、倜傥不群的个性及浓厚的思乡之情。"
+  "appreciation": "《渡荆门送别》是一首五言律诗。此诗开头点题，继写沿途见闻和观感，后以思念作结，勾勒出一幅壮丽的远游画卷。全诗意境高远，风格雄健，形象奇伟，想象瑰丽，诗人以卓越的绘景技巧描画出雄浑壮阔之景，表现出他年少远游、倜傥不群的个性及浓厚的思乡之情。",
+  "annotation": "荆门：山名，位于今湖北省宜都县西北长江南岸，与北岸虎牙山对峙，地势险要，自古即有楚蜀咽喉之称。远：远自。楚国：楚地，指湖北一带，春秋时期属楚国。平野：平坦广阔的原野。江：长江。大荒：广阔无际的田野。月下飞天镜：明月映入江水，如同飞下的天镜。下：移下。海楼：海市蜃楼，这里形容江上云霞的美丽景象。仍：依然。怜：爱。一本作“连”。故乡水：指从四川流来的长江水。因诗人从小生活在四川，把四川称作故乡。万里：喻行程之远。",
+  "comprehensive_appreciation": "赏析：这首诗是李白出蜀时所作。李白这次出蜀，由水路乘船远行，经巴渝，出三峡，直向荆门山之外驶去，目的是到湖北、湖南一带楚国故地游览。“渡远荆门外，来从楚国游”，指的就是这一壮游。这时候的青年诗人，兴致勃勃，坐在船上沿途纵情观赏巫山两岸高耸云霄的峻岭，随着船的行进，眼前的景色逐渐变换，当船驶过荆门一带，视野豁然开朗，平原旷野映入眼帘，展现出一幅别样的风景画卷：“山随平野尽，江入大荒流。”在这一联，短短十个字，作者描绘了四种景象：连绵起伏的山岭，辽阔平坦的原野，奔腾不息的长江以及辽远的荒原。每一种景象都显得如此壮阔，让人目不暇接，思绪万千。这句的意思是随着平原的延伸，山峦逐渐隐没，而长江则在这片广袤的原野中奔流不息。它生动地描绘了渡过荆门进入楚地的壮丽景色，通过流动的视角展现了景物的变化。从蜀地到荆门，两岸地势由山脉过渡到平原，山峦在视线中逐渐消失，江水则冲破山峦，向着无垠的原野奔腾而去，构成了一幅气势磅礴的万里长江图，写的是远景。其中“随”字将群山与原野的位置逐渐变换、推移，真切地表现出来，写活了，给人以空间感和流动感。如何把四种景象融合在同一个画面中呢？作者用一个“随”字把“山”与“野”联结在一起，用“入”字把“江”与“荒”联结在一起。这个“随”字不仅描绘了山脉的走向和趋势，还赋予了画面强烈的流动感和空间感，仿佛一幅壮观的画卷在你眼前缓缓展开。随着山脉的走向越来越低，最终没入大地，平原也愈加广阔，诗人的视野也更加开阔，而“尽”字则精准地表达了山脉消失、平原呈现时，诗人眼前豁然开朗的喜悦之情。 “入”字则带着强烈的楔入感，描绘出了长江冲击荒原的力量，也激发着作者的豪情。作者内心的激昂奋进，也随着水流奔向遥远的天际。王湾的《次北固山下》中“海日生残夜，江春入旧年”中的“入”字有同样的意蕴。“月下飞天镜，云生结海楼”，意思是月亮在水中的倒影好像天上飞下来的一面天镜，云彩升起，变幻无穷，结成了海市蜃楼。这一句是长江近景的描写。“月下飞天镜”是月夜俯视所见。“云生结海楼”是白昼眺望所见。“仍怜故乡水，万里送行舟”，意思是我还是怜爱故乡的水，流过万里送我远行。这一句运用了拟人的修辞手法，将故乡水拟人化，借写故乡水有情，不远万里，依恋不舍送我远别故乡，表达了诗人离开故乡时依依不舍，思念故乡的感情。诗人顺着长江远渡荆门，江水流过的蜀地也就是曾经养育过他的故乡，初次离别，他怎能不无限留恋，依依难舍呢？但诗人不说自己思念故乡，而说故乡之水恋恋不舍地一路送我远行，怀着深情厚意，万里送行舟，从对面写来，越发显出自己思乡深情。诗以浓重的怀念惜别之情结尾，言有尽而情无穷。诗题中的“送别”应是告别故乡而不是送别朋友，诗中并无送别朋友的离情别绪。清沈德潜认为“诗中无送别意，二字可删”（《唐诗别裁》），这并不是没有道理的。这首诗首尾行结，浑然一体，意境高远，风格雄健。“山随平野尽，江入大荒流”，写得逼真如画，有如一幅长江出峡渡荆门长轴山水图，成为脍炙人口的佳句。如果说优秀的山水画“咫尺应须论万里”，那么，这首形象壮美瑰玮的五律也可以说能以小见大，以一当十，容量丰富，包涵长江中游数万里山势与水流的景色，具有高度集中的艺术概括力。",
+  "knowledge": ""
 }

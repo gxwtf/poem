@@ -11,83 +11,60 @@
             {
               "char": "静",
               "pinyin": "jìng",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "姝",
               "pinyin": "shū",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "俟",
               "pinyin": "sì",
-              "index": 5,
-              "read": true,
-              "write": true
+              "index": 5
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "隅",
               "pinyin": "yú",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             }
           ],
           "translation": "娴静的姑娘真美丽，约我等在城上角楼处。",
-          "pinyin": "jìng nǚ qí shū ， sì wǒ yú chéng yú 。",
           "notes": [
             {
               "start": 0,
@@ -104,94 +81,62 @@
               "end": 9,
               "content": "城角。一说指城上的角楼。"
             }
-          ],
-          "special_sentences": [
-            {
-              "start": 5,
-              "end": 9,
-              "content": "状语后置句：‘俟我于城隅’即‘于城隅俟我’，在城角等我。"
-            }
           ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+        },
         {
           "content": [
             {
               "char": "爱",
               "pinyin": "ài",
-              "index": 11,
-              "read": true,
-              "write": true
+              "index": 11
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "搔",
               "pinyin": "sāo",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "首",
               "pinyin": "shǒu",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "踟",
               "pinyin": "chí",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "蹰",
               "pinyin": "chú",
-              "index": 19,
-              "read": false,
-              "write": true
+              "index": 19
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             }
           ],
           "translation": "故意躲藏让我找，急得我搔头徘徊心紧张。",
-          "pinyin": "ài ér bù jiàn ， sāo shǒu chí chú 。",
           "notes": [
             {
               "start": 0,
@@ -202,28 +147,6 @@
               "start": 5,
               "end": 8,
               "content": "以手指挠头，徘徊不进。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "通‘薆’，隐藏"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "喜爱"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "old": "通‘现’，出现"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "new": "看见"
             }
           ]
         }
@@ -236,76 +159,55 @@
             {
               "char": "静",
               "pinyin": "jìng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "女",
               "pinyin": "nǚ",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "娈",
               "pinyin": "luán",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "贻",
               "pinyin": "yí",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "彤",
               "pinyin": "tóng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "管",
               "pinyin": "guǎn",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             }
           ],
           "translation": "娴静的姑娘容颜好，送我一枝彤管。",
-          "pinyin": "jìng nǚ qí luán ， yí wǒ tóng guǎn 。",
           "notes": [
             {
               "start": 3,
@@ -318,86 +220,61 @@
               "content": "红色的管状物。一说指初生时呈红色的管状的草，即下一章所说的“荑”。"
             }
           ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+        },
         {
           "content": [
             {
               "char": "彤",
               "pinyin": "tóng",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "管",
               "pinyin": "guǎn",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "炜",
               "pinyin": "wěi",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "说",
               "pinyin": "yuè",
-              "index": 36,
-              "read": true,
-              "write": true
+              "index": 36
             },
             {
               "char": "怿",
               "pinyin": "yì",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "女",
               "pinyin": "rǔ",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             }
           ],
           "translation": "彤管有光彩，爱它颜色真鲜艳。",
-          "pinyin": "tóng guǎn yǒu wěi ， yuè yì rǔ měi 。",
           "notes": [
             {
               "start": 3,
@@ -408,28 +285,6 @@
               "start": 5,
               "end": 8,
               "content": "喜爱你的美丽。说，同“悦”。怿，喜悦。女，同“汝”，第二人称代词。下文的“匪女之为美”的“女”同此。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 5,
-              "old": "通‘悦’，喜爱"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "说话"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "old": "通‘汝’，你"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "女性"
             }
           ]
         }
@@ -442,76 +297,55 @@
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "牧",
               "pinyin": "mù",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "归",
               "pinyin": "kuì",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "荑",
               "pinyin": "tí",
-              "index": 44,
-              "read": true,
-              "write": true
+              "index": 44
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 45,
-              "read": false,
-              "write": true
+              "index": 45
             },
             {
               "char": "洵",
               "pinyin": "xún",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "且",
               "pinyin": "qiě",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "异",
               "pinyin": "yì",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             }
           ],
           "translation": "郊野采荑赠送给我，荑草确实美好又珍异。",
-          "pinyin": "zì mù kuì tí ， xún měi qiě yì 。",
           "notes": [
             {
               "start": 0,
@@ -523,140 +357,72 @@
               "end": 8,
               "content": "确实美好而且与众不同。洵，诚然、实在。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "通‘馈’，赠送"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "返回"
-            }
           ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+        },
         {
           "content": [
             {
               "char": "匪",
               "pinyin": "fěi",
-              "index": 51,
-              "read": true,
-              "write": true
+              "index": 51
             },
             {
               "char": "女",
               "pinyin": "rǔ",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "贻",
               "pinyin": "yí",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             }
           ],
           "translation": "不是荑草长得美，是美人相赠的情意异常深厚。",
-          "pinyin": "fěi rǔ zhī wéi měi ， měi rén zhī yí 。",
           "notes": [
             {
               "start": 0,
               "end": 4,
               "content": "并非你这荑草美。匪，同“非”，表示否定判断。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "通‘非’，不是"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "强盗"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "old": "通‘汝’，你"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "new": "女性"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 2,
-              "end": 4,
-              "content": "宾语前置句：‘匪女之为美’即‘匪为美女’，不是因为你美丽。"
             }
           ]
         }
@@ -670,5 +436,9 @@
     "诗经",
     "爱情"
   ],
-  "appreciation": "《静女》是《诗经》中的一首诗，为一首爱情诗。此诗叙写青年男女幽会的过程，流露出男子对恋人性格温柔娴静、外表淑丽的赞美与喜爱，尽显年轻男女之间纯真美好的爱情。全诗构思灵巧，人物形象刻画生动，通篇以男子的口吻表现幽期密约的乐趣，其语言浅显，形象生动，气氛欢快，情趣盎然，充满了幽默和健康快乐的情绪，对青年人恋爱心理的描写惟妙惟肖。"
+  "appreciation": "《静女》是《诗经》中的一首诗，为一首爱情诗。此诗叙写青年男女幽会的过程，流露出男子对恋人性格温柔娴静、外表淑丽的赞美与喜爱，尽显年轻男女之间纯真美好的爱情。全诗构思灵巧，人物形象刻画生动，通篇以男子的口吻表现幽期密约的乐趣，其语言浅显，形象生动，气氛欢快，情趣盎然，充满了幽默和健康快乐的情绪，对青年人恋爱心理的描写惟妙惟肖。",
+  "annotation": "静女：贞静娴雅之女。静：娴雅贞静。姝：美丽，漂亮。俟：等待，此处指约好地方等待。城隅：城角隐蔽处。一说城上角楼。城：城墙。隅：城墙上的角楼。爱：同“薆”，隐藏。搔首踟蹰：以手指挠头，徘徊不进。踟蹰（chíchú）：徘徊不定。娈：面目姣好。贻：赠。彤管：不详何物。一说红管的笔，一说和荑应是一物，指初生时呈红色的管状的草，有的植物初生时或者才发芽不久时呈红色，不仅颜色鲜亮，有的还可吃。如是此意，就与下文的“荑(tí）”同类。但是也可能是指涂了红颜色的管状乐器等。有：形容词词头。炜：色红而光亮。说怿（yì）：说同“悦”。怿，喜悦。女：同“汝”，你，指彤管。牧：城邑的远郊。归：同“馈”，赠送。荑：初生的白茅草。象征婚媾。洵美且异：确实美得特别。洵：确实。异：特殊。匪：同“非”。贻：赠与。",
+  "comprehensive_appreciation": "鉴赏：《静女》一诗，向来为选家所注目。现代学者一般都认为此诗写的是男女青年的幽期密约，也就是说，它是一首爱情诗。而旧时的各家之说，则多有曲解，未得其真旨。最早《毛诗序》云：“《静女》，刺时也。卫君无道，夫人无德。”郑笺释云：“以君及夫人无道德，故陈静女遗我以彤管之法。德如是，可以易之，为人君之配。”而《易林》有“季姬踟蹰，结衿待时；终日至暮，百两不来”、“季姬踟蹰，望我城隅；终日至暮，不见齐侯，居室无忧”、“踯躅踟蹰，抚心搔首；五昼四夜，睹我齐侯”之句，则反映齐诗之说，王先谦《诗三家义集疏》遂谓“此媵俟迎而嫡作诗也”。所说拘牵于礼教，皆不免附会。宋人解诗，能破除旧说，欧阳修《诗本义》以为“此乃述卫风俗男女淫奔之诗”，朱熹《诗集传》也以为“此淫奔期会之诗”，他们的说法已经接近本义，但指男女正常的爱情活动为“淫奔”，仍是头巾气十足，与汉儒解诗言及妇女便标榜“后妃之德”同一弊端。诗是从男子一方来写的，但通过他对恋人外貌的赞美，对她待自己情义之深的宣扬，也可见出未直接在诗中出现的那位女子的人物形象，甚至不妨说她的形象在男子的第一人称叙述中显得更为鲜明。而这又反过来使读者对小伙子的痴情加深了印象。诗的第一章是即时的场景：有一位闲雅而又美丽的姑娘，与小伙子约好在城墙角落会面，他早早赶到约会地点，急不可耐地张望着，却被树木房舍之类东西挡住了视线，于是只能抓耳挠腮，一筹莫展，徘徊原地。“爱而不见，搔首踟蹰”虽描写的是人物外在的动作，却极具特征性，很好地刻划了人物的内在心理，栩栩如生地塑造出一位恋慕至深、如痴如醉的有情人形象。第二、第三两章，从辞意的递进来看，应当是那位痴情的小伙子在城隅等候他的心上人时的回忆，也就是说，“贻我彤管”、“自牧归荑”之事是倒叙的。在章与章的联系上，第二章首句“静女其娈”与第一章首句“静女其姝”仅一字不同，次句头两字“贻我”与“俟我”结构也相似，因此两章多少有一种重章叠句的趋向，有一定的匀称感，但由于这两章的后两句语言结构与意义均无相近之处，且第一章还有五字句，这种重章叠句的趋向便被扼制，使之成为一种佯似。这样的结构代表了《诗经》中一种介于整齐的重章叠句体与互无重复的分章体之间的特殊类型，似乎反映出合乐歌词由简单到复杂的过渡历程。读诗的第二、第三两章，读者会发出会心的微笑，对诗人的“写形写神之妙”（陈震《读诗识小录》）有进一步的感受。照理说，彤管比荑草要贵重，但男主人公对受赠的彤管只是说了句“彤管有炜”，欣赏的是它鲜艳的色泽，而对受赠的普通荑草却由衷地大赞“洵美且异”，欣赏的不是其外观而别有所感。原来，荑草是她跋涉远处郊野亲手采来的，物微而意深，一如后世南朝宋陆凯《赠范晔》诗之“江南无所有，聊赠一枝春”，重的是情感的寄托、表达，不妨说已成为一个具有能指优势的特殊符号。接受彤管，想到的是恋人红润的面容，那种“说（悦）怿”只是对外在美的欣赏；而接受荑草，感受到普通的小草也“洵美且异”，则是对她所传送的那种有着特定内容的异乎寻常的真情的深切体验，那已经超越了对外表的迷恋而进入了追求内心世界的谐合的高层次的爱情境界。而初生的柔荑将会长成茂盛的草丛，也含有爱情将更加发展的象征意义。第三章结尾“匪女之为美，美人之贻”两句对恋人赠物的“爱屋及乌”式的反应，可视为一种内心独白，既是第二章诗义的递进，也与第一章以“爱而不见，搔首踟蹰”的典型动作刻划人物的恋爱心理可以首尾呼应，别具真率纯朴之美。读完此诗，对那位痴心小伙子的一腔真情，读者必然深受感动。",
+  "background": "",
+  "knowledge": ""
 }

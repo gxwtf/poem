@@ -11,119 +11,70 @@
             {
               "char": "岱",
               "pinyin": "dài",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "宗",
               "pinyin": "zōng",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "夫",
               "pinyin": "fú",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             }
           ],
-          "translation": "泰山到底何等气象？",
-          "pinyin": "dài zōng fū rú hé ？",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "岱宗：泰山的尊称。岱，泰山的别名；宗，意为尊长。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "夫：语气助词，无实义，用于句首表示发端。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "五岳之首的泰山怎么样？"
+        },
         {
           "content": [
             {
               "char": "齐",
               "pinyin": "qí",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "鲁",
               "pinyin": "lǔ",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "青",
               "pinyin": "qīng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "未",
               "pinyin": "wèi",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "了",
               "pinyin": "liǎo",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "齐鲁大地青色绵延无尽。",
-          "pinyin": "qí lǔ qīng wèi liǎo 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "齐鲁：春秋时两个国名，齐在泰山北，鲁在泰山南，泛指山东一带。"
-            }
-          ]
+          "translation": "在齐鲁大地上，那苍翠的美好山色没有尽头。"
         }
       ]
     },
@@ -134,124 +85,65 @@
             {
               "char": "造",
               "pinyin": "zào",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "化",
               "pinyin": "huà",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "钟",
               "pinyin": "zhōng",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "神",
               "pinyin": "shén",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "秀",
               "pinyin": "xiù",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "大自然凝聚神奇秀美，",
-          "pinyin": "zào huà zhōng shén xiù ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "造化：指大自然。造，创造；化，化育。"
+              "index": 17
             },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "钟：聚集，汇聚。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "阴",
               "pinyin": "yīn",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "阳",
               "pinyin": "yáng",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "割",
               "pinyin": "gē",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "昏",
               "pinyin": "hūn",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "晓",
               "pinyin": "xiǎo",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             }
           ],
-          "translation": "山南山北分隔晨昏。",
-          "pinyin": "yīn yáng gē hūn xiǎo 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "阴阳：山北为阴，山南为阳。此处指泰山南北。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "割：分割，划分。"
-            }
-          ]
+          "translation": "大自然把神奇秀丽的景象全都汇聚其中，山南山北阴阳分界，晨昏迥然不同。"
         }
       ]
     },
@@ -262,162 +154,110 @@
             {
               "char": "荡",
               "pinyin": "dàng",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "胸",
               "pinyin": "xiōng",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "曾",
               "pinyin": "céng",
-              "index": 27,
-              "read": true,
-              "write": true
+              "index": 27
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 29,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "层云翻腾涤荡心胸，",
-          "pinyin": "dàng xiōng shēng céng yún ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "荡胸：涤荡胸襟。"
+              "index": 29
             },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "生：产生，生出。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "曾云：层云。曾，通“层”。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "通“层”，重叠"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "曾经"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "倒装句，正常语序为‘曾云生荡胸’，意为层云生出使胸襟涤荡。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "决",
               "pinyin": "jué",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "眦",
               "pinyin": "zì",
-              "index": 31,
-              "read": true,
-              "write": true
+              "index": 31
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "鸟",
               "pinyin": "niǎo",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
-          "translation": "睁裂眼眶目送归鸟。",
-          "pinyin": "jué zì rù guī niǎo 。",
-          "notes": [
+          "translation": "升腾的层层云气，使心胸摇荡；"
+        },
+        {
+          "content": [
             {
-              "start": 0,
-              "end": 1,
-              "content": "决眦：睁裂眼眶，形容极力张大眼睛。决，裂开；眦，眼眶。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 1,
-              "end": 1,
-              "old": "眼眶"
+              "char": "(",
+              "pinyin": "",
+              "index": 36
             },
             {
-              "start": 1,
-              "end": 1,
-              "new": "眼角"
+              "char": " ",
+              "pinyin": "huì",
+              "index": 37
+            },
+            {
+              "char": "曾",
+              "pinyin": "dāng",
+              "index": 38
+            },
+            {
+              "char": " ",
+              "pinyin": "líng",
+              "index": 39
+            },
+            {
+              "char": "同",
+              "pinyin": "jué",
+              "index": 40
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 41
+            },
+            {
+              "char": "层",
+              "pinyin": "dǐng",
+              "index": 42
+            },
+            {
+              "char": ")",
+              "pinyin": "",
+              "index": 43
             }
           ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "倒装句，正常语序为‘入归鸟决眦’，意为归鸟入山需张裂眼眶远望。"
-            }
-          ]
+          "translation": "极力张大眼睛远望归鸟隐入了山林。"
         }
       ]
     },
@@ -427,130 +267,66 @@
           "content": [
             {
               "char": "会",
-              "pinyin": "huì",
-              "index": 36,
-              "read": false,
-              "write": false
+              "pinyin": "yī",
+              "index": 44
             },
             {
               "char": "当",
-              "pinyin": "dāng",
-              "index": 37,
-              "read": false,
-              "write": false
+              "pinyin": "lǎn",
+              "index": 45
             },
             {
               "char": "凌",
-              "pinyin": "líng",
-              "index": 38,
-              "read": false,
-              "write": false
+              "pinyin": "zhòng",
+              "index": 46
             },
             {
               "char": "绝",
-              "pinyin": "jué",
-              "index": 39,
-              "read": false,
-              "write": false
+              "pinyin": "shān",
+              "index": 47
             },
             {
               "char": "顶",
-              "pinyin": "dǐng",
-              "index": 40,
-              "read": false,
-              "write": false
+              "pinyin": "xiǎo",
+              "index": 48
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "定要登上最高峰顶，",
-          "pinyin": "huì dāng líng jué dǐng ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "会当：定要，应当。"
+              "index": 49
             },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "凌：登上，逾越。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "绝顶：最高峰。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "一",
-              "pinyin": "yī",
-              "index": 42,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 50
             },
             {
               "char": "览",
-              "pinyin": "lǎn",
-              "index": 43,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 51
             },
             {
               "char": "众",
-              "pinyin": "zhòng",
-              "index": 44,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 52
             },
             {
               "char": "山",
-              "pinyin": "shān",
-              "index": 45,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 53
             },
             {
               "char": "小",
-              "pinyin": "xiǎo",
-              "index": 46,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 54
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 55
             }
           ],
-          "translation": "俯瞰众山尽显渺小。",
-          "pinyin": "yī lǎn zhòng shān xiǎo 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "一览：一眼望去。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "众山小：化用《孟子·尽心上》“登泰山而小天下”之意。"
-            }
-          ]
+          "translation": "我定要登上那最高峰，俯瞰在泰山面前显得渺小的群山。"
         }
       ]
     }
@@ -561,5 +337,8 @@
     "五言律诗"
   ],
   "background": "公元736年（开元二十四年），二十四岁的诗人开始过一种不羁的漫游生活。作者北游齐、赵（今河南、河北、山东等地），这首诗就是在漫游途中所作。",
-  "appreciation": "《望岳》是一首五言古诗，写得气骨峥嵘，体势雄浑。全诗以诗题中的“望”字统领全篇，句句写望岳，但通篇并无一个“望”字，而能给人以身临其境之感，可见诗人的谋篇布局和艺术构思精妙奇绝。这首诗虽有深远寄托，却丝毫不见刻意比兴的痕迹，只见登览名山之兴会。诗人通过描写泰山雄伟磅礴的景象，热情赞美了泰山高大巍峨的体势和神奇秀丽的景色，流露出对祖国山河的热爱之情，同时也表达了他不怕困难、敢攀顶峰、俯视一切的雄心和气概，以及卓然独立、兼济天下的豪情壮志。"
+  "appreciation": "《望岳》是一首五言古诗，写得气骨峥嵘，体势雄浑。全诗以诗题中的“望”字统领全篇，句句写望岳，但通篇并无一个“望”字，而能给人以身临其境之感，可见诗人的谋篇布局和艺术构思精妙奇绝。这首诗虽有深远寄托，却丝毫不见刻意比兴的痕迹，只见登览名山之兴会。诗人通过描写泰山雄伟磅礴的景象，热情赞美了泰山高大巍峨的体势和神奇秀丽的景色，流露出对祖国山河的热爱之情，同时也表达了他不怕困难、敢攀顶峰、俯视一切的雄心和气概，以及卓然独立、兼济天下的豪情壮志。",
+  "annotation": "岱宗：泰山亦名岱山或岱岳，五岳之首，在今山东省泰安市城北。古代以泰山为五岳之首，诸山所宗，故又称“岱宗”。历代帝王凡举行封禅大典，皆在此山，这里指对泰山的尊称。夫：就是语气助词，补充音节的作用，无实义。如何：怎么样。齐、鲁：古代齐鲁两国以泰山为界，齐国在泰山北，鲁国在泰山南。原是春秋战国时代的两个国名，在今山东境内，后用齐鲁代指山东地区。青未了：指郁郁苍苍的山色无边无际，浩茫浑涵，难以尽言。青：指苍翠、翠绿的美好山色。未了：不尽，不断。造化：造化：创造与化育。《淮南子·精神》：“伟哉造化者”。诗中的“造化”就是“造化者”。指创造、化育一切的大自然。钟：聚集。神秀：天地之灵气，神奇秀美。阴阳：阴指山的北面，阳指山的南面。这里指泰山的南北。割：分。夸张的说法。此句是说泰山很高，在同一时间，山南山北判若早晨和晚上。昏晓：黄昏和早晨。极言泰山之高，山南山北因之判若清晓与黄昏，明暗迥然不同。荡胸：心胸摇荡。曾：同“层”，重叠。决眦（zì）：眦：眼角。眼角（几乎）要裂开。这是由于极力张大眼睛远望归鸟入山所致。决：裂开。入：收入眼底，即看到。会当：终当，定要。凌：登上。凌绝顶，即登上最高峰。小：形容词的意动用法，意思为“以······为小，认为······小”。",
+  "comprehensive_appreciation": "赏析：这首诗通过描绘泰山雄伟磅礴的景象，热情赞美了泰山高大巍峨的气势和神奇秀丽的景色，流露出了对祖国山河的热爱之情，表达了诗人不怕困难、敢攀顶峰、俯视一切的雄心和气概，以及卓然独立、兼济天下的豪情壮志。一二句写泰山山脉绵延辽阔；三四句写泰山雄峻磅礴；五六句写仔细远望，见群峰云生，仿佛有归鸟入谷。七八句想象将来登山所见景象，同时抒发自己的抱负。首句“岱宗夫如何？”写乍一望见泰山时，高兴得不知怎样形容才好的那种揣摹劲和惊叹仰慕之情，非常传神。岱是泰山的别名，因居五岳之首，故尊为岱宗。“夫如何”，就是“到底怎么样呢？”“夫”字在古文中通常是用于句首的语气助词，这里把它融入诗句中，是个新创，很别致。这个“夫”字，虽无实在意义，却少它不得，所谓“传神写照，正在阿堵中”。可谓匠心独具。接下来“齐鲁青未了”，它没有从海拔角度单纯形容泰山之高，而是别出心裁地写出自己的体验──在古代齐鲁两大国的国境外还能望见远远横亘在那里的泰山，以距离之远来烘托出泰山之高。泰山之南为鲁，泰山之北为齐，所以这一句描写出的地理特点，在写其他山岳时不能挪用。明代莫如忠《登东郡望岳楼》特别提出这句诗，并认为无人能继。“造化钟神秀，阴阳割昏晓”两句是描写泰山的近景。一个“钟”字把天地万物一下写活了，整个大自然如此有情致，把神奇和秀美都给了泰山。山前向日的一面为“阳”，山后背日的一面为“阴”（山南水北为“阳”，山北水南为阴），由于山高，天色的一昏一晓被割于山的阴、阳面，所以说“割昏晓”。这本是十分正常的自然现象，可诗人妙笔生花，用一个“割”字，则写出了高大的泰山一种主宰的力量，这力量不是别的，泰山以其高度将山南山北的阳光割断，形成不同的景观，突出泰山遮天蔽日的形象。这里诗人此用笔使静止的泰山顿时充满了雄浑的力量，而那种“语不惊人死不休”的创作风格，也在此得到显现。“荡胸生曾云，决眦入归鸟”两句，是写细望。见山中云气层出不穷，故心胸亦为之荡漾。“决眦”二字尤为传神，生动地体现了诗人在这神奇缥缈的景观面前像着了迷似的，为了看够，因而使劲地睁大眼睛张望，故感到眼眶有似决裂。这情景使泰山迷人的景色表现得更为形象鲜明。“归鸟”是投林还巢的鸟，说明已是薄暮时分作者还未曾离去。其中蕴藏着诗人对祖国河山的热爱和对祖国山河的赞美之情。最后“会当凌绝顶，一览众山小”两句，写诗人并不满足看岳而是想登上山顶一揽盛景的心情。此联号为绝响，再一次突出了泰山的高峻，写出了雄视一切的雄姿和气势，也表现出诗人的心胸气魄。“会当”是唐人口语，意即“一定要”。如果把“会当”解作“应当”，便欠准确，神气索然。众山的小和高大的泰山进行对比，表现出诗人不怕困难、敢于攀登绝顶、俯视一切的雄心和气概。 这正是杜甫能够成为一个伟大诗人的关键所在， 也是一切有所作为的人们所不可缺少的。 这就是这两句诗一直为人们所传诵的原因。正因为泰山的崇高伟大不仅是自然的也是人文的，所以登上的极顶的想望本身，当然也具备了双重的含义。全诗以诗题中的“望”字统摄全篇，句句写望岳，但通篇并无一个“望”字，而能给人以身临其境之感，可见诗人的谋篇布局和艺术构思是精妙奇绝的。这首诗寄托虽然深远，但通篇只见登览名山之兴会，丝毫不见刻意比兴之痕迹。若论气骨峥嵘，体势雄浑，更以后出之作难以企及。",
+  "knowledge": ""
 }

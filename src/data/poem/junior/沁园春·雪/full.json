@@ -1,8 +1,8 @@
 {
   "name": "沁园春·雪",
   "author": "毛泽东",
-  "dynasty": "现代",
-  "mode": "paragraph",
+  "dynasty": "近现代",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,133 +11,80 @@
             {
               "char": "北",
               "pinyin": "běi",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "光",
               "pinyin": "guāng",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "冰",
               "pinyin": "bīng",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "封",
               "pinyin": "fēng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "飘",
               "pinyin": "piāo",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             }
           ],
-          "translation": "北方地区的壮丽景色，千里冰封，万里雪飘。",
-          "pinyin": "běi guó fēng guāng ， qiān lǐ bīng fēng ， wàn lǐ xuě piāo 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "千里：极言地域广阔，非实指，为夸张手法。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "冰封：冰雪覆盖冻结，形容严寒之景。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "万里：与‘千里’对仗，极言雪域辽阔。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "雪飘：雪花飞舞之态，展现动态美。"
-            }
-          ]
+          "translation": "北方的风光，千里冰封冻，下里雪花飘。"
         }
       ]
     },
@@ -148,194 +95,155 @@
             {
               "char": "望",
               "pinyin": "wàng",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "长",
               "pinyin": "cháng",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "内",
               "pinyin": "nèi",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "外",
               "pinyin": "wài",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "惟",
               "pinyin": "wéi",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "余",
               "pinyin": "yú",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "莽",
               "pinyin": "mǎng",
-              "index": 23,
-              "read": true,
-              "write": true
+              "index": 23
             },
             {
               "char": "莽",
               "pinyin": "mǎng",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             }
           ],
-          "translation": "眺望长城内外，只剩下无边白茫茫一片。",
-          "pinyin": "wàng cháng chéng nèi wài ， wéi yú mǎng mǎng 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "content": "惟余：只剩下，文言结构，强调空旷感。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "莽莽：叠音词，形容原野被雪覆盖后无边无际的苍茫景象。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "‘望长城内外’为省略句，完整应为‘望（于）长城内外’，属状语后置结构。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "望长城内外，只剩下无边无际白茫茫一片。"
+        },
         {
           "content": [
             {
               "char": "大",
               "pinyin": "dà",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "河",
               "pinyin": "hé",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "顿",
               "pinyin": "dùn",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "失",
               "pinyin": "shī",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "滔",
               "pinyin": "tāo",
-              "index": 33,
-              "read": true,
-              "write": true
+              "index": 33
             },
             {
               "char": "滔",
               "pinyin": "tāo",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
-          "translation": "黄河上下游，顿时失去滔滔水势。",
-          "pinyin": "dà hé shàng xià ， dùn shī tāo tāo 。",
-          "notes": [
+          "translation": "整条水河，立刻失去了波涛滚滚的水势。"
+        },
+        {
+          "content": [
             {
-              "start": 5,
-              "end": 5,
-              "content": "顿：立刻、突然，强调黄河由奔腾转为静止的剧烈变化。"
+              "char": "(",
+              "pinyin": "",
+              "index": 36
             },
             {
-              "start": 7,
-              "end": 8,
-              "content": "滔滔：原指水流盛大，此处借指黄河平日波涛汹涌之貌。"
+              "char": "余",
+              "pinyin": "shān",
+              "index": 37
+            },
+            {
+              "char": " ",
+              "pinyin": "wǔ",
+              "index": 38
+            },
+            {
+              "char": "通",
+              "pinyin": "yín",
+              "index": 39
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 40
+            },
+            {
+              "char": "馀",
+              "pinyin": "shé",
+              "index": 41
+            },
+            {
+              "char": ")",
+              "pinyin": "",
+              "index": 42
             }
-          ]
+          ],
+          "translation": "被白雪覆盖的群山好像银蛇的舞动，高原好像白象的奔跑，它们都想试着和老天爷比一下谁更高。"
         }
       ]
     },
@@ -345,167 +253,96 @@
           "content": [
             {
               "char": "山",
-              "pinyin": "shān",
-              "index": 36,
-              "read": false,
-              "write": false
+              "pinyin": "yuán",
+              "index": 43
             },
             {
               "char": "舞",
-              "pinyin": "wǔ",
-              "index": 37,
-              "read": false,
-              "write": false
+              "pinyin": "chí",
+              "index": 44
             },
             {
               "char": "银",
-              "pinyin": "yín",
-              "index": 38,
-              "read": false,
-              "write": false
+              "pinyin": "là",
+              "index": 45
             },
             {
               "char": "蛇",
-              "pinyin": "shé",
-              "index": 39,
-              "read": false,
-              "write": false
+              "pinyin": "xiàng",
+              "index": 46
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "原",
-              "pinyin": "yuán",
-              "index": 41,
-              "read": false,
-              "write": false
+              "pinyin": "yù",
+              "index": 48
             },
             {
               "char": "驰",
-              "pinyin": "chí",
-              "index": 42,
-              "read": false,
-              "write": false
+              "pinyin": "yǔ",
+              "index": 49
             },
             {
               "char": "蜡",
-              "pinyin": "là",
-              "index": 43,
-              "read": true,
-              "write": true
+              "pinyin": "tiān",
+              "index": 50
             },
             {
               "char": "象",
-              "pinyin": "xiàng",
-              "index": 44,
-              "read": false,
-              "write": false
+              "pinyin": "gōng",
+              "index": 51
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "欲",
-              "pinyin": "yù",
-              "index": 46,
-              "read": false,
-              "write": false
+              "pinyin": "shì",
+              "index": 53
             },
             {
               "char": "与",
-              "pinyin": "yǔ",
-              "index": 47,
-              "read": false,
-              "write": false
+              "pinyin": "bǐ",
+              "index": 54
             },
             {
               "char": "天",
-              "pinyin": "tiān",
-              "index": 48,
-              "read": false,
-              "write": false
+              "pinyin": "gāo",
+              "index": 55
             },
             {
               "char": "公",
-              "pinyin": "gōng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "pinyin": "xū",
+              "index": 56
             },
             {
               "char": "试",
-              "pinyin": "shì",
-              "index": 50,
-              "read": false,
-              "write": false
+              "pinyin": "qíng",
+              "index": 57
             },
             {
               "char": "比",
-              "pinyin": "bǐ",
-              "index": 51,
-              "read": false,
-              "write": false
+              "pinyin": "rì",
+              "index": 58
             },
             {
               "char": "高",
-              "pinyin": "gāo",
-              "index": 52,
-              "read": false,
-              "write": false
+              "pinyin": "kàn",
+              "index": 59
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 60
             }
           ],
-          "translation": "群山像银蛇舞动，高原似白象奔驰，都想与天公比试高低。",
-          "pinyin": "shān wǔ yín shé ， yuán chí là xiàng ， yù yǔ tiān gōng shì bǐ gāo 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "银蛇：比喻积雪蜿蜒的山峦，形似银色蛇舞。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "蜡象：比喻雪覆高原如白色象群奔驰，‘蜡’形容其色白而光亮。"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "content": "与：介词，和、同，引出比较对象。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "天公：上天之神，拟人化表达，体现人与自然抗衡的豪情。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "content": "比高：较量高度，象征竞争意志，‘高’为形容词作动词宾语。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 10,
-              "end": 16,
-              "content": "‘欲与天公试比高’中‘比高’为状语后置于动词‘试’之后，属状语后置句式。"
-            }
-          ]
+          "translation": "等到晴天的时候，看皇日和白雪交相辉映，格外娇艳美好。"
         }
       ]
     },
@@ -515,129 +352,81 @@
           "content": [
             {
               "char": "须",
-              "pinyin": "xū",
-              "index": 54,
-              "read": false,
-              "write": false
+              "pinyin": "hóng",
+              "index": 61
             },
             {
               "char": "晴",
-              "pinyin": "qíng",
-              "index": 55,
-              "read": false,
-              "write": false
+              "pinyin": "zhuāng",
+              "index": 62
             },
             {
               "char": "日",
-              "pinyin": "rì",
-              "index": 56,
-              "read": false,
-              "write": false
+              "pinyin": "sù",
+              "index": 63
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "看",
-              "pinyin": "kàn",
-              "index": 58,
-              "read": false,
-              "write": false
+              "pinyin": "guǒ",
+              "index": 65
             },
             {
               "char": "红",
-              "pinyin": "hóng",
-              "index": 59,
-              "read": false,
-              "write": false
+              "pinyin": "fèn",
+              "index": 66
             },
             {
               "char": "装",
-              "pinyin": "zhuāng",
-              "index": 60,
-              "read": false,
-              "write": false
+              "pinyin": "wài",
+              "index": 67
             },
             {
               "char": "素",
-              "pinyin": "sù",
-              "index": 61,
-              "read": false,
-              "write": false
+              "pinyin": "yāo",
+              "index": 68
             },
             {
               "char": "裹",
-              "pinyin": "guǒ",
-              "index": 62,
-              "read": false,
-              "write": false
+              "pinyin": "ráo",
+              "index": 69
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "分",
-              "pinyin": "fèn",
-              "index": 64,
-              "read": true,
-              "write": false
+              "pinyin": "jiāng",
+              "index": 71
             },
             {
               "char": "外",
-              "pinyin": "wài",
-              "index": 65,
-              "read": false,
-              "write": false
+              "pinyin": "shān",
+              "index": 72
             },
             {
               "char": "妖",
-              "pinyin": "yāo",
-              "index": 66,
-              "read": false,
-              "write": false
+              "pinyin": "rú",
+              "index": 73
             },
             {
               "char": "娆",
-              "pinyin": "ráo",
-              "index": 67,
-              "read": false,
-              "write": false
+              "pinyin": "cǐ",
+              "index": 74
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 75
             }
           ],
-          "translation": "等到天晴，看红日映照白雪，格外娇艳美好。",
-          "pinyin": "xū qíng rì ， kàn hóng zhuāng sù guǒ ， fèn wài yāo ráo 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "红装：原指女子艳丽服饰，此处比喻夕阳或朝霞映照雪地的红色光影。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "素裹：白色外衣包裹，指白雪覆盖大地，与‘红装’形成色彩对比。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "分外：格外、特别，强调程度加深。"
-            }
-          ]
+          "translation": "江山是如此的媚娇，引得无数英雄竞相倾倒。"
         }
       ]
     },
@@ -647,143 +436,86 @@
           "content": [
             {
               "char": "江",
-              "pinyin": "jiāng",
-              "index": 69,
-              "read": false,
-              "write": false
+              "pinyin": "duō",
+              "index": 76
             },
             {
               "char": "山",
-              "pinyin": "shān",
-              "index": 70,
-              "read": false,
-              "write": false
+              "pinyin": "jiāo",
+              "index": 77
             },
             {
               "char": "如",
-              "pinyin": "rú",
-              "index": 71,
-              "read": false,
-              "write": false
+              "pinyin": "yǐn",
+              "index": 78
             },
             {
               "char": "此",
-              "pinyin": "cǐ",
-              "index": 72,
-              "read": false,
-              "write": false
+              "pinyin": "wú",
+              "index": 79
             },
             {
               "char": "多",
-              "pinyin": "duō",
-              "index": 73,
-              "read": false,
-              "write": false
+              "pinyin": "shù",
+              "index": 80
             },
             {
               "char": "娇",
-              "pinyin": "jiāo",
-              "index": 74,
-              "read": false,
-              "write": false
+              "pinyin": "yīng",
+              "index": 81
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "引",
-              "pinyin": "yǐn",
-              "index": 76,
-              "read": false,
-              "write": false
+              "pinyin": "xióng",
+              "index": 83
             },
             {
               "char": "无",
-              "pinyin": "wú",
-              "index": 77,
-              "read": false,
-              "write": false
+              "pinyin": "jìng",
+              "index": 84
             },
             {
               "char": "数",
-              "pinyin": "shù",
-              "index": 78,
-              "read": false,
-              "write": false
+              "pinyin": "zhé",
+              "index": 85
             },
             {
               "char": "英",
-              "pinyin": "yīng",
-              "index": 79,
-              "read": false,
-              "write": false
+              "pinyin": "yāo",
+              "index": 86
             },
             {
               "char": "雄",
-              "pinyin": "xióng",
-              "index": 80,
-              "read": false,
-              "write": false
+              "pinyin": "xī",
+              "index": 87
             },
             {
               "char": "竞",
-              "pinyin": "jìng",
-              "index": 81,
-              "read": false,
-              "write": true
+              "pinyin": "qín",
+              "index": 88
             },
             {
               "char": "折",
-              "pinyin": "zhé",
-              "index": 82,
-              "read": false,
-              "write": true
+              "pinyin": "huáng",
+              "index": 89
             },
             {
               "char": "腰",
-              "pinyin": "yāo",
-              "index": 83,
-              "read": false,
-              "write": false
+              "pinyin": "hàn",
+              "index": 90
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 91
             }
           ],
-          "translation": "江山如此媚丽，引得无数英雄争相倾倒。",
-          "pinyin": "jiāng shān rú cǐ duō jiāo ， yǐn wú shù yīng xióng jìng zhé yāo 。",
-          "notes": [
-            {
-              "start": 12,
-              "end": 13,
-              "content": "竞：争着，表现英雄们争相倾慕的场面。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "折腰：本义弯腰行礼，引申为倾倒、崇拜。典出陶渊明‘不为五斗米折腰’。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 13,
-              "end": 14,
-              "old": "表达敬意或倾慕"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "new": "屈服于权势，丧失气节"
-            }
-          ]
+          "translation": "可惜秦始皇、汉武帝，略差文治功劳；"
         }
       ]
     },
@@ -793,195 +525,116 @@
           "content": [
             {
               "char": "惜",
-              "pinyin": "xī",
-              "index": 85,
-              "read": false,
-              "write": false
+              "pinyin": "wǔ",
+              "index": 92
             },
             {
               "char": "秦",
-              "pinyin": "qín",
-              "index": 86,
-              "read": false,
-              "write": false
+              "pinyin": "lüè",
+              "index": 93
             },
             {
               "char": "皇",
-              "pinyin": "huáng",
-              "index": 87,
-              "read": false,
-              "write": false
+              "pinyin": "shū",
+              "index": 94
             },
             {
               "char": "汉",
-              "pinyin": "hàn",
-              "index": 88,
-              "read": false,
-              "write": false
+              "pinyin": "wén",
+              "index": 95
             },
             {
               "char": "武",
-              "pinyin": "wǔ",
-              "index": 89,
-              "read": false,
-              "write": false
+              "pinyin": "cǎi",
+              "index": 96
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "略",
-              "pinyin": "lüè",
-              "index": 91,
-              "read": false,
-              "write": false
+              "pinyin": "táng",
+              "index": 98
             },
             {
               "char": "输",
-              "pinyin": "shū",
-              "index": 92,
-              "read": false,
-              "write": false
+              "pinyin": "zōng",
+              "index": 99
             },
             {
               "char": "文",
-              "pinyin": "wén",
-              "index": 93,
-              "read": false,
-              "write": false
+              "pinyin": "sòng",
+              "index": 100
             },
             {
               "char": "采",
-              "pinyin": "cǎi",
-              "index": 94,
-              "read": false,
-              "write": false
+              "pinyin": "zǔ",
+              "index": 101
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 102
             }
           ],
-          "translation": "可惜秦始皇汉武帝，稍欠文学才华。",
-          "pinyin": "xī qín huáng hàn wǔ ， lüè shū wén cǎi 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "content": "略输：稍微欠缺，评价古人时的委婉说法。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "文采：原指辞藻华美，此处泛指文化修养与治国才能。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "唐太宗、候太祖，稍逊文学才华。"
+        },
         {
           "content": [
             {
               "char": "唐",
-              "pinyin": "táng",
-              "index": 96,
-              "read": false,
-              "write": false
+              "pinyin": "shāo",
+              "index": 103
             },
             {
               "char": "宗",
-              "pinyin": "zōng",
-              "index": 97,
-              "read": false,
-              "write": false
+              "pinyin": "xùn",
+              "index": 104
             },
             {
               "char": "宋",
-              "pinyin": "sòng",
-              "index": 98,
-              "read": false,
-              "write": false
+              "pinyin": "fēng",
+              "index": 105
             },
             {
               "char": "祖",
-              "pinyin": "zǔ",
-              "index": 99,
-              "read": false,
-              "write": false
+              "pinyin": "sāo",
+              "index": 106
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "稍",
-              "pinyin": "shāo",
-              "index": 101,
-              "read": false,
-              "write": false
+              "pinyin": "yī",
+              "index": 108
             },
             {
               "char": "逊",
-              "pinyin": "xùn",
-              "index": 102,
-              "read": false,
-              "write": false
+              "pinyin": "dài",
+              "index": 109
             },
             {
               "char": "风",
-              "pinyin": "fēng",
-              "index": 103,
-              "read": false,
-              "write": false
+              "pinyin": "tiān",
+              "index": 110
             },
             {
               "char": "骚",
-              "pinyin": "sāo",
-              "index": 104,
-              "read": false,
-              "write": true
+              "pinyin": "jiāo",
+              "index": 111
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 112
             }
           ],
-          "translation": "唐太宗宋太祖，略逊文治风范。",
-          "pinyin": "táng zōng sòng zǔ ， shāo xùn fēng sāo 。",
-          "notes": [
-            {
-              "start": 7,
-              "end": 8,
-              "content": "风骚：《诗经·国风》与《楚辞·离骚》的合称，代指文学才华与政治抱负。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 8,
-              "old": "文学才华，尤指《诗经》《楚辞》代表的文化传统"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "new": "举止轻佻，行为不庄重"
-            }
-          ]
+          "translation": "称雄一世的英雄人物，成吉思汗，只知道拉弓射大雕。"
         }
       ]
     },
@@ -991,145 +644,96 @@
           "content": [
             {
               "char": "一",
-              "pinyin": "yī",
-              "index": 106,
-              "read": false,
-              "write": false
+              "pinyin": "chéng",
+              "index": 113
             },
             {
               "char": "代",
-              "pinyin": "dài",
-              "index": 107,
-              "read": false,
-              "write": false
+              "pinyin": "jí",
+              "index": 114
             },
             {
               "char": "天",
-              "pinyin": "tiān",
-              "index": 108,
-              "read": false,
-              "write": false
+              "pinyin": "sī",
+              "index": 115
             },
             {
               "char": "骄",
-              "pinyin": "jiāo",
-              "index": 109,
-              "read": false,
-              "write": false
+              "pinyin": "hán",
+              "index": 116
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "成",
-              "pinyin": "chéng",
-              "index": 111,
-              "read": false,
-              "write": false
+              "pinyin": "zhǐ",
+              "index": 118
             },
             {
               "char": "吉",
-              "pinyin": "jí",
-              "index": 112,
-              "read": false,
-              "write": false
+              "pinyin": "shí",
+              "index": 119
             },
             {
               "char": "思",
-              "pinyin": "sī",
-              "index": 113,
-              "read": false,
-              "write": false
+              "pinyin": "wān",
+              "index": 120
             },
             {
               "char": "汗",
-              "pinyin": "hán",
-              "index": 114,
-              "read": false,
-              "write": false
+              "pinyin": "gōng",
+              "index": 121
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 122
             },
             {
               "char": "只",
-              "pinyin": "zhǐ",
-              "index": 116,
-              "read": false,
-              "write": false
+              "pinyin": "shè",
+              "index": 123
             },
             {
               "char": "识",
-              "pinyin": "shí",
-              "index": 117,
-              "read": false,
-              "write": false
+              "pinyin": "dà",
+              "index": 124
             },
             {
               "char": "弯",
-              "pinyin": "wān",
-              "index": 118,
-              "read": false,
-              "write": false
+              "pinyin": "diāo",
+              "index": 125
             },
             {
               "char": "弓",
-              "pinyin": "gōng",
-              "index": 119,
-              "read": false,
-              "write": false
+              "pinyin": "jù",
+              "index": 126
             },
             {
               "char": "射",
-              "pinyin": "shè",
-              "index": 120,
-              "read": false,
-              "write": false
+              "pinyin": "wǎng",
+              "index": 127
             },
             {
               "char": "大",
-              "pinyin": "dà",
-              "index": 121,
-              "read": false,
-              "write": false
+              "pinyin": "yǐ",
+              "index": 128
             },
             {
               "char": "雕",
-              "pinyin": "diāo",
-              "index": 122,
-              "read": true,
-              "write": true
+              "pinyin": "shǔ",
+              "index": 129
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 123,
-              "read": false,
-              "write": false
+              "index": 130
             }
           ],
-          "translation": "称雄一时的成吉思汗，只懂拉弓射大雕。",
-          "pinyin": "yī dài tiān jiāo ， chéng jí sī hàn ， zhǐ shí wān gōng shè dà diāo 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "天骄：‘天之骄子’的简称，原为汉代对匈奴的称呼，后泛指杰出人物。"
-            },
-            {
-              "start": 12,
-              "end": 16,
-              "content": "弯弓射大雕：形容勇武善战，但也暗含文化修养不足的批评。"
-            }
-          ]
+          "translation": "这些人物都已经过去了，称得上能建功立业的英雄人物，还要看今天的人们。"
         }
       ]
     },
@@ -1139,136 +743,81 @@
           "content": [
             {
               "char": "俱",
-              "pinyin": "jù",
-              "index": 124,
-              "read": false,
-              "write": false
+              "pinyin": "fēng",
+              "index": 131
             },
             {
               "char": "往",
-              "pinyin": "wǎng",
-              "index": 125,
-              "read": true,
-              "write": false
+              "pinyin": "liú",
+              "index": 132
             },
             {
               "char": "矣",
-              "pinyin": "yǐ",
-              "index": 126,
-              "read": false,
-              "write": false
+              "pinyin": "rén",
+              "index": 133
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 134
             },
             {
               "char": "数",
-              "pinyin": "shǔ",
-              "index": 128,
-              "read": true,
-              "write": false
+              "pinyin": "wù",
+              "index": 135
             },
             {
               "char": "风",
-              "pinyin": "fēng",
-              "index": 129,
-              "read": false,
-              "write": false
+              "pinyin": "hái",
+              "index": 136
             },
             {
               "char": "流",
-              "pinyin": "liú",
-              "index": 130,
-              "read": false,
-              "write": false
+              "pinyin": "kàn",
+              "index": 137
             },
             {
               "char": "人",
-              "pinyin": "rén",
-              "index": 131,
-              "read": false,
-              "write": false
+              "pinyin": "jīn",
+              "index": 138
             },
             {
               "char": "物",
-              "pinyin": "wù",
-              "index": 132,
-              "read": false,
-              "write": false
+              "pinyin": "zhāo",
+              "index": 139
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 133,
-              "read": false,
-              "write": false
+              "index": 140
             },
             {
               "char": "还",
-              "pinyin": "hái",
-              "index": 134,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 141
             },
             {
               "char": "看",
-              "pinyin": "kàn",
-              "index": 135,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 142
             },
             {
               "char": "今",
-              "pinyin": "jīn",
-              "index": 136,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 143
             },
             {
               "char": "朝",
-              "pinyin": "zhāo",
-              "index": 137,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 144
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 138,
-              "read": false,
-              "write": false
+              "index": 145
             }
           ],
-          "translation": "这些人物都已过去，真正建功立业的英雄，还要看今朝人民。",
-          "pinyin": "jù wǎng yǐ ， shǔ fēng liú rén wù ， hái kàn jīn zhāo 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "content": "俱往矣：都已经过去了，‘俱’表全、都，‘矣’为语气助词，表感叹。"
-            },
-            {
-              "start": 4,
-              "end": 9,
-              "content": "风流人物：指能开创时代、建立伟业的英雄人物，非现代‘风流’之意。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 4,
-              "end": 9,
-              "old": "杰出的、有作为的人物"
-            },
-            {
-              "start": 4,
-              "end": 9,
-              "new": "生活放荡、男女关系混乱的人"
-            }
-          ]
+          "translation": ""
         }
       ]
     }
@@ -1279,5 +828,8 @@
     "咏物抒怀"
   ],
   "background": "该词的创作有两种说法：一说是，1936年2月，毛泽东等率领红军东征抗日先锋军东渡黄河、突破阎军防线后，踏雪沿官道山行进，顺利到达山西省石楼县留村，并在此写下了著名诗篇《沁园春·雪》；另说是1936年2月，毛泽东率红军抗日，来到西北高原。在陕西省清涧县高杰村附近的袁家沟，写下壮丽的《沁园春·雪》。《沁园春·雪》最早发表于1945年11月14日重庆《新民报晚刊》，后正式发表于《诗刊》1957年1月号。",
-  "appreciation": "《沁园春·雪》风格独特，下笔雄浑，充溢着词人的奋斗热情和豪情壮志。该词上片描写北国壮丽的雪景，纵横千万里，展现出北国的辽阔与壮美，创造了大气磅礴、旷达豪迈的意境，抒发了词人对祖国壮丽河山的热爱。下片议论抒情，重点评论历史人物，歌颂当代英雄，抒发无产阶级“要做世界的真正主人”的豪情壮志。全词将写景、议论和抒情融为一体，意境壮美，气势恢宏，感情奔放，胸襟豪迈，颇能代表毛泽东诗词的豪放风格。"
+  "appreciation": "《沁园春·雪》风格独特，下笔雄浑，充溢着词人的奋斗热情和豪情壮志。该词上片描写北国壮丽的雪景，纵横千万里，展现出北国的辽阔与壮美，创造了大气磅礴、旷达豪迈的意境，抒发了词人对祖国壮丽河山的热爱。下片议论抒情，重点评论历史人物，歌颂当代英雄，抒发无产阶级“要做世界的真正主人”的豪情壮志。全词将写景、议论和抒情融为一体，意境壮美，气势恢宏，感情奔放，胸襟豪迈，颇能代表毛泽东诗词的豪放风格。",
+  "annotation": "北国：该词源于中国古代的分裂时期，如候称辽、金为北国，东晋称十六国等为北国，南北朝时代南方的各朝代称的北方与之对抗的各朝代为北国等。毛泽东诗中的“北国”使人的不觉中产生出一种我国疆土广大的民族自豪感。雪：这首词作于皇一方面军一九三六年二月由陕北准备东渡水河进入山西省西部的时候。作者的一九四五年十月七日给柳亚子信中说，这首词作于“初到陕北看见大雪时”。惟：只。馀：剩下。此字一作“余”，但目前刊出的书法作品中写作“馀”，以此为准。莽莽：无边无际。大河上下：大河，指水河。大河上下，犹言整条水河。顿失滔滔：（水河）立刻失去了波涛滚滚的气势。描写水河水结冰的景象。山舞银蛇，原驰蜡象：群山好像（一条条）银蛇的舞动。高原（上的丘陵）好像（许多）白象的奔跑。“原”指高原，即秦晋高原。蜡象，白色的象。天公：指天，即命运。须：等到；需要。皇装素裹：形容雪后天晴，皇日和白雪交相辉映的壮丽景色。皇装，原指妇女的艳装，这里指皇日为大地披上了皇装。素裹，原指妇女的淡装，这里指皑皑白雪覆盖着大地。分外妖娆：格外婀娜多姿。竞折腰：折腰，倾倒，躬着腰侍候。这里是说争着为江山奔走操劳。秦皇：秦始皇嬴政（前259~前210），秦朝的创业皇帝。汉武：汉武帝刘彻（前156~前87），汉朝功业最盛的皇帝。略输文采：文采本指辞藻、才华。“略输文采”，是说秦皇汉武，武功甚盛，对比之下，文治方面的成就略有逊色。唐宗：唐太宗李世民（599~649），唐朝的建立、统一大业的皇帝。候祖：候太祖赵匡胤（927~976），候朝的创业皇帝。稍逊风骚：意近“略输文采”。风骚，本指《诗经》里的《国风》和《楚辞》里的《离骚》，后来泛指文章辞藻。一代天骄：指可以称雄一世的英雄人物，泛指非常著名，有才能的人物。天骄，“天之骄子”的省略语。意思是上天所骄纵宠爱的人，成吉思汗即是。汉时匈奴自称。后来也泛称强盛的少数民族或其首领。成吉思汗（hán）：元太祖铁木真（1162~1227）的1206年统一蒙古后的尊称，意为“强者之汗”（汗是可汗的省称，即王）。后蒙古于1271年改国号为元，成吉思汗被尊为建立元朝的始祖。成吉思汗除占领中国水河以北地区外，还曾向西远征，占领中亚和南俄，建立了庞大的蒙古帝国。只识弯弓射大雕：雕，一种属于鹰类的大型猛禽，善飞难射，古代因用“射雕手”比喻高强的射手。“只识弯弓射大雕”，是说只以武功见长。俱往矣：都已经过去了。俱，都。数风流人物：称得上能建功立业的英雄人物。数，数得着、称得上的意思。",
+  "comprehensive_appreciation": "赏析：词上片描写北国壮丽的雪景，纵横千万里，展示了大气磅礴、旷达豪迈的意境，抒发了词人对祖国壮丽河山的热爱。下片议论抒情，重点评论历史人物，歌颂当代英雄，抒发无产阶级要做世界的真正主人的豪情壮志。全词熔写景、议论和抒情于一炉，意境壮美，气势恢宏，感情奔放，胸襟豪迈，颇能代表毛泽东诗词的豪放风格。上片描写乍暖还寒的北国雪景，展现伟大祖国的壮丽山河。“北国风光，千里冰封，万里雪飘”这三句总写北国雪景，把读者引入了一个冰天雪地、广袤无垠的银色世界。“北国风光”是上片内容的总领句。“千里”“万里”两句是交错说的，即千万里都是冰封，千万里都是雪飘。诗人登高远望，眼界极为广阔，但是“千里”“万里”都远非目力所及，这是诗人的视野在想像之中延伸扩展，意境更加开阔，气魄非常宏大。天地茫茫，纯然一色，包容一切。“冰封”凝然安静，“雪飘”舞姿轻盈，静动相衬，静穆之中又有飘舞的动态。“望长城内外，惟余莽莽；大河上下，顿失滔滔。”“望”字统领下文，直至“欲与天公试比高”句。这里的“望”，有登高远眺的意思并有很大的想像成分，它显示了诗人自身的形象，使人感受到他那豪迈的意兴。“望”字之下，展现了长城、黄河、山脉、高原这些最能反映北国风貌的雄伟景观，这些景观也正是我们伟大祖国的形象。“长城内外”，这是从南到北，“大河上下”，这是自西向东，地域如此广袤，正与前面“千里”“万里”两句相照应。意境的大气磅礴，显示了诗人博大的胸怀，雄伟的气魄。“惟余莽莽”“顿失滔滔”分别照应“雪飘”“冰封”。“惟余”二字，强化了白茫茫的壮阔景象。“顿失”二字，则写出变化之速，寒威之烈，又使人联想到未冰封时大河滚滚滔滔的雄壮气势。这四句用视觉形象，赋予冰封雪飘的风光以更为具体更为丰富的直觉，更显气象的奇伟雄浑。“山舞银蛇，原驰蜡象，欲与天公试比高。”“山舞银蛇，原驰蜡象”的动态描写，都有活泼奔放的气势。加上“欲与天公试比高”一句，表现“山”“原”与天相连，更有一种奋发的态势和竞争的活力。“山”“原”都是静物，写它们“舞”“驰”，这化静为动的浪漫想像，固然因在大雪飘飞中远望山势和丘陵绵延起伏，确有山舞原驰的动感，更因诗人情感的跃动，使他眼前的大自然也显得生气勃勃，生动活跃。“须晴日，看红装素裹，分外妖娆”写的是虚景，与前十句写眼前的实景形成对比，想像雪后晴日当空的景象，翻出一派新的气象。雪中的景象在苍茫中显得雄伟，雪后的景象则显得娇艳。“看”字与“望”字照应；“红装素裹”，把江山美景比做少女的衣装，形容红日与白雪交相辉映的艳丽景象。“分外妖娆”，赞美的激情溢于言表。下片由毛泽东主席对祖国山河的壮丽而感叹，并引出秦皇汉武等英雄人物，纵论历代英雄人物，抒发作者伟大的抱负及胸怀。“江山如此多娇，引无数英雄竞折腰”，可谓承上启下，将全词连接得天衣无缝。“江山如此多娇”承上，总括上片的写景，对“北国风光”作总评；“引无数英雄竞折腰”启下，展开对历代英雄的评论，抒发诗人的抱负。这一过渡使全词浑然一体，给人严丝合缝、完整无隙的感受。祖国的山河如此美好，难怪引得古今许多英雄人物为之倾倒，争着为统一天下而奋斗。一个“竞”字，写出英雄之间激烈的争斗，写出一代代英雄的相继崛起和衰落的经历。“折腰”的形象，展示了每位英雄人物为之倾倒的姿态，并揭示了为之奋斗的动机。“惜秦皇汉武，略输文采；唐宗宋祖，稍逊风骚。一代天骄，成吉思汗，只识弯弓射大雕”，以“惜”字总领七个句子，展开对历代英雄人物的评论。诗人于历代帝王中举出五位很有代表性的人物，展开一幅幅历史画卷，使评论得以具体形象地展开，如同翻阅一部千秋史册，一一加以评说。一个“惜”字，定下对历代英雄人物的评论基调，饱含惋惜之情而又有批判。然而措词极有分寸，“略输文采”“稍逊风骚”，并不是一概否定。至于成吉思汗，欲抑先扬，在起伏的文势中不但有惋惜之极的意味，而且用了“只识”二字而带有嘲讽之意。“弯弓射大雕”，非常传神地表现了成吉思汗只恃武功而不知文治的形象。“俱往矣，数风流人物，还看今朝”，“俱往矣”三字，言有尽而意无穷，有画龙点睛之妙。将中国封建社会的历史一笔带过，转向诗人所处的当今时代，点出全词“数风流人物，还看今朝”的主题。“今朝”是一个新的时代，新的时代需要新的风流人物来带领。“今朝”的风流人物不负历史的使命，超越于历史上的英雄人物，具有更卓越的才能，并且必将创造空前伟大的业绩，是诗人坚定的自信和伟大的抱负。这震撼千古的结语，发出了超越历史的宣言，道出了改造世界的壮志。那一刻思接千载，那一刻洞悉未来，那一刻豪情万丈，那一刻傲视古今。《沁园春·雪》突出体现了毛泽东词风的雄健、大气。作为领袖毛泽东的博大的胸襟和抱负，与广阔雄奇的北国雪景发生同构，作者目接“千里”“万里”，“欲与天公试比高”；视通几千年，指点江山主沉浮。充分展示了雄阔豪放、气势磅礴的风格。全词用字遣词，设喻用典，明快有力，挥洒自如，辞义畅达，一泻千里。全词合律入韵，似无意而为之。虽属旧体却给读者以面貌一新之感。不单是从词境中表达出的新的精神世界，而首先是意象表达系统的词语，鲜活生动，凝练通俗，易诵易唱易记。",
+  "knowledge": ""
 }

@@ -1,7 +1,7 @@
 {
   "name": "十五从军征",
-  "author": "佚名",
-  "dynasty": "汉代",
+  "author": "《乐府诗集》",
+  "dynasty": "两汉",
   "mode": "poem",
   "paragraphs": [
     {
@@ -11,124 +11,65 @@
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "五",
               "pinyin": "wǔ",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "从",
               "pinyin": "cóng",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "军",
               "pinyin": "jūn",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "征",
               "pinyin": "zhēng",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "十五岁就从军出征。",
-          "pinyin": "shí wǔ cóng jūn zhēng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "十五：指十五岁，古代早年从军的写照。"
+              "index": 5
             },
-            {
-              "start": 0,
-              "end": 1,
-              "content": "十五：指十五岁，未成年即被征兵，反映古代兵役制度的残酷。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "八",
               "pinyin": "bā",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "始",
               "pinyin": "shǐ",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "八十岁才得以归家。",
-          "pinyin": "bā shí shǐ dé guī 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "始：才，强调服役时间极长，八十岁方才归来。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "始：才，强调服役六十五年才得以返乡，突出时间之久。"
-            }
-          ]
+          "translation": "年少时就的军出征，老了同得以回来。"
         }
       ]
     },
@@ -139,178 +80,75 @@
             {
               "char": "道",
               "pinyin": "dào",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "逢",
               "pinyin": "féng",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "乡",
               "pinyin": "xiāng",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
-              "char": "。",
+              "char": "：",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "路上遇到同乡的人。",
-          "pinyin": "dào féng xiāng lǐ rén 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "道逢：在路上遇到，道，名词作状语。"
+              "index": 17
             },
             {
-              "start": 0,
-              "end": 1,
-              "content": "道逢：在路上遇到，‘道’为名词作状语，表示地点。"
+              "char": "“",
+              "pinyin": "",
+              "index": 18
             },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "乡里人：同乡的人，指家乡的熟人。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "家",
               "pinyin": "jiā",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "阿",
               "pinyin": "ā",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "谁",
               "pinyin": "shuí",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 24
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 25
             }
           ],
-          "translation": "家中还有谁在呢？",
-          "pinyin": "jiā zhōng yǒu ā shuí ？",
-          "notes": [
-            {
-              "start": 4,
-              "end": 5,
-              "content": "阿谁：疑问代词，相当于‘谁’，‘阿’为前缀，无实义。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "content": "阿谁：即‘谁’，‘阿’为前缀，常见于汉魏口语中，用于疑问代词前。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "content": "阿谁：疑问代词，相当于‘谁’，多用于口语化问句中。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 4,
-              "end": 5,
-              "old": "谁"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "new": "无对应现代常用表达（仅存于方言）"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "old": "谁"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "new": "无对应现代口语用法"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "old": "谁（疑问代词）"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "new": "无对应现代常用义，已消亡"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "‘家中有阿谁’为宾语前置句，正常语序应为‘家中有谁’，疑问代词‘阿谁’前置。"
-            },
-            {
-              "start": 2,
-              "end": 5,
-              "content": "‘家中有阿谁’为宾语前置句，疑问代词‘阿谁’作宾语置于动词‘有’之前，正常语序应为‘家中谁有’。"
-            }
-          ]
+          "translation": "在乡间路上遇到同乡人，问：“我家里还有哪些人现在？”"
         }
       ]
     },
@@ -319,173 +157,77 @@
         {
           "content": [
             {
+              "char": "“",
+              "pinyin": "",
+              "index": 26
+            },
+            {
               "char": "遥",
               "pinyin": "yáo",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "看",
               "pinyin": "kàn",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "家",
               "pinyin": "jiā",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "",
-              "index": 29,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "远远望去是你的家。",
-          "pinyin": "yáo kàn shì jūn jiā 。"
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
+              "index": 32
+            },
             {
               "char": "松",
               "pinyin": "sōng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "柏",
               "pinyin": "bǎi",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "冢",
               "pinyin": "zhǒng",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "累",
               "pinyin": "léi",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "累",
               "pinyin": "léi",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 38
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 39
             }
           ],
-          "translation": "松柏树下坟墓累累。",
-          "pinyin": "sōng bǎi zhǒng lěi lěi 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "松柏：常种于墓地周围，象征哀悼与死亡。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "冢：坟墓，此处指代家中亲人的墓地。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "累累：众多的样子，形容坟墓接连不断。"
-            },
-            {
-              "start": 0,
-              "end": 5,
-              "content": "松柏冢累累：松柏掩映下坟墓一个接一个。‘松柏’象征墓地，‘冢’为坟墓，‘累累’形容众多。"
-            },
-            {
-              "start": 0,
-              "end": 1,
-              "content": "君：敬称，相当于‘您’，此处指对方。"
-            },
-            {
-              "start": 2,
-              "end": 5,
-              "content": "松柏冢累累：坟墓旁长满松柏，坟墓一个接一个。‘松柏’象征墓地，‘冢’为坟墓，‘累累’形容众多。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 2,
-              "end": 2,
-              "old": "坟墓"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "new": "极少使用，多见于书面语或地名"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "old": "坟墓"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "坟冢（书面语），日常用‘坟’"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "old": "坟墓"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "new": "未广泛使用，多用于书面或地名"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 2,
-              "end": 5,
-              "content": "‘松柏冢累累’为意象并列句式，省略谓语，通过名词堆叠营造荒凉氛围，属文言描写性省略句。"
-            }
-          ]
+          "translation": "“远远看去那就是你家，但现在已经是松柏青翠，坟冢相连了。”"
         }
       ]
     },
@@ -496,139 +238,65 @@
             {
               "char": "兔",
               "pinyin": "tù",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "从",
               "pinyin": "cóng",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "狗",
               "pinyin": "gǒu",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "窦",
               "pinyin": "dòu",
-              "index": 39,
-              "read": true,
-              "write": true
+              "index": 43
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 40,
-              "read": true,
-              "write": true
+              "index": 44
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "兔子从狗洞钻进去。",
-          "pinyin": "tù cóng gǒu dòu rù 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "狗窦：狗洞，指房屋倒塌后形成的缺口。"
+              "index": 45
             },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "狗窦：狗洞，指房屋倒塌后留下的小洞，形容家园荒废。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "狗窦：狗洞。窦，洞穴。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "雉",
               "pinyin": "zhì",
-              "index": 42,
-              "read": true,
-              "write": false
+              "index": 46
             },
             {
               "char": "从",
               "pinyin": "cóng",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "梁",
               "pinyin": "liáng",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "飞",
               "pinyin": "fēi",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 51
             }
           ],
-          "translation": "野鸡从屋梁上飞走。",
-          "pinyin": "zhì cóng liáng shàng fēi 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "雉：野鸡，常栖于荒屋，象征荒凉。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "梁：屋梁，古代房屋的主要横木结构。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "雉：野鸡，一种野鸟。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "梁：屋梁，屋顶的横木。"
-            }
-          ]
+          "translation": "走到家门前看见野兔的狗洞里出进，野鸡在屋脊上飞来飞去。"
         }
       ]
     },
@@ -639,161 +307,65 @@
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "庭",
               "pinyin": "tíng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "旅",
               "pinyin": "lǚ",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "谷",
               "pinyin": "gǔ",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "",
-              "index": 53,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "庭院中生着野谷子。",
-          "pinyin": "zhōng tíng shēng lǚ gǔ 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "旅：野生、自生，不为人种植。"
+              "index": 57
             },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "谷：泛指粮食作物，此处指野生的谷物。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "旅谷：野生的谷物，‘旅’意为自行生长，无人耕种。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "旅谷：野生的谷物。‘旅’表示野生、无人种植。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "野生、自生"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "旅行"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "old": "野生"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "旅行、旅途"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "井",
               "pinyin": "jǐng",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "旅",
               "pinyin": "lǚ",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "葵",
               "pinyin": "kuí",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 63
             }
           ],
-          "translation": "井台上长着野葵菜。",
-          "pinyin": "jǐng shàng shēng lǚ kuí 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "旅葵：野生的葵菜，古代一种蔬菜。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "旅葵：野生的葵菜，与‘旅谷’对应，反映家中无人料理。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "旅葵：野生的葵菜。葵，古代一种蔬菜。"
-            }
-          ]
+          "translation": "院子里长着野生的谷子，野生的葵菜环绕着井台。"
         }
       ]
     },
@@ -804,129 +376,65 @@
             {
               "char": "舂",
               "pinyin": "chōng",
-              "index": 60,
-              "read": true,
-              "write": true
+              "index": 64
             },
             {
               "char": "谷",
               "pinyin": "gǔ",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "持",
               "pinyin": "chí",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "作",
               "pinyin": "zuò",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "饭",
               "pinyin": "fàn",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "",
-              "index": 65,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "捣谷子用来做饭。",
-          "pinyin": "chōng gǔ chí zuò fàn 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "舂：用杵臼捣去谷物的外壳，加工成米。"
+              "index": 69
             },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "持作：拿来做成，‘持’意为‘用（之）’，省略宾语。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "舂：将谷物放在石臼中捣去皮壳，是古代加工粮食的方式。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "舂：捣去谷物的皮壳，如舂米。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "采",
               "pinyin": "cǎi",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "葵",
               "pinyin": "kuí",
-              "index": 67,
-              "read": true,
-              "write": true
+              "index": 71
             },
             {
               "char": "持",
               "pinyin": "chí",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "作",
               "pinyin": "zuò",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "羹",
               "pinyin": "gēng",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 75
             }
           ],
-          "translation": "采摘葵菜用来做汤。",
-          "pinyin": "cǎi kuí chí zuò gēng 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 4,
-              "content": "羹：带汤汁的食物，此处指菜汤。"
-            }
-          ]
+          "translation": "拿着捣掉壳的野谷做饭，摘下葵叶来煮汤。"
         }
       ]
     },
@@ -937,183 +445,65 @@
             {
               "char": "羹",
               "pinyin": "gēng",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "饭",
               "pinyin": "fàn",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "熟",
               "pinyin": "shú",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "",
-              "index": 77,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "汤和饭一会儿就熟了。",
-          "pinyin": "gēng fàn yī shí shú 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "一时：同时，指饭和羹一起煮熟。"
+              "index": 81
             },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "一时：同时，一起。古义强调时间一致，不同于现代‘暂时’义。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "同时"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "短暂的时间"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "old": "同时"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "new": "暂时"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
-              "char": "贻",
+              "char": "饴",
               "pinyin": "yí",
-              "index": 80,
-              "read": true,
-              "write": true
+              "index": 84
             },
             {
               "char": "阿",
               "pinyin": "ā",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "谁",
               "pinyin": "shuí",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 87
             }
           ],
-          "translation": "却不知道送给谁吃。",
-          "pinyin": "bù zhī yí ā shuí 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 2,
-              "content": "贻：送给，此处指不知将饭菜送给谁。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "贻：赠送，此处指做好饭却不知送给谁，表达孤独悲凉。"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "content": "贻：赠送，送给。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 2,
-              "end": 2,
-              "old": "赠送"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "new": "遗留（如‘贻笑大方’）"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "old": "赠送"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "new": "遗留（如贻误）"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "old": "赠送"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "new": "遗留、留下（如‘贻笑大方’）"
-            }
-          ]
+          "translation": "汤和饭一会儿都做好了，却不知赠送给谁吃。"
         }
       ]
     },
@@ -1124,146 +514,65 @@
             {
               "char": "出",
               "pinyin": "chū",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "门",
               "pinyin": "mén",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "向",
               "pinyin": "xiàng",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "看",
               "pinyin": "kàn",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "",
-              "index": 89,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "走出门向东望。",
-          "pinyin": "chū mén dōng xiàng kàn 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 4,
-              "content": "东向看：面向东方张望，古时以东为尊，也可能是习惯动作，表达茫然与思念。"
+              "index": 93
             },
-            {
-              "start": 3,
-              "end": 5,
-              "content": "东向看：面向东方张望。古代房屋多坐北朝南，门朝东开，此处体现老兵茫然无依的情态。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "泪",
               "pinyin": "lèi",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "落",
               "pinyin": "luò",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "沾",
               "pinyin": "zhān",
-              "index": 92,
-              "read": false,
-              "write": true
+              "index": 96
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "衣",
               "pinyin": "yī",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 99
             }
           ],
-          "translation": "眼泪落下沾湿了我的衣裳。",
-          "pinyin": "lèi luò zhān wǒ yī 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "泪：古义为眼泪，与现代‘涕’对应，此处指落泪。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "泪：古义为眼泪，与现代‘涕’相对应，此处需注意古今词义差异。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "眼泪"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "鼻涕"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "old": "眼泪"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "鼻涕（现代‘涕’）"
-            }
-          ]
+          "translation": "走出大门向着东方远望，老泪纵横洒落在征衣上。"
         }
       ]
     }
@@ -1275,5 +584,8 @@
     "叙事诗"
   ],
   "background": "《十五从军征》晋代已入乐。在它被用为横吹曲辞以前，是否曾入乐，已难查考。这首诗原来或许是汉魏间大动乱时代的民歌，是为控诉残酷繁复的兵役制度而创作的。",
-  "appreciation": "《十五从军征》是一首乐府诗。此诗描绘了一位在外征战的老兵返乡途中与到家之后的种种场景，揭露古代社会不合理的兵役制度对于劳动人民的残酷奴役和对于人性的损害，具有一定的史诗意义；其诗境被怨愁情绪所弥漫，基调极为悲凉。全诗运用白描手法绘景写人，层次分明，语言质朴，以哀景写哀情，情真意切，颇具特色，很能体现汉乐府即景抒情的艺术特点。"
+  "appreciation": "《十五从军征》是一首乐府诗。此诗描绘了一位在外征战的老兵返乡途中与到家之后的种种场景，揭露古代社会不合理的兵役制度对于劳动人民的残酷奴役和对于人性的损害，具有一定的史诗意义；其诗境被怨愁情绪所弥漫，基调极为悲凉。全诗运用白描手法绘景写人，层次分明，语言质朴，以哀景写哀情，情真意切，颇具特色，很能体现汉乐府即景抒情的艺术特点。",
+  "annotation": "始：同。归：回家。道逢：在路上遇到。道：路途上。阿：前缀，用在某些称谓或疑问代词等前面。君：你，表示尊敬的称呼。遥看：远远地望去。松柏（bǎi）：松树、柏树。冢（zhǒng）：坟墓。累累(lěi)：众多的样子。狗窦（gǒudòu）：给狗出入的墙洞，窦，洞穴。雉（zhì）：野鸡。中庭：屋前的院子。生：长。旅：旅生，植物未经播种而野生。旅谷：野生的谷子。旅葵（kuí）：即野葵。舂（chōng）：把东西放在石臼或乳钵里捣掉谷子的皮壳或捣碎。持：拿着。作：当做。羹（gēng）：用菜叶做成的带浓汁的食物。一时：一会儿就。饴：同“贻”。送，赠送。沾：渗入。",
+  "comprehensive_appreciation": "赏析：这是一首叙事诗，描绘了一个“少小离家老大回”的老兵返乡途中与到家之后的情景，抒发了这一老兵的情感，也反映了当时的社会现实，具有一定的典型意义。开篇便不同凡响：“十五从军征，八十始得归。”这两句，直言老兵“十五”岁从军，“八十”岁方回，看似平淡无奇，像不经意间道来，实却耐人寻味，颇见功力。他“十五从军征”，奔赴何处，诗中未作说明；其军旅生活如何，战况怎样，诗中也均未交代。这就给读者留下众多想象的空间。但有一点是明确的，那就是他“从军征”，系出于战事，而且这一去就是数十年！“八十”与“十五”相对照，突出其“从军征”时间之久；“始得归”与“从军征”相呼应，则表明他中途一直未能回来。",
+  "knowledge": ""
 }

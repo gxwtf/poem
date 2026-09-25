@@ -1,7 +1,7 @@
 {
   "name": "登飞来峰",
   "author": "王安石",
-  "dynasty": "北宋",
+  "dynasty": "宋代",
   "mode": "poem",
   "paragraphs": [
     {
@@ -11,183 +11,85 @@
             {
               "char": "飞",
               "pinyin": "fēi",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "寻",
               "pinyin": "xún",
-              "index": 5,
-              "read": true,
-              "write": true
+              "index": 5
             },
             {
               "char": "塔",
               "pinyin": "tǎ",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "飞来峰上千丈高塔，",
-          "pinyin": "fēi lái shān shàng qiān xún tǎ ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "飞来：形容塔势高耸，如天外飞来，突出其突兀奇崛之态。"
+              "index": 7
             },
-            {
-              "start": 3,
-              "end": 6,
-              "content": "千寻塔：极高之塔。寻，古代长度单位，八尺为一寻；千寻，虚指，极言其高。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 5,
-              "old": "古代长度单位，八尺为一寻"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "寻找、探究"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "省略句：‘飞来（于）山上千寻塔’，省略介词‘于’。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "闻",
               "pinyin": "wén",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "说",
               "pinyin": "shuō",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "鸡",
               "pinyin": "jī",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "鸣",
               "pinyin": "míng",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "升",
               "pinyin": "shēng",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
-          "translation": "听说鸡鸣可见日出。",
-          "pinyin": "wén shuō jī míng jiàn rì shēng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "闻说：听说。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "鸡鸣：鸡叫，指清晨。"
-            },
-            {
-              "start": 5,
-              "end": 7,
-              "content": "日升：太阳升起。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "省略句：‘闻说（于）鸡鸣见日升’，省略介词‘于’，意为‘在鸡鸣之时可见日出’."
-            }
-          ]
+          "translation": "登上飞来峰顶高高的塔，听说每天鸡鸣时分在这可以看到旭日升起。"
         }
       ]
     },
@@ -198,164 +100,85 @@
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "畏",
               "pinyin": "wèi",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "浮",
               "pinyin": "fú",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "遮",
               "pinyin": "zhē",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "望",
               "pinyin": "wàng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "眼",
               "pinyin": "yǎn",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "不怕浮云遮蔽视线，",
-          "pinyin": "bú wèi fú yún zhē wàng yǎn ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "不畏：不怕。畏，害怕。"
+              "index": 23
             },
-            {
-              "start": 3,
-              "end": 6,
-              "content": "浮云遮望眼：浮云遮挡远望的视线。浮云，常比喻奸佞小人或阻碍前进的事物；望眼，远望的视线。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "自",
               "pinyin": "zhǐ",
-              "index": 24,
-              "read": true,
-              "write": true
+              "index": 24
             },
             {
               "char": "缘",
               "pinyin": "yuán",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "最",
               "pinyin": "zuì",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "高",
               "pinyin": "gāo",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "层",
               "pinyin": "céng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
-          "translation": "只因站在最高处。",
-          "pinyin": "zì yuán shēn zài zuì gāo céng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "自缘：只因为。自，副词，相当于‘只’；缘，因为。"
-            },
-            {
-              "start": 3,
-              "end": 7,
-              "content": "最高层：最高的地方。层，层级，指塔的层面。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "副词，相当于‘只’"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "自己"
-            }
-          ]
+          "translation": "不怕层层浮云遮挡我远望的视线，只因为如今我站在最高层。"
         }
       ]
     }
@@ -366,5 +189,8 @@
     "七言绝句"
   ],
   "background": "公元1050年（宋仁宗皇祐二年）夏天，诗人在浙江鄞县知县任满，回江西临川故里，途经杭州时，写下此诗。",
-  "appreciation": "《登飞来峰》是一首七言绝句。诗的第一句写峰上古塔之高，是为言明自己的立足点之高。第二句巧妙地虚写在高塔上看到旭日东升的辉煌景象，表现了诗人朝气蓬勃和对前途充满信心。诗的后两句承接前两句写景议论抒情，使诗歌既有生动的形象又有深刻的哲理。古人常有浮云蔽日、邪臣蔽贤的忧虑，而诗人却在之前使用“不畏”二字，表现其在政治上高瞻远瞩、不畏奸邪的勇气和决心。"
+  "appreciation": "《登飞来峰》是一首七言绝句。诗的第一句写峰上古塔之高，是为言明自己的立足点之高。第二句巧妙地虚写在高塔上看到旭日东升的辉煌景象，表现了诗人朝气蓬勃和对前途充满信心。诗的后两句承接前两句写景议论抒情，使诗歌既有生动的形象又有深刻的哲理。古人常有浮云蔽日、邪臣蔽贤的忧虑，而诗人却在之前使用“不畏”二字，表现其在政治上高瞻远瞩、不畏奸邪的勇气和决心。",
+  "annotation": "飞来峰：有两说：一说在浙江绍兴城外的宝林山。唐宋时其中有座应天塔。传说此峰是从琅琊郡东武县飞来的，故名飞来峰。一说在今浙江杭州西湖灵隐寺前。千寻塔：很高很高的塔。寻，古时长度单位，八尺为寻。闻说：听说。浮云：在山间浮动的云雾。望眼：远望的视线。眼，视线。缘：因为。",
+  "comprehensive_appreciation": "赏析：这首诗反映了诗人为实现自己的政治抱负而勇往直前、无所畏惧的进取精神。诗的第一句，诗人用“千寻”这一夸张的词语，借写峰上古塔之高，写出自己的立足点之高。诗的第二句，巧妙地虚写出在高塔上看到的旭日东升的辉煌景象，表现了诗人朝气蓬勃、胸怀改革大志、对前途充满信心，成为全诗感情色彩的基调。诗的后两句承接前两句写景议论抒情，使诗歌既有生动的形象又有深刻的哲理。古人常有浮云蔽日、邪臣蔽贤的忧虑，而诗人却加上“不畏”二字。表现了诗人在政治上高瞻远瞩，不畏奸邪的勇气和决心。后两句是全诗的精华，蕴含着深刻的哲理：人不能只为眼前的利益，应该放眼大局和长远。在写作手法上，起句写飞来峰的地势，有写峰上有千寻之塔，足见其高。此句极写登临之高险。承句写目极之辽远。承句用典，《玄中记》云：“桃都山有大树，曰桃都，枝相去三千里。上有天鸡，日初出照此木，天鸡即鸣，天下鸡皆随之。”以此验之，则“闻说鸡鸣见日升”七字，不仅言其目极万里，亦且言其声闻遐迩，颇具气势。虽是铺垫之笔，亦不可等闲视之，实景语中的高唱。且作者用事，深具匠心。如典故中“日初出照此木，天鸡即鸣”，本是“先日出，后天鸡鸣”，但王安石不说“闻说日升听鸡鸣”，而说“闻说鸡鸣见日升”，则是“先鸡鸣，后日升”。诗人用事，常有点化，此固不能以强求平仄，或用事失误目之，恐意有另指。第三句“不畏”二字作峻语，气势夺人。”浮云遮望眼”，用典。据吴小如教授考证，西汉人常把浮云比喻奸邪小人，如《新语·慎微篇》：“故邪臣之蔽贤，犹浮云之障日也。”王句即用此意。他还有一首《读史有感》的七律，颔联云：“当时黯暗犹承误，末俗纷纭更乱真。”欲成就大事业，最可怕者莫甚于“浮云遮目”、“末俗乱真”，而王安石以后推行新法，恰败于此。诗人良苦用心，于此诗已见端倪。第四句用“身在最高层”拔高诗境，有高瞻远瞩的气概。作者点睛之笔，正在结语。若就情境说，语序应是“因为身在最高层，所以不畏浮云遮目”，但作者却倒过来，先说果，后说因；一因一果的倒置，说明诗眼的转换。这虽是作诗的常法，亦见出作者构思的精深。“不畏浮云遮望眼，自缘身在最高层。”与苏轼“不识庐山真面目，只缘身在此山中。”一脉相承，表现技法极为相似。王安石是就肯定方面而言，比喻“掌握了正确的观点的方法，认识达到了一定的高度，就能透过现象看到本质，就不会被事物的假象迷惑。”而苏轼是就否定方面而言的，比喻“人们之所以被事物的假象所迷惑，是因为没有全面、客观、正确地观察事物，认识事物。”两者都极具哲理性，常被用作座右铭。用诗歌阐述政治、学术见解，议论时事，评说历史，这是宋诗中较为普遍的现象。该诗在描写景物中，含有深刻的理趣。诗人没有记叙登山的过程，也没有细写山中之景，而是一开始就把自己置于山上“千寻塔”的最高层，抒写心中的感受。全诗四句二十八字，包含的思想内容极其丰富，寓抽象义理于具体事物之中，作者的政治思想抱负和对前途充满信心的神情状态，都得到了充分反映。这首诗阐发哲理的主要特点表现在两个方面：其一，哲理是从具体的情境中自然提炼出来的；其二，哲理是用形象生动的语言加以表达的。简言之，即“哲理的诗化，诗化的哲理”。我们今天来读这首登高望远的七言绝句，仍觉意蕴深沉，豪气满怀。",
+  "knowledge": ""
 }

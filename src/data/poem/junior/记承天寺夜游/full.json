@@ -1,7 +1,7 @@
 {
   "name": "记承天寺夜游",
   "author": "苏轼",
-  "dynasty": "北宋",
+  "dynasty": "宋代",
   "mode": "paragraph",
   "paragraphs": [
     {
@@ -11,874 +11,535 @@
             {
               "char": "元",
               "pinyin": "yuán",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "丰",
               "pinyin": "fēng",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "六",
               "pinyin": "liù",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "二",
               "pinyin": "èr",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "解",
               "pinyin": "jiě",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "衣",
               "pinyin": "yī",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "睡",
               "pinyin": "shuì",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "色",
               "pinyin": "sè",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "户",
               "pinyin": "hù",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "欣",
               "pinyin": "xīn",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "起",
               "pinyin": "qǐ",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             }
           ],
-          "translation": "元丰六年十月十二日夜晚，脱衣准备睡觉，月光照入门内，高兴地起身出门。",
-          "pinyin": "yuán fēng liù nián shí yuè shí èr rì yè ， jiě yī yù shuì ， yuè sè rù hù ， xīn rán qǐ xíng 。",
-          "notes": [
-            {
-              "start": 13,
-              "end": 13,
-              "content": "欲：将要，表示动作即将发生。"
-            },
-            {
-              "start": 19,
-              "end": 19,
-              "content": "户：门，此处指房门，非现代的住户或窗户。"
-            },
-            {
-              "start": 21,
-              "end": 22,
-              "content": "欣然：高兴的样子。然，形容词词尾，表示状态。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 19,
-              "end": 19,
-              "old": "门"
-            },
-            {
-              "start": 19,
-              "end": 19,
-              "new": "住户、户口"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "元丰六年十月十二日夜晚，我正准备解衣入睡，恰好看到月光从门户照进来，于是高兴地起身出门。"
+        },
         {
           "content": [
             {
               "char": "念",
               "pinyin": "niàn",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "乐",
               "pinyin": "lè",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "遂",
               "pinyin": "suì",
-              "index": 33,
-              "read": true,
-              "write": true
+              "index": 33
             },
             {
               "char": "至",
               "pinyin": "zhì",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "承",
               "pinyin": "chéng",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "寺",
               "pinyin": "sì",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "寻",
               "pinyin": "xún",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "张",
               "pinyin": "zhāng",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "怀",
               "pinyin": "huái",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "民",
               "pinyin": "mín",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             }
           ],
-          "translation": "想到没有同乐之人，于是到承天寺找张怀民。",
-          "pinyin": "niàn wú yǔ wéi lè zhě ， suì zhì chéng tiān sì xún zhāng huái mín 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "念：想到，考虑，此处引申为心中想起。"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "content": "遂：于是，就，表示顺承关系的副词。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "想到没有和我一起游乐的人，就到承天寺寻找张怀民。"
+        },
         {
           "content": [
             {
               "char": "怀",
               "pinyin": "huái",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "民",
               "pinyin": "mín",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "亦",
               "pinyin": "yì",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "未",
               "pinyin": "wèi",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "寝",
               "pinyin": "qǐn",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 48,
-              "read": true,
-              "write": true
+              "index": 48
             },
             {
               "char": "相",
               "pinyin": "xiāng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "步",
               "pinyin": "bù",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "庭",
               "pinyin": "tíng",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             }
           ],
-          "translation": "怀民也尚未就寝，一同在庭院中散步。",
-          "pinyin": "huái mín yì wèi qǐn ， xiāng yǔ bù yú zhōng tíng 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "content": "相与：共同，一起，固定搭配。"
-            },
-            {
-              "start": 9,
-              "end": 12,
-              "content": "于中庭：在庭院中，‘于’为介词，引出地点，构成状语后置。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 6,
-              "end": 12,
-              "content": "状语后置句，‘于中庭’为介宾短语作状语，置于动词‘步’之后，正常语序应为‘相与于中庭步’。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "张怀民也还没有入睡，（我们）就一同在庭院里散步。"
+        },
         {
           "content": [
             {
               "char": "庭",
               "pinyin": "tíng",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "积",
               "pinyin": "jī",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "空",
               "pinyin": "kōng",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "明",
               "pinyin": "míng",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "藻",
               "pinyin": "zǎo",
-              "index": 66,
-              "read": true,
-              "write": true
+              "index": 66
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 67
             },
             {
               "char": "荇",
               "pinyin": "xìng",
-              "index": 67,
-              "read": true,
-              "write": true
+              "index": 68
             },
             {
               "char": "交",
               "pinyin": "jiāo",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "横",
               "pinyin": "héng",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "盖",
               "pinyin": "gài",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "竹",
               "pinyin": "zhú",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "柏",
               "pinyin": "bǎi",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "影",
               "pinyin": "yǐng",
-              "index": 74,
-              "read": true,
-              "write": true
+              "index": 75
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 77
             }
           ],
-          "translation": "庭院下如积水般澄澈透明，水中水藻荇菜交错纵横，原来是竹柏的影子啊。",
-          "pinyin": "tíng xià rú jī shuǐ kōng míng ， shuǐ zhōng zǎo xìng jiāo héng ， gài zhú bǎi yǐng yě 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "空明：清澈透明的样子，形容月光下庭院的澄澈意境。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "藻荇：泛指水生植物，藻和荇都是水草名，此处比喻竹柏倒影。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "交横：交错纵横，形容影子错落纷杂的样子。"
-            },
-            {
-              "start": 15,
-              "end": 15,
-              "content": "盖：原来是，表推测或解释语气的发语词。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 15,
-              "end": 20,
-              "content": "判断句，‘盖……也’结构，表示对原因的判断，相当于‘原来是……’。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "月光照在庭院中，像积水一样澄澈透明。"
+        },
         {
           "content": [
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 81,
-              "read": false,
-              "write": false
-            },
+              "index": 82
+            }
+          ],
+          "translation": "水中水藻、水草纵横交错，大概是院中竹柏的影子。"
+        },
+        {
+          "content": [
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "处",
               "pinyin": "chù",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "竹",
               "pinyin": "zhú",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "柏",
               "pinyin": "bǎi",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 87,
-              "read": false,
-              "write": false
-            },
+              "index": 88
+            }
+          ],
+          "translation": "哪一个夜晚没有月亮？"
+        },
+        {
+          "content": [
             {
               "char": "但",
               "pinyin": "dàn",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "少",
               "pinyin": "shǎo",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "闲",
               "pinyin": "xián",
-              "index": 90,
-              "read": true,
-              "write": true
+              "index": 91
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "两",
               "pinyin": "liǎng",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "耳",
               "pinyin": "ěr",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 99
             }
           ],
-          "translation": "哪夜没有月光？何处没有竹柏？只是缺少像我们这样的闲人罢了。",
-          "pinyin": "hé yè wú yuè ？ hé chù wú zhú bǎi ？ dàn shǎo xián rén rú wú liǎng rén zhě ěr 。",
-          "notes": [
-            {
-              "start": 11,
-              "end": 11,
-              "content": "但：只是，仅仅，表轻微转折，非现代‘但是’之意。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "闲人：清闲之人，此处指被贬后无所事事的人，含有自嘲意味。"
-            },
-            {
-              "start": 21,
-              "end": 21,
-              "content": "耳：罢了，语气词，表示感叹或限制语气。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 11,
-              "end": 11,
-              "old": "只、仅仅"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "new": "但是（转折连词）"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "old": "被贬谪的清闲之人，含自嘲"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "new": "空闲时间多的人，无特殊情感色彩"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 11,
-              "end": 21,
-              "content": "定语后置句，‘如吾两人者’为定语，修饰‘闲人’，正常语序应为‘但少如吾两人者闲人耳’。"
-            }
-          ]
+          "translation": "又有哪个地方没有竹子和柏树呢？"
         }
       ]
     }
@@ -889,5 +550,8 @@
     "小品文"
   ],
   "background": "这篇文章写于宋神宗元丰六年（1083）。元丰二年（1079），苏轼因“乌台诗案”被贬黄州。元丰三年（1080）二月到达黄州贬所，名义上是“团练副使”，却“本州安置，不得签书公事”，也就是说做着有职无权的闲官，到写这篇文章时已经快满四年。苏轼与志同道合的友人张怀民此时也谪居黄州，暂寓承天寺，因有此文。",
-  "appreciation": "《记承天寺夜游》是一篇散文作品。文章对月夜景色作了美妙的描绘，真实地记录了作者被贬黄州的一个生活片段，也体现了他与张怀民的深厚友谊以及对知音甚少的无限感慨，同时，他借此表达了自己壮志难酬的苦闷及自我排遣，从中体现出其旷达乐观的人生态度。全文如行云流水，一气呵成，通达晓畅。其情感真挚，言简义丰，意味幽静隽永，值得品读。"
+  "appreciation": "《记承天寺夜游》是一篇散文作品。文章对月夜景色作了美妙的描绘，真实地记录了作者被贬黄州的一个生活片段，也体现了他与张怀民的深厚友谊以及对知音甚少的无限感慨，同时，他借此表达了自己壮志难酬的苦闷及自我排遣，从中体现出其旷达乐观的人生态度。全文如行云流水，一气呵成，通达晓畅。其情感真挚，言简义丰，意味幽静隽永，值得品读。",
+  "annotation": "选自《东坡志林》。此文写于作者贬官黄州期间。承天寺，在今湖北黄冈市南。元丰六年：公元1083年。元丰，宋神宗年号。当时作者被贬黄州已经四年。解：把系着的腰带解开。欲：想要，准备。月色：月光。入：照入，映入。户：堂屋的门；单扇的门。起：起身。欣然：高兴、愉快的样子。欣，高兴，愉快。然，……的样子。行：出行。念无与为乐者：想到没有和我一起游乐的人。念，考虑，想到。与：共同，一起。无与为乐者，没有可以共同交谈（游乐或赏月）的人。者：……的人。遂：于是，就。至：到。寻：寻找。张怀民：作者的朋友。名梦得，字怀民，清河（今河北清河）人。元丰六年贬谪到黄州，寄居承天寺。亦：也。寝：睡，卧。相与步于中庭：（我们）一同在庭院中散步，相与，共同、一起。步，散步。于：在。中庭：院子里。空明：形容水的澄澈。藻荇：均为水生植物。藻，藻类植物。荇，荇菜。这里借指月色下的竹柏影。交横（héng）：交错纵横。盖：承接上文，解释原因，表示肯定，相当于‘大概’，这里解释为‘大概是’。也：句末语气词，表判断。（盖……也：原来是。）为：动词。做。但少闲人如吾两人者耳：只是很少有像我们两个这样的闲人罢了。但，只（是）仅仅。“耳”同“尔”，语气词，罢了。闲人：闲散的人。这里是指不汲汲于名利而能从容流连光景的人。苏轼这时被贬为黄州团练副使，这里是一个有职无权的官，所以他十分清闲，自称“闲人”。首先“闲人”指具有情趣雅致，能欣赏美景的人。其次“闲人”反映了作者仕途失意的苦闷心境。耳：语气词,“罢了”。",
+  "comprehensive_appreciation": "赏析：文章对月夜景色作了美妙描绘，真实地记录了作者被贬黄州的一个生活片段，也体现了他与张怀民的深厚友谊与对知音甚少的无限感慨，同时表达了他壮志难酬的苦闷及自我排遣，表现了他旷达乐观的人生态度。全文情感真挚，言简义丰，起于当起，止于当止，如行云流水，一气呵成。本文可分为三层来赏析第一层叙事：交待了时间，地点和夜游原因首句即点明事件时间“元丰六年十月十二日”，时苏轼因“乌台诗案”被贬至黄州为团练副使已经四年了。这天夜里，月光照入他的房间，作者本欲就寝，怎奈被这美好的月色所迷，顿起雅兴，但想到没有同乐之人，遂动身去不远的承天寺寻张怀民。张怀民和苏轼一样，亦是被贬至黄州来的贬官，他和苏轼的友谊相当笃厚。当晚，张怀民也还未睡，于是二人一起来到院子中间散步。这一层叙事，朴素、淡泊而又自然流畅。(寻友夜游)第二层写景：描绘庭中夜色作者惜墨如金，只用十八个字，就营造出一个月光澄碧、竹影斑驳、幽静迷人的夜景。读者自可以发挥想象：月光清朗，洒落庭中，那一片清辉白茫茫一片好似积水空潭一般，更妙的是，“水”中还有水草漂浮，游荡，于是乎恍恍然便如仙境一般了。作者的高妙之处在于，以竹柏之影与月光两种事物互相映衬、比拟、比喻手法精当，新颖，恰如其分地渲染了景色的幽美肃穆。更体现出了月光清凉明净的特点，衬托出作者闲适的心境。第三层：惋惜无人赏月便转入议论。作者感慨到，何夜无月，何处无竹柏，可是有此闲情雅致来欣赏这番景色的，除了他与张怀民外，恐怕就不多了，整篇的点睛之笔是“闲人”二字，苏轼谪居黄州，“不得签书公事”，所担任的只是个有名无实的官，与儒家的“经世济民”之理想相去甚远，即所谓“闲人”之表层意义，它委婉地反映了苏轼宦途失意的苦闷；从另一个方面来看，月光至美，竹柏影至丽，而人不能识，唯此二人能有幸领略，岂非快事！苏轼的思想横跨儒释道三家，这便使他的处世态度有极大的包容性，可以说是宠辱不惊，进退自如。当然，他在逆境中的篇章更能折射出他的人格魅力！文章中的“美”首先来自内容的“真”。东月朗照，激发了作者的游兴，想到没有“与乐者”，未免美中不足，因而寻伴，这时错觉生趣，情感触动，于是记下此景此情，顺理成章，一切是那么的和谐自然，毫无雕饰造作之感。这“美”来自语言的“纯”。笔记如同拉家常，娓娓叙来。虽然没有奇景之处，但却不能增删或改动什么字眼儿。点明日期，是笔记体游记所必须的，“月色入户”与“欣然起行”互为因果，寥寥数字，何其洗练！写庭下景色，用“空明”一词，不枝不蔓，体现出空灵、坦荡的意境，将竹柏影子比作水中藻荇，已然十分贴切，“交横”一词更准确地表现了藻荇姿态，仿佛触手可及。接着，作者笔锋陡转，连发二问，既亲切自然，富于韵律，又拓展时空，发人思绪。《记承天寺夜游》表达的感情是微妙而复杂的这“美”来自结尾的“精”。从文章结构看，结句属“合”，就此打住。从语意上看，它包蕴丰富。“闲人”一词，表面上是自嘲地说自己和张怀民是清闲的人，闲来无事才出来赏月的，实际上却为自己的行为而自豪——月夜处处都有，却是只有情趣高雅的人能欣赏的，有了人的欣赏才有美，只有此时此地的月夜才是最幸运的，因为有情趣高雅的人来欣赏它。其次，“闲人”包含了作者郁郁不得志的悲凉心境，作者在政治上有远大的抱负，却被贬流落黄州，在内心深处，他又何尝愿做一个“闲人”呢？赏月“闲人”的自得只不过是被贬“闲人”的自慰罢了。总之，游记以真情实感为依托，信笔写来，起于当起，止于当止，犹如行云流水，于无技巧中见技巧，达到了“一语天然万古新，豪华落尽见真纯”的境界。",
+  "knowledge": "### 一词多义\n与：相与步于中庭。（跟，向。介词）念无与为乐者。（和，连词。）遂：遂至承天寺。（于是）遂迷，不复得路（终于）《桃花源记》至：遂至承天寺。\n（到）寡助之至。 （极点） 《得道多助失道寡助》寻：寻张怀民。（寻找）未果，寻病终。（不久）《桃花源记》空：庭下如积水空明。（空旷澄澈）空谷传响。（空荡荡的）《三峡》\n\n### 古今异义\n但（但少闲人如吾两人者耳）古义：只是，只不过；今义：但是，表转折关系的连词\n耳（但少闲人如吾两人者耳）古义：助词，表示限制语气，相当于“ 而已”“罢了”；今义：名词，耳朵。\n闲人（但少闲人如吾两人者耳）古义： 不汲汲于名利而能从容留连于光景之人；今义 与事无关的人\n户（月色入户）古义：窗（门户）户；今义：住户、人家\n念（念无与为乐者）古义：考虑，想到；今义：纪念，思念 ，读\n盖（盖竹柏影也）古义：原来是，表推测原因；今义：器物上有遮盖作用的东西。\n中庭（相与步于中庭）古义：院子里；今义：庭子中间。\n\n### 词类活用\n相与步于中庭：名词作动词，散步。怀民亦未寝：名词作动词，睡；卧。\n\n### 特殊句式\n倒装句相与步于中庭：（我们）便一起在庭院中散步。（介宾短语后置，应为“相与于中庭步”）但少闲人如吾两人者耳：只不过缺少像我们俩这样的闲人罢了。（定语后置，应为“但少如吾两人者闲人耳”）\n省略句解衣欲睡：（我）脱下衣服准备睡觉。（省略主语）\n判断句盖竹柏影也：大概是竹子跟柏树的影子吧？（起判断作用）\n主旨句何夜无月？何处无竹柏？但少闲人如吾两人者耳。表达出作者孤寂凄凉，无所归依的心境以及仕途不得志的抑郁，以及他豁达的人生观。"
 }

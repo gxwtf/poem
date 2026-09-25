@@ -11,124 +11,65 @@
             {
               "char": "单",
               "pinyin": "dān",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "车",
               "pinyin": "chē",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "问",
               "pinyin": "wèn",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "边",
               "pinyin": "biān",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "属",
               "pinyin": "shǔ",
-              "index": 6,
-              "read": true,
-              "write": false
+              "index": 6
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "过",
               "pinyin": "guò",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "居",
               "pinyin": "jū",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "延",
               "pinyin": "yán",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "轻车简从出使边塞，途经属国居延。",
-          "pinyin": "dān chē yù wèn biān ， shǔ guó guò jū yán 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "单车：指使臣轻车简从出使边塞，‘单’强调随从少，非现代‘自行车’之意。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "问边：慰问守边将士，体现使臣职责。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "属国：典属国的简称，掌管少数民族事务的官，此处指以属国使臣身份出使。"
-            },
-            {
-              "start": 9,
-              "end": 11,
-              "content": "居延：古地名，汉代边塞要地，在今甘肃张掖西北，泛指边远边防区域。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 1,
-              "old": "轻车简从的使臣队伍"
-            },
-            {
-              "start": 0,
-              "end": 1,
-              "new": "一种交通工具，自行车"
-            }
-          ]
+          "translation": "轻车简从将要去慰问边延，我要到远在西北边塞的居延。"
         }
       ]
     },
@@ -139,112 +80,65 @@
             {
               "char": "征",
               "pinyin": "zhēng",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "蓬",
               "pinyin": "péng",
-              "index": 13,
-              "read": false,
-              "write": true
+              "index": 13
             },
             {
               "char": "出",
               "pinyin": "chū",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "汉",
               "pinyin": "hàn",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "塞",
               "pinyin": "sài",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "雁",
               "pinyin": "yàn",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             }
           ],
-          "translation": "如飘蓬飞离汉家边塞，似归雁飞入胡地上空。",
-          "pinyin": "zhēng péng chū hàn sài ， guī yàn rù hú tiān 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "征蓬：飘飞的蓬草，比喻漂泊无依的旅人，是边塞诗常见意象。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "汉塞：汉代边关，借指唐代边疆，反映古人常用前代称谓代指当代。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "content": "归雁：北飞的大雁，暗示春季或诗人思归之情，雁为典型意象。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "胡天：北方少数民族地区的天空，‘胡’为古代对北方民族的泛称。"
-            }
-          ]
+          "translation": "像随风而去的蓬草一样出浩边塞，北归大雁正翱翔云天。"
         }
       ]
     },
@@ -255,112 +149,65 @@
             {
               "char": "大",
               "pinyin": "dà",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "漠",
               "pinyin": "mò",
-              "index": 25,
-              "read": false,
-              "write": true
+              "index": 25
             },
             {
               "char": "孤",
               "pinyin": "gū",
-              "index": 26,
-              "read": false,
-              "write": true
+              "index": 26
             },
             {
               "char": "烟",
               "pinyin": "yān",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "直",
               "pinyin": "zhí",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "长",
               "pinyin": "cháng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "河",
               "pinyin": "hé",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "落",
               "pinyin": "luò",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "圆",
               "pinyin": "yuán",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
-          "translation": "浩瀚沙漠孤烟直上，黄河尽头落日浑圆。",
-          "pinyin": "dà mò gū yān zhí ， cháng hé luò rì yuán 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "大漠：广阔无垠的沙漠，特指西北边地沙漠地带。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "孤烟直：烽火台燃起的狼烟因无风而笔直升起，是边塞特有景象。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "长河：指黄河，因流经边塞，故称‘长河’，非泛指河流。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "落日圆：落日显得格外浑圆，描绘大漠特有的视觉感受，‘圆’字炼字精妙。"
-            }
-          ]
+          "translation": "浩瀚沙漠中孤烟直上云霄，黄河边上落日浑圆。"
         }
       ]
     },
@@ -371,131 +218,65 @@
             {
               "char": "萧",
               "pinyin": "xiāo",
-              "index": 36,
-              "read": false,
-              "write": true
+              "index": 36
             },
             {
               "char": "关",
               "pinyin": "guān",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "逢",
               "pinyin": "féng",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "候",
               "pinyin": "hòu",
-              "index": 39,
-              "read": false,
-              "write": true
+              "index": 39
             },
             {
               "char": "骑",
               "pinyin": "qí",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 41,
-              "read": true,
-              "write": false
+              "index": 41
             },
             {
               "char": "都",
               "pinyin": "dū",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "护",
               "pinyin": "hù",
-              "index": 43,
-              "read": false,
-              "write": true
+              "index": 43
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "燕",
               "pinyin": "yān",
-              "index": 45,
-              "read": true,
-              "write": false
+              "index": 45
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "在萧关遇见侦察骑兵，告知都护正在燕然前线。",
-          "pinyin": "xiāo guān féng hòu jì ， dū hù zài yān rán 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "萧关：古关名，在今宁夏固原东南，为古代西北边防要塞。"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "候骑：负责侦察的骑兵，‘候’意为侦察，非‘等候’。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "都护：唐代边疆地区的最高军事长官，如安西都护、河西都护。"
-            },
-            {
-              "start": 9,
-              "end": 11,
-              "content": "燕然：即燕然山，今蒙古杭爱山，典出东汉窦宪大破匈奴后勒石记功之事，此处借指前线。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "侦察"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "等待"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 2,
-              "end": 5,
-              "content": "‘逢候骑于萧关’省略介词‘于’，属状语后置句，正常语序应为‘于萧关逢候骑’。"
-            }
-          ]
+          "translation": "到萧延时命到侦察骑兵，得知主帅尚在前线未归。"
         }
       ]
     }
@@ -506,5 +287,8 @@
     "五言律诗"
   ],
   "background": "公元737年（唐玄宗开元二十五年）春，河西节度副大使崔希逸在青海西大破吐蕃军。唐玄宗命王维以监察御史的身份奉使凉州，出塞宣慰，察访军情，并任河西节度使判官，其实是王维被排挤出朝廷。这首诗就是作于此次出塞途中。",
-  "appreciation": "《使至塞上》是一首记行诗，记述诗人出使塞上的旅程以及旅程中所见的塞外风光。诗中首先交待此行目的和到达地点，而后即景设喻，用归雁、蓬草自比，抒发飘零之感。然后描绘了边陲大漠中壮阔雄奇的景象，境界阔大，气象雄浑。最后虚写战争已取得胜利，流露出对边塞将领的赞叹之情。这首诗不仅描画出边塞生活的风貌，同时也表达了诗人因被排挤而感受到的孤独、寂寞和悲伤。但在大漠的雄浑景色中，他的情感得到了熏陶和净化，进而升华为慷慨悲壮之情，显露出其坚韧和豁达的胸怀。"
+  "appreciation": "《使至塞上》是一首记行诗，记述诗人出使塞上的旅程以及旅程中所见的塞外风光。诗中首先交待此行目的和到达地点，而后即景设喻，用归雁、蓬草自比，抒发飘零之感。然后描绘了边陲大漠中壮阔雄奇的景象，境界阔大，气象雄浑。最后虚写战争已取得胜利，流露出对边塞将领的赞叹之情。这首诗不仅描画出边塞生活的风貌，同时也表达了诗人因被排挤而感受到的孤独、寂寞和悲伤。但在大漠的雄浑景色中，他的情感得到了熏陶和净化，进而升华为慷慨悲壮之情，显露出其坚韧和豁达的胸怀。",
+  "annotation": "使至塞上：奉命出使边塞。使：出使。单车：一辆车，车辆少，这里形容轻车简从。问边：到边塞去察看，指慰问守卫边疆的官兵。属国：有几种解释：一指少数民族附属于汉族朝廷而存其国号者。汉、居两朝均有一些属国。二指官名，秦汉时有一种官职名为典属国，苏武归汉后即授典属国官职。居人有时以“属国”代称出使边陲的使臣。居延：地名，汉代称居延泽，居代称居延海，在今内蒙古额济纳旗北境。又西汉张掖郡有居延县（参《汉书·地理志》），故城分布在今内蒙古自治区额济纳旗和甘肃省金塔县的境内。又东汉凉州刺史部有张掖居延属国，辖境在居延泽一带。此句一般注本均言王维路过居延。然而王维此次出使，实际上无需经过居延。因而林庚、冯沅君主编的《中国历代诗歌选》认为此句是写居王朝“边塞的辽阔，附属国直到居延以外”。征蓬：随风飘飞的蓬草，此处为诗人自喻。归雁：雁是候鸟，春天北飞，秋天南行，这里是指大雁北飞。胡天：胡人的领空。这里是指居军占领的北方地方。大漠：大沙漠，此处大约是指凉州之北的沙漠。孤烟：赵殿成注有二解：一云古代边防报警时燃狼粪，“其烟直而聚，虽风吹之不散”。二云塞外多旋风，“袅烟沙而直上”。据后人有到甘肃、新疆实地考察者证实，确有旋风如“孤烟直上”。又：孤烟也可能是居代边防使用的平安火。长河：黄河。萧延：古延名，又名陇山延，故址在今宁夏固原东南。候骑：负责侦察、通讯的骑兵。王维出使河西并不经过萧延，此处大概是用何逊诗“候骑出萧延，追兵赴马邑”之意，非实写。都护：居朝在西北边疆置安西、安北等六大都护府，其长官称都护，每府派大都护一人，副都护二人，负责辖区一切事务。这里指前线统帅。燕然：燕然山，即今蒙古国杭爱山。东汉窦宪北破匈奴，曾于此刻石记功。这里代指前线。“单车”两句：一作“衔命辞天阙，单车欲问边”。候骑：骑马的侦察兵。",
+  "comprehensive_appreciation": "赏析：这是诗人奉命赴边疆慰问将士途中所作的一首边塞诗，记述出使塞上的旅程以及旅程中所见的塞外风光。首联两句交待此行目的和到达地点，诗缘何而作；颔联两句包含多重意蕴，借蓬草自况，写飘零之感；颈联两句描绘了边陲大漠中壮阔雄奇的景象，境界阔大，气象雄浑；尾联两句写到了边塞，却没有遇到将官，侦察兵告诉使臣：首将正在燕然前线。此诗既反映了边塞生活，同时也表达了诗人由于被排挤而产生的孤独、寂寞、悲伤之情以及在大漠的雄浑景色中情感得到熏陶、净化、升华后产生的慷慨悲壮之情，显露出一种豁达情怀。“单车欲问边”，轻车前往，向哪里去呢——“属国过居延”，居延在今甘肃张掖市西北，远在西北边塞。“征蓬出汉塞，归雁入胡天”，诗人以“蓬”、“雁”自比，说自己像随风而去的蓬草一样出临“汉塞”，像振翮北飞的“归雁”一样进入“胡天”。古诗中多用飞蓬比喻漂流在外的游子，这里却是比喻一个负有朝廷使命的大臣，正是暗写诗人内心的激愤抑郁和孤寂落寞。与首句的“单车”相呼应。万里行程只用了十个字轻轻带过。然后抓住沙漠中的典型景物进行刻画：“大漠孤烟直，长河落日圆”。这两句被誉为“独绝千古”，清人王培芳认为，其妙处在于“‘直’‘圆’二字极锻炼，亦极自然”。 这两句诗充分体现了王维诗歌“诗中有画”的特色，非常讲究景物的画面感。首先，它有绘画一样的构图，空间阔大，层次丰富。其次，它有绘画一样讲究的线条。一望无际的大漠上，纵的是烟，横的是河，圆的是落日，寥寥几笔，就用简约的线条勾勒出景物的基本形态，概括性极强，仿佛抽象派的作品。最后，这两句在色彩上也很鲜明，落日、大漠、黄河、烽烟，各有色彩，引人想象。“直”“圆”二字的锻炼之处就在于构成壮美的画面，富有视觉感；其自然之处，在于符合塞外现实的情境。“烽烟”多用狼烟，有轻直、聚集的特点，是“孤烟”，不会相互纠缠，故在无风的时节能够“直”冲云天；苍茫的大漠背景下，“落日”即将没入地平线，显得又大又圆，这也符合我们日常观察落日的直觉感受。“自然”之处还在于，这两句诗所写的独特景象，是长期生活于内地的人刚进入塞外很自然地就会捕捉到的。最后两句写到达边塞：“萧关逢候骑，都护在燕然”。到了边塞，却没有遇到将官，侦察兵告诉使臣：首将正在燕然前线。诗人把笔墨重点用在了他最擅长的方面——写景。作者出使，恰在春天。途中见数行归雁北翔，诗人即景设喻，用归雁自比，既叙事，又写景，一笔两到，贴切自然。尤其是“大漠孤烟直，长河落日圆”一联，写进入边塞后所看到的塞外奇特壮丽的风光，画面开阔，意境雄浑，近人王国维称之为“千古壮观”的名句。边疆沙漠，浩瀚无边，所以用了“大漠“的“大”字。边塞荒凉，没有什么奇观异景，烽火台燃起的那一股浓烟就显得格外醒目，因此称作“孤烟”。一个“孤”字写出了景物的单调，紧接一个“直”字，却又表现了它的劲拔、坚毅之美。沙漠上没有山峦林木，那横贯其间的河流，就非用一个“长”字不能表达诗人的感觉。落日，本来容易给人以感伤的印象，这里用一“圆”字，却给人以亲切温暖而又苍茫的感觉。一个“圆”字，一个“直”字，不仅准确地描绘了沙漠的景象，而且表现了作者的深切的感受。诗人把自己的孤寂情绪巧妙地溶化在广阔的自然景象的描绘中。《红楼梦》第四十八回香菱学诗里说的那段话可算道出了这两句诗高超的艺术境界。",
+  "knowledge": ""
 }

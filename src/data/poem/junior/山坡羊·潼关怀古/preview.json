@@ -6,51 +6,39 @@
           "sentence": [
             {
               "char": "峰",
-              "pinyin": "zhōng"
+              "pinyin": "fēng"
             },
             {
               "char": "峦",
-              "pinyin": "gǔ"
+              "pinyin": "luán"
             },
             {
               "char": "如",
-              "pinyin": "gāo"
+              "pinyin": "rú"
             },
             {
               "char": "聚",
-              "pinyin": "yún"
+              "pinyin": "jù"
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "聚：聚集，此处用作动词，形容群峰如向潼关汇聚，拟人手法。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
               "char": "波",
-              "pinyin": "cù"
+              "pinyin": "bō"
             },
             {
               "char": "涛",
-              "pinyin": "cǐ"
+              "pinyin": "tāo"
             },
             {
               "char": "如",
-              "pinyin": "chéng"
+              "pinyin": "rú"
             },
             {
               "char": "怒",
-              "pinyin": "qiū",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "怒：发怒，形容波涛汹涌澎湃，赋予黄河以情感色彩。"
-                }
-              ]
+              "pinyin": "nù"
             },
             {
               "char": "，",
@@ -58,31 +46,31 @@
             },
             {
               "char": "山",
-              "pinyin": "fēng"
+              "pinyin": "shān"
             },
             {
               "char": "河",
-              "pinyin": "chuī"
+              "pinyin": "hé"
             },
             {
               "char": "表",
-              "pinyin": "sàn"
+              "pinyin": "biǎo"
             },
             {
               "char": "里",
-              "pinyin": "mǎ"
+              "pinyin": "lǐ"
             },
             {
               "char": "潼",
-              "pinyin": "tí"
+              "pinyin": "tóng"
             },
             {
               "char": "关",
-              "pinyin": "shēng"
+              "pinyin": "guān"
             },
             {
               "char": "路",
-              "pinyin": "hé"
+              "pinyin": "lù"
             },
             {
               "char": "。",
@@ -90,49 +78,23 @@
             }
           ],
           "translation": {
-            "translation": "山峰像在聚集，波涛像在愤怒，山峦和河流内外是通往潼关的道路。"
+            "translation": "华山的山峰从四面八方会聚，黄河的波涛像发怒似的汹涌。"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "峰峦：高而尖的山峰与连绵的山岭，此处指华山一带群山。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "note": "表里：外表与内里，指潼关外有黄河，内有华山，地势险要。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "note": "潼关：古关隘名，在今陕西潼关县北，为历代兵家必争之地。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
               "char": "望",
-              "pinyin": "liú"
+              "pinyin": "wàng"
             },
             {
               "char": "西",
-              "pinyin": "dà"
+              "pinyin": "xī"
             },
             {
               "char": "都",
-              "pinyin": "yě",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "西都：指长安，汉唐故都，位于潼关以西，故称西都。"
-                }
-              ]
+              "pinyin": "dū"
             },
             {
               "char": "，",
@@ -140,15 +102,15 @@
             },
             {
               "char": "意",
-              "pinyin": "yóu"
+              "pinyin": "yì"
             },
             {
               "char": "踌",
-              "pinyin": "xián"
+              "pinyin": "chóu"
             },
             {
               "char": "躇",
-              "pinyin": "shù"
+              "pinyin": "chú"
             },
             {
               "char": "。",
@@ -156,15 +118,9 @@
             }
           ],
           "translation": {
-            "translation": "遥望西京长安，心中犹豫不决。"
+            "translation": "潼关古道内接华山，外连黄河。"
           },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "踌躇：原指犹豫不决，此处引申为感慨万千、心潮起伏，因目睹古都遗迹而伤怀。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -174,71 +130,67 @@
           "sentence": [
             {
               "char": "伤",
-              "pinyin": "shān"
+              "pinyin": "shāng"
             },
             {
               "char": "心",
-              "pinyin": "rù"
+              "pinyin": "xīn"
             },
             {
               "char": "秦",
-              "pinyin": "tóng"
+              "pinyin": "qín"
             },
             {
               "char": "汉",
-              "pinyin": "guān"
+              "pinyin": "hàn"
             },
             {
               "char": "经",
-              "pinyin": "bù"
+              "pinyin": "jīng"
             },
             {
               "char": "行",
-              "pinyin": "jiě"
+              "pinyin": "xíng"
             },
             {
               "char": "处",
-              "pinyin": "píng"
+              "pinyin": "chù"
             },
             {
               "char": "，",
               "pinyin": "　"
             },
             {
-              "char": "宫"
+              "char": "宫",
+              "pinyin": "gōng"
             },
             {
-              "char": "阙"
+              "char": "阙",
+              "pinyin": "què"
             },
             {
-              "char": "万"
+              "char": "万",
+              "pinyin": "wàn"
             },
             {
               "char": "间",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "万间：夸张手法，极言宫殿数量之多，反映秦汉时期都城的宏伟。"
-                }
-              ]
+              "pinyin": "jiān"
             },
             {
-              "char": "都"
+              "char": "都",
+              "pinyin": "dōu"
             },
             {
-              "char": "做"
+              "char": "做",
+              "pinyin": "zuò"
             },
             {
               "char": "了",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "做：变为、成为，古文中常用于表示转变结果，与现代‘做工作’等义不同。"
-                }
-              ]
+              "pinyin": "le"
             },
             {
-              "char": "土"
+              "char": "土",
+              "pinyin": "tǔ"
             },
             {
               "char": "。",
@@ -246,69 +198,63 @@
             }
           ],
           "translation": {
-            "translation": "伤心在秦汉王朝经过的地方，千万间宫殿都已化为尘土。"
+            "translation": "遥望古都长安，我徘徊不定，思潮起伏。"
           },
-          "notes": [
-            {
-              "start": 9,
-              "end": 10,
-              "note": "宫阙：帝王居住的宫殿，代指王朝都城建筑群。宫：帝王住所；阙：宫门前的楼台。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
-              "char": "兴"
+              "char": "兴",
+              "pinyin": "xīng"
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "兴：国家兴起、兴盛，此处指朝代建立或繁荣时期。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
-              "char": "百"
+              "char": "百",
+              "pinyin": "bǎi"
             },
             {
-              "char": "姓"
+              "char": "姓",
+              "pinyin": "xìng"
             },
             {
-              "char": "苦"
+              "char": "苦",
+              "pinyin": "kǔ"
             },
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "令人伤心的是秦宫汉阙里那些走过的地方，万间宫殿早已化作了尘土。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "char": "亡"
+              "char": "亡",
+              "pinyin": "wáng"
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "亡：国家灭亡、衰败，与‘兴’形成强烈对比。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
-              "char": "百"
+              "char": "百",
+              "pinyin": "bǎi"
             },
             {
-              "char": "姓"
+              "char": "姓",
+              "pinyin": "xìng"
             },
             {
-              "char": "苦"
+              "char": "苦",
+              "pinyin": "kǔ"
             },
             {
               "char": "。",
@@ -316,12 +262,12 @@
             }
           ],
           "translation": {
-            "translation": "兴盛时，百姓受苦；灭亡时，百姓受苦。"
+            "translation": "一朝兴盛，百姓受苦；"
           },
           "notes": []
         }
       ]
     }
   ],
-  "mode": "paragraph"
+  "mode": "poem"
 }

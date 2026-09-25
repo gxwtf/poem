@@ -14,13 +14,7 @@
             },
             {
               "char": "夫",
-              "pinyin": "fú",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "夫：语气助词，无实义，用于句首表示发端。"
-                }
-              ]
+              "pinyin": "fú"
             },
             {
               "char": "如",
@@ -36,20 +30,10 @@
             }
           ],
           "translation": {
-            "translation": "泰山到底何等气象？"
+            "translation": "五岳之首的泰山怎么样？"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "岱宗：泰山的尊称。岱，泰山的别名；宗，意为尊长。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -78,15 +62,9 @@
             }
           ],
           "translation": {
-            "translation": "齐鲁大地青色绵延无尽。"
+            "translation": "在齐鲁大地上，那苍翠的美好山色没有尽头。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "齐鲁：春秋时两个国名，齐在泰山北，鲁在泰山南，泛指山东一带。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -104,13 +82,7 @@
             },
             {
               "char": "钟",
-              "pinyin": "zhōng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "钟：聚集，汇聚。"
-                }
-              ]
+              "pinyin": "zhōng"
             },
             {
               "char": "神",
@@ -123,25 +95,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "大自然凝聚神奇秀美，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "造化：指大自然。造，创造；化，化育。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
+            },
             {
               "char": "阴",
               "pinyin": "yīn"
@@ -152,13 +106,7 @@
             },
             {
               "char": "割",
-              "pinyin": "gē",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "割：分割，划分。"
-                }
-              ]
+              "pinyin": "gē"
             },
             {
               "char": "昏",
@@ -174,15 +122,9 @@
             }
           ],
           "translation": {
-            "translation": "山南山北分隔晨昏。"
+            "translation": "大自然把神奇秀丽的景象全都汇聚其中，山南山北阴阳分界，晨昏迥然不同。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "阴阳：山北为阴，山南为阳。此处指泰山南北。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -200,13 +142,7 @@
             },
             {
               "char": "生",
-              "pinyin": "shēng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "生：产生，生出。"
-                }
-              ]
+              "pinyin": "shēng"
             },
             {
               "char": "曾",
@@ -219,30 +155,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "层云翻腾涤荡心胸，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "荡胸：涤荡胸襟。"
             },
-            {
-              "start": 3,
-              "end": 4,
-              "note": "曾云：层云。曾，通“层”。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
             {
               "char": "决",
               "pinyin": "jué"
@@ -269,15 +182,49 @@
             }
           ],
           "translation": {
-            "translation": "睁裂眼眶目送归鸟。"
+            "translation": "升腾的层层云气，使心胸摇荡；"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 0,
-              "end": 1,
-              "note": "决眦：睁裂眼眶，形容极力张大眼睛。决，裂开；眦，眼眶。"
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": " ",
+              "pinyin": "huì"
+            },
+            {
+              "char": "曾",
+              "pinyin": "dāng"
+            },
+            {
+              "char": " ",
+              "pinyin": "líng"
+            },
+            {
+              "char": "同",
+              "pinyin": "jué"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "层",
+              "pinyin": "dǐng"
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": "极力张大眼睛远望归鸟隐入了山林。"
+          },
+          "notes": []
         }
       ]
     },
@@ -287,76 +234,47 @@
           "sentence": [
             {
               "char": "会",
-              "pinyin": "huì"
+              "pinyin": "yī"
             },
             {
               "char": "当",
-              "pinyin": "dāng"
+              "pinyin": "lǎn"
             },
             {
               "char": "凌",
-              "pinyin": "líng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "凌：登上，逾越。"
-                }
-              ]
+              "pinyin": "zhòng"
             },
             {
               "char": "绝",
-              "pinyin": "jué"
+              "pinyin": "shān"
             },
             {
               "char": "顶",
-              "pinyin": "dǐng"
+              "pinyin": "xiǎo"
             },
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "定要登上最高峰顶，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "会当：定要，应当。"
             },
             {
-              "start": 3,
-              "end": 4,
-              "note": "绝顶：最高峰。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
-            {
               "char": "一",
-              "pinyin": "yī"
+              "pinyin": ""
             },
             {
               "char": "览",
-              "pinyin": "lǎn"
+              "pinyin": ""
             },
             {
               "char": "众",
-              "pinyin": "zhòng"
+              "pinyin": ""
             },
             {
               "char": "山",
-              "pinyin": "shān"
+              "pinyin": ""
             },
             {
               "char": "小",
-              "pinyin": "xiǎo"
+              "pinyin": ""
             },
             {
               "char": "。",
@@ -364,20 +282,9 @@
             }
           ],
           "translation": {
-            "translation": "俯瞰众山尽显渺小。"
+            "translation": "我定要登上那最高峰，俯瞰在泰山面前显得渺小的群山。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "一览：一眼望去。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "note": "众山小：化用《孟子·尽心上》“登泰山而小天下”之意。"
-            }
-          ]
+          "notes": []
         }
       ]
     }

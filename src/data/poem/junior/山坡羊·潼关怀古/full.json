@@ -2,7 +2,7 @@
   "name": "山坡羊·潼关怀古",
   "author": "张养浩",
   "dynasty": "元代",
-  "mode": "paragraph",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -10,238 +10,141 @@
           "content": [
             {
               "char": "峰",
-              "pinyin": "zhōng",
-              "index": 0,
-              "read": false,
-              "write": false
+              "pinyin": "fēng",
+              "index": 0
             },
             {
               "char": "峦",
-              "pinyin": "gǔ",
-              "index": 1,
-              "read": false,
-              "write": false
+              "pinyin": "luán",
+              "index": 1
             },
             {
               "char": "如",
-              "pinyin": "gāo",
-              "index": 2,
-              "read": true,
-              "write": true
+              "pinyin": "rú",
+              "index": 2
             },
             {
               "char": "聚",
-              "pinyin": "yún",
-              "index": 3,
-              "read": false,
-              "write": false
+              "pinyin": "jù",
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "波",
-              "pinyin": "cù",
-              "index": 5,
-              "read": false,
-              "write": false
+              "pinyin": "bō",
+              "index": 5
             },
             {
               "char": "涛",
-              "pinyin": "cǐ",
-              "index": 6,
-              "read": false,
-              "write": false
+              "pinyin": "tāo",
+              "index": 6
             },
             {
               "char": "如",
-              "pinyin": "chéng",
-              "index": 7,
-              "read": false,
-              "write": false
+              "pinyin": "rú",
+              "index": 7
             },
             {
               "char": "怒",
-              "pinyin": "qiū",
-              "index": 8,
-              "read": false,
-              "write": false
+              "pinyin": "nù",
+              "index": 8
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "山",
-              "pinyin": "fēng",
-              "index": 10,
-              "read": false,
-              "write": false
+              "pinyin": "shān",
+              "index": 10
             },
             {
               "char": "河",
-              "pinyin": "chuī",
-              "index": 11,
-              "read": false,
-              "write": false
+              "pinyin": "hé",
+              "index": 11
             },
             {
               "char": "表",
-              "pinyin": "sàn",
-              "index": 12,
-              "read": false,
-              "write": false
+              "pinyin": "biǎo",
+              "index": 12
             },
             {
               "char": "里",
-              "pinyin": "mǎ",
-              "index": 13,
-              "read": false,
-              "write": false
+              "pinyin": "lǐ",
+              "index": 13
             },
             {
               "char": "潼",
-              "pinyin": "tí",
-              "index": 14,
-              "read": false,
-              "write": false
+              "pinyin": "tóng",
+              "index": 14
             },
             {
               "char": "关",
-              "pinyin": "shēng",
-              "index": 15,
-              "read": true,
-              "write": true
+              "pinyin": "guān",
+              "index": 15
             },
             {
               "char": "路",
-              "pinyin": "hé",
-              "index": 16,
-              "read": false,
-              "write": false
+              "pinyin": "lù",
+              "index": 16
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             }
           ],
-          "translation": "山峰像在聚集，波涛像在愤怒，山峦和河流内外是通往潼关的道路。",
-          "pinyin": "fēng luán rú jù ， bō tāo rú nù ， shān hé biǎo lǐ tóng guān lù 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "峰峦：高而尖的山峰与连绵的山岭，此处指华山一带群山。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "聚：聚集，此处用作动词，形容群峰如向潼关汇聚，拟人手法。"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "content": "怒：发怒，形容波涛汹涌澎湃，赋予黄河以情感色彩。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "表里：外表与内里，指潼关外有黄河，内有华山，地势险要。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "content": "潼关：古关隘名，在今陕西潼关县北，为历代兵家必争之地。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "华山的山峰从四面八方会聚，黄河的波涛像发怒似的汹涌。"
+        },
         {
           "content": [
             {
               "char": "望",
-              "pinyin": "liú",
-              "index": 18,
-              "read": false,
-              "write": false
+              "pinyin": "wàng",
+              "index": 18
             },
             {
               "char": "西",
-              "pinyin": "dà",
-              "index": 19,
-              "read": false,
-              "write": false
+              "pinyin": "xī",
+              "index": 19
             },
             {
               "char": "都",
-              "pinyin": "yě",
-              "index": 20,
-              "read": false,
-              "write": false
+              "pinyin": "dū",
+              "index": 20
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "意",
-              "pinyin": "yóu",
-              "index": 22,
-              "read": false,
-              "write": false
+              "pinyin": "yì",
+              "index": 22
             },
             {
               "char": "踌",
-              "pinyin": "xián",
-              "index": 23,
-              "read": true,
-              "write": false
+              "pinyin": "chóu",
+              "index": 23
             },
             {
               "char": "躇",
-              "pinyin": "shù",
-              "index": 24,
-              "read": false,
-              "write": true
+              "pinyin": "chú",
+              "index": 24
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             }
           ],
-          "translation": "遥望西京长安，心中犹豫不决。",
-          "pinyin": "wàng xī dū ， yì chóu chú 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 2,
-              "content": "西都：指长安，汉唐故都，位于潼关以西，故称西都。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "踌躇：原指犹豫不决，此处引申为感慨万千、心潮起伏，因目睹古都遗迹而伤怀。"
-            }
-          ]
+          "translation": "潼关古道内接华山，外连黄河。"
         }
       ]
     },
@@ -251,252 +154,161 @@
           "content": [
             {
               "char": "伤",
-              "pinyin": "shān",
-              "index": 26,
-              "read": false,
-              "write": false
+              "pinyin": "shāng",
+              "index": 26
             },
             {
               "char": "心",
-              "pinyin": "rù",
-              "index": 27,
-              "read": false,
-              "write": false
+              "pinyin": "xīn",
+              "index": 27
             },
             {
               "char": "秦",
-              "pinyin": "tóng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "pinyin": "qín",
+              "index": 28
             },
             {
               "char": "汉",
-              "pinyin": "guān",
-              "index": 29,
-              "read": false,
-              "write": false
+              "pinyin": "hàn",
+              "index": 29
             },
             {
               "char": "经",
-              "pinyin": "bù",
-              "index": 30,
-              "read": false,
-              "write": false
+              "pinyin": "jīng",
+              "index": 30
             },
             {
               "char": "行",
-              "pinyin": "jiě",
-              "index": 31,
-              "read": false,
-              "write": false
+              "pinyin": "xíng",
+              "index": 31
             },
             {
               "char": "处",
-              "pinyin": "píng",
-              "index": 32,
-              "read": false,
-              "write": false
+              "pinyin": "chù",
+              "index": 32
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "宫",
-              "index": 34,
-              "read": false,
-              "write": false
+              "pinyin": "gōng",
+              "index": 34
             },
             {
               "char": "阙",
-              "index": 35,
-              "read": true,
-              "write": false
+              "pinyin": "què",
+              "index": 35
             },
             {
               "char": "万",
-              "index": 36,
-              "read": false,
-              "write": true
+              "pinyin": "wàn",
+              "index": 36
             },
             {
               "char": "间",
-              "index": 37,
-              "read": false,
-              "write": false
+              "pinyin": "jiān",
+              "index": 37
             },
             {
               "char": "都",
-              "index": 38,
-              "read": false,
-              "write": false
+              "pinyin": "dōu",
+              "index": 38
             },
             {
               "char": "做",
-              "index": 39,
-              "read": false,
-              "write": false
+              "pinyin": "zuò",
+              "index": 39
             },
             {
               "char": "了",
-              "index": 40,
-              "read": false,
-              "write": true
+              "pinyin": "le",
+              "index": 40
             },
             {
               "char": "土",
-              "index": 41,
-              "read": false,
-              "write": false
+              "pinyin": "tǔ",
+              "index": 41
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             }
           ],
-          "translation": "伤心在秦汉王朝经过的地方，千万间宫殿都已化为尘土。",
-          "pinyin": "shāng xīn qín hàn jīng xíng chù ， gōng què wàn jiān dōu zuò le tǔ 。",
-          "notes": [
-            {
-              "start": 9,
-              "end": 10,
-              "content": "宫阙：帝王居住的宫殿，代指王朝都城建筑群。宫：帝王住所；阙：宫门前的楼台。"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "content": "万间：夸张手法，极言宫殿数量之多，反映秦汉时期都城的宏伟。"
-            },
-            {
-              "start": 14,
-              "end": 14,
-              "content": "做：变为、成为，古文中常用于表示转变结果，与现代‘做工作’等义不同。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 14,
-              "end": 14,
-              "old": "成为、变为"
-            },
-            {
-              "start": 14,
-              "end": 14,
-              "new": "制造、从事"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "遥望古都长安，我徘徊不定，思潮起伏。"
+        },
         {
           "content": [
             {
               "char": "兴",
-              "index": 43,
-              "read": false,
-              "write": false
+              "pinyin": "xīng",
+              "index": 43
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 44,
-              "read": true,
-              "write": false
+              "index": 44
             },
             {
               "char": "百",
-              "index": 45,
-              "read": false,
-              "write": false
+              "pinyin": "bǎi",
+              "index": 45
             },
             {
               "char": "姓",
-              "index": 46,
-              "read": false,
-              "write": false
+              "pinyin": "xìng",
+              "index": 46
             },
             {
               "char": "苦",
-              "index": 47,
-              "read": false,
-              "write": false
+              "pinyin": "kǔ",
+              "index": 47
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 48,
-              "read": false,
-              "write": false
-            },
+              "index": 48
+            }
+          ],
+          "translation": "令人伤心的是秦宫汉阙里那些走过的地方，万间宫殿早已化作了尘土。"
+        },
+        {
+          "content": [
             {
               "char": "亡",
-              "index": 49,
-              "read": false,
-              "write": false
+              "pinyin": "wáng",
+              "index": 49
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "百",
-              "index": 51,
-              "read": false,
-              "write": false
+              "pinyin": "bǎi",
+              "index": 51
             },
             {
               "char": "姓",
-              "index": 52,
-              "read": false,
-              "write": false
+              "pinyin": "xìng",
+              "index": 52
             },
             {
               "char": "苦",
-              "index": 53,
-              "read": false,
-              "write": false
+              "pinyin": "kǔ",
+              "index": 53
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             }
           ],
-          "translation": "兴盛时，百姓受苦；灭亡时，百姓受苦。",
-          "pinyin": "xīng ， bǎi xìng kǔ ； wáng ， bǎi xìng kǔ 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 1,
-              "content": "兴：国家兴起、兴盛，此处指朝代建立或繁荣时期。"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "content": "亡：国家灭亡、衰败，与‘兴’形成强烈对比。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 1,
-              "end": 11,
-              "content": "‘兴，百姓苦；亡，百姓苦’为判断句并列结构，主谓倒装，强调无论兴亡百姓皆苦，属对比式特殊句式。"
-            }
-          ]
+          "translation": "一朝兴盛，百姓受苦；"
         }
       ]
     }
@@ -508,5 +320,8 @@
     "元曲"
   ],
   "background": "张养浩为官清廉，爱民如子。天历二年（1329年），因关中旱灾，被任命为陕西行台中丞以赈灾民。他命驾西秦过程中，亲睹人民的深重灾难，散尽家财，尽心尽力去救灾。《山坡羊·潼关怀古》当作于“关中大旱”之际。",
-  "appreciation": "《山坡羊·潼关怀古》是一首散曲。此曲抚今追昔，由历代王朝的兴衰引到人民百姓的苦难，一针见血地点出了封建统治与人民的对立，表现了作者对历史的思索和对人民的深切同情。全曲采用层层深入的方式，由写景而怀古，再引发议论，将苍茫的景色、深沉的情感和精辞的议论三者完美结合，具有强烈的感染力，字里行间充满着历史的沧桑感和时代感，既有怀古诗的特色，又有与众不同的沉郁风格。"
+  "appreciation": "《山坡羊·潼关怀古》是一首散曲。此曲抚今追昔，由历代王朝的兴衰引到人民百姓的苦难，一针见血地点出了封建统治与人民的对立，表现了作者对历史的思索和对人民的深切同情。全曲采用层层深入的方式，由写景而怀古，再引发议论，将苍茫的景色、深沉的情感和精辞的议论三者完美结合，具有强烈的感染力，字里行间充满着历史的沧桑感和时代感，既有怀古诗的特色，又有与众不同的沉郁风格。",
+  "annotation": "山坡羊：曲牌名，是这首散曲的格式；“潼关怀古”是标题。峰峦如聚：形容群峰攒集，层峦叠嶂。聚：聚拢；包围波涛如怒：形容黄河波涛的汹涌澎湃。怒：指波涛汹涌。山河表里潼关路：潼关古道内接华山，外连黄河，形容潼关一带地势险要。表里：即内外。《左传·僖公二十八年》：“表里山河，必无害也。”注：“晋国外河而内山。”潼关：古关口名，在今陕西省潼关县，关城建在华山山腰，下临黄河，扼秦、晋、豫三省要冲，非常险要，为古代入陕门户，是历代的军事重地。西都：指长安（今陕西西安）。这是泛指秦汉以来在长安附近所建的都城。秦、西汉建都长安，东汉建都洛阳，因此称洛阳为东都，长安为西都。踌躇：犹豫、徘徊不定，心事重重，此处形容思潮起伏，感慨万端陷入沉思，表示心里不平静。一作“踟蹰（chíchú）”。伤心：令人伤心的是，形容词作动词。秦汉经行处：秦朝（前221年~前206年）都城咸阳和西汉（前208~8）的都城长安都在陕西省境内潼关的西面。经行处，经过的地方。指秦汉故都遗址。宫阙：宫，宫殿；阙，皇宫门前面两边的楼观。兴：指政权的统治稳固。",
+  "comprehensive_appreciation": "赏析：此曲是张养浩晚年的代表作，也是元散曲中思想性、艺术性完美结合的名作。在他的散曲集《云庄乐府》中，以“山坡羊”曲牌写下的怀古之作有七题九首，其中尤以《潼关怀古》韵味最为沉郁，色彩最为浓重。此曲抚今追昔，由历代王朝的兴衰引到人民百姓的苦难，一针见血地点出了封建统治与人民的对立，表现了作者对历史的思索和对人民的同情。全曲分三层：第一层（头三句），写潼关雄伟险要的形势。张养浩途经潼关，看到的是“峰峦如聚，波涛如怒”的景象。这层描写潼关壮景，生动形象。第一句写重重叠叠的峰峦，潼关在重重山峦包围之中，一“聚”字让读者眼前呈现出华山飞奔而来之势、群山攒立之状；因地势险要，为古来兵家必争之地。山本是静止的，“如聚”化静为动，一个“聚”字表现了峰峦的众多和动感。第二句写怒涛汹涌的黄河，潼关外黄河之水奔腾澎湃，一“怒”字让读者耳边回响千古不绝的滔滔水声。黄河水是无生命的，而“如怒”则赋予河水以人的情感和意志，一个“怒”字，写出了波涛的汹涌澎湃。“怒”字还把河水人格化，“怒”字注入了诗人吊古伤今而产生的满腔悲愤之情。为此景所动，第三句写潼关位于群山重重包围、黄河寒流其间那除隘之处。“山河表里潼关路”之感便油然而生，至此潼关之气势雄伟窥见一斑，如此险要之地，暗示潼关的险峻，乃为历代兵家必争之地，也由此引发了下文的感慨。第二层（四一七句）。“望西都”两句，描写了作者西望长安的无限感慨。长安，历史上赫赫有名的汉唐大帝国的国都，历代有多少励精图治的帝皇，曾在此施展过宏图，建树过功业；也曾有过多少无道的昏君，在此滥施淫威，虐杀人民，成为历史的罪人。长安，在这个特定的历史舞台上，演出过多少威武雄壮，悲欢离合的戏剧；又有多少诗人，作家，写过多少有关长安的诗文。特别是人民群众，曾在长安这块土地上流过多少血汗！这就是作者“意踟蹰”的原因和内容吧！“伤心秦汉”两句，描写了秦汉两代，都已成为历史的陈迹。秦皇汉武曾苦心营造的无数殿堂楼阁，万千水榭庭台，而今都已灰飞烟灭，化为尘土。曾经盛极一时的秦汉王朝，在人民的怒吼声中，都已灭亡，犹如“宫阙万间都做了土”一样。这字里行间寄予了作者多少感慨。第三层（末四句），总写作者沉痛的感慨：历史上无论哪一个朝代，它们兴盛也罢，败亡也罢，老百姓总是遭殃受苦。一个朝代兴起了，必定大兴土木，修建奢华的宫殿，从而给人民带来巨大的灾难；一个朝代灭亡了，在战争中遭殃的也是人民。他指出历代王朝的兴或亡，带给百姓的都是灾祸和苦难。这是作者从历代帝王的兴亡史中概括出来的一个结论。三层意思环环相扣，层层深入，思想越来越显豁，感情越来越强烈，浑然形成一体。全曲景中藏情情中有景，情景交融。“兴，百姓苦”两句，指出一个朝代的兴也好，亡也好，受苦的都是老百姓。作者从对历史的概括中提炼出的这一主题是极其鲜明而深刻的，提出的问题是十分重要而尖锐的。它表达了作者对人民的深切同情和对封建统治者的无比愤慨。这一结尾，确实是千锤百炼，一字千钧，语气尖刻而警拔，予以丰富而深沉，是对全曲的一个十分精辟的总结。《潼关怀古》中对历史的概括，显指元代现实生活：怀古实乃伤今，沉重实乃责任。这种复杂的感情要结合作家的生平经历才能理解。张养浩特殊的仕途经历，决定了他的怀古散曲中有一种参破功名富贵的思想，《骊山怀古》中写到“赢，都做了土；输，都做了土。” 《洛阳怀古》中写到“功，也不长；名，也不长。” 《北邙山怀古》中写到“便是君，也唤不应；便是臣，也唤不应。”这些曲中张养浩把胜负之数、功名之分、生死之际，看成了毫无差别的，只是借古人古事述说富贵无常、人生如梦。只有《潼关怀古》以难得的沉重，以深邃的目光，揭示了封建社会里一条颠扑不破的真理“兴，百姓苦；亡，百姓苦。”在写法上，作者采用的是层层深入的方式，由写景而怀古，再引发议论，将苍茫的景色、深沉的情感和精辞的议论三者完美结合，让这首小令有了强烈的感染力。字里行间中充满着历史的沧桑感和时代感，既有怀古诗的特色，又有与众不同的沉郁风格。从作品内容、作家其他怀古作品、同时期其他作家怀古作品三个层面上看，《山坡羊·潼关怀古》都表现为一份难得的沉重。",
+  "knowledge": ""
 }

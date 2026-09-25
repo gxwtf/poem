@@ -1,8 +1,8 @@
 {
   "name": "陈太丘与友期行",
   "author": "刘义庆",
-  "dynasty": "南朝宋",
-  "mode": "paragraph",
+  "dynasty": "南北朝",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,1146 +11,740 @@
             {
               "char": "陈",
               "pinyin": "chén",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "太",
               "pinyin": "tài",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "丘",
               "pinyin": "qiū",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "友",
               "pinyin": "yǒu",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "期",
               "pinyin": "qī",
-              "index": 5,
-              "read": true,
-              "write": true
+              "index": 5
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "期",
               "pinyin": "qī",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "陈寔与朋友约定同行，约定在正午时分。",
-          "pinyin": "chén tài qiū yǔ yǒu qī xíng ， qī rì zhōng 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 5,
-              "content": "期：约定，此处指相约同行。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "日中：正午，古代计时术语，指太阳当顶之时。"
-            }
-          ]
+          "translation": "陈太丘和朋友相朋同行，朋定的时间在正午，过了正午朋友还没有到，陈太丘不再等朋他而离开了，陈太丘离开后朋友才到。"
         },
         {
           "content": [
             {
               "char": "过",
               "pinyin": "guò",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "至",
               "pinyin": "zhì",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "太",
               "pinyin": "tài",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "丘",
               "pinyin": "qiū",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "舍",
               "pinyin": "shě",
-              "index": 19,
-              "read": true,
-              "write": true
+              "index": 19
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "乃",
               "pinyin": "nǎi",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "至",
               "pinyin": "zhì",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             }
           ],
-          "translation": "朋友过了正午未到，陈寔自行离去。离开后朋友才到。",
-          "pinyin": "guò zhōng bú zhì ， tài qiū shě qù ， qù hòu nǎi zhì 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "过：超过，表示时间已过中午。"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "content": "舍：舍弃，此处指陈太丘不再等待而离开。"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "content": "去：离开，古义与今义不同，此处强调离去动作。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "乃：才，表示时间上的延迟，朋友在他离开后才到。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 8,
-              "old": "离开"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "new": "前往"
-            }
-          ]
+          "translation": "元方当时年龄七岁，在门外玩耍。"
         },
         {
           "content": [
             {
               "char": "元",
               "pinyin": "yuán",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "方",
               "pinyin": "fāng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "七",
               "pinyin": "qī",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "岁",
               "pinyin": "suì",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "门",
               "pinyin": "mén",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "外",
               "pinyin": "wài",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "戏",
               "pinyin": "xì",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             }
           ],
-          "translation": "陈纪当时七岁，正在门外玩耍。",
-          "pinyin": "yuán fāng shí nián qī suì ， mén wài xì 。",
-          "notes": [
-            {
-              "start": 9,
-              "end": 9,
-              "content": "戏：玩耍，古文中常用于描述儿童活动。"
-            }
-          ]
+          "translation": "陈太丘的朋友却元方：“你的父亲在吗？”"
         },
         {
           "content": [
             {
               "char": "客",
               "pinyin": "kè",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "问",
               "pinyin": "wèn",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "元",
               "pinyin": "yuán",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "方",
               "pinyin": "fāng",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "尊",
               "pinyin": "zūn",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "不",
               "pinyin": "fǒu",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "”",
-              "index": 49,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 49
             }
           ],
-          "translation": "友人问：”令尊在吗？”",
-          "pinyin": "kè wèn yuán fāng ： ” zūn jūn zài fǒu ？”",
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "content": "尊君：对对方父亲的尊称，古代敬辞。"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "content": "不：同‘否’，疑问句末尾表示疑问语气，通假用法。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 10,
-              "end": 10,
-              "old": "同‘否’"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "new": "不、没有"
-            }
-          ]
+          "translation": "元方回答道：“我父亲等了您很久您却还没有到，已经离开了。”"
         },
         {
           "content": [
             {
               "char": "答",
               "pinyin": "dá",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "待",
               "pinyin": "dài",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "久",
               "pinyin": "jiǔ",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "至",
               "pinyin": "zhì",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "已",
               "pinyin": "yǐ",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "”",
-              "index": 63,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 63
             }
           ],
-          "translation": "陈纪答：”等候您许久未到，已经离开了。”",
-          "pinyin": "dá yuē ： ” dài jūn jiǔ bú zhì ， yǐ qù 。”",
-          "notes": [
-            {
-              "start": 4,
-              "end": 4,
-              "content": "待：等待，此处体现守信之意。"
-            }
-          ]
+          "translation": "友人便生气地说道：“真不是君子啊！"
         },
         {
           "content": [
             {
               "char": "友",
               "pinyin": "yǒu",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "便",
               "pinyin": "biàn",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "怒",
               "pinyin": "nù",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "曰",
-              "pinyin": "fēi",
-              "index": 68,
-              "read": false,
-              "write": false
+              "pinyin": "yuē",
+              "index": 68
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "非",
-              "pinyin": "rén",
-              "index": 71,
-              "read": false,
-              "write": false
+              "pinyin": "fēi",
+              "index": 71
             },
             {
               "char": "人",
-              "pinyin": "zāi",
-              "index": 72,
-              "read": false,
-              "write": false
+              "pinyin": "rén",
+              "index": 72
             },
             {
               "char": "哉",
-              "pinyin": "yǔ",
-              "index": 73,
-              "read": false,
-              "write": false
+              "pinyin": "zāi",
+              "index": 73
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 74,
-              "read": false,
-              "write": false
-            },
+              "index": 74
+            }
+          ],
+          "translation": "和别人相朋同行，却丢下别人先离开了。”"
+        },
+        {
+          "content": [
             {
               "char": "与",
-              "pinyin": "rén",
-              "index": 75,
-              "read": false,
-              "write": false
+              "pinyin": "yǔ",
+              "index": 75
             },
             {
               "char": "人",
-              "pinyin": "qī",
-              "index": 76,
-              "read": false,
-              "write": false
+              "pinyin": "rén",
+              "index": 76
             },
             {
               "char": "期",
-              "pinyin": "xíng",
-              "index": 77,
-              "read": false,
-              "write": false
+              "pinyin": "qī",
+              "index": 77
             },
             {
               "char": "行",
-              "pinyin": "xiāng",
-              "index": 78,
-              "read": false,
-              "write": false
+              "pinyin": "xíng",
+              "index": 78
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "相",
-              "pinyin": "wěi",
-              "index": 80,
-              "read": false,
-              "write": false
+              "pinyin": "xiāng",
+              "index": 80
             },
             {
               "char": "委",
-              "pinyin": "ér",
-              "index": 81,
-              "read": false,
-              "write": false
+              "pinyin": "wěi",
+              "index": 81
             },
             {
               "char": "而",
-              "pinyin": "qù",
-              "index": 82,
-              "read": false,
-              "write": false
+              "pinyin": "ér",
+              "index": 82
             },
             {
               "char": "去",
-              "pinyin": "yuán",
-              "index": 83,
-              "read": false,
-              "write": false
+              "pinyin": "qù",
+              "index": 83
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "”",
-              "index": 85,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 85
             }
           ],
-          "translation": "友人怒道：”真不是人啊！与人相约，却抛下别人走了。”",
-          "pinyin": "yǒu rén biàn nù yuē ： ” fēi rén zāi ！ yǔ rén qī xíng ， xiāng wěi ér qù 。”",
-          "notes": [
-            {
-              "start": 7,
-              "end": 9,
-              "content": "非人哉：不是人啊！‘哉’为感叹语气词，加强谴责语气。"
-            },
-            {
-              "start": 17,
-              "end": 17,
-              "content": "委：舍弃，抛弃，此处指背弃约定。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 6,
-              "end": 10,
-              "content": "‘非人哉！’为主谓倒装的感叹句，正常语序应为‘哉非人！’，用于强烈表达谴责。"
-            }
-          ]
+          "translation": "元方说：“您与我父亲朋在正午，正午您没到，就是不讲信用；"
         },
         {
           "content": [
             {
               "char": "元",
-              "pinyin": "fāng",
-              "index": 86,
-              "read": false,
-              "write": false
+              "pinyin": "yuán",
+              "index": 86
             },
             {
               "char": "方",
-              "pinyin": "yuē",
-              "index": 87,
-              "read": false,
-              "write": false
+              "pinyin": "fāng",
+              "index": 87
             },
             {
               "char": "曰",
-              "pinyin": "jūn",
-              "index": 88,
-              "read": false,
-              "write": false
+              "pinyin": "yuē",
+              "index": 88
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "君",
-              "pinyin": "yǔ",
-              "index": 91,
-              "read": false,
-              "write": false
+              "pinyin": "jūn",
+              "index": 91
             },
             {
               "char": "与",
-              "pinyin": "jiā",
-              "index": 92,
-              "read": false,
-              "write": false
+              "pinyin": "yǔ",
+              "index": 92
             },
             {
               "char": "家",
-              "pinyin": "jūn",
-              "index": 93,
-              "read": false,
-              "write": false
+              "pinyin": "jiā",
+              "index": 93
             },
             {
               "char": "君",
-              "pinyin": "qī",
-              "index": 94,
-              "read": false,
-              "write": false
+              "pinyin": "jūn",
+              "index": 94
             },
             {
               "char": "期",
-              "pinyin": "rì",
-              "index": 95,
-              "read": false,
-              "write": false
+              "pinyin": "qī",
+              "index": 95
             },
             {
               "char": "日",
-              "pinyin": "zhōng",
-              "index": 96,
-              "read": false,
-              "write": false
+              "pinyin": "rì",
+              "index": 96
             },
             {
               "char": "中",
-              "pinyin": "rì",
-              "index": 97,
-              "read": false,
-              "write": false
+              "pinyin": "zhōng",
+              "index": 97
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 98,
-              "read": false,
-              "write": false
-            },
+              "index": 98
+            }
+          ],
+          "translation": "对着孩子骂父亲，就是没有礼貌。”"
+        },
+        {
+          "content": [
             {
               "char": "日",
-              "pinyin": "zhōng",
-              "index": 99,
-              "read": false,
-              "write": false
+              "pinyin": "rì",
+              "index": 99
             },
             {
               "char": "中",
-              "pinyin": "bù",
-              "index": 100,
-              "read": false,
-              "write": false
+              "pinyin": "zhōng",
+              "index": 100
             },
             {
               "char": "不",
-              "pinyin": "zhì",
-              "index": 101,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 101
             },
             {
               "char": "至",
-              "pinyin": "zé",
-              "index": 102,
-              "read": false,
-              "write": false
+              "pinyin": "zhì",
+              "index": 102
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "则",
-              "pinyin": "shì",
-              "index": 104,
-              "read": false,
-              "write": false
+              "pinyin": "zé",
+              "index": 104
             },
             {
               "char": "是",
-              "pinyin": "wú",
-              "index": 105,
-              "read": false,
-              "write": false
+              "pinyin": "shì",
+              "index": 105
             },
             {
               "char": "无",
-              "pinyin": "xìn",
-              "index": 106,
-              "read": false,
-              "write": false
+              "pinyin": "wú",
+              "index": 106
             },
             {
               "char": "信",
-              "pinyin": "duì",
-              "index": 107,
-              "read": false,
-              "write": false
+              "pinyin": "xìn",
+              "index": 107
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 108,
-              "read": false,
-              "write": false
-            },
+              "index": 108
+            }
+          ],
+          "translation": "朋友感到惭愧，下了车想去拉元方的手，元方头也不回地走进家门。"
+        },
+        {
+          "content": [
             {
               "char": "对",
-              "pinyin": "zǐ",
-              "index": 109,
-              "read": false,
-              "write": false
+              "pinyin": "duì",
+              "index": 109
             },
             {
               "char": "子",
-              "pinyin": "mà",
-              "index": 110,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 110
             },
             {
               "char": "骂",
-              "pinyin": "fù",
-              "index": 111,
-              "read": false,
-              "write": false
+              "pinyin": "mà",
+              "index": 111
             },
             {
               "char": "父",
-              "pinyin": "zé",
-              "index": 112,
-              "read": false,
-              "write": false
+              "pinyin": "fù",
+              "index": 112
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "则",
-              "pinyin": "shì",
-              "index": 114,
-              "read": false,
-              "write": false
+              "pinyin": "zé",
+              "index": 114
             },
             {
               "char": "是",
-              "pinyin": "wú",
-              "index": 115,
-              "read": false,
-              "write": false
+              "pinyin": "shì",
+              "index": 115
             },
             {
               "char": "无",
-              "pinyin": "lǐ",
-              "index": 116,
-              "read": false,
-              "write": false
+              "pinyin": "wú",
+              "index": 116
             },
             {
               "char": "礼",
-              "pinyin": "yǒu",
-              "index": 117,
-              "read": false,
-              "write": false
+              "pinyin": "lǐ",
+              "index": 117
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "”",
-              "index": 119,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 119
             }
           ],
-          "translation": "陈纪说：”您与家父约定正午相见。正午不到是失信；当着孩子面骂父亲是失礼。”",
-          "pinyin": "yuán fāng yuē ： ” jūn yǔ jiā jūn qī rì zhōng 。 rì zhōng bú zhì ， zé shì wú xìn ； duì zǐ mà fù ， zé shì wú lǐ 。”",
-          "notes": [
-            {
-              "start": 20,
-              "end": 20,
-              "content": "信：信用，诚信，儒家五常之一，此处强调守时即守信。"
-            },
-            {
-              "start": 31,
-              "end": 31,
-              "content": "礼：礼貌，礼节，儒家强调待人接物应有礼。"
-            }
-          ]
+          "translation": ""
         },
         {
           "content": [
             {
               "char": "友",
-              "pinyin": "rén",
-              "index": 120,
-              "read": false,
-              "write": false
+              "pinyin": "yǒu",
+              "index": 120
             },
             {
               "char": "人",
-              "pinyin": "cán",
-              "index": 121,
-              "read": false,
-              "write": false
+              "pinyin": "rén",
+              "index": 121
             },
             {
               "char": "惭",
-              "pinyin": "xià",
-              "index": 122,
-              "read": false,
-              "write": false
+              "pinyin": "cán",
+              "index": 122
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 123,
-              "read": true,
-              "write": true
+              "index": 123
             },
             {
               "char": "下",
-              "pinyin": "chē",
-              "index": 124,
-              "read": false,
-              "write": false
+              "pinyin": "xià",
+              "index": 124
             },
             {
               "char": "车",
-              "pinyin": "yǐn",
-              "index": 125,
-              "read": false,
-              "write": false
+              "pinyin": "chē",
+              "index": 125
             },
             {
               "char": "引",
-              "pinyin": "zhī",
-              "index": 126,
-              "read": false,
-              "write": false
+              "pinyin": "yǐn",
+              "index": 126
             },
             {
               "char": "之",
-              "pinyin": "yuán",
-              "index": 127,
-              "read": true,
-              "write": true
+              "pinyin": "zhī",
+              "index": 127
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 128,
-              "read": false,
-              "write": false
+              "index": 128
             }
           ],
-          "translation": "友人惭愧下车想拉他。",
-          "pinyin": "yǒu rén cán ， xià chē yǐn zhī 。",
-          "notes": [
-            {
-              "start": 7,
-              "end": 7,
-              "content": "引：拉，牵拉，表示亲近或示好动作。"
-            }
-          ]
+          "translation": ""
         },
         {
           "content": [
             {
               "char": "元",
-              "pinyin": "fāng",
-              "index": 129,
-              "read": false,
-              "write": false
+              "pinyin": "yuán",
+              "index": 129
             },
             {
               "char": "方",
-              "pinyin": "rù",
-              "index": 130,
-              "read": false,
-              "write": false
+              "pinyin": "fāng",
+              "index": 130
             },
             {
               "char": "入",
-              "pinyin": "mén",
-              "index": 131,
-              "read": false,
-              "write": false
+              "pinyin": "rù",
+              "index": 131
             },
             {
               "char": "门",
-              "pinyin": "bù",
-              "index": 132,
-              "read": false,
-              "write": false
+              "pinyin": "mén",
+              "index": 132
             },
             {
               "char": "不",
-              "pinyin": "gù",
-              "index": 133,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 133
             },
             {
               "char": "顾",
-              "index": 134,
-              "read": true,
-              "write": true
+              "pinyin": "gù",
+              "index": 134
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 135,
-              "read": false,
-              "write": false
+              "index": 135
             }
           ],
-          "translation": "陈纪头也不回走进家门。",
-          "pinyin": "yuán fāng rù mén bú gù 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 5,
-              "content": "顾：回头看，古义强调动作，今义多为‘照顾’，此处体现不原谅。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 5,
-              "old": "回头看"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "照顾、顾及"
-            }
-          ]
+          "translation": ""
         }
       ]
     }
@@ -1161,5 +755,8 @@
     "笔记小说"
   ],
   "background": "《世说新语》是一部文言志人小说集，是魏晋轶事小说的集大成之作，主要记录了当时魏晋名士的逸闻轶事和玄言清谈，这篇《陈太丘与友期》即是当时名士之间交往言谈的记载。",
-  "appreciation": "《陈太丘与友期行》是一篇文言文，出自《世说新语》。此文章篇幅虽短，却叙述了一个完整的故事，其也是关于守信与不守信的一场辩论。文中记述了陈元方与来客对话时的场景，刻画了三个具有鲜明个性的人物，通过人物对话揭示了文章主题思想，告诫人们办事要讲诚信，为人要方正，同时赞扬了陈元方维护父亲尊严的责任感和无畏精神。全文细节微言、涵泳无穷，值得品读。"
+  "appreciation": "《陈太丘与友期行》是一篇文言文，出自《世说新语》。此文章篇幅虽短，却叙述了一个完整的故事，其也是关于守信与不守信的一场辩论。文中记述了陈元方与来客对话时的场景，刻画了三个具有鲜明个性的人物，通过人物对话揭示了文章主题思想，告诫人们办事要讲诚信，为人要方正，同时赞扬了陈元方维护父亲尊严的责任感和无畏精神。全文细节微言、涵泳无穷，值得品读。",
+  "annotation": "元方：即陈纪，字元方，陈寔的长子。陈太丘：陈寔（shí），字仲弓，东汉颍川许县（现在河南许昌）人，做过太丘县令。太丘：古地名。期行：相朋同行。期，朋定。期日中：朋定的时间是正午。日中，正午时分。过中：过了正午。舍去：丢下（他）而离开。舍，丢下。去，离开。乃至：（友人）才到。乃，才。戏：嬉戏。尊君在不(fǒu)：令尊在不在？尊君，对别人父亲的尊称。不，同“否”。君：对对方的一种尊称。家君：对人谦称自己的父亲。引：拉。信：诚信，讲信用。时年：当时的年龄。非：不是。相委而去：丢下我走了。相：表示动作偏指一方。委：丢下。已去：已经离开。曰：说。则：就是。顾：回头看。惭：感到惭愧。",
+  "comprehensive_appreciation": "赏析：《陈太丘与友期行》全不仅有103个关，却叙述了一个完整的故事（关于守信与不守信的一场辩人），刻画了三个有鲜明个性的人物，说明了为人处世，应该讲礼守信的道理。如此有限的不关，却包含了这样丰富的内容，真可谓言简意赅了。如果不是在语言的精炼上造诣高深，要做到这一点是很难的。《陈太丘与友期行》的精炼语言，体现在不章的始终。一开头，不章以“期行”、“期日中”、“不至”、“舍去” 、“乃至” 等几个关键词语，把事情、时间、起因交代得清清楚楚，而且，在这些交代中，还把两个不同的人物形象（一个守信，一个不守信）一下子推到了读者面前。不章的结尾，虽只寥寥数语，但却关关生辉。“惭”、“下\"、“引”三个动词，把友人知错欲改的心态及行为刻画得入木三分。对元方鄙弃“无信”的那股倔强劲儿，也用“入门，不顾”四个关，描绘得维妙维肖。就在最能体现不章中心思想的第二层 （子斥友人）中，尽管作者用了比开头和结尾要多得多的笔墨，但不关仍然十分精炼。单就叙述的句子来说，在叙述友人问元方时，由“问”到“怒”，感情急剧变化，充分表现了友人那粗鲁无礼的性格。而在叙述元方批驳友人的怒斥时，则选用语气平和的“答曰”、“曰”这类词，这对表现元方不惧怕友人的怒斥、知书达理、善于应对的性格，起到了绝好的作用。《陈太丘与友期行》的主题思想，主要是通过人物的对话来揭示的。这些人物对话，虽然只有三言两语，但句句都紧扣不章中心，紧扣人物性格，具有鲜明的个性特征。不章写友人与元方的对话有三句。第一句“尊君在不？”开门见山，问得直截了久，毫无谦恭之意，初露性格的鲁莽。第二句“非人哉！”出言不逊，久着儿子骂父亲，这是不讲礼仪的行为，再露性格的粗鲁。第三句“与人期行，相委而去！”看似有理，实则无理。不自责自己失约误期的错误，反而委过于人，怒斥对方如约而行的正确做法，这就更加暴露出友人不讲道理的性格特征。不章写元方与友人的对话也有三句。第一句“待君久，不至，已去。”这是针对友人的问话而答的。元方不是正面回答友人提出的问题，在，还是不在。而是先说“等君久”“不至”，再说“已去”，把父亲的 “去”与“等君久”和友人的“不至”联系起来。这样的回答，不仅把父亲为什么走说清楚了，为后面批驳友人的怒斥作了准备，而且话中有话，流露出对友人失约的反感。第二、三两句是对友人无理怒斥的反驳。第二句“君与家君期日中，日中不至，则是无信。”这是针对友人强调“期行”而说的。守信还是失信，关键在于“期日中”，“日中不至”，久然就是失信了。抓住实质，击中要害，使友人失去辫驳的根据。第三句“对子骂父，则是无礼。”这是针对友人出言不逊而说的。在指出友人“无信”的基础上，又指出友人“无礼”。一步紧逼一步，把友人逼到了无以言对的狼狈境地，以至最后不得不“惭”而“下车引之”。由于这些对话具有鲜明的个性特征，因此，虽然只有短短几句，也可以看出元方—陈太丘性格的折光，是多么聪颖仁慧、知书达理。《陈太丘与友期行》一不细节微言、涵泳无穷。“陈太丘与友期行，期日中，过中不至，太丘舍去，去后乃至。”尺寸之间起波澜，与下不问答中“待君久不至，已去”“君与家君期日中，日中不至 ”呼应。友人“问”“便怒”“惭”“下车引之”，一波三折。其间，先称 “尊君”，骤然口不择言 “非人哉”，人物情态，栩栩如生。元方“门外戏”、一答一日、“入门不顾”，应对自如，宛若成人，表现出鲜明个性与独立人格。不人是情节上的起伏变化，还是人物情态上的自然生动，乃至不关之下隐藏着的本真性情、坦率品质，都值得我们琢磨品味。",
+  "knowledge": "### 通假字\n不：通“否”，句末语气词，表询问。\n\n### 古今异义\n\n1. 去古：离开；今：到什么地方去。\n2. 委古：丢下、舍弃；今：委屈、委托。\n3. 顾古：回头看\n；今：照顾。\n\n### 一词多义\n\n1. 顾：元方入门不顾（回头看）顾野有麦场（看）\n2. 信则是无信（讲信用）与朋友交而不信乎（真诚、诚实）\n\n### 重点词语重点词语\n1. 期行：相约同行。期，约定。\n2. 期日中，日中，正午时分。\n3. 舍去：不再等候就走了。舍，放弃。去，离开。\n4. 乃至：（友人）才到。乃，才。\n5. 戏：玩耍。\n6. 尊君在不\n尊君，对别人父亲的尊称。不，通“否”，句末语气词。表询问。\n7. 非人哉：简直不是人啊。哉：语气词，表示感叹。\n8. 委，丢下、舍弃。去，离开。\n9. 家君：谦词，对人称自己的父亲。\n10. 引：拉，这里有友好的意思。\n11. 顾：回头看。"
 }

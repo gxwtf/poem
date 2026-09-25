@@ -50,33 +50,21 @@
             },
             {
               "char": "旨",
-              "pinyin": "zhǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "旨：味美，甘美。此处形容食物味道好，引申为学问的精妙。"
-                }
-              ]
+              "pinyin": "zhǐ"
             },
             {
               "char": "也",
               "pinyin": "yě"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "即使有美味的菜肴，不吃，就不知道它的味美。"
+            "translation": "虽然有美味可口的菜肴，然吃，就然知道它味道甘美；"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "嘉肴：美味的菜肴。嘉，美好；肴，荤菜，泛指美味食物。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -138,15 +126,9 @@
             }
           ],
           "translation": {
-            "translation": "即使有最好的道理，不学，就不知道它的好处。"
+            "translation": "虽然有最好的道理，但然学习，就然知道它的好处。"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "至道：最高深的道理，此处指最好的学问或道理。至，极、最。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -208,25 +190,13 @@
             },
             {
               "char": "。",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "困：困惑，理解不通。指学习中遇到的疑难。"
-                }
-              ]
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "所以学习之后才知道自己的不足，教人之后才知道自己的困惑。"
+            "translation": "所以学习以后知道自己的然足之处，把知识或技能传授给他人以后省能知道哪里有困惑。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "是故：因此，所以。文言中常用因果连词。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -271,20 +241,14 @@
               "pinyin": "yě"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "知道不足，这样以后才能自我反省。"
+            "translation": "知道自己然足之处，这样省能够反省自己；"
           },
-          "notes": [
-            {
-              "start": 8,
-              "end": 9,
-              "note": "自反：自我反省。反，通‘返’，反省自身。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -330,15 +294,9 @@
             }
           ],
           "translation": {
-            "translation": "知道困惑，这样以后才能自我勉励。"
+            "translation": "知道自己困惑的地方，这样省能自我勉励。"
           },
-          "notes": [
-            {
-              "start": 7,
-              "end": 8,
-              "note": "自强：自我勉励。强，读qiǎng，勉力、努力之意。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -380,15 +338,9 @@
             }
           ],
           "translation": {
-            "translation": "所以说：教与学是互相推动的。"
+            "translation": "所以说教与学是互相促进的。"
           },
-          "notes": [
-            {
-              "start": 3,
-              "end": 7,
-              "note": "教学相长：教与学互相促进。长，增长、促进。此为成语出处。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -413,11 +365,11 @@
               "pinyin": "yuē"
             },
             {
-              "char": "：",
+              "char": "“",
               "pinyin": "　"
             },
             {
-              "char": "\"",
+              "char": "学",
               "pinyin": "xiào"
             },
             {
@@ -425,16 +377,12 @@
               "pinyin": "xué"
             },
             {
-              "char": "学",
+              "char": "半",
               "pinyin": "bàn"
             },
             {
-              "char": "半",
-              "pinyin": "qí"
-            },
-            {
-              "char": "\"",
-              "pinyin": "cǐ"
+              "char": "”",
+              "pinyin": "　"
             },
             {
               "char": "，",
@@ -442,21 +390,23 @@
             },
             {
               "char": "其",
-              "pinyin": "zhī"
+              "pinyin": "qí"
             },
             {
               "char": "此",
-              "pinyin": "wèi"
+              "pinyin": "cǐ"
             },
             {
               "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "乎",
               "pinyin": "hū"
-            },
-            {
-              "char": "谓"
-            },
-            {
-              "char": "乎"
             },
             {
               "char": "！",
@@ -464,28 +414,12 @@
             }
           ],
           "translation": {
-            "translation": "《尚书·兑命》说：\"教别人，占自己学习的一半\"，大概说的就是这个道理吧！"
+            "translation": "教别人，也能增长自己的学问。"
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 3,
-              "note": "《兑命》：《尚书》中的一篇，‘兑’通‘说’，即《说命》，记载商王武丁与其贤臣傅说的对话。"
-            },
-            {
-              "start": 7,
-              "end": 10,
-              "note": "学学半：第一个‘学’读xiào，通‘敩’，意为教导；第二个‘学’为学习。意为‘教别人是自己学习的一半’，强调教的重要性。"
-            },
-            {
-              "start": 13,
-              "end": 17,
-              "note": "其此之谓乎：大概说的就是这个吧。‘其……之谓也’为固定结构，‘之’提宾，‘谓’后接‘此’。"
-            }
-          ]
+          "notes": []
         }
       ]
     }
   ],
-  "mode": "paragraph"
+  "mode": "poem"
 }

@@ -1,7 +1,7 @@
 {
   "name": "沁园春·长沙",
   "author": "毛泽东",
-  "dynasty": "现代",
+  "dynasty": "近现代",
   "mode": "paragraph",
   "paragraphs": [
     {
@@ -11,111 +11,80 @@
             {
               "char": "独",
               "pinyin": "dú",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "立",
               "pinyin": "lì",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "寒",
               "pinyin": "hán",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "湘",
               "pinyin": "xiāng",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "江",
               "pinyin": "jiāng",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "北",
               "pinyin": "běi",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "橘",
               "pinyin": "jú",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "子",
               "pinyin": "zi",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "洲",
               "pinyin": "zhōu",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "头",
               "pinyin": "tóu",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             }
           ],
-          "translation": "在深秋一个秋高气爽的日子里，眺望着湘江碧水缓缓北流。我独自伫立在橘子洲头。",
-          "pinyin": "dú lì hán qiū ， xiāng jiāng běi qù ， jú zǐ zhōu tóu 。",
+          "translation": "深秋季节，我独自站立在橘子洲头，望着滔滔湘水向北奔流。",
           "notes": [
             {
               "start": 10,
@@ -129,100 +98,65 @@
             {
               "char": "看",
               "pinyin": "kàn",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "红",
               "pinyin": "hóng",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "遍",
               "pinyin": "biàn",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "层",
               "pinyin": "céng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "林",
               "pinyin": "lín",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "尽",
               "pinyin": "jìn",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "染",
               "pinyin": "rǎn",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             }
           ],
-          "translation": "看万千山峰全都变成了红色，一层层树林好像染过颜色一样；",
-          "pinyin": "kàn wàn shān hóng biàn ， céng lín jìn rǎn ；",
+          "translation": "万千山峰全都变成了红色，山上一层层的树林经霜打变红，像染过一样；",
           "notes": [
             {
               "start": 6,
               "end": 9,
               "content": "山上一层层的树林全都经霜变红，像染过一样。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 5,
-              "old": "全，都"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "完毕"
             }
           ]
         },
@@ -231,76 +165,55 @@
             {
               "char": "漫",
               "pinyin": "màn",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "江",
               "pinyin": "jiāng",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "碧",
               "pinyin": "bì",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "透",
               "pinyin": "tòu",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "百",
               "pinyin": "bǎi",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "舸",
               "pinyin": "gě",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "争",
               "pinyin": "zhēng",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "流",
               "pinyin": "liú",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
           "translation": "江水清澈澄碧，一艘艘大船乘风破浪，争先恐后。",
-          "pinyin": "màn jiāng bì tòu ， bǎi gě zhēng liú 。",
           "notes": [
             {
               "start": 0,
@@ -319,132 +232,95 @@
             {
               "char": "鹰",
               "pinyin": "yīng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "击",
               "pinyin": "jī",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "长",
               "pinyin": "cháng",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "空",
               "pinyin": "kōng",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "鱼",
               "pinyin": "yú",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "翔",
               "pinyin": "xiáng",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "浅",
               "pinyin": "qiǎn",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "底",
               "pinyin": "dǐ",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "类",
               "pinyin": "lèi",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "霜",
               "pinyin": "shuāng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "竞",
               "pinyin": "jìng",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "由",
               "pinyin": "yóu",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             }
           ],
-          "translation": "广阔的天空里鹰在矫健有力地飞，鱼在清澈的水里轻快地游着，万物都在秋光中争着过自由自在的生活。",
-          "pinyin": "yīng jī cháng kōng ， yú xiáng qiǎn dǐ ， wàn lèi shuāng tiān jìng zì yóu 。",
+          "translation": "鹰在广阔的天空里飞，鱼在清澈的水里轻快畅游，万物都在深秋中争着过自由自在的生活。",
           "notes": [
             {
               "start": 0,
@@ -456,18 +332,6 @@
               "end": 16,
               "content": "万物都在深秋竞相自由地活动。霜天，深秋天气。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 7,
-              "old": "飞翔（此处形容鱼游得轻快）"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "盘旋地飞"
-            }
           ]
         },
         {
@@ -475,111 +339,80 @@
             {
               "char": "怅",
               "pinyin": "chàng",
-              "index": 54,
-              "read": true,
-              "write": true
+              "index": 54
             },
             {
               "char": "寥",
               "pinyin": "liáo",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "廓",
               "pinyin": "kuò",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 57,
-              "read": true,
-              "write": true
+              "index": 57
             },
             {
               "char": "问",
               "pinyin": "wèn",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "苍",
               "pinyin": "cāng",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "茫",
               "pinyin": "máng",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "大",
               "pinyin": "dà",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "地",
               "pinyin": "dì",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "谁",
               "pinyin": "shuí",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "主",
               "pinyin": "zhǔ",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "沉",
               "pinyin": "chén",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "浮",
               "pinyin": "fú",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             }
           ],
-          "translation": "面对着无边无际的宇宙，（千万种思绪一齐涌上心头）我要问：这苍茫大地的盛衰兴废，由谁来决定主宰呢？",
-          "pinyin": "chàng liáo kuò ， wèn cāng máng dà dì ， shuí zhǔ chén fú ？",
+          "translation": "面对广阔的宇宙惆怅感慨：这旷远苍茫大地的兴衰沉浮，该由谁来主宰呢？",
           "notes": [
             {
               "start": 0,
@@ -606,13 +439,6 @@
               "end": 13,
               "content": "这里指盛衰。"
             }
-          ],
-          "special_sentences": [
-            {
-              "start": 4,
-              "end": 14,
-              "content": "疑问句‘问苍茫大地，谁主沉浮？’"
-            }
           ]
         }
       ]
@@ -624,55 +450,40 @@
             {
               "char": "携",
               "pinyin": "xié",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "百",
               "pinyin": "bǎi",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "侣",
               "pinyin": "lǚ",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "曾",
               "pinyin": "céng",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "游",
               "pinyin": "yóu",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             }
           ],
-          "translation": "回想过去，我和我的同学，经常携手结伴来到这里游玩。在一起商讨国家大事，那无数不平凡的岁月至今还萦绕在我的心头。",
-          "pinyin": "xié lái bǎi lǚ céng yóu 。",
+          "translation": "曾经我和我的同学，经常携手结伴来到这里漫游。",
           "notes": [
             {
               "start": 2,
@@ -686,69 +497,50 @@
             {
               "char": "忆",
               "pinyin": "yì",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "往",
               "pinyin": "wǎng",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "昔",
               "pinyin": "xī",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "峥",
               "pinyin": "zhēng",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "嵘",
               "pinyin": "róng",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "岁",
               "pinyin": "suì",
-              "index": 81,
-              "read": true,
-              "write": true
+              "index": 81
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "稠",
               "pinyin": "chóu",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             }
           ],
-          "translation": "",
-          "pinyin": "yì wǎng xī zhēng róng suì yuè chóu 。",
+          "translation": "回忆过往，那不寻常的日子很多。",
           "notes": [
             {
               "start": 3,
@@ -762,83 +554,60 @@
             {
               "char": "恰",
               "pinyin": "qià",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "同",
               "pinyin": "tóng",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "学",
               "pinyin": "xué",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "少",
               "pinyin": "shào",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "华",
               "pinyin": "huá",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "正",
               "pinyin": "zhèng",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "茂",
               "pinyin": "mào",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             }
           ],
-          "translation": "同学们正值青春年少，风华正茂；",
-          "pinyin": "qià tóng xué shào nián ， fēng huá zhèng mào ；",
+          "translation": "同学们恰逢青春年少，风采才华正盛的时期；",
           "notes": [
             {
               "start": 6,
@@ -852,76 +621,55 @@
             {
               "char": "书",
               "pinyin": "shū",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "意",
               "pinyin": "yì",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "气",
               "pinyin": "qì",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "挥",
               "pinyin": "huī",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "斥",
               "pinyin": "chì",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "方",
               "pinyin": "fāng",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "遒",
               "pinyin": "qiú",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 105,
-              "read": true,
-              "write": true
+              "index": 105
             }
           ],
-          "translation": "大家踌躇满志，意气奔放，正强劲有力。",
-          "pinyin": "shū shēng yì qì ， huī chì fāng qiú 。",
+          "translation": "大家踌躇满志，意气奔放，劲头正足。",
           "notes": [
             {
               "start": 0,
@@ -935,132 +683,95 @@
             {
               "char": "指",
               "pinyin": "zhǐ",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "点",
               "pinyin": "diǎn",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "江",
               "pinyin": "jiāng",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "激",
               "pinyin": "jī",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "扬",
               "pinyin": "yáng",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "文",
               "pinyin": "wén",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "字",
               "pinyin": "zì",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 115
             },
             {
               "char": "粪",
               "pinyin": "fèn",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 116
             },
             {
               "char": "土",
               "pinyin": "tǔ",
-              "index": 117,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "当",
               "pinyin": "dāng",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 119
             },
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 120,
-              "read": false,
-              "write": false
+              "index": 120
             },
             {
               "char": "户",
               "pinyin": "hù",
-              "index": 121,
-              "read": false,
-              "write": false
+              "index": 121
             },
             {
               "char": "侯",
               "pinyin": "hòu",
-              "index": 122,
-              "read": false,
-              "write": false
+              "index": 122
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 123,
-              "read": false,
-              "write": false
+              "index": 123
             }
           ],
-          "translation": "评论国家大事，写出这些激浊扬清的文章，把当时那些军阀官僚看得如同粪土。",
-          "pinyin": "zhǐ diǎn jiāng shān ， jī yáng wén zì ， fèn tǔ dāng nián wàn hù hóu 。",
+          "translation": "评论国家大事，写出激浊扬清的文章，把当时的军阀官僚看得同粪土一样。",
           "notes": [
             {
               "start": 0,
@@ -1072,25 +783,6 @@
               "end": 16,
               "content": "意思是把当时的军阀官僚看得同粪土一样。粪土，视……如粪土，表鄙视。万户侯，本指食邑万户的封侯者，这里借指大军阀、大官僚。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 11,
-              "end": 12,
-              "old": "粪便和泥土（名词作意动，视为粪土）"
-            },
-            {
-              "start": 11,
-              "end": 12,
-              "new": "粪便"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 10,
-              "end": 17,
-              "content": "意动用法‘粪土当年万户侯’，把……当作粪土"
-            }
           ]
         },
         {
@@ -1098,111 +790,80 @@
             {
               "char": "曾",
               "pinyin": "céng",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 124
             },
             {
               "char": "记",
               "pinyin": "jì",
-              "index": 125,
-              "read": false,
-              "write": false
+              "index": 125
             },
             {
               "char": "否",
               "pinyin": "fǒu",
-              "index": 126,
-              "read": false,
-              "write": false
+              "index": 126
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 127
             },
             {
               "char": "到",
               "pinyin": "dào",
-              "index": 128,
-              "read": false,
-              "write": false
+              "index": 128
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 129,
-              "read": false,
-              "write": false
+              "index": 129
             },
             {
               "char": "流",
               "pinyin": "liú",
-              "index": 130,
-              "read": false,
-              "write": false
+              "index": 130
             },
             {
               "char": "击",
               "pinyin": "jī",
-              "index": 131,
-              "read": false,
-              "write": false
+              "index": 131
             },
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 132,
-              "read": false,
-              "write": false
+              "index": 132
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 133,
-              "read": false,
-              "write": false
+              "index": 133
             },
             {
               "char": "浪",
               "pinyin": "làng",
-              "index": 134,
-              "read": false,
-              "write": false
+              "index": 134
             },
             {
               "char": "遏",
               "pinyin": "è",
-              "index": 135,
-              "read": false,
-              "write": false
+              "index": 135
             },
             {
               "char": "飞",
               "pinyin": "fēi",
-              "index": 136,
-              "read": true,
-              "write": true
+              "index": 136
             },
             {
               "char": "舟",
               "pinyin": "zhōu",
-              "index": 137,
-              "read": false,
-              "write": false
+              "index": 137
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 138,
-              "read": false,
-              "write": false
+              "index": 138
             }
           ],
-          "translation": "可曾记得，那时我们在江水深急的地方游泳，那激起的浪花几乎挡住了疾驰而来的船?",
-          "pinyin": "céng jì fǒu ， dào zhōng liú jī shuǐ ， làng è fēi zhōu ？",
+          "translation": "可曾还记得，那时的我们到江心水深流急的地方游泳，激起的浪几乎阻挡了飞速行驶的船只。",
           "notes": [
             {
               "start": 5,
@@ -1219,25 +880,6 @@
               "end": 11,
               "content": "阻止。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 8,
-              "old": "拍打（水）"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "new": "攻打"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 4,
-              "end": 14,
-              "content": "省略句‘到中流击水，（浪）遏飞舟’，省略主语‘浪’"
-            }
           ]
         }
       ]
@@ -1248,5 +890,8 @@
     "词"
   ],
   "background": "《沁园春·长沙》是毛泽东1925年晚秋所作。当时毛泽东离开故乡韶山，去广州主持农民运动讲习，途经长沙，重游了橘子洲。作者面对湘江上美丽动人的自然秋景，联想起当时的革命形势，写下了这首词。",
-  "appreciation": "这首词情调激越，意蕴丰富。词人通过对长沙秋景的生动描绘和对青年时代革命斗争生活的深情回忆，抒写出革命青年对国家命运的深刻关切与感慨和以天下为己任、蔑视反动统治者、改造旧中国的豪情壮志。上阕以描绘秋景为主，展现了一幅多姿多彩、生机勃勃的湘江寒秋图，借秋景以抒发革命激情；下阕侧重抒情，词人回忆往昔峥嵘岁月，抒写昂扬意气和豪迈激情。全词风格豪放，用典贴切，景物壮丽，在片语之间，融情入理、情景交融，显露出词人深沉的情感和对未来的坚定信念。"
+  "appreciation": "这首词情调激越，意蕴丰富。词人通过对长沙秋景的生动描绘和对青年时代革命斗争生活的深情回忆，抒写出革命青年对国家命运的深刻关切与感慨和以天下为己任、蔑视反动统治者、改造旧中国的豪情壮志。上阕以描绘秋景为主，展现了一幅多姿多彩、生机勃勃的湘江寒秋图，借秋景以抒发革命激情；下阕侧重抒情，词人回忆往昔峥嵘岁月，抒写昂扬意气和豪迈激情。全词风格豪放，用典贴切，景物壮丽，在片语之间，融情入理、情景交融，显露出词人深沉的情感和对未来的坚定信念。",
+  "annotation": "沁园春：词牌名，又名“东仙”“寿星明”“洞庭春色”等。以苏轼词《沁园春·孤馆灯青》为正体，双调一百十四字，前段十三句四平韵，后段十二句五平韵。另有双调一百十六字，前段十三句四平韵，后段十三句六平韵；双调一百十二字，前段十三句四平韵，后段十二句五平韵等变体。寒秋：就是深秋、晚秋。秋深已有寒意，所以说是寒秋。湘（xiāng）江：一名湘水，湖南省最大的河流，源出广西壮族自治区灵川县南的海洋山，长1752里，向东北流贯湖南省东部，经过长沙，北入洞庭湖。所以说是湘江北去。橘子洲：地名，又名水陆洲，是长沙城西湘江中一个狭长小岛，西面靠近岳麓山。南北长约11里，东西最宽处约一里。毛泽东七律《答友人》中所谓长岛，指此。自唐代以来，就是游览胜地。万山：指湘江西岸岳麓山和附近许多山峰。层林尽染：山上一层层的树林经霜打变红，像染过一样。漫江：满江。漫：满，遍。舸（gě）：大船。这里泛指船只。争流：争着行驶。鹰击长空，鱼翔浅底：鹰在广阔的天空里飞，鱼在清澈的水里游。击，搏击。这里形容飞得矫健有力。翔，本指鸟盘旋飞翔，这里形容鱼游得轻快自由。万类：指一切生物。霜天：指深秋。万类霜天竞自由：万物都在秋光中竞相自由地生活。怅寥廓(chàngliáokuò）：面对广阔的宇宙惆怅感慨。怅：原意是失意，这里用来表达由深思而引发激昂慷慨的心绪。寥廓（liáokuò）：广远空阔，这里用来描写宇宙之大。苍茫：旷远迷茫。主：主宰。沉浮：同“升沉”（上升和没落）意思相近，比喻事物盛衰、消长，这里指兴衰。由上文的俯看游鱼，仰看飞鹰，纳闷地寻思（“怅”）究竟是谁主宰着世间万物的升沉起伏。百侣：很多的伴侣。侣，这里指同学（也指战友)。峥嵘(zhēngróng）岁月稠：不寻常的日子很多。峥嵘：山势高峻，这里是不平凡，不寻常的意思。稠：多。恰：适逢，正赶上。恰同学少年：毛泽东于1913年至1918年就读于湖南第一师范学校。1918年毛泽东和萧瑜、蔡和森等组织新民学会，开始了他早期的政治活动。风华正茂：风采才华正盛。书生：读书人，这里指青年学生。意气：意志和气概。挥斥方遒（qiú）：挥斥，奔放。《庄子·田子方》：“挥斥八极”。郭象注：“挥斥，犹纵放也。”遒，强劲有力。方：正。挥斥方遒，是说热情奔放，劲头正足。指点江山，激扬文字：评论国家大事，用文字来抨击丑恶的现象，赞扬美好的事物。写出激浊扬清的文章。指点，评论。江山，指国家。激扬，激浊扬清，抨击恶浊的，褒扬善良的。粪土当年万户侯：把当时的军阀官僚看得同粪土一样。粪土，作动词用，视……如粪土。万户侯，汉代设置的最高一级侯爵，享有万户农民的赋税。此借指大军阀，大官僚。万户，指侯爵封地内的户口，要向受封者缴纳租税，服劳役。中流：江心水深流急的地方。击水：作者自注：“击水：游泳。那时初学，盛夏水涨，几死者数，一群人终于坚持，直到隆冬，犹在江中。当时有一篇诗，都忘记了，只记得两句：自信人生二百年，会当水击三千里。”这里引用祖逖（tì）的“中流击楫”典故。（祖逖因为国家政权倾覆，时刻怀着振兴光复的心志。元帝就让他担任奋威将军、豫州刺史，供给他一千人的军粮，三千匹布，但不给战衣和兵器，让他自行招募士众。祖逖仍就率领随自己流亡的部属一百多家，渡过长江，到江心时他扣击船桨发誓说：“我祖逖不能平定中原并再次渡江回来的话，就像长江的水一去不返！”言辞激昂神色悲壮，众人都为他的誓言感慨赞叹。）这里指游泳。遏（è）：阻止。",
+  "comprehensive_appreciation": "赏析：该词通过对长沙秋景的描绘和对青年时代革命斗争生活的回忆，抒写出革命青年对国家命运的感慨和以天下为己任，蔑视反动统治者，改造旧中国的豪情壮志。全词在片语之间，融情入理，情景交融。上阕描绘了一幅多姿多彩、生机勃勃的湘江寒秋图，并即景抒情，提出了苍茫大地应该由谁来主宰的问题。“看万山红遍，层林尽染”，一个“看”字，总领七句，描绘了独立橘子洲头所见到的一幅色彩绚丽的秋景图。既是四周枫林如火的写照，又寄寓着词人火热的革命情怀。红色象征革命，象征烈火，象征光明，“万山红遍”正是词人“星火燎原”思想的形象化表现，是对革命与祖国前途的乐观主义的憧憬。“鹰击长空，鱼翔浅底，万类霜天竞自由。”则是词人对自由解放的向往与追求。词人从山上、江面、天空、水底选择了几种典型景物进行描写，远近相间，动静结合，对照鲜明。这七句，为下面的抒情提供了背景，烘托了气氛。“怅寥廓，问苍茫大地。谁主沉浮？”的感叹，这一问道出了词人的雄心壮志，表现了他的博大胸怀，由写景直接转入抒怀，自然带出下半阕的抒情乐章。下半阕着重抒情，但也不乏情中含景之处。“忆往昔峥嵘岁月稠”，以峥嵘形容岁月，新颖、形象，自然地引起对往昔生活的回忆，将无形的不平凡岁月，化为一座座有形的峥嵘山峰，给人以巍峨奇丽的崇高美。“恰同学少年，风华正茂”一个“恰”字，统领七句，形象地概括了早期革命者雄姿英发的战斗风貌和豪迈气概。“中流击水，浪遏飞舟”，也是一幅奋勇进击、劈波斩浪的宏伟画面。可以说，这首词的崇高美，是以情为经线，景为纬线，交织而成的。全词通过对长沙秋景的描绘和对青年时代革命斗争生活的回忆，提出了“谁主沉浮”的问题，表现了词人和战友们为了改造旧中国英勇无畏的革命精神和壮志豪情。",
+  "knowledge": ""
 }

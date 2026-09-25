@@ -11,1832 +11,998 @@
             {
               "char": "世",
               "pinyin": "shì",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "伯",
               "pinyin": "bó",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "乐",
               "pinyin": "lè",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "马",
               "pinyin": "mǎ",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "世上有了伯乐，然后才会有千里马。",
-          "pinyin": "shì yǒu bó lè ， rán hòu yǒu qiān lǐ mǎ 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "伯乐：相传为春秋时期善于相马的人，后泛指善于发现人才的人。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "伯乐：古代善于识别千里马的人，比喻善于发现人才的人。"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "content": "千里马：能日行千里的骏马，比喻有才能的人。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "伯乐：古代善于识别千里马的人，后比喻善于发现人才的人。"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "content": "千里马：能日行千里的骏马，比喻有才能的人。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "伯乐：相传为春秋时期善于相马的人，后泛指善于发现人才的人。"
-            }
-          ]
+          "translation": "世上先有伯乐，然后有千不马。"
         },
         {
           "content": [
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "马",
               "pinyin": "mǎ",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "常",
               "pinyin": "cháng",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "伯",
               "pinyin": "bó",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "乐",
               "pinyin": "lè",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "常",
               "pinyin": "cháng",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             }
           ],
-          "translation": "千里马经常有，可是伯乐却不经常有。",
-          "pinyin": "qiān lǐ mǎ cháng yǒu ， ér bó lè bù cháng yǒu 。"
+          "translation": "千不马经常有，但是伯乐不常有。"
         },
         {
           "content": [
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "虽",
               "pinyin": "suī",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "名",
               "pinyin": "míng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "马",
               "pinyin": "mǎ",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "祗",
               "pinyin": "zhǐ",
-              "index": 31,
-              "read": true,
-              "write": true
+              "index": 31
             },
             {
               "char": "辱",
               "pinyin": "rǔ",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "奴",
               "pinyin": "nú",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "隶",
               "pinyin": "lì",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "手",
               "pinyin": "shǒu",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "骈",
               "pinyin": "pián",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "死",
               "pinyin": "sǐ",
-              "index": 41,
-              "read": true,
-              "write": true
+              "index": 41
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "槽",
               "pinyin": "cáo",
-              "index": 43,
-              "read": false,
-              "write": true
+              "index": 43
             },
             {
               "char": "枥",
               "pinyin": "lì",
-              "index": 44,
-              "read": false,
-              "write": true
+              "index": 44
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "间",
               "pinyin": "jiān",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "称",
               "pinyin": "chēng",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             }
           ],
-          "translation": "所以即使有名贵的马，也只能在奴仆的手里受辱，和普通的马一同死在马槽里，不以千里马而著称。",
-          "pinyin": "gù suī yǒu míng mǎ ， zhǐ rǔ yú nú lì rén zhī shǒu ， pián sǐ yú cáo lì zhī jiān ， bù yǐ qiān lǐ chēng yě 。",
-          "notes": [
-            {
-              "start": 15,
-              "end": 16,
-              "content": "骈死：并列而死，指良马与普通马一同死于马厩，比喻人才被埋没。骈，两马并驾。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "content": "槽枥：马槽和马厩，代指饲养马匹的地方。槽，喂马的器具；枥，马厩。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "祗辱：祗，同‘只’，仅仅；辱，受屈辱。指才德之士被埋没于低贱地位。"
-            },
-            {
-              "start": 16,
-              "end": 17,
-              "content": "骈死：骈，两马并驾，引申为并列、一同；骈死，指与普通马一同老死，比喻人才被埋没。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "content": "槽枥：马槽，代指马厩，指马生活的低贱环境。"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "content": "祗：只、仅，表示限制，强调马的遭遇之悲。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "content": "骈死：并列而死，指与普通马一同老死，比喻人才被埋没。"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "content": "祗（zhǐ）：仅仅，只。注意与‘只’区别，此处为文言专用字。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "content": "骈死：并列而死，指马与普通马一同死于马槽边，比喻人才被埋没。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "content": "槽枥：马槽，代指马厩，喂养马的地方。"
-            }
-          ]
+          "translation": "因此虽然有名贵的马，辱只能在马夫的手不受到屈辱（或埋没），和普通的马一同死在马厩不，不能因日行千不喂闻名于世。"
         },
         {
           "content": [
             {
-              "char": "马",
+              "char": "(",
+              "pinyin": "",
+              "index": 55
+            },
+            {
+              "char": "祗",
               "pinyin": "mǎ",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 56
+            },
+            {
+              "char": " ",
+              "pinyin": "zhī",
+              "index": 57
+            },
+            {
+              "char": "同",
+              "pinyin": "qiān",
+              "index": 58
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 59
+            },
+            {
+              "char": "衹",
+              "pinyin": "lǐ",
+              "index": 60
+            },
+            {
+              "char": ")",
+              "pinyin": "",
+              "index": 61
+            }
+          ],
+          "translation": "日行千不的马，吃一顿有时能吃尽一石粮食。"
+        }
+      ]
+    },
+    {
+      "sentences": [
+        {
+          "content": [
+            {
+              "char": "马",
+              "pinyin": "zhě",
+              "index": 62
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "index": 56,
-              "read": false,
-              "write": false
+              "pinyin": "yī",
+              "index": 63
             },
             {
               "char": "千",
-              "pinyin": "qiān",
-              "index": 57,
-              "read": false,
-              "write": false
+              "pinyin": "shí",
+              "index": 64
             },
             {
               "char": "里",
-              "pinyin": "lǐ",
-              "index": 58,
-              "read": false,
-              "write": false
+              "pinyin": "huò",
+              "index": 65
             },
             {
               "char": "者",
-              "pinyin": "zhě",
-              "index": 59,
-              "read": false,
-              "write": false
+              "pinyin": "jìn",
+              "index": 66
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "一",
-              "pinyin": "yī",
-              "index": 61,
-              "read": false,
-              "write": false
+              "pinyin": "sù",
+              "index": 68
             },
             {
               "char": "食",
-              "pinyin": "shí",
-              "index": 62,
-              "read": false,
-              "write": false
+              "pinyin": "yī",
+              "index": 69
             },
             {
               "char": "或",
-              "pinyin": "huò",
-              "index": 63,
-              "read": false,
-              "write": false
+              "pinyin": "dàn",
+              "index": 70
             },
             {
               "char": "尽",
-              "pinyin": "jìn",
-              "index": 64,
-              "read": false,
-              "write": false
+              "pinyin": "sì",
+              "index": 71
             },
             {
               "char": "粟",
-              "pinyin": "sù",
-              "index": 65,
-              "read": true,
-              "write": false
+              "pinyin": "mǎ",
+              "index": 72
             },
             {
               "char": "一",
-              "pinyin": "yī",
-              "index": 66,
-              "read": false,
-              "write": false
+              "pinyin": "zhě",
+              "index": 73
             },
             {
               "char": "石",
-              "pinyin": "dàn",
-              "index": 67,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 74
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 68,
-              "read": true,
-              "write": false
+              "index": 75
             }
           ],
-          "translation": "日行千里的马，一顿有时能吃一石粮食。",
-          "pinyin": "mǎ zhī qiān lǐ zhě ， yī shí huò jìn sù yī dàn 。",
-          "notes": [
-            {
-              "start": 12,
-              "end": 12,
-              "content": "石：古代容量单位，十斗为一石。此处读dàn，非shí。"
-            },
-            {
-              "start": 7,
-              "end": 13,
-              "content": "一食或尽粟一石：一顿饭有时能吃完一石粮食。石，古代容量单位，此处读dàn，约120斤，极言食量之大，以突出千里马的特质。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "石：古代容量单位，十斗为一石，此处读dàn。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "一食或尽粟一石：一顿饭有时能吃完一石粮食。‘一食’指吃一顿的时间。"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "content": "石：古代容量单位，十斗为一石，此处读shí（高中阶段一般不读dàn）。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 9,
-              "end": 9,
-              "old": "有时"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "new": "或者"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "old": "有时"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "new": "或者"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "old": "有时"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "new": "或者"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 2,
-              "end": 5,
-              "content": "‘马之千里者’为定语后置句，正常语序为‘千里之马者’，‘者’为定语后置标志。"
-            },
-            {
-              "start": 0,
-              "end": 5,
-              "content": "定语后置句，‘马之千里者’即‘千里之马’，‘之’为定语后置的标志。"
-            },
-            {
-              "start": 2,
-              "end": 5,
-              "content": "‘马之千里者’为定语后置结构，正常语序为‘千里之马者’，‘之’为定语后置标志。"
-            },
-            {
-              "start": 2,
-              "end": 5,
-              "content": "‘马之千里者’为定语后置句，正常语序为‘千里之马者’，‘者’为后置定语标志。"
-            }
-          ]
+          "translation": "喂千不马的人不知道它能日行千不喂像普通的马一样来喂养它。"
         },
         {
           "content": [
             {
               "char": "食",
-              "pinyin": "sì",
-              "index": 69,
-              "read": true,
-              "write": false
+              "pinyin": "zhī",
+              "index": 76
             },
             {
               "char": "马",
-              "pinyin": "mǎ",
-              "index": 70,
-              "read": false,
-              "write": false
+              "pinyin": "qí",
+              "index": 77
             },
             {
               "char": "者",
-              "pinyin": "zhě",
-              "index": 71,
-              "read": false,
-              "write": false
+              "pinyin": "néng",
+              "index": 78
             },
             {
               "char": "不",
-              "pinyin": "bù",
-              "index": 72,
-              "read": true,
-              "write": false
+              "pinyin": "qiān",
+              "index": 79
             },
             {
               "char": "知",
-              "pinyin": "zhī",
-              "index": 73,
-              "read": false,
-              "write": false
+              "pinyin": "lǐ",
+              "index": 80
             },
             {
               "char": "其",
-              "pinyin": "qí",
-              "index": 74,
-              "read": false,
-              "write": false
+              "pinyin": "ér",
+              "index": 81
             },
             {
               "char": "能",
-              "pinyin": "néng",
-              "index": 75,
-              "read": false,
-              "write": false
+              "pinyin": "sì",
+              "index": 82
             },
             {
               "char": "千",
-              "pinyin": "qiān",
-              "index": 76,
-              "read": false,
-              "write": false
+              "pinyin": "yě",
+              "index": 83
             },
             {
               "char": "里",
-              "pinyin": "lǐ",
-              "index": 77,
-              "read": false,
-              "write": false
+              "pinyin": "shì",
+              "index": 84
             },
             {
               "char": "而",
-              "pinyin": "ér",
-              "index": 78,
-              "read": false,
-              "write": false
+              "pinyin": "mǎ",
+              "index": 85
             },
             {
               "char": "食",
-              "pinyin": "sì",
-              "index": 79,
-              "read": false,
-              "write": false
+              "pinyin": "yě",
+              "index": 86
             },
             {
               "char": "也",
-              "pinyin": "yě",
-              "index": 80,
-              "read": false,
-              "write": false
+              "pinyin": "suī",
+              "index": 87
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 88
             }
           ],
-          "translation": "喂马的人不知道它能日行千里而按普通马喂养。",
-          "pinyin": "shí mǎ zhě bù zhī qí néng qiān lǐ ér sì yě 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "食：通‘饲’，喂养。此处读sì，下文‘食也’‘食之’同此义。"
-            },
-            {
-              "start": 0,
-              "end": 2,
-              "content": "食马者：食，读sì，通‘饲’，喂养；食马者，指养马的人，比喻不能识别人才的统治者。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "食：读sì，意为喂养，下文多处同。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "食：同上，读sì，指喂马的人不懂按其能力喂养。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "食（sì）：通‘饲’，喂养。注意与‘吃’义的‘食（shí）’区分。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "喂养"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "吃"
-            }
-          ]
+          "translation": "这样的马，虽然有日行千不的能力，但吃不饱，力气不足，才能和优良的素质不能表现在外面。"
         },
         {
           "content": [
             {
               "char": "是",
-              "pinyin": "shì",
-              "index": 82,
-              "read": false,
-              "write": false
+              "pinyin": "yǒu",
+              "index": 89
             },
             {
               "char": "马",
-              "pinyin": "mǎ",
-              "index": 83,
-              "read": false,
-              "write": false
+              "pinyin": "qiān",
+              "index": 90
             },
             {
               "char": "也",
-              "pinyin": "yě",
-              "index": 84,
-              "read": false,
-              "write": false
+              "pinyin": "lǐ",
+              "index": 91
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "虽",
-              "pinyin": "suī",
-              "index": 86,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 93
             },
             {
               "char": "有",
-              "pinyin": "yǒu",
-              "index": 87,
-              "read": false,
-              "write": false
+              "pinyin": "néng",
+              "index": 94
             },
             {
               "char": "千",
-              "pinyin": "qiān",
-              "index": 88,
-              "read": false,
-              "write": false
+              "pinyin": "shí",
+              "index": 95
             },
             {
               "char": "里",
-              "pinyin": "lǐ",
-              "index": 89,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 96
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "index": 90,
-              "read": false,
-              "write": false
+              "pinyin": "bǎo",
+              "index": 97
             },
             {
               "char": "能",
-              "pinyin": "néng",
-              "index": 91,
-              "read": false,
-              "write": false
+              "pinyin": "lì",
+              "index": 98
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "食",
-              "pinyin": "shí",
-              "index": 93,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 100
             },
             {
               "char": "不",
-              "pinyin": "bù",
-              "index": 94,
-              "read": false,
-              "write": false
+              "pinyin": "zú",
+              "index": 101
             },
             {
               "char": "饱",
-              "pinyin": "bǎo",
-              "index": 95,
-              "read": false,
-              "write": false
+              "pinyin": "cái",
+              "index": 102
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "力",
-              "pinyin": "lì",
-              "index": 97,
-              "read": false,
-              "write": false
+              "pinyin": "měi",
+              "index": 104
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "足",
-              "pinyin": "zú",
-              "index": 99,
-              "read": false,
-              "write": false
+              "pinyin": "wài",
+              "index": 106
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "才",
-              "pinyin": "cái",
-              "index": 101,
-              "read": false,
-              "write": false
+              "pinyin": "xiàn",
+              "index": 108
             },
             {
               "char": "美",
-              "pinyin": "měi",
-              "index": 102,
-              "read": false,
-              "write": false
+              "pinyin": "qiě",
+              "index": 109
             },
             {
               "char": "不",
-              "pinyin": "bù",
-              "index": 103,
-              "read": false,
-              "write": false
+              "pinyin": "yù",
+              "index": 110
             },
             {
               "char": "外",
-              "pinyin": "wài",
-              "index": 104,
-              "read": false,
-              "write": false
+              "pinyin": "yǔ",
+              "index": 111
             },
             {
               "char": "见",
-              "pinyin": "xiàn",
-              "index": 105,
-              "read": true,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 106,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "这样的马，虽然有日行千里的能力，但吃不饱，力气不足，才能和优点不能显现出来。",
-          "pinyin": "shì mǎ yě ， suī yǒu qiān lǐ zhī néng ， shí bù bǎo ， lì bù zú ， cái měi bù wài xiàn 。",
-          "notes": [
-            {
-              "start": 23,
-              "end": 23,
-              "content": "见：通‘现’，显露、表现。读xiàn，不读jiàn。"
-            },
-            {
-              "start": 19,
-              "end": 24,
-              "content": "才美不外见：才能和美貌不能显现出来。见，通‘现’，显露。"
-            },
-            {
-              "start": 23,
-              "end": 23,
-              "content": "见：通‘现’，显露，表现。才美不外见即才能无法表现出来。"
-            },
-            {
-              "start": 23,
-              "end": 23,
-              "content": "见（xiàn）：通‘现’，显现，表现出来。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 22,
-              "end": 24,
-              "content": "‘才美不外见’含有被动意味，意为‘才能和美貌不能被显露出来’，无被动标志词。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 24,
-              "end": 24,
-              "old": "显现"
-            },
-            {
-              "start": 24,
-              "end": 24,
-              "new": "看见"
-            },
-            {
-              "start": 23,
-              "end": 23,
-              "old": "显露"
-            },
-            {
-              "start": 23,
-              "end": 23,
-              "new": "看见"
-            },
-            {
-              "start": 23,
-              "end": 23,
-              "old": "显现"
-            },
-            {
-              "start": 23,
-              "end": 23,
-              "new": "看见"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "且",
-              "pinyin": "qiě",
-              "index": 107,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "欲",
-              "pinyin": "yù",
-              "index": 108,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "与",
-              "pinyin": "yǔ",
-              "index": 109,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "常",
               "pinyin": "cháng",
-              "index": 110,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "马",
-              "pinyin": "mǎ",
-              "index": 111,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "等",
-              "pinyin": "děng",
-              "index": 112,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 113,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "可",
-              "pinyin": "kě",
-              "index": 114,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "得",
-              "pinyin": "dé",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 113
+            },
+            {
+              "char": "且",
+              "pinyin": "mǎ",
+              "index": 114
+            },
+            {
+              "char": "欲",
+              "pinyin": "děng",
+              "index": 115
+            },
+            {
+              "char": "与",
+              "pinyin": "bù",
+              "index": 116
+            },
+            {
+              "char": "常",
+              "pinyin": "kě",
+              "index": 117
+            },
+            {
+              "char": "马",
+              "pinyin": "dé",
+              "index": 118
+            },
+            {
+              "char": "等",
+              "pinyin": "ān",
+              "index": 119
+            },
+            {
+              "char": "不",
+              "pinyin": "qiú",
+              "index": 120
+            },
+            {
+              "char": "可",
+              "pinyin": "qí",
+              "index": 121
+            },
+            {
+              "char": "得",
+              "pinyin": "néng",
+              "index": 122
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 123
             },
             {
               "char": "安",
-              "pinyin": "ān",
-              "index": 117,
-              "read": false,
-              "write": false
+              "pinyin": "qiān",
+              "index": 124
             },
             {
               "char": "求",
-              "pinyin": "qiú",
-              "index": 118,
-              "read": false,
-              "write": false
+              "pinyin": "lǐ",
+              "index": 125
             },
             {
               "char": "其",
-              "pinyin": "qí",
-              "index": 119,
-              "read": false,
-              "write": false
+              "pinyin": "yě",
+              "index": 126
             },
             {
               "char": "能",
-              "pinyin": "néng",
-              "index": 120,
-              "read": false,
-              "write": false
+              "pinyin": "cè",
+              "index": 127
             },
             {
               "char": "千",
-              "pinyin": "qiān",
-              "index": 121,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 128
             },
             {
               "char": "里",
-              "pinyin": "lǐ",
-              "index": 122,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 129
             },
             {
               "char": "也",
-              "pinyin": "yě",
-              "index": 123,
-              "read": false,
-              "write": false
+              "pinyin": "yǐ",
+              "index": 130
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 131
             }
           ],
-          "translation": "想要和普通的马一样尚且办不到，怎么能要求它日行千里呢？",
-          "pinyin": "qiě yù yǔ cháng mǎ děng bù kě dé ， ān qiú qí néng qiān lǐ yě ？",
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 5,
-              "old": "等同，一样"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "等级，等待"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "old": "怎么，哪里"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "new": "安全"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "old": "怎么"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "new": "安全"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "old": "同等、一样"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "等等"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "old": "怎么"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "new": "安全"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "old": "等同"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "new": "等待"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "old": "怎么"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "new": "安全"
-            }
-          ],
-          "notes": [
-            {
-              "start": 0,
-              "end": 9,
-              "content": "且欲与常马等不可得：尚且想要和普通马一样都做不到。等，等同、一样。"
-            },
-            {
-              "start": 10,
-              "end": 16,
-              "content": "安求其能千里也：怎么要求它能日行千里呢？安，怎么、哪里，疑问副词。"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "content": "等：等同，一样。此处为动词，非现代‘等待’义。"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "content": "安：怎么，哪里。疑问代词，用于反问语气。"
-            }
-          ]
-        },
+          "translation": "想要和普通的马一样尚且做不到，怎么能够要求它（日行）千不呢？"
+        }
+      ]
+    },
+    {
+      "sentences": [
         {
           "content": [
             {
               "char": "策",
-              "pinyin": "cè",
-              "index": 125,
-              "read": false,
-              "write": true
+              "pinyin": "qí",
+              "index": 132
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "index": 126,
-              "read": false,
-              "write": false
+              "pinyin": "dào",
+              "index": 133
             },
             {
               "char": "不",
-              "pinyin": "bù",
-              "index": 127,
-              "read": false,
-              "write": false
+              "pinyin": "sì",
+              "index": 134
             },
             {
               "char": "以",
-              "pinyin": "yǐ",
-              "index": 128,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 135
             },
             {
               "char": "其",
-              "pinyin": "qí",
-              "index": 129,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 136
             },
             {
               "char": "道",
-              "pinyin": "dào",
-              "index": 130,
-              "read": false,
-              "write": false
+              "pinyin": "néng",
+              "index": 137
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 131,
-              "read": false,
-              "write": false
+              "index": 138
             },
             {
               "char": "食",
-              "pinyin": "sì",
-              "index": 132,
-              "read": false,
-              "write": false
+              "pinyin": "jìn",
+              "index": 139
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "index": 133,
-              "read": false,
-              "write": false
+              "pinyin": "qí",
+              "index": 140
             },
             {
               "char": "不",
-              "pinyin": "bù",
-              "index": 134,
-              "read": false,
-              "write": false
+              "pinyin": "cái",
+              "index": 141
             },
             {
               "char": "能",
-              "pinyin": "néng",
-              "index": 135,
-              "read": false,
-              "write": false
+              "pinyin": "míng",
+              "index": 142
             },
             {
               "char": "尽",
-              "pinyin": "jìn",
-              "index": 136,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 143
             },
             {
               "char": "其",
-              "pinyin": "qí",
-              "index": 137,
-              "read": false,
-              "write": false
+              "pinyin": "ér",
+              "index": 144
             },
             {
               "char": "材",
-              "pinyin": "cái",
-              "index": 138,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 145
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 139,
-              "read": false,
-              "write": false
+              "index": 146
             },
             {
               "char": "鸣",
-              "pinyin": "míng",
-              "index": 140,
-              "read": false,
-              "write": false
+              "pinyin": "néng",
+              "index": 147
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "index": 141,
-              "read": false,
-              "write": false
+              "pinyin": "tōng",
+              "index": 148
             },
             {
               "char": "而",
-              "pinyin": "ér",
-              "index": 142,
-              "read": false,
-              "write": false
+              "pinyin": "qí",
+              "index": 149
             },
             {
               "char": "不",
-              "pinyin": "bù",
-              "index": 143,
-              "read": false,
-              "write": false
+              "pinyin": "yì",
+              "index": 150
             },
             {
               "char": "能",
-              "pinyin": "néng",
-              "index": 144,
-              "read": false,
-              "write": false
+              "pinyin": "zhí",
+              "index": 151
             },
             {
               "char": "通",
-              "pinyin": "tōng",
-              "index": 145,
-              "read": false,
-              "write": false
+              "pinyin": "cè",
+              "index": 152
             },
             {
               "char": "其",
-              "pinyin": "qí",
-              "index": 146,
-              "read": false,
-              "write": false
+              "pinyin": "ér",
+              "index": 153
             },
             {
               "char": "意",
-              "pinyin": "yì",
-              "index": 147,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 148,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "驱使它不按照正确的方法，喂养它不能使它充分发挥才能，听它嘶鸣却不能通晓它的意思。",
-          "pinyin": "cè zhī bù yǐ qí dào ， shí zhī bù néng jìn qí cái ， míng zhī ér bù néng tōng qí yì 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "策：名词作动词，用马鞭驱赶，引申为驾驭、管理。"
-            },
-            {
-              "start": 0,
-              "end": 1,
-              "content": "策：名词作动词，用鞭子打，鞭策。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "道：正确的方法，指驾驭千里马的恰当方式。"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "content": "材：通‘才’，才能，指千里马的潜力。"
-            },
-            {
-              "start": 15,
-              "end": 23,
-              "content": "鸣之而不能通其意：（马）鸣叫，但（人）不能理解它的意思。之，助词，无实义；通其意，理解它的心意。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "策：动词，鞭打，引申为驾驭、管理。"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "content": "策：名词作动词，用马鞭驱赶，引申为驾驭。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 5,
-              "old": "正确的方法，规律"
-            },
-            {
-              "start": 5,
-              "end": 5,
-              "new": "道路，道理"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "old": "才能"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "new": "材料"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "old": "用鞭子打"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "策略"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "状语后置句，‘不以其道’应为‘不以道策之’，‘以道’作状语后置。"
-            },
-            {
-              "start": 0,
-              "end": 6,
-              "content": "‘策之不以其道’为状语后置，正常语序为‘不以道策之’，‘以道’作状语后置。"
-            },
-            {
-              "start": 1,
-              "end": 5,
-              "content": "‘不以其道’为状语后置句，正常语序为‘不以道策之’，‘以道’作状语修饰‘策’。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "执",
-              "pinyin": "zhí",
-              "index": 149,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "策",
-              "pinyin": "cè",
-              "index": 150,
-              "read": false,
-              "write": true
-            },
-            {
-              "char": "而",
-              "pinyin": "ér",
-              "index": 151,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "临",
               "pinyin": "lín",
-              "index": 152,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "index": 153,
-              "read": false,
-              "write": false
+              "index": 154
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 154,
-              "read": false,
-              "write": false
+              "index": 155
+            },
+            {
+              "char": "执",
+              "pinyin": "zhī",
+              "index": 156
+            },
+            {
+              "char": "策",
+              "pinyin": "yuē",
+              "index": 157
+            },
+            {
+              "char": "而",
+              "pinyin": "tiān",
+              "index": 158
+            },
+            {
+              "char": "临",
+              "pinyin": "xià",
+              "index": 159
+            },
+            {
+              "char": "之",
+              "pinyin": "wú",
+              "index": 160
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 161
             },
             {
               "char": "曰",
-              "pinyin": "yuē",
-              "index": 155,
-              "read": false,
-              "write": false
+              "pinyin": "mǎ",
+              "index": 162
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 156,
-              "read": false,
-              "write": false
+              "index": 163
             },
             {
-              "char": "\"",
-              "pinyin": "tiān",
-              "index": 157,
-              "read": false,
-              "write": false
+              "char": "“",
+              "pinyin": "",
+              "index": 164
             },
             {
               "char": "天",
-              "pinyin": "xià",
-              "index": 158,
-              "read": false,
-              "write": false
+              "pinyin": "wū",
+              "index": 165
             },
             {
               "char": "下",
-              "pinyin": "wú",
-              "index": 159,
-              "read": false,
-              "write": false
+              "pinyin": "hū",
+              "index": 166
             },
             {
               "char": "无",
-              "pinyin": "mǎ",
-              "index": 160,
-              "read": false,
-              "write": false
+              "pinyin": "qí",
+              "index": 167
             },
             {
               "char": "马",
-              "pinyin": "wū",
-              "index": 161,
-              "read": false,
-              "write": false
+              "pinyin": "zhēn",
+              "index": 168
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 162,
-              "read": false,
-              "write": false
+              "index": 169
             },
             {
-              "char": "\"",
-              "index": 163,
-              "read": false,
-              "write": false,
-              "pinyin": "hū"
+              "char": "”",
+              "pinyin": "",
+              "index": 170
             }
           ],
-          "translation": "拿着鞭子对着它说：\"天下没有千里马！\"",
-          "pinyin": "zhí cè ér lín zhī ， yuē ： \" tiān xià wú mǎ ！\"",
-          "notes": [
-            {
-              "start": 1,
-              "end": 1,
-              "content": "策：名词，马鞭。与‘策之不以其道’呼应，体现对比。"
-            },
-            {
-              "start": 0,
-              "end": 5,
-              "content": "执策而临之：拿着马鞭面对着它。临，面对，有居高临下之意，表现统治者的姿态。"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "content": "策：名词，马鞭，与前文动词用法形成对照。"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "content": "策：名词，马鞭。与前文‘策之’形成呼应，一动一静。"
-            }
-          ]
+          "translation": "不按照驱使千不马的正确方法驱使它，喂养它却不能让他竭尽才能，使它日行千不的能力充分发挥出来，转千不马鸣叫，却不能通晓它的意思，拿着鞭子面对它，说：“天下没有千不马！”"
         },
         {
           "content": [
             {
               "char": "呜",
-              "pinyin": "qí",
-              "index": 164,
-              "read": false,
-              "write": false
+              "pinyin": "wú",
+              "index": 171
             },
             {
               "char": "呼",
-              "pinyin": "zhēn",
-              "index": 165,
-              "read": false,
-              "write": false
+              "pinyin": "mǎ",
+              "index": 172
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 166,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "其",
-              "pinyin": "wú",
-              "index": 167,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "真",
-              "pinyin": "mǎ",
-              "index": 168,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "无",
-              "pinyin": "yé",
-              "index": 169,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "马",
-              "pinyin": "qí",
-              "index": 170,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "邪",
-              "pinyin": "zhēn",
-              "index": 171,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "？",
-              "pinyin": "",
-              "index": 172,
-              "read": true,
-              "write": true
+              "index": 173
             }
           ],
-          "translation": "唉！难道真的没有千里马吗？",
-          "pinyin": "wū hū ！ qí zhēn wú mǎ yé ？",
-          "notes": [
-            {
-              "start": 8,
-              "end": 8,
-              "content": "邪：通‘耶’，表示疑问语气，相当于‘吗’。读yé，不读xié。"
-            },
-            {
-              "start": 3,
-              "end": 8,
-              "content": "其真无马邪：难道真的没有千里马吗？邪，通‘耶’，表示疑问语气，相当于‘吗’。"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "content": "邪：通‘耶’，表示疑问语气，相当于‘吗’。"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "content": "邪（yé）：通‘耶’，语气词，表示疑问或反问，相当于‘吗’。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 8,
-              "old": "疑问语气词，相当于‘吗’"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "new": "邪恶"
-            }
-          ]
+          "translation": "唉，难道真的没有千不马吗？"
         },
         {
           "content": [
             {
               "char": "其",
-              "pinyin": "bù",
-              "index": 173,
-              "read": false,
-              "write": false
+              "pinyin": "yé",
+              "index": 174
             },
             {
               "char": "真",
-              "pinyin": "zhī",
-              "index": 174,
-              "read": false,
-              "write": false
+              "pinyin": "qí",
+              "index": 175
             },
             {
-              "char": "不",
-              "pinyin": "mǎ",
-              "index": 175,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "知",
-              "pinyin": "yě",
-              "index": 176,
-              "read": false,
-              "write": false
+              "char": "无",
+              "pinyin": "zhēn",
+              "index": 176
             },
             {
               "char": "马",
-              "index": 177,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 177
+            },
+            {
+              "char": "邪",
+              "pinyin": "zhī",
+              "index": 178
+            },
+            {
+              "char": "？",
+              "pinyin": "",
+              "index": 179
+            }
+          ],
+          "translation": "大概是真的不认识千不马吧！"
+        },
+        {
+          "content": [
+            {
+              "char": "其",
+              "pinyin": "mǎ",
+              "index": 180
+            },
+            {
+              "char": "真",
+              "pinyin": "yě",
+              "index": 181
+            },
+            {
+              "char": "不",
+              "pinyin": "",
+              "index": 182
+            },
+            {
+              "char": "知",
+              "pinyin": "",
+              "index": 183
+            },
+            {
+              "char": "马",
+              "pinyin": "",
+              "index": 184
             },
             {
               "char": "也",
-              "index": 178,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 185
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 179,
-              "read": false,
-              "write": false
+              "index": 186
             }
           ],
-          "translation": "其实是他们真不识得千里马啊！",
-          "pinyin": "qí zhēn bù zhī mǎ yě ！",
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "其真不知马也：恐怕是他们真的不能识别千里马吧！其……也，表推测或感叹的固定结构。"
-            }
-          ]
+          "translation": ""
         }
       ]
     }
@@ -1847,5 +1013,8 @@
     "论说文"
   ],
   "background": "《马说》写于贞元十一年（公元795年）至十六年（800年）之间。当时韩愈初登仕途，不得志。曾经三次上书宰相求擢用，但结果是“待命”40余日，而“志不得通”，“足三及门，而阍人辞焉”。尽管如此，韩愈仍然声明自己“有忧天下之心”，不会遁迹山林。依附于宣武节度使董晋、武宁节度使张建封幕下，终未被采纳。后来又相继依附于一些节度使幕下，再加上朝中奸佞当权，政治黑暗，才能之士不受重视，郁郁不得志。",
-  "appreciation": "《马说》是一篇论说文。这篇寓言性的短论通过对世上有无千里马这一问题的反复论证，归结到不是没有千里马，而是缺少知马的伯乐，从而对封建统治者不知人才、埋没人才的现象进行了有力的揭露，抒发了封建社会中知识分子怀才不遇的感慨和悲愤。此文通篇托物寓意，巧用比喻，借伯乐相马的故事宛转地说明道理，其构思精巧，形象生动。全文语言简练，长短句相间，语气有陈述、疑问、感叹，行文富于变化，达到了说理深刻、论证有力的效果。"
+  "appreciation": "《马说》是一篇论说文。这篇寓言性的短论通过对世上有无千里马这一问题的反复论证，归结到不是没有千里马，而是缺少知马的伯乐，从而对封建统治者不知人才、埋没人才的现象进行了有力的揭露，抒发了封建社会中知识分子怀才不遇的感慨和悲愤。此文通篇托物寓意，巧用比喻，借伯乐相马的故事宛转地说明道理，其构思精巧，形象生动。全文语言简练，长短句相间，语气有陈述、疑问、感叹，行文富于变化，达到了说理深刻、论证有力的效果。",
+  "annotation": "伯乐：孙阳。春秋时人，擅长相（xiàng）马（现指能够发现人才的人）。千不马：原指善跑的骏马，可以日行千不。现在常用来比喻人才；特指有才华的人。喂：表转折。可是，但是。故虽有名马：所以虽然有名贵的马。故：因此。虽：虽然。名：名贵的。祗辱于奴隶人之手：辱只能在马夫的手不受到屈辱（或埋没）。祗（zhǐ）：同“衹”，只，仅。奴隶人：古代辱指仆役，这不指喂马的人。辱：这不指受屈辱喂埋没才能。骈（pián）死于槽（cáo）枥（lì）之间：（和普通的马）一同死在马厩不。骈，两马并驾。骈死：并列喂死。于：在。槽枥：喂牲口用的食器，引申为马厩。不以千不称辱：不因日行千不喂著名。指马的千不之能被埋没。以：用。称：出名。马之千不者：之，定语后置的标志。一食：吃一顿。食，吃。或：有时。尽全，这不作动词用，是“吃尽”的意思。粟（sù）：本指小米，辱泛指粮食。石（shí）：容量单位，十斗为一石，一石约等于一百二十斤。三十斤为钧,四钧为石。食：喂。其：指千不马，代词。是：这样，指示代词。虽：虽然。能：本领。足：足够。才：才能。美：美好的素质。外见（xiàn）：表现在外面。见：通“现”，表现；显现。且：犹，尚且。欲：想要。等：等同，一样。不可得：不能够得到。得：能，表示客观条件允许。安：怎么，哪不，疑问代词。求：要求。策之：驱使它。策：马鞭，引申为鞭打，这不指鞭策，驾驭。之：代词，指千不马。以其道：按照（驱使千不马的）正确的方法。以：按照。道：正确的方法。食之：食，通“饲”，喂。尽其材：竭尽它的才能。这不指喂饱马，使它日行千不的能力充分发挥出来。材：通“才”，才能。尽（2）：竭尽，发挥出。鸣：马嘶。通其意：通晓它的意思。执：拿。策：马鞭。临：面对。呜呼：表示惊叹，相当于“唉”。其（1）：难道，表反问语气。其（2）：大概，表推测语气。邪：通“耶”，表示疑问的语气词，意为“吗”知：懂得，了解，认识。",
+  "comprehensive_appreciation": "鉴赏：《马说》是一篇说理文，似寓言而实非寓言，用比喻说理却并未把所持的论点正面说穿，没有把个人意见强加给读者。通过形象思维来描述千里马的遭遇，提出事实，省却了讲大道理的笔墨，作者利用了古汉语中虚词（语助词、感叹词和连接词），体现出一唱三叹的滋味和意境。伯乐的典故几次被韩愈引用（见韩愈所作的《为人求荐书》及《送温处士赴河阳序》），可见韩愈命运的坎坷。“世有伯乐，然后有千里马”是从正面提出问题，“千里马常有，而伯乐不常有”，从反面展开议论。说明千里马和伯乐的信赖关系是如此的密切。在韩愈看来，世上缺乏的不是人才，而是发现人才的人。所以说课文中流露的是作者怀才不遇之情和对统治者埋没、摧残人才的愤懑和控诉。“世有伯乐，然后有千里马。”一开篇就奇峰突起，发人之所未发，点明全文主旨。这句话还包含着一个反题，即“无伯乐，则无千里马”，说明千里马的命运与伯乐的依赖关系。换句话说，就是除伯乐而外没有人能识别千里马。“祇辱于奴隶人之手，骈死于槽枥之间。”具体地描绘了千里马没有遇见伯乐的可悲的遭遇。字里行间充满了作者的痛惜之情。“食不饱，力不足，才美不外见。”“食马者不知其能千里而食也。”这两句揭示了千里马的才能为何被埋没的根本原因。“不知”，这正是问题的要害。一天能跑千里的马，一顿有时会吃光一石小米。是说才能、本领特殊，食量也特殊。喂马的人不懂得它能一天跑上千里而一般地喂它，怎么能要求它日行千里呢？“且欲与常马等不可得，安求其能千里也？”通常数量的喂养，常马吃饱了而千里马远没有吃饱;没吃饱的当然比不上吃饱的，本领自然发挥不出来。这正是说明，千里马喂养不得法，便无法显示它的本领。这一句描述了千里马因肚饥而无法发挥才能的痛苦。文章写到这里，作者还觉得不够，又接着用“鸣之而不能通其意”，从“人”的方面再做深入一层的刻画。使文章生动深刻，也表现出作者的愤激。作者并没有立即谴责这种不识马的“人”，反而让他面对着千里马不懂装懂，还说“天下无马”。意思是说，这样的“人”在主观动机方面还是不错的，他并非不想选拔人才，并非没有求贤用贤之心，无奈贤人贤才太“少”了。明明是“人”的主观上出了问题，却把这种局面的形成推给客观条件的不如意、不理想。眼前就是一匹千里马，食马者却对着千里马发出了“天下无马”的慨叹，认为这不过是一匹连常马也不如的马。这是作者的讽刺。文章写至此处，作者立即点明主题，用呜呼！其真无马邪（yé）？其真不知马也！结束，把“无马”和“不知马”这一矛盾形成一个高潮。这是韩愈凝聚浓缩手法的结果。赏析：韩愈是唐代散文巨匠，同时也是对宋代作家极有影响的诗人。人们对他的“以文为诗”（把诗歌写得散文化）谈得比较多，却很少注意他那更为突出的“以诗为文”的特点。所谓“以诗为文”，是指用具有诗的情调、韵味等特色来写散文，即是说把散文给诗化了（但这并不等于从西方引进的新文体“散文诗”）。我们说把散文诗化，或者说把散文写得很带诗意，并不限于写自然景物、抒情小品或对人物进行典型塑造和对事态进行艺术描绘；而是也可以用诗的情调、韵味来写说理文或评论文。韩愈的散文特点之一就在这里。据说伯乐姓孙名阳，是春秋时代秦国人，会给马看相，善于识别什么是千里马。这原是《战国策·楚策》中一个名叫汗明的人对春申君黄歇讲的一个故事里的人物。这故事可能是古代传说，也可能就是汗明用艺术虚构手法创造出来的寓言。伯乐的典故曾几次被韩愈引用（见他所作的《为人求荐书》及《送温处士赴河阳序》），可见由于韩愈本人命运的坎坷，对伯乐能识别千里马的故事是很有感情的。但平心而论，还是他的这篇《马说》写得最好，读者也最爱读，因为这篇文章写得太像一首诗了。诗的主要特点之一就是诉诸形象思维，它的创作手法也常以比兴为主。当然，一首好诗总要比散文写得更加含蓄曲折，余味无穷。而从常识论，一篇说理散文，基本上总是以逻辑思维为主的，韩愈的《马说》肯定是一篇说理文，但它似寓言而实非寓言，用比喻说理却并未把所持的论点正面说穿，更没有把个人意见强加给读者。全篇几乎始终通过形象思维来描述千里马的遭遇，只摆出活生生的事实却省却了讲大道理的笔墨，这已经可以说是诗的写法了。更巧妙地是作者利用了古汉语中不可缺少的虚词（语助词、感叹词和连接词），体现出抒情诗应有的一唱三叹的滋味和意境，尽管我们读起来是一篇散文，但仔细品评，却俨然是一首发挥得淋漓尽致的抒情诗。这种“以诗为文”的本领，始自西汉的司马迁（谁也不曾承认过司马迁是诗人），到了韩愈、柳宗元，乃得到进一步的发展；至宋代的欧阳修、苏轼（尤其是欧阳修）而达到一个新的高度。这是我们研究中国文学史和学习古典散文应该注意的新课题。文章的第一句是大前提：“世有伯乐然后有千里马。”可这个命题本身就不合逻辑。因为存在决定意识，伯乐善相马的知识和经验，必须从社会上（或说自然界）存在着大量的千里马身上取得，然后逐渐总结出来的。所以过去有人就认为韩愈这句话是本末倒置，是唯心主义的。我们并不否认，从唯物主义原则来看，他这句话是错误的。但把它作为诗的语言，它却是发人深省的警句，是感慨万千的名言。因为世上有伯乐这种知识和本领的人实在太少了。于是作者紧接着在下文从正面点明主旨，一泻无余地把千里马的无限委屈倾诉出来。正由于“伯乐不常有”，不少的千里马不仅找不到一个一般水平的牧马人，而是“祇辱于奴隶人之手”，受尽了无知小人的腌气。更令人悲愤的是这些宝马竟然成双作对地一群群死于槽枥之间，其遭遇之不幸、结局之惨痛真非笔墨所能形容。当然，结果更是死不瞑目，谁也不把这些有价值的神骏称为千里马，它们的死也自然是毫无所谓的了。“不以千里称也”这句话，包含着这样的意思：连同情它们的人都没有，更谈不上对它们的死表示遗憾、惋惜和悔恨痛心了。从文章表面看，作者说得已相当透彻；而实际上这里面不知有多少辛酸痛楚还没有尽情吐露，看似奔放而其内涵则甚为丰富，其实倒是含蓄不尽的（说他写得婉约，或许读者不能接受，可作者确实没有把话说尽）。这真是抒情诗的写法了。作者着力刻画“食（饲）马者”与千里马之间的矛盾，两相对照，既写出千里马的抑郁不平，也写出不识真才者的愚昧专横。千里马在无人给它创造有利的客观条件时，英雄无用武之地；或虽欲一展所长而有力无处使，甚至到了无力可使的程度。这样，它连一匹普通马也比不上，又怎么能实现它日行千里的特异功能呢？因此它的待遇自然也就比不上一匹“常马”，而它的受辱和屈死也就更不足为奇，不会引起人们的注意了。不仅如此像这样连“常马”都比不上的千里马，由于不能恪尽职守，还会受到极度的责难和惩罚，往往被无辜地痛打一顿（“策之不以其道”，打得它不合理），当然在待遇上也就更加糟糕了（“食之不能尽其材”）。表面看“食马者”不是伯乐，不懂马语；骨子里却蕴涵着怀才不遇的人面对那些愚昧专横的统治者就是申诉也无用这一层意思。文章写到这里，作者似乎还觉得不够解渴，于是又接着用“鸣之而不能通其意”的意思，从“人”的方面再做深入一层的刻画。这不仅使文章更生动深刻，也表现出作者的感情更为愤激了。作者并没有立即谴责这种不识马的“人”有眼无珠，反而让他面对着这匹千里马不懂装懂，发出了仿佛悲天悯人般的慨叹：“天下无马!”意思说，这样的“人”在主观动机方面还是自以为不错的，他并非不想选拔人才，并非没有求贤用贤之心，无奈贤人贤才太“少”了，既无处可寻觅，也无地可安插：“天下哪里有真正的人才啊!”明明是“人”的主观上出了毛病，却把这种局面的形成推给客观条件的不如意、不理想。眼前就是一匹被作践得不成样子的千里马，却对它发出了“天下无马”的慨叹，认为这不过是一匹连“常马”也不如的驽骀之辈。这不仅是绝妙的讽刺，而且也是极其严峻猛厉的诛心之论。文章写至此已经水到渠成，作者这才站出来点题，用“呜呼”以下三句作结，把“无马”和“不知马”这一对矛盾（“无马”是先天的自然缺陷，“不知马”则是后天人为的犯罪）尖锐地摆出来形成一个高潮，极尽沉郁顿挫之致。典故：传说中，天上管理马匹的神仙叫伯乐。在人间，人们把精于鉴别马匹优劣的人，也称为伯乐。第一个被称作伯乐的人本名孙阳，他是春秋时代的人。由于他对马的研究非常出色，人们便忘记了他本来的名字，干脆称他为伯乐，延续到现在。一次，伯乐受楚王的委托，购买能日行千里的骏马。伯乐向楚王说明，千里马少有，找起来不容易，需要到各地巡访，请楚王不必着急，他尽力将事情办好。伯乐跑了好几个国家，连素以盛产名马的燕赵一带，都仔细寻访，辛苦倍至，还是没发现中意的良马。一天，伯乐从齐国返回，在路上，看到一匹马拉着盐车，很吃力地在陡坡上行进。马累得呼呼喘气，每迈一步都十分艰难。伯乐对马向来亲近，不由走到跟前。马见伯乐走近，突然昂起头来瞪大眼睛，大声嘶鸣，好像要对伯乐倾诉什么。伯乐立即从声音中判断出，这是一匹难得的骏马。 伯乐对驾车的人说：“这匹马在疆场上驰骋，任何马都比不过它，但用来拉车，它却不如普通的马。你还是把它卖给我吧。”驾车人认为伯乐是个大傻瓜，他觉得这匹马太普通了，拉车没气力，吃得太多，骨瘦如柴，毫不犹豫地同意了。伯乐牵走千里马，直奔楚国。伯乐牵马来到楚王宫，拍拍马的脖颈说：“我给你找到了好主人。”千里马像明白伯乐的意思，抬起前蹄把地面震得咯咯作响，引颈长嘶，声音洪亮，如大钟石磐，直上云霄。楚王听到马嘶声，走出宫外。伯乐指着马说：“大王，我把千里马给您带来了，请仔细观看。” 楚王一见伯乐牵的马瘦得不成样子，认为伯乐愚弄他，有点不高兴，说：“我相信你会看马，才让你买马，可你买的是什么马呀，这马连走路都很困难，能上战场吗？”伯乐说：“这确实是匹千里马，不过拉了一段车，又喂养不精心，所以看起来很瘦。只要精心喂养，不出半个月，一定会恢复体力。”楚王一听，有点将信将疑，便命马夫尽心尽力把马喂好，果然，马变得精壮神骏。楚王跨马扬鞭，但觉两耳生风，喘息的功夫，已跑出百里之外。 后来千里马为楚王驰骋沙场，立下不少功劳。楚王对伯乐更加敬重。伯乐是古代有名的相马（鉴别马的好坏）专家。当他年老的时候，他的儿子很想将这项专门技能继承下来，以免失传。于是他把伯乐写的《相马经》读得烂熟。《相马经》上描写千里马的外形是“额头隆起，双眼突出，蹄子好像垒起的酒药饼。”他就依照这一条，拿着经文出去“相马”了。伯乐的儿子把所见到事物的外形和《相马经》上描绘的图形一一对照，结果找到了一只很大的蛤蟆。他兴冲冲地跑回家报告父亲，说：“总算找到好马了，额头和双眼同书上说的差不多，就是蹄子的形状和书上写的有区别。”伯乐听了，只好哭笑不得地对这个好心而不聪明的独生子说；“你倒是找到了一匹好马，只是它太喜欢跳，你可驾驭不了啊！”正是，世有伯乐才得千里马。如果千里马没能遇见“伯乐”，终究会被埋没。 ",
+  "knowledge": "文中“虽”“石”两字争议在统编语文中，同学们常常会发现一些“错别字”、描述不一致的前后文、与自己认知不符的描述，从而感到疑惑。人民教育出版社统计了统编语文八年级下册中的27个“错误”，进行一一解答。此处只摘抄与本文有关内容：1.“故虽有名马”和“是马也，虽有千里之能”的“虽”应该翻译成“虽然”还是“即使”？答：应该翻译成“虽然”。“即使”表示让步假设，“即使有名马”相当于承认“没有名马”，“即使有千里之能”相当于承认“没有千里之能”。那么到底有没有“名马”？当然是有的。到底有没有“千里之能”？当然也是有的。因此这两个“虽”都不应该翻译成“即使”，而应该翻译成“虽然”。那么有没有应该翻译成“即使”的例子呢？有。八年级上册《三峡》一课中“虽乘奔御风，不以疾也”，因为此时说的是水里的情况，“乘奔御风”在这一刻都是不存在的，是让步假设出来的，所以这里的“虽”才应该翻译成“即使”。2.“一食或尽粟一石”的“石”应该读shí还是dàn？答：应该读shí。《现代汉语词典》(第7版)和《新华字典》(第11版)都在“石”的“容量单位”这个义项下明确标注“在古书中读shí”。《马说》来自古书，因此应该读shí。至于学习文言文必备的《古汉语常用字字典》则压根儿没有收dàn这个音，把“容量单位”这个义项直接收在shí这个音下，与《现代汉语词典》和《新华字典》遥相呼应。追根溯源，“石”这个字在宋代的韵书《广韵》上只记了“常只(zhī)切”这一个音，对应到今天的读音就是shí。换句话说，读古人写的文言文，见到“石”这个字，甭管什么意思，只读shí，没有第二个音。至于现代汉语中，石的dàn这个音是从哪儿来的，有兴趣的老师和同学可以去参看吾三省(原名陈榕甫)先生的一篇考证短文《用作计量单位的“石”》(《语文新札》，上海辞书出版社2006年版)。"
 }

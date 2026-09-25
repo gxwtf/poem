@@ -1,8 +1,8 @@
 {
   "name": "渔家傲·秋思",
   "author": "范仲淹",
-  "dynasty": "北宋",
-  "mode": "paragraph",
+  "dynasty": "宋代",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,304 +11,190 @@
             {
               "char": "塞",
               "pinyin": "sài",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "景",
               "pinyin": "jǐng",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "异",
               "pinyin": "yì",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "衡",
               "pinyin": "héng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "阳",
               "pinyin": "yáng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "雁",
               "pinyin": "yàn",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "留",
               "pinyin": "liú",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "意",
               "pinyin": "yì",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
-          "translation": "边塞秋天到来，风景异常奇特。大雁飞向衡阳，毫不留恋地离去。",
-          "pinyin": "sài xià qiū lái fēng jǐng yì ， héng yáng yàn qù wú liú yì 。",
-          "notes": [
-            {
-              "start": 8,
-              "end": 11,
-              "content": "衡阳雁去：传说衡阳有回雁峰，雁南飞至此而止，遇春北返。此处写边地寒冷，连大雁都不愿停留，衬托环境荒凉。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "秋天到了，西北边塞的风光和江南大不同。"
+        },
         {
           "content": [
             {
               "char": "四",
               "pinyin": "sì",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "面",
               "pinyin": "miàn",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "边",
               "pinyin": "biān",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "声",
               "pinyin": "shēng",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "连",
               "pinyin": "lián",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "角",
               "pinyin": "jiǎo",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "起",
               "pinyin": "qǐ",
-              "index": 22,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "四面八方的边塞声响伴着号角声接连响起。",
-          "pinyin": "sì miàn biān shēng lián jiǎo qǐ 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "边声：边塞特有的声音，如风吼、马嘶、号角、驼铃等混合之声，象征战争氛围与孤寂感。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "千",
-              "pinyin": "qiān",
-              "index": 24,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "嶂",
-              "pinyin": "zhàng",
-              "index": 25,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "里",
-              "pinyin": "lǐ",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 23
+            },
+            {
+              "char": "千",
+              "pinyin": "qiān",
+              "index": 24
+            },
+            {
+              "char": "嶂",
+              "pinyin": "zhàng",
+              "index": 25
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ",
+              "index": 26
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 27
             },
             {
               "char": "长",
               "pinyin": "cháng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "烟",
               "pinyin": "yān",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "落",
               "pinyin": "luò",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "孤",
               "pinyin": "gū",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "闭",
               "pinyin": "bì",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
-          "translation": "在层层叠叠的山峦之中，长烟直上，落日余晖下孤城紧紧关闭。",
-          "pinyin": "qiān zhàng lǐ ， cháng yān luò rì gū chéng bì 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 1,
-              "content": "嶂：高险如屏障的山峰。‘千嶂’形容群山连绵，突出边地险远。"
-            },
-            {
-              "start": 4,
-              "end": 7,
-              "content": "长烟落日：大漠中烽烟直上，夕阳西下，画面壮阔而苍凉，化用王维诗意，渲染孤城孤立之境。"
-            }
-          ]
+          "translation": "向衡阳飞去的雁群，一点也没有停留之意。"
         }
       ]
     },
@@ -319,333 +205,190 @@
             {
               "char": "浊",
               "pinyin": "zhuó",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "酒",
               "pinyin": "jiǔ",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "杯",
               "pinyin": "bēi",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "家",
               "pinyin": "jiā",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "燕",
               "pinyin": "yān",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "未",
               "pinyin": "wèi",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "勒",
               "pinyin": "lè",
-              "index": 47,
-              "read": true,
-              "write": true
+              "index": 47
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "计",
               "pinyin": "jì",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             }
           ],
-          "translation": "喝一杯浑浊的酒，思念万里之外的家乡。燕然山尚未刻石记功，归期渺茫无计可施。",
-          "pinyin": "zhuó jiǔ yī bēi jiā wàn lǐ ， yàn rán wèi lè guī wú jì 。",
-          "notes": [
-            {
-              "start": 8,
-              "end": 9,
-              "content": "燕然：即燕然山，今蒙古杭爱山。东汉窦宪破北匈奴，登燕然山刻石记功。此处借指建功立业。"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "content": "勒：刻石记功。‘勒’本义为雕刻，引申为铭记功勋。未勒，即未建功。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 11,
-              "end": 11,
-              "old": "刻石记功"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "new": "约束、强制"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 8,
-              "end": 12,
-              "content": "‘燕然未勒’为典型典故句，暗含宾语前置逻辑，意为‘未能勒燕然’，即未完成建功大业。"
-            },
-            {
-              "start": 2,
-              "end": 6,
-              "content": "‘浊酒一杯家万里’为数量词后置结构，正常语序应为‘一杯浊酒，万里之家’，突出对比与距离感。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "黄昏时分，号角吹起，边塞特有的风声、马啸声、羌笛声和着号角声从四面八方回响起来。"
+        },
         {
           "content": [
             {
               "char": "羌",
               "pinyin": "qiāng",
-              "index": 52,
-              "read": true,
-              "write": true
+              "index": 52
             },
             {
               "char": "管",
               "pinyin": "guǎn",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "悠",
               "pinyin": "yōu",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "悠",
               "pinyin": "yōu",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "霜",
               "pinyin": "shuāng",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "满",
               "pinyin": "mǎn",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "地",
               "pinyin": "dì",
-              "index": 58,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 59,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "羌笛声悠扬回荡，霜花铺满大地。",
-          "pinyin": "qiāng guǎn yōu yōu shuāng mǎn dì 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "羌管：即羌笛，古代西北羌族乐器，音色悲凉，常用于军中或边塞诗中表达思乡之情。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "人",
-              "pinyin": "rén",
-              "index": 60,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 61,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "寐",
-              "pinyin": "mèi",
-              "index": 62,
-              "read": true,
-              "write": true
+              "index": 58
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 59
+            },
+            {
+              "char": "人",
+              "pinyin": "rén",
+              "index": 60
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 61
+            },
+            {
+              "char": "寐",
+              "pinyin": "mèi",
+              "index": 62
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 63
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "军",
               "pinyin": "jūn",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "白",
               "pinyin": "bái",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "发",
               "pinyin": "fà",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "征",
               "pinyin": "zhēng",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "夫",
               "pinyin": "fū",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "泪",
               "pinyin": "lèi",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             }
           ],
-          "translation": "人难以入睡，将军白发苍苍，士兵泪水满面。",
-          "pinyin": "rén bù mèi ， jiāng jūn bái fà zhēng fū lèi 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 2,
-              "content": "寐：入睡。‘不寐’即无法入睡，反映将士夜不能寐的愁绪。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "征夫：出征的士兵。与‘将军’对举，泛指戍边将士，体现群体悲情。"
-            }
-          ]
+          "translation": "连绵起伏的群山里，夕阳西下，青烟升腾，孤零零的城门紧闭着。"
         }
       ]
     }
@@ -656,5 +399,8 @@
     "渔家傲"
   ],
   "background": "宋康定元年（1040年）至庆历三年（1043年）间，范仲淹任陕西经略副使兼延州知州。宋仁宗年间，范仲淹被朝廷派往西北前线，承担起北宋西北边疆防卫重任。这首词作于北宋与西夏战争对峙时期。",
-  "appreciation": "这首词颇具沉雄开阔的意境和苍凉悲壮的气概。词人用近乎白描的手法，在上片描摹出了一幅寥廓荒僻、萧瑟悲凉的边塞风景图；在下片则抒发边关将士壮志难酬和思乡忧国的情怀。整首词以将士们的艰苦生活和英雄气概为主题，形象生动鲜明、切实可感。词人落下慷慨雄放之笔，把有关国家、社会的重大问题反映到词里，展现出他对征战之事的深刻思考和关切。"
+  "appreciation": "这首词颇具沉雄开阔的意境和苍凉悲壮的气概。词人用近乎白描的手法，在上片描摹出了一幅寥廓荒僻、萧瑟悲凉的边塞风景图；在下片则抒发边关将士壮志难酬和思乡忧国的情怀。整首词以将士们的艰苦生活和英雄气概为主题，形象生动鲜明、切实可感。词人落下慷慨雄放之笔，把有关国家、社会的重大问题反映到词里，展现出他对征战之事的深刻思考和关切。",
+  "annotation": "渔家傲：又名《吴门柳》、《忍辱仙人》、《荆溪咏》、《游仙关》。塞：边界要塞之地，这里指西北边疆。衡阳雁去：传说秋天北雁南飞，至湖南衡阳回雁峰而止，不再南飞。边声：边塞特有的声音，如大风、号角、羌笛、马啸的声音。千嶂：绵延而峻峭的山峰；崇山峻岭。燕然未勒：指战事未平，功名未立。燕然：即燕然山，今名杭爱山，在今蒙古国境内。据《后汉书·窦宪传》记载，东汉窦宪率兵追击匈奴单（chán）于，去塞三千余里，登燕然山，刻石勒功而还。羌管：即羌笛，出自古代西部羌族的一种乐器。悠悠：形容声音飘忽不定。寐：睡，不寐就是睡不着。征夫：出征的将士。",
+  "comprehensive_appreciation": "赏析：范仲淹《渔家傲》一词开篇塞下一来风景异，衡阳雁去无留意。一句极力渲染边塞一季风景是独异，上片写景，描写是自然是塞下是一景。四面边声连角起，千嶂里，长烟落日孤城闭。下视觉听觉等方面表现了边塞地区是萧条寂寥。起句“塞下一来风景异”，“塞下”点明了延州是所在区域。“一来”，点明了季节。“风景异”，概括地写出了延州一季和内地大不相同是风光。词人是苏州人，对这个地方是季节变换，远较北人敏感，故用一个“异”字概括，这中间含有惊异之意。“衡阳雁去无留意”，雁是候鸟，每逢一季，北方是雁即飞向南方避寒。“无留意”是说这里是雁到了一季即向南展翅奋飞，千无留恋之意，反映了这个地区到了一天，寒风萧瑟，满目荒凉。反过来说，这个地区一天是荒凉景象，尽括在雁“无留意”三字之中，显得笔力遒劲。下边续写延州傍晚时分是战地景象：“四面边声连角起”，这种声音随着军中是号角声而起，形成了浓厚是悲凉气氛，为下片是抒情蓄势。“千嶂里，长烟落日孤城闭”，上句写延州周围环境，它处在层层山岭是环抱之中；下句牵挽到对西夏是军事斗争。“长烟落日”，很容易使读者联想起唐代诗人王维是“大漠孤烟直，长河落日圆”，这四字写出了塞外是壮阔风光。而在“长烟落日”之后，紧缀以“孤城闭”三字，气象便不相同。千嶂、孤城、长烟、落日，这是所见；边声、号角声，这是所闻。把所见所闻诸现象连缀起来，展现在读者眼前是是一幅充满肃杀之气是战地风光画面，特别值得玩味是是“孤城闭”三字，它隐隐地透露宋朝不利是军事形势。宋朝下建立之后，就采取重内轻外政策，对内加紧控制，把禁军分驻定国各地，而在边疆上长期放弃警戒，武备松弛。宝元元年（1038年）西夏元昊称帝，宋廷调兵遣将，扬声讨伐，而事起仓卒，将不知兵，兵不知战，以致每战辄败。词人移知延州，到任后，一方面加强军队训练，一方面在延州周围构筑防御工事，始终居于守势，不敢轻易出击，延州局势才暂时稳定下来，就整个形势来说，延州仍处于孤立状态。所以“孤城闭”三字真实地反映了当时是军事态势，反映出宋朝守军力量是很薄弱是，作为指挥部所在地是城门，太阳一落就关闭起来，表现了形势是严重性。这一句就为下片是抒情作了铺垫。。下片起句“浊酒一杯家万里”，是词人是自抒怀抱。他身负重任，防守危城，天长日久，难免起乡关之思。这“一杯”与“万里”数字之间形成了悬殊是对比，也就是说， 一杯浊酒，消不了浓重是乡愁，造语雄浑有力。乡愁皆因“燕然未勒归无计”而产生。燕然未勒也是《封燕然山铭》这个典故而来：东汉和帝永元元年，车骑将军窦宪北伐匈奴，大破之，在漠北燕然山刻石记功，由班固执笔，颂汉威德，就是所谓“勒石燕然”。勒字此处是雕刻是意思。“羌管悠悠霜满地”，写夜景，在时间上是“长烟落日”是延续。“人不寐”，补叙上句，表明自己彻夜未眠，徘徊于庭。“将军白发征夫泪”，由自己而及征夫总收定词。总之下片抒情，将直抒胸臆和借景抒情相结合，抒发是是作者壮志难酬是感慨和忧国是情怀。这首边塞词既表现将军是英雄气概及征夫是艰苦生活，也暗寓对宋王朝重内轻外政策是不满，爱国激情，浓重乡思，兼而有之，构成了将军与征夫思乡却渴望建功立业是复杂而又矛盾是情绪。这种 情绪主要是通过定词景物是描写，气氛是渲染，婉曲地传达出来。综观定词，意境开阔苍凉，形象生动鲜明，反映出作者耳闻目睹、亲身经历是场景，表达了作者自己和戍边将士们是内心感情，读起来真切感人。赏析二：范仲淹是当时的著名的军事家、政治家，官至副宰相。他了解民间疾苦，深知宋王朝在政治、经济、军事等方面存在的问题，主张革除积弊，但因统治集团内部守旧派的反对，没能实现。他也是著名的文学家。这首《渔家傲》是他的代表作，反映的是他亲身经历的边塞生活。古代把汉族政权和少数民族政权之间的交界地方叫做“塞”或“塞上”、“塞下”。这首词所说的塞下，指的是北宋和西夏交界的陕北一带。从词史上说，此词沉雄开阔的意境和苍凉悲壮的气概，对苏轼、辛弃疾等也有影响。任何一首诗词的审美价值，是由多种艺术功能构成的。这首《渔家傲》并非以军事征战为题材，而是写边塞将士对家乡的怀念，因之不能生硬地用政治的尺度来衡量，而应该用艺术的尺度来衡量。它的艺术功能、艺术力量，在于抒情写景，但即使从政治上要求，此词的意义也并不消极。“燕然未勒归无计”一句，正是这首词最本质的思想亮点。燕然山，即今之杭爱山。后汉时，将军窦宪追击匈奴，曾登上燕然山刻碑（勒石）纪功。词中霜雪满头的老将军，已擦干思乡之泪，在恋家与报国的矛盾中，他选择以戍边军务为重。他尽忠职守，不建功勋于边陲，虽有时思乡心切，也是不打算归去的。词的上阕侧重写景。秋来风景异，雁去无留意，是借雁去衡阳回雁峰的典故，来反映人在塞外的思归之情。思归不是因为厌弃边塞生活，不顾国家安危。而是边防凄厉的号角声以及周遭的狼嗥风啸声，令人心寒。更奈何日落千嶂，长烟锁山，孤城紧闭，此情此景甚是令人怀念故乡的温馨。人非草木，孰能无情。一个长期戍边的老将，惦念亲人和家乡也是很自然的。“千嶂里，长烟落日孤城闭”，此句写得最成功，仅10个字便勾勒出一派壮阔苍茫的边塞黄昏景致。写景是为了抒情。因此下阕一开头就是“浊酒一杯家万里，燕然未勒归无计”。浊酒，本是乳白色的米酒，这里也暗喻心情重浊。因为思归又不能归以致心情重浊。“归无计”，是说没有两全其美的可能性。正在这矛盾的心绪下，远方羌笛悠悠，搅得征夫们难以入梦，不能不苦思着万里之遥的家乡，而家乡的亲人可能也在盼望白发人。“人不寐，将军白发征夫泪”，这10个字扣人心弦，写出了深沉忧国爱国的复杂感情。这首《渔家傲》不是令人消沉斗志之词，它真实地表现了戍边将士思念故乡，而更热爱祖国，矢志保卫祖国的真情。范仲淹曾在《岳阳楼记》一文中，倡导“先天下之忧而忧，后天下之乐而乐”的崇高精神。词中的白发老将军，正是这种崇高精神的生动写照。黄蓼园说它“读之凛凛有生气”，倒是深得其旨趣。“千嶂里，长烟落日孤城闭”。只此两句便抵得上那首有名的《敕勒歌》，虽然彼此取材不同。伟大的诗人杜甫曾写过“孤城早闭门”的佳句，但气势的雄浑似不及范词。那是人烟稀少的边塞，光秃的山峰重重叠叠，上空飘浮着一缕缕的青烟，悲壮的号角和着杂乱的边声在四野回荡。太阳还没有收起它金色的余晖，远远望去，山腰里一座孤零零的城池早已把城门关闭。这就像一幅中世纪边塞景象的艺术摄影。一幅野性十足的边塞图画。“塞下秋来风景异，衡阳雁去无留意，四面边声连角起，千嶂里，长烟落日孤城闭。”这样的“边塞情绪”，往往当人物置身特定场景之后，自然流露出来；此时才明白，长烟落日的边塞，对于生命个体而言，并不仅仅是“戍边苦”，还会产生极大的心理满足。词是范仲淹守边愿望和复杂心态的真实袒露。词中反映了边塞生活的艰苦和词人巩固边防的决心和意愿，同时还表现出外患未除、功业未建、久戍边地、士兵思乡等复杂矛盾的心情。在有着浓郁思乡情绪的将士们的眼中，塞外之景色失去了宽广的气魄、欢愉的气氛，画面上笼罩着一种旷远雄浑、苍凉悲壮的气氛。在边塞熬白黑发，滴尽思乡泪，却又不能抛开国事不顾，将士们的心理是矛盾复杂的。范仲淹虽然守边颇见成效，然而，当时在北宋与西夏的军事力量对比上，北宋处于下风，只能保持守势。范仲淹守边的全部功绩都体现在“能够维持住守势”这样一个局面上，时而还有疲于奔命之感。这对有远大政治志向的范仲淹来说肯定是不能满足的，但又是十分无奈的。所以，体现在词中的格调就不会是昂扬慷慨的。此前，很少有人用词来写边塞生活。唐代韦应物的《调笑》虽有“边草无穷日暮”之句，但没有展开，且缺少真实的生活基础。所以，这首词实际上是边塞词的首创。上片描绘边地的荒凉景象。首句指出“塞下”这一地域性的特点，并以“异”字领起全篇，为下片怀乡思归之情埋下了伏线。“衡阳雁去”是“塞下秋来”的客观现实，“无留意”虽然是北雁南飞的具体表现，但更重要的是这三个字来自戍边将士的内心，它衬托出雁去而人却不得去的情感。以下十七字通过“边声”“角起”“千嶂”“孤城”等具有特征性的事物，把边地的荒凉景象描绘得有声有色。首句中的“异”字通过这十七个字得到了具体的发挥。下片写戍边战士厌战思归的心情。前两句含有三层意思：“浊酒一杯”扑不灭思乡情切；长期戍边而破敌无功；所以产生“归无计”的慨叹。接下去，“羌管悠悠霜满地”一句，再次用声色加以点染并略加顿挫，此时心情，较黄昏落日之时更加令人难堪。“人不寐”三字绾上结下，其中既有白发“将军”，又有落泪“征夫”。“不寐”又紧密地把上景下情联系在一起。“羌管悠悠”是“不寐”时之所闻；“霜满地”是“不寐”时之所见。内情外景达到了水乳交融的艺术境界。",
+  "knowledge": ""
 }

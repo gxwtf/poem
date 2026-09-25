@@ -11,125 +11,85 @@
             {
               "char": "孤",
               "pinyin": "gū",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "寺",
               "pinyin": "sì",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "北",
               "pinyin": "běi",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "贾",
               "pinyin": "jiǎ",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "亭",
               "pinyin": "tíng",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "西",
               "pinyin": "xī",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "面",
               "pinyin": "miàn",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "初",
               "pinyin": "chū",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "平",
               "pinyin": "píng",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "脚",
               "pinyin": "jiǎo",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "低",
               "pinyin": "dī",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
-          "translation": "在孤山寺北贾公亭西，春水初涨云层低垂。",
-          "pinyin": "gū shān sì běi jiǎ tíng xī ， shuǐ miàn chū píng yún jiǎo dī 。",
-          "notes": [
-            {
-              "start": 12,
-              "end": 13,
-              "content": "云脚：指低垂的云层底部，因云贴近水面，如同悬于地面，故称‘脚’。"
-            }
-          ]
+          "translation": "从孤山寺的北面到贾亭的西面，春水初涨，湖水刚与堤岸齐平，低垂的白云同湖面连成一片。"
         }
       ]
     },
@@ -140,125 +100,85 @@
             {
               "char": "几",
               "pinyin": "jǐ",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "处",
               "pinyin": "chù",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "早",
               "pinyin": "zǎo",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "莺",
               "pinyin": "yīng",
-              "index": 19,
-              "read": false,
-              "write": true
+              "index": 19
             },
             {
               "char": "争",
               "pinyin": "zhēng",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "暖",
               "pinyin": "nuǎn",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "树",
               "pinyin": "shù",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "谁",
               "pinyin": "shuí",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "家",
               "pinyin": "jiā",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "新",
               "pinyin": "xīn",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "燕",
               "pinyin": "yàn",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "啄",
               "pinyin": "zhuó",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "春",
               "pinyin": "chūn",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "泥",
               "pinyin": "ní",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
-          "translation": "几处早莺争抢向阳树，谁家新燕衔啄春泥。",
-          "pinyin": "jǐ chù zǎo yīng zhēng nuǎn shù ， shuí jiā xīn yàn zhuó chūn ní 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "暖树：向阳的树木，早春时节莺鸟争栖以避寒取暖，体现季节特征。"
-            }
-          ]
+          "translation": "几只早出的黄莺争相飞往向阳的树木，谁家新飞来的燕子忙着筑巢衔泥。"
         }
       ]
     },
@@ -269,142 +189,85 @@
             {
               "char": "乱",
               "pinyin": "luàn",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "花",
               "pinyin": "huā",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "渐",
               "pinyin": "jiàn",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "迷",
               "pinyin": "mí",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "眼",
               "pinyin": "yǎn",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "浅",
               "pinyin": "qiǎn",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "草",
               "pinyin": "cǎo",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "才",
               "pinyin": "cái",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "没",
               "pinyin": "mò",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "马",
               "pinyin": "mǎ",
-              "index": 45,
-              "read": true,
-              "write": true
+              "index": 45
             },
             {
               "char": "蹄",
               "pinyin": "tí",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "杂花渐开欲迷人眼，嫩草刚能没过马蹄。",
-          "pinyin": "luàn huā jiàn yù mí rén yǎn ， qiǎn cǎo cái néng mò mǎ tí 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "渐欲：渐渐将要，表示趋势发展，强调花开过程由少到盛。"
-            },
-            {
-              "start": 4,
-              "end": 6,
-              "content": "迷人眼：使人的视线迷乱，形容繁花色彩斑斓、盛开如锦，视觉冲击强烈。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "没：读mò，淹没、遮蔽，指春草初长，仅能盖住马蹄，突出‘浅’的特点。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "使动句式：‘乱花渐欲迷人眼’意为‘繁花渐渐使人眼花缭乱’，‘迷’为使动用法。"
-            }
-          ]
+          "translation": "纷繁的花朵渐渐开放使人眼花缭乱，浅浅的青草刚刚够上遮没马蹄。"
         }
       ]
     },
@@ -415,149 +278,85 @@
             {
               "char": "最",
               "pinyin": "zuì",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "爱",
               "pinyin": "ài",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "湖",
               "pinyin": "hú",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "足",
               "pinyin": "zú",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "绿",
               "pinyin": "lǜ",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "杨",
               "pinyin": "yáng",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "阴",
               "pinyin": "yīn",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "白",
               "pinyin": "bái",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "沙",
               "pinyin": "shā",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "堤",
               "pinyin": "dī",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": true,
-              "write": true
+              "index": 63
             }
           ],
-          "translation": "最爱湖东漫步不足，绿杨荫里的白沙堤。",
-          "pinyin": "zuì ài hú dōng xíng bù zú ， lǜ yáng yīn lǐ bái shā dī 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 7,
-              "content": "行不足：游玩不尽，走不够，表达对湖东景色的无限喜爱与流连忘返之情。"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "content": "阴：树荫，此处指绿杨成荫的小路，与现代‘阴暗’含义不同。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 10,
-              "end": 10,
-              "old": "树荫"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "new": "阴暗、阴冷"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "状语后置与省略句：‘最爱湖东行不足’省略主语‘我’，且‘湖东’为状语后置，正常语序为‘（我）于湖东行最爱而不足’。"
-            }
-          ]
+          "translation": "最爱的湖东美景百游不厌，杨柳成排绿荫中穿过一条白沙堤。"
         }
       ]
     }
@@ -568,5 +367,8 @@
     "七言律诗"
   ],
   "background": "长庆二年（公元822年，唐穆宗时期）七月，白居易被任命为杭州的刺史，宝历元年（公元825年，唐敬宗时期）三月又出任了苏州刺史，所以这首《钱塘湖春行》写于长庆三、四年（公元823、824年）间的春天。",
-  "appreciation": "《钱塘湖春行》是一首七言律诗，为历代吟咏西湖的名篇。此诗通过对杭州西湖早春明媚风光的描绘，抒发了诗人早春游湖的喜悦和对西湖风景的喜爱，更表达了诗人对于自然之美的热爱之情。西湖春行的景色，在中间四句中得到了细致的描绘，形象活现，诗人即景寓情，巧妙地表现了自然之物的活泼情趣和雅致闲情。全诗结构谨严，衔接自然，对仗工整；语言质朴而不失优美，用词准确，气质清新，为不可多得的写景佳作。"
+  "appreciation": "《钱塘湖春行》是一首七言律诗，为历代吟咏西湖的名篇。此诗通过对杭州西湖早春明媚风光的描绘，抒发了诗人早春游湖的喜悦和对西湖风景的喜爱，更表达了诗人对于自然之美的热爱之情。西湖春行的景色，在中间四句中得到了细致的描绘，形象活现，诗人即景寓情，巧妙地表现了自然之物的活泼情趣和雅致闲情。全诗结构谨严，衔接自然，对仗工整；语言质朴而不失优美，用词准确，气质清新，为不可多得的写景佳作。",
+  "annotation": "钱塘湖：即杭州西湖。孤山寺：南北朝时期陈文帝（522～565）初年建，名承福，宋时改名广华。孤山：在西湖的里、外湖之间，因与其他山不相接连，所以称孤山。上有孤山亭，可俯瞰西湖全景。贾亭：又叫贾公亭。西湖名胜之一，唐朝贾全所筑。唐贞元（唐德宗年号，785～805）中，贾全出任杭州刺史，于钱塘湖建亭。人称“贾亭”或“贾公亭”，该亭至唐代末年。水面初平：湖水才同堤岸齐平，即春水初涨。初：在古汉语里用作副词，常用来表示时间，是指不久。云脚低：白云重重叠叠，同湖面上的波澜连成一片，看上去，浮云很低，所以说“云脚低”。点明春游起点和途径之处，着力描绘湖面景色。多见于将雨或雨初停的时候。云脚：接近地面的云气，多见于将雨或雨初停时。“脚”的本义指人和动物行走的器官。这里指低垂的云。早莺：初春时早来的黄鹂。莺：黄鹂，鸣声婉转动听。争暖树：争着飞到向阳的树枝上去。暖树：向阳的树。新燕：刚从南方飞回来的燕子。啄：衔取。燕子衔泥筑巢。春行仰观所见，莺歌燕舞，生机动人。侧重禽鸟。乱花：纷繁的花。渐：副词，渐渐地。欲：副词，将要，就要。迷人眼：使人眼花缭乱。浅草：浅浅的青草。才能：刚够上。没（mò）：遮没，盖没。湖东：以孤山为参照物，白沙堤（即白堤）在孤山的东北面。行不足：百游不厌。足，满足。阴：同“荫”，指树荫。白沙堤：即今白堤，又称沙堤、断桥堤，在西湖东畔，唐朝以前已有。白居易在任杭州刺史时所筑白堤在钱塘门外，是另一条。",
+  "comprehensive_appreciation": "赏析：这是一首描绘西湖美景的名篇。这诗处处扣紧环境和季节的特征，把刚刚披上春天外衣的西湖，描绘得生意盎然，恰到好处。诗的首联紧扣题目总写湖水。前一句点出钱塘湖的方位和四周“楼观参差”景象，两个地名连用，显示诗人是在一边走，一边观赏。后一句正面写湖光水色：春水初涨，水面与堤岸齐平，空中舒卷的白云和湖面荡漾的波澜连成一片，正是典型的江南春湖的水态天容。颔联从静到动，从全景的写意到细节的工笔。先写仰视所见禽鸟，莺在歌，燕在舞,显示出春天的勃勃生机。黄莺和燕子都是春天的使者，莺声婉转，流传播春回大地的喜讯；燕子勤劳，又启迪人们开始春日的劳作，都写出了初春的生机。“几处”二字，勾画出莺歌的此呼彼应和诗人左右寻声的情态。“谁家”二字的疑问，又表现出诗人细腻的心理活动，并使读者由此产生丰富的联想。颈联写俯察所见花草。因为是早春，还未到百花盛开季节，所以能见到的尚不是姹紫嫣红开遍，而是东一团，西一簇，用一个“乱”字来形容。而春草也还没有长得丰茂，仅只有没过马蹄那么长，所以用一个“浅”字来形容。这一联中的“渐欲”和“才能”又是诗人观察、欣赏的感受和判断，这就使客观的自然景物化为带有诗人主观感情色彩的眼中景物，使读者受到感染。这两联细致地描绘了西湖春行所见景物，以“早”“新”“争”“啄”表现莺燕新来的动态；以“乱”“浅”“渐欲”“才能”，状写花草向荣的趋势。这就准确而生动地把诗人边行边赏的早春气象透露出来，给人以清新之感。前代诗人谢灵运“池塘生春草，园柳变鸣禽”二句之所以妙绝古今，受到激赏，正是由于他写出了季节更换时这种乍见的喜悦。《钱塘湖春行》以上两联在意境上颇与之相类，只是白诗铺展得更开些。尾联略写诗人最爱的湖东沙堤。白堤中贯钱塘湖，在湖东一带，可以总揽全湖之胜。只见绿杨荫里，平坦而修长的白沙堤静卧碧波之中，堤上骑马游春的人来往如织，尽情享受春日美景。诗人置身其间，饱览湖光山色之美，心旷而神怡。以“行不足”说明自然景物美不胜收，诗人也余兴未阑。这首诗就像一篇短小精悍的游记，从孤山、贾亭开始，到湖东、白堤止，一路上，在湖青山绿那美如天堂的景色中，诗人饱览了莺歌燕舞，陶醉在鸟语花香，最后，才意犹未尽地沿着白沙堤，在杨柳的绿阴底下，一步三回头，恋恋不舍地离去了。耳畔还回响着由世间万物共同演奏的春天的赞歌，心中便不由自主地流泻出一首饱含着自然融合之趣的优美诗歌来。前人说“乐天之诗，情致曲尽，入人肝脾，随物赋形，所在充满”（王若虚《滹南诗话》），又说“乐天诗极深厚可爱，往往以眼前事为见得语，皆他人所未发”（田雯《古欢堂集》）。这首诗语言平易浅近，清新自然，用白描手法把精心选择的镜头写入诗中，形象活现，即景寓情，从生意盎然的早春湖光中，体现出作者游湖时的喜悦心情，是当得起以上评语的。",
+  "knowledge": ""
 }

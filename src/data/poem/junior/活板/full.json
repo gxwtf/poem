@@ -1,7 +1,7 @@
 {
   "name": "活板",
   "author": "沈括",
-  "dynasty": "北宋",
+  "dynasty": "宋代",
   "mode": "paragraph",
   "paragraphs": [
     {
@@ -11,292 +11,165 @@
             {
               "char": "板",
               "pinyin": "bǎn",
-              "index": 0,
-              "read": false,
-              "write": true
+              "index": 0
             },
             {
               "char": "印",
               "pinyin": "yìn",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "书",
               "pinyin": "shū",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "籍",
               "pinyin": "jí",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 4,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "雕版印刷书籍，",
-          "pinyin": "bǎn yìn shū jí ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "content": "板印：指雕版印刷。板，同“版”，雕刻印刷用的木板。"
+              "pinyin": "",
+              "index": 4
             },
-            {
-              "start": 0,
-              "end": 3,
-              "content": "板印：雕版印刷。板，同“版”，指雕刻印刷用的木板。"
-            }
-          ]
-        },
-        {
-          "content": [
             {
               "char": "唐",
               "pinyin": "táng",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "尚",
               "pinyin": "shàng",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "未",
               "pinyin": "wèi",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "盛",
               "pinyin": "shèng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 12,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 12
             }
           ],
-          "translation": "唐代尚未盛行。",
-          "pinyin": "táng rén shàng wèi shèng wéi zhī 。"
+          "translation": "用雕板印刷书籍，唐朝时期的人还没有大规模地做这种事。"
         },
         {
           "content": [
             {
-              "char": "五",
-              "pinyin": "wǔ",
-              "index": 13,
-              "read": false,
-              "write": false
+              "char": "自",
+              "pinyin": "zì",
+              "index": 13
             },
             {
-              "char": "代",
-              "pinyin": "dài",
-              "index": 14,
-              "read": false,
-              "write": false
+              "char": "冯",
+              "pinyin": "féng",
+              "index": 14
             },
             {
-              "char": "时",
-              "pinyin": "shí",
-              "index": 15,
-              "read": false,
-              "write": false
+              "char": "瀛",
+              "pinyin": "yíng",
+              "index": 15
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng",
+              "index": 16
             },
             {
               "char": "始",
               "pinyin": "shǐ",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "印",
               "pinyin": "yìn",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "五",
               "pinyin": "wǔ",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "经",
               "pinyin": "jīng",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 20,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "五代开始印五经，",
-          "pinyin": "wǔ dài shí shǐ yìn wǔ jīng ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "五代：指唐朝灭亡后的后梁、后唐、后晋、后汉、后周五个朝代（907-960年）。"
+              "pinyin": "",
+              "index": 21
             },
-            {
-              "start": 4,
-              "end": 5,
-              "content": "始印：开始印刷。始，副词，表示最初。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "五经：儒家五部经典，指《诗》《书》《礼》《易》《春秋》。"
-            },
-            {
-              "start": 0,
-              "end": 6,
-              "content": "五代时始印五经：五代时期（公元907-960年）开始用雕版印刷《五经》（《诗》《书》《礼》《易》《春秋》）。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 7,
-              "old": "眼泪"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "鼻涕"
-            }
-          ]
-        },
-        {
-          "content": [
             {
               "char": "已",
               "pinyin": "yǐ",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "典",
               "pinyin": "diǎn",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "籍",
               "pinyin": "jí",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "皆",
               "pinyin": "jiē",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "板",
               "pinyin": "bǎn",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "本",
               "pinyin": "běn",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 29,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 30
             }
           ],
-          "translation": "此后典籍都是雕版。",
-          "pinyin": "yǐ hòu diǎn jí jiē wéi bǎn běn 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "已后典籍皆为板本：已后，即“以后”；典籍，泛指重要书籍；板本，雕版印刷的本子。"
-            },
-            {
-              "start": 6,
-              "end": 8,
-              "content": "板本：雕版印刷的本子，区别于手抄本。"
-            }
-          ]
+          "translation": "从冯道开始用雕版印刷五经，以后的各种重要文献书籍就都是板印的本子了。"
         }
       ]
     },
@@ -307,2253 +180,1640 @@
             {
               "char": "庆",
               "pinyin": "qìng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "历",
               "pinyin": "lì",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 33,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 34
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "布",
               "pinyin": "bù",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "衣",
               "pinyin": "yī",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "毕",
               "pinyin": "bì",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "昇",
               "pinyin": "shēng",
-              "index": 38,
-              "read": true,
-              "write": true
+              "index": 39
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 39,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "庆历年间，有平民毕昇，",
-          "pinyin": "qìng lì zhōng ， yǒu bù yī bì shēng ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "庆历：宋仁宗年号（1041-1048年）。"
+              "pinyin": "",
+              "index": 40
             },
-            {
-              "start": 4,
-              "end": 8,
-              "content": "布衣毕昇：布衣，平民；毕昇，北宋发明家，活字印刷术的发明者。"
-            },
-            {
-              "start": 4,
-              "end": 9,
-              "content": "布衣毕昇：平民毕昇。布衣，古代指平民百姓；毕昇，北宋发明活字印刷术的工匠。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 4,
-              "end": 6,
-              "old": "平民"
-            },
-            {
-              "start": 4,
-              "end": 6,
-              "new": "布做的衣服"
-            }
-          ]
-        },
-        {
-          "content": [
             {
               "char": "又",
               "pinyin": "yòu",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "活",
               "pinyin": "huó",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "板",
               "pinyin": "bǎn",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 44,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 45
             }
           ],
-          "translation": "创制活字印刷。",
-          "pinyin": "yòu wéi huó bǎn 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "活板：即活字印刷版。活，指字模可移动。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "活板：活字印刷版。活，指可移动、可重复使用。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "庆历年间，有个叫毕昇的平民，又发明了活字版印刷。"
+        },
         {
           "content": [
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "法",
               "pinyin": "fǎ",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "：",
-              "pinyin": "：",
-              "index": 47,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 48
             },
             {
               "char": "用",
               "pinyin": "yòng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "胶",
               "pinyin": "jiāo",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "泥",
               "pinyin": "ní",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "刻",
               "pinyin": "kè",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "字",
               "pinyin": "zì",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 53,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "方法：用粘土刻字，",
-          "pinyin": "qí fǎ ： yòng jiāo ní kè zì ，",
-          "notes": [
-            {
-              "start": 3,
-              "end": 7,
-              "content": "用胶泥刻字：用黏土刻字。胶泥，质地细腻的黏土。"
+              "pinyin": "",
+              "index": 54
             },
-            {
-              "start": 3,
-              "end": 8,
-              "content": "用胶泥刻字：用黏土刻制字模。胶泥，质地细腻的黏土，适于雕刻和烧制。"
-            }
-          ]
-        },
-        {
-          "content": [
             {
               "char": "薄",
               "pinyin": "báo",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "钱",
               "pinyin": "qián",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "唇",
               "pinyin": "chún",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 58,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "薄如铜钱边缘，",
-          "pinyin": "báo rú qián chún ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "content": "薄如钱唇：薄得像铜钱的边缘。钱唇，铜钱的边缘。"
+              "pinyin": "",
+              "index": 59
             },
             {
-              "start": 0,
-              "end": 4,
-              "content": "薄如钱唇：厚度像铜钱的边缘一样薄。钱唇，铜钱的边缘，形容极薄。"
+              "char": "每",
+              "pinyin": "měi",
+              "index": 60
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 61
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 62
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 63
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 64
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 65
+            },
+            {
+              "char": "火",
+              "pinyin": "huǒ",
+              "index": 66
+            },
+            {
+              "char": "烧",
+              "pinyin": "zhāo",
+              "index": 67
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng",
+              "index": 68
+            },
+            {
+              "char": "坚",
+              "pinyin": "jiān",
+              "index": 69
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 70
             }
-          ]
+          ],
+          "translation": "它的方法是：用黏土刻字，字模薄得像铜钱的边缘，每个字刻一个印模，用火烧使它坚硬。"
+        },
+        {
+          "content": [
+            {
+              "char": "先",
+              "pinyin": "xiān",
+              "index": 71
+            },
+            {
+              "char": "设",
+              "pinyin": "shè",
+              "index": 72
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 73
+            },
+            {
+              "char": "铁",
+              "pinyin": "tiě",
+              "index": 74
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 75
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 76
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 77
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 78
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 79
+            },
+            {
+              "char": "松",
+              "pinyin": "sōng",
+              "index": 80
+            },
+            {
+              "char": "脂",
+              "pinyin": "zhī",
+              "index": 81
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 82
+            },
+            {
+              "char": "蜡",
+              "pinyin": "là",
+              "index": 83
+            },
+            {
+              "char": "和",
+              "pinyin": "hé",
+              "index": 84
+            },
+            {
+              "char": "纸",
+              "pinyin": "zhǐ",
+              "index": 85
+            },
+            {
+              "char": "灰",
+              "pinyin": "huī",
+              "index": 86
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 87
+            },
+            {
+              "char": "类",
+              "pinyin": "lèi",
+              "index": 88
+            },
+            {
+              "char": "冒",
+              "pinyin": "mào",
+              "index": 89
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 90
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 91
+            }
+          ],
+          "translation": "先设置一块铁板，在它的上面用松脂、蜡混合着纸灰这一类东西覆盖好。"
+        },
+        {
+          "content": [
+            {
+              "char": "欲",
+              "pinyin": "yù",
+              "index": 92
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 93
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 94
+            },
+            {
+              "char": "则",
+              "pinyin": "zé",
+              "index": 95
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 96
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 97
+            },
+            {
+              "char": "铁",
+              "pinyin": "tiě",
+              "index": 98
+            },
+            {
+              "char": "范",
+              "pinyin": "fàn",
+              "index": 99
+            },
+            {
+              "char": "置",
+              "pinyin": "zhì",
+              "index": 100
+            },
+            {
+              "char": "铁",
+              "pinyin": "tiě",
+              "index": 101
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 102
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 103
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 104
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi",
+              "index": 105
+            },
+            {
+              "char": "密",
+              "pinyin": "mì",
+              "index": 106
+            },
+            {
+              "char": "布",
+              "pinyin": "bù",
+              "index": 107
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 108
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 109
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 110
+            },
+            {
+              "char": "满",
+              "pinyin": "mǎn",
+              "index": 111
+            },
+            {
+              "char": "铁",
+              "pinyin": "tiě",
+              "index": 112
+            },
+            {
+              "char": "范",
+              "pinyin": "fàn",
+              "index": 113
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 114
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 115
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 116
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 117
+            },
+            {
+              "char": "持",
+              "pinyin": "chí",
+              "index": 118
+            },
+            {
+              "char": "就",
+              "pinyin": "jiù",
+              "index": 119
+            },
+            {
+              "char": "火",
+              "pinyin": "huǒ",
+              "index": 120
+            },
+            {
+              "char": "炀",
+              "pinyin": "yáng",
+              "index": 121
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 122
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 123
+            },
+            {
+              "char": "药",
+              "pinyin": "yào",
+              "index": 124
+            },
+            {
+              "char": "稍",
+              "pinyin": "shāo",
+              "index": 125
+            },
+            {
+              "char": "镕",
+              "pinyin": "róng",
+              "index": 126
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 127
+            },
+            {
+              "char": "则",
+              "pinyin": "zé",
+              "index": 128
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 129
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 130
+            },
+            {
+              "char": "平",
+              "pinyin": "píng",
+              "index": 131
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 132
+            },
+            {
+              "char": "按",
+              "pinyin": "àn",
+              "index": 133
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 134
+            },
+            {
+              "char": "面",
+              "pinyin": "miàn",
+              "index": 135
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 136
+            },
+            {
+              "char": "则",
+              "pinyin": "zé",
+              "index": 137
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 138
+            },
+            {
+              "char": "平",
+              "pinyin": "píng",
+              "index": 139
+            },
+            {
+              "char": "如",
+              "pinyin": "rú",
+              "index": 140
+            },
+            {
+              "char": "砥",
+              "pinyin": "dǐ",
+              "index": 141
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 142
+            }
+          ],
+          "translation": "想要印刷，就把一个铁框子放在铁板上面，然后在铁框内密密地排上字模，排满了一铁框就成为一块印版，把它拿到火上烘烤；"
+        },
+        {
+          "content": [
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 143
+            },
+            {
+              "char": "止",
+              "pinyin": "zhǐ",
+              "index": 144
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 145
+            },
+            {
+              "char": "三",
+              "pinyin": "sān",
+              "index": 146
+            },
+            {
+              "char": "二",
+              "pinyin": "èr",
+              "index": 147
+            },
+            {
+              "char": "本",
+              "pinyin": "běn",
+              "index": 148
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 149
+            },
+            {
+              "char": "未",
+              "pinyin": "wèi",
+              "index": 150
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 151
+            },
+            {
+              "char": "简",
+              "pinyin": "jiǎn",
+              "index": 152
+            },
+            {
+              "char": "易",
+              "pinyin": "yì",
+              "index": 153
+            },
+            {
+              "char": "；",
+              "pinyin": "",
+              "index": 154
+            }
+          ],
+          "translation": "待铁板上的混合物稍稍熔化，就用一块平板按在字模上面，那么所有排在板上的字模就像磨刀石那样平。"
+        },
+        {
+          "content": [
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 155
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 156
+            },
+            {
+              "char": "数",
+              "pinyin": "shù",
+              "index": 157
+            },
+            {
+              "char": "十",
+              "pinyin": "shí",
+              "index": 158
+            },
+            {
+              "char": "百",
+              "pinyin": "bǎi",
+              "index": 159
+            },
+            {
+              "char": "千",
+              "pinyin": "qiān",
+              "index": 160
+            },
+            {
+              "char": "本",
+              "pinyin": "běn",
+              "index": 161
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 162
+            },
+            {
+              "char": "则",
+              "pinyin": "zé",
+              "index": 163
+            },
+            {
+              "char": "极",
+              "pinyin": "jí",
+              "index": 164
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 165
+            },
+            {
+              "char": "神",
+              "pinyin": "shén",
+              "index": 166
+            },
+            {
+              "char": "速",
+              "pinyin": "sù",
+              "index": 167
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 168
+            }
+          ],
+          "translation": "如果只印两三本，不能算是简便；"
+        },
+        {
+          "content": [
+            {
+              "char": "常",
+              "pinyin": "cháng",
+              "index": 169
+            },
+            {
+              "char": "作",
+              "pinyin": "zuò",
+              "index": 170
+            },
+            {
+              "char": "二",
+              "pinyin": "èr",
+              "index": 171
+            },
+            {
+              "char": "铁",
+              "pinyin": "tiě",
+              "index": 172
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 173
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 174
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 175
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 176
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 177
+            },
+            {
+              "char": "刷",
+              "pinyin": "shū",
+              "index": 178
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 179
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 180
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 181
+            },
+            {
+              "char": "已",
+              "pinyin": "yǐ",
+              "index": 182
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 183
+            },
+            {
+              "char": "布",
+              "pinyin": "bù",
+              "index": 184
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 185
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 186
+            },
+            {
+              "char": "此",
+              "pinyin": "cǐ",
+              "index": 187
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 188
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 189
+            },
+            {
+              "char": "才",
+              "pinyin": "cái",
+              "index": 190
+            },
+            {
+              "char": "毕",
+              "pinyin": "bì",
+              "index": 191
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 192
+            },
+            {
+              "char": "则",
+              "pinyin": "zé",
+              "index": 193
+            },
+            {
+              "char": "第",
+              "pinyin": "dì",
+              "index": 194
+            },
+            {
+              "char": "二",
+              "pinyin": "èr",
+              "index": 195
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 196
+            },
+            {
+              "char": "已",
+              "pinyin": "yǐ",
+              "index": 197
+            },
+            {
+              "char": "具",
+              "pinyin": "jù",
+              "index": 198
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 199
+            },
+            {
+              "char": "更",
+              "pinyin": "gēng",
+              "index": 200
+            },
+            {
+              "char": "互",
+              "pinyin": "hù",
+              "index": 201
+            },
+            {
+              "char": "用",
+              "pinyin": "yòng",
+              "index": 202
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 203
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 204
+            },
+            {
+              "char": "瞬",
+              "pinyin": "shùn",
+              "index": 205
+            },
+            {
+              "char": "息",
+              "pinyin": "xī",
+              "index": 206
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 207
+            },
+            {
+              "char": "就",
+              "pinyin": "jiù",
+              "index": 208
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 209
+            }
+          ],
+          "translation": "如果印几十乃至成百上千本，那就极其快速。"
         },
         {
           "content": [
             {
               "char": "每",
               "pinyin": "měi",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 210
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 211
             },
             {
               "char": "字",
               "pinyin": "zì",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 212
             },
             {
-              "char": "为",
-              "pinyin": "wéi",
-              "index": 61,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "一",
-              "pinyin": "yī",
-              "index": 62,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "印",
-              "pinyin": "yìn",
-              "index": 63,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 64,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "每字制成一印，",
-          "pinyin": "měi zì wéi yī yìn ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "每字为一印：每个字刻成一个字模。印，这里指字模。"
-            },
-            {
-              "start": 0,
-              "end": 5,
-              "content": "每字为一印：每个字刻成一个字模。印，这里指活字字模。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "火",
-              "pinyin": "huǒ",
-              "index": 65,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "烧",
-              "pinyin": "shāo",
-              "index": 66,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "令",
-              "pinyin": "lìng",
-              "index": 67,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "坚",
-              "pinyin": "jiān",
-              "index": 68,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "。",
-              "index": 69,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "火烧使其坚硬。",
-          "pinyin": "huǒ shāo lìng jiān 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "content": "火烧令坚：用火烧使它坚硬。令，使。"
-            },
-            {
-              "start": 0,
-              "end": 4,
-              "content": "火烧令坚：用火烧使它坚硬。令，使。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "先",
-              "pinyin": "xiān",
-              "index": 70,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "设",
-              "pinyin": "shè",
-              "index": 71,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "一",
-              "pinyin": "yī",
-              "index": 72,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "铁",
-              "pinyin": "tiě",
-              "index": 73,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "板",
-              "pinyin": "bǎn",
-              "index": 74,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 75,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "准备铁板，",
-          "pinyin": "xiān shè yī tiě bǎn ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "先设一铁板：先准备一块铁板。设，设置、准备。"
-            },
-            {
-              "start": 0,
-              "end": 5,
-              "content": "先设一铁板：先准备一块铁板。设，设置、准备。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "其",
-              "pinyin": "qí",
-              "index": 76,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "上",
-              "pinyin": "shàng",
-              "index": 77,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ",
-              "index": 78,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "松",
-              "pinyin": "sōng",
-              "index": 79,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "脂",
-              "pinyin": "zhī",
-              "index": 80,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "、",
-              "pinyin": "、",
-              "index": 81,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "蜡",
-              "pinyin": "là",
-              "index": 82,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "和",
-              "pinyin": "hé",
-              "index": 83,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "纸",
-              "pinyin": "zhǐ",
-              "index": 84,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "灰",
-              "pinyin": "huī",
-              "index": 85,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "index": 86,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "类",
-              "pinyin": "lèi",
-              "index": 87,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "冒",
-              "pinyin": "mào",
-              "index": 88,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "index": 89,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "。",
-              "index": 90,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "涂上松脂、蜡和纸灰混合物。",
-          "pinyin": "qí shàng yǐ sōng zhī 、 là hé zhǐ huī zhī lèi mào zhī 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 13,
-              "content": "其上以松脂、蜡和纸灰之类冒之：上面用松脂、蜡混合纸灰之类覆盖。和，混合；冒，覆盖。"
-            },
-            {
-              "start": 0,
-              "end": 14,
-              "content": "其上以松脂、蜡和纸灰之类冒之：铁板上用松脂、蜡混合纸灰一类的东西覆盖它。和，混合；冒，覆盖。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 10,
-              "old": "纸灰"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "new": "纸张燃烧后的灰"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "欲",
-              "pinyin": "yù",
-              "index": 91,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "印",
-              "pinyin": "yìn",
-              "index": 92,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 93,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "则",
-              "pinyin": "zé",
-              "index": 94,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ",
-              "index": 95,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "一",
-              "pinyin": "yī",
-              "index": 96,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "铁",
-              "pinyin": "tiě",
-              "index": 97,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "范",
-              "pinyin": "fàn",
-              "index": 98,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "置",
-              "pinyin": "zhì",
-              "index": 99,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "铁",
-              "pinyin": "tiě",
-              "index": 100,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "板",
-              "pinyin": "bǎn",
-              "index": 101,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "上",
-              "pinyin": "shàng",
-              "index": 102,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 103,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "要印刷时，放铁框在铁板上，",
-          "pinyin": "yù yìn ， zé yǐ yī tiě fàn zhì tiě bǎn shàng ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "欲印：要印刷的时候。欲，想要。"
-            },
-            {
-              "start": 4,
-              "end": 11,
-              "content": "以一铁范置铁板上：拿一个铁框放在铁板上。范，框子。"
-            },
-            {
-              "start": 0,
-              "end": 2,
-              "content": "欲印：想要印刷的时候。欲，想要。"
-            },
-            {
-              "start": 4,
-              "end": 12,
-              "content": "则以一铁范置铁板上：就用一个铁框放在铁板上。铁范，铁制的框子；置，放置。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "乃",
-              "pinyin": "nǎi",
-              "index": 104,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "密",
-              "pinyin": "mì",
-              "index": 105,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "布",
-              "pinyin": "bù",
-              "index": 106,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "字",
-              "pinyin": "zì",
-              "index": 107,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "印",
-              "pinyin": "yìn",
-              "index": 108,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 109,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "排满字印，",
-          "pinyin": "nǎi mì bù zì yìn ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "乃密布字印：于是紧密地排满字模。布，排列。"
-            },
-            {
-              "start": 0,
-              "end": 5,
-              "content": "乃密布字印：于是密密地排上字模。布，排列；字印，字模。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "满",
-              "pinyin": "mǎn",
-              "index": 110,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "铁",
-              "pinyin": "tiě",
-              "index": 111,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "范",
-              "pinyin": "fàn",
-              "index": 112,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "为",
-              "pinyin": "wéi",
-              "index": 113,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "一",
-              "pinyin": "yī",
-              "index": 114,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "板",
-              "pinyin": "bǎn",
-              "index": 115,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 116,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "排满一框为一版，",
-          "pinyin": "mǎn tiě fàn wéi yī bǎn ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "满铁范为一板：排满铁框成为一块印版。"
-            },
-            {
-              "start": 0,
-              "end": 6,
-              "content": "满铁范为一板：排满铁框成为一版。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "持",
-              "pinyin": "chí",
-              "index": 117,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "就",
-              "pinyin": "jiù",
-              "index": 118,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "火",
-              "pinyin": "huǒ",
-              "index": 119,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "炀",
-              "pinyin": "yáng",
-              "index": 120,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "index": 121,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "；",
-              "pinyin": "；",
-              "index": 122,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "拿近火烤；",
-          "pinyin": "chí jiù huǒ yáng zhī ；",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "持就火炀之：拿着靠近火烘烤它。就，靠近；炀，烘烤。"
-            },
-            {
-              "start": 0,
-              "end": 5,
-              "content": "持就火炀之：拿着靠近火烘烤它。就，靠近；炀，烘烤。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "烘烤"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "熔化金属"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "药",
-              "pinyin": "yào",
-              "index": 123,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "稍",
-              "pinyin": "shāo",
-              "index": 124,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "熔",
-              "pinyin": "róng",
-              "index": 125,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 126,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "则",
-              "pinyin": "zé",
-              "index": 127,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ",
-              "index": 128,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "一",
-              "pinyin": "yī",
-              "index": 129,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "平",
-              "pinyin": "píng",
-              "index": 130,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "板",
-              "pinyin": "bǎn",
-              "index": 131,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "按",
-              "pinyin": "àn",
-              "index": 132,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "其",
-              "pinyin": "qí",
-              "index": 133,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "面",
-              "pinyin": "miàn",
-              "index": 134,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 135,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "药料稍熔，用平板按压，",
-          "pinyin": "yào shāo róng ， zé yǐ yī píng bǎn àn qí miàn ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "药稍熔：药，指松脂、蜡等混合物；稍，渐渐。"
-            },
-            {
-              "start": 0,
-              "end": 3,
-              "content": "药稍熔：药物（松脂、蜡等）稍微熔化。药，指覆盖的铁板上的药物。"
-            },
-            {
-              "start": 5,
-              "end": 12,
-              "content": "则以一平板按其面：就用一块平的板子压它的表面。按，压。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "则",
-              "pinyin": "zé",
-              "index": 136,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "字",
-              "pinyin": "zì",
-              "index": 137,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "平",
-              "pinyin": "píng",
-              "index": 138,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "如",
-              "pinyin": "rú",
-              "index": 139,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "砥",
-              "pinyin": "dǐ",
-              "index": 140,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "。",
-              "index": 141,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "字面就平整如磨刀石。",
-          "pinyin": "zé zì píng rú dǐ 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "则字平如砥：那么字模就平整得像磨刀石一样。砥，磨刀石。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "若",
-              "pinyin": "ruò",
-              "index": 142,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "止",
-              "pinyin": "zhǐ",
-              "index": 143,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "印",
-              "pinyin": "yìn",
-              "index": 144,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "三",
-              "pinyin": "sān",
-              "index": 145,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "二",
-              "pinyin": "èr",
-              "index": 146,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "本",
-              "pinyin": "běn",
-              "index": 147,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 148,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "未",
-              "pinyin": "wèi",
-              "index": 149,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "为",
-              "pinyin": "wéi",
-              "index": 150,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "简",
-              "pinyin": "jiǎn",
-              "index": 151,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "易",
-              "pinyin": "yì",
-              "index": 152,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "；",
-              "pinyin": "；",
-              "index": 153,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "若只印三两本，不算简易；",
-          "pinyin": "ruò zhǐ yìn sān èr běn ， wèi wéi jiǎn yì ；",
-          "notes": [
-            {
-              "start": 1,
-              "end": 6,
-              "content": "若止印三二本：如果只印三两本。止，同“只”。"
-            },
-            {
-              "start": 7,
-              "end": 11,
-              "content": "未为简易：不算简便。为，算是。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 7,
-              "end": 11,
-              "content": "否定判断句：'未为'表否定判断"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "若",
-              "pinyin": "ruò",
-              "index": 154,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "印",
-              "pinyin": "yìn",
-              "index": 155,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "数",
-              "pinyin": "shù",
-              "index": 156,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "十",
-              "pinyin": "shí",
-              "index": 157,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "百",
-              "pinyin": "bǎi",
-              "index": 158,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "千",
-              "pinyin": "qiān",
-              "index": 159,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "本",
-              "pinyin": "běn",
-              "index": 160,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 161,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "则",
-              "pinyin": "zé",
-              "index": 162,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "极",
-              "pinyin": "jí",
-              "index": 163,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "为",
-              "pinyin": "wéi",
-              "index": 164,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "神",
-              "pinyin": "shén",
-              "index": 165,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "速",
-              "pinyin": "sù",
-              "index": 166,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "。",
-              "index": 167,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "若印几十上百本，就极神速。",
-          "pinyin": "ruò yìn shù shí bǎi qiān běn ， zé jí wéi shén sù 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 7,
-              "content": "若印数十百千本：如果印几十、上百、上千本。"
-            },
-            {
-              "start": 8,
-              "end": 13,
-              "content": "则极为神速：就非常快速。神速，形容极其迅速。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "常",
-              "pinyin": "cháng",
-              "index": 168,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "作",
-              "pinyin": "zuò",
-              "index": 169,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "二",
-              "pinyin": "èr",
-              "index": 170,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "铁",
-              "pinyin": "tiě",
-              "index": 171,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "板",
-              "pinyin": "bǎn",
-              "index": 172,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 173,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "通常备两块铁板，",
-          "pinyin": "cháng zuò èr tiě bǎn ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "常作二铁板：通常准备两块铁板。作，制作、准备。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "一",
-              "pinyin": "yī",
-              "index": 174,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "板",
-              "pinyin": "bǎn",
-              "index": 175,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "印",
-              "pinyin": "yìn",
-              "index": 176,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "刷",
-              "pinyin": "shuā",
-              "index": 177,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 178,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "一版印刷时，",
-          "pinyin": "yī bǎn yìn shuā ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "一板印刷：一块板印刷。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "一",
-              "pinyin": "yī",
-              "index": 179,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "板",
-              "pinyin": "bǎn",
-              "index": 180,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "已",
-              "pinyin": "yǐ",
-              "index": 181,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "自",
-              "pinyin": "zì",
-              "index": 182,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "布",
-              "pinyin": "bù",
-              "index": 183,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "字",
-              "pinyin": "zì",
-              "index": 184,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 185,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "另一版排字，",
-          "pinyin": "yī bǎn yǐ zì bù zì ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "一板已自布字：另一块板已经在另外排字。自，另自、另外。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "此",
-              "pinyin": "cǐ",
-              "index": 186,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "印",
-              "pinyin": "yìn",
-              "index": 187,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě",
-              "index": 188,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "才",
-              "pinyin": "cái",
-              "index": 189,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "毕",
-              "pinyin": "bì",
-              "index": 190,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 191,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "前版刚印完，",
-          "pinyin": "cǐ yìn zhě cái bì ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "此印者才毕：这块板印刷刚完。才毕，刚刚完毕。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "则",
-              "pinyin": "zé",
-              "index": 192,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "第",
-              "pinyin": "dì",
-              "index": 193,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "二",
-              "pinyin": "èr",
-              "index": 194,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "板",
-              "pinyin": "bǎn",
-              "index": 195,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "已",
-              "pinyin": "yǐ",
-              "index": 196,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "具",
-              "pinyin": "jù",
-              "index": 197,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 198,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "第二版已备好，",
-          "pinyin": "zé dì èr bǎn yǐ jù ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "则第二板已具：第二块板已经准备好了。具，具备、准备好。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "更",
-              "pinyin": "gèng",
-              "index": 199,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "互",
-              "pinyin": "hù",
-              "index": 200,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "用",
-              "pinyin": "yòng",
-              "index": 201,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "index": 202,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 203,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "交替使用，",
-          "pinyin": "gèng hù yòng zhī ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "更互用之：交替使用它们。更互，轮流、交替。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "瞬",
-              "pinyin": "shùn",
-              "index": 204,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "息",
-              "pinyin": "xī",
-              "index": 205,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "可",
-              "pinyin": "kě",
-              "index": 206,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "就",
-              "pinyin": "jiù",
-              "index": 207,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "。",
-              "index": 208,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "片刻完成。",
-          "pinyin": "shùn xī kě jiù 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "瞬息可就：一瞬间就可以完成。瞬息，一眨眼一呼吸之间，形容时间极短；就，完成。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 209,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ",
-              "index": 210,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "木",
-              "pinyin": "mù",
-              "index": 211,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "为",
-              "pinyin": "wéi",
-              "index": 212,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "index": 213,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě",
-              "index": 214,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 215,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "不用木材刻字，",
-          "pinyin": "bù yǐ mù wéi zhī zhě ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "不以木为之者：不用木头做字模的原因。为，做；之，指字模；者，的原因。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "判断句：'者'字表原因判断"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "木",
-              "pinyin": "mù",
-              "index": 216,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "理",
-              "pinyin": "lǐ",
-              "index": 217,
-              "read": false,
-              "write": false
+              "char": "皆",
+              "pinyin": "jiē",
+              "index": 213
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 218,
-              "read": false,
-              "write": false
+              "index": 214
             },
             {
-              "char": "疏",
-              "pinyin": "shū",
-              "index": 219,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "密",
-              "pinyin": "mì",
-              "index": 220,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 221,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "因木纹疏密不均，",
-          "pinyin": "mù lǐ yǒu shū mì ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "木理有疏密：木头的纹理有疏有密。理，纹理。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "沾",
-              "pinyin": "zhān",
-              "index": 222,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "水",
-              "pinyin": "shuǐ",
-              "index": 223,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "则",
-              "pinyin": "zé",
-              "index": 224,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "高",
-              "pinyin": "gāo",
-              "index": 225,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "下",
-              "pinyin": "xià",
-              "index": 226,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 227,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "平",
-              "pinyin": "píng",
-              "index": 228,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 229,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "沾水高低不平，",
-          "pinyin": "zhān shuǐ zé gāo xià bù píng ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "沾水则高下不平：沾了水就会高低不平。高下，高低。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "兼",
-              "pinyin": "jiān",
-              "index": 230,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "与",
-              "pinyin": "yǔ",
-              "index": 231,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "药",
-              "pinyin": "yào",
-              "index": 232,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "相",
-              "pinyin": "xiāng",
-              "index": 233,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "粘",
-              "pinyin": "zhān",
-              "index": 234,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 235,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 236,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "可",
-              "pinyin": "kě",
-              "index": 237,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "取",
-              "pinyin": "qǔ",
-              "index": 238,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "；",
-              "pinyin": "；",
-              "index": 239,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "且与药料相粘，难取下；",
-          "pinyin": "jiān yǔ yào xiāng zhān ， bù kě qǔ ；",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "兼与药相粘：并且和药物互相粘连。兼，并且；药，指松脂、蜡等。"
-            },
-            {
-              "start": 6,
-              "end": 9,
-              "content": "不可取：不能取用（指不方便使用）。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 240,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "若",
-              "pinyin": "ruò",
-              "index": 241,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "燔",
-              "pinyin": "fán",
-              "index": 242,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "土",
-              "pinyin": "tǔ",
-              "index": 243,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 244,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "不如黏土字，",
-          "pinyin": "bù ruò fán tǔ ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "不若燔土：不如用烧制的黏土字模。燔，烧；土，指胶泥字模。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "用",
-              "pinyin": "yòng",
-              "index": 245,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "讫",
-              "pinyin": "qì",
-              "index": 246,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "再",
-              "pinyin": "zài",
-              "index": 247,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "火",
-              "pinyin": "huǒ",
-              "index": 248,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "令",
-              "pinyin": "lìng",
-              "index": 249,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "药",
-              "pinyin": "yào",
-              "index": 250,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "熔",
-              "pinyin": "róng",
-              "index": 251,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 252,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "用毕烘烤使药熔，",
-          "pinyin": "yòng qì zài huǒ lìng yào róng ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "用讫：用完以后。讫，完毕。"
-            },
-            {
-              "start": 3,
-              "end": 7,
-              "content": "再火令药熔：再用火烤使药物熔化。火，用火烤；令，使。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "以",
-              "pinyin": "yǐ",
-              "index": 253,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "手",
-              "pinyin": "shǒu",
-              "index": 254,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "拂",
-              "pinyin": "fú",
-              "index": 255,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "index": 256,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "，",
-              "index": 257,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "其",
-              "pinyin": "qí",
-              "index": 258,
-              "read": false,
-              "write": false
+              "char": "数",
+              "pinyin": "shù",
+              "index": 215
             },
             {
               "char": "印",
               "pinyin": "yìn",
-              "index": 259,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "自",
-              "pinyin": "zì",
-              "index": 260,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "落",
-              "pinyin": "luò",
-              "index": 261,
-              "read": false,
-              "write": false
+              "index": 216
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 262,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "手拂字落，",
-          "pinyin": "yǐ shǒu fú zhī ， qí yìn zì luò ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "以手拂之：用手拂拭它。拂，轻轻擦过。"
+              "pinyin": "",
+              "index": 217
             },
             {
-              "start": 5,
-              "end": 9,
-              "content": "其印自落：那些字模自己脱落。"
+              "char": "如",
+              "pinyin": "rú",
+              "index": 218
+            },
+            {
+              "char": "“",
+              "pinyin": "",
+              "index": 219
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 220
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 221
+            },
+            {
+              "char": "“",
+              "pinyin": "",
+              "index": 222
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 223
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 224
+            },
+            {
+              "char": "等",
+              "pinyin": "děng",
+              "index": 225
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 226
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 227
+            },
+            {
+              "char": "每",
+              "pinyin": "měi",
+              "index": 228
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 229
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 230
+            },
+            {
+              "char": "二",
+              "pinyin": "èr",
+              "index": 231
+            },
+            {
+              "char": "十",
+              "pinyin": "shí",
+              "index": 232
+            },
+            {
+              "char": "余",
+              "pinyin": "yú",
+              "index": 233
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 234
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 235
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 236
+            },
+            {
+              "char": "备",
+              "pinyin": "bèi",
+              "index": 237
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 238
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn",
+              "index": 239
+            },
+            {
+              "char": "内",
+              "pinyin": "nèi",
+              "index": 240
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 241
+            },
+            {
+              "char": "重",
+              "pinyin": "chóng",
+              "index": 242
+            },
+            {
+              "char": "复",
+              "pinyin": "fù",
+              "index": 243
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 244
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 245
             }
-          ]
+          ],
+          "translation": "通常是做两块铁板，这一块在印刷，那一块已另外在排字了，这块印刷才完，第二块板已经准备好了，两块相互交替使用，很短的时间就能完成。"
         },
         {
           "content": [
             {
-              "char": "殊",
-              "pinyin": "shū",
-              "index": 263,
-              "read": false,
-              "write": false
+              "char": "不",
+              "pinyin": "bú",
+              "index": 246
             },
+            {
+              "char": "用",
+              "pinyin": "yòng",
+              "index": 247
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 248
+            },
+            {
+              "char": "则",
+              "pinyin": "zé",
+              "index": 249
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 250
+            },
+            {
+              "char": "纸",
+              "pinyin": "zhǐ",
+              "index": 251
+            },
+            {
+              "char": "帖",
+              "pinyin": "tiě",
+              "index": 252
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 253
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 254
+            },
+            {
+              "char": "每",
+              "pinyin": "měi",
+              "index": 255
+            },
+            {
+              "char": "韵",
+              "pinyin": "yùn",
+              "index": 256
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi",
+              "index": 257
+            },
+            {
+              "char": "一",
+              "pinyin": "yī",
+              "index": 258
+            },
+            {
+              "char": "帖",
+              "pinyin": "tiě",
+              "index": 259
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 260
+            },
+            {
+              "char": "木",
+              "pinyin": "mù",
+              "index": 261
+            },
+            {
+              "char": "格",
+              "pinyin": "gé",
+              "index": 262
+            },
+            {
+              "char": "贮",
+              "pinyin": "zhù",
+              "index": 263
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 264
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 265
+            }
+          ],
+          "translation": "每一个字都有好几个印模，像“之”、“也”等字，每个字有二十多个印模，用来准备同一版内有重复的字。"
+        },
+        {
+          "content": [
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 266
+            },
+            {
+              "char": "奇",
+              "pinyin": "qí",
+              "index": 267
+            },
+            {
+              "char": "字",
+              "pinyin": "zì",
+              "index": 268
+            },
+            {
+              "char": "素",
+              "pinyin": "sù",
+              "index": 269
+            },
+            {
+              "char": "无",
+              "pinyin": "wú",
+              "index": 270
+            },
+            {
+              "char": "备",
+              "pinyin": "bèi",
+              "index": 271
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 272
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 273
+            },
+            {
+              "char": "旋",
+              "pinyin": "xuán",
+              "index": 274
+            },
+            {
+              "char": "刻",
+              "pinyin": "kè",
+              "index": 275
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 276
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 277
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 278
+            },
+            {
+              "char": "草",
+              "pinyin": "cǎo",
+              "index": 279
+            },
+            {
+              "char": "火",
+              "pinyin": "huǒ",
+              "index": 280
+            },
+            {
+              "char": "烧",
+              "pinyin": "shāo",
+              "index": 281
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 282
+            },
+            {
+              "char": "瞬",
+              "pinyin": "shùn",
+              "index": 283
+            },
+            {
+              "char": "息",
+              "pinyin": "xī",
+              "index": 284
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 285
+            },
+            {
+              "char": "成",
+              "pinyin": "chéng",
+              "index": 286
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 287
+            }
+          ],
+          "translation": "不用时，就用纸条给它们作标签，按照字的韵部分类每个韵部做一个标签，用木格子把它们贮存起来。"
+        },
+        {
+          "content": [
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 264,
-              "read": false,
-              "write": false
+              "index": 288
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 289
+            },
+            {
+              "char": "木",
+              "pinyin": "mù",
+              "index": 290
+            },
+            {
+              "char": "为",
+              "pinyin": "wèi",
+              "index": 291
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 292
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 293
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 294
+            },
+            {
+              "char": "木",
+              "pinyin": "mù",
+              "index": 295
+            },
+            {
+              "char": "理",
+              "pinyin": "lǐ",
+              "index": 296
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 297
+            },
+            {
+              "char": "疏",
+              "pinyin": "shū",
+              "index": 298
+            },
+            {
+              "char": "密",
+              "pinyin": "mì",
+              "index": 299
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 300
             },
             {
               "char": "沾",
               "pinyin": "zhān",
-              "index": 265,
-              "read": false,
-              "write": false
+              "index": 301
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ",
+              "index": 302
+            },
+            {
+              "char": "则",
+              "pinyin": "zé",
+              "index": 303
+            },
+            {
+              "char": "高",
+              "pinyin": "gāo",
+              "index": 304
+            },
+            {
+              "char": "下",
+              "pinyin": "xià",
+              "index": 305
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 306
+            },
+            {
+              "char": "平",
+              "pinyin": "píng",
+              "index": 307
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 308
+            },
+            {
+              "char": "兼",
+              "pinyin": "jiān",
+              "index": 309
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ",
+              "index": 310
+            },
+            {
+              "char": "药",
+              "pinyin": "yào",
+              "index": 311
+            },
+            {
+              "char": "相",
+              "pinyin": "xiàng",
+              "index": 312
+            },
+            {
+              "char": "粘",
+              "pinyin": "zhān",
+              "index": 313
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 314
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 315
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 316
+            },
+            {
+              "char": "取",
+              "pinyin": "qǔ",
+              "index": 317
+            },
+            {
+              "char": "；",
+              "pinyin": "",
+              "index": 318
+            }
+          ],
+          "translation": "遇到平时没有准备的生僻字，随即刻制，用草烧火烘烤，很快就能制成功。"
+        },
+        {
+          "content": [
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 319
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò",
+              "index": 320
+            },
+            {
+              "char": "燔",
+              "pinyin": "fán",
+              "index": 321
+            },
+            {
+              "char": "土",
+              "pinyin": "tǔ",
+              "index": 322
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 323
+            },
+            {
+              "char": "用",
+              "pinyin": "yòng",
+              "index": 324
+            },
+            {
+              "char": "讫",
+              "pinyin": "qì",
+              "index": 325
+            },
+            {
+              "char": "再",
+              "pinyin": "zài",
+              "index": 326
+            },
+            {
+              "char": "火",
+              "pinyin": "huǒ",
+              "index": 327
+            },
+            {
+              "char": "令",
+              "pinyin": "lìng",
+              "index": 328
+            },
+            {
+              "char": "药",
+              "pinyin": "yào",
+              "index": 329
+            },
+            {
+              "char": "镕",
+              "pinyin": "róng",
+              "index": 330
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 331
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ",
+              "index": 332
+            },
+            {
+              "char": "手",
+              "pinyin": "shǒu",
+              "index": 333
+            },
+            {
+              "char": "拂",
+              "pinyin": "fú",
+              "index": 334
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 335
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 336
+            },
+            {
+              "char": "其",
+              "pinyin": "qí",
+              "index": 337
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn",
+              "index": 338
+            },
+            {
+              "char": "自",
+              "pinyin": "zì",
+              "index": 339
+            },
+            {
+              "char": "落",
+              "pinyin": "luò",
+              "index": 340
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 341
+            },
+            {
+              "char": "殊",
+              "pinyin": "shū",
+              "index": 342
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 343
+            },
+            {
+              "char": "沾",
+              "pinyin": "zhān",
+              "index": 344
             },
             {
               "char": "污",
               "pinyin": "wū",
-              "index": 266,
-              "read": false,
-              "write": false
+              "index": 345
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 267,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 346
             }
           ],
-          "translation": "完全不沾污。",
-          "pinyin": "shū bù zhān wū 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "殊不沾污：一点也不沾染脏东西。殊，根本、完全。"
-            }
-          ]
+          "translation": "不用木料刻字的原因，是木纹有疏有密，沾水后就高低不平，并且和混合物粘在一起，不容易取出来。"
         }
       ]
     },
@@ -2564,169 +1824,90 @@
             {
               "char": "昇",
               "pinyin": "shēng",
-              "index": 268,
-              "read": false,
-              "write": false
+              "index": 347
             },
             {
               "char": "死",
               "pinyin": "sǐ",
-              "index": 269,
-              "read": false,
-              "write": false
+              "index": 348
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 270,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 349
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 271,
-              "read": false,
-              "write": false
+              "index": 350
             },
             {
               "char": "印",
               "pinyin": "yìn",
-              "index": 272,
-              "read": false,
-              "write": false
+              "index": 351
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 273,
-              "read": false,
-              "write": false
+              "index": 352
             },
             {
-              "char": "予",
-              "pinyin": "yǔ",
-              "index": 274,
-              "read": false,
-              "write": false
+              "char": "余",
+              "pinyin": "yú",
+              "index": 353
             },
             {
               "char": "群",
               "pinyin": "qún",
-              "index": 275,
-              "read": false,
-              "write": false
+              "index": 354
             },
             {
               "char": "从",
               "pinyin": "cóng",
-              "index": 276,
-              "read": true,
-              "write": true
+              "index": 355
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 277,
-              "read": false,
-              "write": false
+              "index": 356
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 278,
-              "read": false,
-              "write": false
+              "index": 357
             },
             {
               "char": "，",
-              "pinyin": "，",
-              "index": 279,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "毕昇死后，字印被我堂兄弟所得，",
-          "pinyin": "shēng sǐ ， qí yìn wéi yǔ qún cóng suǒ dé ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "昇死：毕昇死后。"
+              "pinyin": "",
+              "index": 358
             },
-            {
-              "start": 3,
-              "end": 11,
-              "content": "其印为予群从所得：他的字模被我的堂兄弟侄们得到。为……所，被动句式；予，我；群从，指堂兄弟及子侄辈。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 9,
-              "old": "堂兄弟及子侄辈"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "new": "跟随的人群"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 3,
-              "end": 11,
-              "content": "被动句：'为……所'表被动"
-            }
-          ]
-        },
-        {
-          "content": [
             {
               "char": "至",
               "pinyin": "zhì",
-              "index": 280,
-              "read": false,
-              "write": false
+              "index": 359
             },
             {
               "char": "今",
               "pinyin": "jīn",
-              "index": 281,
-              "read": false,
-              "write": false
+              "index": 360
             },
             {
               "char": "宝",
               "pinyin": "bǎo",
-              "index": 282,
-              "read": false,
-              "write": false
+              "index": 361
             },
             {
               "char": "藏",
               "pinyin": "cáng",
-              "index": 283,
-              "read": false,
-              "write": false
+              "index": 362
             },
             {
               "char": "。",
-              "pinyin": "。",
-              "index": 284,
-              "read": false,
-              "write": false
+              "pinyin": "",
+              "index": 363
             }
           ],
-          "translation": "至今珍藏着。",
-          "pinyin": "zhì jīn bǎo cáng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "至今宝藏：到现在还珍贵地收藏着。宝，珍视；藏，收藏。"
-            }
-          ]
+          "translation": "不像火烧过的胶泥字，印完后再用火烤使混合物熔化，拿手一抹，这些字模就会自己落下来，绝不会被弄脏。"
         }
       ]
     }
@@ -2737,5 +1918,8 @@
     "科技笔记"
   ],
   "background": "《活板》创作于北宋年间，当时经济发达，科学技术水平发展迅速，沈括是北宋时期的科学家，与活版印刷术的发明者毕昇基本上同时代，且亲眼见过由自己的侄辈珍藏的活字，其记载具有较高的可信度。",
-  "appreciation": "《活板》是一篇文言说明文。此文是关于北宋平民毕昇发明活字印刷的最早记录，详细记载了活板制作与印刷的过程，通过文中介绍，活板的面貌在读者面前得以清晰地展现。此文条理清楚有序，抓住活字印刷的主要优点、活字印刷的特征——“活”来进行说明，将雕版的死板同活版印刷的灵活作鲜明对比，使这种对比方法贯穿在全文的说明之中，突出活版印刷的优越性，给人留下了深刻印象。"
+  "appreciation": "《活板》是一篇文言说明文。此文是关于北宋平民毕昇发明活字印刷的最早记录，详细记载了活板制作与印刷的过程，通过文中介绍，活板的面貌在读者面前得以清晰地展现。此文条理清楚有序，抓住活字印刷的主要优点、活字印刷的特征——“活”来进行说明，将雕版的死板同活版印刷的灵活作鲜明对比，使这种对比方法贯穿在全文的说明之中，突出活版印刷的优越性，给人留下了深刻印象。",
+  "annotation": "板印书籍：用雕版印刷书籍。板印，用雕版印刷。板：同“版”。盛为之：大规模地做这种事。之，指“板印书籍”。冯瀛王：即冯道（882—954），字可道，瀛洲景城（今河北沧县西）人，历仕后唐至后周。死后，周世宗追封为瀛王，我国古代大规模官刻儒家经籍的首倡者。五经：儒学的经典，指《易经》、《尚书》、《诗经》、《礼记》、《春秋》。汉后合称《五经》。已：同“以”。典籍：泛指各种重要（文献）书籍。板本：板印的本子。庆历：宋仁宗年号（1041—1048）。布衣：平民。这里指没有做官的读书人。古代平民穿麻布衣服，所以称布衣。其：其，代词。做活板的方法。钱唇：铜钱的边缘。印：印模、字印。令坚：使……坚硬。和（huò）：混合。以：用。冒：蒙、盖。欲：想。范：框子。持就火炀（yáng）之：把它拿到火上烤。就，靠近。炀，烤。药：指上文说的松脂、蜡等物。字平如砥（dǐ）：字印像磨刀石那样平。砥：磨刀石。止：同“只”，仅仅。未为简易：不能算是简便。数十百千：几十乃至百、千。自：别自，另外。具：准备好。更（gēng）互：交替、轮流。以：用来。以纸帖（tiè）之：用纸条给它做标记。帖，用标签标出。每韵为一帖(tiè)，木格贮（zhù）之：每一个韵部的字做一个标签，用木格子把它存放起来。韵，指韵部。帖，标签，名词。唐宋时，人们按照诗歌押韵的规律，把汉字分为206韵，后来又合并为106韵。奇（qí）字：写法特殊，或生僻、不常用的字。旋：旋即。不以木为之者：不用木头刻活字的原因。文：同“纹”。兼：又。不可取：拿不下来。燔（fán）土：指火烧过的黏土字印。燔：烧。讫（qì）：终了，完毕。拂（fú）：擦拭，掸去。殊：根本。余：我。群从（cóng）：堂兄弟及侄子辈。",
+  "comprehensive_appreciation": "赏析：这是一篇很有价值的史料，由样统治阶级的偏见，像毕昇这样平民出身的创造发明家，在者史中没有任何记载。本文作者独具眼力，为我们保存了这一宝贵史料。一些划时代的大学发明，往往是从小人物开始做起的，这种进步和发明，大大推动了社会生产力向前发展，是社会发展的加速器，我们应该对毕昇这类民间革新家、发明家保持崇高的敬意，尊重他们的创新精神。本文抓住特点，说明工艺程序，有条不紊，给人以明晰、完整、系统的形象。写活字版印刷，紧扣“活”字，在说明时又主要按照工艺顺序进行说明，并且通过与雕版的比较，体现活版的优越性。写制版是按照制字、设版、排字、炀版、平字的顺序加以说明的。写印刷厂用二板，“一板印刷，一板布字，此印者才毕，则第二板已具，更互用之，瞬息可就”。写拆板是附带说明，但是胶泥字模的优越性，也在与木头刻字的对比中，其灵活方便得以充分显示。全文着重说明活板的制作，印刷整个过程，包括最后拆板的过程，一整套工艺，全无修饰性词语，用词准确，通俗易懂。整篇文章只用三百多字，便将印刷书籍的历史，活字版的创造、发明、用法、功效以及胶泥活字的优点解释得清楚明白。文中多次运用了代词“之”，如“为之”、“炀之”，“贴之”“贮之”、“刻之”它们分别指代相应的事物，这就减少了行文的重复，有助样行文的简洁。用词准确也是本文的优点，“烧”、“炀”、“镕”、“燔”，按照加热的方法、程度不同分别使用，用得都准确贴切。",
+  "knowledge": "### 通假字\n\n1. 活板、“板”通“版”。\n2. 已、后典籍皆为板本\n“已”，通 “以”。\n3. 若止、印三二本 “止”，通“只”。\n\n### 一词多义\n为（1）唐人尚未盛为之（\n动词，做）（2）皆为板本 （动词，是）（3）又为活板 （动词，发明）（4）每字为一印 （动词，刻）（5）满铁范为一板（动词，成为）（6）未为简易 （动词，算是）（7）极为神速 （动词，算是）（8）每韵为一帖 （动词，做）（9）不以木为之者（动词，刻制）（10）为予群从所得（介词，被 ，被动用法）以（1）以松脂蜡和纸灰之类冒之 （介词，用，拿）（2）以一铁范置铁板上 （介词，把）（3）以一平板按其面 （介词，用，拿）（4）以备一板内有重复者 （连词，表目的，可译为“用来”）（5）以纸帖之/以、草火烧/不以、木为之者/以、手拂之 （介词，用）其（1）其法 （代词，指活字版印刷的）（2）其上以松脂、蜡和纸灰之类冒之 （代词，指铁板的）（3）则以一平板按其、面 （代词，指排好的字模）（4）其印自落 （代词，那些）（5）其印为予群从所得 （代词，他的）之（1）唐人尚未盛为之（代词，指“板印书籍”）（2）以松脂、蜡和纸灰之类冒之（代词“这”； 代词，指“铁板”）（3）持就火炀之（代词，指“铁板”）（4）更互用之（代词，指“两块铁板”）（5）则以纸帖之（代词，指不用的字模）（6）旋刻之（代词，指“奇字”）（7）不以木为之者（代词，指活字模）（8）以手拂之（代词，指字模 ）帖（1）则以纸帖之 （动词，用标签标出）（2）每韵为一帖（名词，标签）就（1）持就、火炀之（动词，靠近）（2）瞬息可就（动词，完成）若 （1）不若燔土 （如，像）（2）若止印三二本（如果 ）火 （1）以草火、烧 （名词作状语，用火）（2）再火、令药熔 （名词作动词，用火烤）\n\n### 词类活用\n\n1. 板印书籍（名词作状语，“用雕版”）\n2. 火烧令坚\n（名词作状语，“用火” ）\n3. 用讫再火令药熔 （名词用作动词，“用火烤”）\n4. 则以纸帖之 （名词用作动词，“用标签标出”）"
 }

@@ -11,136 +11,65 @@
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 0,
-              "read": true,
-              "write": true
+              "index": 0
             },
             {
               "char": "皋",
               "pinyin": "gāo",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "薄",
               "pinyin": "bó",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "暮",
               "pinyin": "mù",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "望",
               "pinyin": "wàng",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "黄昏伫立东皋远望，",
-          "pinyin": "dōng gāo bó mù wàng ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "东皋：地名，指作者隐居的地方，位于今山西河津。皋，水边高地。"
+              "index": 5
             },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "薄暮：傍晚时分。薄，迫近、接近，此处为动词用法。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "徙",
               "pinyin": "xǐ",
-              "index": 6,
-              "read": true,
-              "write": true
+              "index": 6
             },
             {
               "char": "倚",
               "pinyin": "yǐ",
-              "index": 7,
-              "read": true,
-              "write": true
+              "index": 7
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "依",
               "pinyin": "yī",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "徘徊不定不知归依何处。",
-          "pinyin": "xǐ yǐ yù hé yī 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "徙倚：徘徊，来回走动。徙，移动；倚，依靠。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "何：什么，疑问代词，在此句中作宾语前置。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "依：依靠，寄托。‘欲何依’即‘想要依靠什么’，表达孤独无依的情感。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 3,
-              "end": 4,
-              "content": "‘欲何依’为宾语前置句，正常语序应为‘欲依何’，疑问代词‘何’作宾语前置。"
-            }
-          ]
+          "translation": "傍晚时分站在东皋纵目方望，徘徊不定不知该归依何方。"
         }
       ]
     },
@@ -151,107 +80,65 @@
             {
               "char": "树",
               "pinyin": "shù",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "树",
               "pinyin": "shù",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "皆",
               "pinyin": "jiē",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "色",
               "pinyin": "sè",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "每棵树都染上秋色，",
-          "pinyin": "shù shù jiē qiū sè ，"
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "山",
-              "pinyin": "shān",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 18
+            },
+            {
+              "char": "山",
+              "pinyin": "shān",
+              "index": 19
             },
             {
               "char": "唯",
               "pinyin": "wéi",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "落",
               "pinyin": "luò",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "晖",
               "pinyin": "huī",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             }
           ],
-          "translation": "每座山都披着夕阳余晖。",
-          "pinyin": "shān shān wéi luò huī 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 4,
-              "content": "落晖：落日的余光。晖，阳光，特指夕阳之光。"
-            }
-          ]
+          "translation": "每棵树都染上秋天的色彩，光光山岭都披覆着落日的余光。"
         }
       ]
     },
@@ -262,126 +149,65 @@
             {
               "char": "牧",
               "pinyin": "mù",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "驱",
               "pinyin": "qū",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "犊",
               "pinyin": "dú",
-              "index": 27,
-              "read": true,
-              "write": true
+              "index": 27
             },
             {
               "char": "返",
               "pinyin": "fǎn",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 29,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "牧人驱赶牛群返回，",
-          "pinyin": "mù rén qū dú fǎn ，",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "犊：小牛，此处指放牧归来的小牛。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
+              "index": 29
+            },
             {
               "char": "猎",
               "pinyin": "liè",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "马",
               "pinyin": "mǎ",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "带",
               "pinyin": "dài",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "禽",
               "pinyin": "qín",
-              "index": 33,
-              "read": true,
-              "write": true
+              "index": 33
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
-          "translation": "猎人骑马带着猎物回归。",
-          "pinyin": "liè mǎ dài qín guī 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 3,
-              "content": "禽：古代泛指鸟兽，此处指猎获的野兽，非现代‘家禽’之意。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "鸟兽的总称"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "家禽"
-            }
-          ]
+          "translation": "放牧的人驱赶着牛群回家，猎人骑着马带着猎物各自来愿而归。"
         }
       ]
     },
@@ -392,107 +218,65 @@
             {
               "char": "相",
               "pinyin": "xiāng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "顾",
               "pinyin": "gù",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "相",
               "pinyin": "xiāng",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "识",
               "pinyin": "shí",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "举目四望没有相识之人，",
-          "pinyin": "xiāng gù wú xiāng shí ，"
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
+              "index": 41
+            },
             {
               "char": "长",
               "pinyin": "cháng",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "歌",
               "pinyin": "gē",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "怀",
               "pinyin": "huái",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "采",
               "pinyin": "cǎi",
-              "index": 45,
-              "read": true,
-              "write": true
+              "index": 45
             },
             {
               "char": "薇",
               "pinyin": "wēi",
-              "index": 46,
-              "read": true,
-              "write": true
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "长吟采薇诗怀念隐士生活。",
-          "pinyin": "cháng gē huái cǎi wēi 。",
-          "notes": [
-            {
-              "start": 3,
-              "end": 4,
-              "content": "采薇：典出《史记·伯夷列传》，伯夷、叔齐隐居首阳山，采薇而食，不食周粟。此处借指隐居生活，表达避世情怀。"
-            }
-          ]
+          "translation": "大家相对无言彼此互不相识，只能咏一曲长歌来怀念古代采薇而食的隐士。"
         }
       ]
     }
@@ -503,5 +287,8 @@
     "五言律诗"
   ],
   "background": "王绩入唐后以秘书省正字待诏门下省，不久辞官还乡。贞观中出为太乐丞，旋又告归。此诗应该就是作于诗人辞官隐居东皋（在今山西河津）的时候。",
-  "appreciation": "《野望》是现存唐诗中最早的一首格律完整的五言律诗。此诗描写了隐居之地的清幽秋景，在闲逸的情调中，带着几分彷徨、孤独和苦闷。首联通过“徙倚”的动作和“欲何依”的心理描写来抒情；颔联则以静谧的笔触，描绘出一幅树影婆娑、山色如黛的安详画面；颈联中用几个动词“驱”“返”“带”“归”进行动态式的连贯描写，以动衬静；尾联借典抒情，情景交融。全诗言辞自然流畅，风格朴素清新，摆脱初唐轻靡华艳的诗风，在当时诗坛上别具一格。"
+  "appreciation": "《野望》是现存唐诗中最早的一首格律完整的五言律诗。此诗描写了隐居之地的清幽秋景，在闲逸的情调中，带着几分彷徨、孤独和苦闷。首联通过“徙倚”的动作和“欲何依”的心理描写来抒情；颔联则以静谧的笔触，描绘出一幅树影婆娑、山色如黛的安详画面；颈联中用几个动词“驱”“返”“带”“归”进行动态式的连贯描写，以动衬静；尾联借典抒情，情景交融。全诗言辞自然流畅，风格朴素清新，摆脱初唐轻靡华艳的诗风，在当时诗坛上别具一格。",
+  "annotation": "东皋：地名，在今山西河津，诗人隐居的地方。皋，水边地。薄暮：傍晚。薄，接近。徙倚（xǐyǐ）：徘徊，来回地走。依：归依。秋色：一作“春色”。落晖：落日。犊（dú）：小牛，这里指牛群。禽：鸟兽，这里指猎物。采薇：采食野菜。据《史记·伯夷列传》，商末孤竹君之子伯夷、叔齐在商亡之后，“不食周粟，隐于首阳山，采薇而食之”后来以“采薇“比喻隐居不仕。”",
+  "comprehensive_appreciation": "赏析：这首诗写的是山野秋景。全诗于萧瑟怡静的景色描写中流露出孤独抑郁的心情，抒发了惆怅、孤寂的情怀。首联，景中含情，景中有人。我们先来看一下这幅图景：傍晚时分，夕阳西下，天边满是烟霞，诗人独自一人登上东皋极目远望，左右徘徊不已，心里默默念着曹操《短歌行》中的诗句——“绕树三匝，何枝可依”。“薄暮”交代时间，渲染气氛，“东皋”点明地点，“徙倚欲何依”表明心态，复杂抑郁。这两句看似平平淡淡的叙述，却把作者的心绪交代的一清二楚，奠定了整首诗的基调。颔联，写秋天山林之静景，从正面进一步渲染作者的孤寂苦闷的心绪。诗人从眼见所见，给我们勾勒了一幅秋之晚景图。一望无际的树林都染上了暮秋时分憔悴枯黄的颜色，连绵起伏的群山在夕阳的映照下都染上了萧瑟的暮光。看似安静开阔的景象，却给人一种荒凉落暮之感。颈联，写傍晚时分人的活动，从反面衬托诗人的郁闷孤单的心境。诗人给我们描绘了一幅乡野之人放牧归来的动态场景。放牛的牧童唱着山歌，欢快的赶着牛儿返回家中，猎人骑着骏马，大声吆喝着，带着猎物满意而归，多么安逸的场景，多么令人陶醉的画面啊。但是这些热闹是他们的，诗人什么也没有，有的只是寂寞和孤寂。尾联，终于再也按捺不住内心的情感了，直抒胸臆。诗人从美好而热闹的场景中回过神，又回到了起始的心境之中了，更加平添了一种茫然若失、孤独无依、苦闷惆怅的心绪。诗人身边没有一个相识的熟人和朋友，没有人能够分担这份寂寥，只好拉来已经远去的伯夷、叔齐了。诗人唱着《采薇》之歌，抒发自己隐逸山林之志。读熟了唐诗的人，也许并不觉得这首诗有什么特别的好处。可是，如果沿着诗歌史的顺序，从南朝的宋、齐、梁、陈一路读下来，忽然读到这首《野望》，便会为它的朴素而叫好。南朝诗风大多华靡艳丽，好像浑身裹着绸缎的珠光宝气的贵妇。从贵妇堆里走出来，忽然遇见一位荆钗布裙的村姑，她那不施脂粉的朴素美就会产生特别的魅力。王绩的《野望》便有这样一种朴素的好处。这首诗的体裁是五言四韵。自从南朝齐永明年间，沈约等人将声律的知识运用到诗歌创作当中，律诗这种新的体裁就已酝酿着了。到初唐的沈佺期、宋之问手里律诗遂定型化，成为一种重要的诗歌体裁。而早于沈、宋六十余年的王绩，已经能写出《野望》这样的五言四韵，说明他是一个勇于尝试新形式的人。这首诗首尾两联抒情言事，中间两联写景，经过情──景──情这一反复，诗的意思更深化了一层。这正符合律诗的一种基本章法。 ",
+  "knowledge": ""
 }

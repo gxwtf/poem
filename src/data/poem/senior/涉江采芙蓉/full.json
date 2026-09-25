@@ -11,90 +11,65 @@
             {
               "char": "涉",
               "pinyin": "shè",
-              "index": 0,
-              "read": true,
-              "write": true
+              "index": 0
             },
             {
               "char": "江",
               "pinyin": "jiāng",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "采",
               "pinyin": "cǎi",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "芙",
               "pinyin": "fú",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "蓉",
               "pinyin": "róng",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "兰",
               "pinyin": "lán",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "泽",
               "pinyin": "zé",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "多",
               "pinyin": "duō",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "芳",
               "pinyin": "fāng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "草",
               "pinyin": "cǎo",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "我涉过江水去采荷花，生有兰草的水泽中长满了香草。",
-          "pinyin": "shè jiāng cǎi fú róng ， lán zé duō fāng cǎo 。",
+          "translation": "我涉过江水去采荷花，生采兰草的水泽中长满了香草。",
           "notes": [
             {
               "start": 6,
@@ -112,72 +87,40 @@
             {
               "char": "采",
               "pinyin": "cǎi",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "遗",
               "pinyin": "wèi",
-              "index": 15,
-              "read": true,
-              "write": true
+              "index": 15
             },
             {
               "char": "谁",
               "pinyin": "shuí",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             }
           ],
-          "translation": "采了荷花想要送给谁呢？",
-          "pinyin": "cǎi zhī yù wèi shuí ？",
+          "translation": "采了荷花想要起给谁呢？",
           "notes": [
             {
               "start": 3,
               "end": 3,
               "content": "赠送。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "赠送"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "遗失"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "宾语前置句：‘采之欲遗谁’中，疑问代词‘谁’作动词‘遗’的宾语，前置于动词前，正常语序应为‘欲遗谁采之’。"
             }
           ]
         },
@@ -186,56 +129,36 @@
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "思",
               "pinyin": "sī",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "远",
               "pinyin": "yuǎn",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "道",
               "pinyin": "dào",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             }
           ],
-          "translation": "想要送给远方的爱人。",
-          "pinyin": "suǒ sī zài yuǎn dào 。",
-          "notes": [],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "判断句：‘所思在远道’为‘……在……’结构，表示判断，相当于‘所思念的人在远方的路上’。"
-            }
-          ]
+          "translation": "想要起给远方的爱人。",
+          "notes": []
         }
       ]
     },
@@ -246,103 +169,66 @@
             {
               "char": "还",
               "pinyin": "huán",
-              "index": 24,
-              "read": true,
-              "write": false
+              "index": 24
             },
             {
               "char": "顾",
               "pinyin": "gù",
-              "index": 25,
-              "read": false,
-              "write": true
+              "index": 25
             },
             {
               "char": "望",
               "pinyin": "wàng",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "旧",
               "pinyin": "jiù",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "乡",
               "pinyin": "xiāng",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "长",
               "pinyin": "cháng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "路",
               "pinyin": "lù",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "漫",
               "pinyin": "màn",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "浩",
               "pinyin": "hào",
-              "index": 33,
-              "read": false,
-              "write": true
+              "index": 33
             },
             {
               "char": "浩",
               "pinyin": "hào",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
-          "translation": "回头看那一起生活过的故乡，路途遥远没有尽头。",
-          "pinyin": "huán gù wàng jiù xiāng ， cháng lù màn hào hào 。",
-          "notes": [],
-          "different_meanings": [
-            {
-              "start": 1,
-              "end": 1,
-              "old": "回头看"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "new": "照顾、顾及"
-            }
-          ]
+          "translation": "回头看那一起生活过的故乡，路途遥远没采尽头。",
+          "notes": []
         }
       ]
     },
@@ -353,90 +239,65 @@
             {
               "char": "同",
               "pinyin": "tóng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "离",
               "pinyin": "lí",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "居",
               "pinyin": "jū",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "忧",
               "pinyin": "yōu",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "伤",
               "pinyin": "shāng",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "终",
               "pinyin": "zhōng",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "老",
               "pinyin": "lǎo",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
           "translation": "两心相爱却要分隔两地不能在一起，愁苦忧伤以至终老异乡。",
-          "pinyin": "tóng xīn ér lí jū ， yōu shāng yǐ zhōng lǎo 。",
           "notes": [
             {
               "start": 8,
@@ -454,5 +315,8 @@
     "背默"
   ],
   "background": "两汉时期，经学成为士人跻身朝堂、谋求功名的重要资本。于是千千万万的学子离乡游学求宦。但是对于如此众多的士人而言，官僚机构的容纳能力实在太有限了，这必然形成一种得机幸进者少、失意向隅者多的局面。于是一个失意的文人群体便产生了，这些宦途失意的游学士子在宦途无望、朋友道绝的孤单失意中，自然会苦苦地怀念故乡和亲人，此诗即是《古诗十九首》中描写怀乡思亲的代表作。《古诗十九首》大约是东汉后期作品，当作于汉献帝建安之前的几十年间。",
-  "appreciation": "《涉江采芙蓉》是一首文人五言诗。其借助他乡游子和家乡思妇采集芙蓉来表达相互之间的思念之情，深刻地反映了游子、思妇的现实生活与精神世界的痛苦。全诗运用借景抒情及白描手法抒写漂泊异地失意者的离别相思之情，从游子和思妇两个角度交错叙写，表现出其强烈的情感；同时运用悬想手法，在虚实结合中强化了夫妻之爱以及妻子对丈夫的深情。"
+  "appreciation": "《涉江采芙蓉》是一首文人五言诗。其借助他乡游子和家乡思妇采集芙蓉来表达相互之间的思念之情，深刻地反映了游子、思妇的现实生活与精神世界的痛苦。全诗运用借景抒情及白描手法抒写漂泊异地失意者的离别相思之情，从游子和思妇两个角度交错叙写，表现出其强烈的情感；同时运用悬想手法，在虚实结合中强化了夫妻之爱以及妻子对丈夫的深情。",
+  "annotation": "芙蓉：荷花的别名。兰泽：生采兰草的沼泽地。遗（wèi）：赠。远道：犹言“远方”。还顾：回顾，回头看。旧乡：故乡。漫浩浩：犹“漫漫浩浩”，形容路途的遥远无尽头。形容无边无际。同心：古代习用的成语，多用于男女之间的爱情或夫妇感情融洽指感情深厚。终老：度过晚年直至去世。",
+  "comprehensive_appreciation": "赏析：《涉江采芙蓉》是一首写别的情诗。在古代封建社会里，生活是很简单的，最密切的人与人之间的关系是夫妻朋友关系，由于战争、徭役和仕宦，这种亲密关系往往长期被截断。更由于当时交通不便，书信无法往来，相隔两地音信全无，就成为许多人私生活中最伤心的事。因此中国古典诗词有很大一部分都是表达别离情绪的，就主题来说，这首诗是很典型的。“涉江采芙蓉，兰泽多芳草。”芙蓉：荷花的别名。兰泽：生有兰草的沼泽。这两句是说，划船到江中去采集荷花，又来到沼泽地摘取芬芳的兰草。夏秋时节，江南水乡，日暖花香，荷花盛开，女主人公在江中泽畔采集了鲜艳的荷花，又摘取了芬芳的兰草。诗歌就这样在愉快欢乐的气氛中起笔，芙蓉、兰泽、芳草等语，将画面装饰的绚丽灿烂，让人顿感主人公形象雅洁，心情愉快美好。此诗开篇之“涉江采芙蓉”的人，有人认为是离乡的游子（即思妇的丈夫）；但有人反对这种观点，理由是游子求宦在外，或者因别的原因，是不可能去“涉”南方之“江”采摘芙蓉的。因此，有人认为“涉江采芙蓉”者是在江南家乡的思妇（即妻子）。按江南民歌所常用的谐音双关手法，诗歌中的“芙蓉”（荷花）往往谐“夫容”之音，即丈夫的面容。所以，“涉江采芙蓉”的人当为思妇。“采之欲遗谁？所思在远道！”这两句点明了思妇的忧思源于对丈夫的思念。思妇思念丈夫，而丈夫正远在天涯。她采摘了美好的“芙蓉”，此刻难以送给自己想念的远方的人。可以说，思妇采莲，真有《乐府诗集·江南》中的“鱼戏莲叶间。鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北”的快乐。采莲是快乐的，而女子却是忧伤的。这里，诗人以乐景表哀情，倍增其哀。接着两句空间发生了突然转换，视角发生了变化，不写自己，而写身在“远道”的丈夫：“还顾望旧乡，长路漫浩浩。”也许就是一种心灵的感应。上面两句写思妇还在思夫的时候，诗歌就转换了视角，写远方的丈夫此刻也正带着无限思念，回望妻子所在的故乡。然而，展现在他眼前的，无非是漫漫无尽的“长路”和阻山隔水的浩浩烟云。这样的写法就是一种“悬想”的方法，即不写此处写彼处。杜甫的《月夜》就是这样的写法。杜甫不写自己想念妻儿，而写妻子想念自己，这样就增强了情感的表达效果。游子回家的希望渺茫，因而思念妻子的情感更为强烈。“同心而离居，忧伤以终老。”同心：指夫妻。古代婚礼的一种仪式，新郎新娘用彩缎结同心，并相挽而行。终老：终生。这两句是说，两个心心相印的人啊，永远异地相思，只有忧伤陪伴他们终老。这两句诗是写一对长久分别的有情人，从眼前想到此后的生涯，更深的担忧涌上心头。此诗借助他乡游子和家乡思妇采集芙蓉来表达相互之间的思念之情，深刻地反映了游子思妇的现实生活与精神生活的痛苦。全诗运用借景抒情及白描手法抒写漂泊异地失意者的离别相思之情；从游子和思妇两个角度交错叙写，表现游子思妇的强烈情感；运用悬想手法，在虚实结合中强化了夫妻之爱以及妻子对丈夫的深情。",
+  "knowledge": ""
 }

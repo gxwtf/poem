@@ -5,6 +5,26 @@
         {
           "sentence": [
             {
+              "char": "孟",
+              "pinyin": "mèng"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
               "char": "人",
               "pinyin": "rén"
             },
@@ -42,12 +62,12 @@
             }
           ],
           "translation": {
-            "translation": "人人都有怜悯体恤别人的心情。"
+            "translation": "孟子说：“每个人都有怜悯体恤之心。"
           },
           "notes": [
             {
-              "start": 3,
-              "end": 5,
+              "start": 8,
+              "end": 10,
               "note": "即怜爱别人。忍人，狠心对待别人。"
             }
           ]
@@ -125,7 +145,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "古代圣王有怜悯体恤之心，所以才有怜悯体恤百姓的政治。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "以",
               "pinyin": "yǐ"
@@ -226,7 +254,7 @@
             }
           ],
           "translation": {
-            "translation": "古代圣王因为有怜悯体恤别人的心情，所以才有怜悯体恤百姓的政治；用怜悯体恤别人的心情，施行怜悯体恤百姓的政治，治理天下就可以像在手掌心里面运转东西一样容易了。"
+            "translation": "用怜悯体恤之心，施行怜悯体恤百姓的政治，治理天下就可以像在手掌间运转东西一样容易了。"
           },
           "notes": []
         },
@@ -281,7 +309,7 @@
               "pinyin": "zhě"
             },
             {
-              "char": "，",
+              "char": "：",
               "pinyin": "　"
             },
             {
@@ -361,148 +389,12 @@
               "pinyin": "xīn"
             },
             {
-              "char": "—",
-              "pinyin": "　"
-            },
-            {
-              "char": "—",
-              "pinyin": "　"
-            },
-            {
-              "char": "非",
-              "pinyin": "suǒ"
-            },
-            {
-              "char": "所",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "以",
-              "pinyin": "nèi"
-            },
-            {
-              "char": "内",
-              "pinyin": "jiāo"
-            },
-            {
-              "char": "交",
-              "pinyin": "yú"
-            },
-            {
-              "char": "于",
-              "pinyin": "rú"
-            },
-            {
-              "char": "孺",
-              "pinyin": "zǐ"
-            },
-            {
-              "char": "子",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "之",
-              "pinyin": "fù"
-            },
-            {
-              "char": "父",
-              "pinyin": "mǔ"
-            },
-            {
-              "char": "母",
-              "pinyin": "yě"
-            },
-            {
-              "char": "也",
-              "pinyin": "，"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "非",
-              "pinyin": "suǒ"
-            },
-            {
-              "char": "所",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "以",
-              "pinyin": "yào"
-            },
-            {
-              "char": "要",
-              "pinyin": "yù"
-            },
-            {
-              "char": "誉",
-              "pinyin": "yú"
-            },
-            {
-              "char": "于",
-              "pinyin": "xiāng"
-            },
-            {
-              "char": "乡",
-              "pinyin": "dǎng"
-            },
-            {
-              "char": "党",
-              "pinyin": "péng"
-            },
-            {
-              "char": "朋",
-              "pinyin": "yǒu"
-            },
-            {
-              "char": "友",
-              "pinyin": "yě"
-            },
-            {
-              "char": "也",
-              "pinyin": "，"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "非",
-              "pinyin": "è"
-            },
-            {
-              "char": "恶",
-              "pinyin": "qí"
-            },
-            {
-              "char": "其",
-              "pinyin": "shēng"
-            },
-            {
-              "char": "声",
-              "pinyin": "ér"
-            },
-            {
-              "char": "而",
-              "pinyin": "rán"
-            },
-            {
-              "char": "然",
-              "pinyin": "yě"
-            },
-            {
-              "char": "也",
-              "pinyin": "。"
-            },
-            {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "之所以说人人都有怜悯体恤别人的心情，是因为，如果今天有人突然看见一个小孩要掉进井里面去了，必然会产生惊惧同情的心理——这不是因为要想去和这孩子的父母拉关系，不是因为要想在乡邻朋友中博取声誉，也不是因为厌恶这孩子的哭叫声才产生这种惊惧同情心理的。"
+            "translation": "之所以说每个人都有怜悯体恤之心，是因为，如果今天有人突然看见一个小孩要掉进井里面去了，必然会产生惊惧同情之心；"
           },
           "notes": [
             {
@@ -514,25 +406,166 @@
               "start": 28,
               "end": 29,
               "note": "哀痛，怜悯（别人的不幸）。"
+            }
+          ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "非",
+              "pinyin": "fēi"
             },
             {
-              "start": 37,
-              "end": 38,
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "内",
+              "pinyin": "nèi"
+            },
+            {
+              "char": "交",
+              "pinyin": "jiāo"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "孺",
+              "pinyin": "rú"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "父",
+              "pinyin": "fù"
+            },
+            {
+              "char": "母",
+              "pinyin": "mǔ"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "非",
+              "pinyin": "fēi"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "要",
+              "pinyin": "yào"
+            },
+            {
+              "char": "誉",
+              "pinyin": "yù"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "乡",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "党",
+              "pinyin": "dǎng"
+            },
+            {
+              "char": "朋",
+              "pinyin": "péng"
+            },
+            {
+              "char": "友",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "非",
+              "pinyin": "fēi"
+            },
+            {
+              "char": "恶",
+              "pinyin": "è"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "声",
+              "pinyin": "shēng"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "然",
+              "pinyin": "rán"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "这不是因为要想去和这孩子的父母拉关系，不是因为要想在乡邻朋友中博取声誉，也并非因为厌恶孩子的哭声才这样。"
+          },
+          "notes": [
+            {
+              "start": 3,
+              "end": 4,
               "note": "结交。内，同“纳”。"
             },
             {
-              "start": 50,
-              "end": 51,
+              "start": 16,
+              "end": 17,
               "note": "博取名誉。要，求取。"
             },
             {
-              "start": 53,
-              "end": 54,
+              "start": 19,
+              "end": 20,
               "note": "同乡。"
             },
             {
-              "start": 59,
-              "end": 64,
+              "start": 25,
+              "end": 30,
               "note": "并非因为厌恶孩子的哭声才这样。"
             }
           ]
@@ -598,7 +631,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "由此看来，没有同情心，不是人；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "无",
               "pinyin": "wú"
@@ -609,7 +650,7 @@
             },
             {
               "char": "恶",
-              "pinyin": "è"
+              "pinyin": "wù"
             },
             {
               "char": "之",
@@ -638,7 +679,21 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "没有羞耻心，不是人；"
+          },
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "note": "对自身的不善感到羞耻，对他人的不善感到憎恶。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "无",
               "pinyin": "wú"
@@ -678,7 +733,21 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "没有谦让心，不是人；"
+          },
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "note": "谦逊推让。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "无",
               "pinyin": "wú"
@@ -721,20 +790,9 @@
             }
           ],
           "translation": {
-            "translation": "由此看来，没有同情心，简直不是人；没有羞耻心，简直不是人；没有谦让心，简直不是人；没有是非心，简直不是人。"
+            "translation": "没有是非心，不是人。"
           },
-          "notes": [
-            {
-              "start": 16,
-              "end": 17,
-              "note": "对自身的不善感到羞耻，对他人的不善感到憎恶。"
-            },
-            {
-              "start": 26,
-              "end": 27,
-              "note": "谦逊推让。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -783,14 +841,22 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "同情心是仁的发端；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "羞",
               "pinyin": "xiū"
             },
             {
               "char": "恶",
-              "pinyin": "è"
+              "pinyin": "wù"
             },
             {
               "char": "之",
@@ -823,7 +889,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "羞耻心是义的发端；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "辞",
               "pinyin": "cí"
@@ -863,7 +937,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "谦让心是礼的发端；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "是",
               "pinyin": "shì"
@@ -906,7 +988,7 @@
             }
           ],
           "translation": {
-            "translation": "同情心是仁的发端；羞耻心是义的发端；谦让心是礼的发端；是非心是智的发端。"
+            "translation": "是非心是智的发端。"
           },
           "notes": []
         },
@@ -1055,7 +1137,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "有了这四种发端却自认为不行的，是自暴自弃的人；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "谓",
               "pinyin": "wèi"
@@ -1110,7 +1200,7 @@
             }
           ],
           "translation": {
-            "translation": "有了这四种发端却自认为不行的，是自暴自弃的人；认为他的君主不行的，是暴弃君主的人。"
+            "translation": "认为他的君主不行的，是暴弃君主的人。"
           },
           "notes": []
         },
@@ -1238,7 +1328,7 @@
             }
           ],
           "translation": {
-            "translation": "凡是有这四种发端的人，知道都要扩大充实它们，就像火刚刚开始燃烧，泉水刚刚开始流淌。"
+            "translation": "凡是有这四种发端的人，都知道要扩大充实它们，就像火刚刚开始燃烧，泉水刚刚开始流淌。"
           },
           "notes": []
         },
@@ -1293,7 +1383,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "如果能够扩充它们，便足以安定天下，如果不能够扩充它们，就连赡养父母都有问题。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "苟",
               "pinyin": "gǒu"
@@ -1341,15 +1439,19 @@
             {
               "char": "。",
               "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "如果能够扩充它们，便足以安定天下；如果不能够扩充它们，就连赡养父母都成问题。"
+            "translation": ""
           },
           "notes": []
         }
       ]
     }
   ],
-  "mode": "paragraph"
+  "mode": "poem"
 }

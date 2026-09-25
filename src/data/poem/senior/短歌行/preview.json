@@ -202,7 +202,15 @@
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "靠什么来排解忧闷？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "唯",
               "pinyin": "wéi"
@@ -225,12 +233,12 @@
             }
           ],
           "translation": {
-            "translation": "靠什么来排解忧闷？唯有豪饮美酒。"
+            "translation": "唯有豪饮美酒。"
           },
           "notes": [
             {
-              "start": 7,
-              "end": 8,
+              "start": 2,
+              "end": 3,
               "note": "相传是最早造酒的人。这里代指酒。"
             }
           ]

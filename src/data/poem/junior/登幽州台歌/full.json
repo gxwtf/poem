@@ -11,124 +11,65 @@
             {
               "char": "前",
               "pinyin": "qián",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "古",
               "pinyin": "gǔ",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "向前不见古代贤君，",
-          "pinyin": "qián bú jiàn gǔ rén ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "前：往前看，追溯历史。"
+              "index": 5
             },
-            {
-              "start": 3,
-              "end": 4,
-              "content": "古人：古代贤明之人，特指像燕昭王那样能礼贤下士的君主。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "向后不见后世明主。",
-          "pinyin": "hòu bú jiàn lái zhě 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "后：往后看，展望未来。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "来者：未来的人，指后世可能出现的贤才。者，与‘来’构成复合代词。"
-            }
-          ]
+          "translation": "往前不见古代礼贤下士的圣君，向后不见后世求才的明君。"
         }
       ]
     },
@@ -139,177 +80,75 @@
             {
               "char": "念",
               "pinyin": "niàn",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "地",
               "pinyin": "dì",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "悠",
               "pinyin": "yōu",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "悠",
               "pinyin": "yōu",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 18,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "感念苍天大地辽阔悠远，",
-          "pinyin": "niàn tiān dì zhī yōu yōu ，",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "念：想到，思索，此处引申为感慨宇宙人生的无尽。"
+              "index": 18
             },
-            {
-              "start": 1,
-              "end": 3,
-              "content": "天地：天空和大地，泛指宇宙、世界。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "之：结构助词，取消句子独立性，使‘天地悠悠’成为名词性短语作宾语。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "悠悠：形容天地辽阔、时光绵长无尽。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
             {
               "char": "独",
               "pinyin": "dú",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "怆",
               "pinyin": "chuàng",
-              "index": 20,
-              "read": true,
-              "write": true
+              "index": 20
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "涕",
               "pinyin": "tì",
-              "index": 23,
-              "read": true,
-              "write": true
+              "index": 23
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             }
           ],
-          "translation": "独自悲伤落泪！",
-          "pinyin": "dú chuàng rán ér tì xià ！",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "独：独自，孤单地。"
-            },
-            {
-              "start": 1,
-              "end": 2,
-              "content": "怆然：悲伤、凄恻的样子。怆，伤感；然，状态形容词后缀。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "而：连词，表承接关系，连接状语‘怆然’和谓语‘涕下’。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "content": "涕下：落泪。涕，古文特指眼泪；下，动词，流下。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 4,
-              "end": 4,
-              "old": "眼泪"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "new": "鼻涕"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 4,
-              "end": 5,
-              "content": "‘涕下’为动宾结构，其中‘下’为动词，表示‘流下’，与现代汉语的‘流泪’结构相似但用词古雅。"
-            }
-          ]
+          "translation": "想到只有那苍茫天地悠悠无限，自己止不住满怀悲伤热泪纷纷。"
         }
       ]
     }
@@ -320,5 +159,8 @@
     "古体诗"
   ],
   "background": "这首诗写于公元696年（武则天万岁通天元年）。陈子昂是一个具有政治见识和政治才能的文人。诗人接连受到挫折，眼看报国宏愿成为泡影，因此登上蓟北楼，慷慨悲吟，写下了《登幽州台歌》。",
-  "appreciation": "《登幽州台歌》是一首古体诗。全诗语言苍劲奔放，富有感染力，其结构紧凑连贯，又留有充分的空间。它通过描写登楼远眺，凭今吊古所引发的无限感慨，抒发了诗人抑郁已久的悲愤之情，深刻地揭示出封建社会中那些怀才不遇的知识分子遭受的压抑境遇，表达了他们在理想破灭时孤寂郁闷的心情，具有典型的社会意义。"
+  "appreciation": "《登幽州台歌》是一首古体诗。全诗语言苍劲奔放，富有感染力，其结构紧凑连贯，又留有充分的空间。它通过描写登楼远眺，凭今吊古所引发的无限感慨，抒发了诗人抑郁已久的悲愤之情，深刻地揭示出封建社会中那些怀才不遇的知识分子遭受的压抑境遇，表达了他们在理想破灭时孤寂郁闷的心情，具有典型的社会意义。",
+  "annotation": "幽州：古十二州之一，现今北京市。幽州台：即黄金台，亦称招贤台。战国时期燕昭王筑，为燕昭王尊师郭隗之所。其真正的故址位于河北省定兴县高里乡北章村台上（台上隶属于北章村，由黄金台在此而得名），遗址尚存。前：过去。古人：古代那些能够礼贤下士的圣君。后：未来。来者：后世那些重视人才的贤明君主。念：想到。悠悠：形容时间的久远和空间的广大。怆（chuàng）然：悲伤凄恻的样子。涕：古时指眼泪。",
+  "comprehensive_appreciation": "赏析：诗人具有政治见识和政治才能，他敢言敢谏，但没有被武则天采纳，屡受打击，心情郁郁悲愤。诗歌写登上幽州蓟北楼远望，悲从中来，并以“山河旧，人物不同”来抒发自己生不逢时的哀叹。语言奔放，富有感染力。“前不见古人，后不见来者。”这是一声人生短暂的感喟。诗人纵观古往今来，放眼于历史的长河，不能不感到人生的短促。天地悠悠，人生匆匆，短短的几十年真如白驹之过隙，转瞬之间就消失了。这种感叹既可以引出及时行乐的颓废思想，也可以引发加倍努力奋斗的志气。自古以来有多少仁人志士并不因感到人生短暂而消沉颓唐，反而更加振作精神，使自己有限的一生取得接近无限的意义。正因为陈子昂抱着这种积极态度，所以他才“怆然涕下”。也正因为在悲怆的深层，蕴蓄着一股积极奋发欲有所作为的豪气，所以才能引起我们的共鸣。诗人俯仰古今，深感人生短暂，宇宙无限，不觉中流下热泪。这是诗人空怀报国为民之心不得施展的呐喊。细细读来，悲壮苍凉之气油然而生，而长短不齐的句法，抑扬变化的音节，更增添了艺术感染力。这首诗没有对幽州台作一字描写，而只是登台的感慨，却成为千古名篇。诗篇风格明朗刚健，是具有“汉魏风骨”的唐代诗歌的先驱之作，对扫除齐梁浮艳纤弱的形式主义诗风具有拓疆开路之功。在艺术上，其意境雄浑，视野开阔，使得诗人的自我形象更加鲜亮感人。全诗语言奔放，富有感染力，虽然只有短短四句，却在人们面前展现了一幅境界雄浑，浩瀚空旷的艺术画面。诗的前三句粗笔勾勒，以浩茫宽广的宇宙天地和沧桑易变的古今人事作为深邃、壮美的背景加以衬托。第四句饱蘸感情，凌空一笔，使抒情主人公——诗人慷慨悲壮的自我形象站到了画面的主位上，画面顿时神韵飞动，光彩照人。从结构脉络上说，前两句是俯仰古今，写出时间的绵长；第三句登楼眺望，写空间的辽阔无限；第四句写诗人孤单悲苦的心绪。这样前后相互映照，格外动人。在用辞造语方面，此诗深受《楚辞》特别是其中《远游》篇的影响。《远游》有云：“惟天地之无穷兮，哀人生之长勤。往者余弗及兮，来者吾不闻。”此诗语句即从此化出，然而意境却更苍茫遒劲。陈子昂这首感伤之作是由自己在现实生活中的遭遇触发的，但是其客观意义却远远超越了他自身以至他所处的时代的范围，带有一定的广泛性。表现在这首诗里的感伤情绪，和世俗的忧生叹逝有明显的不同。这是一种在对事业和人生的执着追求中产生的喟叹。",
+  "knowledge": ""
 }

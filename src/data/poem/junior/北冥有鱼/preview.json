@@ -10,13 +10,7 @@
             },
             {
               "char": "冥",
-              "pinyin": "míng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "冥：通“溟”，指大海。北冥即北方的大海，传说中鲲鹏所居之处。"
-                }
-              ]
+              "pinyin": "míng"
             },
             {
               "char": "有",
@@ -44,13 +38,7 @@
             },
             {
               "char": "鲲",
-              "pinyin": "kūn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "鲲：传说中的大鱼，体型巨大，能化为鹏鸟，象征变化无穷。"
-                }
-              ]
+              "pinyin": "kūn"
             },
             {
               "char": "。",
@@ -58,7 +46,7 @@
             }
           ],
           "translation": {
-            "translation": "北方的大海里有一条鱼，它的名字叫做鲲。"
+            "translation": "北海有一条鱼，它的名字几做鲲。"
           },
           "notes": []
         },
@@ -70,13 +58,7 @@
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "之：结构助词，用于主谓之间取消句子独立性，使“鲲大”成为名词性短语作主语。"
-                }
-              ]
+              "pinyin": "zhī"
             },
             {
               "char": "大",
@@ -115,12 +97,12 @@
               "pinyin": "yě"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "鲲的体积巨大，不知道有几千里。"
+            "translation": "鲲体积巨大，不知道有几千里。"
           },
           "notes": []
         },
@@ -160,13 +142,7 @@
             },
             {
               "char": "鹏",
-              "pinyin": "péng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "鹏：传说中的大鸟，由鲲变化而来，象征志向高远、逍遥无待。"
-                }
-              ]
+              "pinyin": "péng"
             },
             {
               "char": "。",
@@ -174,7 +150,7 @@
             }
           ],
           "translation": {
-            "translation": "变化成为鸟，它的名字叫做鹏。"
+            "translation": "鲲变化成鸟，它的名字几做鹏，鹏的脊背，不知道有几千里。"
           },
           "notes": []
         },
@@ -186,13 +162,7 @@
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "之：同上，用于“鹏之背”，取消句子独立性。"
-                }
-              ]
+              "pinyin": "zhī"
             },
             {
               "char": "背",
@@ -231,12 +201,12 @@
               "pinyin": "yě"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "鹏的脊背，不知道有几千里。"
+            "translation": "当它奋起而飞的时候，那展开的双翅就好像悬挂在去空的云。"
           },
           "notes": []
         },
@@ -244,13 +214,7 @@
           "sentence": [
             {
               "char": "怒",
-              "pinyin": "nù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "怒：奋起、奋力展翅，此处形容鹏鸟振翅高飞的姿态，非现代“生气”之义。"
-                }
-              ]
+              "pinyin": "nù"
             },
             {
               "char": "而",
@@ -298,15 +262,9 @@
             }
           ],
           "translation": {
-            "translation": "当它奋起而飞，翅膀就像天边的云彩。"
+            "translation": "这只鹏鸟啊，在海水运动的时候将要飞到南海去。"
           },
-          "notes": [
-            {
-              "start": 7,
-              "end": 8,
-              "note": "垂天：遮蔽天空，形容云层极其广阔，极言鹏翼之大。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -344,13 +302,7 @@
             },
             {
               "char": "徙",
-              "pinyin": "xǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "徙：迁移，指鹏鸟从北海迁往南海，需借助自然之力。"
-                }
-              ]
+              "pinyin": "xǐ"
             },
             {
               "char": "于",
@@ -370,15 +322,9 @@
             }
           ],
           "translation": {
-            "translation": "这只鸟啊，海动风起时就迁往南海。"
+            "translation": "南海是个去然形成的水池。"
           },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "海运：指大海运行，古人认为大海动荡时会产生大风，鹏鸟借此风南徙。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -416,18 +362,460 @@
             }
           ],
           "translation": {
-            "translation": "南海，是天然形成的大池。"
+            "translation": "《齐谐》是一本专门记载怪异事物的书。"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 5,
-              "end": 6,
-              "note": "天池：天然形成的大湖或大海，此处特指南海，与“北冥”相对。"
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "齐",
+              "pinyin": "qí"
+            },
+            {
+              "char": "谐",
+              "pinyin": "xié"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "志",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "怪",
+              "pinyin": "guài"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
             }
-          ]
+          ],
+          "translation": {
+            "translation": "《齐谐》记载说：“大鹏迁徙到南海的时候，翅膀击水而行，激起的浪花有三千里，它乘着旋风盘旋飞至九万里的高空，凭借着六月的大风而离开。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "谐",
+              "pinyin": "xié"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "言",
+              "pinyin": "yán"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "鹏",
+              "pinyin": "péng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "徙",
+              "pinyin": "xǐ"
+            },
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "南",
+              "pinyin": "nán"
+            },
+            {
+              "char": "冥",
+              "pinyin": "míng"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "水",
+              "pinyin": "shuǐ"
+            },
+            {
+              "char": "击",
+              "pinyin": "jī"
+            },
+            {
+              "char": "三",
+              "pinyin": "sān"
+            },
+            {
+              "char": "千",
+              "pinyin": "qiān"
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "抟",
+              "pinyin": "tuán"
+            },
+            {
+              "char": "扶",
+              "pinyin": "fú"
+            },
+            {
+              "char": "摇",
+              "pinyin": "yáo"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "九",
+              "pinyin": "jiǔ"
+            },
+            {
+              "char": "万",
+              "pinyin": "wàn"
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "去",
+              "pinyin": "qù"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "六",
+              "pinyin": "liù"
+            },
+            {
+              "char": "月",
+              "pinyin": "yuè"
+            },
+            {
+              "char": "息",
+              "pinyin": "xī"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "山野中的雾气，空气中的尘埃，都是有生命的万物用气息相吹拂的结果。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "野",
+              "pinyin": "yě"
+            },
+            {
+              "char": "马",
+              "pinyin": "mǎ"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "尘",
+              "pinyin": "chén"
+            },
+            {
+              "char": "埃",
+              "pinyin": "āi"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "生",
+              "pinyin": "shēng"
+            },
+            {
+              "char": "物",
+              "pinyin": "wù"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "息",
+              "pinyin": "xī"
+            },
+            {
+              "char": "相",
+              "pinyin": "xiāng"
+            },
+            {
+              "char": "吹",
+              "pinyin": "chuī"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "去色湛蓝，是它真正的颜色吗？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "苍",
+              "pinyin": "cāng"
+            },
+            {
+              "char": "苍",
+              "pinyin": "cāng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "正",
+              "pinyin": "zhèng"
+            },
+            {
+              "char": "色",
+              "pinyin": "sè"
+            },
+            {
+              "char": "邪",
+              "pinyin": "yé"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "还是因为去空高远而指不到尽头呢？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "远",
+              "pinyin": "yuǎn"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "无",
+              "pinyin": "wú"
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "至",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "极",
+              "pinyin": "jí"
+            },
+            {
+              "char": "邪",
+              "pinyin": "yé"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "大鹏从去空中往下指，也不过像人在地面上指去一样罢了。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "视",
+              "pinyin": "shì"
+            },
+            {
+              "char": "下",
+              "pinyin": "xià"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "亦",
+              "pinyin": "yì"
+            },
+            {
+              "char": "若",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "是",
+              "pinyin": "shì"
+            },
+            {
+              "char": "则",
+              "pinyin": "zé"
+            },
+            {
+              "char": "已",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "矣",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
         }
       ]
     }
   ],
-  "mode": "paragraph"
+  "mode": "poem"
 }

@@ -6,13 +6,7 @@
           "sentence": [
             {
               "char": "环",
-              "pinyin": "huán",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "滁：地名，今安徽省滁州市。滁州因滁河得名。"
-                }
-              ]
+              "pinyin": "huán"
             },
             {
               "char": "滁",
@@ -83,17 +77,9 @@
               "pinyin": "měi"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "城西南的群峰，树林山谷尤其秀美。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "望",
               "pinyin": "wàng"
@@ -148,30 +134,9 @@
             }
           ],
           "translation": {
-            "translation": "望去草木茂盛幽深秀丽的，是琅琊山。"
+            "translation": "那西南方的几座山峰，树林和山谷格外秀美。"
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "note": "望之：远望那。之，代指琅琊山。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "note": "蔚然：草木茂盛的样子。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "note": "深秀：幽深秀丽。形容山色清幽。"
-            },
-            {
-              "start": 1,
-              "end": 2,
-              "note": "蔚然：草木茂盛的样子。蔚，繁盛貌。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -222,6 +187,10 @@
             {
               "char": "潺",
               "pinyin": "chán"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
             },
             {
               "char": "而",
@@ -281,7 +250,7 @@
             }
           ],
           "translation": {
-            "translation": "沿山路走六七里，渐闻水声潺潺从两峰间倾泻而出的，是酿泉。"
+            "translation": "一眼望去，树木茂盛，又幽深又秀丽的，是琅琊山。"
           },
           "notes": []
         },
@@ -325,13 +294,7 @@
             },
             {
               "char": "临",
-              "pinyin": "lín",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "临：高踞、靠近，此处指亭子高耸于泉上。"
-                }
-              ]
+              "pinyin": "lín"
             },
             {
               "char": "于",
@@ -375,25 +338,9 @@
             }
           ],
           "translation": {
-            "translation": "山势回环道路转弯，有亭四角翘起像鸟翅般立在泉边的，是醉翁亭。"
+            "translation": "沿着山路走六七里，渐渐听到潺潺的流水声，看到流水从两座山峰之间倾泻而出的，那是酿泉。"
           },
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "note": "有亭：有一座亭子。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "note": "翼然：像鸟张开翅膀一样，形容亭子飞檐翘起。"
-            },
-            {
-              "start": 7,
-              "end": 8,
-              "note": "翼然：像鸟张开翅膀一样。形容亭子飞檐翘起的形态。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -419,7 +366,7 @@
             }
           ],
           "translation": {
-            "translation": "建亭者谁？"
+            "translation": "山势回环，道路弯转，有一座亭子像飞鸟展翅似地，飞架在泉上，那就是醉翁亭。"
           },
           "notes": []
         },
@@ -455,7 +402,7 @@
             }
           ],
           "translation": {
-            "translation": "山僧智仙。"
+            "translation": "建造这亭子的是谁呢？"
           },
           "notes": []
         },
@@ -463,23 +410,11 @@
           "sentence": [
             {
               "char": "名",
-              "pinyin": "míng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "名：动词，命名、取名。"
-                }
-              ]
+              "pinyin": "míng"
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "之：代词，指醉翁亭。"
-                }
-              ]
+              "pinyin": "zhī"
             },
             {
               "char": "者",
@@ -495,7 +430,7 @@
             }
           ],
           "translation": {
-            "translation": "命名者谁？"
+            "translation": "是山上的和尚智仙。"
           },
           "notes": []
         },
@@ -515,23 +450,11 @@
             },
             {
               "char": "谓",
-              "pinyin": "wèi",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "谓：称、叫作。自谓即自称。"
-                }
-              ]
+              "pinyin": "wèi"
             },
             {
               "char": "也",
-              "pinyin": "yě",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "谓：称呼、命名。此处指太守自称。"
-                }
-              ]
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -539,7 +462,7 @@
             }
           ],
           "translation": {
-            "translation": "太守自称。"
+            "translation": "给它取名的又是谁呢？"
           },
           "notes": []
         },
@@ -591,17 +514,7 @@
             },
             {
               "char": "辄",
-              "pinyin": "zhé",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "辄：就，表示动作紧接着发生。"
-                },
-                {
-                  "title": "注释",
-                  "content": "辄：就，表示动作紧接着发生，强调饮酒少即醉。"
-                }
-              ]
+              "pinyin": "zhé"
             },
             {
               "char": "醉",
@@ -669,7 +582,7 @@
             }
           ],
           "translation": {
-            "translation": "太守与宾客来此饮酒，稍饮即醉且年纪最大，故自号醉翁。"
+            "translation": "是太守用自己的别号（醉翁）来命名。"
           },
           "notes": []
         },
@@ -689,17 +602,7 @@
             },
             {
               "char": "意",
-              "pinyin": "yì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "意：情趣、心意。"
-                },
-                {
-                  "title": "注释",
-                  "content": "意：情趣、情致。此处指醉翁的真正乐趣所在。"
-                }
-              ]
+              "pinyin": "yì"
             },
             {
               "char": "不",
@@ -723,17 +626,7 @@
             },
             {
               "char": "乎",
-              "pinyin": "hū",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "乎：相当于‘于’，介词，表处所。"
-                },
-                {
-                  "title": "注释",
-                  "content": "乎：相当于‘于’，介词，表处所，引出‘山水之间’。"
-                }
-              ]
+              "pinyin": "hū"
             },
             {
               "char": "山",
@@ -761,7 +654,7 @@
             }
           ],
           "translation": {
-            "translation": "醉翁的情趣不在酒，在山水美景。"
+            "translation": "太守和他的宾客们来这儿饮酒，只喝一点儿就醉了；"
           },
           "notes": []
         },
@@ -793,13 +686,7 @@
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "得之：指内心感受到山水之乐。之，代指山水之乐。"
-                }
-              ]
+              "pinyin": "zhī"
             },
             {
               "char": "心",
@@ -811,17 +698,7 @@
             },
             {
               "char": "寓",
-              "pinyin": "yù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "寓：寄托。寓之酒，即寄托在饮酒之中。"
-                },
-                {
-                  "title": "注释",
-                  "content": "寓：寄托。将内心的快乐寄托在饮酒之中。"
-                }
-              ]
+              "pinyin": "yù"
             },
             {
               "char": "之",
@@ -841,10 +718,14 @@
             }
           ],
           "translation": {
-            "translation": "山水之乐，领会在心寄托于酒。"
+            "translation": "而且年纪又最大，所以自号“醉翁”。"
           },
           "notes": []
-        },
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
@@ -873,27 +754,11 @@
             },
             {
               "char": "霏",
-              "pinyin": "fēi",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "霏：雾气。林霏，林中的雾气。"
-                },
-                {
-                  "title": "注释",
-                  "content": "霏：雾气，林霏指林间的雾气。"
-                }
-              ]
+              "pinyin": "fēi"
             },
             {
               "char": "开",
-              "pinyin": "kāi",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "开：消散。林霏开即林中雾气消散。"
-                }
-              ]
+              "pinyin": "kāi"
             },
             {
               "char": "，",
@@ -905,13 +770,7 @@
             },
             {
               "char": "归",
-              "pinyin": "guī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "归：聚拢。云归指云雾聚集。"
-                }
-              ]
+              "pinyin": "guī"
             },
             {
               "char": "而",
@@ -927,17 +786,7 @@
             },
             {
               "char": "暝",
-              "pinyin": "míng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "暝：昏暗。岩穴暝指山洞昏暗。"
-                },
-                {
-                  "title": "注释",
-                  "content": "暝：昏暗，指山中岩穴因云雾聚集而变暗。"
-                }
-              ]
+              "pinyin": "míng"
             },
             {
               "char": "，",
@@ -997,15 +846,9 @@
             }
           ],
           "translation": {
-            "translation": "太阳出林雾散，云归岩穴暗，明暗变化的，是山间早晚。"
+            "translation": "醉翁的情趣不在于喝酒，而在欣赏山水的美景。"
           },
-          "notes": [
-            {
-              "start": 16,
-              "end": 17,
-              "note": "晦明：阴暗和明亮，指光线明暗的变化。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -1015,27 +858,11 @@
             },
             {
               "char": "芳",
-              "pinyin": "fāng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "野芳：野花。芳，香花。"
-                },
-                {
-                  "title": "注释",
-                  "content": "芳：香花，指野花。"
-                }
-              ]
+              "pinyin": "fāng"
             },
             {
               "char": "发",
-              "pinyin": "fā",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "发：开放。"
-                }
-              ]
+              "pinyin": "fā"
             },
             {
               "char": "而",
@@ -1059,23 +886,11 @@
             },
             {
               "char": "木",
-              "pinyin": "mù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "佳木：美好的树木。"
-                }
-              ]
+              "pinyin": "mù"
             },
             {
               "char": "秀",
-              "pinyin": "xiù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "秀：繁茂，非现代‘优秀’义。"
-                }
-              ]
+              "pinyin": "xiù"
             },
             {
               "char": "而",
@@ -1087,17 +902,7 @@
             },
             {
               "char": "阴",
-              "pinyin": "yīn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "繁阴：浓密的树荫。阴，树荫。"
-                },
-                {
-                  "title": "注释",
-                  "content": "阴：树荫，名词。繁阴指浓密的树荫。"
-                }
-              ]
+              "pinyin": "yīn"
             },
             {
               "char": "，",
@@ -1113,13 +918,7 @@
             },
             {
               "char": "高",
-              "pinyin": "gāo",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "高洁：清高明净，形容秋日天高气爽。"
-                }
-              ]
+              "pinyin": "gāo"
             },
             {
               "char": "洁",
@@ -1127,13 +926,7 @@
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "洁：清朗、洁净，形容秋日霜降后空气清新。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
               "char": "水",
@@ -1193,15 +986,9 @@
             }
           ],
           "translation": {
-            "translation": "野花开放幽香，佳树繁茂成荫，风霜高洁，水落石出的，是山间四季。"
+            "translation": "欣赏山水美景的乐趣，领会在心里，寄托在酒上。"
           },
-          "notes": [
-            {
-              "start": 8,
-              "end": 9,
-              "note": "佳木秀：美好的树木枝叶繁茂。秀，植物开花或生长繁盛。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -1295,10 +1082,14 @@
             }
           ],
           "translation": {
-            "translation": "早出晚归，四季景色不同，乐趣无穷。"
+            "translation": "太阳升起，树林里的雾气消散，云雾聚拢，山谷就显得昏暗了；"
           },
           "notes": []
-        },
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
@@ -1459,30 +1250,9 @@
             }
           ],
           "translation": {
-            "translation": "背物者路上唱歌，行路者树下休息，前呼后应，老人小孩往来不绝的，是滁人出游。"
+            "translation": "早上则自暗而明，傍晚则自明而暗，阴暗明亮，变化不一，这就是山中的朝暮。"
           },
-          "notes": [
-            {
-              "start": 22,
-              "end": 23,
-              "note": "伛偻：弯腰驼背，代指老人。"
-            },
-            {
-              "start": 25,
-              "end": 26,
-              "note": "提携：牵扶，代指小孩。借代用法。"
-            },
-            {
-              "start": 22,
-              "end": 23,
-              "note": "伛偻：弯腰曲背，形容老人。此处指搀扶着老人。"
-            },
-            {
-              "start": 24,
-              "end": 25,
-              "note": "提携：指牵着小孩。提，牵；携，带领。泛指老幼同行。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -1500,13 +1270,7 @@
             },
             {
               "char": "渔",
-              "pinyin": "yú",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "渔：捕鱼，动词。临溪捕鱼。"
-                }
-              ]
+              "pinyin": "yú"
             },
             {
               "char": "，",
@@ -1533,17 +1297,9 @@
               "pinyin": "féi"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "溪边钓鱼，水深鱼肥。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "酿",
               "pinyin": "niàng"
@@ -1582,26 +1338,12 @@
             },
             {
               "char": "洌",
-              "pinyin": "liè",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "洌：清澈。泉香而酒洌，形容酒质清纯。"
-                }
-              ]
+              "pinyin": "liè"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "泉水酿酒，泉香酒清。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "山",
               "pinyin": "shān"
@@ -1616,13 +1358,7 @@
             },
             {
               "char": "蔌",
-              "pinyin": "sù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "蔌：菜蔬，泛指野菜。山中野味。"
-                }
-              ]
+              "pinyin": "sù"
             },
             {
               "char": "，",
@@ -1634,13 +1370,7 @@
             },
             {
               "char": "然",
-              "pinyin": "rán",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "杂然：纷纷地，形容食物陈列的样子。"
-                }
-              ]
+              "pinyin": "rán"
             },
             {
               "char": "而",
@@ -1648,27 +1378,11 @@
             },
             {
               "char": "前",
-              "pinyin": "qián",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "前：名词作状语，在面前。"
-                }
-              ]
+              "pinyin": "qián"
             },
             {
               "char": "陈",
-              "pinyin": "chén",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "陈：陈列、摆放。"
-                },
-                {
-                  "title": "注释",
-                  "content": "陈：陈列、摆放。前陈者，摆在面前的菜肴。"
-                }
-              ]
+              "pinyin": "chén"
             },
             {
               "char": "者",
@@ -1700,15 +1414,9 @@
             }
           ],
           "translation": {
-            "translation": "野味野菜交错摆列的，是太守宴席。"
+            "translation": "野花开了，散发出清幽的香味；"
           },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "杂然：错杂的样子，形容菜肴摆放纷繁。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -1722,17 +1430,7 @@
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "酣：尽兴地饮酒。宴酣即宴会喝得尽兴。"
-                },
-                {
-                  "title": "注释",
-                  "content": "酣：尽兴地饮酒。宴酣，宴会喝到尽兴时。"
-                }
-              ]
+              "pinyin": "zhī"
             },
             {
               "char": "乐",
@@ -1748,13 +1446,7 @@
             },
             {
               "char": "丝",
-              "pinyin": "sī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "丝：弦乐器，代指音乐。"
-                }
-              ]
+              "pinyin": "sī"
             },
             {
               "char": "非",
@@ -1762,13 +1454,7 @@
             },
             {
               "char": "竹",
-              "pinyin": "zhú",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "竹：管乐器，代指音乐。非丝非竹即不靠乐器助兴。"
-                }
-              ]
+              "pinyin": "zhú"
             },
             {
               "char": "，",
@@ -1780,17 +1466,7 @@
             },
             {
               "char": "者",
-              "pinyin": "zhě",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "射：投壶，古代宴饮游戏，非射箭。"
-                },
-                {
-                  "title": "注释",
-                  "content": "射：投壶，古代宴饮游戏，箭投入壶中得分。"
-                }
-              ]
+              "pinyin": "zhě"
             },
             {
               "char": "中",
@@ -1806,17 +1482,7 @@
             },
             {
               "char": "者",
-              "pinyin": "zhě",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "弈：下棋。"
-                },
-                {
-                  "title": "注释",
-                  "content": "弈：下棋，特指围棋。"
-                }
-              ]
+              "pinyin": "zhě"
             },
             {
               "char": "胜",
@@ -1832,23 +1498,11 @@
             },
             {
               "char": "筹",
-              "pinyin": "chóu",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "觥：酒杯。"
-                }
-              ]
+              "pinyin": "chóu"
             },
             {
               "char": "交",
-              "pinyin": "jiāo",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "筹：酒筹，行酒令用的签子。"
-                }
-              ]
+              "pinyin": "jiāo"
             },
             {
               "char": "错",
@@ -1908,15 +1562,9 @@
             }
           ],
           "translation": {
-            "translation": "宴饮之乐不在音乐，投壶中靶，下棋取胜，酒杯筹码交错，起坐喧哗的，是宾客欢畅。"
+            "translation": "好的树木枝繁叶茂，形成一片浓密的绿荫；"
           },
-          "notes": [
-            {
-              "start": 19,
-              "end": 20,
-              "note": "觥筹交错：酒杯和酒筹交互错杂，形容宴饮热闹场面。觥，酒杯；筹，行酒令用的筹码。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -1950,17 +1598,7 @@
             },
             {
               "char": "乎",
-              "pinyin": "hū",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "乎：相当于‘于’，在。"
-                },
-                {
-                  "title": "注释",
-                  "content": "乎：相当于‘于’，在。乎其间，即在众人中间。"
-                }
-              ]
+              "pinyin": "hū"
             },
             {
               "char": "其",
@@ -2000,21 +1638,14 @@
             }
           ],
           "translation": {
-            "translation": "苍颜白发醉倒其中的，是太守醉了。"
+            "translation": "天高气爽，霜色洁白；"
           },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "颓然：醉醺醺的样子，非颓废。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "note": "颓然：醉倒的样子。颓，倾倒貌，非现代‘颓废’之意。"
-            }
-          ]
-        },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
@@ -2055,13 +1686,7 @@
             },
             {
               "char": "散",
-              "pinyin": "sǎn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "散乱：影子零乱，形容人影纷乱离去。"
-                }
-              ]
+              "pinyin": "sǎn"
             },
             {
               "char": "乱",
@@ -2109,7 +1734,7 @@
             }
           ],
           "translation": {
-            "translation": "夕阳西下，人影散乱，太守归去宾客跟随。"
+            "translation": "水落下去，水底的石头就露出来，这就是山中的四季。"
           },
           "notes": []
         },
@@ -2129,17 +1754,7 @@
             },
             {
               "char": "翳",
-              "pinyin": "yì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "翳：遮蔽，阴翳指树影浓密覆盖。"
-                },
-                {
-                  "title": "注释",
-                  "content": "翳：遮蔽，此处指树林茂密遮天。"
-                }
-              ]
+              "pinyin": "yì"
             },
             {
               "char": "，",
@@ -2203,7 +1818,7 @@
             }
           ],
           "translation": {
-            "translation": "树林浓荫，鸟鸣上下，游人离去禽鸟欢唱。"
+            "translation": "清晨前往，黄昏归来，四季的风光不同，乐趣也是无穷无尽的。"
           },
           "notes": []
         },
@@ -2267,25 +1882,19 @@
             },
             {
               "char": "之",
-              "pinyin": "zhī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "乐：快乐。人之乐，指人们的快乐。"
-                }
-              ]
+              "pinyin": "zhī"
             },
             {
               "char": "乐",
               "pinyin": "lè"
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "但禽鸟只知山林之乐，不知人之乐。"
+            "translation": "背着东西的人在路上欢唱，行人在树下休息，前面的招呼，后面的答应；"
           },
           "notes": []
         },
@@ -2353,13 +1962,7 @@
             },
             {
               "char": "乐",
-              "pinyin": "lè",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "乐其乐：以他的快乐为快乐。前‘乐’为动词，后‘乐’为名词。"
-                }
-              ]
+              "pinyin": "lè"
             },
             {
               "char": "其",
@@ -2379,7 +1982,7 @@
             }
           ],
           "translation": {
-            "translation": "游人只知随太守游的快乐，不知太守以众人快乐为快乐。"
+            "translation": "弯着腰走的老人，搀扶着走的小孩子，来来往往不断的行人，是滁州的游客。"
           },
           "notes": []
         },
@@ -2419,31 +2022,11 @@
             },
             {
               "char": "述",
-              "pinyin": "shù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "述：记述、描写。"
-                },
-                {
-                  "title": "注释",
-                  "content": "述：记述、描写。醒后能用文章记下欢乐。"
-                }
-              ]
+              "pinyin": "shù"
             },
             {
               "char": "以",
-              "pinyin": "yǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "以：用。述以文，即‘以文述’，用文章记述。"
-                },
-                {
-                  "title": "注释",
-                  "content": "以文：用文字。‘述以文’即‘以文述’，状语后置结构。"
-                }
-              ]
+              "pinyin": "yǐ"
             },
             {
               "char": "文",
@@ -2475,7 +2058,7 @@
             }
           ],
           "translation": {
-            "translation": "醉时同乐醒后著文的，是太守。"
+            "translation": "靠近溪边钓鱼，溪水深并且鱼肉肥美；"
           },
           "notes": []
         },
@@ -2503,7 +2086,7 @@
             }
           ],
           "translation": {
-            "translation": "太守是谁？"
+            "translation": "用酿泉酿造酒，泉水香并且酒也清；"
           },
           "notes": []
         },
@@ -2539,7 +2122,7 @@
             }
           ],
           "translation": {
-            "translation": "庐陵欧阳修。"
+            "translation": "野味野菜，杂乱地摆放在面前的，那是太守主办的宴席。"
           },
           "notes": []
         }

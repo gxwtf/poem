@@ -11,130 +11,85 @@
             {
               "char": "黑",
               "pinyin": "hēi",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "压",
               "pinyin": "yā",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "摧",
               "pinyin": "cuī",
-              "index": 6,
-              "read": true,
-              "write": true
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "甲",
               "pinyin": "jiǎ",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "光",
               "pinyin": "guāng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "向",
               "pinyin": "xiàng",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "金",
               "pinyin": "jīn",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "鳞",
               "pinyin": "lín",
-              "index": 13,
-              "read": true,
-              "write": true
+              "index": 13
             },
             {
               "char": "开",
               "pinyin": "kāi",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
-          "translation": "黑云压城城墙欲垮，铠甲映日金鳞闪烁。",
-          "pinyin": "hēi yún yā chéng chéng yù cuī ， jiǎ guāng xiàng rì jīn lín kāi 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 6,
-              "content": "摧：毁坏，指城墙将被攻破，形容敌军来势凶猛。"
-            },
-            {
-              "start": 13,
-              "end": 13,
-              "content": "金鳞：金色的鱼鳞，比喻阳光照耀下铠甲闪烁如鱼鳞般耀眼。"
-            }
-          ]
+          "translation": "敌兵滚滚而来，犹如黑云铠卷，像要摧倒城墙；"
         }
       ]
     },
@@ -145,137 +100,85 @@
             {
               "char": "角",
               "pinyin": "jiǎo",
-              "index": 16,
-              "read": true,
-              "write": false
+              "index": 16
             },
             {
               "char": "声",
               "pinyin": "shēng",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "满",
               "pinyin": "mǎn",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "色",
               "pinyin": "sè",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "塞",
               "pinyin": "sài",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "燕",
               "pinyin": "yān",
-              "index": 26,
-              "read": true,
-              "write": true
+              "index": 26
             },
             {
               "char": "脂",
               "pinyin": "zhī",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "凝",
               "pinyin": "níng",
-              "index": 28,
-              "read": false,
-              "write": true
+              "index": 28
             },
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "紫",
               "pinyin": "zǐ",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
-          "translation": "号角声满天秋色中，暮色里塞土凝紫如胭脂。",
-          "pinyin": "jiǎo shēng mǎn tiān qiū sè lǐ ， sài shàng yàn zhī níng yè zǐ 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "角：军中号角，古代用于指挥军队或报时，此处指战斗号角声。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "燕脂：即胭脂，原为红色化妆品，此处借指战场上血迹在夜晚凝结成暗红色或紫色。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "状语后置：‘角声满天秋色里’应为‘角声于秋色里满天’，介词结构‘秋色里’后置。"
-            }
-          ]
+          "translation": "战士们的铠甲在阳光照射下金光闪烁。"
         }
       ]
     },
@@ -286,135 +189,85 @@
             {
               "char": "半",
               "pinyin": "bàn",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "卷",
               "pinyin": "juǎn",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "红",
               "pinyin": "hóng",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "旗",
               "pinyin": "qí",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "临",
               "pinyin": "lín",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "易",
               "pinyin": "yì",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "霜",
               "pinyin": "shuāng",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "重",
               "pinyin": "zhòng",
-              "index": 41,
-              "read": true,
-              "write": false
+              "index": 41
             },
             {
               "char": "鼓",
               "pinyin": "gǔ",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "寒",
               "pinyin": "hán",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "声",
               "pinyin": "shēng",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "起",
               "pinyin": "qǐ",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "半卷红旗抵易水，霜重鼓声低沉难振。",
-          "pinyin": "bàn juǎn hóng qí lín yì shuǐ ， shuāng zhòng gǔ hán shēng bù qǐ 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "content": "易水：战国时燕国南界河流，荆轲刺秦前曾在此告别，后成为悲壮赴死的象征。"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "content": "重：读zhòng，意为厚重、沉重，形容秋霜很厚，影响行军与击鼓。"
-            },
-            {
-              "start": 10,
-              "end": 14,
-              "content": "鼓寒声不起：鼓声因寒冷和霜重而低沉，难以传远，形容战况艰难。"
-            }
-          ]
+          "translation": "战角声响彻秋夜的长空，边塞战场上的血迹在暮色中呈现出暗紫色。"
         }
       ]
     },
@@ -425,130 +278,85 @@
             {
               "char": "报",
               "pinyin": "bào",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "黄",
               "pinyin": "huáng",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "金",
               "pinyin": "jīn",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "台",
               "pinyin": "tái",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "意",
               "pinyin": "yì",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "提",
               "pinyin": "tí",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "携",
               "pinyin": "xié",
-              "index": 57,
-              "read": true,
-              "write": true
+              "index": 57
             },
             {
               "char": "玉",
               "pinyin": "yù",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "龙",
               "pinyin": "lóng",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "为",
               "pinyin": "wèi",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "死",
               "pinyin": "sǐ",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             }
           ],
-          "translation": "为报君王黄金台厚遇，提玉龙剑誓死报国。",
-          "pinyin": "bào jūn huáng jīn tái shàng yì ， tí xié yù lóng wèi jūn sǐ 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 5,
-              "content": "黄金台：又称燕台，燕昭王为招揽贤才所筑，置千金于台上，后成为君主礼贤下士的象征。"
-            },
-            {
-              "start": 11,
-              "end": 12,
-              "content": "玉龙：宝剑的代称，传说中名剑有‘玉龙’之名，此处指将士所持利剑。"
-            }
-          ]
+          "translation": "红旗半卷，援军赶厚易水；"
         }
       ]
     }
@@ -559,5 +367,8 @@
     "乐府诗"
   ],
   "background": "关于此诗系年，有两种说法。一种：此诗创作于公元814年（唐宪宗元和九年）。当年唐宪宗以张煦为节度使，领兵前往征讨雁门郡之乱，李贺即兴赋诗鼓舞士气，作成了这首《雁门太守行》。另一种说法，据唐张固《幽闲鼓吹》载：李贺把诗卷送给韩愈看，此诗放在卷首，韩愈看后也很欣赏。时在公元807年（元和二年）。",
-  "appreciation": "《雁门太守行》是李贺运用乐府古题创作的边塞诗。此诗用浓艳斑驳的色彩描绘悲壮惨烈的战斗场面，它通过奇异的画面准确地表现了在特定时间、地点的边塞风光以及瞬息万变的战争风云。首联以景叙事，渲染兵临城下的紧张气氛和危急形势，并借日光显示守军威武雄壮；颔联从视听两方面呈现战场的悲壮气氛和战斗的残酷；颈联则描绘了部队夜袭和浴血奋战的场面；尾联引用典故，展现出将士誓死报效国家的决心。全诗意境苍凉，格调悲壮，具有强烈的震撼力和艺术魅力。"
+  "appreciation": "《雁门太守行》是李贺运用乐府古题创作的边塞诗。此诗用浓艳斑驳的色彩描绘悲壮惨烈的战斗场面，它通过奇异的画面准确地表现了在特定时间、地点的边塞风光以及瞬息万变的战争风云。首联以景叙事，渲染兵临城下的紧张气氛和危急形势，并借日光显示守军威武雄壮；颔联从视听两方面呈现战场的悲壮气氛和战斗的残酷；颈联则描绘了部队夜袭和浴血奋战的场面；尾联引用典故，展现出将士誓死报效国家的决心。全诗意境苍凉，格调悲壮，具有强烈的震撼力和艺术魅力。",
+  "annotation": "雁门太守行：古乐府曲调名。雁门，郡名。古雁门郡大约在今山西省西北部，是唐王朝与北方突厥部族的边境地带。黑云：此凝容战争烟尘铺天盖地，弥漫在边城附近，气氛十分紧张。摧：毁。甲光：铠甲迎着太阳闪出的光。甲，指铠甲，战衣。向日：迎着太阳。亦有版本写作“向月”。金鳞：是说像金色的鱼鳞。这句凝容敌军兵临城下的紧张气氛和危急凝势。向：向着，对着。金鳞开：（铠甲）像金色的鱼鳞一样闪闪发光。金：像金子一样的颜色和光泽。开：打开，铺开。角：古代军中一种吹奏乐器，多用兽角制成，也是古代军中的战角。塞上燕脂凝夜紫：燕脂，即胭脂，这里指暮色中塞上泥土有如胭脂凝成。凝夜紫：在暮色中呈现出暗紫色。凝，凝聚。“燕脂”、“夜紫”暗指战场血迹。临：逼近，到，临近。易水：河名，大清河上源支流，源出今河北省易县，向东南流入大清河。易水距塞上尚远，此借荆轲故事以言悲壮之意。不起：是说鼓声低沉不扬。霜重鼓寒：天寒霜降，战鼓声沉闷而不响亮。声不起：凝容鼓声低沉；不响亮。此句一作“霜重鼓声寒不起”。报：报答。黄金台：黄金台亦称招贤台，战国时期燕昭王筑，为燕昭王尊师郭隗之所。其真正的故址位于河北省定兴县高里乡北章村台上（台上隶属于北章村，由黄金台在此而得名），遗址尚存。用来凝容招纳贤才的地方或人才荟萃之地。意：信任，重用。玉龙：宝剑的代称。君：君王。",
+  "comprehensive_appreciation": "赏析：中唐时期藩镇之间和讨伐藩镇的战火此起彼伏，从未终止。战争中的种种传闻，从烽火漫天的战场不断地传来，其中有失败的消息，也有胜利的凯歌；有怯懦的败将，也有奋战卫国的英雄。关心着国家命运的诗人李贺，自然关心各地的战事，当他离开了京城，离开了风光秀丽的家乡，到忻州一带，到了雁门时，写下了这首传诵千古的著名诗篇。诗的开头两句，着意于气氛的渲染，给读者勾勒了这场战争紧张的形势。首句用“黑云”作为比喻，写敌人来势凶猛，再以“压”这个动词来加强此种势态之描写，然后以“欲摧”两词，来补足这种来势之猛烈，并直接刻画了危险的情状。第二句写我方军容整肃，军威雄伟，有临危不惊之气概。这两句的画面描绘得栩栩如生，形象感人：黑云翻滚之下，凶猛的敌军向我孤城扑来，大有城倾郭摧之势；然而，我方将士泰然不惧，整装披甲；在日光照射下，金甲闪金光，气宇轩昂，正准备出击。诗的一开始通过对照表现了形势危急，又表现了我军将士的英雄气概。三、四两句从声、色两个方面进一步渲染悲壮的气氛。角声呜呜，本来就是一种十分悲凉的音响；现在又是在满目萧瑟的秋天里回荡，自然就显得更加悲壮了。这里从声来写。“塞上燕脂凝夜紫”则从色来烘托。此时战场之上鲜血遍染，在暮霭凝聚下呈现出暗紫色，为这个画面抹上了一层悲壮的色彩。“半卷红旗临易水”，“半卷”二字含义极为丰富。黑夜行军，偃旗息鼓，为的是“出其不意，攻其不备”：“临易水”既表明交战的地点，又暗示将士们具有“风萧萧兮易水寒，壮士一去不复还”那样一种壮怀激烈的豪情。接着描写苦战的场面：驰援部队一迫近敌军的营垒，便击鼓助威，投入战斗。无奈夜寒霜重，连战鼓也擂不响。面对重重困难，将士们毫不气馁。以上六句以沉重的色彩：黑、紫两色为基色，点染以紫色、红色，使得诗的意境以低沉的调子映入人们眼帘。用凄厉的角声，喑哑的鼓声，传达一种悲壮的声音进入人们耳膜。声、色互为映衬，使悲剧性的氛围更加强烈、更加动人。在完成气氛渲染之后，诗人才让自己的主人公出场。“报君黄金台上意，提携玉龙为君死。”黄金台是战国时燕昭王在易水东南修筑的，传说他曾把大量黄金放在台上，表示不惜以重金招揽天下士。诗人引用这个故事，写出将士们报效朝廷的决心。一般说来，写悲壮惨烈的战斗场面不宜使用表现秾艳色彩的词语，而李贺这首诗几乎句句都有鲜明的色彩，其中如金色、胭脂色和紫红色，非但鲜明，而且秾艳，它们和黑色、秋色、玉白色等等交织在一起，构成色彩斑斓的画面。诗人就像一个高明的画家，特别善于着色，以色示物，以色感人，不只勾勒轮廓而已。他写诗，绝少运用白描手法，总是借助想象给事物涂上各种各样新奇浓重的色彩，有效地显示了它们的多层次性。有时为了使画面变得更加鲜明，他还把一些性质不同甚至互相矛盾的事物揉合在一起，让它们并行错出，形成强烈的对比。例如用压城的黑云暗喻敌军气焰嚣张，借向日之甲光显示守城将士雄姿英发，两相比照，色彩鲜明，爱憎分明。李贺的诗篇不只奇诡，亦且妥帖。奇诡而又妥帖，是他诗歌创作的基本特色。这首诗，用秾艳斑驳的色彩描绘悲壮惨烈的战斗场面，可算是奇诡的了；而这种色彩斑斓的奇异画面却准确地表现了特定时间、特定地点的边塞风光和瞬息变幻的战争风云，又显得很妥帖。惟其奇诡，愈觉新颖；惟其妥贴，则倍感真切；奇诡而又妥帖，从而构成浑融蕴藉富有情思的意境。这是李贺创作诗歌的绝招，他的可贵之处，也是他的难学之处。",
+  "knowledge": ""
 }

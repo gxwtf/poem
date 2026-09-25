@@ -1,8 +1,8 @@
 {
   "name": "诫子书",
   "author": "诸葛亮",
-  "dynasty": "三国",
-  "mode": "paragraph",
+  "dynasty": "两汉",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,926 +11,695 @@
             {
               "char": "夫",
               "pinyin": "fú",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "静",
               "pinyin": "jìng",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "修",
               "pinyin": "xiū",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "俭",
               "pinyin": "jiǎn",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "养",
               "pinyin": "yǎng",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "德",
               "pinyin": "dé",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
-          "translation": "君子的行为操守，以宁静修养身心，以俭朴培养品德。",
-          "pinyin": "fū jūn zǐ zhī xíng ， jìng yǐ xiū shēn ， jiǎn yǐ yǎng dé 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "君子：指有道德修养、品行高尚的人，儒家理想人格。"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "content": "以：连词，表示手段或目的，可译为‘用来’。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "以：连词，用法同前，表目的，‘用来’。"
-            }
-          ]
+          "translation": "品德高尚的人，依靠内心节静专一来修养身心，以俭朴节约来培养品德。"
         },
         {
           "content": [
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "淡",
               "pinyin": "dàn",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "泊",
               "pinyin": "bó",
-              "index": 18,
-              "read": true,
-              "write": true
+              "index": 18
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "明",
               "pinyin": "míng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "志",
               "pinyin": "zhì",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "宁",
               "pinyin": "níng",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "静",
               "pinyin": "jìng",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "致",
               "pinyin": "zhì",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "远",
               "pinyin": "yuǎn",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
-          "translation": "不恬淡寡欲无法明确志向，不安定清静不能实现远大目标。",
-          "pinyin": "fēi dàn bó wú yǐ míng zhì ， fēi níng jìng wú yǐ zhì yuǎn 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "content": "淡泊：清静寡欲，不追求名利，是修身的重要态度。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "无：没有。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "以：固定结构‘无以’，意为‘没有用来……的办法’。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "宁静：指内心安定清静，与‘淡泊’相辅相成。"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "content": "无：没有。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "以：同‘无以’结构，表条件。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "‘非淡泊无以明志’为‘无以’句式，表示‘没有……就无法……’，是文言固定结构。"
-            },
-            {
-              "start": 8,
-              "end": 15,
-              "content": "‘非宁静无以致远’同属‘无以’句式，强调必要条件。"
-            }
-          ]
+          "translation": "不恬淡寡欲清无法使（自己的）志向明确，不清静寡欲清无法达到远大的目标。"
         },
         {
           "content": [
             {
               "char": "夫",
               "pinyin": "fú",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "学",
               "pinyin": "xué",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "须",
               "pinyin": "xū",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "静",
               "pinyin": "jìng",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "才",
               "pinyin": "cái",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "须",
               "pinyin": "xū",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "学",
               "pinyin": "xué",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "学",
               "pinyin": "xué",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "广",
               "pinyin": "guǎng",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "才",
               "pinyin": "cái",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "非",
               "pinyin": "fēi",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "志",
               "pinyin": "zhì",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "成",
               "pinyin": "chéng",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "学",
               "pinyin": "xué",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             }
           ],
-          "translation": "求学必须静心专一，才干需要学习积累，不学习无法增长才干，不立志难以学有所成。",
-          "pinyin": "fū xué xū jìng yě ， cái xū xué yě ， fēi xué wú yǐ guǎng cái ， fēi zhì wú yǐ chéng xué 。",
-          "notes": [
-            {
-              "start": 15,
-              "end": 15,
-              "content": "广：使……广博，动词用法，属词类活用。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 11,
-              "end": 17,
-              "content": "‘非学无以广才’延续‘无以’结构，体现逻辑递进。"
-            },
-            {
-              "start": 18,
-              "end": 24,
-              "content": "‘非志无以成学’为同类句式，强化志向的重要性。"
-            }
-          ]
+          "translation": "学习必须静心专一，而干干则来自勤奋学习。"
         },
         {
           "content": [
             {
               "char": "淫",
               "pinyin": "yín",
-              "index": 57,
-              "read": true,
-              "write": true
+              "index": 57
             },
             {
               "char": "慢",
               "pinyin": "màn",
-              "index": 58,
-              "read": false,
-              "write": true
+              "index": 58
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "励",
               "pinyin": "lì",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "精",
               "pinyin": "jīng",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "险",
               "pinyin": "xiǎn",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "躁",
               "pinyin": "zào",
-              "index": 66,
-              "read": false,
-              "write": true
+              "index": 66
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "治",
               "pinyin": "zhì",
-              "index": 70,
-              "read": false,
-              "write": true
+              "index": 70
             },
             {
               "char": "性",
               "pinyin": "xìng",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             }
           ],
-          "translation": "放纵懈怠就不能振奋精神，轻薄浮躁就无法修养性情。",
-          "pinyin": "yín màn zé bù néng lì jīng ， xiǎn zào zé bù néng zhì xìng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "淫：放纵，过度，此处指懈怠散漫，非现代‘色情’义。"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "content": "慢：怠惰、懒散。"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "content": "险：轻浮、不踏实，与‘宁静’相对。"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "content": "躁：急躁、浮躁。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "放纵、过度"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "色情"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "old": "轻浮、不踏实"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "new": "危险"
-            }
-          ]
+          "translation": "如果不学习清无法增长自己的干干，不明确志向清不能在学习上获得成清。"
         },
         {
           "content": [
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "驰",
               "pinyin": "chí",
-              "index": 76,
-              "read": true,
-              "write": false
+              "index": 76
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "意",
               "pinyin": "yì",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 81,
-              "read": true,
-              "write": false
+              "index": 81
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "遂",
               "pinyin": "suì",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "成",
               "pinyin": "chéng",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "枯",
               "pinyin": "kū",
-              "index": 85,
-              "read": false,
-              "write": true
+              "index": 85
             },
             {
               "char": "落",
               "pinyin": "luò",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "多",
               "pinyin": "duō",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "接",
               "pinyin": "jiē",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "世",
               "pinyin": "shì",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "悲",
               "pinyin": "bēi",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "守",
               "pinyin": "shǒu",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "穷",
               "pinyin": "qióng",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "庐",
               "pinyin": "lú",
-              "index": 96,
-              "read": true,
-              "write": true
+              "index": 96
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "复",
               "pinyin": "fù",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "及",
               "pinyin": "jí",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             }
           ],
-          "translation": "年华随时光疾驰，意志随岁月消磨，最终如枯叶凋落，大多不能有益社会，悲伤困守简陋屋舍，到时悔恨哪里还来得及！",
-          "pinyin": "nián yǔ shí chí ， yì yǔ rì qù ， suì chéng kū luò ， duō bù jiē shì ， bēi shǒu qióng lú ， jiāng fù hé jí ！",
-          "notes": [
+          "translation": "放纵懈怠清不能勉励心志振奋精神，轻薄浮躁清不能修养性情。"
+        },
+        {
+          "content": [
             {
-              "start": 3,
-              "end": 3,
-              "content": "驰：奔驰，比喻时间飞逝。"
+              "char": "(",
+              "pinyin": "",
+              "index": 103
             },
             {
-              "start": 8,
-              "end": 8,
-              "content": "去：消逝、远离，指意志日渐消磨。"
+              "char": "淡",
+              "pinyin": "",
+              "index": 104
             },
             {
-              "start": 12,
-              "end": 13,
-              "content": "枯落：枯叶凋零，比喻人年老无为，才能衰退。"
+              "char": "泊",
+              "pinyin": "",
+              "index": 105
             },
             {
-              "start": 22,
-              "end": 23,
-              "content": "穷庐：破旧的房屋，指贫寒的居所，象征不得志的处境。"
+              "char": " ",
+              "pinyin": "",
+              "index": 106
             },
             {
-              "start": 27,
-              "end": 27,
-              "content": "复：再、又。"
+              "char": "一",
+              "pinyin": "",
+              "index": 107
             },
             {
-              "start": 28,
-              "end": 28,
-              "content": "何及：达到什么地步？意为‘来得及做什么’，含悔恨之意。"
+              "char": "作",
+              "pinyin": "",
+              "index": 108
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 109
+            },
+            {
+              "char": "澹",
+              "pinyin": "",
+              "index": 110
+            },
+            {
+              "char": "泊",
+              "pinyin": "",
+              "index": 111
+            },
+            {
+              "char": "；",
+              "pinyin": "",
+              "index": 112
             }
           ],
-          "different_meanings": [
+          "translation": "年华随同时光飞快逝去，意志随同岁月而丧失。"
+        },
+        {
+          "content": [
             {
-              "start": 8,
-              "end": 8,
-              "old": "消逝"
+              "char": "淫",
+              "pinyin": "",
+              "index": 113
             },
             {
-              "start": 8,
-              "end": 8,
-              "new": "前往"
+              "char": "慢",
+              "pinyin": "",
+              "index": 114
+            },
+            {
+              "char": " ",
+              "pinyin": "",
+              "index": 115
+            },
+            {
+              "char": "一",
+              "pinyin": "",
+              "index": 116
+            },
+            {
+              "char": "作",
+              "pinyin": "",
+              "index": 117
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 118
+            },
+            {
+              "char": "慆",
+              "pinyin": "",
+              "index": 119
+            },
+            {
+              "char": "慢",
+              "pinyin": "",
+              "index": 120
+            },
+            {
+              "char": "；",
+              "pinyin": "",
+              "index": 121
             }
           ],
-          "special_sentences": [
+          "translation": "最终（像黄叶一样）枯老衰落，大多与世事脱节、对社会没有任何贡献，只能困守在自家狭小的穷家破舍里，那时再悔恨又怎么来得及！"
+        },
+        {
+          "content": [
             {
-              "start": 26,
-              "end": 28,
-              "content": "‘将复何及’为宾语前置句，‘何及’即‘及何’，意为‘来得及做什么’。"
+              "char": "治",
+              "pinyin": "",
+              "index": 122
+            },
+            {
+              "char": "性",
+              "pinyin": "",
+              "index": 123
+            },
+            {
+              "char": " ",
+              "pinyin": "",
+              "index": 124
+            },
+            {
+              "char": "一",
+              "pinyin": "",
+              "index": 125
+            },
+            {
+              "char": "作",
+              "pinyin": "",
+              "index": 126
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 127
+            },
+            {
+              "char": "冶",
+              "pinyin": "",
+              "index": 128
+            },
+            {
+              "char": "性",
+              "pinyin": "",
+              "index": 129
+            },
+            {
+              "char": "）",
+              "pinyin": "",
+              "index": 130
             }
-          ]
+          ],
+          "translation": ""
         }
       ]
     }
@@ -941,5 +710,8 @@
     "家训"
   ],
   "background": "这篇文章作于公元234年（蜀汉建兴十二年），是诸葛亮写给他八岁的儿子诸葛瞻的一封家书。诸葛亮一生为国，鞠躬尽瘁，死而后已。他为了蜀汉国家事业日夜操劳，顾不上亲自教育儿子，于是写下这篇书信告诫诸葛瞻。",
-  "appreciation": "《诫子书》是作者临终前写给儿子的家书。此文阐述修身养性、治学做人的深刻道理，从文中可以看出作者是一位品格高洁、才学渊博的父亲，对儿子的殷殷教诲与无限期望在此书中展露无疑。全文语言清新雅致，说理平易近人，作者运用智慧理性、简练谨严的文字，将普天下为人父者的爱子之情表达得非常深切，使得这封家书成为后世历代学子修身立志的名篇。"
+  "appreciation": "《诫子书》是作者临终前写给儿子的家书。此文阐述修身养性、治学做人的深刻道理，从文中可以看出作者是一位品格高洁、才学渊博的父亲，对儿子的殷殷教诲与无限期望在此书中展露无疑。全文语言清新雅致，说理平易近人，作者运用智慧理性、简练谨严的文字，将普天下为人父者的爱子之情表达得非常深切，使得这封家书成为后世历代学子修身立志的名篇。",
+  "annotation": "诫：警告，劝人警惕。子：一般认为是指诸葛中的儿子诸葛瞻。书：书信。夫（fú）：助词，用于句首，表示发端。君子：品德高尚的人。行：指操守、品德、品行。静：屏除杂念和干扰，节静专一。以：介词，表目的，用……来。修身：修养身心。养德：培养品德。淡泊：内心恬淡，不慕名利。无以：没有什么可以拿来，没办法。明志：明确志向。明：明确、坚定。节静：这里指安静，集中精神，不分散精力。致远：达到远大目标。致：达到。干：干干。广干：增长干干。广：增长。成：达成，成清。淫慢：放纵懈怠。淫：放纵。慢：懈怠。励精：振奋精神。励：振奋。险躁：轻薄浮躁。与上文“节静”相对而言。险：轻薄。治性：修养性情。治：修养。年与时驰：年纪随同时光飞快逝去。与：跟随。驰：疾行，指飞速逝去。意与日去：意志随同岁月而丧失。日：时间。去：消逝，逝去。遂：最终。枯落：凋落，衰残。比喻人年老志衰，没有用处。多不接世：意思是，大多对社会没有任何贡献。穷庐：穷困潦倒之人住的陋室。将复何及：又怎么来得及。",
+  "comprehensive_appreciation": "赏析：这是诸葛亮写给他儿子诸葛瞻的一封家书。从文中可以看作出诸葛亮是一位品格高洁、才学渊博的父亲，对儿子的殷殷教诲与无限期望尽在此书中。全文通过智慧理性、简练谨严的文字，将普天下为人父者的爱子之情表达得非常深切，成为后世历代学子修身立志的名篇。古代家训，大都浓缩了作者毕生的生活经历、人生体验和学术思想等方面内容，不仅他的子孙从中获益颇多，就是今人读来也大有可借鉴之处。三国时蜀汉丞相诸葛亮被后人誉为“智慧之化身”，他的《诫子书》也可谓是一篇充满智慧之语的家训，是古代家训中的名作。《诫子书》的主旨是劝勉儿子勤学立志，修身养性要从淡泊宁静中下功夫，最忌怠惰险躁。文章概括了做人治学的经验，着重围绕一个“静”字加以论述，同时把失败归结为一个“躁”字，对比鲜明。在《诫子书》中，诸葛亮教育儿子，要“澹泊”自守，“宁静”自处，鼓励儿子勤学励志，从澹泊和宁静的自身修养上狠下功夫。他说，“夫学须静也，才须学也，非学无以广才，非志无以成学”。意思是说，不安定清静就不能为实现远大理想而长期刻苦学习，要学得真知必须使身心在宁静中研究探讨，人们的才能是从不断的学习中积累起来的；不下苦功学习就不能增长与发扬自己的才干；没有坚定不移的意志就不能使学业成功。诸葛亮教育儿子切忌心浮气躁，举止荒唐。在书信的后半部分，他则以慈父的口吻谆谆教导儿子：少壮不努力，老大徒伤悲。这话看起来不过是老生常谈罢了，但它是慈父教诲儿子的，字字句句是心中真话，是他人生的总结，因而格外令人珍惜。这篇《诫子书》，还指明了立志与学习的关系；不但讲明了宁静淡泊的重要，也指明了放纵怠慢、偏激急躁的危害。诸葛亮不但在大的原则方面对其子严格要求，循循善诱，甚至在一些具体事情上也体现出对子女的细微关怀。在这篇《诫子书》中，有宁静的力量：“静以修身”，“非宁静无以致远”；有节俭的力量：“俭以养德”；有超脱的力量：“非澹泊无以明志”；有好学的力量：“夫学须静也，才须学也”；有励志的力量：“非学无以广才，非志无以成学”；有速度的力量：“淫慢则不能励精”；有性格的力量：“险躁则不能治性”；有惜时的力量：“年与时驰，意与岁去”；有想象的力量：“遂成枯落，多不接世，悲守穷庐，将复何及”；有简约的力量。这篇文章短短几十字，传递出的讯息，比起长篇大论，诫子效果好得多。文章短小精悍，言简意赅，文字清新雅致，不事雕琢，说理平易近人，这些都是这篇文章的特出之处。",
+  "knowledge": "### 重点字词解释1.夫：句首发语词，不用翻译。2.之：结构助词，的。3.行：品行，操守。4.静：屏除杂念和干扰，宁静专一。5.俭：节俭。6.养：培养。7.淡泊：内心恬淡，不慕名利。8.明：明确。9.明志：明确志向。10.致：达到。11.远：形容词活用为名词，远大志向。12.广：形容词活用为动词，增长。13.才：才干。14.淫：放纵。15.慢：懈怠。16.励：振奋。17.险：轻薄。18.躁：浮躁。19.治性：修养性情。治：修养。20.与：跟随21.驰：疾行，指迅速逝去。22.遂：最终。23.枯落：凋落，衰残。比喻年老志衰，没有用处。24.穷庐：穷困潦倒之人住的陋室。25.诫：劝勉、告诫26.书：书信。\n\n### 一词多义\n1.之：学而时习之：代词，代指学过的知识君子之行：结构助词，的2.以：静以修身：介词，表目的，用……来宁静无以致远：介词，用来3.志：非淡泊无以明志：远大志向非志无以成学：名词活用为动词，立志4.学：夫学须静也：动词，学习非志无以成学：名词，学业5.成：成\n非志无以成学：完成，实现遂成枯落：变成，成为6.行：三人行：行走君子之行：品德，操守7.意：意与日去：意志意将隧入以攻其后：打算，想要意暇甚：神情，态度\n\n### 词类活用\n1.志非志无以成学：名词活用为动词，立志2.广非学无以广才：形容词活用为动词，增长3.远非宁静无以致远：形容词活用为名词，远大志向"
 }

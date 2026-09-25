@@ -58,7 +58,7 @@
             }
           ],
           "translation": {
-            "translation": "汉文帝后元六年，匈奴大举入侵。"
+            "translation": "汉文帝后元六年，匈奴大规模侵入汉朝边境。"
           },
           "notes": []
         },
@@ -106,13 +106,7 @@
             },
             {
               "char": "军",
-              "pinyin": "jūn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "军：驻军，名词用作动词，意为驻扎。"
-                }
-              ]
+              "pinyin": "jūn"
             },
             {
               "char": "霸",
@@ -125,7 +119,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "于是，朝廷委派宗正官刘礼为将军，驻军在灞上；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "祝",
               "pinyin": "zhù"
@@ -164,13 +166,7 @@
             },
             {
               "char": "军",
-              "pinyin": "jūn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "军：驻扎，动词用法。"
-                }
-              ]
+              "pinyin": "jūn"
             },
             {
               "char": "棘",
@@ -183,7 +179,15 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "委派祝兹侯徐厉为将军，驻军在棘门；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "以",
               "pinyin": "yǐ"
@@ -226,13 +230,7 @@
             },
             {
               "char": "军",
-              "pinyin": "jūn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "军：驻扎，动词。"
-                }
-              ]
+              "pinyin": "jūn"
             },
             {
               "char": "细",
@@ -264,26 +262,14 @@
             }
           ],
           "translation": {
-            "translation": "便命宗正刘礼为将军，驻军霸上；祝兹侯徐厉为将军，驻军棘门；命河内太守周亚夫为将军，驻军细柳：共同防胡。"
+            "translation": "委派河内郡太守周亚夫为将军，驻军在细柳，以防备匈奴侵扰。"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "宗正：官名，掌管皇室宗族事务的官员。"
-            },
-            {
-              "start": 14,
-              "end": 15,
-              "note": "祝兹侯：封号，祝兹为地名，侯为爵位。"
-            },
-            {
-              "start": 28,
-              "end": 30,
-              "note": "河内守：河内郡的太守。河内，地名；守，郡的行政长官。"
-            }
-          ]
-        },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
@@ -308,7 +294,7 @@
             }
           ],
           "translation": {
-            "translation": "帝亲自犒军。"
+            "translation": "皇上亲自去慰问军队。"
           },
           "notes": []
         },
@@ -392,7 +378,7 @@
             }
           ],
           "translation": {
-            "translation": "至霸上和棘门军营，长驱直入，将领骑马迎送。"
+            "translation": "到了灞上和棘门的军营，直接驱驰而入，将军率领所属士兵骑着马送迎皇帝。"
           },
           "notes": []
         },
@@ -440,13 +426,7 @@
             },
             {
               "char": "被",
-              "pinyin": "pī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "被：通‘披’，穿着的意思，‘被甲’即披甲。"
-                }
-              ]
+              "pinyin": "pī"
             },
             {
               "char": "甲",
@@ -458,13 +438,7 @@
             },
             {
               "char": "锐",
-              "pinyin": "ruì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "锐：使……锋利，使动用法，‘锐兵刃’即磨利兵器。"
-                }
-              ]
+              "pinyin": "ruì"
             },
             {
               "char": "兵",
@@ -508,20 +482,9 @@
             }
           ],
           "translation": {
-            "translation": "后至细柳军营，官兵披甲执锐，刀出鞘，弓上弦，紧握兵器。"
+            "translation": "不久来到细柳的军营，只见官兵都披戴盔甲，手持锋利的兵器，开弓搭箭，弓拉满，戒备森严。"
           },
-          "notes": [
-            {
-              "start": 17,
-              "end": 20,
-              "note": "彀弓弩：张满弓和弩。彀，拉满弓；弩，一种强力弓箭。"
-            },
-            {
-              "start": 21,
-              "end": 23,
-              "note": "持满：拉满弓待发，形容戒备森严。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -543,13 +506,7 @@
             },
             {
               "char": "至",
-              "pinyin": "zhì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "先驱：帝王出行时的前导人员，此处指文帝的先导卫队。"
-                }
-              ]
+              "pinyin": "zhì"
             },
             {
               "char": "，",
@@ -573,7 +530,7 @@
             }
           ],
           "translation": {
-            "translation": "皇帝先行卫队至，不得入内。"
+            "translation": "皇上的先行卫队到了营前，不准进入。"
           },
           "notes": []
         },
@@ -596,36 +553,36 @@
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "tiān"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "天",
-              "pinyin": "zǐ"
+              "pinyin": "tiān"
             },
             {
               "char": "子",
-              "pinyin": "qiě"
+              "pinyin": "zǐ"
             },
             {
               "char": "且",
-              "pinyin": "zhì"
+              "pinyin": "qiě"
             },
             {
               "char": "至",
-              "pinyin": "jūn"
+              "pinyin": "zhì"
             },
             {
               "char": "！",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "mén"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "卫兵说：\"皇帝将到！\""
+            "translation": "先行的卫队说：“皇上将要驾到。”"
           },
           "notes": []
         },
@@ -633,35 +590,35 @@
           "sentence": [
             {
               "char": "军",
-              "pinyin": "dū"
+              "pinyin": "jūn"
             },
             {
               "char": "门",
-              "pinyin": "wèi"
+              "pinyin": "mén"
             },
             {
               "char": "都",
-              "pinyin": "yuē"
+              "pinyin": "dū"
             },
             {
               "char": "尉",
-              "pinyin": "jiāng"
+              "pinyin": "wèi"
             },
             {
               "char": "曰",
-              "pinyin": "jūn"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "lìng"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "将",
-              "pinyin": "yuē"
+              "pinyin": "jiāng"
             },
             {
               "char": "军",
@@ -669,19 +626,15 @@
             },
             {
               "char": "令",
-              "pinyin": "zhōng"
+              "pinyin": "lìng"
             },
             {
               "char": "曰",
-              "pinyin": "wén"
+              "pinyin": "yuē"
             },
             {
-              "char": "：",
+              "char": "‘",
               "pinyin": "　"
-            },
-            {
-              "char": "'",
-              "pinyin": "jiāng"
             },
             {
               "char": "军",
@@ -689,23 +642,23 @@
             },
             {
               "char": "中",
-              "pinyin": "lìng"
+              "pinyin": "zhōng"
             },
             {
               "char": "闻",
-              "pinyin": "bù"
-            },
-            {
-              "char": "将",
               "pinyin": "wén"
             },
             {
+              "char": "将",
+              "pinyin": "jiāng"
+            },
+            {
               "char": "军",
-              "pinyin": "tiān"
+              "pinyin": "jūn"
             },
             {
               "char": "令",
-              "pinyin": "zǐ"
+              "pinyin": "lìng"
             },
             {
               "char": "，",
@@ -713,43 +666,43 @@
             },
             {
               "char": "不",
-              "pinyin": "zhī"
+              "pinyin": "bù"
             },
             {
               "char": "闻",
-              "pinyin": "zhào"
+              "pinyin": "wén"
             },
             {
               "char": "天",
-              "pinyin": "jū"
+              "pinyin": "tiān"
             },
             {
               "char": "子",
-              "pinyin": "wú"
+              "pinyin": "zǐ"
             },
             {
               "char": "之",
-              "pinyin": "hé"
+              "pinyin": "zhī"
             },
             {
               "char": "诏",
-              "pinyin": "shàng"
+              "pinyin": "zhào"
             },
             {
               "char": "。",
               "pinyin": "　"
             },
             {
-              "char": "'",
-              "pinyin": "zhì"
+              "char": "’",
+              "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "yòu"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "军门都尉说：\"周将军令：'军中只听将军令，不听天子诏令。'\""
+            "translation": "守卫军营的将官回答：“将军有令：‘军中只听从将军的命令，不听从皇帝的命令。’”"
           },
           "notes": []
         },
@@ -757,15 +710,15 @@
           "sentence": [
             {
               "char": "居",
-              "pinyin": "bù"
+              "pinyin": "jū"
             },
             {
               "char": "无",
-              "pinyin": "dé"
+              "pinyin": "wú"
             },
             {
               "char": "何",
-              "pinyin": "rù"
+              "pinyin": "hé"
             },
             {
               "char": "，",
@@ -773,11 +726,11 @@
             },
             {
               "char": "上",
-              "pinyin": "yú"
+              "pinyin": "shàng"
             },
             {
               "char": "至",
-              "pinyin": "shì"
+              "pinyin": "zhì"
             },
             {
               "char": "，",
@@ -785,292 +738,27 @@
             },
             {
               "char": "又",
-              "pinyin": "shàng"
+              "pinyin": "yòu"
             },
             {
               "char": "不",
-              "pinyin": "nǎi"
-            },
-            {
-              "char": "得",
-              "pinyin": "shǐ"
-            },
-            {
-              "char": "入",
-              "pinyin": "shǐ"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "不久，帝至，仍不得入。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "居无何：过了不久。居，经过；无何，不久。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "于",
-              "pinyin": "chí"
-            },
-            {
-              "char": "是",
-              "pinyin": "jié"
-            },
-            {
-              "char": "上",
-              "pinyin": "zhào"
-            },
-            {
-              "char": "乃",
-              "pinyin": "jiāng"
-            },
-            {
-              "char": "使",
-              "pinyin": "jūn"
-            },
-            {
-              "char": "使",
-              "pinyin": "wú"
-            },
-            {
-              "char": "持",
-              "pinyin": "yù"
-            },
-            {
-              "char": "节",
-              "pinyin": "rù"
-            },
-            {
-              "char": "诏",
-              "pinyin": "láo"
-            },
-            {
-              "char": "将",
-              "pinyin": "jūn"
-            },
-            {
-              "char": "军",
-              "pinyin": "yà"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "\"",
-              "pinyin": "fū"
-            },
-            {
-              "char": "吾",
-              "pinyin": "nǎi"
-            },
-            {
-              "char": "欲",
-              "pinyin": "chuán"
-            },
-            {
-              "char": "入",
-              "pinyin": "yán"
-            },
-            {
-              "char": "劳",
-              "pinyin": "kāi"
-            },
-            {
-              "char": "军",
-              "pinyin": "bì"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "\"",
-              "pinyin": "mén"
-            }
-          ],
-          "translation": {
-            "translation": "于是帝派使节持诏令：\"朕欲入营慰军。\""
-          },
-          "notes": [
-            {
-              "start": 7,
-              "end": 8,
-              "note": "持节：手持符节，节是皇帝授予使者或将领的信物，代表权威。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "亚",
-              "pinyin": "bì"
-            },
-            {
-              "char": "夫",
-              "pinyin": "mén"
-            },
-            {
-              "char": "乃",
-              "pinyin": "shì"
-            },
-            {
-              "char": "传",
-              "pinyin": "lì"
-            },
-            {
-              "char": "言",
-              "pinyin": "wèi"
-            },
-            {
-              "char": "开",
-              "pinyin": "cóng"
-            },
-            {
-              "char": "壁",
-              "pinyin": "shǔ"
-            },
-            {
-              "char": "门",
-              "pinyin": "chē"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "周亚夫传令开营门。"
-          },
-          "notes": [
-            {
-              "start": 4,
-              "end": 5,
-              "note": "传言：传达命令，此处指周亚夫下令开门。"
-            },
-            {
-              "start": 6,
-              "end": 8,
-              "note": "壁门：营垒的门。壁，营垒。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "壁",
-              "pinyin": "qí"
-            },
-            {
-              "char": "门",
-              "pinyin": "yuē"
-            },
-            {
-              "char": "士",
-              "pinyin": "jiāng"
-            },
-            {
-              "char": "吏",
-              "pinyin": "jūn"
-            },
-            {
-              "char": "谓",
-              "pinyin": "yuē"
-            },
-            {
-              "char": "从",
-              "pinyin": "jūn"
-            },
-            {
-              "char": "属",
-              "pinyin": "zhōng"
-            },
-            {
-              "char": "车",
               "pinyin": "bù"
             },
             {
-              "char": "骑",
+              "char": "得",
               "pinyin": "dé"
             },
             {
-              "char": "曰",
-              "pinyin": "qū"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "\"",
-              "pinyin": "chí"
-            },
-            {
-              "char": "将",
-              "pinyin": "yú"
-            },
-            {
-              "char": "军",
-              "pinyin": "shì"
-            },
-            {
-              "char": "约",
-              "pinyin": "tiān"
-            },
-            {
-              "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "约：规定、命令，此处指军令。"
-                }
-              ]
-            },
-            {
-              "char": "军",
-              "pinyin": "zǐ"
-            },
-            {
-              "char": "中",
-              "pinyin": "nǎi"
-            },
-            {
-              "char": "不",
-              "pinyin": "àn"
-            },
-            {
-              "char": "得",
-              "pinyin": "pèi"
-            },
-            {
-              "char": "驱",
-              "pinyin": "xú"
-            },
-            {
-              "char": "驰",
-              "pinyin": "xíng"
+              "char": "入",
+              "pinyin": "rù"
             },
             {
               "char": "。",
               "pinyin": "　"
-            },
-            {
-              "char": "\"",
-              "pinyin": "zhì"
             }
           ],
           "translation": {
-            "translation": "守门士官对随从说：\"将军规定，营中不得驱驰。\""
+            "translation": "过了不久，皇上驾到，也不让进入军营。"
           },
           "notes": []
         },
@@ -1078,39 +766,123 @@
           "sentence": [
             {
               "char": "于",
-              "pinyin": "yíng"
+              "pinyin": "yú"
             },
             {
               "char": "是",
-              "pinyin": "jiāng"
+              "pinyin": "shì"
             },
             {
-              "char": "天",
-              "pinyin": "jūn"
-            },
-            {
-              "char": "子",
-              "pinyin": "yà"
+              "char": "上",
+              "pinyin": "shàng"
             },
             {
               "char": "乃",
-              "pinyin": "fū"
+              "pinyin": "nǎi"
             },
             {
-              "char": "按",
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "使",
+              "pinyin": "shǐ"
+            },
+            {
+              "char": "持",
               "pinyin": "chí"
             },
             {
-              "char": "辔",
-              "pinyin": "bīng"
+              "char": "节",
+              "pinyin": "jié"
             },
             {
-              "char": "徐",
-              "pinyin": "yī"
+              "char": "诏",
+              "pinyin": "zhào"
             },
             {
-              "char": "行",
-              "pinyin": "yuē"
+              "char": "将",
+              "pinyin": "jiāng"
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "吾",
+              "pinyin": "wú"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "入",
+              "pinyin": "rù"
+            },
+            {
+              "char": "劳",
+              "pinyin": "láo"
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "在这种情况下皇上就派使者手持符节去告诉将军：“我要进营慰问军队。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "亚",
+              "pinyin": "yà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi"
+            },
+            {
+              "char": "传",
+              "pinyin": "chuán"
+            },
+            {
+              "char": "言",
+              "pinyin": "yán"
+            },
+            {
+              "char": "开",
+              "pinyin": "kāi"
+            },
+            {
+              "char": "壁",
+              "pinyin": "bì"
+            },
+            {
+              "char": "门",
+              "pinyin": "mén"
             },
             {
               "char": "。",
@@ -1118,25 +890,171 @@
             }
           ],
           "translation": {
-            "translation": "于是皇帝控缰缓行。"
+            "translation": "周亚夫这才传令打开军营大门。"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 5,
-              "end": 7,
-              "note": "按辔：勒住马缰绳，控制马匹缓慢前行。"
+              "char": "壁",
+              "pinyin": "bì"
+            },
+            {
+              "char": "门",
+              "pinyin": "mén"
+            },
+            {
+              "char": "士",
+              "pinyin": "shì"
+            },
+            {
+              "char": "吏",
+              "pinyin": "lì"
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "从",
+              "pinyin": "cóng"
+            },
+            {
+              "char": "属",
+              "pinyin": "shǔ"
+            },
+            {
+              "char": "车",
+              "pinyin": "chē"
+            },
+            {
+              "char": "骑",
+              "pinyin": "qí"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "将",
+              "pinyin": "jiāng"
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "约",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "得",
+              "pinyin": "dé"
+            },
+            {
+              "char": "驱",
+              "pinyin": "qū"
+            },
+            {
+              "char": "驰",
+              "pinyin": "chí"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
             }
-          ]
+          ],
+          "translation": {
+            "translation": "守卫营门的官兵对跟从皇上的武官说：“将军规定，军营中不准策马疾驰。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "于",
+              "pinyin": "yú"
+            },
+            {
+              "char": "是",
+              "pinyin": "shì"
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "乃",
+              "pinyin": "nǎi"
+            },
+            {
+              "char": "按",
+              "pinyin": "àn"
+            },
+            {
+              "char": "辔",
+              "pinyin": "pèi"
+            },
+            {
+              "char": "徐",
+              "pinyin": "xú"
+            },
+            {
+              "char": "行",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "于是皇上的车队也只好控制住车马，缓慢前行。"
+          },
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "至",
-              "pinyin": "jiè"
+              "pinyin": "zhì"
             },
             {
               "char": "营",
-              "pinyin": "zhòu"
+              "pinyin": "yíng"
             },
             {
               "char": "，",
@@ -1144,67 +1062,67 @@
             },
             {
               "char": "将",
-              "pinyin": "zhī"
+              "pinyin": "jiāng"
             },
             {
               "char": "军",
-              "pinyin": "shì"
-            },
-            {
-              "char": "亚",
-              "pinyin": "bù"
-            },
-            {
-              "char": "夫",
-              "pinyin": "bài"
-            },
-            {
-              "char": "持",
-              "pinyin": "qǐng"
-            },
-            {
-              "char": "兵",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "揖",
               "pinyin": "jūn"
             },
             {
+              "char": "亚",
+              "pinyin": "yà"
+            },
+            {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
+              "char": "持",
+              "pinyin": "chí"
+            },
+            {
+              "char": "兵",
+              "pinyin": "bīng"
+            },
+            {
+              "char": "揖",
+              "pinyin": "yī"
+            },
+            {
               "char": "曰",
-              "pinyin": "lǐ"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "jiàn"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "介",
-              "pinyin": "tiān"
+              "pinyin": "jiè"
             },
             {
               "char": "胄",
-              "pinyin": "zǐ"
+              "pinyin": "zhòu"
             },
             {
               "char": "之",
-              "pinyin": "wèi"
+              "pinyin": "zhī"
             },
             {
               "char": "士",
-              "pinyin": "dòng"
+              "pinyin": "shì"
             },
             {
               "char": "不",
-              "pinyin": "gǎi"
+              "pinyin": "bù"
             },
             {
               "char": "拜",
-              "pinyin": "róng"
+              "pinyin": "bài"
             },
             {
               "char": "，",
@@ -1212,66 +1130,55 @@
             },
             {
               "char": "请",
-              "pinyin": "shì"
+              "pinyin": "qǐng"
             },
             {
               "char": "以",
-              "pinyin": "chē"
+              "pinyin": "yǐ"
             },
             {
               "char": "军",
-              "pinyin": "shǐ"
+              "pinyin": "jūn"
             },
             {
               "char": "礼",
-              "pinyin": "rén"
+              "pinyin": "lǐ"
             },
             {
               "char": "见",
-              "pinyin": "chēng"
+              "pinyin": "jiàn"
             },
             {
               "char": "。",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "xiè"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "至营中，周亚夫持兵器行礼：\"甲胄之士不跪拜，请行军礼拜见。\""
+            "translation": "到了大营前，将军周亚夫手持兵器拱手行礼，说：“穿戴着盔甲之将不行跪拜礼，请陛下允许我按照军礼参见。”"
           },
-          "notes": [
-            {
-              "start": 13,
-              "end": 15,
-              "note": "介胄：铠甲和头盔，此处‘介胄’作动词，指披甲戴盔的将士。"
-            },
-            {
-              "start": 21,
-              "end": 24,
-              "note": "以军礼见：用军中的礼节参见。因身着甲胄，不能跪拜，故行军礼。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "天",
-              "pinyin": "huáng"
+              "pinyin": "tiān"
             },
             {
               "char": "子",
-              "pinyin": "dì"
+              "pinyin": "zǐ"
             },
             {
               "char": "为",
-              "pinyin": "jìng"
+              "pinyin": "wèi"
             },
             {
               "char": "动",
-              "pinyin": "láo"
+              "pinyin": "dòng"
             },
             {
               "char": "，",
@@ -1279,25 +1186,19 @@
             },
             {
               "char": "改",
-              "pinyin": "jiāng"
+              "pinyin": "gǎi"
             },
             {
               "char": "容",
-              "pinyin": "jūn"
+              "pinyin": "róng"
             },
             {
               "char": "式",
-              "pinyin": "chéng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "式：通‘轼’，车前横木，此处作动词，扶轼致敬，表示尊重。"
-                }
-              ]
+              "pinyin": "shì"
             },
             {
               "char": "车",
-              "pinyin": "lǐ"
+              "pinyin": "chē"
             },
             {
               "char": "。",
@@ -1305,7 +1206,7 @@
             }
           ],
           "translation": {
-            "translation": "帝为之动容，俯身扶车。"
+            "translation": "皇上被感动，表情严肃起来，扶着车前横木俯下身子，派人向周亚夫致意说：“皇帝敬重地慰问将军。”"
           },
           "notes": []
         },
@@ -1313,108 +1214,46 @@
           "sentence": [
             {
               "char": "使",
-              "pinyin": "ér"
+              "pinyin": "shǐ"
             },
             {
               "char": "人",
-              "pinyin": "qù"
+              "pinyin": "rén"
             },
             {
               "char": "称",
-              "pinyin": "jì"
+              "pinyin": "chēng"
             },
             {
               "char": "谢",
-              "pinyin": "chū"
+              "pinyin": "xiè"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "jūn"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "皇",
-              "pinyin": "mén"
+              "pinyin": "huáng"
             },
             {
               "char": "帝",
-              "pinyin": "qún"
+              "pinyin": "dì"
             },
             {
               "char": "敬",
-              "pinyin": "chén"
+              "pinyin": "jìng"
             },
             {
               "char": "劳",
-              "pinyin": "jiē"
+              "pinyin": "láo"
             },
             {
               "char": "将",
-              "pinyin": "jīng"
-            },
-            {
-              "char": "军",
-              "pinyin": "wén"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "\"",
-              "pinyin": "dì"
-            }
-          ],
-          "translation": {
-            "translation": "派人致意：\"皇帝敬慰将军。\""
-          },
-          "notes": [
-            {
-              "start": 3,
-              "end": 4,
-              "note": "称谢：致意、代为传话。谢，此处非‘感谢’，而是‘致意’。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "成",
-              "pinyin": "yuē"
-            },
-            {
-              "char": "礼",
-              "pinyin": "jiē"
-            },
-            {
-              "char": "而",
-              "pinyin": "hū"
-            },
-            {
-              "char": "去",
-              "pinyin": "cǐ"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "礼毕离开。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "既",
-              "pinyin": "zhēn"
-            },
-            {
-              "char": "出",
               "pinyin": "jiāng"
             },
             {
@@ -1422,8 +1261,68 @@
               "pinyin": "jūn"
             },
             {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "劳军礼仪完毕后便离开了。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "成",
+              "pinyin": "chéng"
+            },
+            {
+              "char": "礼",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "去",
+              "pinyin": "qù"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "已经出了细柳军营的大门，群臣都深感惊诧。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "既",
+              "pinyin": "jì"
+            },
+            {
+              "char": "出",
+              "pinyin": "chū"
+            },
+            {
+              "char": "军",
+              "pinyin": "jūn"
+            },
+            {
               "char": "门",
-              "pinyin": "yǐ"
+              "pinyin": "mén"
             },
             {
               "char": "，",
@@ -1431,19 +1330,19 @@
             },
             {
               "char": "群",
-              "pinyin": "nǎng"
+              "pinyin": "qún"
             },
             {
               "char": "臣",
-              "pinyin": "zhě"
+              "pinyin": "chén"
             },
             {
               "char": "皆",
-              "pinyin": "bà"
+              "pinyin": "jiē"
             },
             {
               "char": "惊",
-              "pinyin": "shàng"
+              "pinyin": "jīng"
             },
             {
               "char": "。",
@@ -1451,7 +1350,7 @@
             }
           ],
           "translation": {
-            "translation": "出营门后，群臣皆惊。"
+            "translation": "文帝感叹地说：“啊！"
           },
           "notes": []
         },
@@ -1459,31 +1358,31 @@
           "sentence": [
             {
               "char": "文",
-              "pinyin": "jí"
+              "pinyin": "wén"
             },
             {
               "char": "帝",
-              "pinyin": "mén"
+              "pinyin": "dì"
             },
             {
               "char": "曰",
-              "pinyin": "jūn"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "ruò"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "嗟",
-              "pinyin": "ér"
+              "pinyin": "jiē"
             },
             {
               "char": "乎",
-              "pinyin": "xì"
+              "pinyin": "hū"
             },
             {
               "char": "，",
@@ -1491,35 +1390,31 @@
             },
             {
               "char": "此",
-              "pinyin": "ěr"
+              "pinyin": "cǐ"
             },
             {
               "char": "真",
-              "pinyin": "qí"
+              "pinyin": "zhēn"
             },
             {
               "char": "将",
-              "pinyin": "jiàng"
+              "pinyin": "jiāng"
             },
             {
               "char": "军",
-              "pinyin": "gù"
+              "pinyin": "jūn"
             },
             {
               "char": "矣",
-              "pinyin": "kě"
+              "pinyin": "yǐ"
             },
             {
               "char": "！",
               "pinyin": "　"
-            },
-            {
-              "char": "\"",
-              "pinyin": "xí"
             }
           ],
           "translation": {
-            "translation": "文帝说：\"啊，这才是真将军！\""
+            "translation": "这才是真正的将军。"
           },
           "notes": []
         },
@@ -1527,19 +1422,19 @@
           "sentence": [
             {
               "char": "曩",
-              "pinyin": "ér"
+              "pinyin": "nǎng"
             },
             {
               "char": "者",
-              "pinyin": "lǔ"
+              "pinyin": "zhě"
             },
             {
               "char": "霸",
-              "pinyin": "yě"
+              "pinyin": "bà"
             },
             {
               "char": "上",
-              "pinyin": "zhì"
+              "pinyin": "shàng"
             },
             {
               "char": "、",
@@ -1547,15 +1442,15 @@
             },
             {
               "char": "棘",
-              "pinyin": "yú"
+              "pinyin": "jí"
             },
             {
               "char": "门",
-              "pinyin": "yà"
+              "pinyin": "mén"
             },
             {
               "char": "军",
-              "pinyin": "fū"
+              "pinyin": "jūn"
             },
             {
               "char": "，",
@@ -1563,19 +1458,19 @@
             },
             {
               "char": "若",
-              "pinyin": "kě"
+              "pinyin": "ruò"
             },
             {
               "char": "儿",
-              "pinyin": "dé"
-            },
-            {
-              "char": "戏",
               "pinyin": "ér"
             },
             {
+              "char": "戏",
+              "pinyin": "xì"
+            },
+            {
               "char": "耳",
-              "pinyin": "fàn"
+              "pinyin": "ěr"
             },
             {
               "char": "，",
@@ -1583,39 +1478,35 @@
             },
             {
               "char": "其",
-              "pinyin": "yé"
+              "pinyin": "qí"
             },
             {
               "char": "将",
-              "pinyin": "chēng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "将：将领，此处指霸上、棘门的主将。"
-                }
-              ]
+              "pinyin": "jiàng"
             },
             {
               "char": "固",
-              "pinyin": "shàn"
+              "pinyin": "gù"
             },
             {
               "char": "可",
-              "pinyin": "zhě"
+              "pinyin": "kě"
             },
             {
               "char": "袭",
-              "pinyin": "jiǔ"
+              "pinyin": "xí"
             },
             {
               "char": "而",
-              "pinyin": "zhī"
+              "pinyin": "ér"
             },
             {
-              "char": "虏"
+              "char": "虏",
+              "pinyin": "lǔ"
             },
             {
-              "char": "也"
+              "char": "也",
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -1623,86 +1514,87 @@
             }
           ],
           "translation": {
-            "translation": "先前霸上、棘门军营，如同儿戏，其将可轻易俘虏。"
+            "translation": "先前的灞上、棘门的军营，简直像是儿戏，匈奴是完全可以通过偷袭而俘虏那里的将军，至于周亚夫，难道能够侵犯吗？”"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "曩者：从前，以往。"
-            },
-            {
-              "start": 10,
-              "end": 13,
-              "note": "若儿戏耳：好像儿戏一样。耳，语气词，罢了。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
-              "char": "至"
+              "char": "至",
+              "pinyin": "zhì"
             },
             {
-              "char": "于"
+              "char": "于",
+              "pinyin": "yú"
             },
             {
-              "char": "亚"
+              "char": "亚",
+              "pinyin": "yà"
             },
             {
-              "char": "夫"
+              "char": "夫",
+              "pinyin": "fū"
             },
             {
               "char": "，",
               "pinyin": "　"
             },
             {
-              "char": "可"
+              "char": "可",
+              "pinyin": "kě"
             },
             {
-              "char": "得"
+              "char": "得",
+              "pinyin": "dé"
             },
             {
-              "char": "而"
+              "char": "而",
+              "pinyin": "ér"
             },
             {
-              "char": "犯"
+              "char": "犯",
+              "pinyin": "fàn"
             },
             {
-              "char": "邪"
+              "char": "邪",
+              "pinyin": "yé"
             },
             {
               "char": "！",
               "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "至于亚夫，谁敢侵犯！"
+            "translation": "称赞他很久。"
           },
-          "notes": [
-            {
-              "start": 9,
-              "end": 10,
-              "note": "邪：通‘耶’，语气词，表示反问，相当于‘吗’。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
-              "char": "称"
+              "char": "称",
+              "pinyin": "chēng"
             },
             {
-              "char": "善"
+              "char": "善",
+              "pinyin": "shàn"
             },
             {
-              "char": "者"
+              "char": "者",
+              "pinyin": "zhě"
             },
             {
-              "char": "久"
+              "char": "久",
+              "pinyin": "jiǔ"
             },
             {
-              "char": "之"
+              "char": "之",
+              "pinyin": "zhī"
             },
             {
               "char": "。",
@@ -1710,15 +1602,9 @@
             }
           ],
           "translation": {
-            "translation": "称赞良久。"
+            "translation": ""
           },
-          "notes": [
-            {
-              "start": 4,
-              "end": 5,
-              "note": "久之：时间延续很久。之，助词，无实义，用于句末表时间持续。"
-            }
-          ]
+          "notes": []
         }
       ]
     }

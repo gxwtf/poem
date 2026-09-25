@@ -57,48 +57,60 @@
             "translation": "太阳渐渐沉落在西河中，里月从东岭升起。"
           },
           "notes": []
-        },
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
-              "char": "(",
-              "pinyin": ""
-            },
-            {
-              "char": "西",
+              "char": "遥",
               "pinyin": "yáo"
             },
             {
-              "char": "河",
+              "char": "遥",
               "pinyin": "yáo"
             },
             {
-              "char": " ",
-              "pinyin": ""
-            },
-            {
-              "char": "一",
+              "char": "万",
               "pinyin": "wàn"
             },
             {
-              "char": "作",
+              "char": "里",
               "pinyin": "lǐ"
             },
             {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "西",
+              "char": "晖",
               "pinyin": "huī"
             },
             {
-              "char": "阿",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "荡",
               "pinyin": "dàng"
             },
             {
-              "char": ")",
-              "pinyin": ""
+              "char": "荡",
+              "pinyin": "dàng"
+            },
+            {
+              "char": "空",
+              "pinyin": "kōng"
+            },
+            {
+              "char": "中",
+              "pinyin": "zhōng"
+            },
+            {
+              "char": "景",
+              "pinyin": "jǐng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
             }
           ],
           "translation": {
@@ -113,124 +125,24 @@
         {
           "sentence": [
             {
-              "char": "遥",
-              "pinyin": "dàng"
-            },
-            {
-              "char": "遥",
-              "pinyin": "kōng"
-            },
-            {
-              "char": "万",
-              "pinyin": "zhōng"
-            },
-            {
-              "char": "里",
-              "pinyin": "jǐng"
-            },
-            {
-              "char": "晖",
+              "char": "风",
               "pinyin": "fēng"
             },
             {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "荡",
+              "char": "来",
               "pinyin": "lái"
             },
             {
-              "char": "荡",
+              "char": "入",
               "pinyin": "rù"
             },
             {
-              "char": "空",
+              "char": "房",
               "pinyin": "fáng"
             },
             {
-              "char": "中",
-              "pinyin": "hù"
-            },
-            {
-              "char": "景",
-              "pinyin": "yè"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": ""
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "(",
-              "pinyin": ""
-            },
-            {
-              "char": "晖",
-              "pinyin": "zhōng"
-            },
-            {
-              "char": " ",
-              "pinyin": ""
-            },
-            {
-              "char": "一",
-              "pinyin": "zhěn"
-            },
-            {
-              "char": "作",
-              "pinyin": "xí"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "辉",
-              "pinyin": "lěng"
-            },
-            {
-              "char": ")",
-              "pinyin": ""
-            }
-          ],
-          "translation": {
-            "translation": ""
-          },
-          "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
-            {
-              "char": "风",
-              "pinyin": "qì"
-            },
-            {
-              "char": "来",
-              "pinyin": "biàn"
-            },
-            {
-              "char": "入",
-              "pinyin": "wù"
-            },
-            {
-              "char": "房",
-              "pinyin": "shí"
-            },
-            {
               "char": "户",
-              "pinyin": "yì"
+              "pinyin": "hù"
             },
             {
               "char": "，",
@@ -238,23 +150,23 @@
             },
             {
               "char": "夜",
-              "pinyin": "bù"
+              "pinyin": "yè"
             },
             {
               "char": "中",
-              "pinyin": "mián"
+              "pinyin": "zhōng"
             },
             {
               "char": "枕",
-              "pinyin": "zhī"
+              "pinyin": "zhěn"
             },
             {
               "char": "席",
-              "pinyin": "xī"
+              "pinyin": "xí"
             },
             {
               "char": "冷",
-              "pinyin": "yǒng"
+              "pinyin": "lěng"
             },
             {
               "char": "。",
@@ -262,7 +174,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "风吹入房门，在夜间让枕席生凉。"
           },
           "notes": []
         }
@@ -274,23 +186,23 @@
           "sentence": [
             {
               "char": "气",
-              "pinyin": "yù"
+              "pinyin": "qì"
             },
             {
               "char": "变",
-              "pinyin": "yán"
+              "pinyin": "biàn"
             },
             {
               "char": "悟",
-              "pinyin": "wú"
+              "pinyin": "wù"
             },
             {
               "char": "时",
-              "pinyin": "yǔ"
+              "pinyin": "shí"
             },
             {
               "char": "易",
-              "pinyin": "hè"
+              "pinyin": "yì"
             },
             {
               "char": "，",
@@ -298,23 +210,23 @@
             },
             {
               "char": "不",
-              "pinyin": "huī"
+              "pinyin": "bù"
             },
             {
               "char": "眠",
-              "pinyin": "bēi"
+              "pinyin": "mián"
             },
             {
               "char": "知",
-              "pinyin": "quàn"
+              "pinyin": "zhī"
             },
             {
               "char": "夕",
-              "pinyin": "gū"
+              "pinyin": "xī"
             },
             {
               "char": "永",
-              "pinyin": "yǐng"
+              "pinyin": "yǒng"
             },
             {
               "char": "。",
@@ -322,7 +234,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "气候变化了，因此领悟到季节也变了，思不着觉，才知道夜晚是如此漫长。"
           },
           "notes": []
         }
@@ -334,23 +246,23 @@
           "sentence": [
             {
               "char": "欲",
-              "pinyin": "rì"
+              "pinyin": "yù"
             },
             {
               "char": "言",
-              "pinyin": "yuè"
+              "pinyin": "yán"
             },
             {
               "char": "无",
-              "pinyin": "zhì"
+              "pinyin": "wú"
             },
             {
               "char": "予",
-              "pinyin": "rén"
+              "pinyin": "yǔ"
             },
             {
               "char": "和",
-              "pinyin": "qù"
+              "pinyin": "hè"
             },
             {
               "char": "，",
@@ -358,23 +270,23 @@
             },
             {
               "char": "挥",
-              "pinyin": "yǒu"
+              "pinyin": "huī"
             },
             {
               "char": "杯",
-              "pinyin": "zhì"
+              "pinyin": "bēi"
             },
             {
               "char": "劝",
-              "pinyin": "bù"
+              "pinyin": "quàn"
             },
             {
               "char": "孤",
-              "pinyin": "huò"
+              "pinyin": "gū"
             },
             {
               "char": "影",
-              "pinyin": "chěng"
+              "pinyin": "yǐng"
             },
             {
               "char": "。",
@@ -382,7 +294,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "我想要倾吐心中的愁思，却没有人和我答话，只能举杯对着只身孤影饮酒。"
           },
           "notes": []
         }
@@ -394,23 +306,23 @@
           "sentence": [
             {
               "char": "日",
-              "pinyin": "niàn"
+              "pinyin": "rì"
             },
             {
               "char": "月",
-              "pinyin": "cǐ"
+              "pinyin": "yuè"
             },
             {
               "char": "掷",
-              "pinyin": "huái"
+              "pinyin": "zhì"
             },
             {
               "char": "人",
-              "pinyin": "bēi"
+              "pinyin": "rén"
             },
             {
               "char": "去",
-              "pinyin": "qī"
+              "pinyin": "qù"
             },
             {
               "char": "，",
@@ -418,11 +330,11 @@
             },
             {
               "char": "有",
-              "pinyin": "zhōng"
+              "pinyin": "yǒu"
             },
             {
               "char": "志",
-              "pinyin": "xiǎo"
+              "pinyin": "zhì"
             },
             {
               "char": "不",
@@ -430,11 +342,11 @@
             },
             {
               "char": "获",
-              "pinyin": "néng"
+              "pinyin": "huò"
             },
             {
               "char": "骋",
-              "pinyin": "jìng"
+              "pinyin": "chěng"
             },
             {
               "char": "。",
@@ -442,7 +354,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "时光飞快流逝，我空有壮志却不能得到伸展。"
           },
           "notes": []
         }
@@ -454,23 +366,23 @@
           "sentence": [
             {
               "char": "念",
-              "pinyin": ""
+              "pinyin": "niàn"
             },
             {
               "char": "此",
-              "pinyin": ""
+              "pinyin": "cǐ"
             },
             {
               "char": "怀",
-              "pinyin": ""
+              "pinyin": "huái"
             },
             {
               "char": "悲",
-              "pinyin": ""
+              "pinyin": "bēi"
             },
             {
               "char": "凄",
-              "pinyin": ""
+              "pinyin": "qī"
             },
             {
               "char": "，",
@@ -478,23 +390,23 @@
             },
             {
               "char": "终",
-              "pinyin": ""
+              "pinyin": "zhōng"
             },
             {
               "char": "晓",
-              "pinyin": ""
+              "pinyin": "xiǎo"
             },
             {
               "char": "不",
-              "pinyin": ""
+              "pinyin": "bù"
             },
             {
               "char": "能",
-              "pinyin": ""
+              "pinyin": "néng"
             },
             {
               "char": "静",
-              "pinyin": ""
+              "pinyin": "jìng"
             },
             {
               "char": "。",
@@ -502,7 +414,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "想起这件事就满怀悲凄，心里直到天亮也不能平静。"
           },
           "notes": []
         }

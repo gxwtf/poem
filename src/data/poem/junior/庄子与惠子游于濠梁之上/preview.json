@@ -54,7 +54,7 @@
             }
           ],
           "translation": {
-            "translation": "庄子和惠子在濠水的桥上游玩。"
+            "translation": "庄子与惠施在濠水的桥上游玩。"
           },
           "notes": []
         },
@@ -77,32 +77,32 @@
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "tiáo"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "鲦",
-              "pinyin": "yú"
+              "pinyin": "tiáo"
             },
             {
               "char": "鱼",
-              "pinyin": "chū"
+              "pinyin": "yú"
             },
             {
               "char": "出",
-              "pinyin": "yóu"
+              "pinyin": "chū"
             },
             {
               "char": "游",
-              "pinyin": "cóng"
+              "pinyin": "yóu"
             },
             {
               "char": "从",
-              "pinyin": "róng"
+              "pinyin": "cóng"
             },
             {
               "char": "容",
-              "pinyin": "shì"
+              "pinyin": "róng"
             },
             {
               "char": "，",
@@ -110,78 +110,71 @@
             },
             {
               "char": "是",
-              "pinyin": "yú"
+              "pinyin": "shì"
             },
             {
               "char": "鱼",
-              "pinyin": "zhī"
+              "pinyin": "yú"
             },
             {
               "char": "之",
-              "pinyin": "lè"
+              "pinyin": "zhī"
             },
             {
               "char": "乐",
-              "pinyin": "yě"
+              "pinyin": "lè"
             },
             {
               "char": "也",
-              "pinyin": "huì"
+              "pinyin": "yě"
             },
             {
               "char": "。",
               "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "庄子说：\"鲦鱼游得悠闲自在，这是鱼的快乐啊。"
+            "translation": "庄子说：“鲦鱼在河水中游得多么悠闲自得，这是鱼的快乐啊。”"
           },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "鲦鱼：一种小型淡水鱼，体细长，银白色，常用来形容自由自在的状态。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "note": "从容：此处指鱼游动自如、悠闲安适的样子，非现代‘镇定’之义。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "惠",
-              "pinyin": "zǐ"
+              "pinyin": "huì"
             },
             {
               "char": "子",
-              "pinyin": "yuē"
+              "pinyin": "zǐ"
             },
             {
               "char": "曰",
-              "pinyin": "zǐ"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "fēi"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "子",
-              "pinyin": "yú"
+              "pinyin": "zǐ"
             },
             {
               "char": "非",
-              "pinyin": "ān"
+              "pinyin": "fēi"
             },
             {
               "char": "鱼",
-              "pinyin": "zhī"
+              "pinyin": "yú"
             },
             {
               "char": "，",
@@ -189,13 +182,7 @@
             },
             {
               "char": "安",
-              "pinyin": "yú",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "安：怎么，表反问语气，疑问代词作宾语常前置。"
-                }
-              ]
+              "pinyin": "ān"
             },
             {
               "char": "知",
@@ -203,23 +190,27 @@
             },
             {
               "char": "鱼",
-              "pinyin": "lè"
+              "pinyin": "yú"
             },
             {
               "char": "之",
-              "pinyin": "zhuāng"
+              "pinyin": "zhī"
             },
             {
               "char": "乐",
-              "pinyin": "zǐ"
+              "pinyin": "lè"
             },
             {
               "char": "？",
               "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "惠子说：\"你不是鱼，怎么知道鱼的快乐？"
+            "translation": "惠施说：“你不是鱼，怎么知道鱼的快乐？”"
           },
           "notes": []
         },
@@ -227,7 +218,7 @@
           "sentence": [
             {
               "char": "庄",
-              "pinyin": "yuē"
+              "pinyin": "zhuāng"
             },
             {
               "char": "子",
@@ -235,23 +226,23 @@
             },
             {
               "char": "曰",
-              "pinyin": "fēi"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "wǒ"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "子",
-              "pinyin": "ān"
+              "pinyin": "zǐ"
             },
             {
               "char": "非",
-              "pinyin": "zhī"
+              "pinyin": "fēi"
             },
             {
               "char": "我",
@@ -263,7 +254,7 @@
             },
             {
               "char": "安",
-              "pinyin": "bù"
+              "pinyin": "ān"
             },
             {
               "char": "知",
@@ -271,35 +262,39 @@
             },
             {
               "char": "我",
-              "pinyin": "yú"
+              "pinyin": "wǒ"
             },
             {
               "char": "不",
-              "pinyin": "zhī"
+              "pinyin": "bù"
             },
             {
               "char": "知",
-              "pinyin": "lè"
+              "pinyin": "zhī"
             },
             {
               "char": "鱼",
-              "pinyin": "huì"
+              "pinyin": "yú"
             },
             {
               "char": "之",
-              "pinyin": "zǐ"
+              "pinyin": "zhī"
             },
             {
               "char": "乐",
-              "pinyin": "yuē"
+              "pinyin": "lè"
             },
             {
               "char": "？",
               "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "庄子说：\"你不是我，怎么知道我不知道鱼的快乐？"
+            "translation": "庄子说：“你不是我，怎么知道我不知道鱼的快乐？”"
           },
           "notes": []
         },
@@ -307,31 +302,31 @@
           "sentence": [
             {
               "char": "惠",
-              "pinyin": "wǒ"
+              "pinyin": "huì"
             },
             {
               "char": "子",
-              "pinyin": "fēi"
+              "pinyin": "zǐ"
             },
             {
               "char": "曰",
-              "pinyin": "zǐ"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "gù"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "我",
-              "pinyin": "bù"
+              "pinyin": "wǒ"
             },
             {
               "char": "非",
-              "pinyin": "zhī"
+              "pinyin": "fēi"
             },
             {
               "char": "子",
@@ -343,53 +338,55 @@
             },
             {
               "char": "固",
-              "pinyin": "yǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "固：本来，表示确认语气，副词用法。"
-                }
-              ]
-            },
-            {
-              "char": "不",
-              "pinyin": "zǐ"
-            },
-            {
-              "char": "知",
               "pinyin": "gù"
             },
             {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
               "char": "子",
-              "pinyin": "fēi"
+              "pinyin": "zǐ"
             },
             {
               "char": "矣",
-              "pinyin": "yú"
+              "pinyin": "yǐ"
             },
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "惠施说：“我不是你，固然不知道你；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "子",
-              "pinyin": "yě"
-            },
-            {
-              "char": "固",
               "pinyin": "zǐ"
             },
             {
+              "char": "固",
+              "pinyin": "gù"
+            },
+            {
               "char": "非",
-              "pinyin": "zhī"
+              "pinyin": "fēi"
             },
             {
               "char": "鱼",
-              "pinyin": "bù"
+              "pinyin": "yú"
             },
             {
               "char": "也",
-              "pinyin": "zhī"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -397,7 +394,7 @@
             },
             {
               "char": "子",
-              "pinyin": "yú"
+              "pinyin": "zǐ"
             },
             {
               "char": "之",
@@ -405,23 +402,23 @@
             },
             {
               "char": "不",
-              "pinyin": "lè"
+              "pinyin": "bù"
             },
             {
               "char": "知",
-              "pinyin": "quán"
+              "pinyin": "zhī"
             },
             {
               "char": "鱼",
-              "pinyin": "yǐ"
+              "pinyin": "yú"
             },
             {
               "char": "之",
-              "pinyin": "zhuāng"
+              "pinyin": "zhī"
             },
             {
               "char": "乐",
-              "pinyin": "zǐ"
+              "pinyin": "lè"
             },
             {
               "char": "，",
@@ -429,25 +426,23 @@
             },
             {
               "char": "全",
-              "pinyin": "yuē",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "全：完全、确定地，加强判断语气，副词。"
-                }
-              ]
+              "pinyin": "quán"
             },
             {
               "char": "矣",
-              "pinyin": "qǐng"
+              "pinyin": "yǐ"
             },
             {
               "char": "！",
               "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "惠子说：\"我不是你，固然不知道你；你本来就不是鱼，你不知道鱼的快乐，是完全可以肯定的！"
+            "translation": "你本来就不是鱼，你不知道鱼的快乐，是完全可以肯定的！”"
           },
           "notes": []
         },
@@ -455,148 +450,39 @@
           "sentence": [
             {
               "char": "庄",
-              "pinyin": "xún"
+              "pinyin": "zhuāng"
             },
             {
               "char": "子",
-              "pinyin": "qí"
+              "pinyin": "zǐ"
             },
             {
               "char": "曰",
-              "pinyin": "běn"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "zǐ"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "请",
-              "pinyin": "yuē"
+              "pinyin": "qǐng"
             },
             {
               "char": "循",
-              "pinyin": "rǔ"
+              "pinyin": "xún"
             },
             {
               "char": "其",
-              "pinyin": "ān"
+              "pinyin": "qí"
             },
             {
               "char": "本",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "子",
-              "pinyin": "yú"
-            },
-            {
-              "char": "曰",
-              "pinyin": "lè"
-            },
-            {
-              "char": "\"",
-              "pinyin": "yún"
-            },
-            {
-              "char": "汝",
-              "pinyin": "zhě"
-            },
-            {
-              "char": "安",
-              "pinyin": "jì"
-            },
-            {
-              "char": "知",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "鱼",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "乐",
-              "pinyin": "wú"
-            },
-            {
-              "char": "\"",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "云",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "者",
-              "pinyin": "ér"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "既",
-              "pinyin": "wèn"
-            },
-            {
-              "char": "已",
-              "pinyin": "wǒ"
-            },
-            {
-              "char": "知",
-              "pinyin": "wǒ"
-            },
-            {
-              "char": "吾",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "知",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "之",
-              "pinyin": "háo"
-            },
-            {
-              "char": "而",
-              "pinyin": "shàng"
-            },
-            {
-              "char": "问",
-              "pinyin": "yě"
-            },
-            {
-              "char": "我"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "我"
-            },
-            {
-              "char": "知"
-            },
-            {
-              "char": "之"
-            },
-            {
-              "char": "濠"
-            },
-            {
-              "char": "上"
-            },
-            {
-              "char": "也"
+              "pinyin": "běn"
             },
             {
               "char": "。",
@@ -604,33 +490,140 @@
             }
           ],
           "translation": {
-            "translation": "庄子说：\"请追溯话题本源。你说\"你哪儿知道鱼快乐\"这话，说明你已经知道我知道鱼快乐才来问我。我是在濠水的桥上知道的啊。"
+            "translation": "庄子说：“请追溯话题本源。"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 6,
-              "end": 9,
-              "note": "请循其本：请让我追溯问题的本源。循，追溯；本，根本、原话。"
+              "char": "子",
+              "pinyin": "zǐ"
             },
             {
-              "start": 19,
-              "end": 21,
-              "note": "云者：说的……啊，用于引述话语后的结构助词，表示解释或强调。"
+              "char": "曰",
+              "pinyin": "yuē"
             },
             {
-              "start": 23,
-              "end": 24,
-              "note": "既已：已经，表示动作完成，加强逻辑转折。"
+              "char": "‘",
+              "pinyin": "　"
             },
             {
-              "start": 35,
-              "end": 37,
-              "note": "濠上：指濠水的桥上。‘上’表处所，与‘于’构成介词结构后置。"
+              "char": "汝",
+              "pinyin": "rǔ"
+            },
+            {
+              "char": "安",
+              "pinyin": "ān"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "鱼",
+              "pinyin": "yú"
+            },
+            {
+              "char": "乐",
+              "pinyin": "lè"
+            },
+            {
+              "char": "’",
+              "pinyin": "　"
+            },
+            {
+              "char": "云",
+              "pinyin": "yún"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "既",
+              "pinyin": "jì"
+            },
+            {
+              "char": "已",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "吾",
+              "pinyin": "wú"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
+              "char": "问",
+              "pinyin": "wèn"
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "濠",
+              "pinyin": "háo"
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
             }
-          ]
+          ],
+          "translation": {
+            "translation": "你说‘你哪儿知道鱼快乐’的话，说明你已经知道我知道鱼快乐而在问我。"
+          },
+          "notes": []
         }
       ]
     }
   ],
-  "mode": "paragraph"
+  "mode": "poem"
 }

@@ -1,8 +1,8 @@
 {
   "name": "庄子与惠子游于濠梁之上",
-  "author": "庄子",
-  "dynasty": "战国",
-  "mode": "paragraph",
+  "author": "庄周",
+  "dynasty": "先秦",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,1097 +11,735 @@
             {
               "char": "庄",
               "pinyin": "zhuāng",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "惠",
               "pinyin": "huì",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "游",
               "pinyin": "yóu",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "濠",
               "pinyin": "háo",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "梁",
               "pinyin": "liáng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "庄子和惠子在濠水的桥上游玩。",
-          "pinyin": "zhuāng zǐ yǔ huì zǐ yóu yú háo liáng zhī shàng 。"
+          "translation": "庄子与惠施在濠水的桥上游玩。"
         },
         {
           "content": [
             {
               "char": "庄",
               "pinyin": "zhuāng",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
-              "char": "\"",
-              "pinyin": "tiáo",
-              "index": 16,
-              "read": false,
-              "write": false
+              "char": "“",
+              "pinyin": "",
+              "index": 16
             },
             {
               "char": "鲦",
-              "pinyin": "yú",
-              "index": 17,
-              "read": true,
-              "write": true
+              "pinyin": "tiáo",
+              "index": 17
             },
             {
               "char": "鱼",
-              "pinyin": "chū",
-              "index": 18,
-              "read": false,
-              "write": false
+              "pinyin": "yú",
+              "index": 18
             },
             {
               "char": "出",
-              "pinyin": "yóu",
-              "index": 19,
-              "read": false,
-              "write": false
+              "pinyin": "chū",
+              "index": 19
             },
             {
               "char": "游",
-              "pinyin": "cóng",
-              "index": 20,
-              "read": false,
-              "write": false
+              "pinyin": "yóu",
+              "index": 20
             },
             {
               "char": "从",
-              "pinyin": "róng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "pinyin": "cóng",
+              "index": 21
             },
             {
               "char": "容",
-              "pinyin": "shì",
-              "index": 22,
-              "read": false,
-              "write": false
+              "pinyin": "róng",
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "是",
-              "pinyin": "yú",
-              "index": 24,
-              "read": false,
-              "write": false
+              "pinyin": "shì",
+              "index": 24
             },
             {
               "char": "鱼",
-              "pinyin": "zhī",
-              "index": 25,
-              "read": false,
-              "write": false
+              "pinyin": "yú",
+              "index": 25
             },
             {
               "char": "之",
-              "pinyin": "lè",
-              "index": 26,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 26
             },
             {
               "char": "乐",
-              "pinyin": "yě",
-              "index": 27,
-              "read": false,
-              "write": false
+              "pinyin": "lè",
+              "index": 27
             },
             {
               "char": "也",
-              "pinyin": "huì",
-              "index": 28,
-              "read": false,
-              "write": false
+              "pinyin": "yě",
+              "index": 28
             },
             {
               "char": "。",
-              "index": 29,
-              "read": false,
-              "write": false,
-              "pinyin": ""
-            }
-          ],
-          "translation": "庄子说：\"鲦鱼游得悠闲自在，这是鱼的快乐啊。",
-          "pinyin": "zhuāng zǐ yuē ：\" tiáo yú chū yóu cóng róng ， shì yú zhī lè yě 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "content": "鲦鱼：一种小型淡水鱼，体细长，银白色，常用来形容自由自在的状态。"
+              "pinyin": "",
+              "index": 29
             },
             {
-              "start": 9,
-              "end": 10,
-              "content": "从容：此处指鱼游动自如、悠闲安适的样子，非现代‘镇定’之义。"
+              "char": "”",
+              "pinyin": "",
+              "index": 30
             }
-          ]
+          ],
+          "translation": "庄子说：“鲦鱼在河水中游得多么悠闲自得，这是鱼的快乐啊。”"
         },
         {
           "content": [
             {
               "char": "惠",
-              "pinyin": "zǐ",
-              "index": 30,
-              "read": false,
-              "write": false
+              "pinyin": "huì",
+              "index": 31
             },
             {
               "char": "子",
-              "pinyin": "yuē",
-              "index": 31,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 32
             },
             {
               "char": "曰",
-              "pinyin": "zǐ",
-              "index": 32,
-              "read": false,
-              "write": false
+              "pinyin": "yuē",
+              "index": 33
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
-              "char": "\"",
-              "pinyin": "fēi",
-              "index": 34,
-              "read": false,
-              "write": false
+              "char": "“",
+              "pinyin": "",
+              "index": 35
             },
             {
               "char": "子",
-              "pinyin": "yú",
-              "index": 35,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 36
             },
             {
               "char": "非",
-              "pinyin": "ān",
-              "index": 36,
-              "read": false,
-              "write": false
+              "pinyin": "fēi",
+              "index": 37
             },
             {
               "char": "鱼",
-              "pinyin": "zhī",
-              "index": 37,
-              "read": false,
-              "write": false
+              "pinyin": "yú",
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "安",
-              "pinyin": "yú",
-              "index": 39,
-              "read": false,
-              "write": false
+              "pinyin": "ān",
+              "index": 40
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "鱼",
-              "pinyin": "lè",
-              "index": 41,
-              "read": false,
-              "write": false
+              "pinyin": "yú",
+              "index": 42
             },
             {
               "char": "之",
-              "pinyin": "zhuāng",
-              "index": 42,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 43
             },
             {
               "char": "乐",
-              "pinyin": "zǐ",
-              "index": 43,
-              "read": false,
-              "write": false
+              "pinyin": "lè",
+              "index": 44
             },
             {
               "char": "？",
-              "index": 44,
-              "read": false,
-              "write": false,
-              "pinyin": ""
-            }
-          ],
-          "translation": "惠子说：\"你不是鱼，怎么知道鱼的快乐？",
-          "pinyin": "huì zǐ yuē ：\" zǐ fēi yú ， ān zhī yú zhī lè ？",
-          "notes": [
-            {
-              "start": 9,
-              "end": 9,
-              "content": "安：怎么，表反问语气，疑问代词作宾语常前置。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 9,
-              "end": 9,
-              "old": "怎么"
+              "pinyin": "",
+              "index": 45
             },
             {
-              "start": 9,
-              "end": 9,
-              "new": "安全、安定"
+              "char": "”",
+              "pinyin": "",
+              "index": 46
             }
           ],
-          "special_sentences": [
-            {
-              "start": 9,
-              "end": 14,
-              "content": "宾语前置：‘安知鱼之乐’中‘安’为疑问代词作宾语，前置。"
-            }
-          ]
+          "translation": "惠施说：“你不是鱼，怎么知道鱼的快乐？”"
         },
         {
           "content": [
             {
               "char": "庄",
-              "pinyin": "yuē",
-              "index": 45,
-              "read": false,
-              "write": false
+              "pinyin": "zhuāng",
+              "index": 47
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "曰",
-              "pinyin": "fēi",
-              "index": 47,
-              "read": false,
-              "write": false
+              "pinyin": "yuē",
+              "index": 49
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
-              "char": "\"",
-              "pinyin": "wǒ",
-              "index": 49,
-              "read": false,
-              "write": false
+              "char": "“",
+              "pinyin": "",
+              "index": 51
             },
             {
               "char": "子",
-              "pinyin": "ān",
-              "index": 50,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 52
             },
             {
               "char": "非",
-              "pinyin": "zhī",
-              "index": 51,
-              "read": false,
-              "write": false
+              "pinyin": "fēi",
+              "index": 53
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "安",
-              "pinyin": "bù",
-              "index": 54,
-              "read": false,
-              "write": false
+              "pinyin": "ān",
+              "index": 56
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "我",
-              "pinyin": "yú",
-              "index": 56,
-              "read": false,
-              "write": false
+              "pinyin": "wǒ",
+              "index": 58
             },
             {
               "char": "不",
-              "pinyin": "zhī",
-              "index": 57,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 59
             },
             {
               "char": "知",
-              "pinyin": "lè",
-              "index": 58,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 60
             },
             {
               "char": "鱼",
-              "pinyin": "huì",
-              "index": 59,
-              "read": false,
-              "write": false
+              "pinyin": "yú",
+              "index": 61
             },
             {
               "char": "之",
-              "pinyin": "zǐ",
-              "index": 60,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 62
             },
             {
               "char": "乐",
-              "pinyin": "yuē",
-              "index": 61,
-              "read": false,
-              "write": false
+              "pinyin": "lè",
+              "index": 63
             },
             {
               "char": "？",
-              "index": 62,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 64
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 65
             }
           ],
-          "translation": "庄子说：\"你不是我，怎么知道我不知道鱼的快乐？",
-          "pinyin": "zhuāng zǐ yuē ：\" zǐ fēi wǒ ， ān zhī wǒ bù zhī yú zhī lè ？"
+          "translation": "庄子说：“你不是我，怎么知道我不知道鱼的快乐？”"
         },
         {
           "content": [
             {
               "char": "惠",
-              "pinyin": "wǒ",
-              "index": 63,
-              "read": false,
-              "write": false
+              "pinyin": "huì",
+              "index": 66
             },
             {
               "char": "子",
-              "pinyin": "fēi",
-              "index": 64,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 67
             },
             {
               "char": "曰",
-              "pinyin": "zǐ",
-              "index": 65,
-              "read": false,
-              "write": false
+              "pinyin": "yuē",
+              "index": 68
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
-              "char": "\"",
-              "pinyin": "gù",
-              "index": 67,
-              "read": false,
-              "write": false
+              "char": "“",
+              "pinyin": "",
+              "index": 70
             },
             {
               "char": "我",
-              "pinyin": "bù",
-              "index": 68,
-              "read": false,
-              "write": false
+              "pinyin": "wǒ",
+              "index": 71
             },
             {
               "char": "非",
-              "pinyin": "zhī",
-              "index": 69,
-              "read": false,
-              "write": false
+              "pinyin": "fēi",
+              "index": 72
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "固",
-              "pinyin": "yǐ",
-              "index": 72,
-              "read": false,
-              "write": false
+              "pinyin": "gù",
+              "index": 75
             },
             {
               "char": "不",
-              "pinyin": "zǐ",
-              "index": 73,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 76
             },
             {
               "char": "知",
-              "pinyin": "gù",
-              "index": 74,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 77
             },
             {
               "char": "子",
-              "pinyin": "fēi",
-              "index": 75,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 78
             },
             {
               "char": "矣",
-              "pinyin": "yú",
-              "index": 76,
-              "read": false,
-              "write": false
+              "pinyin": "yǐ",
+              "index": 79
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 77,
-              "read": false,
-              "write": false
-            },
+              "index": 80
+            }
+          ],
+          "translation": "惠施说：“我不是你，固然不知道你；"
+        },
+        {
+          "content": [
             {
               "char": "子",
-              "pinyin": "yě",
-              "index": 78,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 81
             },
             {
               "char": "固",
-              "pinyin": "zǐ",
-              "index": 79,
-              "read": false,
-              "write": false
+              "pinyin": "gù",
+              "index": 82
             },
             {
               "char": "非",
-              "pinyin": "zhī",
-              "index": 80,
-              "read": false,
-              "write": false
+              "pinyin": "fēi",
+              "index": 83
             },
             {
               "char": "鱼",
-              "pinyin": "bù",
-              "index": 81,
-              "read": false,
-              "write": false
+              "pinyin": "yú",
+              "index": 84
             },
             {
               "char": "也",
-              "pinyin": "zhī",
-              "index": 82,
-              "read": false,
-              "write": false
+              "pinyin": "yě",
+              "index": 85
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "子",
-              "pinyin": "yú",
-              "index": 84,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 87
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "不",
-              "pinyin": "lè",
-              "index": 86,
-              "read": false,
-              "write": false
+              "pinyin": "bù",
+              "index": 89
             },
             {
               "char": "知",
-              "pinyin": "quán",
-              "index": 87,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 90
             },
             {
               "char": "鱼",
-              "pinyin": "yǐ",
-              "index": 88,
-              "read": false,
-              "write": false
+              "pinyin": "yú",
+              "index": 91
             },
             {
               "char": "之",
-              "pinyin": "zhuāng",
-              "index": 89,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 92
             },
             {
               "char": "乐",
-              "pinyin": "zǐ",
-              "index": 90,
-              "read": false,
-              "write": false
+              "pinyin": "lè",
+              "index": 93
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "全",
-              "pinyin": "yuē",
-              "index": 92,
-              "read": false,
-              "write": false
+              "pinyin": "quán",
+              "index": 95
             },
             {
               "char": "矣",
-              "pinyin": "qǐng",
-              "index": 93,
-              "read": false,
-              "write": false
+              "pinyin": "yǐ",
+              "index": 96
             },
             {
               "char": "！",
-              "index": 94,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 97
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 98
             }
           ],
-          "translation": "惠子说：\"我不是你，固然不知道你；你本来就不是鱼，你不知道鱼的快乐，是完全可以肯定的！",
-          "pinyin": "huì zǐ yuē ：\" wǒ fēi zǐ ， gù bù zhī zǐ yǐ ； zǐ gù fēi yú yě ， zǐ zhī bù zhī yú zhī lè ， quán yǐ ！",
-          "notes": [
-            {
-              "start": 9,
-              "end": 9,
-              "content": "固：本来，表示确认语气，副词用法。"
-            },
-            {
-              "start": 29,
-              "end": 29,
-              "content": "全：完全、确定地，加强判断语气，副词。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 9,
-              "end": 9,
-              "old": "本来"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "new": "坚固、顽固"
-            },
-            {
-              "start": 29,
-              "end": 29,
-              "old": "完全、确定地"
-            },
-            {
-              "start": 29,
-              "end": 29,
-              "new": "完整、保全"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 15,
-              "end": 31,
-              "content": "主谓短语作主语：‘子之不知鱼之乐’中‘之’取消句子独立性，形成名词性结构。"
-            }
-          ]
+          "translation": "你本来就不是鱼，你不知道鱼的快乐，是完全可以肯定的！”"
         },
         {
           "content": [
             {
               "char": "庄",
-              "pinyin": "xún",
-              "index": 95,
-              "read": false,
-              "write": false
+              "pinyin": "zhuāng",
+              "index": 99
             },
             {
               "char": "子",
-              "pinyin": "qí",
-              "index": 96,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 100
             },
             {
               "char": "曰",
-              "pinyin": "běn",
-              "index": 97,
-              "read": false,
-              "write": false
+              "pinyin": "yuē",
+              "index": 101
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
-              "char": "\"",
-              "pinyin": "zǐ",
-              "index": 99,
-              "read": false,
-              "write": false
+              "char": "“",
+              "pinyin": "",
+              "index": 103
             },
             {
               "char": "请",
-              "pinyin": "yuē",
-              "index": 100,
-              "read": false,
-              "write": false
+              "pinyin": "qǐng",
+              "index": 104
             },
             {
               "char": "循",
-              "pinyin": "rǔ",
-              "index": 101,
-              "read": true,
-              "write": false
+              "pinyin": "xún",
+              "index": 105
             },
             {
               "char": "其",
-              "pinyin": "ān",
-              "index": 102,
-              "read": false,
-              "write": true
+              "pinyin": "qí",
+              "index": 106
             },
             {
               "char": "本",
-              "pinyin": "zhī",
-              "index": 103,
-              "read": false,
-              "write": false
+              "pinyin": "běn",
+              "index": 107
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 104,
-              "read": false,
-              "write": false
-            },
+              "index": 108
+            }
+          ],
+          "translation": "庄子说：“请追溯话题本源。"
+        },
+        {
+          "content": [
             {
               "char": "子",
-              "pinyin": "yú",
-              "index": 105,
-              "read": false,
-              "write": false
+              "pinyin": "zǐ",
+              "index": 109
             },
             {
               "char": "曰",
-              "pinyin": "lè",
-              "index": 106,
-              "read": false,
-              "write": false
+              "pinyin": "yuē",
+              "index": 110
             },
             {
-              "char": "\"",
-              "pinyin": "yún",
-              "index": 107,
-              "read": false,
-              "write": false
+              "char": "‘",
+              "pinyin": "",
+              "index": 111
             },
             {
               "char": "汝",
-              "pinyin": "zhě",
-              "index": 108,
-              "read": false,
-              "write": false
+              "pinyin": "rǔ",
+              "index": 112
             },
             {
               "char": "安",
-              "pinyin": "jì",
-              "index": 109,
-              "read": false,
-              "write": false
+              "pinyin": "ān",
+              "index": 113
             },
             {
               "char": "知",
-              "pinyin": "yǐ",
-              "index": 110,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 114
             },
             {
               "char": "鱼",
-              "pinyin": "zhī",
-              "index": 111,
-              "read": false,
-              "write": false
+              "pinyin": "yú",
+              "index": 115
             },
             {
               "char": "乐",
-              "pinyin": "wú",
-              "index": 112,
-              "read": false,
-              "write": false
+              "pinyin": "lè",
+              "index": 116
             },
             {
-              "char": "\"",
-              "pinyin": "zhī",
-              "index": 113,
-              "read": false,
-              "write": false
+              "char": "’",
+              "pinyin": "",
+              "index": 117
             },
             {
               "char": "云",
-              "pinyin": "zhī",
-              "index": 114,
-              "read": false,
-              "write": false
+              "pinyin": "yún",
+              "index": 118
             },
             {
               "char": "者",
-              "pinyin": "ér",
-              "index": 115,
-              "read": false,
-              "write": false
+              "pinyin": "zhě",
+              "index": 119
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 120
             },
             {
               "char": "既",
-              "pinyin": "wèn",
-              "index": 117,
-              "read": false,
-              "write": false
+              "pinyin": "jì",
+              "index": 121
             },
             {
               "char": "已",
-              "pinyin": "wǒ",
-              "index": 118,
-              "read": false,
-              "write": false
+              "pinyin": "yǐ",
+              "index": 122
             },
             {
               "char": "知",
-              "pinyin": "wǒ",
-              "index": 119,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 123
             },
             {
               "char": "吾",
-              "pinyin": "zhī",
-              "index": 120,
-              "read": false,
-              "write": false
+              "pinyin": "wú",
+              "index": 124
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 121,
-              "read": false,
-              "write": false
+              "index": 125
             },
             {
               "char": "之",
-              "pinyin": "háo",
-              "index": 122,
-              "read": false,
-              "write": false
+              "pinyin": "zhī",
+              "index": 126
             },
             {
               "char": "而",
-              "pinyin": "shàng",
-              "index": 123,
-              "read": false,
-              "write": false
+              "pinyin": "ér",
+              "index": 127
             },
             {
               "char": "问",
-              "pinyin": "yě",
-              "index": 124,
-              "read": false,
-              "write": false
+              "pinyin": "wèn",
+              "index": 128
             },
             {
               "char": "我",
-              "index": 125,
-              "read": false,
-              "write": false
+              "pinyin": "wǒ",
+              "index": 129
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 130
+            },
+            {
+              "char": "我",
+              "pinyin": "wǒ",
+              "index": 131
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī",
+              "index": 132
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 133
+            },
+            {
+              "char": "濠",
+              "pinyin": "háo",
+              "index": 134
+            },
+            {
+              "char": "上",
+              "pinyin": "shàng",
+              "index": 135
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 136
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 126,
-              "read": false,
-              "write": false
+              "index": 137
             },
             {
-              "char": "我",
-              "index": 127,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "知",
-              "index": 128,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "之",
-              "index": 129,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "濠",
-              "index": 130,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "上",
-              "index": 131,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "也",
-              "index": 132,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "index": 133,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "char": "”",
+              "pinyin": "",
+              "index": 138
             }
           ],
-          "translation": "庄子说：\"请追溯话题本源。你说\"你哪儿知道鱼快乐\"这话，说明你已经知道我知道鱼快乐才来问我。我是在濠水的桥上知道的啊。",
-          "pinyin": "zhuāng zǐ yuē ：\" qǐng xún qí běn 。 zǐ yuē \" rǔ ān zhī yú lè \" yún zhě ， jì yǐ zhī wú zhī zhī ér wèn wǒ 。 wǒ zhī zhī háo shàng yě 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 9,
-              "content": "请循其本：请让我追溯问题的本源。循，追溯；本，根本、原话。"
-            },
-            {
-              "start": 19,
-              "end": 21,
-              "content": "云者：说的……啊，用于引述话语后的结构助词，表示解释或强调。"
-            },
-            {
-              "start": 23,
-              "end": 24,
-              "content": "既已：已经，表示动作完成，加强逻辑转折。"
-            },
-            {
-              "start": 35,
-              "end": 37,
-              "content": "濠上：指濠水的桥上。‘上’表处所，与‘于’构成介词结构后置。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 7,
-              "old": "追溯"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "遵循"
-            },
-            {
-              "start": 19,
-              "end": 21,
-              "old": "所说的……啊（语气助词结构）"
-            },
-            {
-              "start": 19,
-              "end": 21,
-              "new": "云：说话；者：人（现代拆解使用）"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 35,
-              "end": 38,
-              "content": "状语后置：‘我知之濠上也’即‘我于濠上知之也’，‘濠上’为地点状语后置。"
-            }
-          ]
+          "translation": "你说‘你哪儿知道鱼快乐’的话，说明你已经知道我知道鱼快乐而在问我。"
         }
       ]
     }
@@ -1111,6 +749,9 @@
     "文",
     "道家"
   ],
-  "background": "本文选自《庄子·秋水》，创作于战国中期。庄子和惠施（惠子）是思想对手，两人常在自然环境中辩论。濠水在今安徽凤阳，此次游历辩论展现了两种认知观的交锋。",
-  "appreciation": "这篇文章是《庄子》外篇的《庄子·秋水》中的一篇语录体议论文，其记叙了庄子与惠子二人同游于濠水的一座桥梁之上，俯看鲦鱼自由自在地游来游去，因而引起联想，展开了一场人能否知鱼之乐的辩论。此文除了第一句用叙述语言做故事背景交代，通篇采用对话形式，用以子之矛攻子之盾的方法，顶真式地把这场辩论引向深入。惠施从认知的规律上来说，人和鱼是两种不同的生物，人不可能感受到鱼的喜怒哀乐；庄周则从艺术规律上来说，人乐鱼亦乐。全文轻松闲适，诗意盎然，一力辩，一巧辩；一求真，一尚美；一拘泥，一超然，让人读后会心一笑而沉思良久。"
+  "background": "",
+  "appreciation": "这篇文章是《庄子》外篇的《庄子·秋水》中的一篇语录体议论文，其记叙了庄子与惠子二人同游于濠水的一座桥梁之上，俯看鲦鱼自由自在地游来游去，因而引起联想，展开了一场人能否知鱼之乐的辩论。此文除了第一句用叙述语言做故事背景交代，通篇采用对话形式，用以子之矛攻子之盾的方法，顶真式地把这场辩论引向深入。惠施从认知的规律上来说，人和鱼是两种不同的生物，人不可能感受到鱼的喜怒哀乐；庄周则从艺术规律上来说，人乐鱼亦乐。全文轻松闲适，诗意盎然，一力辩，一巧辩；一求真，一尚美；一拘泥，一超然，让人读后会心一笑而沉思良久。",
+  "annotation": "濠梁：濠水上的桥。濠，水名，在现在安徽凤阳。从容：悠闲自得。鲦（tiáo）鱼：一种淡水鱼中的银白色小鱼，喜欢在水层下面游动，长约16厘米，又名白鲦。是：这。固：固然（固不知子矣）；本来（子固非鱼也）。全：完全，完备。循其本：追溯话题本源。循：追溯。其，话题。本：最初。汝安知鱼乐：你怎么（哪里）知道鱼是快乐的呢。云者：……的话。安，怎么；哪里。安：疑问代词，怎么，哪里。",
+  "comprehensive_appreciation": "鉴赏：《庄子与惠子游于濠梁》轻松闲适，诗意盎然。一力辩，一巧辩；一求真，一尚美；一拘泥，一超然；让人读后会心一笑而沉思良久。惠子好辩，重分析。对于事物有一种寻根究底的认知态度，重在知识的探讨；庄子智辩，重观赏。对外界的认识带有欣赏的态度，将主观的情意发挥到外物上而产生移情同感的作用。如果说惠子带有逻辑家的个性，那么庄子则具有艺术家的风貌。1.雄辩的机锋。文章写庄子与惠子同游于濠水的一座桥梁之上，俯瞰鲦鱼自由自在地游来游去，因而引发联想，展开一场人能否知“鱼之乐”的论辩。除了开头内容用叙述语句略作交代，通篇采用对话形式。运用以子之矛攻子之盾的辩论技巧，顶真式地将这场论辩深化。且不说论辩双方谁是谁非，谁胜谁负，仅两人不在论辩中所反映出来的敏捷的思维、睿智的辩语、雄辩的机锋，就令人拍案叫绝，不禁惊叹两人的雄辩之才。2.无穷的韵味。惠子从认知规律上来说，人和鱼是两种不同的生物，鱼不可能有人的喜怒哀乐；庄子则从艺术角度来说，人乐鱼亦乐。从认知规律上说，庄子的逻辑推理纯属诡辩。然而，庄子子的诡辩却并不使人反感，因为庄子完全是以艺术的心态去看待世界的。人乐鱼亦乐，这是典型的“移情”作用。所谓“移情”，就是是把自己的情感移到外物身上，觉得外物也有同样的情感。鱼当然不可能有喜怒哀乐，但庄子把自己在濠梁之上游玩的快乐，移到到嬉游的鱼儿身上，更加衬托出庄子的快乐。所以，本篇所写不但不会使人感到庄子是在狡辩、强词夺理，反倒使人觉得庄子说得好妙趣横生，读后感到韵味无穷。",
+  "knowledge": "### 一词多义\n固\n：①固不知子（副词，固然）②子固非鱼也 （副词，本来）\n之：①庄子与惠子游于濠梁之上（助词，的）②子之不知鱼之乐（助词，取消句子独立性）③我知之濠上也（代词，鱼之乐）\n安：子非鱼，安知鱼之乐（疑问副词，怎么）子曰‘汝安知鱼乐’（代词，哪里）\n\n### 古今异义\n安知鱼之乐古义：怎么。今义：安全。\n\n### 文言句式\n倒装句庄子与惠子游于濠梁之上。（状语后置，庄子与惠子于濠梁之上游）\n省略句我知之濠上也。（省略介词“于”，我知之于濠上也）\n判断句是鱼之乐也。（判断句，“…也”表判断）子固非鱼也。（判断句，“…也”表判断）"
 }

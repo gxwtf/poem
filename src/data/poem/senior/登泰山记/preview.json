@@ -43,7 +43,21 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "泰山的南面，汶水向西流；"
+          },
+          "notes": [
+            {
+              "start": 5,
+              "end": 6,
+              "note": "发源于山东莱芜东北原山，向西南流经泰安。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "其",
               "pinyin": "qí"
@@ -78,17 +92,12 @@
             }
           ],
           "translation": {
-            "translation": "泰山的南面，汶水向西流；它的北面，济水向东流。"
+            "translation": "它的北面，济水向东流。"
           },
           "notes": [
             {
-              "start": 5,
-              "end": 6,
-              "note": "发源于山东莱芜东北原山，向西南流经泰安。"
-            },
-            {
-              "start": 13,
-              "end": 14,
+              "start": 3,
+              "end": 4,
               "note": "发源于河南济源西王屋山，东流到山东入海。"
             }
           ]
@@ -394,11 +403,11 @@
             },
             {
               "char": "、",
-              "pinyin": "、"
+              "pinyin": ""
             },
             {
               "char": "长",
-              "pinyin": "cháng"
+              "pinyin": "zhǎng"
             },
             {
               "char": "清",
@@ -688,7 +697,7 @@
           "sentence": [
             {
               "char": "泰",
-              "pinyin": "tài"
+              "pinyin": "Tài"
             },
             {
               "char": "山",
@@ -1366,7 +1375,7 @@
             },
             {
               "char": "、",
-              "pinyin": "、"
+              "pinyin": ""
             },
             {
               "char": "徂",
@@ -1637,7 +1646,7 @@
             }
           ],
           "translation": {
-            "translation": "日观亭东面从脚底往下一片云雾弥漫，"
+            "translation": "日观亭东面从脚底往下一片云雾弥漫，依稀可见云中几十个白色的像骰子似的东西，那是山峰。"
           },
           "notes": []
         },
@@ -1683,11 +1692,11 @@
             },
             {
               "char": "数",
-              "pinyin": "shù"
+              "pinyin": "shí"
             },
             {
               "char": "十",
-              "pinyin": "shí"
+              "pinyin": "jǐ"
             },
             {
               "char": "立",
@@ -1715,7 +1724,7 @@
             }
           ],
           "translation": {
-            "translation": "依稀可见云中几十个白色的像骰子似的东西，那是山峰。"
+            "translation": "天边的云彩形成一条线（呈现出）奇异的颜色，一会儿又变成五颜六色的。"
           },
           "notes": [
             {
@@ -1791,7 +1800,7 @@
             }
           ],
           "translation": {
-            "translation": "天边的云彩形成一条线（呈现出）奇异的颜色，一会儿又变成五颜六色的。"
+            "translation": "太阳升上来了，红的像朱砂一样，下面有红光晃动摇荡着托着它。"
           },
           "notes": [
             {
@@ -1879,7 +1888,7 @@
             }
           ],
           "translation": {
-            "translation": "太阳升上来了，红的像朱砂一样，下面有红光晃动摇荡着托着它。"
+            "translation": "有人说，这是东海。"
           },
           "notes": []
         },
@@ -1919,7 +1928,7 @@
             }
           ],
           "translation": {
-            "translation": "有人说，这是东海。"
+            "translation": "回头看日观峰以西的山峰，有的被日光照到，有的没照到，或红或白，颜色错杂，都像弯腰曲背鞠躬致敬的样子。"
           },
           "notes": [
             {
@@ -2035,7 +2044,7 @@
             }
           ],
           "translation": {
-            "translation": "回头看日观峰以西的山峰，有的被日光照到，有的没照到，或红或白，颜色错杂，都像弯腰曲背鞠躬致敬的样子。"
+            "translation": "日观亭西面有岱祠，还有碧霞元君祠；"
           },
           "notes": [
             {
@@ -2114,7 +2123,7 @@
             }
           ],
           "translation": {
-            "translation": "日观亭西面有岱祠，还有碧霞元君祠；"
+            "translation": "皇帝的行宫在碧霞元君祠的东面。"
           },
           "notes": [
             {
@@ -2181,7 +2190,7 @@
             }
           ],
           "translation": {
-            "translation": "皇帝的行宫在碧霞元君祠的东面。"
+            "translation": "这一天，（还）观看了路上的石刻，都是从唐朝显庆年间以来的，那些更古老的石碑都已经模糊或缺失了。"
           },
           "notes": [
             {
@@ -2239,7 +2248,7 @@
             },
             {
               "char": "庆",
-              "pinyin": "qìng"
+              "pinyin": "yàn"
             },
             {
               "char": "以",
@@ -2250,7 +2259,7 @@
               "pinyin": "lái"
             },
             {
-              "char": "；",
+              "char": "，",
               "pinyin": "　"
             },
             {
@@ -2287,7 +2296,7 @@
             }
           ],
           "translation": {
-            "translation": "这一天，（还）观看了路上的石刻，都是从唐朝显庆年间以来的，那些更古老的石碑都已经模糊或缺失了。"
+            "translation": "那些偏僻不对着道路的石刻，都赶不上去看了。"
           },
           "notes": [
             {
@@ -2350,7 +2359,7 @@
             }
           ],
           "translation": {
-            "translation": "那些偏僻不对着道路的石刻，都赶不上去看了。"
+            "translation": "山上石头多，泥土少。"
           },
           "notes": []
         }
@@ -2390,7 +2399,7 @@
             }
           ],
           "translation": {
-            "translation": "山上石头多，泥土少。"
+            "translation": "山石都呈青黑色，大多是平的、方形的，很少有圆形的。"
           },
           "notes": []
         },
@@ -2438,7 +2447,7 @@
             },
             {
               "char": "圜",
-              "pinyin": "huán",
+              "pinyin": "yuán",
               "note": [
                 {
                   "title": "注释",
@@ -2452,7 +2461,7 @@
             }
           ],
           "translation": {
-            "translation": "山石都呈青黑色，大多是平的、方形的，很少有圆形的。"
+            "translation": "杂树很少，多是松树，松树都生长在石头的缝隙里，树顶是平的。"
           },
           "notes": []
         },
@@ -2520,7 +2529,7 @@
             }
           ],
           "translation": {
-            "translation": "杂树很少，多是松树，松树都生长在石头的缝隙里，树顶是平的。"
+            "translation": "冰天雪地，没有瀑布，没有飞鸟走兽的声音和踪迹。"
           },
           "notes": []
         },
@@ -2572,79 +2581,7 @@
             },
             {
               "char": "迹",
-              "pinyin": "jì"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "冰天雪地，没有瀑布，没有飞鸟走兽的声音和踪迹。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "至",
-              "pinyin": "zhì"
-            },
-            {
-              "char": "日",
-              "pinyin": "rì"
-            },
-            {
-              "char": "观",
-              "pinyin": "guān"
-            },
-            {
-              "char": "数",
-              "pinyin": "shù"
-            },
-            {
-              "char": "里",
-              "pinyin": "lǐ"
-            },
-            {
-              "char": "内",
-              "pinyin": "nèi"
-            },
-            {
-              "char": "无",
-              "pinyin": "wú"
-            },
-            {
-              "char": "树",
-              "pinyin": "shù"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "而",
-              "pinyin": "ér"
-            },
-            {
-              "char": "雪",
-              "pinyin": "xuě"
-            },
-            {
-              "char": "与",
-              "pinyin": "yǔ"
-            },
-            {
-              "char": "人",
-              "pinyin": "rén"
-            },
-            {
-              "char": "膝",
-              "pinyin": "xī"
-            },
-            {
-              "char": "齐",
-              "pinyin": "qí"
+              "pinyin": "jī"
             },
             {
               "char": "。",
@@ -2653,6 +2590,78 @@
           ],
           "translation": {
             "translation": "日观峰附近几里以内没有树木，积雪厚得同人的膝盖一样平齐。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "至",
+              "pinyin": "zì"
+            },
+            {
+              "char": "日",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "观",
+              "pinyin": "rì"
+            },
+            {
+              "char": "数",
+              "pinyin": "guān"
+            },
+            {
+              "char": "里",
+              "pinyin": "shù"
+            },
+            {
+              "char": "内",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "无",
+              "pinyin": "nèi"
+            },
+            {
+              "char": "树",
+              "pinyin": "wú"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "shù"
+            },
+            {
+              "char": "雪",
+              "pinyin": "ér"
+            },
+            {
+              "char": "与",
+              "pinyin": "xuě"
+            },
+            {
+              "char": "人",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "膝",
+              "pinyin": "rén"
+            },
+            {
+              "char": "齐",
+              "pinyin": "xī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "桐城姚鼐记述。"
           },
           "notes": []
         }
@@ -2664,23 +2673,23 @@
           "sentence": [
             {
               "char": "桐",
-              "pinyin": "tóng"
+              "pinyin": "qí"
             },
             {
               "char": "城",
-              "pinyin": "chéng"
+              "pinyin": "tóng"
             },
             {
               "char": "姚",
-              "pinyin": "yáo"
+              "pinyin": "chéng"
             },
             {
               "char": "鼐",
-              "pinyin": "nài"
+              "pinyin": "yáo"
             },
             {
               "char": "记",
-              "pinyin": "jì"
+              "pinyin": "nài"
             },
             {
               "char": "。",
@@ -2688,7 +2697,7 @@
             }
           ],
           "translation": {
-            "translation": "桐城姚鼐记述。"
+            "translation": ""
           },
           "notes": []
         }

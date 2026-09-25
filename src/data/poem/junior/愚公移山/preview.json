@@ -66,26 +66,12 @@
             },
             {
               "char": "仞",
-              "pinyin": "rèn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "仞：古代长度单位，一仞约八尺或七尺，形容山极高。"
-                }
-              ]
+              "pinyin": "rèn"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "太行、王屋两座大山，方圆七百里，高万丈。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "本",
               "pinyin": "běn"
@@ -136,10 +122,14 @@
             }
           ],
           "translation": {
-            "translation": "原本在冀州南面，河阳北面。"
+            "translation": "太行、王屋两座山，方圆七百里，高七八万尺，本来在冀州的南面，河阳的北面。"
           },
           "notes": []
-        },
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
@@ -208,7 +198,7 @@
             }
           ],
           "translation": {
-            "translation": "北山愚公，年近九十，面山而居。"
+            "translation": "山的北面有位愚公，年龄将近九十岁了，面对着大山居住。"
           },
           "notes": []
         },
@@ -216,13 +206,7 @@
           "sentence": [
             {
               "char": "惩",
-              "pinyin": "chéng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "惩：苦于，因……而受困，非‘惩罚’之意。"
-                }
-              ]
+              "pinyin": "chéng"
             },
             {
               "char": "山",
@@ -258,30 +242,16 @@
             },
             {
               "char": "迂",
-              "pinyin": "yū",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "迂：曲折、绕远，指出行不便。"
-                }
-              ]
+              "pinyin": "yū"
             },
             {
               "char": "也",
               "pinyin": "yě"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "苦于山北交通阻塞，出入要绕远路。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "聚",
               "pinyin": "jù"
@@ -307,48 +277,36 @@
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "wú"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "吾",
-              "pinyin": "yǔ"
+              "pinyin": "wú"
             },
             {
               "char": "与",
-              "pinyin": "rǔ"
+              "pinyin": "yǔ"
             },
             {
               "char": "汝",
-              "pinyin": "bì"
+              "pinyin": "rǔ"
             },
             {
               "char": "毕",
-              "pinyin": "lì"
+              "pinyin": "bì"
             },
             {
               "char": "力",
-              "pinyin": "píng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "毕：尽、竭尽，‘毕力’即全力以赴。"
-                }
-              ]
+              "pinyin": "lì"
             },
             {
               "char": "平",
-              "pinyin": "xiǎn"
+              "pinyin": "píng"
             },
             {
               "char": "险",
-              "pinyin": "zhǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "险：险峻的大山，此处作名词，指地形障碍。"
-                }
-              ]
+              "pinyin": "xiǎn"
             },
             {
               "char": "，",
@@ -356,25 +314,19 @@
             },
             {
               "char": "指",
-              "pinyin": "tōng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "指通：一直通到，‘指’有方向直达之意。"
-                }
-              ]
+              "pinyin": "zhǐ"
             },
             {
               "char": "通",
-              "pinyin": "yù"
+              "pinyin": "tōng"
             },
             {
               "char": "豫",
-              "pinyin": "nán"
+              "pinyin": "yù"
             },
             {
               "char": "南",
-              "pinyin": "dá"
+              "pinyin": "nán"
             },
             {
               "char": "，",
@@ -382,55 +334,43 @@
             },
             {
               "char": "达",
-              "pinyin": "yú"
+              "pinyin": "dá"
             },
             {
               "char": "于",
-              "pinyin": "hàn"
+              "pinyin": "yú"
             },
             {
               "char": "汉",
-              "pinyin": "yīn"
+              "pinyin": "hàn"
             },
             {
               "char": "阴",
-              "pinyin": "kě",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "汉：指黄河，古专称。"
-                }
-              ]
+              "pinyin": "yīn"
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "阴：水南山北曰阴，‘汉阴’指黄河南岸。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
               "char": "可",
-              "pinyin": "hū"
+              "pinyin": "kě"
             },
             {
               "char": "乎",
-              "pinyin": "zá"
+              "pinyin": "hū"
             },
             {
               "char": "？",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "rán"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "召集家人商议：\"我与你们全力削平险阻，直通豫州南部，抵达汉水南岸，如何？\""
+            "translation": "他苦于山区北部的阻塞，出来进去都要绕着山走，于是召集全家商量说：“我跟你们尽全力削平险峻，使道路一直通向豫州的南边，到达汉水南岸，好吗？”"
           },
           "notes": []
         },
@@ -438,19 +378,19 @@
           "sentence": [
             {
               "char": "杂",
-              "pinyin": "xiāng"
+              "pinyin": "zá"
             },
             {
               "char": "然",
-              "pinyin": "xǔ"
+              "pinyin": "rán"
             },
             {
               "char": "相",
-              "pinyin": "qí"
+              "pinyin": "xiāng"
             },
             {
               "char": "许",
-              "pinyin": "qī"
+              "pinyin": "xǔ"
             },
             {
               "char": "。",
@@ -458,7 +398,7 @@
             }
           ],
           "translation": {
-            "translation": "纷纷赞同。"
+            "translation": "大家纷纷表示赞同。"
           },
           "notes": []
         },
@@ -466,47 +406,47 @@
           "sentence": [
             {
               "char": "其",
-              "pinyin": "xiàn"
+              "pinyin": "qí"
             },
             {
               "char": "妻",
-              "pinyin": "yí"
+              "pinyin": "qī"
             },
             {
               "char": "献",
-              "pinyin": "yuē"
+              "pinyin": "xiàn"
             },
             {
               "char": "疑",
-              "pinyin": "yǐ"
+              "pinyin": "yí"
             },
             {
               "char": "曰",
-              "pinyin": "jūn"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "zhī"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "以",
-              "pinyin": "lì"
+              "pinyin": "yǐ"
             },
             {
               "char": "君",
-              "pinyin": "zēng"
+              "pinyin": "jūn"
             },
             {
               "char": "之",
-              "pinyin": "bù"
+              "pinyin": "zhī"
             },
             {
               "char": "力",
-              "pinyin": "néng"
+              "pinyin": "lì"
             },
             {
               "char": "，",
@@ -514,41 +454,35 @@
             },
             {
               "char": "曾",
-              "pinyin": "sǔn"
+              "pinyin": "zēng"
             },
             {
               "char": "不",
-              "pinyin": "kuí",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "曾：副词，加强否定，相当于‘连……都’。"
-                }
-              ]
+              "pinyin": "bù"
             },
             {
               "char": "能",
-              "pinyin": "fù"
+              "pinyin": "néng"
             },
             {
               "char": "损",
-              "pinyin": "zhī"
+              "pinyin": "sǔn"
             },
             {
               "char": "魁",
-              "pinyin": "qiū"
+              "pinyin": "kuí"
             },
             {
               "char": "父",
-              "pinyin": "rú"
+              "pinyin": "fù"
             },
             {
               "char": "之",
-              "pinyin": "tài"
+              "pinyin": "zhī"
             },
             {
               "char": "丘",
-              "pinyin": "háng"
+              "pinyin": "qiū"
             },
             {
               "char": "，",
@@ -556,21 +490,15 @@
             },
             {
               "char": "如",
-              "pinyin": "wáng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "如……何：固定结构，意为‘把……怎么样’。"
-                }
-              ]
+              "pinyin": "rú"
             },
             {
               "char": "太",
-              "pinyin": "wū"
+              "pinyin": "tài"
             },
             {
               "char": "行",
-              "pinyin": "hé"
+              "pinyin": "háng"
             },
             {
               "char": "、",
@@ -578,57 +506,59 @@
             },
             {
               "char": "王",
-              "pinyin": "qiě"
+              "pinyin": "wáng"
             },
             {
               "char": "屋",
-              "pinyin": "yān"
+              "pinyin": "wū"
             },
             {
               "char": "何",
-              "pinyin": "zhì"
+              "pinyin": "hé"
             },
             {
               "char": "？",
               "pinyin": "　"
-            },
-            {
-              "char": "且",
-              "pinyin": "tǔ"
-            },
-            {
-              "char": "焉",
-              "pinyin": "shí",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "焉：疑问代词，哪里，表处所。"
-                }
-              ]
-            },
-            {
-              "char": "置",
-              "pinyin": "zá"
-            },
-            {
-              "char": "土",
-              "pinyin": "yuē"
-            },
-            {
-              "char": "石",
-              "pinyin": "tóu"
-            },
-            {
-              "char": "？",
-              "pinyin": "　"
-            },
-            {
-              "char": "\"",
-              "pinyin": "zhū"
             }
           ],
           "translation": {
-            "translation": "其妻疑虑：\"凭您的力气，连魁父小山也难毁损，何况太行、王屋？土石堆放何处？\""
+            "translation": "他的妻子提出疑问说：“凭借你的力气，连魁父这样的小山都不能削平，又能把太行、王屋山怎么样呢？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "且",
+              "pinyin": "qiě"
+            },
+            {
+              "char": "焉",
+              "pinyin": "yān"
+            },
+            {
+              "char": "置",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "土",
+              "pinyin": "tǔ"
+            },
+            {
+              "char": "石",
+              "pinyin": "shí"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "再说，挖下来的土和石头又安放在哪里？”"
           },
           "notes": []
         },
@@ -636,55 +566,43 @@
           "sentence": [
             {
               "char": "杂",
-              "pinyin": "bó"
+              "pinyin": "zá"
             },
             {
               "char": "曰",
-              "pinyin": "hǎi"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "zhī"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "投",
-              "pinyin": "wěi"
+              "pinyin": "tóu"
             },
             {
               "char": "诸",
-              "pinyin": "yǐn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "诸：兼词，相当于‘之于’。"
-                }
-              ]
+              "pinyin": "zhū"
             },
             {
               "char": "渤",
-              "pinyin": "tǔ"
+              "pinyin": "bó"
             },
             {
               "char": "海",
-              "pinyin": "zhī"
+              "pinyin": "hǎi"
             },
             {
               "char": "之",
-              "pinyin": "běi"
+              "pinyin": "zhī"
             },
             {
               "char": "尾",
-              "pinyin": "suì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "尾：边缘、末端，指渤海边远之地。"
-                }
-              ]
+              "pinyin": "wěi"
             },
             {
               "char": "，",
@@ -692,31 +610,31 @@
             },
             {
               "char": "隐",
-              "pinyin": "shuài"
+              "pinyin": "yǐn"
             },
             {
               "char": "土",
-              "pinyin": "zǐ"
+              "pinyin": "tǔ"
             },
             {
               "char": "之",
-              "pinyin": "sūn"
+              "pinyin": "zhī"
             },
             {
               "char": "北",
-              "pinyin": "hè"
+              "pinyin": "běi"
             },
             {
               "char": "。",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "dàn"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "众人答：\"投到渤海边上，隐土北面。\""
+            "translation": "众人说：“把它扔到渤海的边上，隐土的北面。”"
           },
           "notes": []
         },
@@ -724,45 +642,39 @@
           "sentence": [
             {
               "char": "遂",
-              "pinyin": "zhě"
+              "pinyin": "suì"
             },
             {
               "char": "率",
-              "pinyin": "sān"
+              "pinyin": "shuài"
             },
             {
               "char": "子",
-              "pinyin": "fū"
+              "pinyin": "zǐ"
             },
             {
               "char": "孙",
-              "pinyin": "kòu"
+              "pinyin": "sūn"
             },
             {
               "char": "荷",
-              "pinyin": "shí"
+              "pinyin": "hè"
             },
             {
               "char": "担",
-              "pinyin": "kěn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "荷：背负、扛，读hè。"
-                }
-              ]
+              "pinyin": "dàn"
             },
             {
               "char": "者",
-              "pinyin": "rǎng"
+              "pinyin": "zhě"
             },
             {
               "char": "三",
-              "pinyin": "jī"
+              "pinyin": "sān"
             },
             {
               "char": "夫",
-              "pinyin": "běn"
+              "pinyin": "fū"
             },
             {
               "char": "，",
@@ -770,25 +682,19 @@
             },
             {
               "char": "叩",
-              "pinyin": "yùn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "叩：敲击，此处指开凿岩石。"
-                }
-              ]
+              "pinyin": "kòu"
             },
             {
               "char": "石",
-              "pinyin": "yú"
+              "pinyin": "shí"
             },
             {
               "char": "垦",
-              "pinyin": "bó"
+              "pinyin": "kěn"
             },
             {
               "char": "壤",
-              "pinyin": "hǎi"
+              "pinyin": "rǎng"
             },
             {
               "char": "，",
@@ -796,35 +702,35 @@
             },
             {
               "char": "箕",
-              "pinyin": "zhī"
+              "pinyin": "jī"
             },
             {
               "char": "畚",
-              "pinyin": "wěi"
+              "pinyin": "běn"
             },
             {
               "char": "运",
-              "pinyin": "lín"
+              "pinyin": "yùn"
             },
             {
               "char": "于",
-              "pinyin": "rén"
+              "pinyin": "yú"
             },
             {
               "char": "渤",
-              "pinyin": "jīng"
+              "pinyin": "bó"
             },
             {
               "char": "海",
-              "pinyin": "chéng"
+              "pinyin": "hǎi"
             },
             {
               "char": "之",
-              "pinyin": "shì"
+              "pinyin": "zhī"
             },
             {
               "char": "尾",
-              "pinyin": "zhī"
+              "pinyin": "wěi"
             },
             {
               "char": "。",
@@ -832,7 +738,7 @@
             }
           ],
           "translation": {
-            "translation": "于是率子孙三人挑担，凿石挖土，用箕畚运往渤海。"
+            "translation": "于是愚公率领儿孙中能挑担子的几个人上了山，凿石头，挖土，用箕畚运到渤海边上。"
           },
           "notes": []
         },
@@ -840,47 +746,47 @@
           "sentence": [
             {
               "char": "邻",
-              "pinyin": "shuāng"
+              "pinyin": "lín"
             },
             {
               "char": "人",
-              "pinyin": "qī"
+              "pinyin": "rén"
             },
             {
               "char": "京",
-              "pinyin": "yǒu"
+              "pinyin": "jīng"
             },
             {
               "char": "城",
-              "pinyin": "yí"
+              "pinyin": "chéng"
             },
             {
               "char": "氏",
-              "pinyin": "nán"
+              "pinyin": "shì"
             },
             {
               "char": "之",
-              "pinyin": "shǐ"
+              "pinyin": "zhī"
             },
             {
               "char": "孀",
-              "pinyin": "chèn"
+              "pinyin": "shuāng"
             },
             {
               "char": "妻",
-              "pinyin": "tiào"
+              "pinyin": "qī"
             },
             {
               "char": "有",
-              "pinyin": "wǎng"
+              "pinyin": "yǒu"
             },
             {
               "char": "遗",
-              "pinyin": "zhù"
+              "pinyin": "yí"
             },
             {
               "char": "男",
-              "pinyin": "zhī"
+              "pinyin": "nán"
             },
             {
               "char": "，",
@@ -888,17 +794,11 @@
             },
             {
               "char": "始",
-              "pinyin": "hán"
+              "pinyin": "shǐ"
             },
             {
               "char": "龀",
-              "pinyin": "shǔ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "龀：儿童换牙，七八岁年纪，代指幼童。"
-                }
-              ]
+              "pinyin": "chèn"
             },
             {
               "char": "，",
@@ -906,19 +806,19 @@
             },
             {
               "char": "跳",
-              "pinyin": "yì"
+              "pinyin": "tiào"
             },
             {
               "char": "往",
-              "pinyin": "jié"
+              "pinyin": "wǎng"
             },
             {
               "char": "助",
-              "pinyin": "shǐ"
+              "pinyin": "zhù"
             },
             {
               "char": "之",
-              "pinyin": "yī"
+              "pinyin": "zhī"
             },
             {
               "char": "。",
@@ -926,7 +826,7 @@
             }
           ],
           "translation": {
-            "translation": "邻家京城氏寡妇有遗腹子，刚换牙，蹦跳着帮忙。"
+            "translation": "邻居京城氏的寡妇有个男孩，刚刚换牙的年纪，蹦蹦跳跳地去帮助他。"
           },
           "notes": []
         },
@@ -934,25 +834,19 @@
           "sentence": [
             {
               "char": "寒",
-              "pinyin": "fǎn"
+              "pinyin": "hán"
             },
             {
               "char": "暑",
-              "pinyin": "yān"
+              "pinyin": "shǔ"
             },
             {
               "char": "易",
-              "pinyin": "hé",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "易：交换、更替，‘易节’即季节变换。"
-                }
-              ]
+              "pinyin": "yì"
             },
             {
               "char": "节",
-              "pinyin": "qū"
+              "pinyin": "jié"
             },
             {
               "char": "，",
@@ -960,25 +854,19 @@
             },
             {
               "char": "始",
-              "pinyin": "zhì"
+              "pinyin": "shǐ"
             },
             {
               "char": "一",
-              "pinyin": "sǒu"
+              "pinyin": "yī"
             },
             {
               "char": "反",
-              "pinyin": "xiào",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "反：通‘返’，返回，指往返一次。"
-                }
-              ]
+              "pinyin": "fǎn"
             },
             {
               "char": "焉",
-              "pinyin": "ér"
+              "pinyin": "yān"
             },
             {
               "char": "。",
@@ -986,69 +874,67 @@
             }
           ],
           "translation": {
-            "translation": "寒来暑往，才往返一次。"
+            "translation": "一年时间，才能往返一次。"
           },
           "notes": []
-        },
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
               "char": "河",
-              "pinyin": "zhǐ"
+              "pinyin": "hé"
             },
             {
               "char": "曲",
-              "pinyin": "zhī"
+              "pinyin": "qū"
             },
             {
               "char": "智",
-              "pinyin": "yuē"
+              "pinyin": "zhì"
             },
             {
               "char": "叟",
-              "pinyin": "shèn"
+              "pinyin": "sǒu"
             },
             {
               "char": "笑",
-              "pinyin": "yǐ"
+              "pinyin": "xiào"
             },
             {
               "char": "而",
-              "pinyin": "rǔ"
+              "pinyin": "ér"
             },
             {
               "char": "止",
-              "pinyin": "zhī"
+              "pinyin": "zhǐ"
             },
             {
               "char": "之",
-              "pinyin": "bù"
+              "pinyin": "zhī"
             },
             {
               "char": "曰",
-              "pinyin": "huì"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "yǐ"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "甚",
-              "pinyin": "cán"
+              "pinyin": "shèn"
             },
             {
               "char": "矣",
-              "pinyin": "nián",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "甚矣：主谓倒装，正常语序为‘汝之不惠甚矣’。"
-                }
-              ]
+              "pinyin": "yǐ"
             },
             {
               "char": "，",
@@ -1056,49 +942,51 @@
             },
             {
               "char": "汝",
-              "pinyin": "yú"
+              "pinyin": "rǔ"
             },
             {
               "char": "之",
-              "pinyin": "lì"
+              "pinyin": "zhī"
             },
             {
               "char": "不",
-              "pinyin": "zēng"
+              "pinyin": "bù"
             },
             {
               "char": "惠",
-              "pinyin": "bù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "惠：通‘慧’，聪明，智慧。"
-                }
-              ]
+              "pinyin": "huì"
             },
             {
               "char": "！",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "住在河曲的一位老人笑着劝阻他们，说：“你也太不明智了！"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "以",
-              "pinyin": "néng"
+              "pinyin": "yǐ"
             },
             {
               "char": "残",
-              "pinyin": "huǐ"
+              "pinyin": "cán"
             },
             {
               "char": "年",
-              "pinyin": "shān"
+              "pinyin": "nián"
             },
             {
               "char": "余",
-              "pinyin": "zhī"
+              "pinyin": "yú"
             },
             {
               "char": "力",
-              "pinyin": "yī"
+              "pinyin": "lì"
             },
             {
               "char": "，",
@@ -1106,47 +994,35 @@
             },
             {
               "char": "曾",
-              "pinyin": "máo"
+              "pinyin": "zēng"
             },
             {
               "char": "不",
-              "pinyin": "qí",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "曾：同样表加强否定，‘连……都未能’。"
-                }
-              ]
+              "pinyin": "bù"
             },
             {
               "char": "能",
-              "pinyin": "rú"
+              "pinyin": "néng"
             },
             {
               "char": "毁",
-              "pinyin": "tǔ"
+              "pinyin": "huǐ"
             },
             {
               "char": "山",
-              "pinyin": "shí"
+              "pinyin": "shān"
             },
             {
               "char": "之",
-              "pinyin": "hé"
+              "pinyin": "zhī"
             },
             {
               "char": "一",
-              "pinyin": "běi"
+              "pinyin": "yī"
             },
             {
               "char": "毛",
-              "pinyin": "shān",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "毛：草木，‘一毛’指山上的一草一木。"
-                }
-              ]
+              "pinyin": "máo"
             },
             {
               "char": "，",
@@ -1154,35 +1030,35 @@
             },
             {
               "char": "其",
-              "pinyin": "yú"
+              "pinyin": "qí"
             },
             {
               "char": "如",
-              "pinyin": "gōng"
+              "pinyin": "rú"
             },
             {
               "char": "土",
-              "pinyin": "cháng"
+              "pinyin": "tǔ"
             },
             {
               "char": "石",
-              "pinyin": "xī"
+              "pinyin": "shí"
             },
             {
               "char": "何",
-              "pinyin": "yuē"
+              "pinyin": "hé"
             },
             {
               "char": "？",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "rǔ"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "智叟笑劝：\"你太不聪明！凭残年余力，连山上一草也毁不掉，何况土石？\""
+            "translation": "就凭你残余的岁月、剩下的力气连山上的一棵草都动不了，又能对泥土和石块怎么样呢？”"
           },
           "notes": []
         },
@@ -1190,115 +1066,103 @@
           "sentence": [
             {
               "char": "北",
-              "pinyin": "xīn"
+              "pinyin": "běi"
             },
             {
               "char": "山",
-              "pinyin": "zhī"
+              "pinyin": "shān"
             },
             {
               "char": "愚",
-              "pinyin": "gù"
+              "pinyin": "yú"
             },
             {
               "char": "公",
-              "pinyin": "gù"
+              "pinyin": "gōng"
             },
             {
               "char": "长",
-              "pinyin": "bù"
+              "pinyin": "cháng"
             },
             {
               "char": "息",
-              "pinyin": "kě"
+              "pinyin": "xī"
             },
             {
               "char": "曰",
-              "pinyin": "chè"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "zēng"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "汝",
-              "pinyin": "bù"
+              "pinyin": "rǔ"
             },
             {
               "char": "心",
-              "pinyin": "ruò"
+              "pinyin": "xīn"
             },
             {
               "char": "之",
-              "pinyin": "shuāng"
-            },
-            {
-              "char": "固",
-              "pinyin": "qī"
-            },
-            {
-              "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "固：顽固，形容思想僵化。"
-                }
-              ]
-            },
-            {
-              "char": "固",
-              "pinyin": "ruò"
-            },
-            {
-              "char": "不",
-              "pinyin": "zǐ"
-            },
-            {
-              "char": "可",
-              "pinyin": "suī"
-            },
-            {
-              "char": "彻",
-              "pinyin": "wǒ"
-            },
-            {
-              "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "彻：通达，明白，指理解道理。"
-                }
-              ]
-            },
-            {
-              "char": "曾",
               "pinyin": "zhī"
             },
             {
+              "char": "固",
+              "pinyin": "gù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "固",
+              "pinyin": "gù"
+            },
+            {
               "char": "不",
-              "pinyin": "sǐ"
+              "pinyin": "bù"
+            },
+            {
+              "char": "可",
+              "pinyin": "kě"
+            },
+            {
+              "char": "彻",
+              "pinyin": "chè"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "曾",
+              "pinyin": "zēng"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
             },
             {
               "char": "若",
-              "pinyin": "yǒu"
+              "pinyin": "ruò"
             },
             {
               "char": "孀",
-              "pinyin": "zǐ"
+              "pinyin": "shuāng"
             },
             {
               "char": "妻",
-              "pinyin": "cún"
+              "pinyin": "qī"
             },
             {
               "char": "弱",
-              "pinyin": "yān"
+              "pinyin": "ruò"
             },
             {
               "char": "子",
@@ -1307,28 +1171,30 @@
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "北山愚公长叹道：“你的思想太过顽固，顽固到了不可改变的地步，连孤儿寡妇都比不上。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "虽",
-              "pinyin": "yòu"
+              "pinyin": "suī"
             },
             {
               "char": "我",
-              "pinyin": "shēng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "虽：即使，表假设让步。"
-                }
-              ]
+              "pinyin": "wǒ"
             },
             {
               "char": "之",
-              "pinyin": "sūn"
+              "pinyin": "zhī"
             },
             {
               "char": "死",
-              "pinyin": "sūn"
+              "pinyin": "sǐ"
             },
             {
               "char": "，",
@@ -1336,39 +1202,47 @@
             },
             {
               "char": "有",
-              "pinyin": "yòu"
+              "pinyin": "yǒu"
             },
             {
               "char": "子",
-              "pinyin": "shēng"
+              "pinyin": "zǐ"
             },
             {
               "char": "存",
-              "pinyin": "zǐ"
+              "pinyin": "cún"
             },
             {
               "char": "焉",
-              "pinyin": "zǐ"
+              "pinyin": "yān"
             },
             {
-              "char": "；",
+              "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "即使我死了，还有儿子在；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "子",
-              "pinyin": "yòu"
+              "pinyin": "zǐ"
             },
             {
               "char": "又",
-              "pinyin": "yǒu"
+              "pinyin": "yòu"
             },
             {
               "char": "生",
-              "pinyin": "zǐ"
+              "pinyin": "shēng"
             },
             {
               "char": "孙",
-              "pinyin": "zǐ"
+              "pinyin": "sūn"
             },
             {
               "char": "，",
@@ -1376,15 +1250,15 @@
             },
             {
               "char": "孙",
-              "pinyin": "yòu"
+              "pinyin": "sūn"
             },
             {
               "char": "又",
-              "pinyin": "yǒu"
+              "pinyin": "yòu"
             },
             {
               "char": "生",
-              "pinyin": "sūn"
+              "pinyin": "shēng"
             },
             {
               "char": "子",
@@ -1393,22 +1267,30 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "儿子又生孙子，孙子又生儿子；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "子",
               "pinyin": "zǐ"
             },
             {
               "char": "又",
-              "pinyin": "sūn"
+              "pinyin": "yòu"
             },
             {
               "char": "有",
-              "pinyin": "sūn"
+              "pinyin": "yǒu"
             },
             {
               "char": "子",
-              "pinyin": "wú"
+              "pinyin": "zǐ"
             },
             {
               "char": "，",
@@ -1416,55 +1298,63 @@
             },
             {
               "char": "子",
-              "pinyin": "qióng"
+              "pinyin": "zǐ"
             },
             {
               "char": "又",
-              "pinyin": "kuì"
+              "pinyin": "yòu"
             },
             {
               "char": "有",
-              "pinyin": "yě"
+              "pinyin": "yǒu"
             },
             {
               "char": "孙",
-              "pinyin": "ér"
+              "pinyin": "sūn"
             },
             {
               "char": "；",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "儿子又有儿子，儿子又有孙子；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "子",
+              "pinyin": "zǐ"
             },
             {
               "char": "子",
-              "pinyin": "shān"
-            },
-            {
-              "char": "子",
-              "pinyin": "bù"
+              "pinyin": "zǐ"
             },
             {
               "char": "孙",
-              "pinyin": "jiā"
+              "pinyin": "sūn"
             },
             {
               "char": "孙",
-              "pinyin": "zēng"
+              "pinyin": "sūn"
             },
             {
               "char": "无",
-              "pinyin": "hé"
+              "pinyin": "wú"
             },
             {
               "char": "穷",
-              "pinyin": "kǔ"
+              "pinyin": "qióng"
             },
             {
               "char": "匮",
-              "pinyin": "ér"
+              "pinyin": "kuì"
             },
             {
               "char": "也",
-              "pinyin": "bù"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -1472,23 +1362,23 @@
             },
             {
               "char": "而",
-              "pinyin": "píng"
+              "pinyin": "ér"
             },
             {
               "char": "山",
-              "pinyin": "hé"
+              "pinyin": "shān"
             },
             {
               "char": "不",
-              "pinyin": "qū"
+              "pinyin": "bù"
             },
             {
               "char": "加",
-              "pinyin": "zhì"
+              "pinyin": "jiā"
             },
             {
               "char": "增",
-              "pinyin": "sǒu"
+              "pinyin": "zēng"
             },
             {
               "char": "，",
@@ -1496,41 +1386,35 @@
             },
             {
               "char": "何",
-              "pinyin": "wú"
+              "pinyin": "hé"
             },
             {
               "char": "苦",
-              "pinyin": "yǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "何苦：反问结构，意为‘愁什么’，即‘不必愁’。"
-                }
-              ]
+              "pinyin": "kǔ"
             },
             {
               "char": "而",
-              "pinyin": "yìng"
+              "pinyin": "ér"
             },
             {
               "char": "不",
-              "pinyin": "cāo"
+              "pinyin": "bù"
             },
             {
               "char": "平",
-              "pinyin": "shé"
+              "pinyin": "píng"
             },
             {
               "char": "？",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "zhī"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "愚公长叹：\"你思想顽固，顽固不通，不如寡妇幼童。我死后，有儿子在；子又生孙，孙又生子；子子孙孙无穷无尽，山却不加增高，何愁不能削平？\""
+            "translation": "子子孙孙无穷无尽，可是山却不会增高加大，还用发愁挖不平吗？”"
           },
           "notes": []
         },
@@ -1538,37 +1422,31 @@
           "sentence": [
             {
               "char": "河",
-              "pinyin": "shén"
+              "pinyin": "hé"
             },
             {
               "char": "曲",
-              "pinyin": "wén"
+              "pinyin": "qū"
             },
             {
               "char": "智",
-              "pinyin": "zhī"
+              "pinyin": "zhì"
             },
             {
               "char": "叟",
-              "pinyin": "jù"
+              "pinyin": "sǒu"
             },
             {
               "char": "亡",
-              "pinyin": "qí",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "亡：通‘无’，没有，读wú。"
-                }
-              ]
+              "pinyin": "wú"
             },
             {
               "char": "以",
-              "pinyin": "bù"
+              "pinyin": "yǐ"
             },
             {
               "char": "应",
-              "pinyin": "yǐ"
+              "pinyin": "yìng"
             },
             {
               "char": "。",
@@ -1576,19 +1454,23 @@
             }
           ],
           "translation": {
-            "translation": "智叟无言以对。"
+            "translation": "老人无话可答。"
           },
           "notes": []
-        },
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
               "char": "操",
-              "pinyin": "yě"
+              "pinyin": "cāo"
             },
             {
               "char": "蛇",
-              "pinyin": "gào"
+              "pinyin": "shé"
             },
             {
               "char": "之",
@@ -1596,15 +1478,15 @@
             },
             {
               "char": "神",
-              "pinyin": "yú"
+              "pinyin": "shén"
             },
             {
               "char": "闻",
-              "pinyin": "dì"
+              "pinyin": "wén"
             },
             {
               "char": "之",
-              "pinyin": "dì"
+              "pinyin": "zhī"
             },
             {
               "char": "，",
@@ -1612,7 +1494,7 @@
             },
             {
               "char": "惧",
-              "pinyin": "gǎn"
+              "pinyin": "jù"
             },
             {
               "char": "其",
@@ -1620,21 +1502,15 @@
             },
             {
               "char": "不",
-              "pinyin": "chéng"
+              "pinyin": "bù"
             },
             {
               "char": "已",
-              "pinyin": "mìng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "已：停止，指不停挖山的行为。"
-                }
-              ]
+              "pinyin": "yǐ"
             },
             {
               "char": "也",
-              "pinyin": "kuā"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -1642,25 +1518,19 @@
             },
             {
               "char": "告",
-              "pinyin": "é"
+              "pinyin": "gào"
             },
             {
               "char": "之",
-              "pinyin": "shì"
+              "pinyin": "zhī"
             },
             {
               "char": "于",
-              "pinyin": "èr"
+              "pinyin": "yú"
             },
             {
               "char": "帝",
-              "pinyin": "zǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "帝：天帝，神话中的最高统治者。"
-                }
-              ]
+              "pinyin": "dì"
             },
             {
               "char": "。",
@@ -1668,7 +1538,7 @@
             }
           ],
           "translation": {
-            "translation": "山神得知，怕他们不停，报告天帝。"
+            "translation": "山神听说了这件事，怕他不停地干下去，便去禀告了天帝。"
           },
           "notes": []
         },
@@ -1676,19 +1546,19 @@
           "sentence": [
             {
               "char": "帝",
-              "pinyin": "fù"
+              "pinyin": "dì"
             },
             {
               "char": "感",
-              "pinyin": "èr"
+              "pinyin": "gǎn"
             },
             {
               "char": "其",
-              "pinyin": "shān"
+              "pinyin": "qí"
             },
             {
               "char": "诚",
-              "pinyin": "yī"
+              "pinyin": "chéng"
             },
             {
               "char": "，",
@@ -1696,45 +1566,39 @@
             },
             {
               "char": "命",
-              "pinyin": "cuò"
+              "pinyin": "mìng"
             },
             {
               "char": "夸",
-              "pinyin": "shuò"
+              "pinyin": "kuā"
             },
             {
-              "char": "娥",
-              "pinyin": "dōng"
+              "char": "蛾",
+              "pinyin": "é"
             },
             {
               "char": "氏",
-              "pinyin": "yī"
+              "pinyin": "shì"
             },
             {
               "char": "二",
-              "pinyin": "cuò"
+              "pinyin": "èr"
             },
             {
               "char": "子",
-              "pinyin": "yōng"
+              "pinyin": "zǐ"
             },
             {
               "char": "负",
-              "pinyin": "nán"
+              "pinyin": "fù"
             },
             {
               "char": "二",
-              "pinyin": "zì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "负：背、搬运，形容神力。"
-                }
-              ]
+              "pinyin": "èr"
             },
             {
               "char": "山",
-              "pinyin": "cǐ"
+              "pinyin": "shān"
             },
             {
               "char": "，",
@@ -1742,25 +1606,19 @@
             },
             {
               "char": "一",
-              "pinyin": "jì"
+              "pinyin": "yī"
             },
             {
               "char": "厝",
-              "pinyin": "zhī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "厝：放置、安放，同‘措’。"
-                }
-              ]
+              "pinyin": "cuò"
             },
             {
               "char": "朔",
-              "pinyin": "nán"
+              "pinyin": "shuò"
             },
             {
               "char": "东",
-              "pinyin": "hàn"
+              "pinyin": "dōng"
             },
             {
               "char": "，",
@@ -1768,19 +1626,19 @@
             },
             {
               "char": "一",
-              "pinyin": "zhī"
+              "pinyin": "yī"
             },
             {
               "char": "厝",
-              "pinyin": "yīn"
+              "pinyin": "cuò"
             },
             {
               "char": "雍",
-              "pinyin": "wú"
+              "pinyin": "yōng"
             },
             {
               "char": "南",
-              "pinyin": "lǒng"
+              "pinyin": "nán"
             },
             {
               "char": "。",
@@ -1788,7 +1646,7 @@
             }
           ],
           "translation": {
-            "translation": "帝感其诚心，命夸娥氏二子背走二山，一座放朔方东，一座置雍州南。"
+            "translation": "天帝被愚公的诚心感动，命令大力神夸蛾氏的两个儿子背走了那两座山，一座放在朔方的东边，一座放在雍州的南边。"
           },
           "notes": []
         },
@@ -1796,59 +1654,63 @@
           "sentence": [
             {
               "char": "自",
-              "pinyin": "duàn"
+              "pinyin": "zì"
             },
             {
               "char": "此",
-              "pinyin": "yān"
+              "pinyin": "cǐ"
             },
             {
               "char": "，",
               "pinyin": "　"
             },
             {
-              "char": "冀"
+              "char": "冀",
+              "pinyin": "jì"
             },
             {
-              "char": "之"
+              "char": "之",
+              "pinyin": "zhī"
             },
             {
-              "char": "南"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "汉"
-            },
-            {
-              "char": "之"
-            },
-            {
-              "char": "阴"
+              "char": "南",
+              "pinyin": "nán"
             },
             {
               "char": "，",
               "pinyin": "　"
             },
             {
-              "char": "无"
+              "char": "汉",
+              "pinyin": "hàn"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "阴",
+              "pinyin": "yīn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "无",
+              "pinyin": "wú"
             },
             {
               "char": "陇",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "陇：通‘垄’，高地、土丘，指山冈阻隔。"
-                }
-              ]
+              "pinyin": "lǒng"
             },
             {
-              "char": "断"
+              "char": "断",
+              "pinyin": "duàn"
             },
             {
-              "char": "焉"
+              "char": "焉",
+              "pinyin": "yān"
             },
             {
               "char": "。",
@@ -1856,7 +1718,7 @@
             }
           ],
           "translation": {
-            "translation": "从此，冀州之南，汉水之阴，再无高山阻隔。"
+            "translation": "从这以后，冀州的南部直到汉水南岸，再也没有高山阻隔了。"
           },
           "notes": []
         }

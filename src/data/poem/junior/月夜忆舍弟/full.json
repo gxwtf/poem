@@ -74,58 +74,72 @@
             }
           ],
           "translation": "戍楼上的更鼓声断绝了人行，秋夜的边塞传来了孤雁哀鸣。"
-        },
+        }
+      ]
+    },
+    {
+      "sentences": [
         {
           "content": [
             {
-              "char": "(",
-              "pinyin": "",
+              "char": "露",
+              "pinyin": "lù",
               "index": 12
             },
             {
-              "char": "边",
-              "pinyin": "lù",
+              "char": "从",
+              "pinyin": "cóng",
               "index": 13
             },
             {
-              "char": "秋",
-              "pinyin": "cóng",
+              "char": "今",
+              "pinyin": "jīn",
               "index": 14
             },
             {
-              "char": " ",
-              "pinyin": "jīn",
+              "char": "夜",
+              "pinyin": "yè",
               "index": 15
             },
             {
-              "char": "一",
-              "pinyin": "yè",
+              "char": "白",
+              "pinyin": "bái",
               "index": 16
             },
             {
-              "char": "作",
-              "pinyin": "bái",
+              "char": "，",
+              "pinyin": "",
               "index": 17
             },
             {
-              "char": ":",
-              "pinyin": "",
+              "char": "月",
+              "pinyin": "yuè",
               "index": 18
             },
             {
-              "char": "秋",
-              "pinyin": "yuè",
+              "char": "是",
+              "pinyin": "shì",
               "index": 19
             },
             {
-              "char": "边",
-              "pinyin": "shì",
+              "char": "故",
+              "pinyin": "gù",
               "index": 20
             },
             {
-              "char": ")",
-              "pinyin": "",
+              "char": "乡",
+              "pinyin": "xiāng",
               "index": 21
+            },
+            {
+              "char": "明",
+              "pinyin": "míng",
+              "index": 22
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 23
             }
           ],
           "translation": "从今夜就进入了白露节气，月亮还是故乡的最明亮。"
@@ -137,136 +151,67 @@
         {
           "content": [
             {
-              "char": "露",
-              "pinyin": "gù",
-              "index": 22
-            },
-            {
-              "char": "从",
-              "pinyin": "xiāng",
-              "index": 23
-            },
-            {
-              "char": "今",
-              "pinyin": "míng",
+              "char": "有",
+              "pinyin": "yǒu",
               "index": 24
             },
             {
-              "char": "夜",
-              "pinyin": "yǒu",
+              "char": "弟",
+              "pinyin": "dì",
               "index": 25
             },
             {
-              "char": "白",
-              "pinyin": "dì",
+              "char": "皆",
+              "pinyin": "jiē",
               "index": 26
             },
             {
-              "char": "，",
-              "pinyin": "",
+              "char": "分",
+              "pinyin": "fēn",
               "index": 27
             },
             {
-              "char": "月",
-              "pinyin": "jiē",
-              "index": 28
-            },
-            {
-              "char": "是",
-              "pinyin": "fēn",
-              "index": 29
-            },
-            {
-              "char": "故",
-              "pinyin": "sàn",
-              "index": 30
-            },
-            {
-              "char": "乡",
-              "pinyin": "wú",
-              "index": 31
-            },
-            {
-              "char": "明",
-              "pinyin": "jiā",
-              "index": 32
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 33
-            }
-          ],
-          "translation": ""
-        }
-      ]
-    },
-    {
-      "sentences": [
-        {
-          "content": [
-            {
-              "char": "有",
-              "pinyin": "wèn",
-              "index": 34
-            },
-            {
-              "char": "弟",
-              "pinyin": "sǐ",
-              "index": 35
-            },
-            {
-              "char": "皆",
-              "pinyin": "shēng",
-              "index": 36
-            },
-            {
-              "char": "分",
-              "pinyin": "jì",
-              "index": 37
-            },
-            {
               "char": "散",
-              "pinyin": "shū",
-              "index": 38
+              "pinyin": "sàn",
+              "index": 28
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39
+              "index": 29
             },
             {
               "char": "无",
-              "pinyin": "cháng",
-              "index": 40
+              "pinyin": "wú",
+              "index": 30
             },
             {
               "char": "家",
-              "pinyin": "bù",
-              "index": 41
+              "pinyin": "jiā",
+              "index": 31
             },
             {
               "char": "问",
-              "pinyin": "dá",
-              "index": 42
+              "pinyin": "wèn",
+              "index": 32
             },
             {
               "char": "死",
-              "pinyin": "kuàng",
-              "index": 43
+              "pinyin": "sǐ",
+              "index": 33
             },
             {
               "char": "生",
-              "pinyin": "nǎi",
-              "index": 44
+              "pinyin": "shēng",
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 45
+              "index": 35
             }
           ],
-          "translation": ""
+          "translation": "虽有兄弟但都离散各去一方，家园无存，互相间都无从得知死生的消息。"
         }
       ]
     },
@@ -276,68 +221,69 @@
           "content": [
             {
               "char": "寄",
-              "pinyin": "wèi",
-              "index": 46
+              "pinyin": "jì",
+              "index": 36
             },
             {
               "char": "书",
-              "pinyin": "xiū",
-              "index": 47
+              "pinyin": "shū",
+              "index": 37
             },
             {
               "char": "长",
-              "pinyin": "bīng",
-              "index": 48
+              "pinyin": "cháng",
+              "index": 38
             },
             {
               "char": "不",
-              "pinyin": "",
-              "index": 49
+              "pinyin": "bù",
+              "index": 39
             },
             {
               "char": "达",
-              "pinyin": "",
-              "index": 50
+              "pinyin": "dá",
+              "index": 40
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 51
+              "index": 41
             },
             {
               "char": "况",
-              "pinyin": "",
-              "index": 52
+              "pinyin": "kuàng",
+              "index": 42
             },
             {
               "char": "乃",
-              "pinyin": "",
-              "index": 53
+              "pinyin": "nǎi",
+              "index": 43
             },
             {
               "char": "未",
-              "pinyin": "",
-              "index": 54
+              "pinyin": "wèi",
+              "index": 44
             },
             {
               "char": "休",
-              "pinyin": "",
-              "index": 55
+              "pinyin": "xiū",
+              "index": 45
             },
             {
               "char": "兵",
-              "pinyin": "",
-              "index": 56
+              "pinyin": "bīng",
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 57
+              "index": 47
             }
           ],
-          "translation": ""
+          "translation": "寄往洛阳城的家书老是不能送到，何况战乱频繁还没有停止。"
         }
       ]
     }
-  ]
+  ],
+  "knowledge": ""
 }

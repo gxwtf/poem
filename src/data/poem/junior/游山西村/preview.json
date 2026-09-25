@@ -30,41 +30,12 @@
             },
             {
               "char": "浑",
-              "pinyin": "hún",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "浑：浑浊，指酒质粗糙。"
-                }
-              ]
+              "pinyin": "hún"
             },
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "莫笑农家腊月酒浊，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "莫：不要，表示劝阻或禁止。"
             },
-            {
-              "start": 4,
-              "end": 5,
-              "note": "腊酒：腊月酿制的酒，泛指农家自酿的酒。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
             {
               "char": "丰",
               "pinyin": "fēng"
@@ -99,20 +70,9 @@
             }
           ],
           "translation": {
-            "translation": "丰收年景待客饭菜丰盛。"
+            "translation": "不要笑农家腊月里酿今家浑浊不醇厚，丰收今年景农家待客菜肴非常丰盛。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "丰年：丰收的年景。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "note": "足鸡豚：菜肴丰盛，有充足的鸡肉和猪肉。足，充足；豚，小猪，泛指猪。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -138,13 +98,7 @@
             },
             {
               "char": "疑",
-              "pinyin": "yí",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "疑：怀疑，以为。"
-                }
-              ]
+              "pinyin": "yí"
             },
             {
               "char": "无",
@@ -157,25 +111,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "青山重叠绿水迂回似无路，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "山重水复：山峦重叠，水流曲折，形容路途艰难。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
+            },
             {
               "char": "柳",
               "pinyin": "liǔ"
@@ -210,15 +146,9 @@
             }
           ],
           "translation": {
-            "translation": "绿柳成荫鲜花明艳又现村落。"
+            "translation": "山峦重忽水流曲折正担心无路可走，忽然柳绿花艳间又出现一个山村。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "柳暗花明：柳色深绿，花色明艳，形容景色突然转变，出现新的境界。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -257,35 +187,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "箫鼓声处处春社将近，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "箫鼓：吹箫击鼓，泛指乐器演奏。"
             },
-            {
-              "start": 2,
-              "end": 3,
-              "note": "追随：跟随，此处指人们跟随乐声前往春社。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "note": "春社：古代立春后祭祀土地神的活动，祈求丰收。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
             {
               "char": "衣",
               "pinyin": "yī"
@@ -320,20 +222,9 @@
             }
           ],
           "translation": {
-            "translation": "衣帽简朴保留古风。"
+            "translation": "社日将近，一路上迎神今箫鼓声随处可闻，布衣素冠，淳朴今古代风俗依旧保留。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "衣冠简朴：衣着穿戴简单朴素。"
-            },
-            {
-              "start": 4,
-              "end": 5,
-              "note": "古风：古代的风俗习惯。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -372,30 +263,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "从今若得闲情乘着月明，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "从今若许：从今以后如果允许。若，如果；许，允许。"
             },
-            {
-              "start": 4,
-              "end": 6,
-              "note": "闲乘月：趁着月光闲游。乘，趁着。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
             {
               "char": "拄",
               "pinyin": "zhǔ"
@@ -430,25 +298,9 @@
             }
           ],
           "translation": {
-            "translation": "拄杖随时夜晚敲门。"
+            "translation": "今后如果还能趁着大好月色出外闲游，我随时会拄着拐杖来敲你今家门。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "拄杖：拄着拐杖。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "note": "无时：随时，没有固定的时间。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "note": "叩门：敲门。叩，敲。"
-            }
-          ]
+          "notes": []
         }
       ]
     }

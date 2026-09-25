@@ -11,140 +11,85 @@
             {
               "char": "北",
               "pinyin": "běi",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "卷",
               "pinyin": "juǎn",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "地",
               "pinyin": "dì",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "白",
               "pinyin": "bái",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "草",
               "pinyin": "cǎo",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "折",
               "pinyin": "zhé",
-              "index": 6,
-              "read": true,
-              "write": true
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "八",
               "pinyin": "bā",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "即",
               "pinyin": "jí",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "飞",
               "pinyin": "fēi",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
-          "translation": "北风卷起地上的白草，将其折断，胡地的天空在八月就飞起了雪。",
-          "pinyin": "běi fēng juǎn dì bái cǎo zhé ， hú tiān bā yuè jí fēi xuě 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 5,
-              "content": "白草：西北地区一种草名，秋季变白，枯而不倒，风大则折，是边塞典型物候。"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "content": "折：折断，极言北风猛烈，气候严酷。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "胡天：指塞北的天空，胡，古代对北方和西方少数民族的泛称。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "即：就，表示时间之早，八月即下雪，突出边地寒冷之早。"
-            }
-          ]
+          "translation": "北风席卷大地折断了白草，塞北的天空八月就飘降大雪。"
         }
       ]
     },
@@ -155,130 +100,85 @@
             {
               "char": "忽",
               "pinyin": "hū",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "春",
               "pinyin": "chūn",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "树",
               "pinyin": "shù",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "树",
               "pinyin": "shù",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "梨",
               "pinyin": "lí",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "花",
               "pinyin": "huā",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "开",
               "pinyin": "kāi",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
-          "translation": "忽然间像一夜春风吹来，千万棵树上的梨花盛开。",
-          "pinyin": "hū rú yī yè chūn fēng lái ， qiān shù wàn shù lí huā kāi 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "忽如：忽然好像，极写天气变化之突然，为下文奇景铺垫。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "梨花：比喻雪花落在树枝上如同梨花盛开，是千古妙喻，展现诗人浪漫想象。"
-            }
-          ]
+          "translation": "仿佛一夜之间春风吹来，树上犹如梨花争相开放。"
         }
       ]
     },
@@ -289,130 +189,85 @@
             {
               "char": "散",
               "pinyin": "sàn",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "珠",
               "pinyin": "zhū",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "帘",
               "pinyin": "lián",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "湿",
               "pinyin": "shī",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "罗",
               "pinyin": "luó",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "幕",
               "pinyin": "mù",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "狐",
               "pinyin": "hú",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "裘",
               "pinyin": "qiú",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "暖",
               "pinyin": "nuǎn",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "锦",
               "pinyin": "jǐn",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "衾",
               "pinyin": "qīn",
-              "index": 45,
-              "read": true,
-              "write": true
+              "index": 45
             },
             {
               "char": "薄",
               "pinyin": "bó",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
-          "translation": "雪花散入珠帘，打湿了罗幕，狐皮袍子不暖，锦缎被子也薄。",
-          "pinyin": "sàn rù zhū lián shī luó mù ， hú qiú bù nuǎn jǐn qīn bó 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 4,
-              "content": "湿：浸湿，说明雪已穿透珠帘，进入帐内，寒冷加剧。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "锦衾：锦绣做的被子，极言其华美温暖，但仍觉‘薄’，反衬奇寒。"
-            }
-          ]
+          "translation": "雪花飞进珠帘沾湿了罗幕，狐裘不保暖盖上锦被也嫌单薄。"
         }
       ]
     },
@@ -423,130 +278,85 @@
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "军",
               "pinyin": "jūn",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "角",
               "pinyin": "jiǎo",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "弓",
               "pinyin": "gōng",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "控",
               "pinyin": "kòng",
-              "index": 54,
-              "read": true,
-              "write": true
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "都",
               "pinyin": "dū",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "护",
               "pinyin": "hù",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "铁",
               "pinyin": "tiě",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "衣",
               "pinyin": "yī",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "冷",
               "pinyin": "lěng",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "难",
               "pinyin": "nán",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "着",
               "pinyin": "zhuó",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             }
           ],
-          "translation": "将军的角弓拉不开，都护的铁衣冷得难穿。",
-          "pinyin": "jiāng jūn jiǎo gōng bù dé kòng ， dū hù tiě yī lěng nán zhuó 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 6,
-              "content": "不得控：无法拉开弓。控，引、拉。因天寒手僵，兵器失灵。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "都护：唐代边疆重镇设都护府，都护为最高军政长官，此处泛指高级将领。"
-            }
-          ]
+          "translation": "将军战士们冷得拉不开弓，铠甲冻得难以穿上。"
         }
       ]
     },
@@ -557,157 +367,85 @@
             {
               "char": "瀚",
               "pinyin": "hàn",
-              "index": 64,
-              "read": true,
-              "write": true
+              "index": 64
             },
             {
               "char": "海",
               "pinyin": "hǎi",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "阑",
               "pinyin": "lán",
-              "index": 66,
-              "read": true,
-              "write": true
+              "index": 66
             },
             {
               "char": "干",
               "pinyin": "gān",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "百",
               "pinyin": "bǎi",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "丈",
               "pinyin": "zhàng",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "冰",
               "pinyin": "bīng",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "愁",
               "pinyin": "chóu",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "惨",
               "pinyin": "cǎn",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "淡",
               "pinyin": "dàn",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "凝",
               "pinyin": "níng",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             }
           ],
-          "translation": "沙漠上横亘着百丈厚的冰，愁云惨淡，绵延万里。",
-          "pinyin": "hàn hǎi lán gān bǎi zhàng bīng ， chóu yún cǎn dàn wàn lǐ níng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "瀚海：广漠的大漠，指戈壁沙漠，非现代‘大海’义。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "阑干：纵横交错的样子，形容冰层遍布，非现代‘栏杆’义。"
-            },
-            {
-              "start": 14,
-              "end": 15,
-              "content": "凝：凝聚、停滞，指愁云密布，仿佛凝固不动，象征离愁沉重。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 1,
-              "old": "广漠的大漠"
-            },
-            {
-              "start": 0,
-              "end": 1,
-              "new": "大海"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "old": "纵横交错"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "new": "栏杆"
-            }
-          ]
+          "translation": "无边沙漠结着厚厚的冰，万里长空凝聚着惨淡愁云。"
         }
       ]
     },
@@ -718,132 +456,85 @@
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "军",
               "pinyin": "jūn",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "置",
               "pinyin": "zhì",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "酒",
               "pinyin": "jiǔ",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "饮",
               "pinyin": "yìn",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "客",
               "pinyin": "kè",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "胡",
               "pinyin": "hú",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "琴",
               "pinyin": "qín",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "琵",
               "pinyin": "pí",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "琶",
               "pinyin": "pá",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "羌",
               "pinyin": "qiāng",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "笛",
               "pinyin": "dí",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             }
           ],
-          "translation": "中军帐中设酒宴为归客饯行，胡琴、琵琶和羌笛齐奏。",
-          "pinyin": "zhōng jūn zhì jiǔ yǐn guī kè ， hú qín pí pá yǔ qiāng dí 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 6,
-              "content": "饮归客：宴请即将归京的客人。饮，使动用法，意为‘使……饮酒’。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 4,
-              "end": 6,
-              "content": "‘饮归客’为使动用法，即‘使归客饮’，属于文言中常见的使动句式。"
-            }
-          ]
+          "translation": "主帅帐中摆酒为归客饯行，胡琴琵琶羌笛合奏来助兴。"
         }
       ]
     },
@@ -854,137 +545,85 @@
             {
               "char": "纷",
               "pinyin": "fēn",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "纷",
               "pinyin": "fēn",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "暮",
               "pinyin": "mù",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "辕",
               "pinyin": "yuán",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "门",
               "pinyin": "mén",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "掣",
               "pinyin": "chè",
-              "index": 105,
-              "read": true,
-              "write": true
+              "index": 105
             },
             {
               "char": "红",
               "pinyin": "hóng",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "旗",
               "pinyin": "qí",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "冻",
               "pinyin": "dòng",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "翻",
               "pinyin": "fān",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             }
           ],
-          "translation": "傍晚的雪纷纷落在辕门外，风扯着红旗，冻得翻不动。",
-          "pinyin": "fēn fēn mù xuě xià yuán mén ， fēng chè hóng qí dòng bù fān 。",
-          "notes": [
-            {
-              "start": 9,
-              "end": 9,
-              "content": "掣：拉扯、牵动，形容风力强劲，但红旗因冻结而不能飘扬。"
-            },
-            {
-              "start": 14,
-              "end": 15,
-              "content": "不翻：不能翻动，因红旗被冰冻住，虽有风也无法飘展，画面极具张力。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 8,
-              "end": 15,
-              "content": "‘风掣红旗冻不翻’为因果倒装结构，正常语序应为‘红旗冻，风掣而不翻’，‘冻’作原因前置。"
-            }
-          ]
+          "translation": "傍晚辕门前大雪落个不停，红旗冻僵了风也无法牵引。"
         }
       ]
     },
@@ -995,130 +634,85 @@
             {
               "char": "轮",
               "pinyin": "lún",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "台",
               "pinyin": "tái",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "东",
               "pinyin": "dōng",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "门",
               "pinyin": "mén",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 115
             },
             {
               "char": "送",
               "pinyin": "sòng",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 116
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 117,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 119
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 120,
-              "read": false,
-              "write": false
+              "index": 120
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 121,
-              "read": false,
-              "write": false
+              "index": 121
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 122,
-              "read": false,
-              "write": false
+              "index": 122
             },
             {
               "char": "满",
               "pinyin": "mǎn",
-              "index": 123,
-              "read": false,
-              "write": false
+              "index": 123
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 124
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 125,
-              "read": false,
-              "write": false
+              "index": 125
             },
             {
               "char": "路",
               "pinyin": "lù",
-              "index": 126,
-              "read": false,
-              "write": false
+              "index": 126
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 127
             }
           ],
-          "translation": "在轮台东门送您离去，离去时雪盖满了天山的路。",
-          "pinyin": "lún tái dōng mén sòng jūn qù ， qù shí xuě mǎn tiān shān lù 。",
-          "different_meanings": [
-            {
-              "start": 6,
-              "end": 6,
-              "old": "离开"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "new": "前往"
-            }
-          ]
+          "translation": "轮台东门外欢送你回京去，你去时大雪盖满了天山路。"
         }
       ]
     },
@@ -1129,130 +723,85 @@
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 128,
-              "read": false,
-              "write": false
+              "index": 128
             },
             {
               "char": "回",
               "pinyin": "huí",
-              "index": 129,
-              "read": false,
-              "write": false
+              "index": 129
             },
             {
               "char": "路",
               "pinyin": "lù",
-              "index": 130,
-              "read": false,
-              "write": false
+              "index": 130
             },
             {
               "char": "转",
               "pinyin": "zhuǎn",
-              "index": 131,
-              "read": false,
-              "write": false
+              "index": 131
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 132,
-              "read": false,
-              "write": false
+              "index": 132
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 133,
-              "read": false,
-              "write": false
+              "index": 133
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 134,
-              "read": false,
-              "write": false
+              "index": 134
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 135,
-              "read": false,
-              "write": false
+              "index": 135
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 136,
-              "read": false,
-              "write": false
+              "index": 136
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 137,
-              "read": false,
-              "write": false
+              "index": 137
             },
             {
               "char": "空",
               "pinyin": "kōng",
-              "index": 138,
-              "read": false,
-              "write": false
+              "index": 138
             },
             {
               "char": "留",
               "pinyin": "liú",
-              "index": 139,
-              "read": false,
-              "write": false
+              "index": 139
             },
             {
               "char": "马",
               "pinyin": "mǎ",
-              "index": 140,
-              "read": false,
-              "write": false
+              "index": 140
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 141,
-              "read": false,
-              "write": false
+              "index": 141
             },
             {
               "char": "处",
               "pinyin": "chù",
-              "index": 142,
-              "read": false,
-              "write": false
+              "index": 142
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 143,
-              "read": false,
-              "write": false
+              "index": 143
             }
           ],
-          "translation": "山路曲折，看不见您了，雪地上只留下马行的痕迹。",
-          "pinyin": "shān huí lù zhuǎn bù jiàn jūn ， xuě shàng kōng liú mǎ xíng chù 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 6,
-              "content": "不见君：再也看不到你了，表达依依惜别之情，情景交融。"
-            },
-            {
-              "start": 10,
-              "end": 14,
-              "content": "空留马行处：只留下马蹄印。空，徒然；行处，足迹。寄托无限怅惘。"
-            }
-          ]
+          "translation": "山路曲折已不见你的身影，雪地上只留下一行马蹄印迹。"
         }
       ]
     }
@@ -1263,5 +812,8 @@
     "古诗"
   ],
   "background": "岑参于唐玄宗天宝十三载（公元754年，唐玄宗天宝十三载）夏秋之交到北庭，唐肃宗至德二载（公元757年）春夏之交东归。天宝十三载是岑参第二次出塞，充任安西北庭节度使封常清的判官（节度使的僚属），而武判官即其前任，诗人在轮台送他归京（唐代都城长安）而写下了此诗。",
-  "appreciation": "《白雪歌送武判官归京》是一首边塞诗。诗人将西域八月飞雪的壮丽景色描写得淋漓尽致，又情真意切地抒写了塞外送别、雪中送客之情。尽管诗中描绘的是离愁和乡思，却充满了超凡的想象，豪情满怀，全无伤感懊丧之情。诗中所流露出的浪漫理想和壮逸情怀使人觉得塞外风雪变成了可玩味欣赏的对象。全诗内涵丰富宽广，色彩瑰丽浪漫，气势浑然磅礴，意境鲜明独特，具有强烈的艺术感染力，堪称盛唐边塞诗的压卷之作。"
+  "appreciation": "《白雪歌送武判官归京》是一首边塞诗。诗人将西域八月飞雪的壮丽景色描写得淋漓尽致，又情真意切地抒写了塞外送别、雪中送客之情。尽管诗中描绘的是离愁和乡思，却充满了超凡的想象，豪情满怀，全无伤感懊丧之情。诗中所流露出的浪漫理想和壮逸情怀使人觉得塞外风雪变成了可玩味欣赏的对象。全诗内涵丰富宽广，色彩瑰丽浪漫，气势浑然磅礴，意境鲜明独特，具有强烈的艺术感染力，堪称盛唐边塞诗的压卷之作。",
+  "annotation": "武判官：名不详。判官，官职名。唐代节度使等朝廷派出的持节大使，可委任幕僚协助判处公事，称判官，是节度使、观察使一类的僚属。白草：西域牧草名，秋天变白色。胡天：指塞北的天空。胡，古代汉民族对北方各民族的通称。梨花：春天开放，花作白色。这里比喻雪花积在树枝上，像梨花开了一样。珠帘：用珍珠串成或饰有珍珠的帘子。形容帘子的华美。罗幕：用丝织品做成的帐幕。形容帐幕的华美。这句说雪花飞进珠帘，沾湿罗幕。“珠帘”“罗幕”都属于美化的说法。狐裘（qiú）：狐皮袍子。锦衾（qīn）：锦缎做的被子。锦衾薄（bó）：丝绸的被子（因为寒冷）都显得单薄了。形容天气很冷。角弓：两端用兽角装饰的硬弓，一作“雕弓”。不得控：（天太冷而冻得）拉不开（弓）。控：拉开。都（dū）护：镇守边镇的长官此为泛指，与上文的“将军”是互文。铁衣：铠甲。难着（zhuó）：一作“犹著”。着：亦写作“著”。瀚（hàn）海：沙漠。阑干：纵横交错的样子。百丈：一作“百尺”，一作“千尺”。惨淡：昏暗无光。中军：称主将或指挥部。古时分兵为中、左、右三军，中军为主帅的营帐。饮归客：宴饮归京的人，指武判官。饮，动词，宴饮。胡琴琵琶与羌（qiāng）笛：胡琴等都是当时西域地区兄弟民族的乐器。羌笛：羌族的管乐器。辕门：军营的门。古代军队扎营，用车环围，出入处以两车车辕相向竖立，状如门。这里指帅衙署的外门。风掣（chè）：红旗因雪而冻结，风都吹不动了。掣：拉，扯。冻不翻：旗被风往一个方向吹，给人以冻住之感。轮台：唐轮台在今新疆维吾尔自治区米泉县境内，与汉轮台不是同一地方。满：铺满。形容词活用为动词。山回路转：山势回环，道路盘旋曲折。",
+  "comprehensive_appreciation": "赏析：此诗是岑参边塞诗的代表他，他于他第二次出塞时期。此时，他很受安西节度使封常清的这重，他的大多数边塞诗成于这一时期。此诗描写西域八月飞雪的壮丽景色，抒写塞外不别、雪中不客之情，表现离愁和乡思，却充满奇思异想，并不令人感到伤感。诗中所表现出来的浪漫理想和壮逸情怀使人觉得塞外风雪变成了可玩味欣赏的对象。全诗内涵丰富宽广，色彩瑰丽浪漫，气势浑然磅礴，意境鲜明独特，具有极强的艺术感染力，堪称盛世大唐边塞诗的压卷之他。其中“忽如一夜春风来，千树万树梨花开”等诗句已成为千古传诵的名句。全诗以一天雪景的变化为象索，记叙不别归京使臣的过程，文思开阔，结构缜密。共分三个部分。前四句为第一部分，描写早晨起来看到的奇丽雪景和感受到的突如其来的奇寒。挂在枝头的积雪，在诗人的眼中变成了一夜盛开的梨花，和美丽的春天一起到来。前面四句主要写景色的奇丽。“即”、“忽如”等词形象、准确地表现了早晨起来突然看到雪景时的情形。经过一夜，大地银装素裹，焕然一新。接着视象从帐外逐渐转入帐内。飞雪进入珠帘，打湿了军帐。诗人选取居住、睡眠、穿衣、拉弓等日常活动来表现寒冷，如同选取早晨观雪表现奇异一样是很恰当的。虽然天气寒冷，但将士却毫无怨言。而且“不得控”，天气寒冷也会训练，还在拉弓练兵。表面写寒冷，实际是用冷来反衬将士内心的热，更表现出将士们乐观激昂的战斗情绪。通过人的感受写严寒，手法又具体真切，不流于抽象概念。诗人对奇寒津津乐道，使人不觉其苦，反觉冷得新鲜，寒得有趣。这又是诗人“种奇”个性的表现。中间两句为第二部分，描写白天雪景的雄伟壮阔和饯别宴会的盛况。“瀚海阑干百丈冰，愁云惨淡万里凝”，用浪漫夸张的手法，气势磅礴地勾出瑰奇壮丽的沙塞雪景，反衬下文的欢乐场面，体现将士们歌舞的积极意义。“中军置酒饮归客，胡琴琵琶与羌笛”，并列三种乐这而不写音乐本身，颇似笨拙，但仍能间接传达一种急管繁弦的场面，以及“总是关山旧别情”的意味。在主帅的中军摆开筵席，倾其所有地搬来各种乐这，且歌且舞，开怀畅饮，这宴会一直持续到暮色来临。第一部分内在的热情，在这里迸发倾泄出来，达到了欢乐的顶点。最后三句为第三部分，写傍晚不别友人踏上归途。“纷纷暮雪下辕门，风掣红旗冻不翻”，归客在暮色中迎着纷飞的大雪步出帐幕，冻结在空中的鲜艳旗帜，在白雪中显得绚丽。旗帜在寒风中毫不动摇、威武不屈的形象是将士的象征。这两句一动一静，相互映衬，画面生动，色彩鲜明。“轮台东门不君去，去时雪满天山路”，尽管依依不舍，毕竟是分手的时候了。“山回路转不见君，雪上空留马行处”，用平淡质朴的语言表现了将士们对战友的真挚感情，字字传神，含蓄隽永。这一部分描写了对友人惜别之情。这首诗，以奇丽多变的雪景，纵横矫健的笔力，开阖自如的结构，抑扬顿挫的韵律，准确、鲜明、生动地制造出奇中有丽、丽中有奇的美种意境，不仅写得声色宜，张弛有致，而且刚柔相间，急缓相济，是一首不可多得的边塞佳他。全诗不断变换着白雪画面，化景为情，慷慨悲壮，浑然雄劲。抒发了诗人对友人的依依惜别之情和因友人返京而产生的惆怅之情。鉴赏：此诗是一首咏雪送人之作。杜甫在《渼陂行》诗中说：“岑参兄弟皆好奇”。此诗就处处都体现出一个“奇”字。此诗开篇就奇突。未及白雪而先传风声，所谓“笔所未到气已吞”全是飞雪之精神。大雪必随刮风而来，“北风卷地”四字，妙在由风而见雪。“白草”，据《汉书·西域传》颜师古注，乃西北一种草名，王先谦补注谓其性至坚韧。然经霜草脆，故能断折（如为春草则随风俯仰不可“折”）。“白草折”又显出风来势猛。八月秋高，而北地已满天飞雪。“胡天八月即飞雪”，一个“即”字，维妙维肖地写出由南方来的人少见多怪的惊奇口吻。塞外苦寒，北风一吹，大雪纷飞。诗人以“春风”使梨花盛开，比拟“北风”使雪花飞舞，极为新颖贴切。“忽如”二字下得甚妙，不仅写出了“胡天”变幻无常，大雪来得急骤，而且，再次传出了诗人惊喜好奇的神情。“千树万树梨花开”的壮美意境，颇富有浪漫色彩。南方人见过梨花盛开的景象，那雪白的花不仅是一朵一朵，而且是一团一团，花团锦簇，压枝欲低，与雪压冬林的景象极为神似。春风吹来梨花开，竟至“千树万树”，重叠的修辞表现出景象的繁荣壮丽。“春雪满空来，触处似花开”（东方虬《春雪》），也以花喻雪，匠心略同，但无论豪情与奇趣都得让此诗三分。诗人将春景比冬景，尤其将南方春景比北国冬景，几使人忘记奇寒而内心感到喜悦与温暖，着想、造境俱称奇绝。要品评这咏雪之千古名句，恰有一个成语“妙手回春”。以写野外雪景作了漂亮的开端后，诗笔从帐外写到帐内。那片片飞“花”飘飘而来，穿帘入户，沾在幕帏上慢慢消融……“散入珠帘湿罗幕”一语承上启下，转换自然从容，体物入微。“白雪”的影响侵入室内，倘是南方，穿“狐裘”必发炸热，而此地“狐裘不暖”，连裹着软和的“锦衾”也只觉单薄。“一身能擘五雕弧”的边将，居然拉不开角弓；平素是“将军金甲夜不脱”，而此时是“都护铁衣冷难着”。二句兼都护（镇边都护府的长官）将军言之，互文见义。这四句，有人认为表现着边地将士苦寒生活，仅着眼这几句，谁说不是？但从“白雪歌”歌咏的主题而言，这主要是通过人和人的感受，通过种种在南来人视为反常的情事写天气的奇寒，写白雪的威力。这真是一支白雪的赞歌呢。通过人的感受写严寒，手法又具体真切，不流于抽象概念。诗人对奇寒津津乐道，使人不觉其苦，反觉冷得新鲜，寒得有趣。这又是诗人“好奇”个性的表现。场景再次移到帐外，而且延伸向广远的沙漠和辽阔的天空：浩瀚的沙海，冰雪遍地；雪压冬云，浓重稠密，虽暂停，但看来天气不会在短期内好转。“瀚海阑干百丈冰，愁云惨淡万里凝”，二句以夸张笔墨，气势磅礴地勾出瑰奇壮丽的沙塞雪景，又为“武判官归京”安排了一个典型的送别环境。如此酷寒恶劣的天气，长途跋涉将是艰辛的呢。“愁”字隐约对离别分手作了暗示。于是写到中军帐（主帅营帐）置酒饮别的情景。如果说以上主要是咏雪而渐有寄情，以下则正写送别而以白雪为背景。“胡琴琵琶与羌笛”句，并列三种乐器而不写音乐本身，颇似笨拙，但仍能间接传达一种急管繁弦的场面，以及“总是关山旧别情”的意味。这些边地之器乐，对于送者能触动乡愁，于送别之外别有一番滋味。写饯宴给读者印象深刻而落墨不多，这也表明作者根据题意在用笔上分了主次详略。送客送出军门，时已黄昏，又见大雪纷飞。这时看见一个奇异景象：尽管风刮得挺猛，辕门上的红旗却一动也不动──它已被冰雪冻结了。这一生动而反常的细节再次传神地写出天气奇寒。而那白雪为背景上的鲜红一点，那冷色基调的画面上的一星暖色，反衬得整个境界更洁白，更寒冷；那雪花乱飞的空中不动的物象，又衬得整个画面更加生动。这是诗中又一处精彩的奇笔。送客送到路口，这是轮台东门。尽管依依不舍，毕竟是分手的时候了。诗人心想：大雪封山，路可怎么走啊！路转峰回，行人消失在雪地里，诗人还在深情地目送。这最后的几句是极其动人的，成为此诗出色的结尾，与开篇悉称。结束处留下了很大的思索空间：看着“雪上空留”的马蹄迹，诗人在想些什么？是对行者难舍而生留恋，是为其“长路关山何时尽”而发愁，还是为自己归期未卜而惆怅？这里有悠悠不尽之情，形成了一个艺术空白，其意境与汉代古诗“步出城东门，遥望江南路。前日风雪中，故人从此去”名句差近，但用在诗的结处，效果更见佳妙。充满奇情妙思，是此诗主要的特色（这很能反映诗人创作个性）。作者用敏锐的观察力和感受力捕捉边塞奇观，笔力矫健，有大笔挥洒（如“瀚海”二句），有细节勾勒（如“风掣红旗冻不翻”），有真实生动的摹写，也有浪漫奇妙的想象（如“忽如”二句），再现了边地瑰丽的自然风光，充满浓郁的边地生活气息。全诗融合着强烈的主观感受，在歌咏自然风光的同时还表现了雪中送人的真挚情谊。诗情内涵丰富，意境鲜明独特，具有极强的艺术感染力。诗的语言明朗优美，又利用换韵与场景画面交替的配合，形成跌宕生姿的节奏旋律。诗中或二句一转韵，或四句一转韵，转韵时场景必更新：开篇入声起音陡促，与风狂雪猛画面配合；继而音韵轻柔舒缓，随即出现“春暖花开”的美景；以下又转沉滞紧涩，出现军中苦寒情事；……末四句渐入徐缓，画面上出现渐行渐远的马蹄印迹，使人低落不已。全诗音情配合极佳，当得“有声画”的称誉。",
+  "knowledge": ""
 }

@@ -2,7 +2,7 @@
   "name": "声声慢",
   "author": "李清照",
   "dynasty": "宋代",
-  "mode": "paragraph",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,125 +11,90 @@
             {
               "char": "寻",
               "pinyin": "xún",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "寻",
               "pinyin": "xún",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "觅",
               "pinyin": "mì",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "觅",
               "pinyin": "mì",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "冷",
               "pinyin": "lěng",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "冷",
               "pinyin": "lěng",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "清",
               "pinyin": "qīng",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "清",
               "pinyin": "qīng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "凄",
               "pinyin": "qī",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "凄",
               "pinyin": "qī",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "惨",
               "pinyin": "cǎn",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "惨",
               "pinyin": "cǎn",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "戚",
               "pinyin": "qī",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "戚",
               "pinyin": "qī",
-              "index": 15,
-              "read": false,
-              "write": true
+              "index": 15
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             }
           ],
           "translation": "苦苦寻觅，却只见冷冷清清，怎不让人凄惨悲戚。",
-          "pinyin": "xún xún mì mì ， lěng lěng qīng qīng ， qī qī cǎn cǎn qī qī 。",
           "notes": [
             {
               "start": 14,
@@ -143,90 +108,65 @@
             {
               "char": "乍",
               "pinyin": "zhà",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "暖",
               "pinyin": "nuǎn",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "还",
               "pinyin": "huán",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "寒",
               "pinyin": "hán",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "候",
               "pinyin": "hòu",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "最",
               "pinyin": "zuì",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "难",
               "pinyin": "nán",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "息",
               "pinyin": "xī",
-              "index": 27,
-              "read": true,
-              "write": true
+              "index": 27
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             }
           ],
           "translation": "秋天的天气，总是忽然变暖又转寒，最难休养调理。",
-          "pinyin": "zhà nuǎn huán hán shí hòu ， zuì nán jiāng xī 。",
           "notes": [
             {
               "start": 0,
@@ -238,18 +178,6 @@
               "end": 10,
               "content": "养息，休息。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 10,
-              "old": "调养休息"
-            },
-            {
-              "start": 7,
-              "end": 10,
-              "new": "即将停止、平息"
-            }
           ]
         },
         {
@@ -257,118 +185,85 @@
             {
               "char": "三",
               "pinyin": "sān",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "杯",
               "pinyin": "bēi",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "两",
               "pinyin": "liǎng",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "盏",
               "pinyin": "zhǎn",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "淡",
               "pinyin": "dàn",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "酒",
               "pinyin": "jiǔ",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "怎",
               "pinyin": "zěn",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "敌",
               "pinyin": "dí",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "他",
               "pinyin": "tā",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "、",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "晚",
               "pinyin": "wǎn",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "急",
               "pinyin": "jí",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             }
           ],
           "translation": "喝几杯淡酒，怎么能抵挡得住傍晚的寒风紧吹？",
-          "pinyin": "sān bēi liǎng zhǎn dàn jiǔ ， zěn dí tā 、 wǎn lái fēng jí ！",
           "notes": []
         },
         {
@@ -376,111 +271,80 @@
             {
               "char": "雁",
               "pinyin": "yàn",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "过",
               "pinyin": "guò",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "正",
               "pinyin": "zhèng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "伤",
               "pinyin": "shāng",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "却",
               "pinyin": "què",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "旧",
               "pinyin": "jiù",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "相",
               "pinyin": "xiāng",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "识",
               "pinyin": "shí",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             }
           ],
           "translation": "一行大雁从头顶上飞过，更让人伤心，竟然都是当年为我传递书信的旧相识。",
-          "pinyin": "yàn guò yě ， zhèng shāng xīn ， què shì jiù shí xiāng shí 。",
           "notes": []
         }
       ]
@@ -492,132 +356,95 @@
             {
               "char": "满",
               "pinyin": "mǎn",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "地",
               "pinyin": "dì",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "黄",
               "pinyin": "huáng",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "花",
               "pinyin": "huā",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "堆",
               "pinyin": "duī",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "积",
               "pinyin": "jī",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "憔",
               "pinyin": "qiáo",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "悴",
               "pinyin": "cuì",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "损",
               "pinyin": "sǔn",
-              "index": 69,
-              "read": true,
-              "write": true
+              "index": 69
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "今",
               "pinyin": "jīn",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "谁",
               "pinyin": "shuí",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "堪",
               "pinyin": "kān",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "摘",
               "pinyin": "zhāi",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             }
           ],
           "translation": "园中菊花堆积满地，唯独我因忧伤而憔悴瘦损，如今有谁可以摘取？",
-          "pinyin": "mǎn dì huáng huā duī jī ， qiáo cuì sǔn ， rú jīn yǒu shuí kān zhāi ？",
           "notes": [
             {
               "start": 2,
@@ -634,25 +461,6 @@
               "end": 15,
               "content": "可以，能够。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 9,
-              "old": "消瘦/凋零至极"
-            },
-            {
-              "start": 7,
-              "end": 9,
-              "new": "损失、减少"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 11,
-              "end": 16,
-              "content": "疑问句中宾语‘谁’前置，正常语序为‘堪摘谁’"
-            }
           ]
         },
         {
@@ -660,107 +468,70 @@
             {
               "char": "守",
               "pinyin": "shǒu",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "着",
               "pinyin": "zhe",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "窗",
               "pinyin": "chuāng",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "儿",
               "pinyin": "ér",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "独",
               "pinyin": "dú",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "怎",
               "pinyin": "zěn",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "黑",
               "pinyin": "hēi",
-              "index": 88,
-              "read": true,
-              "write": true
+              "index": 88
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             }
           ],
           "translation": "孤独地守在窗前，一个人怎样才能熬到天黑？",
-          "pinyin": "shǒu zhe chuāng ér ， dú zì zěn shēng dé hēi ？",
           "notes": [
             {
               "start": 7,
               "end": 10,
               "content": "怎样挨到天黑。怎生，怎么、怎样。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 10,
-              "old": "怎么熬到天黑"
-            },
-            {
-              "start": 5,
-              "end": 10,
-              "new": "如何产生黑色"
             }
           ]
         },
@@ -769,118 +540,85 @@
             {
               "char": "梧",
               "pinyin": "wú",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "桐",
               "pinyin": "tóng",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "更",
               "pinyin": "gèng",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "兼",
               "pinyin": "jiān",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "细",
               "pinyin": "xì",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "雨",
               "pinyin": "yǔ",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "到",
               "pinyin": "dào",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "黄",
               "pinyin": "huáng",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "昏",
               "pinyin": "hūn",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "、",
               "pinyin": "",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "点",
               "pinyin": "diǎn",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "点",
               "pinyin": "diǎn",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "滴",
               "pinyin": "dī",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "滴",
               "pinyin": "dī",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 105
             }
           ],
           "translation": "梧桐叶上细雨淋漓，到黄昏时分，那雨声还是点点滴滴。",
-          "pinyin": "wú tóng gèng jiān xì yǔ ， dào huáng hūn 、 diǎn diǎn dī dī 。",
           "notes": []
         },
         {
@@ -888,90 +626,65 @@
             {
               "char": "这",
               "pinyin": "zhè",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "次",
               "pinyin": "cì",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "第",
               "pinyin": "dì",
-              "index": 108,
-              "read": true,
-              "write": true
+              "index": 108
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "怎",
               "pinyin": "zěn",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "个",
               "pinyin": "gè",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "愁",
               "pinyin": "chóu",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "字",
               "pinyin": "zì",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "了",
-              "index": 115,
-              "read": false,
-              "write": false,
-              "pinyin": "liǎo"
+              "pinyin": "liǎo",
+              "index": 115
             },
             {
               "char": "得",
-              "index": 116,
-              "read": false,
-              "write": false,
-              "pinyin": "dé"
+              "pinyin": "dé",
+              "index": 116
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 117,
-              "read": false,
-              "write": false
+              "index": 117
             }
           ],
           "translation": "这般光景，一个“愁”字怎么能概括得尽！",
-          "pinyin": "zhè cì dì ， zěn yī gè chóu zì liǎo dé ！",
           "notes": [
             {
               "start": 1,
@@ -982,25 +695,6 @@
               "start": 4,
               "end": 10,
               "content": "意思是，一个“愁”字怎么能概括得尽呢？"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 2,
-              "old": "这情形"
-            },
-            {
-              "start": 0,
-              "end": 2,
-              "new": "次序、依次"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 4,
-              "end": 10,
-              "content": "反问句式，加强语气，强调愁绪之深重难言"
             }
           ]
         }
@@ -1013,5 +707,8 @@
     "背默"
   ],
   "background": "此词是李清照后期的作品，具体写作时间待考。有人认为作于南渡以后，正值金兵入侵，北宋灭亡，丈夫去世，一连串的打击使她尝尽了国破家亡、颠沛流离的苦痛，亡国之恨，丧夫之哀，孀居之苦，凝集心头，无法排遣，于是写下了这首《声声慢》。有人则认为是中年时期所作。",
-  "appreciation": "这首词通过描写残秋所见、所闻、所感，抒发词人因国破家亡、天涯沦落而产生的孤寂落寞、悲凉愁苦的心绪。此词在结构上打破上下片的局限，一气贯注，着意渲染愁情；如泣如诉，感人至深。开头连下十四个叠字，形象地抒写了词人孤独的心情；下文“点点滴滴”又前后照应，表现了她寂寞忧郁的情绪和动荡不安的心境。全词一字一泪，风格深沉凝重、哀婉凄苦，极富艺术感染力；它既是词人内心深处万千愁苦的反映，亦是时代与个人命运交织的悲歌。"
+  "appreciation": "这首词通过描写残秋所见、所闻、所感，抒发词人因国破家亡、天涯沦落而产生的孤寂落寞、悲凉愁苦的心绪。此词在结构上打破上下片的局限，一气贯注，着意渲染愁情；如泣如诉，感人至深。开头连下十四个叠字，形象地抒写了词人孤独的心情；下文“点点滴滴”又前后照应，表现了她寂寞忧郁的情绪和动荡不安的心境。全词一字一泪，风格深沉凝重、哀婉凄苦，极富艺术感染力；它既是词人内心深处万千愁苦的反映，亦是时代与个人命运交织的悲歌。",
+  "annotation": "寻寻觅觅：意谓想把失去的一切都找回来，表现非常空虚怅惘、迷茫失落的心态。凄凄惨惨戚戚：忧愁苦闷的样子。乍暖还（huán）寒：指秋天的天气，忽然变暖，又转寒冷。将息：旧时方言，休养调理之意。怎敌他：对付，抵挡。晚：一本作“晓”。损：表示程度很深。堪：可以，能够。怎生：怎样的。生：语助词。梧桐更兼细雨：暗用白居易《长恨歌》“秋雨梧桐叶落时”诗意。这次第：这光景、这情形。怎一个愁字了得：一个“愁”字怎么能概括得尽呢？",
+  "comprehensive_appreciation": "赏析：靖康之变后，李清照国破，家亡，夫死，伤于人事。这时期她的作品再没有当年那种清新可人，浅斟低唱，而转为沉郁凄婉，主要抒写她对亡夫赵明诚的怀念和自己孤单凄凉的景况。此词便是这时期的典型代表作品之一。这首词起句便不寻常，一连用七组叠词。不但在填词方面，即使在诗赋曲也绝无仅有。但好处不仅在此，这七组叠词还极富音乐美。宋词是用来演唱的，因此音调和谐是一个很重要的内容。李清照对音律有极深造诣，所以这七组叠词朗读起来，便有一种大珠小珠落玉盘的感觉。只觉齿舌音来回反复吟唱，徘徊低迷，婉转凄楚，有如听到一个伤心之极的人在低声倾诉，然而她还未开口就觉得已能使听众感觉到她的忧伤，而等她说完了，那种伤感的情绪还是没有散去。一种莫名其妙的愁绪在心头和空气中弥漫开来，久久不散，余味无穷。心情不好，再加上这种乍暖还寒天气，词人连觉也睡不着了。如果能沉沉睡去，那么还能在短暂的时间内逃离痛苦，可是越想入眠就越难以入眠，于是词人就很自然想起亡夫来。披衣起床，喝一点酒暖暖身子再说吧。可是寒冷是由于孤独引起的，而饮酒与品茶一样，独自一人只会觉得分外凄凉。端着一杯淡酒，而在这天暗云低，冷风正劲的时节，却突然听到孤雁的一声悲鸣，那种哀怨的声音直划破天际，也再次划破了词人未愈的伤口，头白鸳鸯失伴飞。词人感叹：唉，雁儿，你叫得这样凄凉幽怨，难道你也像我一样，老年失偶了吗？难道也像我一样，余生要独自一人面对万里层山，千山暮雪吗？胡思乱想之下，泪光迷蒙之中，蓦然觉得那只孤雁正是以前为自己传递情书的那一只。无可奈何花落去，似曾相识燕归来。旧日传情信使仍在，而秋娘与萧郎已死生相隔，人鬼殊途了，物是人非事事休，欲语泪先流。这一奇思妙想包含着无限无法诉说的哀愁。这时看见那些菊花，才发觉花儿再无当年那种“东篱把酒黄昏后，有暗香盈袖”的雅致了。词人想：以往丈夫在世时的日子多么美好，诗词唱和，整理古籍，可如今呢？只剩下自己一个人在受这无边无际的孤独的煎熬了。故物依然，人面全非。“旧时天气旧时衣，只有情怀，不得似往时。”独对着孤雁残菊，更感凄凉。手托香腮，珠泪盈眶。怕黄昏，捱白昼。对着这阴沉的天，一个人要怎样才能熬到黄昏的来临呢？漫长使孤独变得更加可怕。独自一人，连时间也觉得开始变慢起来。好不容易等到了黄昏，却又下起雨来。点点滴滴，淅淅沥沥的，无边丝雨细如愁，下得人心更烦了。再看到屋外那两棵梧桐，虽然在风雨中却互相扶持，互相依靠，两相对比，自己一个人要凄凉多了。急风骤雨，孤雁残菊梧桐，眼前的一切，使词人的哀怨重重叠叠，直至无以复加，不知怎样形容，也难以表达出来。于是词人再也不用什么对比，什么渲染，什么赋比兴了，直截了当地说：“这次第，怎一个愁字了得？”简单直白，反而更觉神妙，更有韵味，更堪咀嚼。相形之下，连李煜的“问君能有几多愁，恰似一江春水向东流”也稍觉失色。一江春水虽然无穷无尽，但毕竟还可形容得出。而词人的愁绪则非笔墨所能形容，自然稍胜一筹。前人评此词，多以开端三句用一连串叠字为其特色。但只注意这一层，不免失之皮相。词中写主人公一整天的愁苦心情，却从“寻寻觅觅”开始，可见她从一起床便百无聊赖，如有所失，于是东张西望，仿佛飘流在海洋中的人要抓到点什么才能得救似的，希望找到点什么来寄托自己的空虚寂寞。下文“冷冷清清”，是“寻寻觅觅”的结果，不但无所获，反被一种孤寂清冷的气氛袭来，使自己感到凄惨忧戚。于是紧接着再写了一句“凄凄惨惨戚戚”。仅此三句，一种由愁惨而凄厉的氛围已笼罩全篇，使读者不禁为之屏息凝神。这乃是百感迸发于中，不得不吐之为快，所谓“欲罢不能”的结果。“乍暖还寒时候”这一句也是此词的难点之一。此词作于秋天，但秋天的气候应该说“乍寒还暖”，只有早春天气才能用得上“乍暖还寒”。这是写一日之晨，而非写一季之候。秋日清晨，朝阳初出，故言“乍暖”；但晓寒犹重，秋风砭骨，故言“还寒”。至于“时候”二字，有人以为在古汉语中应解为“节候”；但柳永《永遇乐》云：“薰风解愠，昼景清和，新霁时候。”由阴雨而新霁，自属较短暂的时间，可见“时候”一词在宋时已与现代汉语无殊了。“最难将息”句则与上文“寻寻觅觅”句相呼应，说明从一清早自己就不知如何是好。下面的“三杯两盏淡酒，怎敌他晚来风急”，正与上文“乍暖还寒”相合。古人晨起于卯时饮酒，又称“扶头卯酒”。这里说用酒消愁是不抵事的。至于下文“雁过也”的“雁”，是南来秋雁，正是往昔在北方见到的，所以说“正伤心，却是旧时相识”了。《唐宋词选释》说：“雁未必相识，却云‘旧时相识’者，寄怀乡之意。赵嘏《寒塘》：‘乡心正无限，一雁度南楼。’词意近之。”上片从一个人寻觅无着，写到酒难浇愁；风送雁声，反而增加了思乡的惆怅。于是下片由秋日高空转入自家庭院。园中开满了菊花，秋意正浓。这里“满地黄花堆积”是指菊花盛开，而非残英满地。“憔悴损”是指自己因忧伤而憔悴瘦损，也不是指菊花枯萎凋谢。正由于自己无心看花，虽值菊堆满地，却不想去摘它赏它，这才是“如今有谁堪摘”的确解。然而人不摘花，花当自萎；及花已损，则欲摘已不堪摘了。这里既写出了自己无心摘花的郁闷，又透露了惜花将谢的情怀，笔意比唐人杜秋娘所唱的“有花堪折直须折，莫待无花空折枝”要深远多了。从“守著窗儿”以下，写独坐无聊，内心苦闷之状，比“寻寻觅觅”三句又进一层。“守著”句如依张惠言《词选》断句，以“独自”连上文。秦观（一作无名氏）《鹧鸪天》下片：“无一语，对芳樽，安排肠断到黄昏。甫能炙得灯儿了，雨打梨花深闭门”，与此词意境相近。但秦词从人对黄昏有思想准备方面着笔，李则从反面说，好像天有意不肯黑下来而使人尤为难过。“梧桐”两句不仅脱胎淮海，而且兼用温庭筠《更漏子》下片“梧桐树，三更雨，不道离情正苦；一叶叶，一声声，空阶滴到明”词意，把两种内容融而为一，笔更直而情更切。最后以“怎一个愁字了得”句作收，也是蹊径独辟之笔。自庾信以来，或言愁有千斛万斛，或言愁如江如海（分别见李煜、秦观词），总之是极言其多。这里却化多为少，只说自己思绪纷茫复杂，仅用一个“愁”字如何包括得尽。妙在又不说明于一个“愁”字之外更有什么心情，即戛然而止，仿佛不了了之。表面上有“欲说还休”之势，实际上已倾泻无遗，淋漓尽致了。这首词大气包举，别无枝蔓，相关情事逐一说来，却始终紧扣悲秋之意，深得六朝抒情小赋之神髓，而以接近口语的朴素清新的语言谱入新声，运用凄清的音乐性语言进行抒情，又却体现了倚声家的不假雕饰的本色，诚属个性独具的抒情名作。",
+  "knowledge": ""
 }

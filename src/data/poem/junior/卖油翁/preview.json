@@ -21,59 +21,36 @@
               "pinyin": "gōng"
             },
             {
-              "char": "尧",
+              "char": "善",
               "pinyin": "shàn"
             },
             {
-              "char": "咨",
-              "pinyin": "shè"
-            },
-            {
-              "char": "善",
-              "pinyin": "dāng"
-            },
-            {
               "char": "射",
-              "pinyin": "shì"
+              "pinyin": "shè"
             },
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "陈康肃公尧咨擅长射箭，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "陈康肃公：陈尧咨，谥号康肃，北宋官员。公，尊称。"
             },
             {
-              "start": 6,
-              "end": 7,
-              "note": "善射：擅长射箭。善，擅长。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
               "char": "当",
-              "pinyin": "wú"
+              "pinyin": "dāng"
             },
             {
               "char": "世",
-              "pinyin": "shuāng"
+              "pinyin": "shì"
             },
             {
               "char": "无",
-              "pinyin": "gōng"
+              "pinyin": "wú"
             },
             {
               "char": "双",
-              "pinyin": "yì"
+              "pinyin": "shuāng"
+            },
+            {
+              "char": " ",
+              "pinyin": "gōng"
             },
             {
               "char": "，",
@@ -81,27 +58,27 @@
             },
             {
               "char": "公",
-              "pinyin": "yǐ"
+              "pinyin": "yì"
             },
             {
               "char": "亦",
-              "pinyin": "cǐ"
+              "pinyin": "yǐ"
             },
             {
               "char": "以",
-              "pinyin": "zì"
+              "pinyin": "cǐ"
             },
             {
               "char": "此",
-              "pinyin": "jīn"
+              "pinyin": "zì"
             },
             {
               "char": "自",
-              "pinyin": "cháng"
+              "pinyin": "jīn"
             },
             {
               "char": "矜",
-              "pinyin": "shè"
+              "pinyin": "cháng"
             },
             {
               "char": "。",
@@ -109,135 +86,95 @@
             }
           ],
           "translation": {
-            "translation": "当世无人能比，他也因此自夸。"
+            "translation": "康肃公陈尧咨擅长射箭，当时世上没有第二个人能跟他相媲美，他也凭借这种本领而自夸。"
           },
-          "notes": [
-            {
-              "start": 7,
-              "end": 10,
-              "note": "自矜：自夸。矜，夸耀。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "尝",
-              "pinyin": "yú"
+              "pinyin": "shè"
             },
             {
               "char": "射",
-              "pinyin": "jiā"
+              "pinyin": "yú"
             },
             {
               "char": "于",
-              "pinyin": "pǔ"
+              "pinyin": "jiā"
             },
             {
               "char": "家",
-              "pinyin": "yǒu"
+              "pinyin": "pǔ"
             },
             {
               "char": "圃",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "有",
               "pinyin": "mài"
             },
             {
-              "char": "，",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "曾在自家园圃射箭，"
-          },
-          "notes": [
-            {
-              "start": 4,
-              "end": 5,
-              "note": "家圃：家中射箭的场地。圃，园子，这里指场地。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "有",
+              "char": "卖",
               "pinyin": "yóu"
             },
             {
-              "char": "卖",
+              "char": "油",
               "pinyin": "wēng"
             },
             {
-              "char": "油",
+              "char": "翁",
               "pinyin": "shì"
             },
             {
-              "char": "翁",
+              "char": "释",
               "pinyin": "dàn"
             },
             {
-              "char": "释",
+              "char": "担",
               "pinyin": "ér"
             },
             {
-              "char": "担",
+              "char": "而",
               "pinyin": "lì"
             },
             {
-              "char": "而",
-              "pinyin": "nì"
-            },
-            {
               "char": "立",
-              "pinyin": "zhī"
+              "pinyin": "nì"
             },
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "有个卖油老人放下担子站着，"
-          },
-          "notes": [
-            {
-              "start": 4,
-              "end": 5,
-              "note": "释担：放下担子。释，放下。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "睨",
-              "pinyin": "jiǔ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "睨：斜着眼看，形容不在意的样子。"
-                }
-              ]
+              "pinyin": "zhī"
             },
             {
               "char": "之",
-              "pinyin": "ér"
+              "pinyin": "jiǔ"
             },
             {
               "char": "久",
-              "pinyin": "bù"
+              "pinyin": "ér"
             },
             {
               "char": "而",
-              "pinyin": "qù"
+              "pinyin": "bù"
             },
             {
               "char": "不",
-              "pinyin": "jiàn"
+              "pinyin": "qù"
             },
             {
               "char": "去",
-              "pinyin": "qí"
+              "pinyin": "jiàn"
             },
             {
               "char": "。",
@@ -245,7 +182,7 @@
             }
           ],
           "translation": {
-            "translation": "斜着眼看他射箭，久久不离开。"
+            "translation": "曾经有一次，他在家里的场地射箭，有个卖油的老翁放下担子，站在那里不在意地看着他，很久都不离开。"
           },
           "notes": []
         },
@@ -253,63 +190,55 @@
           "sentence": [
             {
               "char": "见",
-              "pinyin": "fā"
+              "pinyin": "qí"
             },
             {
               "char": "其",
-              "pinyin": "shǐ"
+              "pinyin": "fā"
             },
             {
               "char": "发",
-              "pinyin": "shí"
+              "pinyin": "shǐ"
             },
             {
               "char": "矢",
-              "pinyin": "zhòng"
+              "pinyin": "shí"
             },
             {
               "char": "十",
-              "pinyin": "bā"
+              "pinyin": "zhòng"
             },
             {
               "char": "中",
-              "pinyin": "jiǔ"
+              "pinyin": "bā"
             },
             {
               "char": "八",
-              "pinyin": "dàn"
+              "pinyin": "jiǔ"
             },
             {
               "char": "九",
-              "pinyin": "wēi"
+              "pinyin": "dàn"
             },
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "见他射出十箭中八九箭，"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "但",
-              "pinyin": "hàn"
+              "pinyin": "wēi"
             },
             {
               "char": "微",
-              "pinyin": "zhī"
+              "pinyin": "hàn"
             },
             {
               "char": "颔",
-              "pinyin": "kāng"
+              "pinyin": "zhī"
             },
             {
               "char": "之",
-              "pinyin": "sù"
+              "pinyin": "kāng"
             },
             {
               "char": "。",
@@ -317,15 +246,9 @@
             }
           ],
           "translation": {
-            "translation": "只是微微点头。"
+            "translation": "卖油的老翁看他射十箭中了八九次，只是微微点头。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "但微颔之：只是微微点头（表示赞许）。但，只；颔，点头；之，代词，指射箭技艺。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -335,19 +258,19 @@
           "sentence": [
             {
               "char": "康",
-              "pinyin": "wèn"
+              "pinyin": "sù"
             },
             {
               "char": "肃",
-              "pinyin": "yuē"
+              "pinyin": "wèn"
             },
             {
               "char": "问",
-              "pinyin": "rǔ"
+              "pinyin": "yuē"
             },
             {
               "char": "曰",
-              "pinyin": "yì"
+              "pinyin": "rǔ"
             },
             {
               "char": "：",
@@ -359,23 +282,23 @@
             },
             {
               "char": "汝",
-              "pinyin": "zhī"
+              "pinyin": "yì"
             },
             {
               "char": "亦",
-              "pinyin": "shè"
+              "pinyin": "zhī"
             },
             {
               "char": "知",
-              "pinyin": "hū"
+              "pinyin": "shè"
             },
             {
               "char": "射",
-              "pinyin": "wú"
+              "pinyin": "hū"
             },
             {
               "char": "乎",
-              "pinyin": "shè"
+              "pinyin": "wú"
             },
             {
               "char": "？",
@@ -383,7 +306,7 @@
             }
           ],
           "translation": {
-            "translation": "康肃问道：“你也懂得射箭？"
+            "translation": "陈尧咨问卖油翁：“你也懂得射箭吗？"
           },
           "notes": []
         },
@@ -391,39 +314,39 @@
           "sentence": [
             {
               "char": "吾",
-              "pinyin": "bù"
+              "pinyin": "shè"
             },
             {
               "char": "射",
-              "pinyin": "yì"
+              "pinyin": "bù"
             },
             {
               "char": "不",
-              "pinyin": "jīng"
+              "pinyin": "yì"
             },
             {
               "char": "亦",
-              "pinyin": "hū"
+              "pinyin": "jīng"
             },
             {
               "char": "精",
-              "pinyin": "wēng"
+              "pinyin": "hū"
             },
             {
               "char": "乎",
-              "pinyin": "yuē"
+              "pinyin": "wēng"
             },
             {
               "char": "？",
               "pinyin": "　"
             },
             {
-              "char": "“",
+              "char": "”",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "我的箭术难道不精湛？“"
+            "translation": "我的箭法不高明吗？”"
           },
           "notes": []
         },
@@ -431,11 +354,11 @@
           "sentence": [
             {
               "char": "翁",
-              "pinyin": "wú"
+              "pinyin": "yuē"
             },
             {
               "char": "曰",
-              "pinyin": "tā"
+              "pinyin": "wú"
             },
             {
               "char": "：",
@@ -447,11 +370,11 @@
             },
             {
               "char": "无",
-              "pinyin": "dàn"
+              "pinyin": "tā"
             },
             {
               "char": "他",
-              "pinyin": "shǒu"
+              "pinyin": "dàn"
             },
             {
               "char": "，",
@@ -459,31 +382,31 @@
             },
             {
               "char": "但",
-              "pinyin": "shú"
+              "pinyin": "shǒu"
             },
             {
               "char": "手",
-              "pinyin": "ěr"
+              "pinyin": "shú"
             },
             {
               "char": "熟",
-              "pinyin": "kāng"
+              "pinyin": "ěr"
             },
             {
               "char": "尔",
-              "pinyin": "sù"
+              "pinyin": "kāng"
             },
             {
               "char": "。",
               "pinyin": "　"
             },
             {
-              "char": "“",
+              "char": "”",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "老人说：“没别的奥妙，只是手熟罢了。“"
+            "translation": "卖油的老翁说：“没有别的奥妙，不过是手法熟练罢了。”"
           },
           "notes": []
         },
@@ -491,23 +414,23 @@
           "sentence": [
             {
               "char": "康",
-              "pinyin": "fèn"
+              "pinyin": "sù"
             },
             {
               "char": "肃",
-              "pinyin": "rán"
+              "pinyin": "fèn"
             },
             {
               "char": "忿",
-              "pinyin": "yuē"
+              "pinyin": "rán"
             },
             {
               "char": "然",
-              "pinyin": "ěr"
+              "pinyin": "yuē"
             },
             {
               "char": "曰",
-              "pinyin": "ān"
+              "pinyin": "ěr"
             },
             {
               "char": "：",
@@ -519,58 +442,243 @@
             },
             {
               "char": "尔",
-              "pinyin": "gǎn"
+              "pinyin": "ān"
             },
             {
               "char": "安",
-              "pinyin": "qīng"
+              "pinyin": "gǎn"
             },
             {
               "char": "敢",
-              "pinyin": "wú"
+              "pinyin": "qīng"
             },
             {
               "char": "轻",
-              "pinyin": "shè"
+              "pinyin": "wú"
             },
             {
               "char": "吾",
-              "pinyin": "wēng"
+              "pinyin": "shè"
             },
             {
               "char": "射",
-              "pinyin": "yuē"
+              "pinyin": "wēng"
             },
             {
               "char": "！",
               "pinyin": "　"
             },
             {
-              "char": "“",
+              "char": "”",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "康肃恼怒道：“你怎敢轻视我的箭术！“"
+            "translation": "陈尧咨听后气愤地说：“你怎么敢看轻我射箭的本领！”"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "忿然：气愤的样子。然，词尾，表示状态。"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "note": "安敢轻：怎么敢轻视。安，怎么；轻，轻视。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "翁",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "曰",
               "pinyin": "yǐ"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "wǒ"
+            },
+            {
+              "char": "我",
+              "pinyin": "zhuó"
+            },
+            {
+              "char": "酌",
+              "pinyin": "yóu"
+            },
+            {
+              "char": "油",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "nǎi"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "老翁说：“凭我倒油的经验知道这个道理。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "乃",
+              "pinyin": "qǔ"
+            },
+            {
+              "char": "取",
+              "pinyin": "yī"
+            },
+            {
+              "char": "一",
+              "pinyin": "hú"
+            },
+            {
+              "char": "葫",
+              "pinyin": "lu"
+            },
+            {
+              "char": "芦",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "置",
+              "pinyin": "yú"
+            },
+            {
+              "char": "于",
+              "pinyin": "dì"
+            },
+            {
+              "char": "地",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "qián"
+            },
+            {
+              "char": "钱",
+              "pinyin": "fù"
+            },
+            {
+              "char": "覆",
+              "pinyin": "qí"
+            },
+            {
+              "char": "其",
+              "pinyin": "kǒu"
+            },
+            {
+              "char": "口",
+              "pinyin": "xú"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "徐",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "以",
+              "pinyin": "sháo"
+            },
+            {
+              "char": "杓",
+              "pinyin": "zhuó"
+            },
+            {
+              "char": "酌",
+              "pinyin": "yóu"
+            },
+            {
+              "char": "油",
+              "pinyin": "lì"
+            },
+            {
+              "char": "沥",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "zì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "自",
+              "pinyin": "qián"
+            },
+            {
+              "char": "钱",
+              "pinyin": "kǒng"
+            },
+            {
+              "char": "孔",
+              "pinyin": "rù"
+            },
+            {
+              "char": "入",
+              "pinyin": "ér"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "而",
+              "pinyin": "qián"
+            },
+            {
+              "char": "钱",
+              "pinyin": "bù"
+            },
+            {
+              "char": "不",
+              "pinyin": "shī"
+            },
+            {
+              "char": "湿",
+              "pinyin": "yīn"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "于是拿出一个葫芦放在地上，把一枚铜钱盖在葫芦口上，慢慢地用油杓舀油注入葫芦里，油从钱孔注入而钱却没有湿。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "因",
+              "pinyin": "yuē"
             },
             {
               "char": "曰",
@@ -585,48 +693,90 @@
               "pinyin": "　"
             },
             {
-              "char": "以",
-              "pinyin": "zhuó"
-            },
-            {
               "char": "我",
-              "pinyin": "yóu"
+              "pinyin": "yì"
             },
             {
-              "char": "酌",
-              "pinyin": "zhī"
+              "char": "亦",
+              "pinyin": "wú"
             },
             {
-              "char": "油",
-              "pinyin": "zhī"
+              "char": "无",
+              "pinyin": "tā"
             },
             {
-              "char": "知",
-              "pinyin": "nǎi"
+              "char": "他",
+              "pinyin": "wéi"
             },
             {
-              "char": "之",
-              "pinyin": "qǔ"
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "惟",
+              "pinyin": "shǒu"
+            },
+            {
+              "char": "手",
+              "pinyin": "shú"
+            },
+            {
+              "char": "熟",
+              "pinyin": "ěr"
+            },
+            {
+              "char": "尔",
+              "pinyin": "kāng"
             },
             {
               "char": "。",
               "pinyin": "　"
             },
             {
-              "char": "“",
+              "char": "”",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "老人说：“凭我倒油经验知道的。“"
+            "translation": "于是说：“我也没有别的奥妙，只不过是手法熟练罢了。”"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 4,
-              "end": 9,
-              "note": "以我酌油知之：凭我倒油（的经验）知道这个道理。酌，舀取；之，代词，指射箭凭手熟的道理。"
+              "char": "康",
+              "pinyin": "sù"
+            },
+            {
+              "char": "肃",
+              "pinyin": "xiào"
+            },
+            {
+              "char": "笑",
+              "pinyin": "ér"
+            },
+            {
+              "char": "而",
+              "pinyin": "qiǎn"
+            },
+            {
+              "char": "遣",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "之",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
             }
-          ]
+          ],
+          "translation": {
+            "translation": "陈尧咨笑着打发了他（卖油翁）。"
+          },
+          "notes": []
         }
       ]
     },
@@ -635,320 +785,110 @@
         {
           "sentence": [
             {
-              "char": "乃",
-              "pinyin": "yī"
-            },
-            {
-              "char": "取",
-              "pinyin": "hú"
-            },
-            {
-              "char": "一",
-              "pinyin": "lu"
-            },
-            {
-              "char": "葫",
-              "pinyin": "zhì"
-            },
-            {
-              "char": "芦",
-              "pinyin": "yú"
-            },
-            {
-              "char": "置",
-              "pinyin": "dì"
-            },
-            {
-              "char": "于",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "地",
-              "pinyin": "qián"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "就拿一个葫芦放在地上，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "乃取一葫芦：于是拿一个葫芦。乃，于是；葫芦，古代用来盛油的器具。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "以",
-              "pinyin": "fù"
-            },
-            {
-              "char": "钱",
-              "pinyin": "qí"
-            },
-            {
-              "char": "覆",
-              "pinyin": "kǒu"
-            },
-            {
-              "char": "其",
-              "pinyin": "xú"
-            },
-            {
-              "char": "口",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "用铜钱盖住葫芦口，"
-          },
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "note": "钱：铜钱，中间有方孔。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "徐",
-              "pinyin": "sháo"
-            },
-            {
-              "char": "以",
-              "pinyin": "zhuó"
-            },
-            {
-              "char": "杓",
-              "pinyin": "yóu"
-            },
-            {
-              "char": "酌",
-              "pinyin": "lì"
-            },
-            {
-              "char": "油",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "沥",
-              "pinyin": "zì"
-            },
-            {
-              "char": "之",
-              "pinyin": "qián"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "慢慢用勺子舀油注入，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "note": "徐以杓酌油沥之：慢慢地用勺子舀油注入葫芦。徐，慢慢地；杓，同“勺”；沥，注入；之，代葫芦。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "自",
-              "pinyin": "kǒng"
-            },
-            {
-              "char": "钱",
-              "pinyin": "rù"
-            },
-            {
-              "char": "孔",
-              "pinyin": "ér"
-            },
-            {
-              "char": "入",
-              "pinyin": "qián"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "而",
-              "pinyin": "bù"
-            },
-            {
-              "char": "钱",
-              "pinyin": "shī"
-            },
-            {
-              "char": "不",
-              "pinyin": "yīn"
-            },
-            {
-              "char": "湿",
-              "pinyin": "yuē"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "油从钱孔注入却没沾湿铜钱。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 8,
-              "note": "自钱孔入，而钱不湿：（油）从钱孔注入，但是钱没有湿。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "因",
-              "pinyin": "wǒ"
-            },
-            {
-              "char": "曰",
-              "pinyin": "yì"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "“",
-              "pinyin": "　"
-            },
-            {
-              "char": "我",
-              "pinyin": "wú"
-            },
-            {
-              "char": "亦",
-              "pinyin": "tā"
-            },
-            {
-              "char": "无",
-              "pinyin": "wéi"
-            },
-            {
-              "char": "他",
-              "pinyin": "shǒu"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "于是说：“我也没有别的奥妙，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "因曰：于是说。因，于是。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "惟",
-              "pinyin": "shú"
-            },
-            {
-              "char": "手",
-              "pinyin": "ěr"
-            },
-            {
-              "char": "熟",
-              "pinyin": "kāng"
-            },
-            {
-              "char": "尔",
-              "pinyin": "sù"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "“",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "只是手熟罢了。“"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "惟手熟尔：只是手熟罢了。惟，只；尔，同“耳”，罢了。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "康",
-              "pinyin": "xiào"
-            },
-            {
-              "char": "肃",
-              "pinyin": "ér"
-            },
-            {
-              "char": "笑",
-              "pinyin": "qiǎn"
-            },
-            {
-              "char": "而",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "遣",
-              "pinyin": "cǐ"
-            },
-            {
-              "char": "之",
+              "char": "此",
               "pinyin": "yǔ"
             },
             {
-              "char": "。",
+              "char": "与",
+              "pinyin": "zhuāng"
+            },
+            {
+              "char": "庄",
+              "pinyin": "shēng"
+            },
+            {
+              "char": "生",
+              "pinyin": "suǒ"
+            },
+            {
+              "char": "所",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "谓",
+              "pinyin": "jiě"
+            },
+            {
+              "char": "解",
+              "pinyin": "niú"
+            },
+            {
+              "char": "牛",
+              "pinyin": "zhuó"
+            },
+            {
+              "char": "斫",
+              "pinyin": "lún"
+            },
+            {
+              "char": "轮",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "者",
+              "pinyin": "hé"
+            },
+            {
+              "char": "何",
+              "pinyin": "yì"
+            },
+            {
+              "char": "异",
+              "pinyin": ""
+            },
+            {
+              "char": "？",
               "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "康肃笑着让他走了。"
+            "translation": "这与庄子所讲的庖丁解牛、轮扁斫轮的故事，有什么不同呢？"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 0,
-              "end": 5,
-              "note": "笑而遣之：笑着让他走了。遣，打发；之，代卖油翁。"
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "部",
+              "pinyin": ""
+            },
+            {
+              "char": "分",
+              "pinyin": ""
+            },
+            {
+              "char": "教",
+              "pinyin": ""
+            },
+            {
+              "char": "材",
+              "pinyin": ""
+            },
+            {
+              "char": "无",
+              "pinyin": ""
+            },
+            {
+              "char": "此",
+              "pinyin": ""
+            },
+            {
+              "char": "句",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
         }
       ]
     }

@@ -2,7 +2,7 @@
   "name": "答谢中书书",
   "author": "陶弘景",
   "dynasty": "南北朝",
-  "mode": "paragraph",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,879 +11,455 @@
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "川",
               "pinyin": "chuān",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "古",
               "pinyin": "gǔ",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "共",
               "pinyin": "gòng",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "谈",
               "pinyin": "tán",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             }
           ],
-          "translation": "山川景色的美丽，自古便是共同话题。",
-          "pinyin": "shān chuān zhī měi ， gǔ lái gòng tán 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "山川：山峦与河流，泛指自然山水景观。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "之：结构助词，相当于‘的’，连接‘山川’与‘美’。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "美：美景、美丽，此处指山水之美。"
-            },
-            {
-              "start": 5,
-              "end": 7,
-              "content": "古来：自古以来，强调时间久远。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "content": "共谈：共同谈论，说明此美景为世人所公认。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "山川景色的美丽，自古以来就是文人雅士共同谈赏的。"
+        },
         {
           "content": [
             {
               "char": "高",
               "pinyin": "gāo",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "峰",
               "pinyin": "fēng",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "清",
               "pinyin": "qīng",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "流",
               "pinyin": "liú",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 17,
-              "read": true,
-              "write": true
+              "index": 17
             },
             {
               "char": "底",
               "pinyin": "dǐ",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             }
           ],
-          "translation": "巍峨山峰耸入云端，清澈溪流直视水底。",
-          "pinyin": "gāo fēng rù yún ， qīng liú jiàn dǐ 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "高峰：高耸的山峰，形容山势险峻。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "入云：插入云霄，极言山高。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "清流：清澈的水流，突出水质洁净。"
-            },
-            {
-              "start": 7,
-              "end": 9,
-              "content": "见底：可以看见水底，形容水清且浅或极透明。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "巍峨的山峰耸入云端，明净的溪流清澈见底。"
+        },
         {
           "content": [
             {
               "char": "两",
               "pinyin": "liǎng",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "岸",
               "pinyin": "àn",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "石",
               "pinyin": "shí",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "壁",
               "pinyin": "bì",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "五",
               "pinyin": "wǔ",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "色",
               "pinyin": "sè",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "交",
               "pinyin": "jiāo",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
-              "char": "辉",
+              "char": "晖",
               "pinyin": "huī",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 29,
-              "read": false,
-              "write": true
+              "index": 29
             }
           ],
-          "translation": "两岸峭壁林立，五彩斑斓交相辉映。",
-          "pinyin": "liǎng àn shí bì ， wǔ sè jiāo huī 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "两岸：指溪流或江河两边的陆地。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "石壁：岩石构成的峭壁，突出地形特征。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "五色：青、赤、黄、白、黑等色彩，泛指颜色繁多。"
-            },
-            {
-              "start": 7,
-              "end": 9,
-              "content": "交辉：交相辉映，形容色彩斑斓、光影交错的景象。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "两岸的石壁色彩斑斓，交相辉映。"
+        },
         {
           "content": [
             {
               "char": "青",
               "pinyin": "qīng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "林",
               "pinyin": "lín",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "翠",
               "pinyin": "cuì",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "竹",
               "pinyin": "zhú",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "四",
               "pinyin": "sì",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "俱",
               "pinyin": "jù",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "备",
               "pinyin": "bèi",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             }
           ],
-          "translation": "青葱树林翠绿竹林，四季常存生机。",
-          "pinyin": "qīng lín cuì zhú ， sì shí jù bèi 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "青林：苍翠的树林，‘青’指深绿色。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "content": "翠竹：翠绿的竹子，‘翠’强调鲜亮的绿色。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "四时：四季，即春、夏、秋、冬。"
-            },
-            {
-              "start": 7,
-              "end": 9,
-              "content": "俱备：都具备，说明四季景色皆美且完整。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "青葱的树林，翠绿的竹子，四季长存。"
+        },
         {
           "content": [
             {
               "char": "晓",
               "pinyin": "xiǎo",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "雾",
               "pinyin": "wù",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "歇",
               "pinyin": "xiē",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 44,
-              "read": true,
-              "write": true
+              "index": 44
             },
             {
               "char": "猿",
               "pinyin": "yuán",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "鸟",
               "pinyin": "niǎo",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "乱",
               "pinyin": "luàn",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "鸣",
               "pinyin": "míng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 49,
-              "read": false,
-              "write": false
-            },
+              "index": 49
+            }
+          ],
+          "translation": "清晨的薄雾将要消散的时候，猿、鸟的叫声此起彼伏；"
+        },
+        {
+          "content": [
             {
               "char": "夕",
               "pinyin": "xī",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "颓",
               "pinyin": "tuí",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 54,
-              "read": false,
-              "write": true
+              "index": 54
             },
             {
               "char": "沉",
               "pinyin": "chén",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "鳞",
               "pinyin": "lín",
-              "index": 56,
-              "read": true,
-              "write": true
+              "index": 56
             },
             {
               "char": "竞",
               "pinyin": "jìng",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "跃",
               "pinyin": "yuè",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             }
           ],
-          "translation": "晨雾即将消散，猿猴飞鸟欢鸣；夕阳将要西沉，潜游鱼儿竞相跃出水面。",
-          "pinyin": "xiǎo wù jiāng xiē ， yuán niǎo luàn míng ； xī rì yù tuí ， chén lín jìng yuè 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "晓雾：清晨的雾气，点明时间。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "将歇：即将消散，‘歇’指停止、消失。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "猿鸟：猿猴与飞鸟，代表山林中的动物。"
-            },
-            {
-              "start": 7,
-              "end": 9,
-              "content": "乱鸣：杂乱地鸣叫，形容清晨生机勃勃的景象。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "夕阳：落山的太阳，表明傍晚时分。"
-            },
-            {
-              "start": 12,
-              "end": 14,
-              "content": "欲颓：将要落下，‘颓’本义为下坠，此处指日落。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "content": "沉鳞：潜游在水中的鱼，‘鳞’代指鱼。"
-            },
-            {
-              "start": 17,
-              "end": 19,
-              "content": "竞跃：争相跳跃，描绘鱼儿活跃的动态美。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 15,
-              "end": 16,
-              "old": "鱼"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "new": "鱼鳞"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "夕阳快要落山的时候，潜游在水中的鱼儿争相跳出水面。"
+        },
         {
           "content": [
             {
               "char": "实",
               "pinyin": "shí",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "界",
               "pinyin": "jiè",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 64,
-              "read": false,
-              "write": true
+              "index": 64
             },
             {
               "char": "仙",
               "pinyin": "xiān",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "都",
               "pinyin": "dū",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             }
           ],
-          "translation": "实是人间仙境。",
-          "pinyin": "shí shì yù jiè zhī xiān dū 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "实是：确实是，起强调作用。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "content": "欲界：佛教用语，指充满欲望的尘世，与‘仙都’对照。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "content": "仙都：神仙居住的地方，极言其美。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 2,
-              "end": 4,
-              "old": "人间、尘世（佛教概念）"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "new": "欲望的世界，常用于贬义"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "这里确实是人间仙境啊。"
+        },
         {
           "content": [
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "康",
               "pinyin": "kāng",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "乐",
               "pinyin": "lè",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "未",
               "pinyin": "wèi",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "复",
               "pinyin": "fù",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "与",
               "pinyin": "yù",
-              "index": 78,
-              "read": true,
-              "write": true
+              "index": 78
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "奇",
               "pinyin": "qí",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             }
           ],
-          "translation": "自谢灵运之后，再无人能欣赏这般奇景。",
-          "pinyin": "zì kāng lè yǐ lái ， wèi fù yǒu néng yǔ qí qí zhě 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "自：自从，表示时间起点。"
-            },
-            {
-              "start": 1,
-              "end": 3,
-              "content": "康乐：指谢灵运，南朝刘宋时著名山水诗人，袭封康乐公。"
-            },
-            {
-              "start": 3,
-              "end": 6,
-              "content": "以来：从那时起，表示时间延续至今。"
-            },
-            {
-              "start": 6,
-              "end": 8,
-              "content": "未复：再也没有。‘复’意为再、又。"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "content": "能与：能够欣赏、参与其中。‘与’读yù，意为参与、领略。"
-            },
-            {
-              "start": 11,
-              "end": 13,
-              "content": "其奇：这等奇妙的景色。‘其’代指前文所述美景。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "者：……的人，构成名词性短语。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 10,
-              "end": 10,
-              "old": "参与，欣赏"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "new": "和、跟"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 9,
-              "end": 14,
-              "content": "宾语前置：‘能与其奇者’中，‘其奇’为宾语，前置在介词‘与’之前，属文言常见结构。"
-            }
-          ]
+          "translation": "自从南朝的谢灵运以来，就再也没有人能够欣赏这种奇异的山水景色了。"
         }
       ]
     }
@@ -893,6 +469,9 @@
     "文言",
     "书信"
   ],
-  "background": "南朝梁武帝天监年间（502-519），陶弘景隐居句曲山。梁武帝屡召不出，遂以书信问政。此篇为回复中书谢徵的山水小品，时值佛教盛行，作者以道教视角描绘自然灵性，暗含对清修生活的坚守。",
-  "appreciation": "《答谢中书书》是一封书信。文章以感慨发端，言有高雅情怀的人才可能品味山川之美，将内心的感受与友人交流，是人生一大乐事，反映了作者娱情山水的思想。他正是将谢中书当作能够谈山论水的朋友，同时也期望与古往今来的高逸之士相比肩。此文称道江南山水之美，笔笼山川，纸纳四时，文辞清丽，堪称六朝山水小品名作。"
+  "background": "",
+  "appreciation": "《答谢中书书》是一封书信。文章以感慨发端，言有高雅情怀的人才可能品味山川之美，将内心的感受与友人交流，是人生一大乐事，反映了作者娱情山水的思想。他正是将谢中书当作能够谈山论水的朋友，同时也期望与古往今来的高逸之士相比肩。此文称道江南山水之美，笔笼山川，纸纳四时，文辞清丽，堪称六朝山水小品名作。",
+  "annotation": "答：回复。谢中书：即谢征（500—536），字玄度，南朝梁陈郡阳夏（今河南太康）人，曾任中书舍人。书：即书信，古人的书信又叫“尺牍”或“信札”，是一种应用性文体，多记事陈情。山川：山河。之：的。共谈：共同谈赏的。五色交晖：这里形容石壁色彩斑斓。五色，古代以青黄黑白赤为正色。交晖，指交相辉映。青林：青葱的树林。翠竹：翠绿的竹子。四时：四季。俱：都。歇：消散。乱：此起彼伏。夕日欲颓：太阳快要落山了。颓，坠落。沉鳞竞跃：潜游在水中的鱼争相跳出水面。沉鳞，潜游在水中的鱼。竞跃，竞相跳跃。实：确实，的确。欲界之仙都：即人间仙境。欲界，佛家语，佛教把世界分为欲界，色界、无色界。欲界是没有摆脱世俗的七情六欲的众生所处境界，即指人间。仙都，仙人生活在其中的美好世界。康乐：指南朝著名山水诗人谢灵运，他继承他祖父的爵位，被封为康乐公。是南朝文学家。复：又。与（yù）：参与，这里有欣赏领略之意。奇：指山水之奇异。",
+  "comprehensive_appreciation": "赏析：《答谢中书书》是作者寄给谢徵谈山水之美的一封信笺。全文结构巧妙，语言精奇。短短六十八字，即已集江南之美于一身，切切实实地道出了山川之自然美。抓住江南山林的特征，用简洁空灵的笔墨来写，这是《答谢中书书》突出的优点。“高峰入云”的磅礴气势在北方也能看到，但在同一个景观里，又相伴着“清流见底”直视无碍的澄澈之美，在北方就难以见到。写山林景色的瑰丽，作者只用了两组对偶句共十六个字，即“两岸石壁，五色交辉；青林翠竹，四时俱备”，已显得活脱精到，引人遐想。南宋人邓椿在他的《画继》里曾指出：“世徒知人之有神，而不知物之有神。”山林的“神”（本质特征），高明的作家艺术家总有独特的感受。陶弘景以形写神，在他笔下茅山中一年到头“青林翠竹”已使人欣悦不置，更有谁领略过，在清流两岸壁立千仞的高峰之上，常年色彩变幻莫测。这奇幻瑰丽的色彩，当然是大自然奥秘的生命之彩，它的奇情壮采和迷离多变的性格，作者用“五色交辉”来形容，可谓恰到好处。而如果用工笔刻镂，即使做到“情必极貌以写物，辞必穷力而追新”（《文心雕龙·明诗》），也难免拖沓板滞，存形而略神。多种色彩奇妙的调谐而又变动不居，正是山林的逸趣神韵所在，然而这却是最难着笔之处。陶弘景用视觉形象和动感都很强的“五色交辉”四字来点染，自会引起读者对绚烂的山林形象的种种联想与记忆，在记忆里呈现的奇伟与色彩因人而异，具有无比的丰富性。这种能激起读者审美活动的活脱笔触，可称“字外之奇”（萧衍《观钟繇书法十二意》）。陶弘景又是书法家，他与梁武帝萧衍讨论钟王书法的文字俱在（见萧衍《答陶弘景书》及陶弘景《与梁武帝启》），颇能显示他的艺术见解，这一点可存而不论。但陶弘景在书法艺术上讲究空间布白之美，和文学创作上用笔空灵是一致的。通过文字诱发读者的联想，虚实相生，形成字外的意境，让读者丰富的想象补充作者的艺术空白，正是此文成功之笔。写了茅山中一年四时之美后，作者又用两组并列对偶句写一日之美。“晓雾将歇，猿鸟乱鸣；夕日欲颓，沉鳞竞跃。”如果说写茅山一年四时之美是以静见动：静到能窥见大自然的奥秘，大自然生命之律动是通过“交辉”的色彩奉献给作家的，那么，茅山中一日之美则是以动见静：天刚麻麻亮，“晓雾将歇”，花叶上露珠还未照上太阳时，山林就开始了欢唱，“猿鸟乱鸣”。这“乱”字有声繁悦耳，使人迷惑，动人心魄的意思。而到了“夕日欲颓”、金乌西栖之后，鱼儿避开了“鹰嶙鹗视”的威胁，此际竞跃腾欢，尽情享受空气中弥漫的芳馨。总之，从早到晚，山林中正是由于猿的柔声啼唤，鸟的恣意鸣哄和鱼的欢腾竞跃而显得格外静谧幽美。从结构上看，《答谢中书书》从富有审美意味的两句开头，接着有两个不同时空层次的描写，以静见动，以动见静，写出了茅山美的性灵。至此出声赞叹：“实是欲界之仙都！”就是应有之笔。接着以反接收束全篇，深憾于自谢灵运以来竟无人妙赏此佳山水，一唱三叹，摇曳生姿，文章虽短而含蕴不尽。以骈文的主要特征来看，《答谢中书书》或许不是很严饬的。四四四四的句式对属虽工，但基本上不用典藻饰。音律上平节和仄节的交替，也不完全合律。但它好就好在骈散兼行，散文的疏宕流畅之美和骈文的整炼之美结合得很好。谋篇见巧思，用语清丽含蓄，诗化了意境。《答谢中书书》一文，反映了作者寓情山水的清高思想。南北朝是中国历史上最强黑暗的时期，因为各种矛盾非常尖锐，政局极度动荡，因此不少文人往往遁迹山林，旨图从自然美中去寻求精神上的慰藉和解脱，因而他们常在书信中描述山水，来表明自己之所好，并从而作为对友人的问候和安慰，这类作品虽然没有表现出多么积极进步的政治观点，但是却以其高超的艺术笔触，创作了具有相当高的美学价值的文学精品，至今仍然具有较高的鉴赏意义。",
+  "knowledge": "常考点\n1. 本文反映了作者什么思想？答：反映了作者娱情山水的思想。 \n\n2. 中心思想（表达的思想感情）答：本文表达了作者沉醉山水的愉悦之情和与古今知音共赏美景的得意之感。 \n\n3. 书是一种怎样的体裁？答：书即书信，是一种应用性文体，可具有文学性。 \n\n4. 文中提到的“康乐”指谁？作者举他有什么用意？答：“康乐”指谢灵运。说明能够欣赏领略山川之美的人很少。\n\n5. 找出文中的议论句，说说其作用。    答：最后一句。说明能够欣赏山水之美的人很少。    \n\n6. 文中描绘了哪些景物？请用一个短语来概括短文内容。答：峰、流、壁、林、竹、雾、猿、鸟、夕日、沉鳞等景物。短语是：欲界之仙都。\n\n7. “高峰入云，清流见底”表现了  山水相映  之美。\n\n8. “两岸石壁，五色交辉”表现了色彩配合之美。    \n\n9. “晓雾将歇，猿鸟乱鸣夕日欲颓，沉鳞竞跃”表现了晨昏变化之美。"
 }

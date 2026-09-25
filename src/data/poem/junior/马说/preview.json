@@ -54,40 +54,9 @@
             }
           ],
           "translation": {
-            "translation": "世上有了伯乐，然后才会有千里马。"
+            "translation": "世上先有伯乐，然后有千不马。"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "伯乐：相传为春秋时期善于相马的人，后泛指善于发现人才的人。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "note": "伯乐：古代善于识别千里马的人，比喻善于发现人才的人。"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "note": "千里马：能日行千里的骏马，比喻有才能的人。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "note": "伯乐：古代善于识别千里马的人，后比喻善于发现人才的人。"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "note": "千里马：能日行千里的骏马，比喻有才能的人。"
-            },
-            {
-              "start": 2,
-              "end": 3,
-              "note": "伯乐：相传为春秋时期善于相马的人，后泛指善于发现人才的人。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -145,7 +114,7 @@
             }
           ],
           "translation": {
-            "translation": "千里马经常有，可是伯乐却不经常有。"
+            "translation": "千不马经常有，但是伯乐不常有。"
           },
           "notes": []
         },
@@ -177,17 +146,7 @@
             },
             {
               "char": "祗",
-              "pinyin": "zhǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "祗：只、仅，表示限制，强调马的遭遇之悲。"
-                },
-                {
-                  "title": "注释",
-                  "content": "祗（zhǐ）：仅仅，只。注意与‘只’区别，此处为文言专用字。"
-                }
-              ]
+              "pinyin": "zhǐ"
             },
             {
               "char": "辱",
@@ -283,72 +242,71 @@
             }
           ],
           "translation": {
-            "translation": "所以即使有名贵的马，也只能在奴仆的手里受辱，和普通的马一同死在马槽里，不以千里马而著称。"
+            "translation": "因此虽然有名贵的马，辱只能在马夫的手不受到屈辱（或埋没），和普通的马一同死在马厩不，不能因日行千不喂闻名于世。"
           },
-          "notes": [
-            {
-              "start": 15,
-              "end": 16,
-              "note": "骈死：并列而死，指良马与普通马一同死于马厩，比喻人才被埋没。骈，两马并驾。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "note": "槽枥：马槽和马厩，代指饲养马匹的地方。槽，喂马的器具；枥，马厩。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "note": "祗辱：祗，同‘只’，仅仅；辱，受屈辱。指才德之士被埋没于低贱地位。"
-            },
-            {
-              "start": 16,
-              "end": 17,
-              "note": "骈死：骈，两马并驾，引申为并列、一同；骈死，指与普通马一同老死，比喻人才被埋没。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "note": "槽枥：马槽，代指马厩，指马生活的低贱环境。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "note": "骈死：并列而死，指与普通马一同老死，比喻人才被埋没。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "note": "骈死：并列而死，指马与普通马一同死于马槽边，比喻人才被埋没。"
-            },
-            {
-              "start": 18,
-              "end": 19,
-              "note": "槽枥：马槽，代指马厩，喂养马的地方。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
-              "char": "马",
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "祗",
               "pinyin": "mǎ"
             },
             {
-              "char": "之",
+              "char": " ",
               "pinyin": "zhī"
             },
             {
-              "char": "千",
+              "char": "同",
               "pinyin": "qiān"
             },
             {
-              "char": "里",
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "衹",
               "pinyin": "lǐ"
             },
             {
-              "char": "者",
+              "char": ")",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "日行千不的马，吃一顿有时能吃尽一石粮食。"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "马",
               "pinyin": "zhě"
+            },
+            {
+              "char": "之",
+              "pinyin": "yī"
+            },
+            {
+              "char": "千",
+              "pinyin": "shí"
+            },
+            {
+              "char": "里",
+              "pinyin": "huò"
+            },
+            {
+              "char": "者",
+              "pinyin": "jìn"
             },
             {
               "char": "，",
@@ -356,138 +314,31 @@
             },
             {
               "char": "一",
-              "pinyin": "yī"
-            },
-            {
-              "char": "食",
-              "pinyin": "shí"
-            },
-            {
-              "char": "或",
-              "pinyin": "huò"
-            },
-            {
-              "char": "尽",
-              "pinyin": "jìn"
-            },
-            {
-              "char": "粟",
               "pinyin": "sù"
             },
             {
-              "char": "一",
+              "char": "食",
               "pinyin": "yī"
             },
             {
-              "char": "石",
-              "pinyin": "dàn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "石：古代容量单位，十斗为一石。此处读dàn，非shí。"
-                },
-                {
-                  "title": "注释",
-                  "content": "石：古代容量单位，十斗为一石，此处读dàn。"
-                }
-              ]
+              "char": "或",
+              "pinyin": "dàn"
             },
             {
-              "char": "。",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "石：古代容量单位，十斗为一石，此处读shí（高中阶段一般不读dàn）。"
-                }
-              ]
-            }
-          ],
-          "translation": {
-            "translation": "日行千里的马，一顿有时能吃一石粮食。"
-          },
-          "notes": [
-            {
-              "start": 7,
-              "end": 13,
-              "note": "一食或尽粟一石：一顿饭有时能吃完一石粮食。石，古代容量单位，此处读dàn，约120斤，极言食量之大，以突出千里马的特质。"
-            },
-            {
-              "start": 8,
-              "end": 9,
-              "note": "一食或尽粟一石：一顿饭有时能吃完一石粮食。‘一食’指吃一顿的时间。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "食",
-              "pinyin": "sì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "食：通‘饲’，喂养。此处读sì，下文‘食也’‘食之’同此义。"
-                },
-                {
-                  "title": "注释",
-                  "content": "食：读sì，意为喂养，下文多处同。"
-                },
-                {
-                  "title": "注释",
-                  "content": "食（sì）：通‘饲’，喂养。注意与‘吃’义的‘食（shí）’区分。"
-                }
-              ]
-            },
-            {
-              "char": "马",
-              "pinyin": "mǎ"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "食：同上，读sì，指喂马的人不懂按其能力喂养。"
-                }
-              ]
-            },
-            {
-              "char": "知",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "能",
-              "pinyin": "néng"
-            },
-            {
-              "char": "千",
-              "pinyin": "qiān"
-            },
-            {
-              "char": "里",
-              "pinyin": "lǐ"
-            },
-            {
-              "char": "而",
-              "pinyin": "ér"
-            },
-            {
-              "char": "食",
+              "char": "尽",
               "pinyin": "sì"
             },
             {
-              "char": "也",
-              "pinyin": "yě"
+              "char": "粟",
+              "pinyin": "mǎ"
+            },
+            {
+              "char": "一",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "石",
+              "pinyin": "bù"
             },
             {
               "char": "。",
@@ -495,29 +346,83 @@
             }
           ],
           "translation": {
-            "translation": "喂马的人不知道它能日行千里而按普通马喂养。"
+            "translation": "喂千不马的人不知道它能日行千不喂像普通的马一样来喂养它。"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 0,
-              "end": 2,
-              "note": "食马者：食，读sì，通‘饲’，喂养；食马者，指养马的人，比喻不能识别人才的统治者。"
+              "char": "食",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "马",
+              "pinyin": "qí"
+            },
+            {
+              "char": "者",
+              "pinyin": "néng"
+            },
+            {
+              "char": "不",
+              "pinyin": "qiān"
+            },
+            {
+              "char": "知",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "其",
+              "pinyin": "ér"
+            },
+            {
+              "char": "能",
+              "pinyin": "sì"
+            },
+            {
+              "char": "千",
+              "pinyin": "yě"
+            },
+            {
+              "char": "里",
+              "pinyin": "shì"
+            },
+            {
+              "char": "而",
+              "pinyin": "mǎ"
+            },
+            {
+              "char": "食",
+              "pinyin": "yě"
+            },
+            {
+              "char": "也",
+              "pinyin": "suī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
             }
-          ]
+          ],
+          "translation": {
+            "translation": "这样的马，虽然有日行千不的能力，但吃不饱，力气不足，才能和优良的素质不能表现在外面。"
+          },
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "是",
-              "pinyin": "shì"
+              "pinyin": "yǒu"
             },
             {
               "char": "马",
-              "pinyin": "mǎ"
+              "pinyin": "qiān"
             },
             {
               "char": "也",
-              "pinyin": "yě"
+              "pinyin": "lǐ"
             },
             {
               "char": "，",
@@ -525,27 +430,27 @@
             },
             {
               "char": "虽",
-              "pinyin": "suī"
-            },
-            {
-              "char": "有",
-              "pinyin": "yǒu"
-            },
-            {
-              "char": "千",
-              "pinyin": "qiān"
-            },
-            {
-              "char": "里",
-              "pinyin": "lǐ"
-            },
-            {
-              "char": "之",
               "pinyin": "zhī"
             },
             {
-              "char": "能",
+              "char": "有",
               "pinyin": "néng"
+            },
+            {
+              "char": "千",
+              "pinyin": "shí"
+            },
+            {
+              "char": "里",
+              "pinyin": "bù"
+            },
+            {
+              "char": "之",
+              "pinyin": "bǎo"
+            },
+            {
+              "char": "能",
+              "pinyin": "lì"
             },
             {
               "char": "，",
@@ -553,15 +458,15 @@
             },
             {
               "char": "食",
-              "pinyin": "shí"
-            },
-            {
-              "char": "不",
               "pinyin": "bù"
             },
             {
+              "char": "不",
+              "pinyin": "zú"
+            },
+            {
               "char": "饱",
-              "pinyin": "bǎo"
+              "pinyin": "cái"
             },
             {
               "char": "，",
@@ -569,26 +474,6 @@
             },
             {
               "char": "力",
-              "pinyin": "lì"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "足",
-              "pinyin": "zú"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "才",
-              "pinyin": "cái"
-            },
-            {
-              "char": "美",
               "pinyin": "měi"
             },
             {
@@ -596,86 +481,72 @@
               "pinyin": "bù"
             },
             {
-              "char": "外",
+              "char": "足",
               "pinyin": "wài"
             },
             {
-              "char": "见",
-              "pinyin": "xiàn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "见：通‘现’，显露、表现。读xiàn，不读jiàn。"
-                },
-                {
-                  "title": "注释",
-                  "content": "见：通‘现’，显露，表现。才美不外见即才能无法表现出来。"
-                },
-                {
-                  "title": "注释",
-                  "content": "见（xiàn）：通‘现’，显现，表现出来。"
-                }
-              ]
+              "char": "，",
+              "pinyin": "　"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "这样的马，虽然有日行千里的能力，但吃不饱，力气不足，才能和优点不能显现出来。"
-          },
-          "notes": [
+              "char": "才",
+              "pinyin": "xiàn"
+            },
             {
-              "start": 19,
-              "end": 24,
-              "note": "才美不外见：才能和美貌不能显现出来。见，通‘现’，显露。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "且",
+              "char": "美",
               "pinyin": "qiě"
             },
             {
-              "char": "欲",
+              "char": "不",
               "pinyin": "yù"
             },
             {
-              "char": "与",
+              "char": "外",
               "pinyin": "yǔ"
             },
             {
-              "char": "常",
+              "char": "见",
               "pinyin": "cháng"
             },
             {
-              "char": "马",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "且",
               "pinyin": "mǎ"
             },
             {
-              "char": "等",
+              "char": "欲",
               "pinyin": "děng"
             },
             {
-              "char": "不",
-              "pinyin": "bù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "等：等同，一样。此处为动词，非现代‘等待’义。"
-                }
-              ]
+              "char": "与",
+              "pinyin": "bù"
             },
             {
-              "char": "可",
+              "char": "常",
               "pinyin": "kě"
             },
             {
-              "char": "得",
+              "char": "马",
               "pinyin": "dé"
+            },
+            {
+              "char": "等",
+              "pinyin": "ān"
+            },
+            {
+              "char": "不",
+              "pinyin": "qiú"
+            },
+            {
+              "char": "可",
+              "pinyin": "qí"
+            },
+            {
+              "char": "得",
+              "pinyin": "néng"
             },
             {
               "char": "，",
@@ -683,37 +554,31 @@
             },
             {
               "char": "安",
-              "pinyin": "ān",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "安：怎么，哪里。疑问代词，用于反问语气。"
-                }
-              ]
-            },
-            {
-              "char": "求",
-              "pinyin": "qiú"
-            },
-            {
-              "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "能",
-              "pinyin": "néng"
-            },
-            {
-              "char": "千",
               "pinyin": "qiān"
             },
             {
-              "char": "里",
+              "char": "求",
               "pinyin": "lǐ"
             },
             {
-              "char": "也",
+              "char": "其",
               "pinyin": "yě"
+            },
+            {
+              "char": "能",
+              "pinyin": "cè"
+            },
+            {
+              "char": "千",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "里",
+              "pinyin": "bù"
+            },
+            {
+              "char": "也",
+              "pinyin": "yǐ"
             },
             {
               "char": "？",
@@ -721,60 +586,39 @@
             }
           ],
           "translation": {
-            "translation": "想要和普通的马一样尚且办不到，怎么能要求它日行千里呢？"
+            "translation": "想要和普通的马一样尚且做不到，怎么能够要求它（日行）千不呢？"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 9,
-              "note": "且欲与常马等不可得：尚且想要和普通马一样都做不到。等，等同、一样。"
-            },
-            {
-              "start": 10,
-              "end": 16,
-              "note": "安求其能千里也：怎么要求它能日行千里呢？安，怎么、哪里，疑问副词。"
-            }
-          ]
-        },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
               "char": "策",
-              "pinyin": "cè",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "策：名词作动词，用马鞭驱赶，引申为驾驭、管理。"
-                },
-                {
-                  "title": "注释",
-                  "content": "策：动词，鞭打，引申为驾驭、管理。"
-                },
-                {
-                  "title": "注释",
-                  "content": "策：名词作动词，用马鞭驱赶，引申为驾驭。"
-                }
-              ]
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "以",
-              "pinyin": "yǐ"
-            },
-            {
-              "char": "其",
               "pinyin": "qí"
             },
             {
-              "char": "道",
+              "char": "之",
               "pinyin": "dào"
+            },
+            {
+              "char": "不",
+              "pinyin": "sì"
+            },
+            {
+              "char": "以",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "其",
+              "pinyin": "bù"
+            },
+            {
+              "char": "道",
+              "pinyin": "néng"
             },
             {
               "char": "，",
@@ -782,37 +626,31 @@
             },
             {
               "char": "食",
-              "pinyin": "sì"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "能",
-              "pinyin": "néng"
-            },
-            {
-              "char": "尽",
               "pinyin": "jìn"
             },
             {
-              "char": "其",
+              "char": "之",
               "pinyin": "qí"
             },
             {
+              "char": "不",
+              "pinyin": "cái"
+            },
+            {
+              "char": "能",
+              "pinyin": "míng"
+            },
+            {
+              "char": "尽",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "其",
+              "pinyin": "ér"
+            },
+            {
               "char": "材",
-              "pinyin": "cái",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "材：通‘才’，才能，指千里马的潜力。"
-                }
-              ]
+              "pinyin": "bù"
             },
             {
               "char": "，",
@@ -820,97 +658,59 @@
             },
             {
               "char": "鸣",
-              "pinyin": "míng"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "而",
-              "pinyin": "ér"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "能",
               "pinyin": "néng"
             },
             {
-              "char": "通",
+              "char": "之",
               "pinyin": "tōng"
             },
             {
-              "char": "其",
+              "char": "而",
               "pinyin": "qí"
             },
             {
-              "char": "意",
+              "char": "不",
               "pinyin": "yì"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "驱使它不按照正确的方法，喂养它不能使它充分发挥才能，听它嘶鸣却不能通晓它的意思。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "策：名词作动词，用鞭子打，鞭策。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "note": "道：正确的方法，指驾驭千里马的恰当方式。"
-            },
-            {
-              "start": 15,
-              "end": 23,
-              "note": "鸣之而不能通其意：（马）鸣叫，但（人）不能理解它的意思。之，助词，无实义；通其意，理解它的心意。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "执",
+              "char": "能",
               "pinyin": "zhí"
             },
             {
-              "char": "策",
-              "pinyin": "cè",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "策：名词，马鞭。与‘策之不以其道’呼应，体现对比。"
-                },
-                {
-                  "title": "注释",
-                  "content": "策：名词，马鞭，与前文动词用法形成对照。"
-                },
-                {
-                  "title": "注释",
-                  "content": "策：名词，马鞭。与前文‘策之’形成呼应，一动一静。"
-                }
-              ]
+              "char": "通",
+              "pinyin": "cè"
             },
             {
-              "char": "而",
+              "char": "其",
               "pinyin": "ér"
             },
             {
-              "char": "临",
+              "char": "意",
               "pinyin": "lín"
             },
             {
-              "char": "之",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "执",
               "pinyin": "zhī"
+            },
+            {
+              "char": "策",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "而",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "临",
+              "pinyin": "xià"
+            },
+            {
+              "char": "之",
+              "pinyin": "wú"
             },
             {
               "char": "，",
@@ -918,139 +718,123 @@
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "mǎ"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "tiān"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "天",
-              "pinyin": "xià"
+              "pinyin": "wū"
             },
             {
               "char": "下",
-              "pinyin": "wú"
+              "pinyin": "hū"
             },
             {
               "char": "无",
-              "pinyin": "mǎ"
+              "pinyin": "qí"
             },
             {
               "char": "马",
-              "pinyin": "wū"
+              "pinyin": "zhēn"
             },
             {
               "char": "！",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "hū"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "拿着鞭子对着它说：\"天下没有千里马！\""
+            "translation": "不按照驱使千不马的正确方法驱使它，喂养它却不能让他竭尽才能，使它日行千不的能力充分发挥出来，转千不马鸣叫，却不能通晓它的意思，拿着鞭子面对它，说：“天下没有千不马！”"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "执策而临之：拿着马鞭面对着它。临，面对，有居高临下之意，表现统治者的姿态。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "呜",
-              "pinyin": "qí"
+              "pinyin": "wú"
             },
             {
               "char": "呼",
-              "pinyin": "zhēn"
+              "pinyin": "mǎ"
             },
             {
               "char": "！",
               "pinyin": "　"
-            },
-            {
-              "char": "其",
-              "pinyin": "wú"
-            },
-            {
-              "char": "真",
-              "pinyin": "mǎ"
-            },
-            {
-              "char": "无",
-              "pinyin": "yé"
-            },
-            {
-              "char": "马",
-              "pinyin": "qí"
-            },
-            {
-              "char": "邪",
-              "pinyin": "zhēn"
-            },
-            {
-              "char": "？",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "邪：通‘耶’，表示疑问语气，相当于‘吗’。读yé，不读xié。"
-                },
-                {
-                  "title": "注释",
-                  "content": "邪：通‘耶’，表示疑问语气，相当于‘吗’。"
-                },
-                {
-                  "title": "注释",
-                  "content": "邪（yé）：通‘耶’，语气词，表示疑问或反问，相当于‘吗’。"
-                }
-              ]
             }
           ],
           "translation": {
-            "translation": "唉！难道真的没有千里马吗？"
+            "translation": "唉，难道真的没有千不马吗？"
           },
-          "notes": [
-            {
-              "start": 3,
-              "end": 8,
-              "note": "其真无马邪：难道真的没有千里马吗？邪，通‘耶’，表示疑问语气，相当于‘吗’。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "其",
-              "pinyin": "bù"
+              "pinyin": "yé"
             },
             {
               "char": "真",
+              "pinyin": "qí"
+            },
+            {
+              "char": "无",
+              "pinyin": "zhēn"
+            },
+            {
+              "char": "马",
+              "pinyin": "bù"
+            },
+            {
+              "char": "邪",
               "pinyin": "zhī"
             },
             {
-              "char": "不",
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "大概是真的不认识千不马吧！"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "其",
               "pinyin": "mǎ"
             },
             {
-              "char": "知",
+              "char": "真",
               "pinyin": "yě"
             },
             {
-              "char": "马"
+              "char": "不",
+              "pinyin": ""
             },
             {
-              "char": "也"
+              "char": "知",
+              "pinyin": ""
+            },
+            {
+              "char": "马",
+              "pinyin": ""
+            },
+            {
+              "char": "也",
+              "pinyin": ""
             },
             {
               "char": "！",
@@ -1058,15 +842,9 @@
             }
           ],
           "translation": {
-            "translation": "其实是他们真不识得千里马啊！"
+            "translation": ""
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "note": "其真不知马也：恐怕是他们真的不能识别千里马吧！其……也，表推测或感叹的固定结构。"
-            }
-          ]
+          "notes": []
         }
       ]
     }

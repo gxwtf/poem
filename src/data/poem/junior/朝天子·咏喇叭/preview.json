@@ -129,47 +129,59 @@
             "translation": "官船来往频繁乱如麻，全凭借你抬高名誉听位。"
           },
           "notes": []
-        },
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
-              "char": "(",
-              "pinyin": ""
-            },
-            {
-              "char": "唢",
+              "char": "军",
               "pinyin": "jūn"
             },
             {
-              "char": "呐",
+              "char": "听",
               "pinyin": "tīng"
             },
             {
-              "char": " ",
-              "pinyin": ""
-            },
-            {
-              "char": "一",
+              "char": "了",
               "pinyin": "le"
             },
             {
-              "char": "作",
+              "char": "军",
               "pinyin": "jūn"
             },
             {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "锁",
+              "char": "愁",
               "pinyin": "chóu"
             },
             {
-              "char": "呐",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "民",
               "pinyin": "mín"
             },
             {
-              "char": "；",
+              "char": "听",
+              "pinyin": "tīng"
+            },
+            {
+              "char": "了",
+              "pinyin": "le"
+            },
+            {
+              "char": "民",
+              "pinyin": "mín"
+            },
+            {
+              "char": "怕",
+              "pinyin": "pà"
+            },
+            {
+              "char": "。",
               "pinyin": "　"
             }
           ],
@@ -181,144 +193,40 @@
         {
           "sentence": [
             {
-              "char": "声",
-              "pinyin": "tīng"
-            },
-            {
-              "char": "价",
-              "pinyin": "le"
-            },
-            {
-              "char": " ",
-              "pinyin": ""
-            },
-            {
-              "char": "一",
-              "pinyin": "mín"
-            },
-            {
-              "char": "作",
-              "pinyin": "pà"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "身",
+              "char": "哪",
               "pinyin": "nǎ"
             },
             {
-              "char": "价",
+              "char": "里",
               "pinyin": "lǐ"
             },
             {
-              "char": ")",
-              "pinyin": ""
-            }
-          ],
-          "translation": {
-            "translation": "哪里会去辨别什么真和假？"
-          },
-          "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
-            {
-              "char": "军",
+              "char": "去",
               "pinyin": "qù"
             },
             {
-              "char": "听",
+              "char": "辨",
               "pinyin": "biàn"
             },
             {
-              "char": "了",
+              "char": "甚",
               "pinyin": "shén"
             },
             {
-              "char": "军",
+              "char": "么",
               "pinyin": "me"
             },
             {
-              "char": "愁",
+              "char": "真",
               "pinyin": "zhēn"
             },
             {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "民",
+              "char": "共",
               "pinyin": "gòng"
             },
             {
-              "char": "听",
-              "pinyin": "jiǎ"
-            },
-            {
-              "char": "了",
-              "pinyin": "yǎn"
-            },
-            {
-              "char": "民",
-              "pinyin": "jiàn"
-            },
-            {
-              "char": "怕",
-              "pinyin": "de"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": ""
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "哪",
-              "pinyin": "chuī"
-            },
-            {
-              "char": "里",
-              "pinyin": "fān"
-            },
-            {
-              "char": "去",
-              "pinyin": "le"
-            },
-            {
-              "char": "辨",
-              "pinyin": "zhè"
-            },
-            {
-              "char": "甚",
-              "pinyin": "jiā"
-            },
-            {
-              "char": "么",
-              "pinyin": "chuī"
-            },
-            {
-              "char": "真",
-              "pinyin": "shāng"
-            },
-            {
-              "char": "共",
-              "pinyin": "le"
-            },
-            {
               "char": "假",
-              "pinyin": "nà"
+              "pinyin": "jiǎ"
             },
             {
               "char": "？",
@@ -326,7 +234,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "哪里会去辨别什么真和假？"
           },
           "notes": []
         },
@@ -338,15 +246,15 @@
             },
             {
               "char": "甚",
-              "pinyin": "jiā"
+              "pinyin": "yǎn"
             },
             {
               "char": "么",
-              "pinyin": "zhǐ"
+              "pinyin": "jiàn"
             },
             {
               "char": " ",
-              "pinyin": ""
+              "pinyin": "de"
             },
             {
               "char": "同",
@@ -358,11 +266,11 @@
             },
             {
               "char": "什",
-              "pinyin": "de"
+              "pinyin": "fān"
             },
             {
               "char": "么",
-              "pinyin": "shuǐ"
+              "pinyin": "le"
             },
             {
               "char": ")",
@@ -370,7 +278,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "眼看着使有的跑家倾家荡产，有的跑家元气大伤，直吹得江水枯竭鹅飞跑，家破跑亡啊！"
           },
           "notes": []
         }
@@ -382,35 +290,35 @@
           "sentence": [
             {
               "char": "眼",
-              "pinyin": "jìn"
+              "pinyin": "zhè"
             },
             {
               "char": "见",
-              "pinyin": "é"
+              "pinyin": "jiā"
             },
             {
               "char": "的",
-              "pinyin": "fēi"
+              "pinyin": "chuī"
             },
             {
               "char": "吹",
-              "pinyin": "bà"
+              "pinyin": "shāng"
             },
             {
               "char": "翻",
-              "pinyin": ""
+              "pinyin": "le"
             },
             {
               "char": "了",
-              "pinyin": ""
+              "pinyin": "nà"
             },
             {
               "char": "这",
-              "pinyin": ""
+              "pinyin": "jiā"
             },
             {
               "char": "家",
-              "pinyin": ""
+              "pinyin": "zhǐ"
             },
             {
               "char": "，",
@@ -418,23 +326,23 @@
             },
             {
               "char": "吹",
-              "pinyin": ""
+              "pinyin": "chuī"
             },
             {
               "char": "伤",
-              "pinyin": ""
+              "pinyin": "de"
             },
             {
               "char": "了",
-              "pinyin": ""
+              "pinyin": "shuǐ"
             },
             {
               "char": "那",
-              "pinyin": ""
+              "pinyin": "jìn"
             },
             {
               "char": "家",
-              "pinyin": ""
+              "pinyin": "é"
             },
             {
               "char": "，",
@@ -442,11 +350,11 @@
             },
             {
               "char": "只",
-              "pinyin": ""
+              "pinyin": "fēi"
             },
             {
               "char": "吹",
-              "pinyin": ""
+              "pinyin": "bà"
             },
             {
               "char": "的",
@@ -478,7 +386,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "译文二喇叭锁呐呜呜哇哇，曲子很繁声音大。"
           },
           "notes": []
         }

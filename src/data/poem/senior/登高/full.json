@@ -11,118 +11,85 @@
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "急",
               "pinyin": "jí",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "高",
               "pinyin": "gāo",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "猿",
               "pinyin": "yuán",
-              "index": 4,
-              "read": true,
-              "write": false
+              "index": 4
             },
             {
               "char": "啸",
               "pinyin": "xiào",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "哀",
               "pinyin": "āi",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "渚",
               "pinyin": "zhǔ",
-              "index": 8,
-              "read": false,
-              "write": true
+              "index": 8
             },
             {
               "char": "清",
               "pinyin": "qīng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "沙",
               "pinyin": "shā",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "白",
               "pinyin": "bái",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "鸟",
               "pinyin": "niǎo",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "飞",
               "pinyin": "fēi",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "回",
               "pinyin": "huí",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
           "translation": "风急天高猿猴啼叫显得十分悲哀，水清沙白的河洲上有鸟儿在急风中飞舞盘旋。",
-          "pinyin": "fēng jí tiān gāo yuán xiào āi ， zhǔ qīng shā bái niǎo fēi huí 。",
           "notes": [
             {
               "start": 12,
@@ -140,118 +107,85 @@
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "边",
               "pinyin": "biān",
-              "index": 17,
-              "read": true,
-              "write": false
+              "index": 17
             },
             {
               "char": "落",
               "pinyin": "luò",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "木",
               "pinyin": "mù",
-              "index": 19,
-              "read": false,
-              "write": true
+              "index": 19
             },
             {
               "char": "萧",
               "pinyin": "xiāo",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "萧",
               "pinyin": "xiāo",
-              "index": 21,
-              "read": true,
-              "write": false
+              "index": 21
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "尽",
               "pinyin": "jìn",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "长",
               "pinyin": "cháng",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "江",
               "pinyin": "jiāng",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "滚",
               "pinyin": "gǔn",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "滚",
               "pinyin": "gǔn",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             }
           ],
           "translation": "无边无际的树木萧萧地飘下落叶，望不到头的长江水滚滚奔腾而来。",
-          "pinyin": "wú biān luò mù xiāo xiāo xià ， bù jìn cháng jiāng gǔn gǔn lái 。",
           "notes": [
             {
               "start": 2,
@@ -262,30 +196,6 @@
               "start": 4,
               "end": 5,
               "content": "草木摇落的声音。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 4,
-              "old": "树叶"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "new": "树木"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "无边落木萧萧下：主语‘落木’后置，正常语序为‘萧萧落木无边下’，但为诗歌倒装以协律。"
-            },
-            {
-              "start": 8,
-              "end": 15,
-              "content": "不尽长江滚滚来：状语‘滚滚’后置，正常语序为‘长江滚滚不尽来’，倒装以强调水流态势。"
             }
           ]
         }
@@ -298,118 +208,85 @@
             {
               "char": "万",
               "pinyin": "wàn",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "悲",
               "pinyin": "bēi",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "常",
               "pinyin": "cháng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "作",
               "pinyin": "zuò",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "客",
               "pinyin": "kè",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "百",
               "pinyin": "bǎi",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "多",
               "pinyin": "duō",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "病",
               "pinyin": "bìng",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "独",
               "pinyin": "dú",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "登",
               "pinyin": "dēng",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "台",
               "pinyin": "tái",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
           "translation": "悲对秋景感慨远离故乡长期漂泊，晚年疾病缠身今日独上高台。",
-          "pinyin": "wàn lǐ bēi qiū cháng zuò kè ， bǎi nián duō bìng dú dēng tái 。",
           "notes": [
             {
               "start": 0,
@@ -420,25 +297,6 @@
               "start": 8,
               "end": 9,
               "content": "这里借指晚年。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 5,
-              "end": 6,
-              "old": "寄居他乡"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "new": "做客人"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 7,
-              "content": "万里悲秋常作客：状语‘万里’前置，正常语序为‘常作客悲秋于万里’，倒装以突出空间遥远。"
             }
           ]
         }
@@ -451,118 +309,85 @@
             {
               "char": "艰",
               "pinyin": "jiān",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "难",
               "pinyin": "nán",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "苦",
               "pinyin": "kǔ",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "恨",
               "pinyin": "hèn",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "繁",
               "pinyin": "fán",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "霜",
               "pinyin": "shuāng",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "鬓",
               "pinyin": "bìn",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "潦",
               "pinyin": "liáo",
-              "index": 56,
-              "read": true,
-              "write": true
+              "index": 56
             },
             {
               "char": "倒",
               "pinyin": "dǎo",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "新",
               "pinyin": "xīn",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "停",
               "pinyin": "tíng",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "浊",
               "pinyin": "zhuó",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "酒",
               "pinyin": "jiǔ",
-              "index": 61,
-              "read": false,
-              "write": true
+              "index": 61
             },
             {
               "char": "杯",
               "pinyin": "bēi",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             }
           ],
-          "translation": "艰难至极，愁苦繁多，苍白鬓发如霜雪；生活潦倒失意，刚停下手里装着浊酒的酒杯。",
-          "pinyin": "jiān nán kǔ hèn fán shuāng bìn ， liáo dǎo xīn tíng zhuó jiǔ bēi 。",
+          "translation": "艰难至极，愁苦繁多，苍白鬓发如霜雪；",
           "notes": [
             {
               "start": 0,
@@ -579,28 +404,6 @@
               "end": 11,
               "content": "刚刚停止。杜甫晚年因病戒酒，所以说“新停”。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 4,
-              "old": "极度遗憾"
-            },
-            {
-              "start": 3,
-              "end": 4,
-              "new": "痛苦怨恨"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "old": "颓丧失意"
-            },
-            {
-              "start": 8,
-              "end": 10,
-              "new": "行为不检"
-            }
           ]
         }
       ]
@@ -613,5 +416,8 @@
     "七律"
   ],
   "background": "此诗作于公元767年（唐代宗大历二年）秋天，杜甫时在夔州(今重庆市奉节县)。这是他在五十六岁时写下的。一天他独自登上夔州白帝城外的高台，登高临眺，萧瑟的秋江景色，引发了他身世飘零的感慨，渗入了他老病孤愁的悲哀。于是，就有了这首被誉为“七律之冠”的《登高》。",
-  "appreciation": "此诗前四句写景，述登高见闻，紧扣秋天的季节特色，描绘了江边空旷寂寥的景致。后四句抒情，写登高所感，诗人围绕自己的身世遭遇，抒发了他穷困潦倒、年老多病、流寓他乡的悲哀之情。他将个人身世之悲、抑郁不得志之苦融于悲凉的秋景之中，极尽沉郁顿挫。全诗语言精练，通篇对偶，一二句尚有句中对，充分展现出杜甫晚年对诗歌语言声律的精妙掌握。"
+  "appreciation": "此诗前四句写景，述登高见闻，紧扣秋天的季节特色，描绘了江边空旷寂寥的景致。后四句抒情，写登高所感，诗人围绕自己的身世遭遇，抒发了他穷困潦倒、年老多病、流寓他乡的悲哀之情。他将个人身世之悲、抑郁不得志之苦融于悲凉的秋景之中，极尽沉郁顿挫。全诗语言精练，通篇对偶，一二句尚有句中对，充分展现出杜甫晚年对诗歌语言声律的精妙掌握。",
+  "annotation": "诗题一作《九日登高》。古代农历九月九日有登高习俗。选自《杜诗详注》。作于唐代宗大历二年（767）秋天的重阳节。猿啸哀：猿凄厉的叫声。《水经注·江水》引民谣云：“巴东三峡巫峡长，猿鸣三声泪沾裳。”渚(zhǔ)：水中的小洲；水中的小块陆地。鸟飞回：鸟在急风中飞舞盘旋。回：回旋。落木：指秋天飘落的树叶。萧萧：模拟草木飘落的声音。万里：指远离故乡。常作客：长期漂泊他乡。百年：犹言一生，这里借指晚年。艰难：兼指国运和自身命运。苦恨：极恨，极其遗憾。苦，极。繁霜鬓：像浓霜一样的鬓发。潦倒：衰颓，失意。这里指衰老多病，志不得伸。新停：刚刚停止。重阳登高，按惯例应当喝酒。可杜甫晚年因肺病戒酒，所以说“新停”。",
+  "comprehensive_appreciation": "赏析：杜甫的《看高》总体上给人一种融瑟荒凉之感，情景交融之中，融情于景，将个人身世之悲、抑景不得志之苦融于悲凉的秋景之中，极尽沉景顿挫之能事，使人读来，感伤之情喷涌而景，如火山爆发而一发不可收拾。如一般诗篇，《看高》首联写景，开门见山，渲染悲凉气氛。诗中如是写到：风急天高猿啸哀，渚清沙白鸟飞回。这两句都是动静结合，寓静于动中构造了一幅以冷色调着墨的绝妙的水墨画。“风急天高猿啸哀”，一个“急”，一个“哀”字非常有代入感，使人立马进入作者所营造的令人忧伤的情地里不可自拔。接着，苦闷情绪溢满于胸，无处排遣，诗人将其浓缩寄托于鸟的处地下，这样写道：渚清沙白鸟飞回，它构造的是一幅冷淡惨白的画面，“渚”是“清”的，“沙”是“白”的，“鸟”是“飞回”的，在一片融瑟肃杀的荒无人烟的“渚沙”之中飞舞盘旋，可见其孤独，不禁令人想起“绕树三匝，何枝可依”的凄凉感，悲哀之情油然而生。而从整幅画的构造视角来说，这是一幅描画天地之一处的视野较窄的微观水墨画。颔联集中表现了夔州秋天的典型特征。诗人仰望茫无边际、融融而下的木叶，俯视奔流不息、滚滚而来的江水，在写景的同时，便深沉地抒发了自己的情怀。“无边”“不尽”，使“融融”“滚滚”更加形象化，不仅使人联想到落木窸窣之声，长江汹涌之状，也无形中传达景韶光易逝，壮志难酬的感怆。透过沉景悲凉的对句，显示景神入化之笔力，确有“建瓴走坂”、“百川东注”的磅礴气势。前人把它誉为“古今独步”的“句中化地”，是有道理的。最后，颈联和尾联的视角回归微观，回到诗人个人身上。颈联如是说到：万里悲秋常作客，百年多病独看台。“悲秋”已让人黯然神伤，“万里悲秋”更是让人凄怆不已。一个“常”字更是道景“万里悲秋”时常与我相伴，悲哀感之强烈浓重，令人心神寂寥，无可排遣。若从字面义来理解，“万里悲秋”时常常客居他乡，诗人不应是孤独的，而是有人陪伴的，所以与下一句“独看台”产生矛盾。实则不然，且看诗人用字便知。从一般用法来说，“作”连接抽象的事物，如作难、作废、作别，而“做”连接的都是能在实际生活中感知到的具体事物，如做作业、做工、做衣服。“客”本是实际能感知到的具体事物，一般指“人”，诗人在这里用了“作”，不用“做”，令人疑惑，细细想来，是诗人用词巧妙之处。“万里悲秋”是抽象的事物，寄托诗人感伤情绪之景物是会令人心生孤独悲伤之感的景色，不是实际生活中具体的事物，故不用“做”，而用“作”。达到的效果是加深悲秋之感，更强烈浓重，只有“万里悲秋”与我相伴，我只能“独看台”，独在异乡的孤独惆怅感与深秋景色之荒凉凄冷水乳交融，达到景神入化的地界，寄托诗人悲秋伤己的伤感情怀。诗人由秋及人，有感而发，写自己年老多病，拖着残躯独自看上高台，那种异乡怀人的情感喷薄而景，心中苦闷跃然纸上。尾联“艰难苦恨繁霜鬓，潦倒新停浊酒杯”，连用四个字“艰”“难”“苦”“恨”，组合在一起，极尽笔墨突景诗人内心的痛苦和景闷程度之深，愁肠百结，愁绪万千，以致于白了头发，伤了身体，失了流年，壮志未酬身先老，悲秋之情，愁苦之绪，绵延不绝，令人哀悸。诗前半写景，后半抒情，在写法上各有错综之妙。首联着重刻画眼前具体景物，好比画家的工笔，形、声、色、态，一一得到表现。次联着重渲染整个秋天气氛，好比画家的写意，只宜传神会意，让读者用想象补充。三联表现感情，从纵（时间）、横（空间）两方面着笔，由异乡飘泊写到多病残生。四联又从白发日多，护病断饮，归结到时世艰难是潦倒不堪的根源。这样，杜甫忧国伤时的情操，便跃然纸上。此诗八句皆对。粗略一看，首尾好像“未尝有对”，胸腹好象“无意于对”。仔细玩味，“一篇之中，句句皆律，一句之中，字字皆律”。不只“全篇可法”，而且“用句用字”，“皆古今人必不敢道，决不能道者”。它能博得“旷代之作”（均见胡应麟《诗薮》）的盛誉，就是理所当然的了。",
+  "knowledge": ""
 }

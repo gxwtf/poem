@@ -1,8 +1,8 @@
 {
   "name": "满江红·小住京华",
   "author": "秋瑾",
-  "dynasty": "近代",
-  "mode": "paragraph",
+  "dynasty": "近现代",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,498 +11,305 @@
             {
               "char": "小",
               "pinyin": "xiǎo",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "住",
               "pinyin": "zhù",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "京",
               "pinyin": "jīng",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "华",
               "pinyin": "huá",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "早",
               "pinyin": "zǎo",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "又",
               "pinyin": "yòu",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "佳",
               "pinyin": "jiā",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "节",
               "pinyin": "jié",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             }
           ],
-          "translation": "短暂居住在北京，转眼又是中秋佳节。",
-          "pinyin": "xiǎo zhù jīng huá ， zǎo yòu shì zhōng qiū jiā jié 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "content": "京华：指京城，此处特指北京，带有文化与政治中心的意味。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "我在北京小住了一段时间，转眼间就又到了中秋佳节。"
+        },
         {
           "content": [
             {
               "char": "为",
               "pinyin": "wèi",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "篱",
               "pinyin": "lí",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 16
             },
             {
               "char": "黄",
               "pinyin": "huáng",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "花",
               "pinyin": "huā",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "开",
               "pinyin": "kāi",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "遍",
               "pinyin": "biàn",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "秋",
               "pinyin": "qiū",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "容",
               "pinyin": "róng",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "拭",
               "pinyin": "shì",
-              "index": 24,
-              "read": true,
-              "write": true
+              "index": 25
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 26
             }
           ],
-          "translation": "因为篱笆下的菊花已经开遍，秋天的容颜如洗过般清朗。",
-          "pinyin": "wèi lí xià huáng huā kāi biàn ， qiū róng rú shì 。",
-          "notes": [
-            {
-              "start": 11,
-              "end": 11,
-              "content": "拭：擦拭，形容秋色明净如刚被擦洗过，比喻手法生动。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "篱笆下的菊花都已盛开，秋色明净，就像刚刚擦洗过一般。"
+        },
         {
           "content": [
             {
               "char": "四",
               "pinyin": "sì",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "面",
               "pinyin": "miàn",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "歌",
               "pinyin": "gē",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "残",
               "pinyin": "cán",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "终",
               "pinyin": "zhōng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "破",
               "pinyin": "pò",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "楚",
               "pinyin": "chǔ",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "八",
               "pinyin": "bā",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "风",
               "pinyin": "fēng",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "味",
               "pinyin": "wèi",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "徒",
               "pinyin": "tú",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "思",
               "pinyin": "sī",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "浙",
               "pinyin": "zhè",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 42
             }
           ],
-          "translation": "四面楚歌终于破灭（比喻处境艰难），八年来徒然思念浙江的风味。",
-          "pinyin": "sì miàn gē cán zhōng pò chǔ ， bā nián fēng wèi tú sī zhè 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 6,
-              "content": "四面歌残终破楚：典出‘四面楚歌’，比喻国家危亡、孤立无援的境地。"
-            },
-            {
-              "start": 9,
-              "end": 11,
-              "content": "八味风尘：比喻多年漂泊生活的辛酸苦辣，‘风尘’指旅途或宦游艰辛。"
-            },
-            {
-              "start": 13,
-              "end": 14,
-              "content": "徒思浙：空有思念故乡浙江之情，‘徒’表示无奈与徒劳。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 2,
-              "end": 6,
-              "content": "‘四面歌残终破楚’为典故压缩句，省略主谓结构，属文言典型省略句式。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "四面歌声渐歇，我也终如汉之破楚突破了家庭的牢笼，八年来空想着故乡浙江的风味。"
+        },
         {
           "content": [
             {
               "char": "苦",
               "pinyin": "kǔ",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "侬",
               "pinyin": "nóng",
-              "index": 44,
-              "read": true,
-              "write": true
+              "index": 45
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 46
             },
             {
               "char": "强",
               "pinyin": "qiáng",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "派",
               "pinyin": "pài",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "作",
               "pinyin": "zuò",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "蛾",
               "pinyin": "é",
-              "index": 48,
-              "read": false,
-              "write": true
+              "index": 50
             },
             {
               "char": "眉",
               "pinyin": "méi",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "殊",
               "pinyin": "shū",
-              "index": 51,
-              "read": true,
-              "write": true
+              "index": 53
             },
             {
               "char": "未",
               "pinyin": "wèi",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "屑",
               "pinyin": "xiè",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 56
             }
           ],
-          "translation": "痛苦地将我强行安排为女子，实在不屑！",
-          "pinyin": "kǔ jiāng nóng qiáng pài zuò é méi ， shū wèi xiè ！",
-          "notes": [
-            {
-              "start": 2,
-              "end": 2,
-              "content": "侬：我，吴语方言中第一人称代词，在诗词中保留使用。"
-            },
-            {
-              "start": 6,
-              "end": 8,
-              "content": "蛾眉：原指女子细长的眉毛，此处借指传统女性形象，象征性别束缚。"
-            },
-            {
-              "start": 9,
-              "end": 11,
-              "content": "殊未屑：根本不屑，表达对被迫扮演女性角色的强烈反感。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 2,
-              "end": 2,
-              "old": "我"
-            },
-            {
-              "start": 2,
-              "end": 2,
-              "new": "你"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "old": "女子、美女"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "new": "昆虫的触须或女性眉毛"
-            }
-          ]
+          "translation": "他们苦苦地想让我做一个贵妇人，其实，我是多么的不屑啊！"
         }
       ]
     },
@@ -513,485 +320,315 @@
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "男",
               "pinyin": "nán",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "儿",
               "pinyin": "ér",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "列",
               "pinyin": "liè",
-              "index": 61,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "；",
-              "pinyin": "",
-              "index": 62,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "心",
-              "pinyin": "xīn",
-              "index": 63,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "却",
-              "pinyin": "què",
-              "index": 64,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "比",
-              "pinyin": "bǐ",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 64
+            },
+            {
+              "char": "心",
+              "pinyin": "xīn",
+              "index": 65
+            },
+            {
+              "char": "却",
+              "pinyin": "què",
+              "index": 66
+            },
+            {
+              "char": "比",
+              "pinyin": "bǐ",
+              "index": 67
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 68
             },
             {
               "char": "男",
               "pinyin": "nán",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "儿",
               "pinyin": "ér",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "烈",
               "pinyin": "liè",
-              "index": 69,
-              "read": true,
-              "write": true
+              "index": 71
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 72
             }
           ],
-          "translation": "身体不能，进入男儿的行列；心却比，男儿还要刚烈。",
-          "pinyin": "shēn bù dé ， nán ér liè ； xīn què bǐ ， nán ér liè 。",
-          "notes": [
-            {
-              "start": 14,
-              "end": 14,
-              "content": "烈：刚烈、激烈，形容志向与情感超越一般男子，突出豪情。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 3,
-              "end": 7,
-              "content": "‘身不得，男儿列’为省略与倒装句，正常语序应为‘不得列于男儿’，属宾语前置结构。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "今生我虽然身子不在男儿的行列，但是我的心，要比男子的心还要刚烈。"
+        },
         {
           "content": [
             {
               "char": "算",
               "pinyin": "suàn",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "平",
               "pinyin": "píng",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "肝",
               "pinyin": "gān",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "胆",
               "pinyin": "dǎn",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "因",
               "pinyin": "yīn",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "常",
               "pinyin": "cháng",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "热",
               "pinyin": "rè",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 83
             }
           ],
-          "translation": "算来平生的肝胆，因为人而常常热血沸腾。",
-          "pinyin": "suàn píng shēng gān dǎn ， yīn rén cháng rè 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 10,
-              "content": "因人常热：出自‘肝胆因人常热’，意为因关心他人、家国而内心炽热。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 6,
-              "end": 10,
-              "content": "‘因人常热’为介宾结构后置，完整表达应为‘常因人为热’，属状语后置句。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "想想平日，我的一颗心，常为别人而热。"
+        },
         {
           "content": [
             {
               "char": "俗",
               "pinyin": "sú",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "胸",
               "pinyin": "xiōng",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "襟",
               "pinyin": "jīn",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "谁",
               "pinyin": "shuí",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "识",
               "pinyin": "shí",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 89,
-              "read": false,
-              "write": false
-            },
+              "index": 91
+            }
+          ],
+          "translation": "那些俗人，心胸狭窄，怎么能懂我呢？"
+        },
+        {
+          "content": [
             {
               "char": "英",
               "pinyin": "yīng",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "雄",
               "pinyin": "xióng",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "末",
               "pinyin": "mò",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "路",
               "pinyin": "lù",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "当",
               "pinyin": "dāng",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "磨",
               "pinyin": "mó",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "折",
               "pinyin": "zhé",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 99
             }
           ],
-          "translation": "世俗之人的胸襟谁能理解我？英雄在末路时应当经受磨折。",
-          "pinyin": "sú zǐ xiōng jīn shuí shí wǒ ？ yīng xióng mò lù dāng mó zhé 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "content": "俗子胸襟：指庸俗狭隘的思想境界，与作者豪迈情怀形成对比。"
-            },
-            {
-              "start": 10,
-              "end": 11,
-              "content": "末路：穷途末路，比喻人生陷入困境，英雄失意之时。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "sentences": [
+          "translation": "英雄在无路可走的时候，难免要经受磨难挫折。"
+        },
         {
           "content": [
             {
               "char": "莽",
               "pinyin": "mǎng",
-              "index": 98,
-              "read": true,
-              "write": true
+              "index": 100
             },
             {
               "char": "红",
               "pinyin": "hóng",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "尘",
               "pinyin": "chén",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 102
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 103
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "处",
               "pinyin": "chù",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "觅",
               "pinyin": "mì",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "音",
               "pinyin": "yīn",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 106,
-              "read": false,
-              "write": false
-            },
+              "index": 109
+            }
+          ],
+          "translation": "在这莽莽红尘之中，哪里才能觅到知音呢？"
+        },
+        {
+          "content": [
             {
               "char": "青",
               "pinyin": "qīng",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "衫",
               "pinyin": "shān",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "湿",
               "pinyin": "shī",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 113
             }
           ],
-          "translation": "茫茫红尘中何处寻找知音？泪水湿透了衣衫（青衫指衣衫）。",
-          "pinyin": "mǎng hóng chén hé chù mì zhī yīn ？ qīng shān shī ！",
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "content": "莽红尘：纷乱的人世间，‘莽’形容广阔而混沌的状态。"
-            },
-            {
-              "start": 6,
-              "end": 7,
-              "content": "知音：真正理解自己的人，典出伯牙子期，表达孤独与渴求理解。"
-            },
-            {
-              "start": 9,
-              "end": 12,
-              "content": "青衫湿：化用白居易诗，表达失意悲泣，抒发知音难觅的哀痛。"
-            }
-          ]
+          "translation": "眼泪打湿了我的衣襟。"
         }
       ]
     }
@@ -1003,5 +640,8 @@
     "近代诗"
   ],
   "background": "《满江红·小住京华》作于清德宗光绪二十九年（1903）。秋瑾十八岁时，嫁给湖南人王廷钧。光绪二十四年（1898）前后王廷钧用钱捐了个户部主事的小京官，秋瑾跟随丈夫到了北京。寓京期间，她接受了新思想、新文化。光绪二十九年，秋瑾与王廷钧矛盾激化，写了这首总结婚后生活、北京生活的词。",
-  "appreciation": "这首词是言志之作，表达了词人匡国济世的凌云志向。此词上阕描写词人眼见祖国被列强欺凌，正处于内忧外患之中，抒发了其为国报效的决心；下阕表现她不甘身为女子的英雄情怀，抒发了巾帼不让须眉的豪情壮志。全词风格爽朗豪迈，语言刚健清新，通过层层表述表现了词人追求革命的坚强意志和爱国热忱，激越愤慨之情充溢其间。"
+  "appreciation": "这首词是言志之作，表达了词人匡国济世的凌云志向。此词上阕描写词人眼见祖国被列强欺凌，正处于内忧外患之中，抒发了其为国报效的决心；下阕表现她不甘身为女子的英雄情怀，抒发了巾帼不让须眉的豪情壮志。全词风格爽朗豪迈，语言刚健清新，通过层层表述表现了词人追求革命的坚强意志和爱国热忱，激越愤慨之情充溢其间。",
+  "annotation": "满江红：词牌名。唐朝名《上江虹》，后改今名。小住京华：到京不久。小住，暂时居住。京华，京城的美称，这里指北京。秋容如拭：秋色明净，就像刚刚擦洗过一般。四面歌残终破楚：四面歌声渐歇，我也终如汉之破楚突破了家庭的牢笼。八年风味徒思浙：八年来空想着故乡浙江的风味。八年，作者光绪二十二年（1896）在湖南结婚，到作词时恰好八年。徒，空，徒然。苦将侬：苦苦地让我。蛾眉：美女的代称，这里指女子。殊未屑：非常不放在心上。殊，很，甚。未，不。屑，顾惜，介意。烈：刚正，不轻易屈服。因人常热：为别人而屡屡激动。热，激动。末路：路途的终点，比喻失意潦倒或没有前途的境地。莽（mǎng）：广大。青衫湿：失意伤心。用唐白居易《琵琶行》“座中泣下谁最多？江州司马青衫湿”诗义。青衫，唐代文官八品、九品服以青，为官职最低的服色。",
+  "comprehensive_appreciation": "赏析：这首词是言志之作，表达了作秋匡国济世的凌云志向。1903年中秋节，秋瑾与丈夫王廷钧发生门突，从王出走，寓居北京阜城门外泰顺客栈，后由吴芝瑛出面调解，而秋瑾下决忧门破王庭牢笼，投身革命。不久即东渡日本留学。词的上片写与王廷均结婚八年，表面上过着富贵人的生活，实际上是“奴仆不如”的生活，如今与其决裂，突破王庭束缚，实现了“求自立”的愿望。“苦将侬，强派作蛾眉”进一步说明表面上过着贵妇人的生活，实则奴仆不如的“八年风味”。“殊未屑”表明作秋对贵妇人的生活，并不留恋，相反加以蔑视。上片主要表达了作秋自己初离王庭时的矛盾忧情，别具匠忧。词的下片写词人虽有凌云壮志，但知音难觅，不觉泪湿衣襟。作秋平日虽以肝胆相照，真诚恳切，但不为世俗所了解，因此生活中常受折磨。离王以后，在大千世界中，不知去何处去寻找知音。找不到知音，又将会受折磨。想到这一点，作秋不觉伤忧落泪，也是很自然的。这种担忧和忧虑，真实地反映了一个革命秋刚踏上革命征途的思想状况。“身不得，男儿列；忧却比，男儿烈！”这四句是深入浅出的鉴湖女侠的自我写照，她运用“身与忧、列与烈”两句四字谐音和意义不同的显著变化，来表达她的抱负、志向和思想感情的转变，正是上接“苦将侬，强派作蛾眉，殊未屑！”这两句进一步的思想发展。紧接着表明她是一个“算平生肝胆，因人常热”的富有感情的人，但不幸偏遇着这么一个庸夫俗子的丈夫，因她穿着男装独自去看了一次戏，竟遭丈夫的辱打，不由她不发出“俗子胸襟谁识我？英雄末路当磨折。莽红尘，何处觅知音？青衫湿！”这样的浩叹。",
+  "knowledge": ""
 }

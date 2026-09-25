@@ -168,7 +168,7 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：“君子吃食不追求饱足；居住不追求安逸；做事勤奋敏捷，说话谨慎；到有道德的人那里去匡正自己，就可以称得上是好学了。”"
+            "translation": "孔子说：“君子吃食不追求饱足；"
           },
           "notes": [
             {
@@ -177,6 +177,44 @@
               "note": "到有道的人那里去匡正自己。有道，指有才艺或有道德的人。"
             }
           ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "学",
+              "pinyin": "xué"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "如果。"
+                }
+              ]
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "居住不追求安逸；"
+          },
+          "notes": []
         }
       ]
     },
@@ -206,13 +244,7 @@
             },
             {
               "char": "而",
-              "pinyin": "ér",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "如果。"
-                }
-              ]
+              "pinyin": "ér"
             },
             {
               "char": "不",
@@ -241,7 +273,21 @@
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "做事勤奋敏捷，说话谨慎；"
+          },
+          "notes": [
+            {
+              "start": 9,
+              "end": 11,
+              "note": "怎样对待礼呢？"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "人",
               "pinyin": "rén"
@@ -284,15 +330,41 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：“人如果没有仁爱之心，那他怎样遵守礼仪制度呢？人如果没有仁爱之心，礼乐有什么用呢？”"
+            "translation": "到有道德的人那里去匡正自己，就可以称得上是好学了。”"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 9,
-              "end": 11,
-              "note": "怎样对待礼呢？"
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "八",
+              "pinyin": "bā"
+            },
+            {
+              "char": "佾",
+              "pinyin": "yì"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": "孔子说：“人如果没有仁爱之心，那他怎样遵守礼仪制度呢？"
+          },
+          "notes": []
         }
       ]
     },
@@ -355,6 +427,38 @@
             {
               "char": "”",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "人如果没有仁爱之心，礼乐有什么用呢？”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "仁",
+              "pinyin": "rén"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
           ],
           "translation": {
@@ -447,6 +551,38 @@
             "translation": "孔子说：“君子通晓的是道义，小人只通晓利益。”"
           },
           "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "仁",
+              "pinyin": "rén"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“看见德才兼备的人就向他学习，希望能向他看齐；"
+          },
+          "notes": []
         }
       ]
     },
@@ -536,7 +672,39 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：“看见德才兼备的人就向他学习，希望能向他看齐；看见不贤的人，就反省自己有没有和他一样的缺点，有要改正。”"
+            "translation": "看见不贤的人，就反省自己有没有和他一样的缺点，有要改正。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "仁",
+              "pinyin": "rén"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“质朴胜过了文饰就会粗野，文饰胜过了质朴就会虚浮不实，质朴和文饰相杂适中，然后才可以成为君子。”"
           },
           "notes": []
         }
@@ -615,7 +783,21 @@
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "曾子说：“有抱负的人不可不志向远大，意志坚强，因为他肩负重大责任，路途漫长遥远。"
+          },
+          "notes": [
+            {
+              "start": 4,
+              "end": 8,
+              "note": "质朴超过文采就会粗野鄙俗。质，质朴、朴实。文，华美、文采。野，粗野、鄙俗。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "文",
               "pinyin": "wén"
@@ -662,20 +844,47 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：“质朴胜过了文饰就会粗野，文饰胜过了质朴就会虚浮不实，质朴和文饰相杂适中，然后才可以成为君子。”"
+            "translation": "以实行仁道为己任，不是很重大的责任吗？"
           },
           "notes": [
             {
-              "start": 4,
-              "end": 8,
-              "note": "质朴超过文采就会粗野鄙俗。质，质朴、朴实。文，华美、文采。野，粗野、鄙俗。"
-            },
-            {
-              "start": 16,
-              "end": 19,
+              "start": 0,
+              "end": 3,
               "note": "文质兼备、配合适当的样子。"
             }
           ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "雍",
+              "pinyin": "yōng"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "直到身死才能结束，不是很漫长遥远的吗？”"
+          },
+          "notes": []
         }
       ]
     },
@@ -709,7 +918,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "bú"
             },
             {
               "char": "可",
@@ -758,7 +967,21 @@
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“比如用土堆山，只差一筐土就完成了，这时停止，那是我自己要停下来；"
+          },
+          "notes": [
+            {
+              "start": 10,
+              "end": 11,
+              "note": "志向远大，意志坚强。弘，广、大，这里指志向远大。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "仁",
               "pinyin": "rén"
@@ -785,7 +1008,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bú"
+              "pinyin": "bù"
             },
             {
               "char": "亦",
@@ -802,7 +1025,15 @@
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "比如填平洼地，即使只倒下一筐，我也在前进。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "死",
               "pinyin": "sǐ"
@@ -825,7 +1056,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bú"
+              "pinyin": "bù"
             },
             {
               "char": "亦",
@@ -849,15 +1080,41 @@
             }
           ],
           "translation": {
-            "translation": "曾子说：“有抱负的人不可不志向远大，意志坚强，因为他肩负重大责任，路途漫长遥远。以实行仁道为己任，不是很重大的责任吗？直到身死才能结束，不是很漫长遥远的吗？”"
+            "translation": "孔子说：“有智慧的人不会迷惑，有仁德的人不会忧愁，勇敢的人不会害怕。”"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 10,
-              "end": 11,
-              "note": "志向远大，意志坚强。弘，广、大，这里指志向远大。"
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "泰",
+              "pinyin": "tài"
+            },
+            {
+              "char": "伯",
+              "pinyin": "bó"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": "颜渊请教（孔子）什么是仁。"
+          },
+          "notes": []
         }
       ]
     },
@@ -911,7 +1168,7 @@
             },
             {
               "char": "一",
-              "pinyin": "yí"
+              "pinyin": "yī"
             },
             {
               "char": "篑",
@@ -944,7 +1201,26 @@
             {
               "char": "。",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“约束自己，使自己的行为归到礼的方面去就是仁。"
+          },
+          "notes": [
+            {
+              "start": 9,
+              "end": 12,
+              "note": "只差一筐土没有成功。篑，盛土的竹筐。"
             },
+            {
+              "start": 14,
+              "end": 18,
+              "note": "停下来，是我自己停下来的。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "譬",
               "pinyin": "pì"
@@ -975,7 +1251,7 @@
             },
             {
               "char": "一",
-              "pinyin": "yí"
+              "pinyin": "yī"
             },
             {
               "char": "篑",
@@ -1015,25 +1291,47 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：“比如用土堆山，只差一筐土就完成了，这时停止，那是我自己要停下来；比如填平洼地，虽然只倒下一筐，但我也在前进。”"
+            "translation": "一旦约束自己，使自己的行为归到礼的方面去，天下人就会称赞你是个仁人了。"
           },
           "notes": [
             {
-              "start": 9,
-              "end": 12,
-              "note": "只差一筐土没有成功。篑，盛土的竹筐。"
-            },
-            {
-              "start": 14,
-              "end": 18,
-              "note": "停下来，是我自己停下来的。"
-            },
-            {
-              "start": 22,
-              "end": 23,
+              "start": 2,
+              "end": 3,
               "note": "填平洼地。"
             }
           ]
+        },
+        {
+          "sentence": [
+            {
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "罕",
+              "pinyin": "hǎn"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "实行仁德，完全在于自己，难道还在于别人吗？”"
+          },
+          "notes": []
         }
       ]
     },
@@ -1073,7 +1371,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bú"
+              "pinyin": "bù"
             },
             {
               "char": "惑",
@@ -1113,7 +1411,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bú"
+              "pinyin": "bù"
             },
             {
               "char": "惧",
@@ -1129,7 +1427,39 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：“有智慧的人不会迷惑，有仁德的人不会忧愁，勇敢的人不会害怕。”"
+            "translation": "颜渊说：“请问具体的做法。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "罕",
+              "pinyin": "hǎn"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“不合于礼的不要看，不合于礼的不要听，不合于礼的不要说，不合于礼的不要做。”"
           },
           "notes": []
         }
@@ -1158,7 +1488,15 @@
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "颜渊说：“我虽然愚笨，也要照您的话去做。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "子",
               "pinyin": "zǐ"
@@ -1202,10 +1540,24 @@
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "子贡问孔子：“有没有一个字可以终身奉行的呢？”"
+          },
+          "notes": [
+            {
+              "start": 4,
+              "end": 7,
+              "note": "约束自我，使言行归复于先王之礼。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "一",
-              "pinyin": "yí"
+              "pinyin": "yī"
             },
             {
               "char": "日",
@@ -1260,7 +1612,21 @@
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "孔子回答说：“那大概就是‘恕’吧！"
+          },
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "note": "一旦。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "为",
               "pinyin": "wéi"
@@ -1308,7 +1674,15 @@
             {
               "char": "”",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "自己不喜欢的事物，不要强加于别人身上。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "颜",
               "pinyin": "yán"
@@ -1358,7 +1732,15 @@
             {
               "char": "”",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“学生们为什么没有人学《诗经》呢？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "子",
               "pinyin": "zǐ"
@@ -1458,7 +1840,15 @@
             {
               "char": "”",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "《诗经》可以使人受到感染，得到启发和鼓舞；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "颜",
               "pinyin": "yán"
@@ -1535,20 +1925,41 @@
             }
           ],
           "translation": {
-            "translation": "颜渊请教（孔子）什么是仁。孔子说：“约束自己，使自己的行为归到礼的方面去就是仁。一旦约束自己，使自己的行为归到礼的方面去，天下人就会称赞你是个仁人了。实行仁德，完全在于自己，难道还在于别人吗？”颜渊说：“请问具体的做法。”孔子说：“不合于礼的不要看，不合于礼的不要听，不合于礼的不要说，不合于礼的不要做。”颜渊说：“我虽然愚笨，也要照您的话去做。”"
+            "translation": "可以观察人情风俗的盛衰，认识社会现实；"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 9,
-              "end": 12,
-              "note": "约束自我，使言行归复于先王之礼。"
+              "char": "(",
+              "pinyin": ""
             },
             {
-              "start": 16,
-              "end": 17,
-              "note": "一旦。"
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "颜",
+              "pinyin": "yán"
+            },
+            {
+              "char": "渊",
+              "pinyin": "yuān"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": "可以通过情感交流，彼此感染，和谐相处；"
+          },
+          "notes": []
         }
       ]
     },
@@ -1586,7 +1997,7 @@
             },
             {
               "char": "一",
-              "pinyin": "yì"
+              "pinyin": "yī"
             },
             {
               "char": "言",
@@ -1635,7 +2046,21 @@
             {
               "char": "”",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "可以抒发心中不平，讽刺不良政治。"
+          },
+          "notes": [
+            {
+              "start": 7,
+              "end": 8,
+              "note": "一个字。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "子",
               "pinyin": "zǐ"
@@ -1675,7 +2100,15 @@
             {
               "char": "！",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "近则可以用其中的道理来侍奉父母；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "己",
               "pinyin": "jǐ"
@@ -1686,7 +2119,7 @@
             },
             {
               "char": "不",
-              "pinyin": "bú"
+              "pinyin": "bù"
             },
             {
               "char": "欲",
@@ -1722,15 +2155,45 @@
             }
           ],
           "translation": {
-            "translation": "子贡问孔子：“有没有一个字可以终身奉行的呢？”孔子回答说：“那大概就是‘恕’吧！自己不喜欢的事物，不要强加于别人身上。”"
+            "translation": "远可以用来侍奉君主，还可以多认识鸟兽草木的名称。”"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 7,
-              "end": 8,
-              "note": "一个字。"
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "卫",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "灵",
+              "pinyin": "líng"
+            },
+            {
+              "char": "公",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
         }
       ]
     },
@@ -1776,7 +2239,7 @@
             },
             {
               "char": "夫",
-              "pinyin": "fú",
+              "pinyin": "fū",
               "note": [
                 {
                   "title": "注释",
@@ -1799,7 +2262,21 @@
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": [
+            {
+              "start": 4,
+              "end": 5,
+              "note": "老师对学生的称呼。"
+            }
+          ]
+        },
+        {
+          "sentence": [
             {
               "char": "《",
               "pinyin": ""
@@ -1899,7 +2376,15 @@
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "迩",
               "pinyin": "ěr",
@@ -1945,7 +2430,15 @@
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "多",
               "pinyin": "duō"
@@ -1992,15 +2485,41 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：“学生们为什么没有人学《诗经》呢？《诗经》可以使人受到感染，得到启发和鼓舞；可以观察人情风俗的盛衰，认识社会现实；可以通过情感交流，彼此感染，和谐相处；可以抒发心中不平，讽刺不良政治。近则可以用其中的道理来侍奉父母；远可以用来侍奉君主，还可以多认识鸟兽草木的名称。”"
+            "translation": ""
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 4,
-              "end": 5,
-              "note": "老师对学生的称呼。"
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "阳",
+              "pinyin": "yáng"
+            },
+            {
+              "char": "货",
+              "pinyin": "huò"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            },
+            {
+              "char": ")",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
         }
       ]
     }

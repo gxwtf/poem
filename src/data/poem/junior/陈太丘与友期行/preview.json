@@ -26,13 +26,7 @@
             },
             {
               "char": "期",
-              "pinyin": "qī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "期：约定，此处指相约同行。"
-                }
-              ]
+              "pinyin": "qī"
             },
             {
               "char": "行",
@@ -60,27 +54,15 @@
             }
           ],
           "translation": {
-            "translation": "陈寔与朋友约定同行，约定在正午时分。"
+            "translation": "陈太丘和朋友相朋同行，朋定的时间在正午，过了正午朋友还没有到，陈太丘不再等朋他而离开了，陈太丘离开后朋友才到。"
           },
-          "notes": [
-            {
-              "start": 8,
-              "end": 9,
-              "note": "日中：正午，古代计时术语，指太阳当顶之时。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "过",
-              "pinyin": "guò",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "过：超过，表示时间已过中午。"
-                }
-              ]
+              "pinyin": "guò"
             },
             {
               "char": "中",
@@ -108,23 +90,11 @@
             },
             {
               "char": "舍",
-              "pinyin": "shě",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "舍：舍弃，此处指陈太丘不再等待而离开。"
-                }
-              ]
+              "pinyin": "shě"
             },
             {
               "char": "去",
-              "pinyin": "qù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "去：离开，古义与今义不同，此处强调离去动作。"
-                }
-              ]
+              "pinyin": "qù"
             },
             {
               "char": "，",
@@ -140,13 +110,7 @@
             },
             {
               "char": "乃",
-              "pinyin": "nǎi",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "乃：才，表示时间上的延迟，朋友在他离开后才到。"
-                }
-              ]
+              "pinyin": "nǎi"
             },
             {
               "char": "至",
@@ -158,7 +122,7 @@
             }
           ],
           "translation": {
-            "translation": "朋友过了正午未到，陈寔自行离去。离开后朋友才到。"
+            "translation": "元方当时年龄七岁，在门外玩耍。"
           },
           "notes": []
         },
@@ -202,13 +166,7 @@
             },
             {
               "char": "戏",
-              "pinyin": "xì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "戏：玩耍，古文中常用于描述儿童活动。"
-                }
-              ]
+              "pinyin": "xì"
             },
             {
               "char": "。",
@@ -216,7 +174,7 @@
             }
           ],
           "translation": {
-            "translation": "陈纪当时七岁，正在门外玩耍。"
+            "translation": "陈太丘的朋友却元方：“你的父亲在吗？”"
           },
           "notes": []
         },
@@ -243,7 +201,7 @@
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
@@ -264,13 +222,7 @@
             },
             {
               "char": "？",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "不：同‘否’，疑问句末尾表示疑问语气，通假用法。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
               "char": "”",
@@ -278,15 +230,9 @@
             }
           ],
           "translation": {
-            "translation": "友人问：”令尊在吗？”"
+            "translation": "元方回答道：“我父亲等了您很久您却还没有到，已经离开了。”"
           },
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "note": "尊君：对对方父亲的尊称，古代敬辞。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -303,18 +249,12 @@
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "待",
-              "pinyin": "dài",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "待：等待，此处体现守信之意。"
-                }
-              ]
+              "pinyin": "dài"
             },
             {
               "char": "君",
@@ -354,7 +294,7 @@
             }
           ],
           "translation": {
-            "translation": "陈纪答：”等候您许久未到，已经离开了。”"
+            "translation": "友人便生气地说道：“真不是君子啊！"
           },
           "notes": []
         },
@@ -378,47 +318,55 @@
             },
             {
               "char": "曰",
-              "pinyin": "fēi"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "非",
-              "pinyin": "rén"
+              "pinyin": "fēi"
             },
             {
               "char": "人",
-              "pinyin": "zāi"
+              "pinyin": "rén"
             },
             {
               "char": "哉",
-              "pinyin": "yǔ"
+              "pinyin": "zāi"
             },
             {
               "char": "！",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "和别人相朋同行，却丢下别人先离开了。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "与",
-              "pinyin": "rén"
+              "pinyin": "yǔ"
             },
             {
               "char": "人",
-              "pinyin": "qī"
+              "pinyin": "rén"
             },
             {
               "char": "期",
-              "pinyin": "xíng"
+              "pinyin": "qī"
             },
             {
               "char": "行",
-              "pinyin": "xiāng"
+              "pinyin": "xíng"
             },
             {
               "char": "，",
@@ -426,25 +374,19 @@
             },
             {
               "char": "相",
-              "pinyin": "wěi"
+              "pinyin": "xiāng"
             },
             {
               "char": "委",
-              "pinyin": "ér",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "委：舍弃，抛弃，此处指背弃约定。"
-                }
-              ]
+              "pinyin": "wěi"
             },
             {
               "char": "而",
-              "pinyin": "qù"
+              "pinyin": "ér"
             },
             {
               "char": "去",
-              "pinyin": "yuán"
+              "pinyin": "qù"
             },
             {
               "char": "。",
@@ -456,85 +398,87 @@
             }
           ],
           "translation": {
-            "translation": "友人怒道：”真不是人啊！与人相约，却抛下别人走了。”"
+            "translation": "元方说：“您与我父亲朋在正午，正午您没到，就是不讲信用；"
           },
-          "notes": [
-            {
-              "start": 7,
-              "end": 9,
-              "note": "非人哉：不是人啊！‘哉’为感叹语气词，加强谴责语气。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "元",
-              "pinyin": "fāng"
+              "pinyin": "yuán"
             },
             {
               "char": "方",
-              "pinyin": "yuē"
+              "pinyin": "fāng"
             },
             {
               "char": "曰",
-              "pinyin": "jūn"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "君",
-              "pinyin": "yǔ"
-            },
-            {
-              "char": "与",
-              "pinyin": "jiā"
-            },
-            {
-              "char": "家",
               "pinyin": "jūn"
             },
             {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "家",
+              "pinyin": "jiā"
+            },
+            {
               "char": "君",
-              "pinyin": "qī"
+              "pinyin": "jūn"
             },
             {
               "char": "期",
-              "pinyin": "rì"
+              "pinyin": "qī"
             },
             {
               "char": "日",
-              "pinyin": "zhōng"
+              "pinyin": "rì"
             },
             {
               "char": "中",
-              "pinyin": "rì"
+              "pinyin": "zhōng"
             },
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "对着孩子骂父亲，就是没有礼貌。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "日",
-              "pinyin": "zhōng"
+              "pinyin": "rì"
             },
             {
               "char": "中",
-              "pinyin": "bù"
+              "pinyin": "zhōng"
             },
             {
               "char": "不",
-              "pinyin": "zhì"
+              "pinyin": "bù"
             },
             {
               "char": "至",
-              "pinyin": "zé"
+              "pinyin": "zhì"
             },
             {
               "char": "，",
@@ -542,45 +486,47 @@
             },
             {
               "char": "则",
-              "pinyin": "shì"
+              "pinyin": "zé"
             },
             {
               "char": "是",
-              "pinyin": "wú"
+              "pinyin": "shì"
             },
             {
               "char": "无",
-              "pinyin": "xìn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "信：信用，诚信，儒家五常之一，此处强调守时即守信。"
-                }
-              ]
+              "pinyin": "wú"
             },
             {
               "char": "信",
-              "pinyin": "duì"
+              "pinyin": "xìn"
             },
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "朋友感到惭愧，下了车想去拉元方的手，元方头也不回地走进家门。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "对",
-              "pinyin": "zǐ"
+              "pinyin": "duì"
             },
             {
               "char": "子",
-              "pinyin": "mà"
+              "pinyin": "zǐ"
             },
             {
               "char": "骂",
-              "pinyin": "fù"
+              "pinyin": "mà"
             },
             {
               "char": "父",
-              "pinyin": "zé"
+              "pinyin": "fù"
             },
             {
               "char": "，",
@@ -588,25 +534,19 @@
             },
             {
               "char": "则",
-              "pinyin": "shì"
+              "pinyin": "zé"
             },
             {
               "char": "是",
-              "pinyin": "wú"
+              "pinyin": "shì"
             },
             {
               "char": "无",
-              "pinyin": "lǐ"
+              "pinyin": "wú"
             },
             {
               "char": "礼",
-              "pinyin": "yǒu",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "礼：礼貌，礼节，儒家强调待人接物应有礼。"
-                }
-              ]
+              "pinyin": "lǐ"
             },
             {
               "char": "。",
@@ -618,7 +558,7 @@
             }
           ],
           "translation": {
-            "translation": "陈纪说：”您与家父约定正午相见。正午不到是失信；当着孩子面骂父亲是失礼。”"
+            "translation": ""
           },
           "notes": []
         },
@@ -626,15 +566,15 @@
           "sentence": [
             {
               "char": "友",
-              "pinyin": "rén"
+              "pinyin": "yǒu"
             },
             {
               "char": "人",
-              "pinyin": "cán"
+              "pinyin": "rén"
             },
             {
               "char": "惭",
-              "pinyin": "xià"
+              "pinyin": "cán"
             },
             {
               "char": "，",
@@ -642,25 +582,19 @@
             },
             {
               "char": "下",
-              "pinyin": "chē"
+              "pinyin": "xià"
             },
             {
               "char": "车",
-              "pinyin": "yǐn"
+              "pinyin": "chē"
             },
             {
               "char": "引",
-              "pinyin": "zhī"
+              "pinyin": "yǐn"
             },
             {
               "char": "之",
-              "pinyin": "yuán",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "引：拉，牵拉，表示亲近或示好动作。"
-                }
-              ]
+              "pinyin": "zhī"
             },
             {
               "char": "。",
@@ -668,7 +602,7 @@
             }
           ],
           "translation": {
-            "translation": "友人惭愧下车想拉他。"
+            "translation": ""
           },
           "notes": []
         },
@@ -676,32 +610,27 @@
           "sentence": [
             {
               "char": "元",
-              "pinyin": "fāng"
+              "pinyin": "yuán"
             },
             {
               "char": "方",
-              "pinyin": "rù"
+              "pinyin": "fāng"
             },
             {
               "char": "入",
-              "pinyin": "mén"
+              "pinyin": "rù"
             },
             {
               "char": "门",
-              "pinyin": "bù"
+              "pinyin": "mén"
             },
             {
               "char": "不",
-              "pinyin": "gù"
+              "pinyin": "bù"
             },
             {
               "char": "顾",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "顾：回头看，古义强调动作，今义多为‘照顾’，此处体现不原谅。"
-                }
-              ]
+              "pinyin": "gù"
             },
             {
               "char": "。",
@@ -709,12 +638,12 @@
             }
           ],
           "translation": {
-            "translation": "陈纪头也不回走进家门。"
+            "translation": ""
           },
           "notes": []
         }
       ]
     }
   ],
-  "mode": "paragraph"
+  "mode": "poem"
 }

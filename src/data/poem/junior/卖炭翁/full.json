@@ -11,97 +11,65 @@
             {
               "char": "卖",
               "pinyin": "mài",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "炭",
               "pinyin": "tàn",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "翁",
               "pinyin": "wēng",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "伐",
               "pinyin": "fá",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "薪",
               "pinyin": "xīn",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "烧",
               "pinyin": "shāo",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "炭",
               "pinyin": "tàn",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "南",
               "pinyin": "nán",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
-          "translation": "卖炭老翁，在终南山里砍柴烧炭。",
-          "pinyin": "mài tàn wēng ， fá xīn shāo tàn nán shān zhōng 。",
-          "notes": [
-            {
-              "start": 5,
-              "end": 5,
-              "content": "薪：柴火，指砍伐树木作为燃料。"
-            }
-          ]
+          "translation": "有位卖炭的老翁，整年在南山里砍柴烧炭。"
         }
       ]
     },
@@ -112,125 +80,85 @@
             {
               "char": "满",
               "pinyin": "mǎn",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "面",
               "pinyin": "miàn",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "尘",
               "pinyin": "chén",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "灰",
               "pinyin": "huī",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "烟",
               "pinyin": "yān",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "火",
               "pinyin": "huǒ",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "色",
               "pinyin": "sè",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "两",
               "pinyin": "liǎng",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "鬓",
               "pinyin": "bìn",
-              "index": 21,
-              "read": false,
-              "write": true
+              "index": 21
             },
             {
               "char": "苍",
               "pinyin": "cāng",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "苍",
               "pinyin": "cāng",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "指",
               "pinyin": "zhǐ",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "黑",
               "pinyin": "hēi",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             }
           ],
-          "translation": "满脸灰尘显出烟熏火燎的颜色，两鬓花白十指乌黑。",
-          "pinyin": "mǎn miàn chén huī yān huǒ sè ， liǎng bìn cāng cāng shí zhǐ hēi 。",
-          "notes": [
-            {
-              "start": 10,
-              "end": 11,
-              "content": "苍苍：灰白色，形容老人鬓发花白，反映年迈辛劳。"
-            }
-          ]
+          "translation": "他满脸灰尘，显出被烟熏火燎的颜色，两鬓斑白十指漆黑。"
         }
       ]
     },
@@ -241,132 +169,90 @@
             {
               "char": "卖",
               "pinyin": "mài",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "炭",
               "pinyin": "tàn",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "钱",
               "pinyin": "qián",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "营",
               "pinyin": "yíng",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
-            },
+              "index": 35
+            }
+          ],
+          "translation": "卖炭得到的钱用来干什么？"
+        },
+        {
+          "content": [
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "衣",
               "pinyin": "yī",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "裳",
               "pinyin": "cháng",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "口",
               "pinyin": "kǒu",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "食",
               "pinyin": "shí",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             }
           ],
-          "translation": "卖炭得到的钱做什么用？买身上穿的衣裳和嘴里吃的食物。",
-          "pinyin": "mài tàn dé qián hé suǒ yíng ？ shēn shàng yī shang kǒu zhōng shí 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 6,
-              "content": "何所营：即‘用来做什么’。‘何所+动词’是文言中常见的疑问结构，宾语前置。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 4,
-              "end": 7,
-              "content": "‘何所营’为宾语前置句，正常语序应为‘营何所’，即‘用来做什么’。"
-            }
-          ]
+          "translation": "换取身上的衣服和填肚的食物。"
         }
       ]
     },
@@ -377,125 +263,85 @@
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "怜",
               "pinyin": "lián",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "衣",
               "pinyin": "yī",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "正",
               "pinyin": "zhèng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "单",
               "pinyin": "dān",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "心",
               "pinyin": "xīn",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "忧",
               "pinyin": "yōu",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "炭",
               "pinyin": "tàn",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "贱",
               "pinyin": "jiàn",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "愿",
               "pinyin": "yuàn",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "寒",
               "pinyin": "hán",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             }
           ],
-          "translation": "可怜他身上只穿着单薄的衣服，却担心炭价便宜希望天气更寒冷。",
-          "pinyin": "kě lián shēn shàng yī zhèng dān ， xīn yōu tàn jiàn yuàn tiān hán 。",
-          "notes": [
-            {
-              "start": 12,
-              "end": 12,
-              "content": "愿：希望。此处写卖炭翁因急于卖炭换钱，虽衣单却盼望天气更冷，凸显矛盾心理。"
-            }
-          ]
+          "translation": "可怜他身上只穿着单薄的衣服，心里却担心炭不值钱希望天更冷些。"
         }
       ]
     },
@@ -506,125 +352,85 @@
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "外",
               "pinyin": "wài",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "尺",
               "pinyin": "chǐ",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "雪",
               "pinyin": "xuě",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "晓",
               "pinyin": "xiǎo",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "驾",
               "pinyin": "jià",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "炭",
               "pinyin": "tàn",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "车",
               "pinyin": "chē",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "辗",
               "pinyin": "niǎn",
-              "index": 72,
-              "read": true,
-              "write": true
+              "index": 72
             },
             {
               "char": "冰",
               "pinyin": "bīng",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "辙",
               "pinyin": "zhé",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             }
           ],
-          "translation": "夜里城外下了一尺厚的大雪，清晨驾着炭车轧着冰冻的车辙赶路。",
-          "pinyin": "yè lái chéng wài yī chǐ xuě ， xiǎo jià tàn chē niǎn bīng zhé 。",
-          "notes": [
-            {
-              "start": 12,
-              "end": 12,
-              "content": "辗：读作zhǎn，滚动、碾压之意。形象写出车轮压过结冰车辙的艰难。"
-            }
-          ]
+          "translation": "夜里城外下了一尺厚的大雪，拂晓他急忙驾着炭车轧着冰路往集市上赶去。"
         }
       ]
     },
@@ -635,118 +441,85 @@
             {
               "char": "牛",
               "pinyin": "niú",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "困",
               "pinyin": "kùn",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "饥",
               "pinyin": "jī",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "已",
               "pinyin": "yǐ",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "高",
               "pinyin": "gāo",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "市",
               "pinyin": "shì",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "南",
               "pinyin": "nán",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "门",
               "pinyin": "mén",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "外",
               "pinyin": "wài",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "泥",
               "pinyin": "ní",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "歇",
               "pinyin": "xiē",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             }
           ],
-          "translation": "牛累了人饿了太阳已升得很高，就在集市南门外的泥泞中歇息。",
-          "pinyin": "niú kùn rén jī rì yǐ gāo ， shì nán mén wài ní zhōng xiē 。"
+          "translation": "牛和人又累又饿，但太阳已经升得很高了，他就在集市南门外泥地中歇息。"
         }
       ]
     },
@@ -757,135 +530,90 @@
             {
               "char": "翩",
               "pinyin": "piān",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "翩",
               "pinyin": "piān",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "两",
               "pinyin": "liǎng",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "骑",
               "pinyin": "jì",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 96,
-              "read": true,
-              "write": false
+              "index": 96
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "谁",
               "pinyin": "shuí",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 99,
-              "read": false,
-              "write": false
-            },
+              "index": 99
+            }
+          ],
+          "translation": "那得意忘形的两个骑马的人是谁啊？"
+        },
+        {
+          "content": [
             {
               "char": "黄",
               "pinyin": "huáng",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "衣",
               "pinyin": "yī",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "使",
               "pinyin": "shǐ",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "白",
               "pinyin": "bái",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "衫",
               "pinyin": "shān",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "儿",
               "pinyin": "ér",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             }
           ],
-          "translation": "轻快前行的两个骑马人是谁？是穿黄衣的太监和穿白衫的差役。",
-          "pinyin": "piān piān liǎng qí lái shì shuí ？ huáng yī shǐ zhě bái shān ér 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "翩翩：轻快得意的样子，原形容姿态优美，此处讽刺宦官趾高气扬、逍遥自在。"
-            },
-            {
-              "start": 4,
-              "end": 4,
-              "content": "骑：读jì，名词，指骑马的人。"
-            },
-            {
-              "start": 12,
-              "end": 15,
-              "content": "黄衣使者白衫儿：黄衣使者指宦官（太监），白衫儿指其随从。‘儿’非亲属称谓，而是对下人的轻称，体现身份等级。"
-            }
-          ]
+          "translation": "是皇宫内的太监和太监的手下。"
         }
       ]
     },
@@ -896,125 +624,85 @@
             {
               "char": "手",
               "pinyin": "shǒu",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "把",
               "pinyin": "bǎ",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "文",
               "pinyin": "wén",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "书",
               "pinyin": "shū",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "口",
               "pinyin": "kǒu",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "称",
               "pinyin": "chēng",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "敕",
               "pinyin": "chì",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 115,
-              "read": true,
-              "write": true
+              "index": 115
             },
             {
               "char": "回",
               "pinyin": "huí",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 116
             },
             {
               "char": "车",
               "pinyin": "chē",
-              "index": 117,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "叱",
               "pinyin": "chì",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "牛",
               "pinyin": "niú",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 119
             },
             {
               "char": "牵",
               "pinyin": "qiān",
-              "index": 120,
-              "read": false,
-              "write": false
+              "index": 120
             },
             {
               "char": "向",
               "pinyin": "xiàng",
-              "index": 121,
-              "read": false,
-              "write": false
+              "index": 121
             },
             {
               "char": "北",
               "pinyin": "běi",
-              "index": 122,
-              "read": false,
-              "write": false
+              "index": 122
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 123,
-              "read": false,
-              "write": false
+              "index": 123
             }
           ],
-          "translation": "手里拿着公文口称皇帝命令，拉转车头吆喝着牛朝皇宫拉去。",
-          "pinyin": "shǒu bà wén shū kǒu chēng chì ， huí chē chì niú qiān xiàng běi 。",
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "content": "称敕：宣称奉有皇帝的命令。‘敕’为帝王诏令，是强夺炭车的借口，体现权力滥用。"
-            }
-          ]
+          "translation": "他们手里拿着文书嘴里称是皇帝的命令，吆喝着牛朝皇宫拉去。"
         }
       ]
     },
@@ -1025,130 +713,85 @@
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 124
             },
             {
               "char": "车",
               "pinyin": "chē",
-              "index": 125,
-              "read": false,
-              "write": false
+              "index": 125
             },
             {
               "char": "炭",
               "pinyin": "tàn",
-              "index": 126,
-              "read": false,
-              "write": false
+              "index": 126
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 127
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 128,
-              "read": false,
-              "write": false
+              "index": 128
             },
             {
               "char": "余",
               "pinyin": "yú",
-              "index": 129,
-              "read": false,
-              "write": false
+              "index": 129
             },
             {
               "char": "斤",
               "pinyin": "jīn",
-              "index": 130,
-              "read": false,
-              "write": false
+              "index": 130
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 131,
-              "read": false,
-              "write": false
+              "index": 131
             },
             {
               "char": "宫",
               "pinyin": "gōng",
-              "index": 132,
-              "read": false,
-              "write": false
+              "index": 132
             },
             {
               "char": "使",
               "pinyin": "shǐ",
-              "index": 133,
-              "read": false,
-              "write": false
+              "index": 133
             },
             {
               "char": "驱",
               "pinyin": "qū",
-              "index": 134,
-              "read": false,
-              "write": false
+              "index": 134
             },
             {
               "char": "将",
               "pinyin": "jiāng",
-              "index": 135,
-              "read": true,
-              "write": false
+              "index": 135
             },
             {
               "char": "惜",
               "pinyin": "xī",
-              "index": 136,
-              "read": false,
-              "write": false
+              "index": 136
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 137,
-              "read": false,
-              "write": false
+              "index": 137
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 138,
-              "read": false,
-              "write": false
+              "index": 138
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 139,
-              "read": false,
-              "write": false
+              "index": 139
             }
           ],
-          "translation": "一车炭，一千多斤，宫使强行拉走老翁舍不得也没用。",
-          "pinyin": "yī chē tàn ， qiān yú jīn ， gōng shǐ qū jiāng xī bù dé 。",
-          "notes": [
-            {
-              "start": 11,
-              "end": 12,
-              "content": "驱将：驱赶而去。‘将’为助词，无实义，常见于唐代口语化表达。"
-            },
-            {
-              "start": 12,
-              "end": 14,
-              "content": "惜不得：舍不得也不行。‘惜’为惋惜，‘不得’表示无可奈何，深刻表现百姓面对强权的无力感。"
-            }
-          ]
+          "translation": "一车的炭，一千多斤，太监差役们硬是要赶着走，老翁百般不舍，却又无可奈何。"
         }
       ]
     },
@@ -1159,144 +802,85 @@
             {
               "char": "半",
               "pinyin": "bàn",
-              "index": 140,
-              "read": false,
-              "write": false
+              "index": 140
             },
             {
               "char": "匹",
               "pinyin": "pǐ",
-              "index": 141,
-              "read": false,
-              "write": false
+              "index": 141
             },
             {
               "char": "红",
               "pinyin": "hóng",
-              "index": 142,
-              "read": false,
-              "write": false
+              "index": 142
             },
             {
-              "char": "绡",
+              "char": "纱",
               "pinyin": "xiāo",
-              "index": 143,
-              "read": false,
-              "write": false
+              "index": 143
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 144,
-              "read": false,
-              "write": true
+              "index": 144
             },
             {
               "char": "丈",
               "pinyin": "zhàng",
-              "index": 145,
-              "read": false,
-              "write": false
+              "index": 145
             },
             {
               "char": "绫",
               "pinyin": "líng",
-              "index": 146,
-              "read": false,
-              "write": false
+              "index": 146
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 147,
-              "read": false,
-              "write": true
+              "index": 147
             },
             {
               "char": "系",
               "pinyin": "xì",
-              "index": 148,
-              "read": false,
-              "write": false
+              "index": 148
             },
             {
               "char": "向",
               "pinyin": "xiàng",
-              "index": 149,
-              "read": false,
-              "write": false
+              "index": 149
             },
             {
               "char": "牛",
               "pinyin": "niú",
-              "index": 150,
-              "read": false,
-              "write": false
+              "index": 150
             },
             {
               "char": "头",
               "pinyin": "tóu",
-              "index": 151,
-              "read": false,
-              "write": false
+              "index": 151
             },
             {
               "char": "充",
               "pinyin": "chōng",
-              "index": 152,
-              "read": false,
-              "write": false
+              "index": 152
             },
             {
               "char": "炭",
               "pinyin": "tàn",
-              "index": 153,
-              "read": false,
-              "write": false
+              "index": 153
             },
             {
               "char": "直",
               "pinyin": "zhí",
-              "index": 154,
-              "read": true,
-              "write": false
+              "index": 154
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 155,
-              "read": false,
-              "write": false
+              "index": 155
             }
           ],
-          "translation": "半匹红绡一丈绫，系在牛头上充当炭的价钱。",
-          "pinyin": "bàn pǐ hóng xiāo yī zhàng líng ， jì xiàng niú tóu chōng tàn zhí 。",
-          "notes": [
-            {
-              "start": 14,
-              "end": 15,
-              "content": "充炭直：抵充炭的价值。‘直’通‘值’，是典型的通假字。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 14,
-              "end": 15,
-              "old": "价值"
-            },
-            {
-              "start": 14,
-              "end": 15,
-              "new": "直接、价值（现代‘值’已分化）"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 8,
-              "end": 15,
-              "content": "‘系向牛头充炭直’为状语后置句，‘向牛头’为动作‘系’的地点状语，正常语序应为‘向牛头系以充炭直’。"
-            }
-          ]
+          "translation": "那些人把半匹红纱和一丈绫，朝牛头上一挂，就充当买炭的钱了。"
         }
       ]
     }
@@ -1307,5 +891,8 @@
     "新乐府"
   ],
   "background": "《卖炭翁》是白居易《新乐府》组诗中的第三十二首。白居易写作《新乐府》是在唐宪宗元和初年（公元806年），这正是宫市为害最深的时候。他对宫市有十分的了解，对人民又有深切的同情，所以才能写出这首感人至深的《卖炭翁》来。",
-  "appreciation": "《卖炭翁》是《新乐府五十首》中第三十二首诗，为一首讽喻诗。此诗以个别事例来表现普遍情况，描写了一个烧木炭的老人艰难谋生，通过卖炭翁的遭遇，深刻地揭露了“宫市”的腐败本质，对统治者掠夺人民的罪行给予了有力的鞭挞与抨击，讽刺了当时腐败的社会现实，表达作者对下层劳动人民的深切同情，有很强的社会典型意义。全诗描写具体生动，历历如绘，结尾戛然而止，含蓄有力，事物细节的选择和对人物心理的刻画都匠心独具。"
+  "appreciation": "《卖炭翁》是《新乐府五十首》中第三十二首诗，为一首讽喻诗。此诗以个别事例来表现普遍情况，描写了一个烧木炭的老人艰难谋生，通过卖炭翁的遭遇，深刻地揭露了“宫市”的腐败本质，对统治者掠夺人民的罪行给予了有力的鞭挞与抨击，讽刺了当时腐败的社会现实，表达作者对下层劳动人民的深切同情，有很强的社会典型意义。全诗描写具体生动，历历如绘，结尾戛然而止，含蓄有力，事物细节的选择和对人物心理的刻画都匠心独具。",
+  "annotation": "卖炭翁：此篇是组诗《新乐府》中的第32首，题注云：“苦宫市也。”宫市，指唐代皇宫里需要物品，就向市场上去拿，随便给点钱，实际上是公开掠夺。唐德宗时用太监专管其事。伐：砍伐。薪：柴。南山：城南之山。烟火色：烟熏色的脸。此处突出卖炭翁的辛劳。苍苍：灰白色，形容鬓发花白。得：得到。何所营：做什么用。营，经营，这里指需求。可怜：使人怜悯。愿：希望。晓：天亮。辗（niǎn）：同“碾”，压。辙：车轮滚过地面辗出的痕迹。困：困倦，疲乏。市：长安有贸易专区，称市，市周围有墙有门。翩翩：轻快洒脱的情状。这里形容得意忘形的样子。骑：骑马的人。黄衣使者白衫儿：黄衣使者，指皇宫内的太监。白衫儿，指太监手下的爪牙。把：拿。称：说。敕（chì）：皇帝的命令或诏书。回：调转。叱：喝斥。牵向北：指牵向宫中。千余斤：不是实指，形容很多。驱：赶着走。将：语助词。惜不得：舍不得。得，能够。惜，舍。半匹红纱一丈绫：唐代商务交易，绢帛等丝织品可以代货币使用。当时钱贵绢贱，半匹纱和一丈绫，比一车炭的价值相差很远。这是官方用贱价强夺民财。系（xì）：绑扎。这里是挂的意思。直：通“值”，指价格。",
+  "comprehensive_appreciation": "赏析：本诗开头四句，写卖炭翁的炭来之不易。“伐薪、烧炭”，概括了复杂的工序和漫长的劳动过程。“满面尘灰烟火色，两鬓苍苍十指黑”，活画出卖炭翁的肖像，写出劳动的艰辛，也得到了形象的表现。“南山中”点出劳动场所，这“南山”就是王维所写的“欲投人处宿，隔水问樵夫”的终南山，豺狼出没，荒无人烟。在这样的环境里披星戴月，凌霜冒雪，一斧一斧地“伐薪”，一窑一窑地“烧炭”，好容易烧出“千余斤”，每一斤都渗透着心血，也凝聚着希望。写出卖炭翁的炭是自己艰苦劳动的成果，这就把他和贩卖木炭的商人区别了开来。但是，假如这位卖炭翁还有田地，凭自种自收就不至于挨饿受冻，只利用农闲时间烧炭卖炭，用以补贴家用的话，那么他的一车炭被掠夺，就还有别的活路。然而情况并非如此。诗人的高明之处在于没有自己出面向读者介绍卖炭翁的家庭经济状况，而是设为问答：“卖炭得钱何所营？身上衣裳口中食。”这一问一答，不仅化板为活，使文势跌宕，摇曳生姿，而且扩展了反映民间疾苦的深度与广度，使读者清楚地看到：这位劳动者已被剥削得贫无立锥，别无衣食来源；“身上衣裳口中食”，全指望他千辛万苦烧成的千余斤木炭能卖个好价钱。这就为后面写宫使掠夺木炭的罪行做好了有力的铺垫。“可怜身上衣正单，心忧炭贱愿天寒。”这两句诗用同情的口吻，写出了卖炭翁艰难的处境和复杂的内心矛盾。当时正是“夜来城外一尺雪”的寒冬季节，身上只穿着单衣的老翁照理应该盼望着天气和暖起来，可是他却巴望着更冷一些，因为天气一暖，他的炭也就不值钱了。两句诗只写了老翁的一个心理活动，便把当时在饥寒交迫中挣扎的劳动人民的痛苦有力地揭示了出来。“夜来城外一尺雪，晓驾炭车辗冰辙。”幸而天公作美，夜里突降大雪，而且有“一尺”之厚，天气是足够寒冷了。因此这位老翁一大早就赶着牛车沿着那结了冰的车道向集市赶去。“牛困人饥日已高，市南门外泥中歇。”他希望能卖个好价钱，所以他来得很早，此时集市大门尚未打开，他不得不在门外的泥地中休息一会儿。人饿了，拉车的牛也累了，但他心里是高兴的，充满了希望，他差不多可以如愿以偿买上冬衣了。读到这儿，也许读者会怜悯他寒冷天气中只穿着那单薄的衣裳，但一想到他的炭因此可能卖个好价钱，也会不由替他高兴。然而，天有不测风云，就在卖炭翁心里盘算着怎样才能卖个好价钱的时候，远处两骑人马翩翩而来，原来是“黄衣使者白衫儿”驾到。“翩翩”二字本来是用以形容英俊潇洒之态，用在这里却含有讽刺、挖苦的意味，揭露了这两员太监趾高气扬，目中无人的嘴脸。因为是皇帝派来的，所以称“使者”。他们手里高举皇帝颁布的文告，口称皇帝的命令，不由分说，强行扭转车头，驱赶着老牛向皇宫方向走去。千余斤炭就这样被太监拉走了，留给老翁的不过是半匹红纱一丈绫而已。唐代商品交易，多用绢帛等丝织品充作一般等价物来代替货币，宫廷购买货物，往往按照官方高抬丝织品价格计算，而不依民间流行的实价，因此太监们仅用半匹纱一丈绫来支付千余斤炭钱，实际等于强行掠夺。读至此处，不由令人想起诗人的另一首诗《宿紫阁山北村》中，描写宦官们掌握的神策军强盗般抢劫百姓财物的野蛮行径。他们都是为宫廷官府服务的，然而他们的共同特点却是置平民百姓的身家性*命于不顾，强行掠夺民间财物。从“南山中”到长安城，路那么遥远，又那么难行，当卖炭翁“市南门外泥中歇”的时候，已经是“牛困人饥”；如今又“回车叱牛牵向北”，把炭送进皇宫，当然牛更困、人更饥了。那么，当卖炭翁饿着肚子，走回终南山的时候，他会想些什么呢，他往后的日子又怎样过法呢，这一切，诗人都没有写，然而读者却不能不想。当想到这一切的时候，就不能不同情卖炭翁的遭遇，不能不憎恨统治者的罪恶，而诗人“苦宫市”的创作意图，也就收到了预期的效果。这首诗的艺术特点，首先在于白描艺术手法的成功运用。作者通篇没发一句议论，说宫市给人民带来怎样的苦处，人民在这种残暴的掠夺下，怎样难以生活。而是通过一个卖炭老人的身世、磨难、烧炭、卖炭以及炭车被抢的前后经过，向人们讲述了一个催人涕下的悲剧故事，把老人的遭遇和宫市给人民带来的苦难形象地告诉了人们，从而使人们更加清楚、深刻地了解到当时阶级对立的现实，激起人们强烈的爱憎感情。这是作者发多少议论也难以达到的艺术效果。其次，诗中对人物形象的描写刻画细腻、逼真，使人们从人形象中受到强烈的感染。一是对人物外貌的刻画，二是对内心世界的描写。试看，“满面尘灰烟火色，两鬓苍苍十指黑”，简单而深情的十四个字，活活地勾画出卖炭老人的辛苦、贫困、衰老、遭难的外貌，使人见之同情，思之痛心。“可怜身上衣正单，心忧炭贱愿天寒”，又是简单而深情的十四个字，把老人瑟缩、委曲、矛盾、希求的心理又描写得多么深刻、细腻。使人仿佛看到一个蜷缩在屋角冻得发颤的老人，在愁苦地思索筹划着自己可怜的生活。从而更加拽拉人们的心灵，使人感到残酷的现实对老人是多么不公平！赏析二：封建统治阶级为了满足汗腐繁豪奢的生活欲望，除了名目繁多的苛捐杂税以外，还采取汗他手段巧取豪夺人民的血汗。中唐以后，朝廷里经常派人到市场上去采购物品。他们掠看到中意的东西，就随便付给他们很低的价格，或任意掠夺而去，有时还要物主把货物送进宫内，然后倒打掠耙，向物主勒索“门户钱”和“脚价钱”。韩愈在《顺宗实录》中曾具体记载过掠位农民用驴子驮着木柴到城里去卖，宦官见了口称“宫市”，只给了几尺绢，就把木柴抢去了，还要夺走他养家糊口的驴子，农民在忍无可忍的情况下，殴打了为非作歹的宦官。白居易在长安时亲眼目睹这类弊形，心情十分愤慨。在《卖炭翁》中虽然没能表现出劳动人民的反抗精神，但他敢于大胆揭露“宫市”的罪恶，把以皇帝为总后台的统治者贪婪暴虐的面目，用独具特色的诗歌形式反映出来，确是难能可贵的。在这首小型叙事诗中，作者以白描的手法，成功地塑造了卖炭老翁的感人形象。“满面尘灰烟火色，两鬓苍苍十指黑。”这十四个字的肖像描写，之仅准确地表现了卖炭翁的职业和年龄特征，而且使人想到他的辛酸劳作和痛苦生活。长期受烟火熏烤使皮肤变色，终日扒摸木炭把十指沾黑，而“两鬓苍苍”又表现出卖炭翁的凄楚和衰老。这样拼死拼活的苦干，只之过为了“身上衣裳口中食”，挣点钱勉强度日。“可怜身上衣正单”，“夜来城外掠尺雪”。作者又以对照的写法来表现卖炭翁的困苦生活。“心忧炭贱愿天寒”，是更深入掠层的心理刻划。掠般人在衣单之能御寒时，总想天气暖和，可是卖炭翁却在“衣正单”时“愿天寒”，掠怕天气暖，炭卖之掉，衣食无所出，二想天气寒冷，卖个好价钱。这两句诗深刻地表现了他对“卖炭得钱”的殷切期望，反映了他十分悲惨的生活境遇。同时，这样写使下文“掠车炭重千余斤，宫使驱将惜之得”，显得更加有力量，更能激起读者对狐假虎威的“黄衣使者白衫儿”的痛恨。掠般叙事诗往往失之语言的臃肿和拖沓。这首诗语言简练而又准确。“系向牛头充炭直”中的“系”和“充”两个字意味特别深长，卖炭翁拒绝收受“纱”和“绫”，蛮之讲理的宫使硬把它“系向牛头”，“纱”和“绫”本之是“炭直”，巧取豪夺的坏蛋却把这在宫中无用的烂绸之类拿来充数抵价。揭露宫使暴行的另外两句诗中，诗人连用了五个动词，“手把文书”的“把”’、“口称敕”的“称”、“回车”的“回”、“叱牛”的“叱”、“牵向北”的“牵”。宫使掠个接掠个的动作，使卖炭翁没有回话的余地，从这五个急迫连续的动作中，宫使凶残掠夺的面目暴露无遗，同时，在对比之下，卖炭老人的悲苦形象也更加突出了。这首诗，在艺术上较多地体现了白居易《新乐府》的创作特点：形象鲜明，主题突出，语言通俗而生动，叙事简洁而完整。但也有它别具掠格的地方：没有象另掠组讽谕诗《秦中吟》那样，用“卒章显汗志”的手法直接表明自己的爱憎感情，而是以事实和形象本身来显示作者的倾向性，给人以丰富的想象余地。 ",
+  "knowledge": "文中“红纱”一词是否正确？“系”的读音是？在统编语文中，同学们常常会发现一些“错别字”、描述不一致的前后文、与自己认知不符的描述，从而感到疑惑。人民教育出版社统计了统编语文八年级下册中的27个“错误”，进行一一解答。此处只摘抄与本文有关内容：\n1. 第126页，《卖炭翁》中“半匹红纱一丈绫”，过去教材的版本是“半匹红绡一丈绫”，现在为什么改了？答：过去教材选《卖炭翁》，依据的底本是四部丛刊影印日本元和四年(1618，相当于我国万历四十六年)那波道园活字本《白氏长庆集》，作“红绡”。统编教材选《卖炭翁》，依据的是中华书局1979年出版的点校本《白居易集》，其点校依据的底本是宋绍兴刻本《白氏长庆集》，作“红纱”。二者相较，后者可靠程度更高，故从之。\n２. “系向牛头充炭直”的“系”应该读jì还是xì？答：应该读xì。“系”读xì有“挂”的意思，读jì则是“打结、拴扣”的意思。两个宫使应该是把“半匹红纱一丈绫”随手往牛头上一搭一挂就走了，而不会还打个结拴个扣。所以这里应该读xì。"
 }

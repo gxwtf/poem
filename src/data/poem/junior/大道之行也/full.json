@@ -1,8 +1,8 @@
 {
   "name": "大道之行也",
-  "author": "戴圣",
-  "dynasty": "西汉",
-  "mode": "paragraph",
+  "author": "礼记",
+  "dynasty": "两汉",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,1167 +11,730 @@
             {
               "char": "大",
               "pinyin": "dà",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "道",
               "pinyin": "dào",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "行",
               "pinyin": "xíng",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "天",
               "pinyin": "tiān",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "为",
               "pinyin": "wéi",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             }
           ],
-          "translation": "大道施行的时代，天下是公共的。",
-          "pinyin": "dà dào zhī xíng yě ， tiān xià wéi gōng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "大：指理想中的最高境界。道：社会运行的根本原则。"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "content": "道：指社会制度与道德规范的总和。"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "content": "行：推行、实现。"
-            },
-            {
-              "start": 6,
-              "end": 9,
-              "content": "天下为公：天下是公共的，不属于私人所有。为，表判断，相当于‘是’。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 6,
-              "end": 9,
-              "content": "判断句，‘天下为公’无判断词，直接以‘为’连接主谓，表达判断关系。"
-            }
-          ]
+          "translation": "在大道施行的时候，天下是人们所共有的，选举品德高尚、有才干的人，讲求诚信，培养和睦气氛。"
         },
         {
           "content": [
             {
               "char": "选",
               "pinyin": "xuǎn",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "贤",
               "pinyin": "xián",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "与",
               "pinyin": "jǔ",
-              "index": 13,
-              "read": true,
-              "write": false
+              "index": 13
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "讲",
               "pinyin": "jiǎng",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "信",
               "pinyin": "xìn",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "修",
               "pinyin": "xiū",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "睦",
               "pinyin": "mù",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             }
           ],
-          "translation": "选拔贤能的人，讲求诚信培养和睦。",
-          "pinyin": "xuǎn xián jǔ néng ， jiǎng xìn xiū mù 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "选贤与能：选拔贤德之人并推举有才能者。与，通‘举’，推举。"
-            },
-            {
-              "start": 5,
-              "end": 9,
-              "content": "讲信修睦：讲求诚信，建立和睦关系。修，培养；睦，和睦。"
-            }
-          ]
+          "translation": "因此人们不只是敬爱自己的父母，不只是疼爱自己的孩子，（要）使老人有终老的保障，中年人能够发挥自己的才能，为社会效力，幼童能顺利地成长，使老而无妻的人、老而无夫的人、幼年丧父的孩子、老而无子的人、有残疾而不能做事的人都能得到供养。"
         },
         {
           "content": [
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "独",
               "pinyin": "dú",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "亲",
               "pinyin": "qīn",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "亲",
               "pinyin": "qīn",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "独",
               "pinyin": "dú",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "",
-              "index": 34,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "所以人们不只敬爱自己的父母，不只疼爱自己的子女。",
-          "pinyin": "gù rén bù dú qīn qí qīn ， bù dú zǐ qí zǐ 。",
-          "notes": [
-            {
-              "start": 4,
-              "end": 4,
-              "content": "亲：动词，奉养。"
+              "index": 34
             },
-            {
-              "start": 5,
-              "end": 5,
-              "content": "其：代词，自己的。"
-            },
-            {
-              "start": 6,
-              "end": 6,
-              "content": "亲：名词，父母。"
-            },
-            {
-              "start": 10,
-              "end": 10,
-              "content": "子：动词，抚养。"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "content": "其：自己的。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "子：名词，子女。"
-            }
-          ]
-        },
-        {
-          "content": [
             {
               "char": "使",
               "pinyin": "shǐ",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "老",
               "pinyin": "lǎo",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "终",
               "pinyin": "zhōng",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "壮",
               "pinyin": "zhuàng",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "用",
               "pinyin": "yòng",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "幼",
               "pinyin": "yòu",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "长",
               "pinyin": "zhǎng",
-              "index": 49,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 50,
-              "read": true,
-              "write": true
-            }
-          ],
-          "translation": "使老年人能安享天年，壮年人能为社会效力，幼童能健康成长。",
-          "pinyin": "shǐ lǎo yǒu suǒ zhōng ， zhuàng yǒu suǒ yòng ， yòu yǒu suǒ zhǎng 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 5,
-              "content": "老有所终：老年人能安享晚年。所终，安度余生的地方。"
-            },
-            {
-              "start": 6,
-              "end": 10,
-              "content": "壮有所用：壮年人能为社会所用。所用，发挥作用的位置。"
-            },
-            {
-              "start": 11,
-              "end": 15,
-              "content": "幼有所长：幼儿能得到抚养成长。所长，成长的环境。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 1,
-              "end": 15,
-              "content": "‘有……所……’结构，为文言中典型的‘所’字短语，表示‘有……的地方’或‘有……的条件’。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "矜",
-              "pinyin": "guān",
-              "index": 51,
-              "read": true,
-              "write": true
-            },
-            {
-              "char": "、",
-              "pinyin": "",
-              "index": 52,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "寡",
-              "pinyin": "guǎ",
-              "index": 53,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "、",
-              "pinyin": "",
-              "index": 54,
-              "read": false,
-              "write": true
-            },
-            {
-              "char": "孤",
-              "pinyin": "gū",
-              "index": 55,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "、",
-              "pinyin": "",
-              "index": 56,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "独",
-              "pinyin": "dú",
-              "index": 57,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "、",
-              "pinyin": "",
-              "index": 58,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "废",
-              "pinyin": "fèi",
-              "index": 59,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "疾",
-              "pinyin": "jí",
-              "index": 60,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě",
-              "index": 61,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "皆",
-              "pinyin": "jiē",
-              "index": 62,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "有",
-              "pinyin": "yǒu",
-              "index": 63,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "所",
-              "pinyin": "suǒ",
-              "index": 64,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "养",
-              "pinyin": "yǎng",
-              "index": 65,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 66,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "老而无妻、老而无夫、幼而无父、老而无子、残疾人都能得到供养。",
-          "pinyin": "guān 、 guǎ 、 gū 、 dú 、 fèi jí zhě jiē yǒu suǒ yǎng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 11,
-              "content": "矜寡孤独废疾者：泛指社会弱势群体。矜，通‘鳏’，无妻的成年男子；寡，寡妇；孤，幼年丧父；独，老年无子；废疾，残疾者。"
-            },
-            {
-              "start": 12,
-              "end": 15,
-              "content": "皆有所养：都能得到供养。养，赡养、照顾。"
-            }
-          ]
-        },
-        {
-          "content": [
-            {
-              "char": "男",
-              "pinyin": "nán",
-              "index": 67,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "有",
-              "pinyin": "yǒu",
-              "index": 68,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "分",
-              "pinyin": "fèn",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 70,
-              "read": true,
-              "write": true
+              "index": 50
             },
             {
-              "char": "女",
-              "pinyin": "nǚ",
-              "index": 71,
-              "read": false,
-              "write": false
+              "char": "矜",
+              "pinyin": "guān",
+              "index": 51
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 52
+            },
+            {
+              "char": "寡",
+              "pinyin": "guǎ",
+              "index": 53
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 54
+            },
+            {
+              "char": "孤",
+              "pinyin": "gū",
+              "index": 55
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 56
+            },
+            {
+              "char": "独",
+              "pinyin": "dú",
+              "index": 57
+            },
+            {
+              "char": "、",
+              "pinyin": "",
+              "index": 58
+            },
+            {
+              "char": "废",
+              "pinyin": "fèi",
+              "index": 59
+            },
+            {
+              "char": "疾",
+              "pinyin": "jí",
+              "index": 60
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě",
+              "index": 61
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē",
+              "index": 62
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 63
+            },
+            {
+              "char": "所",
+              "pinyin": "suǒ",
+              "index": 64
+            },
+            {
+              "char": "养",
+              "pinyin": "yǎng",
+              "index": 65
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 66
+            },
+            {
+              "char": "男",
+              "pinyin": "nán",
+              "index": 67
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 68
+            },
+            {
+              "char": "分",
+              "pinyin": "fèn",
+              "index": 69
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 70
+            },
+            {
+              "char": "女",
+              "pinyin": "nǚ",
+              "index": 71
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu",
+              "index": 72
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 74,
-              "read": false,
-              "write": true
+              "index": 74
             }
           ],
-          "translation": "男子有职务，女子有归宿。",
-          "pinyin": "nán yǒu fèn ， nǚ yǒu guī 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 3,
-              "content": "男有分：男子各有职分。分，fèn，职责、名分。"
-            },
-            {
-              "start": 5,
-              "end": 7,
-              "content": "女有归：女子有归宿，指能出嫁。归，出嫁。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 3,
-              "old": "职分、职责"
-            },
-            {
-              "start": 3,
-              "end": 3,
-              "new": "分开、分离"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "old": "女子出嫁"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "返回"
-            }
-          ]
+          "translation": "男子有职业，女子有归宿。"
         },
         {
           "content": [
             {
               "char": "货",
               "pinyin": "huò",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "恶",
               "pinyin": "wù",
-              "index": 76,
-              "read": true,
-              "write": false
+              "index": 76
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "弃",
               "pinyin": "qì",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "地",
               "pinyin": "dì",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "必",
               "pinyin": "bì",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "藏",
               "pinyin": "cáng",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "己",
               "pinyin": "jǐ",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
-              "char": "。",
+              "char": "；",
               "pinyin": "",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             }
           ],
-          "translation": "财物厌恶被扔在地上，但不一定藏在自己家里。",
-          "pinyin": "huò wù qí qì yú dì yě ， bù bì cáng yú jǐ 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 6,
-              "content": "货恶其弃于地也：财物厌恶被丢弃在地上。恶，wù，厌恶；于地，介词结构后置，意为‘在地上’。"
-            },
-            {
-              "start": 9,
-              "end": 13,
-              "content": "不必藏于己：不一定私藏起来。藏，收藏；己，自己。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 1,
-              "end": 6,
-              "content": "状语后置，‘于地’为介词结构后置于动词‘弃’之后，正常语序应为‘恶其于地弃’。"
-            }
-          ]
+          "translation": "财物，厌恶把它扔在地上，但（之所以厌恶）不一定是因为想要据为己有；"
         },
         {
           "content": [
             {
               "char": "力",
               "pinyin": "lì",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "恶",
               "pinyin": "wù",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "出",
               "pinyin": "chū",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "身",
               "pinyin": "shēn",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "必",
               "pinyin": "bì",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "为",
               "pinyin": "wèi",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "己",
               "pinyin": "jǐ",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             }
           ],
-          "translation": "力气厌恶不从自己身上使出来，但不一定为了自己。",
-          "pinyin": "lì wù qí bù chū yú shēn yě ， bù bì wèi jǐ 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 8,
-              "content": "力恶其不出于身也：力气厌恶自己不出力。出，使……付出；于身，从自身发出，状语后置。"
-            },
-            {
-              "start": 11,
-              "end": 13,
-              "content": "不为己：不是为了自己。"
-            }
-          ]
+          "translation": "力气，厌恶它不出于自己，但（愿意自己多出力）不一定是为了自己的私利。"
         },
         {
           "content": [
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "谋",
               "pinyin": "móu",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "闭",
               "pinyin": "bì",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "兴",
               "pinyin": "xīng",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "盗",
               "pinyin": "dào",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "窃",
               "pinyin": "qiè",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "乱",
               "pinyin": "luàn",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "贼",
               "pinyin": "zéi",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 115
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 116
             },
             {
               "char": "作",
               "pinyin": "zuò",
-              "index": 117,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 118,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "故",
-              "pinyin": "gù",
-              "index": 119,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "外",
-              "pinyin": "wài",
-              "index": 120,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "户",
-              "pinyin": "hù",
-              "index": 121,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "而",
-              "pinyin": "ér",
-              "index": 122,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "不",
-              "pinyin": "bù",
-              "index": 123,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "闭",
-              "pinyin": "bì",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 125,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
-              "char": "是",
-              "index": 126,
-              "read": false,
-              "write": false,
-              "pinyin": "shì"
+              "char": "故",
+              "pinyin": "gù",
+              "index": 119
             },
             {
-              "char": "谓",
-              "index": 127,
-              "read": false,
-              "write": false,
-              "pinyin": "wèi"
+              "char": "外",
+              "pinyin": "wài",
+              "index": 120
             },
             {
-              "char": "大",
-              "index": 128,
-              "read": false,
-              "write": false,
-              "pinyin": "dà"
+              "char": "户",
+              "pinyin": "hù",
+              "index": 121
             },
             {
-              "char": "同",
-              "index": 129,
-              "read": false,
-              "write": false,
-              "pinyin": "tóng"
+              "char": "而",
+              "pinyin": "ér",
+              "index": 122
+            },
+            {
+              "char": "不",
+              "pinyin": "bù",
+              "index": 123
+            },
+            {
+              "char": "闭",
+              "pinyin": "bì",
+              "index": 124
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 130,
-              "read": false,
-              "write": false
+              "index": 125
             }
           ],
-          "translation": "因此奸邪之谋不会兴起，盗窃作乱害人之事不会发生。所以大门不用关闭，这就叫做大同世界。",
-          "pinyin": "shì gù móu bì ér bù xīng ， dào qiè luàn zéi ér bù zuò 。 gù wài hù ér bù bì ， shì wèi dà tóng 。",
-          "notes": [
+          "translation": "因此，图谋之心闭塞而不会兴起，盗窃、作乱害人（之事）不会兴起，所以（家家户户）门从外面带上，而不从里面闩上，这叫做“大同”社会（理想社会）。"
+        },
+        {
+          "content": [
             {
-              "start": 2,
-              "end": 7,
-              "content": "谋闭而不兴：阴谋诡计被杜绝而不兴起。谋，阴谋；闭，杜绝；兴，发生。"
+              "char": "是",
+              "pinyin": "shì",
+              "index": 126
             },
             {
-              "start": 8,
-              "end": 15,
-              "content": "盗窃乱贼而不作：偷盗、造反、害人之事不会发生。作，兴起。"
+              "char": "谓",
+              "pinyin": "wèi",
+              "index": 127
             },
             {
-              "start": 17,
-              "end": 22,
-              "content": "外户而不闭：门外不用关闭。外户，指门外；不闭，不用锁。"
+              "char": "大",
+              "pinyin": "dà",
+              "index": 128
             },
             {
-              "start": 24,
-              "end": 27,
-              "content": "是谓大同：这就叫做大同社会。是，这；谓，叫做。"
+              "char": "同",
+              "pinyin": "tóng",
+              "index": 129
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 130
             }
-          ]
+          ],
+          "translation": ""
+        },
+        {
+          "content": [
+            {
+              "char": "(",
+              "pinyin": "",
+              "index": 131
+            },
+            {
+              "char": "矜",
+              "pinyin": "",
+              "index": 132
+            },
+            {
+              "char": " ",
+              "pinyin": "",
+              "index": 133
+            },
+            {
+              "char": "同",
+              "pinyin": "",
+              "index": 134
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 135
+            },
+            {
+              "char": "鳏",
+              "pinyin": "",
+              "index": 136
+            },
+            {
+              "char": ")",
+              "pinyin": "",
+              "index": 137
+            }
+          ],
+          "translation": ""
         }
       ]
     }
@@ -1182,5 +745,8 @@
     "礼记"
   ],
   "background": "《大道之行也》是《礼记·礼运》开头部分中孔子的一段话。",
-  "appreciation": "《大道之行也》是《礼记》中的一篇散文，此文是为阐明儒家思想中“大同”社会的基本特征和古人追求的“天下为公”的理想社会模式而作。文章首先概括了“大同”社会的基本特征；其次阐释了“大同”社会的理想模式；最后以现实社会跟理想的“大同”社会作对比而进一步阐释“大同”。全文节奏分明、变化有致、不拘一格，读来启人深思，鼓舞人心。"
+  "appreciation": "《大道之行也》是《礼记》中的一篇散文，此文是为阐明儒家思想中“大同”社会的基本特征和古人追求的“天下为公”的理想社会模式而作。文章首先概括了“大同”社会的基本特征；其次阐释了“大同”社会的理想模式；最后以现实社会跟理想的“大同”社会作对比而进一步阐释“大同”。全文节奏分明、变化有致、不拘一格，读来启人深思，鼓舞人心。",
+  "annotation": "大道：指儒家推崇的上古时代的政治制度。行：施行。为：是，表判断。与：通“举”，选举，推举。修：培养。亲：意动用法，以为亲，亲近。壮：青壮年。矜（guān）：通“鳏”，老而无妻的人。孤：幼而无父的人。独：老而无子的人。废疾：残疾人。分（fèn）：职分，指职业、职守。归：指女子出嫁。恶（wù）：憎恶。藏：私藏。是故：因此，所以，这样一来。谋闭而不兴：图谋之心闭塞而不会兴起。闭：杜绝；兴：发生。作：兴起。故：所以。外户：从外面关闭的门。闭：用门闩插上。谓：叫做。大同：指儒家的理想社会或人类社会最高准则。同：有和、平的意思。",
+  "comprehensive_appreciation": "#### 主题思想\n此文在阐明“大同”社会基本特征的基础上，指出了“大同”社会的美好前景。这里人人都能受到社会关爱，安居乐业，且各尽所能，这里寄托着儒家崇高的社会理想。文中拿现实社会跟理想的“大同”社会作对比，从而顺理成章地指出，现实社会中诸多现象如搞阴谋、盗窃财物、作乱等在“大同社会中将不复存在，代之而兴的将是一个“外户而不闭”的和平、安定的局面。这其中已经折射出现实社会的真实情形：社会变乱纷乘，动荡不安尔虞我诈，人人自危；盗贼横行，混乱不堪。总之，此文中所描述的理想社会，反映了中国古代人民对美好社会的幸福憧憬。虽然主观目的，只是论说礼仪、阐释古制、宣传儒家思想，但其中的“天下为公”的“大同”社会理想，却是两千多年前的古代圣贤留给全人类的思想财富。读来启人深思，鼓舞人心。#### 分层解析\n第一层\n（一、二句话）对“大同”社会的纲领性说明\n第二层\n（三、四句话）大同社会的基本特征：1. 满足生存需求：人人得到社会的关爱。\n2. 满足发展需求：人人都能安居乐业\n3. 满足精神愉悦上的需求：货尽其用，人尽其力\n第三层\n（第五句话）全文的总结语\n用现实社会跟理想社会中的“大同”社会做对比，指出现实社会中的诸多黑暗现象，在“大同”社会中将不复存在，取代的将是“外户而不闭”的和平、安定的局面。",
+  "knowledge": "### 通假字\n选贤与（jǔ）能（与：通“举”，推举，选举。）矜（guān）、寡、孤、独、废疾者（矜：通“鳏”，老而无妻的人。）\n\n### 古今异义\n大道之行也古义：指政治上的最高境界今义：宽阔的路男有分，女有归古义：女子出嫁今义：返回，回归，回到本处鳏寡孤独古义\n：为两个字。“孤”指幼而无父的人；“独”指老而无子的人。今义：为一个词，单一，只有一个，指独自一个人。盗窃乱贼而不作古义：造反今义：“杂乱”，“捣乱”等含义盗窃乱贼而不作古义 ：害人今义：小偷，窃贼盗窃乱贼而不作古义：兴起今义：作为是谓大同古义：代词“这”今义：常用于判断词，或与“非”相对。\n\n### 词类活用\n\n1. 故人不独亲其亲\n（①亲：动词作意动用法，以……为亲，奉养。②亲：指父母。）\n2. 不独子其子 （①子：名词作意动用法，以……为子，抚养。②子：指子女。）\n3. 使老有所终 （老） 形容词作名词，老年人。\n4. 壮有所用 （壮） 形容词作名词，壮年人。\n5. 幼有所长 （幼） 形容词作名词，幼童。\n6. 故外户而不闭（外）名词作动词，打开。\n7. 选贤举能（贤） 形容词作名词，品德高尚的人。\n8. 选贤举能(能) 形容词作名词，才干出众的人。"
 }

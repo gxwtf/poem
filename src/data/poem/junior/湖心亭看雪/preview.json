@@ -58,7 +58,7 @@
             }
           ],
           "translation": {
-            "translation": "崇祯五年十二月，我住西湖边。"
+            "translation": "崇祯五年十二月，我住在西湖边。"
           },
           "notes": []
         },
@@ -118,7 +118,7 @@
             }
           ],
           "translation": {
-            "translation": "大雪连下三日，湖中人声鸟声都消失。"
+            "translation": "大雪接连下了几日，湖中游人全无，连飞鸟的声音都消失了。"
           },
           "notes": []
         },
@@ -154,13 +154,7 @@
             },
             {
               "char": "拏",
-              "pinyin": "ná",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "拏：撑，划船的意思，此处指撑小船。"
-                }
-              ]
+              "pinyin": "ná"
             },
             {
               "char": "一",
@@ -236,20 +230,10 @@
             }
           ],
           "translation": {
-            "translation": "这天初更时分，我撑小船裹皮衣带火炉，独自去湖心亭赏雪。"
+            "translation": "这天晚上八点左右，我撑着一叶小舟，裹着裘皮衣服，围着火炉，独自前往湖心亭看雪。"
           },
-          "notes": [
-            {
-              "start": 13,
-              "end": 15,
-              "note": "毳衣：用鸟兽细毛制成的衣物，多指毛皮衣服，御寒用。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -321,23 +305,9 @@
               "pinyin": "bái"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "冰花弥漫，天空云层山峦湖水，浑然一体白茫茫。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "雾凇沆砀：形容雪后水汽凝结、冰晶弥漫的景象。雾凇，水汽凝成的冰花；沆砀，白茫茫一片。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "湖",
               "pinyin": "hú"
@@ -360,13 +330,7 @@
             },
             {
               "char": "惟",
-              "pinyin": "wéi",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "惟：只，仅仅，表示限定范围。"
-                }
-              ]
+              "pinyin": "wéi"
             },
             {
               "char": "长",
@@ -386,13 +350,7 @@
             },
             {
               "char": "、",
-              "pinyin": "",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "痕：痕迹，此处用作量词，形容长堤在雪景中仅留下淡淡一线。"
-                }
-              ]
+              "pinyin": ""
             },
             {
               "char": "湖",
@@ -436,13 +394,7 @@
             },
             {
               "char": "芥",
-              "pinyin": "jiè",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "芥：小草，此处用作量词，比喻舟之微小如草叶。"
-                }
-              ]
+              "pinyin": "jiè"
             },
             {
               "char": "、",
@@ -486,21 +438,14 @@
             }
           ],
           "translation": {
-            "translation": "湖上影子，只有长堤一道痕迹、湖心亭一个黑点、和我的船如草叶、船中人两三微粒而已。"
+            "translation": "湖面上冰花一片弥漫，天、云、山、水混为一体，白茫茫一片。"
           },
-          "notes": [
-            {
-              "start": 28,
-              "end": 29,
-              "note": "粒：米粒，此处用作量词，极言人之渺小。"
-            },
-            {
-              "start": 30,
-              "end": 31,
-              "note": "而已：罢了，表示限止语气，强调景物稀少。"
-            }
-          ]
-        },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
         {
           "sentence": [
             {
@@ -589,14 +534,10 @@
             }
           ],
           "translation": {
-            "translation": "来到亭上，见两人铺毡对坐，童子煮酒炉火正旺。"
+            "translation": "湖上的影子，只有西湖长堤在雪中隐隐露出的一道痕迹，一点湖心亭的轮廓，和我的微小如草的小舟，舟中的两三粒人影罢了。"
           },
           "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
+        },
         {
           "sentence": [
             {
@@ -606,10 +547,6 @@
             {
               "char": "余",
               "pinyin": "yú"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
             },
             {
               "char": "大",
@@ -628,78 +565,72 @@
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "hú"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "湖",
-              "pinyin": "zhōng"
+              "pinyin": "hú"
             },
             {
               "char": "中",
-              "pinyin": "yān"
+              "pinyin": "zhōng"
             },
             {
               "char": "焉",
-              "pinyin": "dé"
+              "pinyin": "yān"
             },
             {
               "char": "得",
-              "pinyin": "gèng"
+              "pinyin": "dé"
             },
             {
               "char": "更",
-              "pinyin": "yǒu"
+              "pinyin": "gèng"
             },
             {
               "char": "有",
-              "pinyin": "cǐ"
+              "pinyin": "yǒu"
             },
             {
               "char": "此",
-              "pinyin": "rén"
+              "pinyin": "cǐ"
             },
             {
               "char": "人",
-              "pinyin": "lā"
+              "pinyin": "rén"
             },
             {
               "char": "！",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "yú"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "见到我惊喜道：\"湖中怎还有这样的人！\""
+            "translation": "到了湖心亭上，我看见有两人铺好毛毯，相对而坐，一个童子正把酒炉里的酒烧得滚沸。"
           },
-          "notes": [
-            {
-              "start": 10,
-              "end": 11,
-              "note": "焉得：怎么能，表示惊叹，反问语气。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "拉",
-              "pinyin": "tóng"
+              "pinyin": "lā"
             },
             {
               "char": "余",
-              "pinyin": "yǐn"
-            },
-            {
-              "char": "同",
               "pinyin": "yú"
             },
             {
+              "char": "同",
+              "pinyin": "tóng"
+            },
+            {
               "char": "饮",
-              "pinyin": "qiǎng"
+              "pinyin": "yǐn"
             },
             {
               "char": "。",
@@ -707,7 +638,7 @@
             }
           ],
           "translation": {
-            "translation": "拉我同饮。"
+            "translation": "他们看见我，非常高兴地说：“（想不到）在湖中还会有您这样有闲情逸致的人！”"
           },
           "notes": []
         },
@@ -715,41 +646,35 @@
           "sentence": [
             {
               "char": "余",
-              "pinyin": "yǐn"
+              "pinyin": "yú"
             },
             {
               "char": "强",
-              "pinyin": "sān",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "强：尽力，勉强，此处指尽力饮酒，表达豪情。"
-                }
-              ]
+              "pinyin": "qiǎng"
             },
             {
               "char": "饮",
-              "pinyin": "dà"
+              "pinyin": "yǐn"
             },
             {
               "char": "三",
-              "pinyin": "bái"
+              "pinyin": "sān"
             },
             {
               "char": "大",
-              "pinyin": "ér"
+              "pinyin": "dà"
             },
             {
               "char": "白",
-              "pinyin": "bié"
+              "pinyin": "bái"
             },
             {
               "char": "而",
-              "pinyin": "wèn"
+              "pinyin": "ér"
             },
             {
               "char": "别",
-              "pinyin": "qí"
+              "pinyin": "bié"
             },
             {
               "char": "。",
@@ -757,33 +682,27 @@
             }
           ],
           "translation": {
-            "translation": "我勉强喝三杯告辞。"
+            "translation": "于是拉着我一同饮酒。"
           },
-          "notes": [
-            {
-              "start": 4,
-              "end": 6,
-              "note": "大白：古代一种酒杯，常用于宴饮场合，此处指大杯喝酒。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "问",
-              "pinyin": "xìng"
+              "pinyin": "wèn"
             },
             {
               "char": "其",
-              "pinyin": "shì"
+              "pinyin": "qí"
             },
             {
               "char": "姓",
-              "pinyin": "shì"
+              "pinyin": "xìng"
             },
             {
               "char": "氏",
-              "pinyin": "jīn"
+              "pinyin": "shì"
             },
             {
               "char": "，",
@@ -791,19 +710,19 @@
             },
             {
               "char": "是",
-              "pinyin": "líng"
+              "pinyin": "shì"
             },
             {
               "char": "金",
-              "pinyin": "rén"
+              "pinyin": "jīn"
             },
             {
               "char": "陵",
-              "pinyin": "kè"
+              "pinyin": "líng"
             },
             {
               "char": "人",
-              "pinyin": "cǐ"
+              "pinyin": "rén"
             },
             {
               "char": "，",
@@ -811,11 +730,11 @@
             },
             {
               "char": "客",
-              "pinyin": "jí"
+              "pinyin": "kè"
             },
             {
               "char": "此",
-              "pinyin": "xià"
+              "pinyin": "cǐ"
             },
             {
               "char": "。",
@@ -823,29 +742,23 @@
             }
           ],
           "translation": {
-            "translation": "问其姓氏，知是金陵人客居此地。"
+            "translation": "我尽力喝了三大杯，然后和他们道别。"
           },
-          "notes": [
-            {
-              "start": 10,
-              "end": 11,
-              "note": "客：作动词，客居，寄居他乡的意思。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "及",
-              "pinyin": "chuán"
+              "pinyin": "jí"
             },
             {
               "char": "下",
-              "pinyin": "zhōu"
+              "pinyin": "xià"
             },
             {
               "char": "船",
-              "pinyin": "zǐ"
+              "pinyin": "chuán"
             },
             {
               "char": "，",
@@ -853,47 +766,47 @@
             },
             {
               "char": "舟",
-              "pinyin": "nán"
+              "pinyin": "zhōu"
             },
             {
               "char": "子",
+              "pinyin": "zǐ"
+            },
+            {
+              "char": "喃",
               "pinyin": "nán"
             },
             {
               "char": "喃",
-              "pinyin": "yuē"
-            },
-            {
-              "char": "喃",
-              "pinyin": "mò"
+              "pinyin": "nán"
             },
             {
               "char": "曰",
-              "pinyin": "shuō"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "xiàng"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "莫",
-              "pinyin": "gōng"
+              "pinyin": "mò"
             },
             {
               "char": "说",
-              "pinyin": "chī"
+              "pinyin": "shuō"
             },
             {
               "char": "相",
-              "pinyin": "gèng"
+              "pinyin": "xiàng"
             },
             {
               "char": "公",
-              "pinyin": "yǒu"
+              "pinyin": "gōng"
             },
             {
               "char": "痴",
@@ -905,47 +818,45 @@
             },
             {
               "char": "更",
-              "pinyin": "sì"
+              "pinyin": "gèng"
             },
             {
               "char": "有",
-              "pinyin": "xiàng"
+              "pinyin": "yǒu"
             },
             {
               "char": "痴",
-              "pinyin": "gōng"
+              "pinyin": "chī"
             },
             {
               "char": "似",
+              "pinyin": "sì"
+            },
+            {
+              "char": "相",
+              "pinyin": "xiàng"
+            },
+            {
+              "char": "公",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "者",
               "pinyin": "zhě"
             },
             {
-              "char": "相"
-            },
-            {
-              "char": "公"
-            },
-            {
-              "char": "者"
-            },
-            {
-              "char": "！",
+              "char": "。",
               "pinyin": "　"
             },
             {
-              "char": "\""
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "下船时船夫嘀咕：\"别说相公痴，还有像您一样痴的人！\""
+            "translation": "问他们的姓氏，得知他们是金陵人，在此地客居。"
           },
-          "notes": [
-            {
-              "start": 6,
-              "end": 7,
-              "note": "喃喃：低声自语的样子，表现舟子对作者行为的不解与感慨。"
-            }
-          ]
+          "notes": []
         }
       ]
     }

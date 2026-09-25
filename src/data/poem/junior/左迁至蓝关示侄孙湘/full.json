@@ -183,54 +183,44 @@
         {
           "content": [
             {
-              "char": "(",
-              "pinyin": "",
+              "char": "云",
+              "pinyin": "yún",
               "index": 32
             },
             {
-              "char": "欲",
-              "pinyin": "yún",
+              "char": "横",
+              "pinyin": "héng",
               "index": 33
             },
             {
-              "char": "为",
-              "pinyin": "héng",
+              "char": "秦",
+              "pinyin": "qín",
               "index": 34
             },
             {
-              "char": " ",
-              "pinyin": "qín",
+              "char": "岭",
+              "pinyin": "lǐng",
               "index": 35
             },
             {
-              "char": "一",
-              "pinyin": "lǐng",
+              "char": "家",
+              "pinyin": "jiā",
               "index": 36
             },
             {
-              "char": "作",
-              "pinyin": "jiā",
+              "char": "何",
+              "pinyin": "hé",
               "index": 37
             },
             {
-              "char": "：",
-              "pinyin": "",
+              "char": "在",
+              "pinyin": "zài",
               "index": 38
             },
             {
-              "char": "本",
-              "pinyin": "hé",
-              "index": 39
-            },
-            {
-              "char": "为",
-              "pinyin": "zài",
-              "index": 40
-            },
-            {
-              "char": "；",
+              "char": "？",
               "pinyin": "",
-              "index": 41
+              "index": 39
             }
           ],
           "translation": "回头望长安，看到的只是浮云隔断的终南山，家又在哪里？"
@@ -238,49 +228,44 @@
         {
           "content": [
             {
-              "char": "圣",
+              "char": "雪",
               "pinyin": "xuě",
+              "index": 40
+            },
+            {
+              "char": "拥",
+              "pinyin": "yōng",
+              "index": 41
+            },
+            {
+              "char": "蓝",
+              "pinyin": "lán",
               "index": 42
             },
             {
-              "char": "明",
-              "pinyin": "yōng",
+              "char": "关",
+              "pinyin": "guān",
               "index": 43
             },
             {
-              "char": " ",
-              "pinyin": "lán",
+              "char": "马",
+              "pinyin": "mǎ",
               "index": 44
             },
             {
-              "char": "一",
-              "pinyin": "guān",
+              "char": "不",
+              "pinyin": "bù",
               "index": 45
             },
             {
-              "char": "作",
-              "pinyin": "mǎ",
+              "char": "前",
+              "pinyin": "qián",
               "index": 46
             },
             {
-              "char": "：",
+              "char": "。",
               "pinyin": "",
               "index": 47
-            },
-            {
-              "char": "圣",
-              "pinyin": "bù",
-              "index": 48
-            },
-            {
-              "char": "朝",
-              "pinyin": "qián",
-              "index": 49
-            },
-            {
-              "char": "；",
-              "pinyin": "",
-              "index": 50
             }
           ],
           "translation": "立马蓝关，积雪拥塞，连马也踟蹰不前。"
@@ -288,224 +273,90 @@
         {
           "content": [
             {
-              "char": "肯",
-              "pinyin": "zhī",
-              "index": 51
-            },
-            {
-              "char": "将",
-              "pinyin": "rǔ",
-              "index": 52
-            },
-            {
-              "char": " ",
-              "pinyin": "yuǎn",
-              "index": 53
-            },
-            {
-              "char": "一",
-              "pinyin": "lái",
-              "index": 54
-            },
-            {
-              "char": "作",
-              "pinyin": "yīng",
-              "index": 55
-            },
-            {
-              "char": "：",
-              "pinyin": "",
-              "index": 56
-            },
-            {
-              "char": "敢",
-              "pinyin": "yǒu",
-              "index": 57
-            },
-            {
-              "char": "将",
-              "pinyin": "yì",
-              "index": 58
-            },
-            {
-              "char": ")",
-              "pinyin": "",
-              "index": 59
-            },
-            {
-              "char": "云",
-              "pinyin": "hǎo",
-              "index": 60
-            },
-            {
-              "char": "横",
-              "pinyin": "shōu",
-              "index": 61
-            },
-            {
-              "char": "秦",
-              "pinyin": "wú",
-              "index": 62
-            },
-            {
-              "char": "岭",
-              "pinyin": "gǔ",
-              "index": 63
-            },
-            {
-              "char": "家",
-              "pinyin": "zhàng",
-              "index": 64
-            },
-            {
-              "char": "何",
-              "pinyin": "jiāng",
-              "index": 65
-            },
-            {
-              "char": "在",
-              "pinyin": "biān",
-              "index": 66
-            },
-            {
-              "char": "？",
-              "pinyin": "",
-              "index": 67
-            }
-          ],
-          "translation": "我知你远道而来应知道我此去凶多吉少，正好在潮州瘴气弥漫的江流边把我的尸骨收清。"
-        },
-        {
-          "content": [
-            {
-              "char": "雪",
-              "pinyin": "",
-              "index": 68
-            },
-            {
-              "char": "拥",
-              "pinyin": "",
-              "index": 69
-            },
-            {
-              "char": "蓝",
-              "pinyin": "",
-              "index": 70
-            },
-            {
-              "char": "关",
-              "pinyin": "",
-              "index": 71
-            },
-            {
-              "char": "马",
-              "pinyin": "",
-              "index": 72
-            },
-            {
-              "char": "不",
-              "pinyin": "",
-              "index": 73
-            },
-            {
-              "char": "前",
-              "pinyin": "",
-              "index": 74
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 75
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
-            {
               "char": "知",
-              "pinyin": "",
-              "index": 76
+              "pinyin": "zhī",
+              "index": 48
             },
             {
               "char": "汝",
-              "pinyin": "",
-              "index": 77
+              "pinyin": "rǔ",
+              "index": 49
             },
             {
               "char": "远",
-              "pinyin": "",
-              "index": 78
+              "pinyin": "yuǎn",
+              "index": 50
             },
             {
               "char": "来",
-              "pinyin": "",
-              "index": 79
+              "pinyin": "lái",
+              "index": 51
             },
             {
               "char": "应",
-              "pinyin": "",
-              "index": 80
+              "pinyin": "yīng",
+              "index": 52
             },
             {
               "char": "有",
-              "pinyin": "",
-              "index": 81
+              "pinyin": "yǒu",
+              "index": 53
             },
             {
               "char": "意",
-              "pinyin": "",
-              "index": 82
+              "pinyin": "yì",
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 83
+              "index": 55
             },
             {
               "char": "好",
-              "pinyin": "",
-              "index": 84
+              "pinyin": "hǎo",
+              "index": 56
             },
             {
               "char": "收",
-              "pinyin": "",
-              "index": 85
+              "pinyin": "shōu",
+              "index": 57
             },
             {
               "char": "吾",
-              "pinyin": "",
-              "index": 86
+              "pinyin": "wú",
+              "index": 58
             },
             {
               "char": "骨",
-              "pinyin": "",
-              "index": 87
+              "pinyin": "gǔ",
+              "index": 59
             },
             {
               "char": "瘴",
-              "pinyin": "",
-              "index": 88
+              "pinyin": "zhàng",
+              "index": 60
             },
             {
               "char": "江",
-              "pinyin": "",
-              "index": 89
+              "pinyin": "jiāng",
+              "index": 61
             },
             {
               "char": "边",
-              "pinyin": "",
-              "index": 90
+              "pinyin": "biān",
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 91
+              "index": 63
             }
           ],
-          "translation": ""
+          "translation": "我知你远道而来应知道我此去凶多吉少，正好在潮州瘴气弥漫的江流边把我的尸骨收清。"
         }
       ]
     }
-  ]
+  ],
+  "knowledge": ""
 }

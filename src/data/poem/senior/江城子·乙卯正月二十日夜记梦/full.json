@@ -2,7 +2,7 @@
   "name": "江城子·乙卯正月二十日夜记梦",
   "author": "苏轼",
   "dynasty": "北宋",
-  "mode": "paragraph",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,130 +11,90 @@
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "生",
               "pinyin": "shēng",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "死",
               "pinyin": "sǐ",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "两",
               "pinyin": "liǎng",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "茫",
               "pinyin": "máng",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "茫",
               "pinyin": "máng",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "思",
               "pinyin": "sī",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "量",
               "pinyin": "liáng",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "难",
               "pinyin": "nán",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "忘",
               "pinyin": "wàng",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             }
           ],
           "translation": "你我夫妻诀别已经整整十年，强忍不去思念可终究难以忘怀。",
-          "pinyin": "shí nián shēng sǐ liǎng máng máng ， bù sī liàng ， zì nán wàng 。",
           "notes": [
             {
               "start": 4,
               "end": 6,
               "content": "指双方茫然不相知。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 8,
-              "end": 11,
-              "content": "‘不思量’为宾语前置，正常语序为‘不量思’，即‘不去思念’。"
             }
           ]
         },
@@ -143,95 +103,65 @@
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 17,
-              "read": true,
-              "write": true
+              "index": 17
             },
             {
               "char": "孤",
               "pinyin": "gū",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "坟",
               "pinyin": "fén",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "处",
               "pinyin": "chù",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "话",
               "pinyin": "huà",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "凄",
               "pinyin": "qī",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "凉",
               "pinyin": "liáng",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             }
           ],
           "translation": "你的坟墓远在千里之外，没有地方能诉说我心中的悲伤凄凉。",
-          "pinyin": "qiān lǐ gū fén ， wú chù huà qī liáng 。",
           "notes": [
             {
               "start": 0,
               "end": 3,
               "content": "王弗葬地在四川眉山，与苏轼任职的山东密州相距遥远，故称亡妻的坟为“千里孤坟”，有感伤自己不能与她同穴相伴之意。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 5,
-              "end": 10,
-              "content": "‘无处话凄凉’为状语后置，正常语序为‘无处凄凉话’，即‘没有地方诉说凄凉’。"
             }
           ]
         },
@@ -240,118 +170,85 @@
             {
               "char": "纵",
               "pinyin": "zòng",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "使",
               "pinyin": "shǐ",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "相",
               "pinyin": "xiāng",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "逢",
               "pinyin": "féng",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "应",
               "pinyin": "yīng",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "识",
               "pinyin": "shí",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "尘",
               "pinyin": "chén",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "满",
               "pinyin": "mǎn",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "面",
               "pinyin": "miàn",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "鬓",
               "pinyin": "bìn",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "霜",
               "pinyin": "shuāng",
-              "index": 41,
-              "read": true,
-              "write": true
+              "index": 41
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             }
           ],
           "translation": "即使你我夫妻相逢怕是也认不出我来了，我四处奔波早已是灰尘满面两鬓如霜。",
-          "pinyin": "zòng shǐ xiāng féng yīng bù shí ， chén mǎn miàn ， bìn rú shuāng 。",
           "notes": []
         }
       ]
@@ -363,118 +260,85 @@
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "幽",
               "pinyin": "yōu",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "梦",
               "pinyin": "mèng",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "忽",
               "pinyin": "hū",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "还",
               "pinyin": "huán",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "乡",
               "pinyin": "xiāng",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "小",
               "pinyin": "xiǎo",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "轩",
               "pinyin": "xuān",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "窗",
               "pinyin": "chuāng",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "正",
               "pinyin": "zhèng",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "梳",
               "pinyin": "shū",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "妆",
               "pinyin": "zhuāng",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             }
           ],
           "translation": "昨夜在梦中回到了家乡，看见你正在小室的窗前对镜梳妆。",
-          "pinyin": "yè lái yōu mèng hū huán xiāng ， xiǎo xuān chuāng ， zhèng shū zhuāng 。",
           "notes": [
             {
               "start": 2,
@@ -493,214 +357,146 @@
             {
               "char": "相",
               "pinyin": "xiāng",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "顾",
               "pinyin": "gù",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "言",
               "pinyin": "yán",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "惟",
               "pinyin": "wéi",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "泪",
               "pinyin": "lèi",
-              "index": 66,
-              "read": true,
-              "write": true
+              "index": 66
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "行",
               "pinyin": "háng",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             }
           ],
           "translation": "你我二人默默相对无言，只有泪落千行。",
-          "pinyin": "xiāng gù wú yán ， wéi yǒu lèi qiān háng 。",
-          "notes": [],
-          "different_meanings": [
-            {
-              "start": 7,
-              "end": 7,
-              "old": "眼泪"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "new": "鼻涕"
-            }
-          ]
+          "notes": []
         },
         {
           "content": [
             {
               "char": "料",
               "pinyin": "liào",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "肠",
               "pinyin": "cháng",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "断",
               "pinyin": "duàn",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "处",
               "pinyin": "chù",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "明",
               "pinyin": "míng",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "夜",
               "pinyin": "yè",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "短",
               "pinyin": "duǎn",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "松",
               "pinyin": "sōng",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "冈",
               "pinyin": "gāng",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             }
           ],
           "translation": "料想你年年都为我柔肠寸断，在那凄冷的月明之夜，在那长满矮松的山冈上。",
-          "pinyin": "liào dé nián nián cháng duàn chù ， míng yuè yè ， duǎn sōng gāng 。",
           "notes": [
             {
               "start": 12,
@@ -717,5 +513,8 @@
     "词"
   ],
   "background": "这首悼亡词，是宋神宗熙宁八年（1075）苏轼徙知山东密州（今山东诸城）时所作。苏东坡十九岁时，与十六岁的王弗结婚，二人恩爱情深，可王弗二十七岁就去世了，这对东坡是绝大的打击。词题中“乙卯”年指的是熙宁八年（1075），其时苏东坡任密州知州，年已四十。这一年正月二十日，他梦见爱妻王氏，便写下了这首传诵千古的悼亡词。",
-  "appreciation": "《江城子·乙卯正月二十日夜记梦》表现了词人对亡妻的深沉思念和无尽哀伤。此词情意缠绵，字字血泪。上阕写词人对亡妻深沉的思念，是写实的笔法；下阕则通过记述梦境，抒发了词人对亡妻的执着不舍之情，为写虚的笔法。上阕记实，下阕记梦，虚实结合，更加强化了对亡妻的思念之情，使得全词的悲伤氛围更加浓厚。整首词采用了朴素自然的白描手法，语言质朴如话家常，但字字深入肺腑，情感真挚而深刻。全词于平淡言语中寄寓真淳，思致委婉，层次丰富，意境深远。"
+  "appreciation": "《江城子·乙卯正月二十日夜记梦》表现了词人对亡妻的深沉思念和无尽哀伤。此词情意缠绵，字字血泪。上阕写词人对亡妻深沉的思念，是写实的笔法；下阕则通过记述梦境，抒发了词人对亡妻的执着不舍之情，为写虚的笔法。上阕记实，下阕记梦，虚实结合，更加强化了对亡妻的思念之情，使得全词的悲伤氛围更加浓厚。整首词采用了朴素自然的白描手法，语言质朴如话家常，但字字深入肺腑，情感真挚而深刻。全词于平淡言语中寄寓真淳，思致委婉，层次丰富，意境深远。",
+  "annotation": "乙卯：公元1075年，即北宋熙宁八年。十年：指结发妻子王弗去世已十年。思量：想念。千里：王弗葬地四川眉山与苏轼任所山东密州，相隔遥远，故称“千里”。孤坟：其妻王氏之墓。幽梦：梦境隐约，故云幽梦。小轩窗：指小室的窗前。轩：门窗。顾：看。明月夜，短松冈：苏轼葬妻之地。短松：矮小的松树。",
+  "comprehensive_appreciation": "赏析：中国文学史上，从《诗经》开始，就现经出现“的亡诗”。从的亡诗出现一直到北宋的苏轼这期间，的亡诗写得最有名的有西晋的潘岳和中唐的元稹。晚唐的李商隐亦曾有的亡之作。他这的作品悲切感人。而用词写的亡，是苏轼的首创。苏轼的这首的亡之作与前人相比，它的表现艺术却另具特色。这首词是“记梦”，而且明确写了做梦的日子。但虽说是“记梦”，其实只有下片五句是记梦境，其他都是抒胸臆。开头三句，排空而下，真情直语，感人至深。“真年生死两茫茫”生死相隔，死者对人世是茫然无知了，而活着的人对逝者，也是同样的。恩爱夫妻，撒手永诀，时间倏忽，转瞬真年。“不思不，自难忘”，人虽云亡，而过去美好的情景“自难忘”怀。因为作者时至中年，那种共担忧患的夫妻感情，久而弥笃，是一时一刻都不能消除的。作者将“不思不”与“自难忘”并举，利用这两组看似矛盾的心态之间的张力，真实而深刻地揭示自己内心的情感。真年忌辰，触动人心的日子里，他不能“不思不”那聪慧明理的贤内助。往事蓦然来到心间，久蓄的情感潜流，忽如闸门大开，奔腾澎湃难以遏止。于是乎有梦，是真实而又自然的。“千里孤坟，无处话凄凉”。想到爱妻华年早逝，感慨万千，远隔千里，无处可以话凄凉，话说得极为沉痛。抹煞了生死界线的痴语、情语，极大程度上表达了作者孤独寂寞、凄凉无助而又急于向人诉说的情感，格外感人。接着，“纵使相逢应不识，尘满面，鬓如霜。”这三个长短句，又把现实与梦幻混同了起来，把死别后的个人种种忧愤，包括在容颜的苍老，形体的衰败之中，这时他才四真岁，现经“鬓如霜”了。明明她辞别人世现经真年，却要“纵使相逢”，这是一种绝望的、不可能的假设，感情是深沉、悲痛，而又无奈的，表现了作者对爱侣的深切怀念，也把个人的变化做了形象的描绘，使这首词的意义更加深了一层。苏东坡曾在《亡妻王氏墓志铭》记述了“妇从汝于艰难，不可忘也”的父训。而此词写得如梦如幻，似真非真，其间真情恐怕不是仅仅依从父命，感于身世吧。作者索于心，托于梦的确实是一份“不思不，自难忘”的患难深情。下片的头五句，才入了题开始“记梦”。“夜来幽梦忽还乡 ”写自己在梦中忽然回到了时常怀念的故乡，在那个两人曾共度甜蜜岁月的地方相聚、重逢。“小轩窗，正梳妆。”那小室，亲切而又熟悉，她情态容貌，依稀当年，正在梳妆打扮。作者以这样一个常见而难忘的场景表达了爱侣在自己心目中的永恒的印象。夫妻相见，没有出现久别重逢、卿卿我我的亲昵，而是“相顾无言，惟有泪千行！”这正是东坡笔力奇崛之处，妙绝千古。“此时无声胜有声”，无声之胜，全在于此。别后种种从何说起，只有任凭泪水倾落。一个梦，把过去拉了回来，但当年的美好情景，并不存在。这是把现实的感受溶入了梦中，使这个梦也令人感到无限凄凉。结尾三句，又从梦境落回到现实上来。“料得年年肠断处；明月夜，短松冈。”料想长眠地下的爱侣，在年年伤逝的这个日子，为了眷恋人世、难舍亲人，而柔肠寸断。推己至人，作者设想此时亡妻一个人在凄冷幽独的“明月”之夜的心境，可谓用心良苦。在这里作者设想死者的痛苦，以寓自己的的念之情。东坡此词最后这三句，意深，痛巨，余音袅袅，让人回味无穷。特别是“明月夜，短松冈”二句，凄清幽独，黯然魂销。这番痴情苦心实可感天动地。这首词运用分合顿挫，虚实结合以及叙述白描等多种艺术的表现方法，来表达作者怀念亡妻的思想感情，在对亡妻的哀思中又糅进自己的身世感慨，因而将夫妻之间的情感表达得深婉而挚着，使人读后无不为之动情而感叹哀惋。",
+  "knowledge": ""
 }

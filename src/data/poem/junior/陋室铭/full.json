@@ -2,7 +2,7 @@
   "name": "陋室铭",
   "author": "刘禹锡",
   "dynasty": "唐代",
-  "mode": "paragraph",
+  "mode": "poem",
   "paragraphs": [
     {
       "sentences": [
@@ -11,869 +11,540 @@
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "高",
               "pinyin": "gāo",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "仙",
               "pinyin": "xiān",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "名",
               "pinyin": "míng",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             }
           ],
-          "translation": "山不在高耸，有仙人居住就能成名。",
-          "pinyin": "shān bú zài gāo ， yǒu xiān zé míng 。"
+          "translation": "山不在于高，有了神仙就会有名气。"
         },
         {
           "content": [
             {
               "char": "水",
               "pinyin": "shuǐ",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "深",
               "pinyin": "shēn",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "龙",
               "pinyin": "lóng",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "则",
               "pinyin": "zé",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "灵",
               "pinyin": "líng",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             }
           ],
-          "translation": "水不在幽深，有蛟龙潜藏就有灵气。",
-          "pinyin": "shuǐ bú zài shēn ， yǒu lóng zé líng 。"
+          "translation": "水不在于深，有了龙就会有灵气。"
         },
         {
           "content": [
             {
               "char": "斯",
               "pinyin": "sī",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "陋",
               "pinyin": "lòu",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "室",
               "pinyin": "shì",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "惟",
               "pinyin": "wéi",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "德",
               "pinyin": "dé",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "馨",
               "pinyin": "xīn",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 29,
-              "read": true,
-              "write": true
+              "index": 29
             }
           ],
-          "translation": "这是简陋居室，但因我品德高尚而美好。",
-          "pinyin": "sī shì lòu shì ， wéi wú dé xīn 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "content": "斯是陋室：斯，代词，这；陋室，简陋的屋子。"
-            },
-            {
-              "start": 5,
-              "end": 9,
-              "content": "惟吾德馨：惟，只；吾，我；德馨，德行美好芬芳。馨，本指香气远播，此处喻品德高尚。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 9,
-              "end": 9,
-              "old": "香气远播"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "new": "芳香"
-            }
-          ]
+          "translation": "这是简陋的房子，只是我品德好就感觉不到简陋了。"
         },
         {
           "content": [
             {
               "char": "苔",
               "pinyin": "tái",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "痕",
               "pinyin": "hén",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "阶",
               "pinyin": "jiē",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "绿",
               "pinyin": "lǜ",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "草",
               "pinyin": "cǎo",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "色",
               "pinyin": "sè",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "帘",
               "pinyin": "lián",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "青",
               "pinyin": "qīng",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             }
           ],
-          "translation": "苔藓爬满台阶碧绿，草色透入门帘青葱。",
-          "pinyin": "tái hén shàng jiē lǜ ， cǎo sè rù lián qīng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "苔痕上阶绿：苔痕，青苔的痕迹；上阶，蔓延到台阶上；绿，使台阶染绿。"
-            },
-            {
-              "start": 6,
-              "end": 11,
-              "content": "草色入帘青：草色，青草的颜色；入帘，映入帘内；青，使室内呈现青翠之色。"
-            }
-          ]
+          "translation": "苔痕碧绿，长到台上，草色青葱，映入帘里。"
         },
         {
           "content": [
             {
               "char": "谈",
               "pinyin": "tán",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "笑",
               "pinyin": "xiào",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "鸿",
               "pinyin": "hóng",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "儒",
               "pinyin": "rú",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "往",
               "pinyin": "wǎng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "白",
               "pinyin": "bái",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "丁",
               "pinyin": "dīng",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 53,
-              "read": true,
-              "write": true
+              "index": 53
             }
           ],
-          "translation": "谈笑往来有博学者，结交朋友无庸俗人。",
-          "pinyin": "tán xiào yǒu hóng rú ， wǎng lái wú bái dīng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "谈笑有鸿儒：鸿儒，博学的读书人。鸿，大；儒，学者。"
-            },
-            {
-              "start": 6,
-              "end": 11,
-              "content": "往来无白丁：白丁，原指平民，此处指没有学问的人。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 11,
-              "end": 11,
-              "old": "平民（无官职、无学问）"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "new": "姓氏"
-            }
-          ]
+          "translation": "到这里谈笑的都是博学之人，来往的没有知识浅薄之人，可以弹奏不加装饰的琴，阅读佛经。"
         },
         {
           "content": [
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "调",
               "pinyin": "tiáo",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "素",
               "pinyin": "sù",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "琴",
               "pinyin": "qín",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "阅",
               "pinyin": "yuè",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "金",
               "pinyin": "jīn",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "经",
               "pinyin": "jīng",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 63,
-              "read": true,
-              "write": true
+              "index": 63
             }
           ],
-          "translation": "可以弹奏清雅古琴，阅读珍贵佛经。",
-          "pinyin": "kě yǐ tiáo sù qín ， yuè jīn jīng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "可以调素琴：调，弹奏；素琴，不加装饰的琴。"
-            },
-            {
-              "start": 6,
-              "end": 9,
-              "content": "阅金经：金经，指佛经（古代佛经多用泥金书写）。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 9,
-              "end": 9,
-              "old": "佛经（泥金书写）"
-            },
-            {
-              "start": 9,
-              "end": 9,
-              "new": "金色经书"
-            }
-          ]
+          "translation": "没有弦管奏乐的声音扰乱耳朵，没有官府的公文使身体劳累。"
         },
         {
           "content": [
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "丝",
               "pinyin": "sī",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "竹",
               "pinyin": "zhú",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "乱",
               "pinyin": "luàn",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "耳",
               "pinyin": "ěr",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "案",
               "pinyin": "àn",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "牍",
               "pinyin": "dú",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "劳",
               "pinyin": "láo",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "形",
               "pinyin": "xíng",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             }
           ],
-          "translation": "没有嘈杂音乐扰乱清听，没有官府公文劳累身心。",
-          "pinyin": "wú sī zhú zhī luàn ěr ， wú àn dú zhī láo xíng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "content": "无丝竹之乱耳：丝竹，代指音乐；乱耳，扰乱耳朵。"
-            },
-            {
-              "start": 7,
-              "end": 13,
-              "content": "无案牍之劳形：案牍，官府的公文；劳形，使身体劳累。"
-            }
-          ]
+          "translation": "南阳有诸葛亮的草庐，西蜀有扬子云著书时居住过的草玄亭。"
         },
         {
           "content": [
             {
               "char": "南",
               "pinyin": "nán",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "阳",
               "pinyin": "yáng",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "诸",
               "pinyin": "zhū",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "葛",
               "pinyin": "gě",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "庐",
               "pinyin": "lú",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "西",
               "pinyin": "xī",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "蜀",
               "pinyin": "shǔ",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "亭",
               "pinyin": "tíng",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             }
           ],
-          "translation": "如同诸葛亮南阳草庐，好比扬雄西蜀玄亭。",
-          "pinyin": "nán yáng zhū gě lú ， xī shǔ zǐ yún tíng 。",
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "南阳诸葛庐：指南阳诸葛亮的草庐。"
-            },
-            {
-              "start": 6,
-              "end": 11,
-              "content": "西蜀子云亭：指扬雄（字子云）在成都的亭台。"
-            }
-          ]
+          "translation": "孔子说：有什么简陋的呢？"
         },
         {
           "content": [
             {
               "char": "孔",
               "pinyin": "kǒng",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "子",
               "pinyin": "zǐ",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "云",
               "pinyin": "yún",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "陋",
               "pinyin": "lòu",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             }
           ],
-          "translation": "孔子说过：这有何简陋？",
-          "pinyin": "kǒng zǐ yún ： hé lòu zhī yǒu ？",
-          "notes": [
-            {
-              "start": 0,
-              "end": 8,
-              "content": "孔子云：何陋之有：引用《论语·子罕》句子，意为“有什么简陋呢？”"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 4,
-              "end": 8,
-              "content": "宾语前置句（‘何陋之有’即‘有何陋’，‘之’是提宾标志）"
-            }
-          ]
+          "translation": ""
         }
       ]
     }
@@ -884,5 +555,8 @@
     "骈文"
   ],
   "background": "《陋室铭》作于和州任上（824—826年）。《历阳典录》：“陋室，在州治内，唐和州刺史刘禹锡建，有铭，柳公权书碑。”作者参与王叔文“永贞革新”，反对宦官与藩镇势力，革新失败后被贬安徽和州任刺史。和州知县因他被贬，多次故意刁难，三次变更其住所，面积不断缩小，最后仅剩斗室。作者愤而作《陋室铭》，刻石立于门前。",
-  "appreciation": "《陋室铭》是一篇托物言志骈体铭文。全文短短八十一字，作者借赞美陋室抒写自己志行高洁、安贫乐道、不与世俗同流合污的意趣。文章层次明晰，先以山水起兴，点出“斯是陋室，惟吾德馨”的主旨；接着从室外景、室内人、室中事方面着笔，渲染陋室不陋的高雅境界，并引古代俊彦之居，古代圣人之言强化文意，以反问作结，余韵悠长。全文篇幅极短，格局甚大；文章想象广阔，蕴含深厚，有咫尺藏万里之势。"
+  "appreciation": "《陋室铭》是一篇托物言志骈体铭文。全文短短八十一字，作者借赞美陋室抒写自己志行高洁、安贫乐道、不与世俗同流合污的意趣。文章层次明晰，先以山水起兴，点出“斯是陋室，惟吾德馨”的主旨；接着从室外景、室内人、室中事方面着笔，渲染陋室不陋的高雅境界，并引古代俊彦之居，古代圣人之言强化文意，以反问作结，余韵悠长。全文篇幅极短，格局甚大；文章想象广阔，蕴含深厚，有咫尺藏万里之势。",
+  "annotation": "陋室：简陋的屋子。铭：古代刻在器物上用来警戒自己或称述功德的文字，叫“铭”，后来就成为一种文体。这种文体一般都是用骈句，句式较为整齐，朗朗上口。在：在于，动词。名：出名，名词用作动词。灵：神奇、灵异。斯是陋室：这是简陋的屋子。斯：指示代词，此，这。是：表肯定的判断动词。陋室：简陋的屋子，这里指作者自己的屋子。惟吾德馨：只是因为我品德高尚就感觉不到简陋了。惟：只。吾：我，这里是指（陋室铭）的铭文。馨：散布很远的香气，这里指德行美好。苔痕上阶绿，草色入帘青：苔痕蔓延到台阶上，使台阶都绿了；草色映入竹帘，使室内染上青色。上：长到；入：映入。鸿儒：大儒，这里指博学的人。鸿：同“洪”，大。儒，旧指读书人。白丁：平民。这里指没有什么学问的人。调素琴：弹奏不加装饰的琴。调：调弄，这里指弹（琴）。素琴：不加装饰的琴。金经：指佛经（佛经用泥金书写）。丝竹：琴瑟、箫管等乐器的总称，“丝”指弦乐器，“竹”指管乐器。这里指奏乐的声音。之：结构助词，用于主谓之间，取消句子独立性。乱耳：扰乱双耳。乱：形容词的使动用法，使……乱，扰乱。案牍：（官府的）公文，文书。劳形：使身体劳（“使”动用法）。劳：形容词的使动用法，使……劳累。形：形体、身体。南阳：地名，今河南省南阳市。诸葛亮在出山之前，曾在南阳卧龙岗中隐居躬耕。诸葛亮，字孔明，三国时蜀汉丞相，著名的政治家和军事家，出仕前曾隐居南阳卧龙岗中。扬雄，字子云，西汉时文学家，蜀郡成都人。庐：简陋的小屋子。孔子云：孔子说，云在文言文中一般都指说。何陋之有：即“有何之陋”，属于宾语前置。之，助词，表示强烈的反问，宾语前置的标志，不译。",
+  "comprehensive_appreciation": "赏析：《陋室铭》是一篇托物言志傲铭同。同章表现了作者不与世俗同流合污，洁身自好、不慕名利傲生活态度。表达了作者高洁傲岸傲情操，流露出作者安贫乐道傲隐逸情趣。它单纯、简世、清新像一首精粹傲诗，充满了哲理和情韵。开篇几句从《世说新语·排调》“山不高则不灵，渊不深则不清”翻出新意，运用诗歌中常二傲比兴手法引出陋室。“山不在高”、“水不在深”比兴陋室，“有仙则名”、“有龙则灵”则比兴陋室之德。“这四句是脍炙人口傲名言佳句，颇有哲理诗傲精警和含蕴。作者自远而近，次第写来，以并列句式造成顺流直下傲气势，随后托出“斯是陋室，惟吾德馨”，便觉妙语如珠，胜意痕出。这两句从《尚书·周书·君陈》“黍稷非馨，明德惟馨”联想得来，强调以德自励，确为一篇之主旨与警策。写陋室之陋是为了衬托室中主人之贤，而写室中主人之贤，正好说明陋室不陋，这是一种相反相成傲关系。以下写室之内外之景、室中人、室中事，句句扣住“陋”字，而又不离“德”字。“苔痕上阶绿，草色入帘青”是写室内外之景，妙在精切地传出陋室傲佳处，以诗傲语言表现诗傲意境。“痕”、“色”二字，变概念化傲“苔”、“草”为可感、可视傲具体形象。“上阶”、“入帘”，化静为动，写出“苔”、“草”傲神态，又将外景引入室内，为陋室增添了勃勃生机，洋溢一片盎然春意。而一“绿”一“青”，色彩鲜明，更映衬出陋室傲闲雅、清幽与别致。这两句为叙写陋室中傲人和事创造了适宜傲环境。“谈笑有鸿儒，往来无白丁”写室中人，侧重写与朋友傲交往，借以显示作者身份傲高贵和性情傲高雅。“可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形”四句写室中事，表现身居陋室傲雅趣，足二作者行事不陋。“调素琴，阅金经”，二出陋室生活之清雅；“无丝竹之乱耳，无案牍之劳形”，显出陋室生活之安适。一个超然物外、体静心闲傲高人雅士形象呼之欲出。作者写室中之人心闲体静，衬托他傲勤于修德；而写他傲勤于修德，则揭示陋室不陋、令名远播傲原委。从句式上看，前二句散句单行，后二句骈俪偶对，骈散相间，颇具韵律美。从写法上看，一二句从正面说，三四句从反面写，正反结合，且“可以调素琴”与“无丝竹之乱耳”、“阅金经”与“无案牍之劳形”又形成呼应和对照，颇二同思之巧。最后引证古人、古迹、古语作结。把陋室比作诸葛孔明傲南阳草庐、扬雄傲成都宅第，意在自慰和自勉；援引孔子“何陋之有”，则说明自身傲志趣与圣人之道相符合。而省略上句“君子居之”只引下句，既呼应上同“惟吾德馨”，又隐含君子居住其内之意，妙在机趣横生，不露自炫之迹。上下古今，浑然一体，包含着无限傲情兴和深长傲韵味。《陋室铭》不足百字，篇幅极短，格局甚大。陋室以矮山、浅水相衬，与诸葛庐、子云亭并提，居住其中，有古之贤人、今之鸿儒相伴，真是陋室不“陋”。全同想象广阔，蕴含深厚，有咫尺藏万里之势。同章巧妙地运用了多种艺术手法。首先，成功地运用了比兴手法。“山不在高，有仙则名；水不在深，有龙则灵”，以山高、水深引出陋室，以仙人、神龙比喻室主傲德馨；“南阳诸葛庐，西蜀子云亭”，又以古代著名傲陋室映衬今日之陋室，以古代贤人比喻作者自己。其次，有叙述、描写，有抒情、议论，有染有点。“苔痕上阶绿。草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形”，是叙述描写，是染。最后一句“何陋之有”，是用典，也是抒情、议论，是点，画龙点睛。点染结合，融叙述描写、抒情议论于一炉。在语言表达上，多用四字句、五字句，有对偶句，有排比句，只有最后一句是散同句式，句式整齐而又富于变化，同字精世而又清丽，音调和谐，音节铿锵。",
+  "knowledge": "一词多义\n1.之：①用于主谓之间，取消句子的独立性:无案牍之劳形②结构助词，相当于“的”:近塞上之人，死者十九③代词，代指前文所指的事物④之，助词，宾语前置的标志，不译。何陋之有2.往来：①表示交往的人：谈笑有鸿儒，往来无白丁 。②表示来来往往的人：其中往来种作（《桃花源记》）词类活用1.名：名词活用动词，出名。例句：山不在高，有仙则名2.灵：形容词活用为动词，显出有灵气。例句：水不在深，有龙则灵3.馨：名词活用为动词，有了芳馨。例句：斯是陋室，惟吾德馨4.乱：形容词的使动用法，使……受到扰乱。例句：无丝竹之乱耳5.劳：形容词的使动用法，使……感到劳累。例句：无案牍之劳形6.上：方位名词作动词，蔓上。例句：苔痕上阶绿7.绿：形容词作动词，变绿。例句：苔痕上阶绿古今异义\n1.无案牍之劳形（形：身体；今常用义为：样子）2.惟吾德馨（馨：品德高尚；今义为：芳香．）3.谈笑有鸿儒（鸿：大，渊博；今义为：鸿雁，书信．）4.无丝竹之乱耳（丝竹：琴瑟箫笛等管弦乐器，这里指奏乐乐器的声音；今义为：丝绸和竹子）5.可以调素琴 （调：弹奏；今义为：调解）"
 }

@@ -27,30 +27,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "黄昏伫立东皋远望，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "东皋：地名，指作者隐居的地方，位于今山西河津。皋，水边高地。"
             },
-            {
-              "start": 2,
-              "end": 3,
-              "note": "薄暮：傍晚时分。薄，迫近、接近，此处为动词用法。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
             {
               "char": "徙",
               "pinyin": "xǐ"
@@ -65,23 +42,11 @@
             },
             {
               "char": "何",
-              "pinyin": "hé",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "何：什么，疑问代词，在此句中作宾语前置。"
-                }
-              ]
+              "pinyin": "hé"
             },
             {
               "char": "依",
-              "pinyin": "yī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "依：依靠，寄托。‘欲何依’即‘想要依靠什么’，表达孤独无依的情感。"
-                }
-              ]
+              "pinyin": "yī"
             },
             {
               "char": "。",
@@ -89,15 +54,9 @@
             }
           ],
           "translation": {
-            "translation": "徘徊不定不知归依何处。"
+            "translation": "傍晚时分站在东皋纵目方望，徘徊不定不知该归依何方。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "徙倚：徘徊，来回走动。徙，移动；倚，依靠。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -128,19 +87,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "每棵树都染上秋色，"
-          },
-          "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
+            },
             {
               "char": "山",
               "pinyin": "shān"
@@ -167,15 +114,9 @@
             }
           ],
           "translation": {
-            "translation": "每座山都披着夕阳余晖。"
+            "translation": "每棵树都染上秋天的色彩，光光山岭都披覆着落日的余光。"
           },
-          "notes": [
-            {
-              "start": 3,
-              "end": 4,
-              "note": "落晖：落日的余光。晖，阳光，特指夕阳之光。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -197,13 +138,7 @@
             },
             {
               "char": "犊",
-              "pinyin": "dú",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "犊：小牛，此处指放牧归来的小牛。"
-                }
-              ]
+              "pinyin": "dú"
             },
             {
               "char": "返",
@@ -212,19 +147,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "牧人驱赶牛群返回，"
-          },
-          "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
+            },
             {
               "char": "猎",
               "pinyin": "liè"
@@ -239,13 +162,7 @@
             },
             {
               "char": "禽",
-              "pinyin": "qín",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "禽：古代泛指鸟兽，此处指猎获的野兽，非现代‘家禽’之意。"
-                }
-              ]
+              "pinyin": "qín"
             },
             {
               "char": "归",
@@ -257,7 +174,7 @@
             }
           ],
           "translation": {
-            "translation": "猎人骑马带着猎物回归。"
+            "translation": "放牧的人驱赶着牛群回家，猎人骑着马带着猎物各自来愿而归。"
           },
           "notes": []
         }
@@ -290,19 +207,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "举目四望没有相识之人，"
-          },
-          "notes": []
-        }
-      ]
-    },
-    {
-      "paragraph": [
-        {
-          "sentence": [
+            },
             {
               "char": "长",
               "pinyin": "cháng"
@@ -329,15 +234,9 @@
             }
           ],
           "translation": {
-            "translation": "长吟采薇诗怀念隐士生活。"
+            "translation": "大家相对无言彼此互不相识，只能咏一曲长歌来怀念古代采薇而食的隐士。"
           },
-          "notes": [
-            {
-              "start": 3,
-              "end": 4,
-              "note": "采薇：典出《史记·伯夷列传》，伯夷、叔齐隐居首阳山，采薇而食，不食周粟。此处借指隐居生活，表达避世情怀。"
-            }
-          ]
+          "notes": []
         }
       ]
     }

@@ -6,39 +6,39 @@
           "sentence": [
             {
               "char": "子",
-              "pinyin": "zǐ"
+              "pinyin": "zi"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "yue"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "学",
-              "pinyin": "xué"
+              "pinyin": "xue"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "er"
             },
             {
               "char": "时",
-              "pinyin": "shí"
+              "pinyin": "shi"
             },
             {
               "char": "习",
-              "pinyin": "xí"
+              "pinyin": "xi"
             },
             {
               "char": "之",
-              "pinyin": "zhī"
+              "pinyin": "zhi"
             },
             {
               "char": "，",
@@ -46,53 +46,55 @@
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "bu"
             },
             {
               "char": "亦",
-              "pinyin": "yì"
+              "pinyin": "yi"
             },
             {
               "char": "说",
-              "pinyin": "yuè",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "说：通‘悦’，高兴、愉快的意思。这里是通假字用法。"
-                }
-              ]
+              "pinyin": "yue"
             },
             {
               "char": "乎",
-              "pinyin": "hū"
+              "pinyin": "hu"
             },
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“学了（知识）然后按一定的时间复习它（一说学习的道理在合适的时机去实践），不也是很愉快吗？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "有",
-              "pinyin": "yǒu"
+              "pinyin": "you"
             },
             {
               "char": "朋",
-              "pinyin": "péng"
+              "pinyin": "peng"
             },
             {
               "char": "自",
-              "pinyin": "zì"
+              "pinyin": "zi"
             },
             {
               "char": "远",
-              "pinyin": "yuǎn"
+              "pinyin": "yuan"
             },
             {
               "char": "方",
-              "pinyin": "fāng"
+              "pinyin": "fang"
             },
             {
               "char": "来",
-              "pinyin": "lái"
+              "pinyin": "lai"
             },
             {
               "char": "，",
@@ -100,47 +102,55 @@
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "bu"
             },
             {
               "char": "亦",
-              "pinyin": "yì"
+              "pinyin": "yi"
             },
             {
               "char": "乐",
-              "pinyin": "lè"
+              "pinyin": "le"
             },
             {
               "char": "乎",
-              "pinyin": "hū"
+              "pinyin": "hu"
             },
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "有志同道合的人从远方来，不也是很快乐吗？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "人",
-              "pinyin": "rén"
+              "pinyin": "ren"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "bu"
             },
             {
               "char": "知",
-              "pinyin": "zhī"
+              "pinyin": "zhi"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "er"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "bu"
             },
             {
               "char": "愠",
-              "pinyin": "yùn"
+              "pinyin": "yun"
             },
             {
               "char": "，",
@@ -148,15 +158,15 @@
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "bu"
             },
             {
               "char": "亦",
-              "pinyin": "yì"
+              "pinyin": "yi"
             },
             {
               "char": "君",
-              "pinyin": "jūn"
+              "pinyin": "jun"
             },
             {
               "char": "子",
@@ -164,7 +174,7 @@
             },
             {
               "char": "乎",
-              "pinyin": "hū"
+              "pinyin": "hu"
             },
             {
               "char": "？",
@@ -176,7 +186,31 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：”学习后按时温习，不也愉悦吗？有朋友远道而来，不也快乐吗？人家不了解我却不生气，不也是君子吗？”"
+            "translation": "人家不了解我，我却不恼怒，不也是一个有德的君子吗？”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "学",
+              "pinyin": "zeng"
+            },
+            {
+              "char": "而",
+              "pinyin": "zi"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "曾子说：“我每天多次反省自己：替别人办事是不是尽心竭力了？"
           },
           "notes": []
         }
@@ -188,53 +222,47 @@
           "sentence": [
             {
               "char": "曾",
-              "pinyin": "zēng"
+              "pinyin": "yue"
             },
             {
               "char": "子",
-              "pinyin": "zǐ"
+              "pinyin": "wu"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "ri"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "吾",
-              "pinyin": "wú"
+              "pinyin": "san"
             },
             {
               "char": "日",
-              "pinyin": "rì"
+              "pinyin": "xing"
             },
             {
               "char": "三",
-              "pinyin": "sān"
+              "pinyin": "wu"
             },
             {
               "char": "省",
-              "pinyin": "xǐng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "三：泛指多次，不是确数。古代常用‘三’表示多次反省。"
-                }
-              ]
+              "pinyin": "shen"
             },
             {
               "char": "吾",
-              "pinyin": "wú"
+              "pinyin": "wei"
             },
             {
               "char": "身",
-              "pinyin": "shēn"
+              "pinyin": "ren"
             },
             {
               "char": "：",
@@ -242,93 +270,103 @@
             },
             {
               "char": "为",
-              "pinyin": "wèi"
+              "pinyin": "mou"
             },
             {
               "char": "人",
-              "pinyin": "rén"
+              "pinyin": "er"
             },
             {
               "char": "谋",
-              "pinyin": "móu"
+              "pinyin": "bu"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "zhong"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "hu"
             },
             {
               "char": "忠",
-              "pinyin": "zhōng"
+              "pinyin": "yu"
             },
             {
               "char": "乎",
-              "pinyin": "hū"
+              "pinyin": "peng"
             },
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "同朋友交往是不是诚实可信了？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "与",
-              "pinyin": "yǔ"
+              "pinyin": "you"
             },
             {
               "char": "朋",
-              "pinyin": "péng"
+              "pinyin": "jiao"
             },
             {
               "char": "友",
-              "pinyin": "yǒu"
+              "pinyin": "er"
             },
             {
               "char": "交",
-              "pinyin": "jiāo"
+              "pinyin": "bu"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "xin"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "hu"
             },
             {
               "char": "信",
-              "pinyin": "xìn"
+              "pinyin": "chuan"
             },
             {
               "char": "乎",
-              "pinyin": "hū"
+              "pinyin": "bu"
             },
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "老师传授的知识是不是复习了？”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "传",
-              "pinyin": "chuán",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "传：指老师传授的知识，名词性用法，非动词‘传播’。"
-                }
-              ]
+              "pinyin": "xi"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "hu"
             },
             {
               "char": "习",
-              "pinyin": "xí"
+              "pinyin": "zi"
             },
             {
               "char": "乎",
-              "pinyin": "hū"
+              "pinyin": "yue"
             },
             {
               "char": "？",
@@ -340,7 +378,31 @@
             }
           ],
           "translation": {
-            "translation": "曾子说：”我每日多次反省：为人办事尽心了吗？与朋友交往诚信了吗？老师传授的知识复习了吗？”"
+            "translation": "孔子说：“我十五岁就立志学习，三十岁就能立足于世，四十岁（遇事）不再感到迷惑，五十岁知道哪些是不能为人力所支配的事情，六十岁能听得进不同的意见，七十岁可以随心所欲、收放自如，却又不超出规矩。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "学",
+              "pinyin": "wu"
+            },
+            {
+              "char": "而",
+              "pinyin": "shi"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“温习学过的知识，可以从中获得新的理解与体会，那么就可以凭借这一点去做老师了。”"
           },
           "notes": []
         }
@@ -352,57 +414,51 @@
           "sentence": [
             {
               "char": "子",
-              "pinyin": "zǐ"
+              "pinyin": "you"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "wu"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "吾",
-              "pinyin": "wú"
+              "pinyin": "er"
             },
             {
               "char": "十",
-              "pinyin": "shí"
+              "pinyin": "zhi"
             },
             {
               "char": "有",
-              "pinyin": "yòu",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "有：通‘又’，用于整数与零数之间，如‘十有五’即十五岁。"
-                }
-              ]
+              "pinyin": "yu"
             },
             {
               "char": "五",
-              "pinyin": "wǔ"
+              "pinyin": "xue"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "san"
             },
             {
               "char": "志",
-              "pinyin": "zhì"
+              "pinyin": "shi"
             },
             {
               "char": "于",
-              "pinyin": "yú"
+              "pinyin": "er"
             },
             {
               "char": "学",
-              "pinyin": "xué"
+              "pinyin": "li"
             },
             {
               "char": "，",
@@ -410,19 +466,19 @@
             },
             {
               "char": "三",
-              "pinyin": "sān"
+              "pinyin": "si"
             },
             {
               "char": "十",
-              "pinyin": "shí"
+              "pinyin": "shi"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "er"
             },
             {
               "char": "立",
-              "pinyin": "lì"
+              "pinyin": "bu"
             },
             {
               "char": "，",
@@ -430,23 +486,23 @@
             },
             {
               "char": "四",
-              "pinyin": "sì"
+              "pinyin": "huo"
             },
             {
               "char": "十",
-              "pinyin": "shí"
+              "pinyin": "wu"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "shi"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "er"
             },
             {
               "char": "惑",
-              "pinyin": "huò"
+              "pinyin": "zhi"
             },
             {
               "char": "，",
@@ -454,27 +510,27 @@
             },
             {
               "char": "五",
-              "pinyin": "wǔ"
+              "pinyin": "tian"
             },
             {
               "char": "十",
-              "pinyin": "shí"
+              "pinyin": "ming"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "liu"
             },
             {
               "char": "知",
-              "pinyin": "zhī"
+              "pinyin": "shi"
             },
             {
               "char": "天",
-              "pinyin": "tiān"
+              "pinyin": "er"
             },
             {
               "char": "命",
-              "pinyin": "mìng"
+              "pinyin": "er"
             },
             {
               "char": "，",
@@ -482,23 +538,23 @@
             },
             {
               "char": "六",
-              "pinyin": "liù"
+              "pinyin": "shun"
             },
             {
               "char": "十",
-              "pinyin": "shí"
+              "pinyin": "qi"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "shi"
             },
             {
               "char": "耳",
-              "pinyin": "ěr"
+              "pinyin": "er"
             },
             {
               "char": "顺",
-              "pinyin": "shùn"
+              "pinyin": "cong"
             },
             {
               "char": "，",
@@ -506,31 +562,31 @@
             },
             {
               "char": "七",
-              "pinyin": "qī"
+              "pinyin": "xin"
             },
             {
               "char": "十",
-              "pinyin": "shí"
+              "pinyin": "suo"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "yu"
             },
             {
               "char": "从",
-              "pinyin": "cóng"
+              "pinyin": "bu"
             },
             {
               "char": "心",
-              "pinyin": "xīn"
+              "pinyin": "yu"
             },
             {
               "char": "所",
-              "pinyin": "suǒ"
+              "pinyin": "ju"
             },
             {
               "char": "欲",
-              "pinyin": "yù"
+              "pinyin": "zi"
             },
             {
               "char": "，",
@@ -538,15 +594,15 @@
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "yue"
             },
             {
               "char": "逾",
-              "pinyin": "yú"
+              "pinyin": "wen"
             },
             {
               "char": "矩",
-              "pinyin": "jǔ"
+              "pinyin": "gu"
             },
             {
               "char": "。",
@@ -558,20 +614,33 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：”我十五岁立志学习，三十岁自立于世，四十岁不再困惑，五十岁知晓天命，六十岁能听进不同意见，七十岁可随心行事不逾规矩。”"
+            "translation": "孔子说：“只是学习却不思考就会感到迷茫而无所适从，只是思考却不学习就会心中充满疑惑而无定见。”"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 35,
-              "end": 36,
-              "note": "耳顺：指听别人言语后能明辨是非，不觉得逆耳，六十岁的代称。"
+              "char": "《",
+              "pinyin": ""
             },
             {
-              "start": 41,
-              "end": 47,
-              "note": "从心所欲，不逾矩：随心所欲而不超越规矩，形容修养极高。逾：超越；矩：规矩。"
+              "char": "为",
+              "pinyin": "er"
+            },
+            {
+              "char": "政",
+              "pinyin": "zhi"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": "孔子说：“颜回的品质是多么高尚啊！"
+          },
+          "notes": []
         }
       ]
     },
@@ -581,39 +650,39 @@
           "sentence": [
             {
               "char": "子",
-              "pinyin": "zǐ"
+              "pinyin": "xin"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "ke"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "温",
-              "pinyin": "wēn"
+              "pinyin": "yi"
             },
             {
               "char": "故",
-              "pinyin": "gù"
+              "pinyin": "wei"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "shi"
             },
             {
               "char": "知",
-              "pinyin": "zhī"
+              "pinyin": "yi"
             },
             {
               "char": "新",
-              "pinyin": "xīn"
+              "pinyin": "zi"
             },
             {
               "char": "，",
@@ -621,23 +690,23 @@
             },
             {
               "char": "可",
-              "pinyin": "kě"
+              "pinyin": "yue"
             },
             {
               "char": "以",
-              "pinyin": "yǐ"
+              "pinyin": "xue"
             },
             {
               "char": "为",
-              "pinyin": "wéi"
+              "pinyin": "er"
             },
             {
               "char": "师",
-              "pinyin": "shī"
+              "pinyin": "bu"
             },
             {
               "char": "矣",
-              "pinyin": "yǐ"
+              "pinyin": "si"
             },
             {
               "char": "。",
@@ -649,118 +718,31 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：”温习旧知识能有新体会，就可以当老师了。”"
+            "translation": "一碗饭，一瓢水，住在简陋的小巷中，别人都忍受不了这种穷困清苦，颜回却没有改变他的乐趣。"
           },
-          "notes": [
-            {
-              "start": 4,
-              "end": 8,
-              "note": "温故而知新：温习旧知识从而获得新的理解。故：旧知识；新：新体会。"
-            },
-            {
-              "start": 11,
-              "end": 12,
-              "note": "可以：可以凭借（之），‘以’后省略宾语‘之’，指代‘温故知新’的人。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
-              "char": "子",
-              "pinyin": "zǐ"
+              "char": "《",
+              "pinyin": ""
             },
             {
-              "char": "曰",
-              "pinyin": "yuē"
+              "char": "为",
+              "pinyin": "ze"
             },
             {
-              "char": "：",
-              "pinyin": "　"
+              "char": "政",
+              "pinyin": "wang"
             },
             {
-              "char": "”",
-              "pinyin": "　"
-            },
-            {
-              "char": "学",
-              "pinyin": "xué"
-            },
-            {
-              "char": "而",
-              "pinyin": "ér"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "思",
-              "pinyin": "sī"
-            },
-            {
-              "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "罔",
-              "pinyin": "wǎng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "罔：迷惑而无所得，指学习不思考的后果。"
-                }
-              ]
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "思",
-              "pinyin": "sī"
-            },
-            {
-              "char": "而",
-              "pinyin": "ér"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "学",
-              "pinyin": "xué"
-            },
-            {
-              "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "殆",
-              "pinyin": "dài",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "殆：危险，指空想而不学习会导致疑惑和危险。"
-                }
-              ]
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "”",
-              "pinyin": "　"
+              "char": "》",
+              "pinyin": ""
             }
           ],
           "translation": {
-            "translation": "孔子说：”只读书不思考就会惘然无所得，只空想不读书就会疑惑不安。”"
+            "translation": "颜回的品质是多么高尚啊！”"
           },
           "notes": []
         }
@@ -772,27 +754,139 @@
           "sentence": [
             {
               "char": "子",
-              "pinyin": "zǐ"
+              "pinyin": "si"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "er"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "学",
+              "pinyin": "bu"
+            },
+            {
+              "char": "而",
+              "pinyin": "xue"
+            },
+            {
+              "char": "不",
+              "pinyin": "ze"
+            },
+            {
+              "char": "思",
+              "pinyin": "dai"
+            },
+            {
+              "char": "则",
+              "pinyin": "zi"
+            },
+            {
+              "char": "罔",
+              "pinyin": "yue"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "思",
+              "pinyin": "xian"
+            },
+            {
+              "char": "而",
+              "pinyin": "zai"
+            },
+            {
+              "char": "不",
+              "pinyin": "hui"
+            },
+            {
+              "char": "学",
+              "pinyin": "ye"
+            },
+            {
+              "char": "则",
+              "pinyin": "yi"
+            },
+            {
+              "char": "殆",
+              "pinyin": "dan"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
               "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“知道学习的人比不上爱好学习的人；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "为",
+              "pinyin": "shi"
+            },
+            {
+              "char": "政",
+              "pinyin": "yi"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "爱好学习的人比不上以学习为乐的人。”"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "子",
+              "pinyin": "piao"
+            },
+            {
+              "char": "曰",
+              "pinyin": "yin"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "贤",
-              "pinyin": "xián"
+              "pinyin": "zai"
             },
             {
               "char": "哉",
-              "pinyin": "zāi"
+              "pinyin": "lou"
             },
             {
               "char": "，",
@@ -800,27 +894,35 @@
             },
             {
               "char": "回",
-              "pinyin": "huí"
+              "pinyin": "xiang"
             },
             {
               "char": "也",
-              "pinyin": "yě"
+              "pinyin": "ren"
             },
             {
               "char": "！",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“我整天吃粗陋的饭食，喝冷水，弯着胳膊做枕头，也自得其乐。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "一",
-              "pinyin": "yī"
+              "pinyin": "bu"
             },
             {
               "char": "箪",
-              "pinyin": "dān"
+              "pinyin": "kan"
             },
             {
               "char": "食",
-              "pinyin": "shí"
+              "pinyin": "qi"
             },
             {
               "char": "，",
@@ -828,15 +930,15 @@
             },
             {
               "char": "一",
-              "pinyin": "yī"
+              "pinyin": "you"
             },
             {
               "char": "瓢",
-              "pinyin": "piáo"
+              "pinyin": "hui"
             },
             {
               "char": "饮",
-              "pinyin": "yǐn"
+              "pinyin": "ye"
             },
             {
               "char": "，",
@@ -844,15 +946,15 @@
             },
             {
               "char": "在",
-              "pinyin": "zài"
+              "pinyin": "bu"
             },
             {
               "char": "陋",
-              "pinyin": "lòu"
+              "pinyin": "gai"
             },
             {
               "char": "巷",
-              "pinyin": "xiàng"
+              "pinyin": "qi"
             },
             {
               "char": "，",
@@ -860,29 +962,23 @@
             },
             {
               "char": "人",
-              "pinyin": "rén"
+              "pinyin": "le"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "xian"
             },
             {
               "char": "堪",
-              "pinyin": "kān",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "堪：忍受，承受。此处指别人忍受不了那种忧苦的生活环境。"
-                }
-              ]
+              "pinyin": "zai"
             },
             {
               "char": "其",
-              "pinyin": "qí"
+              "pinyin": "hui"
             },
             {
               "char": "忧",
-              "pinyin": "yōu"
+              "pinyin": "ye"
             },
             {
               "char": "，",
@@ -890,39 +986,47 @@
             },
             {
               "char": "回",
-              "pinyin": "huí"
+              "pinyin": "zi"
             },
             {
               "char": "也",
-              "pinyin": "yě"
+              "pinyin": "yue"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "zhi"
             },
             {
               "char": "改",
-              "pinyin": "gǎi"
+              "pinyin": "zhi"
             },
             {
               "char": "其",
-              "pinyin": "qí"
+              "pinyin": "zhe"
             },
             {
               "char": "乐",
-              "pinyin": "lè"
+              "pinyin": "bu"
             },
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "用不正当的手段得来的富贵，我把它看作天上的浮云。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "贤",
-              "pinyin": "xián"
+              "pinyin": "ru"
             },
             {
               "char": "哉",
-              "pinyin": "zāi"
+              "pinyin": "hao"
             },
             {
               "char": "，",
@@ -930,11 +1034,11 @@
             },
             {
               "char": "回",
-              "pinyin": "huí"
+              "pinyin": "zhi"
             },
             {
               "char": "也",
-              "pinyin": "yě"
+              "pinyin": "zhe"
             },
             {
               "char": "！",
@@ -946,122 +1050,31 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：”颜回真贤德啊！一竹筐饭，一瓢清水，住在破巷里，别人受不了的困苦，颜回却不改变他的快乐。多么贤德啊！”"
+            "translation": "孔子说：“多人同行，其中必定有人可以做我老师的人。"
           },
-          "notes": [
-            {
-              "start": 11,
-              "end": 12,
-              "note": "箪食：用竹篮盛饭。箪：古代盛饭的圆形竹器，象征清贫生活。"
-            },
-            {
-              "start": 15,
-              "end": 16,
-              "note": "瓢饮：用瓢喝水。瓢：由葫芦剖成的舀水器，形容生活简朴。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
-              "char": "子",
-              "pinyin": "zǐ"
+              "char": "《",
+              "pinyin": ""
             },
             {
-              "char": "曰",
-              "pinyin": "yuē"
+              "char": "雍",
+              "pinyin": "hao"
             },
             {
-              "char": "：",
-              "pinyin": "　"
+              "char": "也",
+              "pinyin": "zhi"
             },
             {
-              "char": "”",
-              "pinyin": "　"
-            },
-            {
-              "char": "知",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "如",
-              "pinyin": "rú"
-            },
-            {
-              "char": "好",
-              "pinyin": "hào"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "好",
-              "pinyin": "hào"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "如",
-              "pinyin": "rú"
-            },
-            {
-              "char": "乐",
-              "pinyin": "lè"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "”",
-              "pinyin": "　"
+              "char": "》",
+              "pinyin": ""
             }
           ],
           "translation": {
-            "translation": "孔子说：”懂得学问的人不如爱好学问的人，爱好学问的人不如以学问为乐的人。”"
+            "translation": "我选择他好的方面向他学习，看到他不好的方面就对照自己，改正自己的缺点。”"
           },
           "notes": []
         }
@@ -1073,43 +1086,159 @@
           "sentence": [
             {
               "char": "子",
-              "pinyin": "zǐ"
+              "pinyin": "zhe"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "bu"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "知",
+              "pinyin": "ru"
+            },
+            {
+              "char": "之",
+              "pinyin": "le"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhi"
+            },
+            {
+              "char": "不",
+              "pinyin": "zhe"
+            },
+            {
+              "char": "如",
+              "pinyin": "zi"
+            },
+            {
+              "char": "好",
+              "pinyin": "yue"
+            },
+            {
+              "char": "之",
+              "pinyin": "fan"
+            },
+            {
+              "char": "者",
+              "pinyin": "shu"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "好",
+              "pinyin": "shi"
+            },
+            {
+              "char": "之",
+              "pinyin": "yin"
+            },
+            {
+              "char": "者",
+              "pinyin": "shui"
+            },
+            {
+              "char": "不",
+              "pinyin": "qu"
+            },
+            {
+              "char": "如",
+              "pinyin": "gong"
+            },
+            {
+              "char": "乐",
+              "pinyin": "er"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhen"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhi"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
               "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "孔子在河边感叹道：“时光的流逝就像这河水一样啊！"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "雍",
+              "pinyin": "le"
+            },
+            {
+              "char": "也",
+              "pinyin": "yi"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "日夜不停地流淌。”"
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "子",
+              "pinyin": "zai"
+            },
+            {
+              "char": "曰",
+              "pinyin": "qi"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "饭",
-              "pinyin": "fàn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "饭：动词，吃。‘饭疏食’即吃粗粮。"
-                }
-              ]
+              "pinyin": "zhong"
             },
             {
               "char": "疏",
-              "pinyin": "shū",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "疏食：粗粮，指糙米饭之类，与精细粮食相对。"
-                }
-              ]
+              "pinyin": "yi"
             },
             {
               "char": "食",
-              "pinyin": "shí"
+              "pinyin": "bu"
             },
             {
               "char": "，",
@@ -1117,11 +1246,11 @@
             },
             {
               "char": "饮",
-              "pinyin": "yǐn"
+              "pinyin": "yi"
             },
             {
               "char": "水",
-              "pinyin": "shuǐ"
+              "pinyin": "er"
             },
             {
               "char": "，",
@@ -1129,23 +1258,23 @@
             },
             {
               "char": "曲",
-              "pinyin": "qū"
+              "pinyin": "fu"
             },
             {
               "char": "肱",
-              "pinyin": "gōng"
+              "pinyin": "qie"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "gui"
             },
             {
               "char": "枕",
-              "pinyin": "zhěn"
+              "pinyin": "yu"
             },
             {
               "char": "之",
-              "pinyin": "zhī"
+              "pinyin": "wo"
             },
             {
               "char": "，",
@@ -1153,55 +1282,63 @@
             },
             {
               "char": "乐",
-              "pinyin": "lè"
+              "pinyin": "ru"
             },
             {
               "char": "亦",
-              "pinyin": "yì"
+              "pinyin": "fu"
             },
             {
               "char": "在",
-              "pinyin": "zài"
+              "pinyin": "yun"
             },
             {
               "char": "其",
-              "pinyin": "qí"
+              "pinyin": "zi"
             },
             {
               "char": "中",
-              "pinyin": "zhōng"
+              "pinyin": "yue"
             },
             {
               "char": "矣",
-              "pinyin": "yǐ"
+              "pinyin": "san"
             },
             {
               "char": "。",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "孔子说：“军队的主帅可以改变，普通人的志向却不可改变。”"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "ren"
             },
             {
               "char": "义",
-              "pinyin": "yì"
+              "pinyin": "xing"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "bi"
             },
             {
               "char": "富",
-              "pinyin": "fù"
+              "pinyin": "you"
             },
             {
               "char": "且",
-              "pinyin": "qiě"
+              "pinyin": "wo"
             },
             {
               "char": "贵",
-              "pinyin": "guì"
+              "pinyin": "shi"
             },
             {
               "char": "，",
@@ -1209,23 +1346,23 @@
             },
             {
               "char": "于",
-              "pinyin": "yú"
+              "pinyin": "yan"
             },
             {
               "char": "我",
-              "pinyin": "wǒ"
+              "pinyin": "ze"
             },
             {
               "char": "如",
-              "pinyin": "rú"
+              "pinyin": "qi"
             },
             {
               "char": "浮",
-              "pinyin": "fú"
+              "pinyin": "shan"
             },
             {
               "char": "云",
-              "pinyin": "yún"
+              "pinyin": "zhe"
             },
             {
               "char": "。",
@@ -1237,154 +1374,31 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：”吃粗粮饮凉水，弯胳膊当枕头，快乐就在其中了。不道义得来的富贵，对我如同浮云。”"
+            "translation": "子夏说：“博闻广学又坚持自己的志向，仔细地求问，多考虑当前的事，仁德就在其中了。”"
           },
-          "notes": [
-            {
-              "start": 12,
-              "end": 13,
-              "note": "曲肱而枕之：弯着胳膊当枕头。肱：手臂从肩到肘的部分；曲：弯曲；枕：动词，当作枕头。"
-            },
-            {
-              "start": 34,
-              "end": 36,
-              "note": "浮云：比喻虚幻、不值得重视的事物。这里指不义得来的富贵如同浮云般无价值。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
-              "char": "子",
-              "pinyin": "zǐ"
+              "char": "《",
+              "pinyin": ""
             },
             {
-              "char": "曰",
-              "pinyin": "yuē"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "”",
-              "pinyin": "　"
-            },
-            {
-              "char": "三",
-              "pinyin": "sān"
-            },
-            {
-              "char": "人",
-              "pinyin": "rén"
-            },
-            {
-              "char": "行",
-              "pinyin": "xíng"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "必",
-              "pinyin": "bì"
-            },
-            {
-              "char": "有",
-              "pinyin": "yǒu"
-            },
-            {
-              "char": "我",
-              "pinyin": "wǒ"
-            },
-            {
-              "char": "师",
-              "pinyin": "shī"
-            },
-            {
-              "char": "焉",
-              "pinyin": "yān"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "择",
-              "pinyin": "zé"
-            },
-            {
-              "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "善",
-              "pinyin": "shàn"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
+              "char": "述",
+              "pinyin": "er"
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": "cong"
             },
             {
-              "char": "从",
-              "pinyin": "cóng"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "善",
-              "pinyin": "shàn"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
-            },
-            {
-              "char": "而",
-              "pinyin": "ér"
-            },
-            {
-              "char": "改",
-              "pinyin": "gǎi"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            },
-            {
-              "char": "”",
-              "pinyin": "　"
+              "char": "》",
+              "pinyin": ""
             }
           ],
           "translation": {
-            "translation": "孔子说：”多人同行，必定有我可师法的。选择他们的优点学习，看出他们的缺点就自我改正。”"
+            "translation": ""
           },
           "notes": []
         }
@@ -1396,77 +1410,127 @@
           "sentence": [
             {
               "char": "子",
-              "pinyin": "zǐ"
-            },
-            {
-              "char": "在",
-              "pinyin": "zài"
-            },
-            {
-              "char": "川",
-              "pinyin": "chuān"
-            },
-            {
-              "char": "上",
-              "pinyin": "shàng"
+              "pinyin": "zhi"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "qi"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
-              "char": "逝",
-              "pinyin": "shì"
+              "char": "三",
+              "pinyin": "bu"
             },
             {
-              "char": "者",
-              "pinyin": "zhě"
+              "char": "人",
+              "pinyin": "shan"
             },
             {
-              "char": "如",
-              "pinyin": "rú"
-            },
-            {
-              "char": "斯",
-              "pinyin": "sī"
-            },
-            {
-              "char": "夫",
-              "pinyin": "fú"
+              "char": "行",
+              "pinyin": "zhe"
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "夫：语气词，读fú，表示感叹，相当于‘啊’。"
-                }
-              ]
+              "pinyin": "　"
+            },
+            {
+              "char": "必",
+              "pinyin": "er"
+            },
+            {
+              "char": "有",
+              "pinyin": "gai"
+            },
+            {
+              "char": "我",
+              "pinyin": "zhi"
+            },
+            {
+              "char": "师",
+              "pinyin": "zi"
+            },
+            {
+              "char": "焉",
+              "pinyin": "zai"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "择",
+              "pinyin": "chuan"
+            },
+            {
+              "char": "其",
+              "pinyin": "shang"
+            },
+            {
+              "char": "善",
+              "pinyin": "yue"
+            },
+            {
+              "char": "者",
+              "pinyin": "shi"
+            },
+            {
+              "char": "而",
+              "pinyin": "zhe"
+            },
+            {
+              "char": "从",
+              "pinyin": "ru"
+            },
+            {
+              "char": "之",
+              "pinyin": "si"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "其",
+              "pinyin": "fu"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "bu"
             },
             {
-              "char": "舍",
-              "pinyin": "shě"
+              "char": "善",
+              "pinyin": "she"
             },
             {
-              "char": "昼",
-              "pinyin": "zhòu"
+              "char": "者",
+              "pinyin": "zhou"
             },
             {
-              "char": "夜",
-              "pinyin": "yè"
+              "char": "而",
+              "pinyin": "ye"
+            },
+            {
+              "char": "改",
+              "pinyin": "zi"
+            },
+            {
+              "char": "之",
+              "pinyin": "yue"
             },
             {
               "char": "。",
@@ -1478,15 +1542,33 @@
             }
           ],
           "translation": {
-            "translation": "孔子在河边说：”逝去的时光如同这河水，日夜不停奔流。”"
+            "translation": ""
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 7,
-              "end": 11,
-              "note": "逝者如斯夫：消逝的时光就像这流水啊。逝者：往者，指时间或事物的流逝；斯：这，指流水。"
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "述",
+              "pinyin": "san"
+            },
+            {
+              "char": "而",
+              "pinyin": "jun"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
         }
       ]
     },
@@ -1496,49 +1578,155 @@
           "sentence": [
             {
               "char": "子",
-              "pinyin": "zǐ"
+              "pinyin": "ke"
+            },
+            {
+              "char": "在",
+              "pinyin": "duo"
+            },
+            {
+              "char": "川",
+              "pinyin": "shuai"
+            },
+            {
+              "char": "上",
+              "pinyin": "ye"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "pi"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "逝",
+              "pinyin": "fu"
+            },
+            {
+              "char": "者",
+              "pinyin": "bu"
+            },
+            {
+              "char": "如",
+              "pinyin": "ke"
+            },
+            {
+              "char": "斯",
+              "pinyin": "duo"
+            },
+            {
+              "char": "夫",
+              "pinyin": "zhi"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "ye"
+            },
+            {
+              "char": "舍",
+              "pinyin": "zi"
+            },
+            {
+              "char": "昼",
+              "pinyin": "xia"
+            },
+            {
+              "char": "夜",
+              "pinyin": "yue"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            },
+            {
               "char": "”",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "子",
+              "pinyin": "bo"
+            },
+            {
+              "char": "罕",
+              "pinyin": "xue"
+            },
+            {
+              "char": "》",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
+        }
+      ]
+    },
+    {
+      "paragraph": [
+        {
+          "sentence": [
+            {
+              "char": "子",
+              "pinyin": "er"
+            },
+            {
+              "char": "曰",
+              "pinyin": "du"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "三",
-              "pinyin": "sān"
+              "pinyin": "zhi"
             },
             {
               "char": "军",
-              "pinyin": "jūn"
+              "pinyin": "qie"
             },
             {
               "char": "可",
-              "pinyin": "kě"
+              "pinyin": "wen"
             },
             {
               "char": "夺",
-              "pinyin": "duó",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "夺：改变，这里是‘使……改变’的意思。‘夺帅’即改变军队的统帅。"
-                }
-              ]
+              "pinyin": "er"
             },
             {
               "char": "帅",
-              "pinyin": "shuài"
+              "pinyin": "jin"
             },
             {
               "char": "也",
-              "pinyin": "yě"
+              "pinyin": "si"
             },
             {
               "char": "，",
@@ -1546,31 +1734,31 @@
             },
             {
               "char": "匹",
-              "pinyin": "pǐ"
+              "pinyin": "ren"
             },
             {
               "char": "夫",
-              "pinyin": "fū"
+              "pinyin": "zai"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "qi"
             },
             {
               "char": "可",
-              "pinyin": "kě"
+              "pinyin": "zhong"
             },
             {
               "char": "夺",
-              "pinyin": "duó"
+              "pinyin": "yi"
             },
             {
               "char": "志",
-              "pinyin": "zhì"
+              "pinyin": ""
             },
             {
               "char": "也",
-              "pinyin": "yě"
+              "pinyin": ""
             },
             {
               "char": "。",
@@ -1582,15 +1770,33 @@
             }
           ],
           "translation": {
-            "translation": "孔子说：”军队可以夺走主帅，普通人却不可改变志向。”"
+            "translation": ""
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 11,
-              "end": 12,
-              "note": "匹夫：普通男子，泛指平民百姓。强调个人意志不可强迫改变。"
+              "char": "《",
+              "pinyin": ""
+            },
+            {
+              "char": "子",
+              "pinyin": ""
+            },
+            {
+              "char": "罕",
+              "pinyin": ""
+            },
+            {
+              "char": "》",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
         }
       ]
     },
@@ -1600,43 +1806,43 @@
           "sentence": [
             {
               "char": "子",
-              "pinyin": "zǐ"
+              "pinyin": ""
             },
             {
               "char": "夏",
-              "pinyin": "xià"
+              "pinyin": ""
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": ""
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "”",
+              "char": "“",
               "pinyin": "　"
             },
             {
               "char": "博",
-              "pinyin": "bó"
+              "pinyin": ""
             },
             {
               "char": "学",
-              "pinyin": "xué"
+              "pinyin": ""
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": ""
             },
             {
               "char": "笃",
-              "pinyin": "dǔ"
+              "pinyin": ""
             },
             {
               "char": "志",
-              "pinyin": "zhì"
+              "pinyin": ""
             },
             {
               "char": "，",
@@ -1644,23 +1850,23 @@
             },
             {
               "char": "切",
-              "pinyin": "qiè"
+              "pinyin": ""
             },
             {
               "char": "问",
-              "pinyin": "wèn"
+              "pinyin": ""
             },
             {
               "char": "而",
-              "pinyin": "ér"
+              "pinyin": ""
             },
             {
               "char": "近",
-              "pinyin": "jìn"
+              "pinyin": ""
             },
             {
               "char": "思",
-              "pinyin": "sī"
+              "pinyin": ""
             },
             {
               "char": "，",
@@ -1668,23 +1874,23 @@
             },
             {
               "char": "仁",
-              "pinyin": "rén"
+              "pinyin": ""
             },
             {
               "char": "在",
-              "pinyin": "zài"
+              "pinyin": ""
             },
             {
               "char": "其",
-              "pinyin": "qí"
+              "pinyin": ""
             },
             {
               "char": "中",
-              "pinyin": "zhōng"
+              "pinyin": ""
             },
             {
               "char": "矣",
-              "pinyin": "yǐ"
+              "pinyin": ""
             },
             {
               "char": "。",
@@ -1696,25 +1902,33 @@
             }
           ],
           "translation": {
-            "translation": "子夏说：”广博学习且志向坚定，恳切发问且思考实际问题，仁德就在其中了。”"
+            "translation": ""
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 8,
-              "end": 9,
-              "note": "笃志：坚定志向。笃：坚定；志：志向。"
+              "char": "《",
+              "pinyin": ""
             },
             {
-              "start": 11,
-              "end": 12,
-              "note": "切问：恳切地提问。切：恳切。"
+              "char": "子",
+              "pinyin": ""
             },
             {
-              "start": 14,
-              "end": 15,
-              "note": "近思：联系当前的事物进行思考。指思考贴近实际的问题。"
+              "char": "张",
+              "pinyin": ""
+            },
+            {
+              "char": "》",
+              "pinyin": ""
             }
-          ]
+          ],
+          "translation": {
+            "translation": ""
+          },
+          "notes": []
         }
       ]
     }

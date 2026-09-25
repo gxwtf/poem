@@ -42,23 +42,11 @@
             },
             {
               "char": "谪",
-              "pinyin": "zhé",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "谪：封建时代官员被降职或流放。此处指滕子京被贬至巴陵郡任太守。"
-                }
-              ]
+              "pinyin": "zhé"
             },
             {
               "char": "守",
-              "pinyin": "shǒu",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "守：指担任太守，为地方行政长官。‘谪守’即贬官出任地方官。"
-                }
-              ]
+              "pinyin": "shǒu"
             },
             {
               "char": "巴",
@@ -78,7 +66,7 @@
             }
           ],
           "translation": {
-            "translation": "庆历四年春天，滕子京降职到岳州做太守。"
+            "translation": "庆历四年的春天，滕子京被贬职到岳州做知州。"
           },
           "notes": []
         },
@@ -126,46 +114,20 @@
             },
             {
               "char": "废",
-              "pinyin": "fèi",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "废：指荒废的事业或工程。百废，泛指各种荒废的政事。"
-                }
-              ]
+              "pinyin": "fèi"
             },
             {
               "char": "具",
-              "pinyin": "jù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "具：通‘俱’，全、都。具兴，即全都兴办起来。"
-                }
-              ]
+              "pinyin": "jù"
             },
             {
               "char": "兴",
               "pinyin": "xīng"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "隔年，政事顺利百姓和乐，各种荒废的事业都兴办起来。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "越明年：到了第二年。越，及、到；明年，第二年，非今年的下一个月。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "乃",
               "pinyin": "nǎi"
@@ -255,26 +217,12 @@
               "pinyin": "shàng"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "于是重修岳阳楼，扩展原有规模，把唐代名家和当代人的诗赋刻在上面。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "属",
-              "pinyin": "zhǔ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "属：通‘嘱’，嘱托。属予作文，即嘱咐我写一篇文章。"
-                }
-              ]
+              "pinyin": "zhǔ"
             },
             {
               "char": "予",
@@ -306,7 +254,43 @@
             }
           ],
           "translation": {
-            "translation": "嘱托我写文章记述此事。"
+            "translation": "到了第二年，政事顺利，百姓和乐，各种荒废的事业都兴办起来了。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "(",
+              "pinyin": ""
+            },
+            {
+              "char": "具",
+              "pinyin": "yú"
+            },
+            {
+              "char": " ",
+              "pinyin": "guān"
+            },
+            {
+              "char": "通",
+              "pinyin": "fú"
+            },
+            {
+              "char": "：",
+              "pinyin": "　"
+            },
+            {
+              "char": "俱",
+              "pinyin": "bā"
+            },
+            {
+              "char": ")",
+              "pinyin": ""
+            }
+          ],
+          "translation": {
+            "translation": "于是重新修建岳阳楼，扩大它原有的规模，把唐代和当代名人的诗赋刻在上面。"
           },
           "notes": []
         }
@@ -318,31 +302,31 @@
           "sentence": [
             {
               "char": "予",
-              "pinyin": "yú"
-            },
-            {
-              "char": "观",
-              "pinyin": "guān"
-            },
-            {
-              "char": "夫",
-              "pinyin": "fú"
-            },
-            {
-              "char": "巴",
-              "pinyin": "bā"
-            },
-            {
-              "char": "陵",
               "pinyin": "líng"
             },
             {
-              "char": "胜",
+              "char": "观",
               "pinyin": "shèng"
             },
             {
-              "char": "状",
+              "char": "夫",
               "pinyin": "zhuàng"
+            },
+            {
+              "char": "巴",
+              "pinyin": "zài"
+            },
+            {
+              "char": "陵",
+              "pinyin": "dòng"
+            },
+            {
+              "char": "胜",
+              "pinyin": "tíng"
+            },
+            {
+              "char": "状",
+              "pinyin": "yī"
             },
             {
               "char": "，",
@@ -350,23 +334,23 @@
             },
             {
               "char": "在",
-              "pinyin": "zài"
+              "pinyin": "hú"
             },
             {
               "char": "洞",
-              "pinyin": "dòng"
+              "pinyin": "xián"
             },
             {
               "char": "庭",
-              "pinyin": "tíng"
+              "pinyin": "yuǎn"
             },
             {
               "char": "一",
-              "pinyin": "yī"
+              "pinyin": "shān"
             },
             {
               "char": "湖",
-              "pinyin": "hú"
+              "pinyin": "tūn"
             },
             {
               "char": "。",
@@ -374,35 +358,23 @@
             }
           ],
           "translation": {
-            "translation": "我看那巴陵郡的美景，全在洞庭湖。"
+            "translation": "他嘱托我写一篇文章来记述这件事情。"
           },
-          "notes": [
-            {
-              "start": 5,
-              "end": 6,
-              "note": "胜状：美好的景象。胜，优美、壮丽；状，景色、景观。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "衔",
-              "pinyin": "xián",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "衔：含着，连接。形象地写出洞庭湖与远山相连的地理态势。"
-                }
-              ]
+              "pinyin": "cháng"
             },
             {
               "char": "远",
-              "pinyin": "yuǎn"
+              "pinyin": "jiāng"
             },
             {
               "char": "山",
-              "pinyin": "shān"
+              "pinyin": "hào"
             },
             {
               "char": "，",
@@ -410,21 +382,15 @@
             },
             {
               "char": "吞",
-              "pinyin": "tūn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "吞：容纳，吞纳。极言洞庭湖气势磅礴，能容纳长江之水。"
-                }
-              ]
+              "pinyin": "hào"
             },
             {
               "char": "长",
-              "pinyin": "cháng"
+              "pinyin": "shāng"
             },
             {
               "char": "江",
-              "pinyin": "jiāng"
+              "pinyin": "shāng"
             },
             {
               "char": "，",
@@ -432,19 +398,19 @@
             },
             {
               "char": "浩",
-              "pinyin": "hào"
+              "pinyin": "héng"
             },
             {
               "char": "浩",
-              "pinyin": "hào"
+              "pinyin": "wú"
             },
             {
               "char": "汤",
-              "pinyin": "shāng"
+              "pinyin": "jì"
             },
             {
               "char": "汤",
-              "pinyin": "shāng"
+              "pinyin": "yá"
             },
             {
               "char": "，",
@@ -452,64 +418,18 @@
             },
             {
               "char": "横",
-              "pinyin": "héng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "横：广远地延伸。横无际涯，意为广阔无边，不见边际。"
-                }
-              ]
-            },
-            {
-              "char": "无",
-              "pinyin": "wú"
-            },
-            {
-              "char": "际",
-              "pinyin": "jì"
-            },
-            {
-              "char": "涯",
-              "pinyin": "yá"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "衔接远山，吞吐长江，水势浩大，无边无际。"
-          },
-          "notes": [
-            {
-              "start": 8,
-              "end": 12,
-              "note": "浩浩汤汤：水势浩大、奔腾不息的样子。汤，音shāng，非tāng。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "朝",
               "pinyin": "zhāo"
             },
             {
-              "char": "晖",
-              "pinyin": "huī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "晖：日光。朝晖指早晨的阳光，与‘夕阴’相对。"
-                }
-              ]
+              "char": "无",
+              "pinyin": "huī"
             },
             {
-              "char": "夕",
+              "char": "际",
               "pinyin": "xī"
             },
             {
-              "char": "阴",
+              "char": "涯",
               "pinyin": "yīn"
             },
             {
@@ -517,68 +437,80 @@
               "pinyin": "　"
             },
             {
-              "char": "气",
+              "char": "朝",
               "pinyin": "qì"
             },
             {
-              "char": "象",
+              "char": "晖",
               "pinyin": "xiàng"
             },
             {
-              "char": "万",
+              "char": "夕",
               "pinyin": "wàn"
             },
             {
-              "char": "千",
+              "char": "阴",
               "pinyin": "qiān"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "早晚阴晴变化，气象万千。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
-              "char": "此",
+              "char": "气",
               "pinyin": "cǐ"
             },
             {
-              "char": "则",
+              "char": "象",
               "pinyin": "zé"
             },
             {
-              "char": "岳",
+              "char": "万",
               "pinyin": "yuè"
             },
             {
-              "char": "阳",
+              "char": "千",
               "pinyin": "yáng"
             },
             {
-              "char": "楼",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "此",
               "pinyin": "lóu"
             },
             {
-              "char": "之",
+              "char": "则",
               "pinyin": "zhī"
             },
             {
-              "char": "大",
+              "char": "岳",
               "pinyin": "dà"
             },
             {
-              "char": "观",
+              "char": "阳",
               "pinyin": "guān"
             },
             {
-              "char": "也",
+              "char": "楼",
               "pinyin": "yě"
+            },
+            {
+              "char": "之",
+              "pinyin": "qián"
+            },
+            {
+              "char": "大",
+              "pinyin": "rén"
+            },
+            {
+              "char": "观",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "也",
+              "pinyin": "shù"
             },
             {
               "char": "，",
@@ -586,27 +518,27 @@
             },
             {
               "char": "前",
-              "pinyin": "qián"
-            },
-            {
-              "char": "人",
-              "pinyin": "rén"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "述",
-              "pinyin": "shù"
-            },
-            {
-              "char": "备",
               "pinyin": "bèi"
             },
             {
-              "char": "矣",
+              "char": "人",
               "pinyin": "yǐ"
+            },
+            {
+              "char": "之",
+              "pinyin": "rán"
+            },
+            {
+              "char": "述",
+              "pinyin": "zé"
+            },
+            {
+              "char": "备",
+              "pinyin": "běi"
+            },
+            {
+              "char": "矣",
+              "pinyin": "tōng"
             },
             {
               "char": "。",
@@ -614,7 +546,7 @@
             }
           ],
           "translation": {
-            "translation": "这就是岳阳楼的壮丽景象，前人的描述很详尽了。"
+            "translation": "我观看那巴陵郡的胜景，全在洞庭湖上。"
           },
           "notes": []
         },
@@ -622,46 +554,26 @@
           "sentence": [
             {
               "char": "然",
-              "pinyin": "rán"
-            },
-            {
-              "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "北",
-              "pinyin": "běi"
-            },
-            {
-              "char": "通",
-              "pinyin": "tōng"
-            },
-            {
-              "char": "巫",
               "pinyin": "wū"
             },
             {
-              "char": "峡",
+              "char": "则",
               "pinyin": "xiá"
             },
             {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "南",
+              "char": "北",
               "pinyin": "nán"
             },
             {
-              "char": "极",
+              "char": "通",
               "pinyin": "jí"
             },
             {
-              "char": "潇",
+              "char": "巫",
               "pinyin": "xiāo"
             },
             {
-              "char": "湘",
+              "char": "峡",
               "pinyin": "xiāng"
             },
             {
@@ -669,25 +581,19 @@
               "pinyin": "　"
             },
             {
-              "char": "迁",
+              "char": "南",
               "pinyin": "qiān"
             },
             {
-              "char": "客",
+              "char": "极",
               "pinyin": "kè"
             },
             {
-              "char": "骚",
-              "pinyin": "sāo",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "骚人：泛指文人，原指《离骚》作者屈原及追随者，后引申为诗人。"
-                }
-              ]
+              "char": "潇",
+              "pinyin": "sāo"
             },
             {
-              "char": "人",
+              "char": "湘",
               "pinyin": "rén"
             },
             {
@@ -695,19 +601,19 @@
               "pinyin": "　"
             },
             {
-              "char": "多",
+              "char": "迁",
               "pinyin": "duō"
             },
             {
-              "char": "会",
+              "char": "客",
               "pinyin": "huì"
             },
             {
-              "char": "于",
+              "char": "骚",
               "pinyin": "yú"
             },
             {
-              "char": "此",
+              "char": "人",
               "pinyin": "cǐ"
             },
             {
@@ -715,19 +621,19 @@
               "pinyin": "　"
             },
             {
-              "char": "览",
+              "char": "多",
               "pinyin": "lǎn"
             },
             {
-              "char": "物",
+              "char": "会",
               "pinyin": "wù"
             },
             {
-              "char": "之",
+              "char": "于",
               "pinyin": "zhī"
             },
             {
-              "char": "情",
+              "char": "此",
               "pinyin": "qíng"
             },
             {
@@ -735,20 +641,40 @@
               "pinyin": "　"
             },
             {
-              "char": "得",
+              "char": "览",
               "pinyin": "dé"
             },
             {
-              "char": "无",
+              "char": "物",
               "pinyin": "wú"
             },
             {
-              "char": "异",
+              "char": "之",
               "pinyin": "yì"
             },
             {
-              "char": "乎",
+              "char": "情",
               "pinyin": "hū"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "得",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "无",
+              "pinyin": "fú"
+            },
+            {
+              "char": "异",
+              "pinyin": "yín"
+            },
+            {
+              "char": "乎",
+              "pinyin": "yǔ"
             },
             {
               "char": "？",
@@ -756,20 +682,9 @@
             }
           ],
           "translation": {
-            "translation": "然而北通巫峡，南达潇湘，被贬官员诗人多聚会于此，观景心情怎能相同？"
+            "translation": "衔着远山，吞没了长河，水流浩荡，宽阔无边，一天里阴晴多变，气象千变万化。"
           },
-          "notes": [
-            {
-              "start": 12,
-              "end": 13,
-              "note": "迁客：被贬谪的官员。迁，古代官员调动，多指降职。"
-            },
-            {
-              "start": 22,
-              "end": 23,
-              "note": "览物之情：观看自然景物所产生的感情。览，观看；物，景物。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -779,27 +694,27 @@
           "sentence": [
             {
               "char": "若",
-              "pinyin": "ruò"
+              "pinyin": "fēi"
             },
             {
               "char": "夫",
-              "pinyin": "fú"
+              "pinyin": "fēi"
             },
             {
               "char": "淫",
-              "pinyin": "yín"
+              "pinyin": "lián"
             },
             {
               "char": "雨",
-              "pinyin": "yǔ"
+              "pinyin": "yuè"
             },
             {
               "char": "霏",
-              "pinyin": "fēi"
+              "pinyin": "bù"
             },
             {
               "char": "霏",
-              "pinyin": "fēi"
+              "pinyin": "kāi"
             },
             {
               "char": "，",
@@ -807,58 +722,18 @@
             },
             {
               "char": "连",
-              "pinyin": "lián"
-            },
-            {
-              "char": "月",
-              "pinyin": "yuè"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "开",
-              "pinyin": "kāi"
-            },
-            {
-              "char": "。",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "开：指天气放晴。连月不开，即连续多月不见晴天。"
-                }
-              ]
-            }
-          ],
-          "translation": {
-            "translation": "若是连绵阴雨，数月不放晴。"
-          },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "淫雨：连绵不断的雨。淫，久雨；霏霏，雨雪纷飞的样子。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "阴",
               "pinyin": "yīn"
             },
             {
-              "char": "风",
+              "char": "月",
               "pinyin": "fēng"
             },
             {
-              "char": "怒",
+              "char": "不",
               "pinyin": "nù"
             },
             {
-              "char": "号",
+              "char": "开",
               "pinyin": "háo"
             },
             {
@@ -866,102 +741,100 @@
               "pinyin": "　"
             },
             {
-              "char": "浊",
+              "char": "阴",
               "pinyin": "zhuó"
             },
             {
-              "char": "浪",
+              "char": "风",
               "pinyin": "làng"
             },
             {
-              "char": "排",
+              "char": "怒",
               "pinyin": "pái"
             },
             {
-              "char": "空",
+              "char": "号",
               "pinyin": "kōng"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "寒风怒吼，浊浪冲天。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
-              "char": "日",
+              "char": "浊",
               "pinyin": "rì"
             },
             {
-              "char": "星",
+              "char": "浪",
               "pinyin": "xīng"
             },
             {
-              "char": "隐",
+              "char": "排",
               "pinyin": "yǐn"
             },
             {
-              "char": "曜",
+              "char": "空",
               "pinyin": "yào"
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "曜：光辉，此处指日月的光芒。隐曜，即光芒隐没。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
-              "char": "山",
+              "char": "日",
               "pinyin": "shān"
             },
             {
-              "char": "岳",
+              "char": "星",
               "pinyin": "yuè"
             },
             {
-              "char": "潜",
+              "char": "隐",
               "pinyin": "qián"
+            },
+            {
+              "char": "曜",
+              "pinyin": "xíng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "山",
+              "pinyin": "shāng"
+            },
+            {
+              "char": "岳",
+              "pinyin": "lǚ"
+            },
+            {
+              "char": "潜",
+              "pinyin": "bù"
             },
             {
               "char": "形",
               "pinyin": "xíng"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "日月星辰隐藏光辉，山岳隐没形迹。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "商",
-              "pinyin": "shāng"
+              "pinyin": "qiáng"
             },
             {
               "char": "旅",
-              "pinyin": "lǚ"
+              "pinyin": "qīng"
             },
             {
               "char": "不",
-              "pinyin": "bù"
+              "pinyin": "jí"
             },
             {
               "char": "行",
-              "pinyin": "xíng"
+              "pinyin": "cuī"
             },
             {
               "char": "，",
@@ -969,65 +842,39 @@
             },
             {
               "char": "樯",
-              "pinyin": "qiáng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "樯：船上的桅杆。倾，倒下。樯倾，形容船只倾覆。"
-                }
-              ]
-            },
-            {
-              "char": "倾",
-              "pinyin": "qīng"
-            },
-            {
-              "char": "楫",
-              "pinyin": "jí",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "楫：船桨。摧，折断。楫摧，指行船困难，船只损毁。"
-                }
-              ]
-            },
-            {
-              "char": "摧",
-              "pinyin": "cuī"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "商人旅客不能通行，船桅倾倒船桨折断。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "薄",
               "pinyin": "bó"
             },
             {
+              "char": "倾",
+              "pinyin": "mù"
+            },
+            {
+              "char": "楫",
+              "pinyin": "míng"
+            },
+            {
+              "char": "摧",
+              "pinyin": "míng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "薄",
+              "pinyin": "hǔ"
+            },
+            {
               "char": "暮",
-              "pinyin": "mù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "薄：迫近。薄暮，即傍晚时分，太阳接近地平线。"
-                }
-              ]
+              "pinyin": "xiào"
             },
             {
               "char": "冥",
-              "pinyin": "míng"
+              "pinyin": "yuán"
             },
             {
               "char": "冥",
-              "pinyin": "míng"
+              "pinyin": "tí"
             },
             {
               "char": "，",
@@ -1035,19 +882,19 @@
             },
             {
               "char": "虎",
-              "pinyin": "hǔ"
+              "pinyin": "dēng"
             },
             {
               "char": "啸",
-              "pinyin": "xiào"
+              "pinyin": "sī"
             },
             {
               "char": "猿",
-              "pinyin": "yuán"
+              "pinyin": "lóu"
             },
             {
               "char": "啼",
-              "pinyin": "tí"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -1055,7 +902,7 @@
             }
           ],
           "translation": {
-            "translation": "傍晚天色昏暗，虎啸猿啼。"
+            "translation": "这就是岳阳楼的壮丽景象。"
           },
           "notes": []
         },
@@ -1063,19 +910,19 @@
           "sentence": [
             {
               "char": "登",
-              "pinyin": "dēng"
+              "pinyin": "zé"
             },
             {
               "char": "斯",
-              "pinyin": "sī"
+              "pinyin": "yǒu"
             },
             {
               "char": "楼",
-              "pinyin": "lóu"
+              "pinyin": "qù"
             },
             {
               "char": "也",
-              "pinyin": "yě"
+              "pinyin": "guó"
             },
             {
               "char": "，",
@@ -1083,39 +930,27 @@
             },
             {
               "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "有",
-              "pinyin": "yǒu"
-            },
-            {
-              "char": "去",
-              "pinyin": "qù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "去：离开。去国，即离开国都。与现代‘去’表示‘前往’相反。"
-                }
-              ]
-            },
-            {
-              "char": "国",
-              "pinyin": "guó",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "国：国都，京城。此处指北宋都城汴京，非现代‘国家’之意。"
-                }
-              ]
-            },
-            {
-              "char": "怀",
               "pinyin": "huái"
             },
             {
-              "char": "乡",
+              "char": "有",
               "pinyin": "xiāng"
+            },
+            {
+              "char": "去",
+              "pinyin": "yōu"
+            },
+            {
+              "char": "国",
+              "pinyin": "chán"
+            },
+            {
+              "char": "怀",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "乡",
+              "pinyin": "jī"
             },
             {
               "char": "，",
@@ -1123,50 +958,18 @@
             },
             {
               "char": "忧",
-              "pinyin": "yōu"
-            },
-            {
-              "char": "谗",
-              "pinyin": "chán",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "谗：谗言，坏话。忧谗，担心被人说坏话。"
-                }
-              ]
-            },
-            {
-              "char": "畏",
-              "pinyin": "wèi"
-            },
-            {
-              "char": "讥",
-              "pinyin": "jī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "讥：讥讽、批评。畏讥，害怕被人指责。"
-                }
-              ]
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "满",
               "pinyin": "mǎn"
             },
             {
-              "char": "目",
+              "char": "谗",
               "pinyin": "mù"
             },
             {
-              "char": "萧",
+              "char": "畏",
               "pinyin": "xiāo"
             },
             {
-              "char": "然",
+              "char": "讥",
               "pinyin": "rán"
             },
             {
@@ -1174,28 +977,48 @@
               "pinyin": "　"
             },
             {
-              "char": "感",
+              "char": "满",
               "pinyin": "gǎn"
             },
             {
-              "char": "极",
+              "char": "目",
               "pinyin": "jí"
             },
             {
-              "char": "而",
+              "char": "萧",
               "pinyin": "ér"
             },
             {
-              "char": "悲",
+              "char": "然",
               "pinyin": "bēi"
             },
             {
-              "char": "者",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "感",
               "pinyin": "zhě"
             },
             {
-              "char": "矣",
+              "char": "极",
               "pinyin": "yǐ"
+            },
+            {
+              "char": "而",
+              "pinyin": "zhì"
+            },
+            {
+              "char": "悲",
+              "pinyin": "ruò"
+            },
+            {
+              "char": "者",
+              "pinyin": "chūn"
+            },
+            {
+              "char": "矣",
+              "pinyin": "hé"
             },
             {
               "char": "。",
@@ -1203,7 +1026,7 @@
             }
           ],
           "translation": {
-            "translation": "此时登楼，就会有离开国都怀念家乡，担心诽谤害怕讥讽，满眼萧瑟，感慨悲伤的情绪。"
+            "translation": "前人的记述已经很详尽了。"
           },
           "notes": []
         }
@@ -1215,33 +1038,27 @@
           "sentence": [
             {
               "char": "至",
-              "pinyin": "zhì"
+              "pinyin": "jǐng"
             },
             {
               "char": "若",
-              "pinyin": "ruò"
+              "pinyin": "míng"
             },
             {
               "char": "春",
-              "pinyin": "chūn"
+              "pinyin": "bō"
             },
             {
               "char": "和",
-              "pinyin": "hé"
+              "pinyin": "lán"
             },
             {
               "char": "景",
-              "pinyin": "jǐng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "景：日光。春和景明，指春风和煦、阳光明媚。景非‘景色’。"
-                }
-              ]
+              "pinyin": "bù"
             },
             {
               "char": "明",
-              "pinyin": "míng"
+              "pinyin": "jīng"
             },
             {
               "char": "，",
@@ -1249,46 +1066,18 @@
             },
             {
               "char": "波",
-              "pinyin": "bō"
-            },
-            {
-              "char": "澜",
-              "pinyin": "lán"
-            },
-            {
-              "char": "不",
-              "pinyin": "bù"
-            },
-            {
-              "char": "惊",
-              "pinyin": "jīng"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "待到春风和煦阳光明媚，湖面平静。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "上",
               "pinyin": "shàng"
             },
             {
-              "char": "下",
+              "char": "澜",
               "pinyin": "xià"
             },
             {
-              "char": "天",
+              "char": "不",
               "pinyin": "tiān"
             },
             {
-              "char": "光",
+              "char": "惊",
               "pinyin": "guāng"
             },
             {
@@ -1296,47 +1085,39 @@
               "pinyin": "　"
             },
             {
-              "char": "一",
+              "char": "上",
               "pinyin": "yī"
             },
             {
-              "char": "碧",
+              "char": "下",
               "pinyin": "bì"
             },
             {
-              "char": "万",
+              "char": "天",
               "pinyin": "wàn"
             },
             {
-              "char": "顷",
+              "char": "光",
               "pinyin": "qǐng"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "天色湖光相接，碧波万顷。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
-              "char": "沙",
+              "char": "一",
               "pinyin": "shā"
             },
             {
-              "char": "鸥",
+              "char": "碧",
               "pinyin": "ōu"
             },
             {
-              "char": "翔",
+              "char": "万",
               "pinyin": "xiáng"
             },
             {
-              "char": "集",
+              "char": "顷",
               "pinyin": "ji"
             },
             {
@@ -1344,53 +1125,39 @@
               "pinyin": "　"
             },
             {
-              "char": "锦",
+              "char": "沙",
               "pinyin": "jǐn"
             },
             {
-              "char": "鳞",
-              "pinyin": "lín",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "锦鳞：华美的鱼鳞，借代指代美丽的鱼。锦，华美；鳞，代鱼。"
-                }
-              ]
+              "char": "鸥",
+              "pinyin": "lín"
             },
             {
-              "char": "游",
+              "char": "翔",
               "pinyin": "yóu"
             },
             {
-              "char": "泳",
+              "char": "集",
               "pinyin": "yǒng"
             },
             {
-              "char": "。",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "沙鸥时而飞翔，鱼儿游来游去。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
+            },
             {
-              "char": "岸",
+              "char": "锦",
               "pinyin": "àn"
             },
             {
-              "char": "芷",
+              "char": "鳞",
               "pinyin": "zhǐ"
             },
             {
-              "char": "汀",
+              "char": "游",
               "pinyin": "tīng"
             },
             {
-              "char": "兰",
+              "char": "泳",
               "pinyin": "lán"
             },
             {
@@ -1398,20 +1165,40 @@
               "pinyin": "　"
             },
             {
-              "char": "郁",
+              "char": "岸",
               "pinyin": "yù"
             },
             {
-              "char": "郁",
+              "char": "芷",
               "pinyin": "yù"
             },
             {
-              "char": "青",
+              "char": "汀",
               "pinyin": "qīng"
             },
             {
-              "char": "青",
+              "char": "兰",
               "pinyin": "qīng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "郁",
+              "pinyin": "ér"
+            },
+            {
+              "char": "郁",
+              "pinyin": "huò"
+            },
+            {
+              "char": "青",
+              "pinyin": "cháng"
+            },
+            {
+              "char": "青",
+              "pinyin": "yān"
             },
             {
               "char": "。",
@@ -1419,7 +1206,7 @@
             }
           ],
           "translation": {
-            "translation": "岸上小草小洲兰花，香气浓郁青翠。"
+            "translation": "虽然如此，那么向北面通到巫峡，向南面直到潇水和湘水，被贬谪到外地的官吏和来往的诗人，大多在这里聚会，他们看了自然景物而触发的感情大概会有所不同吧？"
           },
           "notes": []
         },
@@ -1427,33 +1214,27 @@
           "sentence": [
             {
               "char": "而",
-              "pinyin": "ér"
-            },
-            {
-              "char": "或",
-              "pinyin": "huò"
-            },
-            {
-              "char": "长",
-              "pinyin": "cháng"
-            },
-            {
-              "char": "烟",
-              "pinyin": "yān"
-            },
-            {
-              "char": "一",
               "pinyin": "yī"
             },
             {
+              "char": "或",
+              "pinyin": "kōng"
+            },
+            {
+              "char": "长",
+              "pinyin": "hào"
+            },
+            {
+              "char": "烟",
+              "pinyin": "yuè"
+            },
+            {
+              "char": "一",
+              "pinyin": "qiān"
+            },
+            {
               "char": "空",
-              "pinyin": "kōng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "空：消散、净尽。长烟一空，指大片烟雾完全散去。"
-                }
-              ]
+              "pinyin": "lǐ"
             },
             {
               "char": "，",
@@ -1461,59 +1242,39 @@
             },
             {
               "char": "皓",
-              "pinyin": "hào",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "皓：洁白。皓月，即明亮洁白的月亮。"
-                }
-              ]
-            },
-            {
-              "char": "月",
-              "pinyin": "yuè"
-            },
-            {
-              "char": "千",
-              "pinyin": "qiān"
-            },
-            {
-              "char": "里",
-              "pinyin": "lǐ"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "有时大片烟雾消散，皎洁月光照耀千里。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "浮",
               "pinyin": "fú"
             },
             {
-              "char": "光",
+              "char": "月",
               "pinyin": "guāng"
             },
             {
-              "char": "跃",
+              "char": "千",
               "pinyin": "yuè"
             },
             {
+              "char": "里",
+              "pinyin": "jīn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "浮",
+              "pinyin": "jìng"
+            },
+            {
+              "char": "光",
+              "pinyin": "yǐng"
+            },
+            {
+              "char": "跃",
+              "pinyin": "chén"
+            },
+            {
               "char": "金",
-              "pinyin": "jīn",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "跃金：波动的月光像跳跃的金子。比喻湖面波光粼粼的景象。"
-                }
-              ]
+              "pinyin": "bì"
             },
             {
               "char": "，",
@@ -1521,52 +1282,18 @@
             },
             {
               "char": "静",
-              "pinyin": "jìng"
-            },
-            {
-              "char": "影",
-              "pinyin": "yǐng"
-            },
-            {
-              "char": "沉",
-              "pinyin": "chén"
-            },
-            {
-              "char": "璧",
-              "pinyin": "bì",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "沉璧：静静的月影像沉入水中的玉璧。比喻月影清澈如玉。"
-                }
-              ]
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "浮光如金跃动，月影似玉沉璧。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "渔",
               "pinyin": "yú"
             },
             {
-              "char": "歌",
+              "char": "影",
               "pinyin": "gē"
             },
             {
-              "char": "互",
+              "char": "沉",
               "pinyin": "hù"
             },
             {
-              "char": "答",
+              "char": "璧",
               "pinyin": "dá"
             },
             {
@@ -1574,20 +1301,40 @@
               "pinyin": "　"
             },
             {
-              "char": "此",
+              "char": "渔",
               "pinyin": "cǐ"
             },
             {
-              "char": "乐",
+              "char": "歌",
               "pinyin": "lè"
             },
             {
-              "char": "何",
+              "char": "互",
               "pinyin": "hé"
             },
             {
-              "char": "极",
+              "char": "答",
               "pinyin": "jí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "此",
+              "pinyin": "dēng"
+            },
+            {
+              "char": "乐",
+              "pinyin": "sī"
+            },
+            {
+              "char": "何",
+              "pinyin": "lóu"
+            },
+            {
+              "char": "极",
+              "pinyin": "yě"
             },
             {
               "char": "！",
@@ -1595,7 +1342,7 @@
             }
           ],
           "translation": {
-            "translation": "渔夫歌声相和，乐趣无穷！"
+            "translation": "像那连绵不断的雨，接连几个月不放晴，寒风呼啸，浑浊的浪冲向天空；"
           },
           "notes": []
         },
@@ -1603,19 +1350,19 @@
           "sentence": [
             {
               "char": "登",
-              "pinyin": "dēng"
+              "pinyin": "zé"
             },
             {
               "char": "斯",
-              "pinyin": "sī"
+              "pinyin": "yǒu"
             },
             {
               "char": "楼",
-              "pinyin": "lóu"
+              "pinyin": "xīn"
             },
             {
               "char": "也",
-              "pinyin": "yě"
+              "pinyin": "kuàng"
             },
             {
               "char": "，",
@@ -1623,70 +1370,26 @@
             },
             {
               "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "有",
-              "pinyin": "yǒu"
-            },
-            {
-              "char": "心",
-              "pinyin": "xīn"
-            },
-            {
-              "char": "旷",
-              "pinyin": "kuàng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "旷：开阔。心旷，心情开阔舒畅。"
-                }
-              ]
-            },
-            {
-              "char": "神",
               "pinyin": "shén"
             },
             {
-              "char": "怡",
-              "pinyin": "yí",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "怡：愉快。神怡，精神愉悦。"
-                }
-              ]
+              "char": "有",
+              "pinyin": "yí"
             },
             {
-              "char": "，",
-              "pinyin": "　"
+              "char": "心",
+              "pinyin": "chǒng"
             },
             {
-              "char": "宠",
-              "pinyin": "chǒng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "宠：荣耀。宠辱，指荣耀与屈辱。"
-                }
-              ]
-            },
-            {
-              "char": "辱",
+              "char": "旷",
               "pinyin": "rǔ"
             },
             {
-              "char": "偕",
-              "pinyin": "xié",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "偕：一起。宠辱偕忘，即荣耀与屈辱都一并忘却。"
-                }
-              ]
+              "char": "神",
+              "pinyin": "xié"
             },
             {
-              "char": "忘",
+              "char": "怡",
               "pinyin": "wàng"
             },
             {
@@ -1694,32 +1397,40 @@
               "pinyin": "　"
             },
             {
-              "char": "把",
+              "char": "宠",
               "pinyin": "bǎ"
             },
             {
-              "char": "酒",
-              "pinyin": "jiǔ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "把：持、端着。把酒，即端起酒杯。"
-                }
-              ]
+              "char": "辱",
+              "pinyin": "jiǔ"
             },
             {
-              "char": "临",
+              "char": "偕",
               "pinyin": "lín"
             },
             {
+              "char": "忘",
+              "pinyin": "fēng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "把",
+              "pinyin": "qí"
+            },
+            {
+              "char": "酒",
+              "pinyin": "xǐ"
+            },
+            {
+              "char": "临",
+              "pinyin": "yáng"
+            },
+            {
               "char": "风",
-              "pinyin": "fēng",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "临：面对。临风，面对清风。"
-                }
-              ]
+              "pinyin": "yáng"
             },
             {
               "char": "，",
@@ -1727,27 +1438,27 @@
             },
             {
               "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "喜",
-              "pinyin": "xǐ"
-            },
-            {
-              "char": "洋",
-              "pinyin": "yáng"
-            },
-            {
-              "char": "洋",
-              "pinyin": "yáng"
-            },
-            {
-              "char": "者",
               "pinyin": "zhě"
             },
             {
-              "char": "矣",
+              "char": "喜",
               "pinyin": "yǐ"
+            },
+            {
+              "char": "洋",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "洋",
+              "pinyin": "fú"
+            },
+            {
+              "char": "者",
+              "pinyin": "yú"
+            },
+            {
+              "char": "矣",
+              "pinyin": "cháng"
             },
             {
               "char": "。",
@@ -1755,7 +1466,7 @@
             }
           ],
           "translation": {
-            "translation": "此时登楼，就会心胸开阔精神愉快，荣辱皆忘，迎风举杯，喜气洋洋。"
+            "translation": "太阳和星星隐藏起光辉，山岳隐没了形体；"
           },
           "notes": []
         }
@@ -1767,53 +1478,55 @@
           "sentence": [
             {
               "char": "嗟",
-              "pinyin": "jiē"
+              "pinyin": "qiú"
             },
             {
               "char": "夫",
-              "pinyin": "fú",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "嗟夫：感叹词，相当于‘唉’。用于引出下文议论。"
-                }
-              ]
+              "pinyin": "gǔ"
             },
             {
               "char": "！",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "商人和旅客不能通行，船桅倒下，船桨折断；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "予",
-              "pinyin": "yú"
+              "pinyin": "rén"
             },
             {
               "char": "尝",
-              "pinyin": "cháng"
+              "pinyin": "rén"
             },
             {
               "char": "求",
-              "pinyin": "qiú"
-            },
-            {
-              "char": "古",
-              "pinyin": "gǔ"
-            },
-            {
-              "char": "仁",
-              "pinyin": "rén"
-            },
-            {
-              "char": "人",
-              "pinyin": "rén"
-            },
-            {
-              "char": "之",
               "pinyin": "zhī"
             },
             {
-              "char": "心",
+              "char": "古",
               "pinyin": "xīn"
+            },
+            {
+              "char": "仁",
+              "pinyin": "huò"
+            },
+            {
+              "char": "人",
+              "pinyin": "yì"
+            },
+            {
+              "char": "之",
+              "pinyin": "èr"
+            },
+            {
+              "char": "心",
+              "pinyin": "zhě"
             },
             {
               "char": "，",
@@ -1821,78 +1534,52 @@
             },
             {
               "char": "或",
-              "pinyin": "huò"
-            },
-            {
-              "char": "异",
-              "pinyin": "yì"
-            },
-            {
-              "char": "二",
-              "pinyin": "èr"
-            },
-            {
-              "char": "者",
-              "pinyin": "zhě"
-            },
-            {
-              "char": "之",
               "pinyin": "zhī"
             },
             {
-              "char": "为",
+              "char": "异",
               "pinyin": "wéi"
             },
             {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "唉！我曾探求古仁人的心境，或不同于以上两种表现。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "何",
+              "char": "二",
               "pinyin": "hé"
             },
             {
-              "char": "哉",
+              "char": "者",
               "pinyin": "zāi"
             },
             {
-              "char": "？",
-              "pinyin": "　"
+              "char": "之",
+              "pinyin": "bù"
             },
             {
-              "char": "不",
-              "pinyin": "bù",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "以：因为。不以物喜，即不因外物的好坏而或喜或悲。"
-                }
-              ]
-            },
-            {
-              "char": "以",
+              "char": "为",
               "pinyin": "yǐ"
-            },
-            {
-              "char": "物",
-              "pinyin": "wù"
-            },
-            {
-              "char": "喜",
-              "pinyin": "xǐ"
             },
             {
               "char": "，",
               "pinyin": "　"
             },
+            {
+              "char": "何",
+              "pinyin": "wù"
+            },
+            {
+              "char": "哉",
+              "pinyin": "xǐ"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "傍晚天色昏暗，老虎在长啸，猿在悲啼，这时登上这座楼啊，就会有一种离开国都、怀念家乡，担心人家说坏话、惧怕人家批评指责，满眼都是萧条的景象，感慨到了极点而悲伤的心情。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "不",
               "pinyin": "bù"
@@ -1902,18 +1589,112 @@
               "pinyin": "yǐ"
             },
             {
+              "char": "物",
+              "pinyin": "jǐ"
+            },
+            {
+              "char": "喜",
+              "pinyin": "bēi"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "不",
+              "pinyin": "jū"
+            },
+            {
+              "char": "以",
+              "pinyin": "miào"
+            },
+            {
               "char": "己",
-              "pinyin": "jǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "己：自己。不以己悲，不因个人得失而悲伤。"
-                }
-              ]
+              "pinyin": "táng"
             },
             {
               "char": "悲",
-              "pinyin": "bēi"
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "居",
+              "pinyin": "gāo"
+            },
+            {
+              "char": "庙",
+              "pinyin": "zé"
+            },
+            {
+              "char": "堂",
+              "pinyin": "yōu"
+            },
+            {
+              "char": "之",
+              "pinyin": "qí"
+            },
+            {
+              "char": "高",
+              "pinyin": "mín"
+            },
+            {
+              "char": "则",
+              "pinyin": "chǔ"
+            },
+            {
+              "char": "忧",
+              "pinyin": "jiāng"
+            },
+            {
+              "char": "其",
+              "pinyin": "hú"
+            },
+            {
+              "char": "民",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "处",
+              "pinyin": "yuǎn"
+            },
+            {
+              "char": "江",
+              "pinyin": "zé"
+            },
+            {
+              "char": "湖",
+              "pinyin": "yōu"
+            },
+            {
+              "char": "之",
+              "pinyin": "qí"
+            },
+            {
+              "char": "远",
+              "pinyin": "jūn"
+            },
+            {
+              "char": "则",
+              "pinyin": "shì"
+            },
+            {
+              "char": "忧",
+              "pinyin": "jìn"
+            },
+            {
+              "char": "其",
+              "pinyin": "yì"
+            },
+            {
+              "char": "君",
+              "pinyin": "yōu"
             },
             {
               "char": "。",
@@ -1921,135 +1702,27 @@
             }
           ],
           "translation": {
-            "translation": "为什么？不因外物好坏而喜悲。"
+            "translation": "至于春风和煦，阳光明媚的时候，湖面平静，没有惊涛骇浪，天色湖光相连，一片碧绿，广阔无际；"
           },
           "notes": []
         },
         {
           "sentence": [
             {
-              "char": "居",
-              "pinyin": "jū"
-            },
-            {
-              "char": "庙",
-              "pinyin": "miào"
-            },
-            {
-              "char": "堂",
-              "pinyin": "táng"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "高",
-              "pinyin": "gāo"
-            },
-            {
-              "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "忧",
-              "pinyin": "yōu"
-            },
-            {
-              "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "民",
-              "pinyin": "mín"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "在朝廷做官就担忧百姓。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "居庙堂之高：处在高高的庙堂之上，指在朝廷做官。庙堂，朝廷。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
-              "char": "处",
-              "pinyin": "chǔ"
-            },
-            {
-              "char": "江",
-              "pinyin": "jiāng"
-            },
-            {
-              "char": "湖",
-              "pinyin": "hú"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "远",
-              "pinyin": "yuǎn"
-            },
-            {
-              "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "忧",
-              "pinyin": "yōu"
-            },
-            {
-              "char": "其",
-              "pinyin": "qí"
-            },
-            {
-              "char": "君",
-              "pinyin": "jūn"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "在野隐居就担忧君主。"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "处江湖之远：处在远离朝廷的江湖之间，指出仕在外、贬谪地方。"
-            }
-          ]
-        },
-        {
-          "sentence": [
-            {
               "char": "是",
-              "pinyin": "shì"
+              "pinyin": "tuì"
             },
             {
               "char": "进",
-              "pinyin": "jìn"
-            },
-            {
-              "char": "亦",
               "pinyin": "yì"
             },
             {
-              "char": "忧",
+              "char": "亦",
               "pinyin": "yōu"
+            },
+            {
+              "char": "忧",
+              "pinyin": "rán"
             },
             {
               "char": "，",
@@ -2057,15 +1730,15 @@
             },
             {
               "char": "退",
-              "pinyin": "tuì"
+              "pinyin": "zé"
             },
             {
               "char": "亦",
-              "pinyin": "yì"
+              "pinyin": "hé"
             },
             {
               "char": "忧",
-              "pinyin": "yōu"
+              "pinyin": "shí"
             },
             {
               "char": "。",
@@ -2073,7 +1746,7 @@
             }
           ],
           "translation": {
-            "translation": "这样进也忧退也忧。"
+            "translation": "沙洲上的鸥鸟，时而飞翔，时而停歇，美丽的鱼儿或浮或沉，岸上与小洲上的花草，香气馥郁，青葱繁茂。"
           },
           "notes": []
         },
@@ -2081,79 +1754,91 @@
           "sentence": [
             {
               "char": "然",
-              "pinyin": "rán"
-            },
-            {
-              "char": "则",
-              "pinyin": "zé"
-            },
-            {
-              "char": "何",
-              "pinyin": "hé"
-            },
-            {
-              "char": "时",
-              "pinyin": "shí"
-            },
-            {
-              "char": "而",
               "pinyin": "ér"
             },
             {
-              "char": "乐",
+              "char": "则",
               "pinyin": "lè"
             },
             {
-              "char": "耶",
+              "char": "何",
               "pinyin": "yé"
+            },
+            {
+              "char": "时",
+              "pinyin": "qí"
+            },
+            {
+              "char": "而",
+              "pinyin": "bì"
+            },
+            {
+              "char": "乐",
+              "pinyin": "yuē"
+            },
+            {
+              "char": "耶",
+              "pinyin": "xiān"
             },
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "有时大片烟雾完全消散，皎洁的月光照耀千里，浮动的波光像跳动的金子，静静的月影像沉入水中的玉璧，渔人唱着歌互相应答，这种乐趣真是无穷无尽啊！"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "其",
-              "pinyin": "qí"
+              "pinyin": "tiān"
             },
             {
               "char": "必",
-              "pinyin": "bì"
+              "pinyin": "xià"
             },
             {
               "char": "曰",
-              "pinyin": "yuē"
+              "pinyin": "zhī"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
               "char": "先",
-              "pinyin": "xiān"
+              "pinyin": "yōu"
             },
             {
               "char": "天",
-              "pinyin": "tiān"
-            },
-            {
-              "char": "下",
-              "pinyin": "xià"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "忧",
-              "pinyin": "yōu"
-            },
-            {
-              "char": "而",
               "pinyin": "ér"
             },
             {
-              "char": "忧",
+              "char": "下",
               "pinyin": "yōu"
+            },
+            {
+              "char": "之",
+              "pinyin": "hòu"
+            },
+            {
+              "char": "忧",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "而",
+              "pinyin": "xià"
+            },
+            {
+              "char": "忧",
+              "pinyin": "zhī"
             },
             {
               "char": "，",
@@ -2161,35 +1846,39 @@
             },
             {
               "char": "后",
-              "pinyin": "hòu"
+              "pinyin": "lè"
             },
             {
               "char": "天",
-              "pinyin": "tiān"
-            },
-            {
-              "char": "下",
-              "pinyin": "xià"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "乐",
-              "pinyin": "lè"
-            },
-            {
-              "char": "而",
               "pinyin": "ér"
             },
             {
-              "char": "乐",
+              "char": "下",
               "pinyin": "lè"
             },
             {
-              "char": "乎",
+              "char": "之",
               "pinyin": "hū"
+            },
+            {
+              "char": "乐",
+              "pinyin": "yī"
+            },
+            {
+              "char": "而",
+              "pinyin": "wēi"
+            },
+            {
+              "char": "乐",
+              "pinyin": "sī"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            },
+            {
+              "char": "乎",
+              "pinyin": "rén"
             },
             {
               "char": "！",
@@ -2197,48 +1886,39 @@
             }
           ],
           "translation": {
-            "translation": "那么何时才快乐呢？必定会说：在天下人忧虑之前先忧虑，在天下人快乐之后才快乐吧！"
+            "translation": "这时登上这座楼，就会感到心胸开阔、心情愉快，荣耀和屈辱一并都忘了，在清风吹拂中端起酒来喝，那真是快乐高兴极了。"
           },
-          "notes": [
-            {
-              "start": 12,
-              "end": 18,
-              "note": "先天下之忧而忧：在天下人忧愁之前就忧愁。先，时间上的前置。"
-            },
-            {
-              "start": 20,
-              "end": 26,
-              "note": "后天下之乐而乐：在天下人享乐之后才享乐。后，时间上的延后。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "噫",
-              "pinyin": "yī"
+              "pinyin": "wú"
             },
             {
               "char": "！",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "唉！"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "微",
-              "pinyin": "wēi",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "微：如果没有。微斯人，如果没有这样的人。"
-                }
-              ]
+              "pinyin": "shuí"
             },
             {
               "char": "斯",
-              "pinyin": "sī"
+              "pinyin": "yǔ"
             },
             {
               "char": "人",
-              "pinyin": "rén"
+              "pinyin": "guī"
             },
             {
               "char": "，",
@@ -2246,25 +1926,19 @@
             },
             {
               "char": "吾",
-              "pinyin": "wú"
+              "pinyin": "shí"
             },
             {
               "char": "谁",
-              "pinyin": "shuí",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "谁与归：即‘与谁归’，宾语前置。归，归依。吾谁与归，我同谁一道呢？"
-                }
-              ]
+              "pinyin": "liù"
             },
             {
               "char": "与",
-              "pinyin": "yǔ"
+              "pinyin": "nián"
             },
             {
               "char": "归",
-              "pinyin": "guī"
+              "pinyin": "jiǔ"
             },
             {
               "char": "？",
@@ -2272,7 +1946,7 @@
             }
           ],
           "translation": {
-            "translation": "唉！没有这种人，我同谁归向呢？"
+            "translation": "我曾经探求古时品德高尚的人的思想感情，或许不同于（以上）两种人的心情，这是为什么呢？"
           },
           "notes": []
         },
@@ -2280,35 +1954,35 @@
           "sentence": [
             {
               "char": "时",
-              "pinyin": "shí"
-            },
-            {
-              "char": "六",
-              "pinyin": "liù"
-            },
-            {
-              "char": "年",
-              "pinyin": "nián"
-            },
-            {
-              "char": "九",
-              "pinyin": "jiǔ"
-            },
-            {
-              "char": "月",
               "pinyin": "yuè"
             },
             {
-              "char": "十",
+              "char": "六",
               "pinyin": "shí"
             },
             {
-              "char": "五",
+              "char": "年",
               "pinyin": "wǔ"
             },
             {
-              "char": "日",
+              "char": "九",
               "pinyin": "rì"
+            },
+            {
+              "char": "月",
+              "pinyin": ""
+            },
+            {
+              "char": "十",
+              "pinyin": ""
+            },
+            {
+              "char": "五",
+              "pinyin": ""
+            },
+            {
+              "char": "日",
+              "pinyin": ""
             },
             {
               "char": "。",
@@ -2316,7 +1990,7 @@
             }
           ],
           "translation": {
-            "translation": "写于庆历六年九月十五日。"
+            "translation": "是由于不因为外物（好坏）和自己（得失）而或喜或悲。"
           },
           "notes": []
         }

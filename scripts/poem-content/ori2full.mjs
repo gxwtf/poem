@@ -234,7 +234,8 @@ function createFullJson(version, poemName, force = false) {
             "comprehensive_appreciation",
             "appreciation",
             "background",
-            "pinyin"
+            "pinyin",
+            "knowledge"
         ];
 
         // 用 meta 中的数据覆盖上述字段

@@ -23,26 +23,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "雕版印刷书籍，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "板印：指雕版印刷。板，同“版”，雕刻印刷用的木板。"
             },
-            {
-              "start": 0,
-              "end": 3,
-              "note": "板印：雕版印刷。板，同“版”，指雕刻印刷用的木板。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "唐",
               "pinyin": "táng"
@@ -77,23 +58,27 @@
             }
           ],
           "translation": {
-            "translation": "唐代尚未盛行。"
+            "translation": "用雕板印刷书籍，唐朝时期的人还没有大规模地做这种事。"
           },
           "notes": []
         },
         {
           "sentence": [
             {
-              "char": "五",
-              "pinyin": "wǔ"
+              "char": "自",
+              "pinyin": "zì"
             },
             {
-              "char": "代",
-              "pinyin": "dài"
+              "char": "冯",
+              "pinyin": "féng"
             },
             {
-              "char": "时",
-              "pinyin": "shí"
+              "char": "瀛",
+              "pinyin": "yíng"
+            },
+            {
+              "char": "王",
+              "pinyin": "wáng"
             },
             {
               "char": "始",
@@ -114,36 +99,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "五代开始印五经，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "note": "五代：指唐朝灭亡后的后梁、后唐、后晋、后汉、后周五个朝代（907-960年）。"
             },
-            {
-              "start": 4,
-              "end": 5,
-              "note": "始印：开始印刷。始，副词，表示最初。"
-            },
-            {
-              "start": 5,
-              "end": 6,
-              "note": "五经：儒家五部经典，指《诗》《书》《礼》《易》《春秋》。"
-            },
-            {
-              "start": 0,
-              "end": 6,
-              "note": "五代时始印五经：五代时期（公元907-960年）开始用雕版印刷《五经》（《诗》《书》《礼》《易》《春秋》）。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "已",
               "pinyin": "yǐ"
@@ -182,20 +138,9 @@
             }
           ],
           "translation": {
-            "translation": "此后典籍都是雕版。"
+            "translation": "从冯道开始用雕版印刷五经，以后的各种重要文献书籍就都是板印的本子了。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 7,
-              "note": "已后典籍皆为板本：已后，即“以后”；典籍，泛指重要书籍；板本，雕版印刷的本子。"
-            },
-            {
-              "start": 6,
-              "end": 8,
-              "note": "板本：雕版印刷的本子，区别于手抄本。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -242,31 +187,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "庆历年间，有平民毕昇，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "庆历：宋仁宗年号（1041-1048年）。"
             },
-            {
-              "start": 4,
-              "end": 8,
-              "note": "布衣毕昇：布衣，平民；毕昇，北宋发明家，活字印刷术的发明者。"
-            },
-            {
-              "start": 4,
-              "end": 9,
-              "note": "布衣毕昇：平民毕昇。布衣，古代指平民百姓；毕昇，北宋发明活字印刷术的工匠。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "又",
               "pinyin": "yòu"
@@ -289,25 +210,10 @@
             }
           ],
           "translation": {
-            "translation": "创制活字印刷。"
+            "translation": "庆历年间，有个叫毕昇的平民，又发明了活字版印刷。"
           },
-          "notes": [
-            {
-              "start": 2,
-              "end": 3,
-              "note": "活板：即活字印刷版。活，指字模可移动。"
-            },
-            {
-              "start": 2,
-              "end": 4,
-              "note": "活板：活字印刷版。活，指可移动、可重复使用。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -345,26 +251,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "方法：用粘土刻字，"
-          },
-          "notes": [
-            {
-              "start": 3,
-              "end": 7,
-              "note": "用胶泥刻字：用黏土刻字。胶泥，质地细腻的黏土。"
             },
-            {
-              "start": 3,
-              "end": 8,
-              "note": "用胶泥刻字：用黏土刻制字模。胶泥，质地细腻的黏土，适于雕刻和烧制。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "薄",
               "pinyin": "báo"
@@ -384,26 +271,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "薄如铜钱边缘，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "薄如钱唇：薄得像铜钱的边缘。钱唇，铜钱的边缘。"
             },
-            {
-              "start": 0,
-              "end": 4,
-              "note": "薄如钱唇：厚度像铜钱的边缘一样薄。钱唇，铜钱的边缘，形容极薄。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "每",
               "pinyin": "měi"
@@ -427,33 +295,14 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "每字制成一印，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "每字为一印：每个字刻成一个字模。印，这里指字模。"
             },
-            {
-              "start": 0,
-              "end": 5,
-              "note": "每字为一印：每个字刻成一个字模。印，这里指活字字模。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "火",
               "pinyin": "huǒ"
             },
             {
               "char": "烧",
-              "pinyin": "shāo"
+              "pinyin": "zhāo"
             },
             {
               "char": "令",
@@ -469,25 +318,10 @@
             }
           ],
           "translation": {
-            "translation": "火烧使其坚硬。"
+            "translation": "它的方法是：用黏土刻字，字模薄得像铜钱的边缘，每个字刻一个印模，用火烧使它坚硬。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 3,
-              "note": "火烧令坚：用火烧使它坚硬。令，使。"
-            },
-            {
-              "start": 0,
-              "end": 4,
-              "note": "火烧令坚：用火烧使它坚硬。令，使。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -513,26 +347,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "准备铁板，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "先设一铁板：先准备一块铁板。设，设置、准备。"
             },
-            {
-              "start": 0,
-              "end": 5,
-              "note": "先设一铁板：先准备一块铁板。设，设置、准备。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "其",
               "pinyin": "qí"
@@ -555,7 +370,7 @@
             },
             {
               "char": "、",
-              "pinyin": "、"
+              "pinyin": ""
             },
             {
               "char": "蜡",
@@ -595,25 +410,10 @@
             }
           ],
           "translation": {
-            "translation": "涂上松脂、蜡和纸灰混合物。"
+            "translation": "先设置一块铁板，在它的上面用松脂、蜡混合着纸灰这一类东西覆盖好。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 13,
-              "note": "其上以松脂、蜡和纸灰之类冒之：上面用松脂、蜡混合纸灰之类覆盖。和，混合；冒，覆盖。"
-            },
-            {
-              "start": 0,
-              "end": 14,
-              "note": "其上以松脂、蜡和纸灰之类冒之：铁板上用松脂、蜡混合纸灰一类的东西覆盖它。和，混合；冒，覆盖。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -667,36 +467,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "要印刷时，放铁框在铁板上，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "note": "欲印：要印刷的时候。欲，想要。"
             },
-            {
-              "start": 4,
-              "end": 11,
-              "note": "以一铁范置铁板上：拿一个铁框放在铁板上。范，框子。"
-            },
-            {
-              "start": 0,
-              "end": 2,
-              "note": "欲印：想要印刷的时候。欲，想要。"
-            },
-            {
-              "start": 4,
-              "end": 12,
-              "note": "则以一铁范置铁板上：就用一个铁框放在铁板上。铁范，铁制的框子；置，放置。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "乃",
               "pinyin": "nǎi"
@@ -720,26 +491,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "排满字印，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "乃密布字印：于是紧密地排满字模。布，排列。"
             },
-            {
-              "start": 0,
-              "end": 5,
-              "note": "乃密布字印：于是密密地排上字模。布，排列；字印，字模。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "满",
               "pinyin": "mǎn"
@@ -767,26 +519,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "排满一框为一版，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "满铁范为一板：排满铁框成为一块印版。"
             },
-            {
-              "start": 0,
-              "end": 6,
-              "note": "满铁范为一板：排满铁框成为一版。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "持",
               "pinyin": "chí"
@@ -808,28 +541,9 @@
               "pinyin": "zhī"
             },
             {
-              "char": "；",
+              "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "拿近火烤；"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "持就火炀之：拿着靠近火烘烤它。就，靠近；炀，烘烤。"
             },
-            {
-              "start": 0,
-              "end": 5,
-              "note": "持就火炀之：拿着靠近火烘烤它。就，靠近；炀，烘烤。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "药",
               "pinyin": "yào"
@@ -839,7 +553,7 @@
               "pinyin": "shāo"
             },
             {
-              "char": "熔",
+              "char": "镕",
               "pinyin": "róng"
             },
             {
@@ -881,31 +595,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "药料稍熔，用平板按压，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "药稍熔：药，指松脂、蜡等混合物；稍，渐渐。"
             },
-            {
-              "start": 0,
-              "end": 3,
-              "note": "药稍熔：药物（松脂、蜡等）稍微熔化。药，指覆盖的铁板上的药物。"
-            },
-            {
-              "start": 5,
-              "end": 12,
-              "note": "则以一平板按其面：就用一块平的板子压它的表面。按，压。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "则",
               "pinyin": "zé"
@@ -932,20 +622,10 @@
             }
           ],
           "translation": {
-            "translation": "字面就平整如磨刀石。"
+            "translation": "想要印刷，就把一个铁框子放在铁板上面，然后在铁框内密密地排上字模，排满了一铁框就成为一块印版，把它拿到火上烘烤；"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "则字平如砥：那么字模就平整得像磨刀石一样。砥，磨刀石。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -998,20 +678,9 @@
             }
           ],
           "translation": {
-            "translation": "若只印三两本，不算简易；"
+            "translation": "待铁板上的混合物稍稍熔化，就用一块平板按在字模上面，那么所有排在板上的字模就像磨刀石那样平。"
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 6,
-              "note": "若止印三二本：如果只印三两本。止，同“只”。"
-            },
-            {
-              "start": 7,
-              "end": 11,
-              "note": "未为简易：不算简便。为，算是。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -1073,25 +742,10 @@
             }
           ],
           "translation": {
-            "translation": "若印几十上百本，就极神速。"
+            "translation": "如果只印两三本，不能算是简便；"
           },
-          "notes": [
-            {
-              "start": 1,
-              "end": 7,
-              "note": "若印数十百千本：如果印几十、上百、上千本。"
-            },
-            {
-              "start": 8,
-              "end": 13,
-              "note": "则极为神速：就非常快速。神速，形容极其迅速。"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -1117,21 +771,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "通常备两块铁板，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "常作二铁板：通常准备两块铁板。作，制作、准备。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "一",
               "pinyin": "yī"
@@ -1146,26 +786,12 @@
             },
             {
               "char": "刷",
-              "pinyin": "shuā"
+              "pinyin": "shū"
             },
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "一版印刷时，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "一板印刷：一块板印刷。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "一",
               "pinyin": "yī"
@@ -1193,21 +819,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "另一版排字，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "note": "一板已自布字：另一块板已经在另外排字。自，另自、另外。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "此",
               "pinyin": "cǐ"
@@ -1231,21 +843,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "前版刚印完，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "此印者才毕：这块板印刷刚完。才毕，刚刚完毕。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "则",
               "pinyin": "zé"
@@ -1273,24 +871,10 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "第二版已备好，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "note": "则第二板已具：第二块板已经准备好了。具，具备、准备好。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "更",
-              "pinyin": "gèng"
+              "pinyin": "gēng"
             },
             {
               "char": "互",
@@ -1307,21 +891,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "交替使用，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "更互用之：交替使用它们。更互，轮流、交替。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "瞬",
               "pinyin": "shùn"
@@ -1344,20 +914,346 @@
             }
           ],
           "translation": {
-            "translation": "片刻完成。"
+            "translation": "如果印几十乃至成百上千本，那就极其快速。"
           },
-          "notes": [
+          "notes": []
+        },
+        {
+          "sentence": [
             {
-              "start": 0,
-              "end": 4,
-              "note": "瞬息可就：一瞬间就可以完成。瞬息，一眨眼一呼吸之间，形容时间极短；就，完成。"
+              "char": "每",
+              "pinyin": "měi"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "字",
+              "pinyin": "zì"
+            },
+            {
+              "char": "皆",
+              "pinyin": "jiē"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "数",
+              "pinyin": "shù"
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "如",
+              "pinyin": "rú"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            },
+            {
+              "char": "“",
+              "pinyin": "　"
+            },
+            {
+              "char": "也",
+              "pinyin": "yě"
+            },
+            {
+              "char": "”",
+              "pinyin": "　"
+            },
+            {
+              "char": "等",
+              "pinyin": "děng"
+            },
+            {
+              "char": "字",
+              "pinyin": "zì"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "每",
+              "pinyin": "měi"
+            },
+            {
+              "char": "字",
+              "pinyin": "zì"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "二",
+              "pinyin": "èr"
+            },
+            {
+              "char": "十",
+              "pinyin": "shí"
+            },
+            {
+              "char": "余",
+              "pinyin": "yú"
+            },
+            {
+              "char": "印",
+              "pinyin": "yìn"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "备",
+              "pinyin": "bèi"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "板",
+              "pinyin": "bǎn"
+            },
+            {
+              "char": "内",
+              "pinyin": "nèi"
+            },
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "重",
+              "pinyin": "chóng"
+            },
+            {
+              "char": "复",
+              "pinyin": "fù"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
             }
-          ]
-        }
-      ]
-    },
-    {
-      "paragraph": [
+          ],
+          "translation": {
+            "translation": "通常是做两块铁板，这一块在印刷，那一块已另外在排字了，这块印刷才完，第二块板已经准备好了，两块相互交替使用，很短的时间就能完成。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "不",
+              "pinyin": "bú"
+            },
+            {
+              "char": "用",
+              "pinyin": "yòng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "则",
+              "pinyin": "zé"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "纸",
+              "pinyin": "zhǐ"
+            },
+            {
+              "char": "帖",
+              "pinyin": "tiě"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "每",
+              "pinyin": "měi"
+            },
+            {
+              "char": "韵",
+              "pinyin": "yùn"
+            },
+            {
+              "char": "为",
+              "pinyin": "wéi"
+            },
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "帖",
+              "pinyin": "tiě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "木",
+              "pinyin": "mù"
+            },
+            {
+              "char": "格",
+              "pinyin": "gé"
+            },
+            {
+              "char": "贮",
+              "pinyin": "zhù"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "每一个字都有好几个印模，像“之”、“也”等字，每个字有二十多个印模，用来准备同一版内有重复的字。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "有",
+              "pinyin": "yǒu"
+            },
+            {
+              "char": "奇",
+              "pinyin": "qí"
+            },
+            {
+              "char": "字",
+              "pinyin": "zì"
+            },
+            {
+              "char": "素",
+              "pinyin": "sù"
+            },
+            {
+              "char": "无",
+              "pinyin": "wú"
+            },
+            {
+              "char": "备",
+              "pinyin": "bèi"
+            },
+            {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "旋",
+              "pinyin": "xuán"
+            },
+            {
+              "char": "刻",
+              "pinyin": "kè"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "草",
+              "pinyin": "cǎo"
+            },
+            {
+              "char": "火",
+              "pinyin": "huǒ"
+            },
+            {
+              "char": "烧",
+              "pinyin": "shāo"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "瞬",
+              "pinyin": "shùn"
+            },
+            {
+              "char": "息",
+              "pinyin": "xī"
+            },
+            {
+              "char": "可",
+              "pinyin": "kě"
+            },
+            {
+              "char": "成",
+              "pinyin": "chéng"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "不用时，就用纸条给它们作标签，按照字的韵部分类每个韵部做一个标签，用木格子把它们贮存起来。"
+          },
+          "notes": []
+        },
         {
           "sentence": [
             {
@@ -1374,7 +1270,7 @@
             },
             {
               "char": "为",
-              "pinyin": "wéi"
+              "pinyin": "wèi"
             },
             {
               "char": "之",
@@ -1387,21 +1283,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "不用木材刻字，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 6,
-              "note": "不以木为之者：不用木头做字模的原因。为，做；之，指字模；者，的原因。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "木",
               "pinyin": "mù"
@@ -1425,21 +1307,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "因木纹疏密不均，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "木理有疏密：木头的纹理有疏有密。理，纹理。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "沾",
               "pinyin": "zhān"
@@ -1471,21 +1339,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "沾水高低不平，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 7,
-              "note": "沾水则高下不平：沾了水就会高低不平。高下，高低。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "兼",
               "pinyin": "jiān"
@@ -1500,7 +1354,7 @@
             },
             {
               "char": "相",
-              "pinyin": "xiāng"
+              "pinyin": "xiàng"
             },
             {
               "char": "粘",
@@ -1528,20 +1382,9 @@
             }
           ],
           "translation": {
-            "translation": "且与药料相粘，难取下；"
+            "translation": "遇到平时没有准备的生僻字，随即刻制，用草烧火烘烤，很快就能制成功。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 5,
-              "note": "兼与药相粘：并且和药物互相粘连。兼，并且；药，指松脂、蜡等。"
-            },
-            {
-              "start": 6,
-              "end": 9,
-              "note": "不可取：不能取用（指不方便使用）。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -1564,21 +1407,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "不如黏土字，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "不若燔土：不如用烧制的黏土字模。燔，烧；土，指胶泥字模。"
-            }
-          ]
-        },
-        {
-          "sentence": [
+            },
             {
               "char": "用",
               "pinyin": "yòng"
@@ -1604,32 +1433,13 @@
               "pinyin": "yào"
             },
             {
-              "char": "熔",
+              "char": "镕",
               "pinyin": "róng"
             },
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "用毕烘烤使药熔，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "用讫：用完以后。讫，完毕。"
             },
-            {
-              "start": 3,
-              "end": 7,
-              "note": "再火令药熔：再用火烤使药物熔化。火，用火烤；令，使。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "以",
               "pinyin": "yǐ"
@@ -1669,26 +1479,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "手拂字落，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "以手拂之：用手拂拭它。拂，轻轻擦过。"
             },
-            {
-              "start": 5,
-              "end": 9,
-              "note": "其印自落：那些字模自己脱落。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "殊",
               "pinyin": "shū"
@@ -1711,15 +1502,9 @@
             }
           ],
           "translation": {
-            "translation": "完全不沾污。"
+            "translation": "不用木料刻字的原因，是木纹有疏有密，沾水后就高低不平，并且和混合物粘在一起，不容易取出来。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "殊不沾污：一点也不沾染脏东西。殊，根本、完全。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -1752,8 +1537,8 @@
               "pinyin": "wéi"
             },
             {
-              "char": "予",
-              "pinyin": "yǔ"
+              "char": "余",
+              "pinyin": "yú"
             },
             {
               "char": "群",
@@ -1774,26 +1559,7 @@
             {
               "char": "，",
               "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "毕昇死后，字印被我堂兄弟所得，"
-          },
-          "notes": [
-            {
-              "start": 0,
-              "end": 2,
-              "note": "昇死：毕昇死后。"
             },
-            {
-              "start": 3,
-              "end": 11,
-              "note": "其印为予群从所得：他的字模被我的堂兄弟侄们得到。为……所，被动句式；予，我；群从，指堂兄弟及子侄辈。"
-            }
-          ]
-        },
-        {
-          "sentence": [
             {
               "char": "至",
               "pinyin": "zhì"
@@ -1816,15 +1582,9 @@
             }
           ],
           "translation": {
-            "translation": "至今珍藏着。"
+            "translation": "不像火烧过的胶泥字，印完后再用火烤使混合物熔化，拿手一抹，这些字模就会自己落下来，绝不会被弄脏。"
           },
-          "notes": [
-            {
-              "start": 0,
-              "end": 4,
-              "note": "至今宝藏：到现在还珍贵地收藏着。宝，珍视；藏，收藏。"
-            }
-          ]
+          "notes": []
         }
       ]
     }

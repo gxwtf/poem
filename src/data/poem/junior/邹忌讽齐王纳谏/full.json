@@ -1,7 +1,7 @@
 {
   "name": "邹忌讽齐王纳谏",
-  "author": "邹忌",
-  "dynasty": "战国",
+  "author": "《战国策》",
+  "dynasty": "先秦",
   "mode": "paragraph",
   "paragraphs": [
     {
@@ -11,3441 +11,2323 @@
             {
               "char": "邹",
               "pinyin": "zōu",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "忌",
               "pinyin": "jì",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "修",
               "pinyin": "xiū",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "八",
               "pinyin": "bā",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "尺",
               "pinyin": "chǐ",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "余",
               "pinyin": "yú",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "形",
               "pinyin": "xíng",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "貌",
               "pinyin": "mào",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "昳",
               "pinyin": "yì",
-              "index": 11,
-              "read": true,
-              "write": true
+              "index": 11
             },
             {
               "char": "丽",
               "pinyin": "lì",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             }
           ],
-          "translation": "邹忌身高八尺多，而且体形容貌美丽。",
-          "pinyin": "zōu jì xiū bā chǐ yǒu yú ， ér xíng mào yì lì 。",
-          "notes": [
-            {
-              "start": 2,
-              "end": 2,
-              "content": "修：指身高，此处意为‘身高八尺多’，非‘修理’。"
-            },
-            {
-              "start": 11,
-              "end": 12,
-              "content": "昳丽：形容容貌光彩美丽，‘昳’音yì，多用于形容男子俊美。"
-            }
-          ]
+          "translation": "邹忌身高八尺多，而且外形、容貌光艳美丽。"
         },
         {
           "content": [
             {
               "char": "朝",
               "pinyin": "zhāo",
-              "index": 14,
-              "read": true,
-              "write": false
+              "index": 14
             },
             {
               "char": "服",
               "pinyin": "fú",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "衣",
               "pinyin": "yī",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "冠",
               "pinyin": "guān",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "窥",
               "pinyin": "kuī",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "镜",
               "pinyin": "jìng",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "谓",
               "pinyin": "wèi",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             },
             {
               "char": "妻",
               "pinyin": "qī",
-              "index": 24,
-              "read": false,
-              "write": false
+              "index": 24
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "孰",
               "pinyin": "shú",
-              "index": 29,
-              "read": true,
-              "write": true
+              "index": 29
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "北",
               "pinyin": "běi",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "”",
-              "index": 37,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 37
             }
           ],
-          "translation": "早晨穿戴好衣帽，照着镜子，对他的妻子说：“我与城北的徐公相比，谁更美？”",
-          "pinyin": "cháo fú yī guān ， kuī jìng ， wèi qí qī yuē ： “ wǒ shú yǔ chéng běi xú gōng měi ？”",
-          "notes": [
-            {
-              "start": 0,
-              "end": 0,
-              "content": "朝：读zhāo，早晨，此处‘朝服衣冠’意为早晨穿戴好衣帽。"
-            },
-            {
-              "start": 1,
-              "end": 1,
-              "content": "服：动词，穿戴，非名词‘衣服’。"
-            },
-            {
-              "start": 15,
-              "end": 17,
-              "content": "孰与：固定结构，表示比较，意为‘与……相比，谁更……’。"
-            }
-          ]
+          "translation": "早晨穿戴好衣帽，照着镜子，对他妻子说：“我和城北徐公相比，谁更美？”"
         },
         {
           "content": [
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "妻",
               "pinyin": "qī",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "甚",
               "pinyin": "shèn",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "及",
               "pinyin": "jí",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "”",
-              "index": 55,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 55
             }
           ],
-          "translation": "他的妻子说：“您美极了，徐公怎么能比得上您呢？”",
-          "pinyin": "qí qī yuē ： “ jūn měi shèn ， xú gōng hé néng jí jūn yě ？”"
+          "translation": "他的妻子说：“您非常美，徐公怎么能比得上您？”"
         },
         {
           "content": [
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "北",
               "pinyin": "běi",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "齐",
               "pinyin": "qí",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "国",
               "pinyin": "guó",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "丽",
               "pinyin": "lì",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             }
           ],
-          "translation": "城北的徐公是齐国的美男子。",
-          "pinyin": "chéng běi xú gōng ， qí guó zhī měi lì zhě yě 。"
+          "translation": "城北的徐公是齐国的美男子。"
         },
         {
           "content": [
             {
               "char": "忌",
               "pinyin": "jì",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             },
             {
               "char": "信",
               "pinyin": "xìn",
-              "index": 72,
-              "read": false,
-              "write": false
+              "index": 72
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "复",
               "pinyin": "fù",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "问",
               "pinyin": "wèn",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "妾",
               "pinyin": "qiè",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "孰",
               "pinyin": "shú",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "”",
-              "index": 89,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 89
             }
           ],
-          "translation": "邹忌不相信自己比徐公美，于是又问他的妾：“我与徐公相比，谁更美？”",
-          "pinyin": "jì bù zì xìn ， ér fù wèn qí qiè yuē ： “ wú shú yǔ xú gōng měi ？”",
-          "special_sentences": [
-            {
-              "start": 1,
-              "end": 4,
-              "content": "‘忌不自信’为否定句中代词宾语前置，正常语序应为‘不信自’。"
-            }
-          ]
+          "translation": "邹忌不相信自己比徐公美，于是又问他的妾：“我和徐公相比，谁更美？”"
         },
         {
           "content": [
             {
               "char": "妾",
               "pinyin": "qiè",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 93,
-              "read": false,
-              "write": false
+              "index": 93
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             },
             {
               "char": "何",
               "pinyin": "hé",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "及",
               "pinyin": "jí",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "”",
-              "index": 102,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 102
             }
           ],
-          "translation": "妾说：“徐公怎么能比得上您呢？”",
-          "pinyin": "qiè yuē ： “ xú gōng hé néng jí jūn yě ？”"
+          "translation": "妾回答说：“徐公哪能比得上您？”"
         },
         {
           "content": [
             {
               "char": "旦",
               "pinyin": "dàn",
-              "index": 103,
-              "read": true,
-              "write": false
+              "index": 103
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "客",
               "pinyin": "kè",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "从",
               "pinyin": "cóng",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             },
             {
               "char": "外",
               "pinyin": "wài",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "坐",
               "pinyin": "zuò",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "谈",
               "pinyin": "tán",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "问",
               "pinyin": "wèn",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 115
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 116
             },
             {
               "char": "客",
               "pinyin": "kè",
-              "index": 117,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 119
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 120,
-              "read": false,
-              "write": false
+              "index": 120
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 121,
-              "read": false,
-              "write": false
+              "index": 121
             },
             {
               "char": "与",
               "pinyin": "yǔ",
-              "index": 122,
-              "read": false,
-              "write": false
+              "index": 122
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 123,
-              "read": false,
-              "write": false
+              "index": 123
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 124,
-              "read": false,
-              "write": false
+              "index": 124
             },
             {
               "char": "孰",
               "pinyin": "shú",
-              "index": 125,
-              "read": false,
-              "write": false
+              "index": 125
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 126,
-              "read": false,
-              "write": false
+              "index": 126
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 127,
-              "read": false,
-              "write": false
+              "index": 127
             },
             {
               "char": "”",
-              "index": 128,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 128
             }
           ],
-          "translation": "第二天，有客人从外面来拜访，邹忌与他坐着聊天，问客人：“我与徐公相比，谁更美？”",
-          "pinyin": "dàn rì ， kè cóng wài lái ， yǔ zuò tán ， wèn zhī kè yuē ： “ wú yǔ xú gōng shú měi ？”",
-          "notes": [
-            {
-              "start": 0,
-              "end": 1,
-              "content": "旦日：第二天，古义特指次日，不同于现代‘明天’的泛指。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 1,
-              "old": "第二天"
-            },
-            {
-              "start": 0,
-              "end": 1,
-              "new": "未来的某一天"
-            }
-          ]
+          "translation": "第二天，有客人从外面来拜访，邹忌与他相坐而谈，问客人：“我和徐公比，谁更美？”"
         },
         {
           "content": [
             {
               "char": "客",
               "pinyin": "kè",
-              "index": 129,
-              "read": false,
-              "write": false
+              "index": 129
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 130,
-              "read": false,
-              "write": false
+              "index": 130
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 131,
-              "read": false,
-              "write": false
+              "index": 131
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 132,
-              "read": false,
-              "write": false
+              "index": 132
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 133,
-              "read": false,
-              "write": false
+              "index": 133
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 134,
-              "read": false,
-              "write": false
+              "index": 134
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 135,
-              "read": false,
-              "write": false
+              "index": 135
             },
             {
               "char": "若",
               "pinyin": "ruò",
-              "index": 136,
-              "read": false,
-              "write": false
+              "index": 136
             },
             {
               "char": "君",
               "pinyin": "jūn",
-              "index": 137,
-              "read": false,
-              "write": false
+              "index": 137
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 138,
-              "read": false,
-              "write": false
+              "index": 138
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 139,
-              "read": false,
-              "write": false
+              "index": 139
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 140,
-              "read": false,
-              "write": false
+              "index": 140
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 141,
-              "read": false,
-              "write": false
+              "index": 141
             },
             {
               "char": "”",
-              "index": 142,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 142
             }
           ],
-          "translation": "客人说：“徐公不如您美。”",
-          "pinyin": "kè yuē ： “ xú gōng bù ruò jūn zhī měi yě 。”"
+          "translation": "客人说：“徐公不如您美丽。”"
         },
         {
           "content": [
             {
               "char": "明",
               "pinyin": "míng",
-              "index": 143,
-              "read": false,
-              "write": false
+              "index": 143
             },
             {
               "char": "日",
               "pinyin": "rì",
-              "index": 144,
-              "read": false,
-              "write": false
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 145,
-              "read": false,
-              "write": false
+              "index": 144
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 146,
-              "read": false,
-              "write": false
+              "index": 145
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 147,
-              "read": false,
-              "write": false
+              "index": 146
             },
             {
               "char": "来",
               "pinyin": "lái",
-              "index": 148,
-              "read": false,
-              "write": false
+              "index": 147
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 149,
-              "read": false,
-              "write": false
+              "index": 148
             },
             {
               "char": "孰",
               "pinyin": "shú",
-              "index": 150,
-              "read": true,
-              "write": true
+              "index": 149
             },
             {
               "char": "视",
               "pinyin": "shì",
-              "index": 151,
-              "read": false,
-              "write": false
+              "index": 150
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 152,
-              "read": false,
-              "write": false
+              "index": 151
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 153,
-              "read": false,
-              "write": false
+              "index": 152
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 154,
-              "read": false,
-              "write": false
+              "index": 153
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 155,
-              "read": false,
-              "write": false
+              "index": 154
             },
             {
               "char": "为",
               "pinyin": "wèi",
-              "index": 156,
-              "read": false,
-              "write": false
+              "index": 155
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 157,
-              "read": false,
-              "write": false
+              "index": 156
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 158,
-              "read": false,
-              "write": false
+              "index": 157
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 159,
-              "read": false,
-              "write": false
+              "index": 158
             }
           ],
-          "translation": "又过了一天，徐公来了，邹忌仔细地看着他，自认为不如徐公美；",
-          "pinyin": "míng rì ， xú gōng lái ， shú shì zhī ， zì yǐ wéi bù rú ；",
-          "notes": [
-            {
-              "start": 7,
-              "end": 7,
-              "content": "孰：通‘熟’，仔细，此处‘孰视’即‘仔细看’。"
-            }
-          ]
+          "translation": "又过了一天，徐公来了，邹忌仔细地看着他，自己认为不如徐公美；"
         },
         {
           "content": [
             {
               "char": "窥",
               "pinyin": "kuī",
-              "index": 160,
-              "read": false,
-              "write": false
+              "index": 159
             },
             {
               "char": "镜",
               "pinyin": "jìng",
-              "index": 161,
-              "read": false,
-              "write": false
+              "index": 160
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 162,
-              "read": false,
-              "write": false
+              "index": 161
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 163,
-              "read": false,
-              "write": false
+              "index": 162
             },
             {
               "char": "视",
               "pinyin": "shì",
-              "index": 164,
-              "read": false,
-              "write": false
+              "index": 163
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 165,
-              "read": false,
-              "write": false
+              "index": 164
             },
             {
               "char": "又",
               "pinyin": "yòu",
-              "index": 166,
-              "read": false,
-              "write": false
+              "index": 165
             },
             {
               "char": "弗",
               "pinyin": "fú",
-              "index": 167,
-              "read": false,
-              "write": false
+              "index": 166
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 168,
-              "read": false,
-              "write": false
+              "index": 167
             },
             {
               "char": "远",
               "pinyin": "yuǎn",
-              "index": 169,
-              "read": false,
-              "write": false
+              "index": 168
             },
             {
               "char": "甚",
               "pinyin": "shèn",
-              "index": 170,
-              "read": false,
-              "write": false
+              "index": 169
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 171,
-              "read": false,
-              "write": false
+              "index": 170
             }
           ],
-          "translation": "再照镜子看着自己，更觉得远不如他。",
-          "pinyin": "kuī jìng ér zì shì ， yòu fú rú yuǎn shèn 。"
+          "translation": "再照镜子看着自己，更是觉得自己与徐公相差甚远。"
         },
         {
           "content": [
             {
               "char": "暮",
               "pinyin": "mù",
-              "index": 172,
-              "read": false,
-              "write": false
+              "index": 171
             },
             {
               "char": "寝",
               "pinyin": "qǐn",
-              "index": 173,
-              "read": true,
-              "write": true
+              "index": 172
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 174,
-              "read": false,
-              "write": false
+              "index": 173
             },
             {
               "char": "思",
               "pinyin": "sī",
-              "index": 175,
-              "read": false,
-              "write": false
+              "index": 174
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 176,
-              "read": false,
-              "write": false
+              "index": 175
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 177,
-              "read": false,
-              "write": false
+              "index": 176
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 178,
-              "read": false,
-              "write": false
+              "index": 177
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 179,
-              "read": false,
-              "write": false
+              "index": 178
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 180,
-              "read": false,
-              "write": false
+              "index": 179
             },
             {
               "char": "吾",
               "pinyin": "wú",
-              "index": 181,
-              "read": false,
-              "write": false
+              "index": 180
             },
             {
               "char": "妻",
               "pinyin": "qī",
-              "index": 182,
-              "read": false,
-              "write": false
+              "index": 181
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 183,
-              "read": false,
-              "write": false
+              "index": 182
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 184,
-              "read": false,
-              "write": false
+              "index": 183
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 185,
-              "read": false,
-              "write": false
+              "index": 184
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 186,
-              "read": false,
-              "write": false
+              "index": 185
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 187,
-              "read": false,
-              "write": false
+              "index": 186
             },
             {
               "char": "私",
               "pinyin": "sī",
-              "index": 188,
-              "read": false,
-              "write": false
+              "index": 187
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 189,
-              "read": false,
-              "write": false
+              "index": 188
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 190,
-              "read": false,
-              "write": false
+              "index": 189
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 191,
-              "read": false,
-              "write": false
+              "index": 190
             }
           ],
-          "translation": "晚上躺在床上思考这件事，说：“我的妻子认为我美，是偏爱我；",
-          "pinyin": "mù qǐn ér sī zhī ， yuē ： “ wú qī zhī měi wǒ zhě ， sī wǒ yě ；",
-          "notes": [
-            {
-              "start": 1,
-              "end": 1,
-              "content": "寝：睡觉，此处‘暮寝’指晚上就寝，非‘死亡’义。"
-            },
-            {
-              "start": 12,
-              "end": 12,
-              "content": "美我：意动用法，‘认为我美’，‘美’为形容词意动。"
-            },
-            {
-              "start": 16,
-              "end": 16,
-              "content": "私：偏爱，此处指因感情而偏袒，非‘私通’或‘私利’。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 11,
-              "end": 19,
-              "content": "‘吾妻之美我者，私我也’为主语后置判断句，‘……者，……也’表判断，‘美我’为意动用法。"
-            }
-          ]
+          "translation": "晚上他躺在床上休息时想这件事，说：“我的妻子认为我美，是偏爱我；"
         },
         {
           "content": [
             {
               "char": "妾",
               "pinyin": "qiè",
-              "index": 192,
-              "read": false,
-              "write": false
+              "index": 191
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 193,
-              "read": false,
-              "write": false
+              "index": 192
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 194,
-              "read": false,
-              "write": false
+              "index": 193
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 195,
-              "read": false,
-              "write": false
+              "index": 194
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 196,
-              "read": false,
-              "write": false
+              "index": 195
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 197,
-              "read": false,
-              "write": false
+              "index": 196
             },
             {
               "char": "畏",
               "pinyin": "wèi",
-              "index": 198,
-              "read": false,
-              "write": false
+              "index": 197
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 199,
-              "read": false,
-              "write": false
+              "index": 198
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 200,
-              "read": false,
-              "write": false
+              "index": 199
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 201,
-              "read": false,
-              "write": false
+              "index": 200
             }
           ],
-          "translation": "妾认为我美，是惧怕我；",
-          "pinyin": "qiè zhī měi wǒ zhě ， wèi wǒ yě ；"
+          "translation": "我的妾认为我美，是害怕我；"
         },
         {
           "content": [
             {
               "char": "客",
               "pinyin": "kè",
-              "index": 202,
-              "read": false,
-              "write": false
+              "index": 201
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 203,
-              "read": false,
-              "write": false
+              "index": 202
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 204,
-              "read": false,
-              "write": false
+              "index": 203
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 205,
-              "read": false,
-              "write": false
+              "index": 204
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 206,
-              "read": false,
-              "write": false
+              "index": 205
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 207,
-              "read": false,
-              "write": false
+              "index": 206
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 208,
-              "read": false,
-              "write": false
+              "index": 207
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 209,
-              "read": false,
-              "write": false
+              "index": 208
             },
             {
               "char": "求",
               "pinyin": "qiú",
-              "index": 210,
-              "read": false,
-              "write": false
+              "index": 209
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 211,
-              "read": false,
-              "write": false
+              "index": 210
             },
             {
               "char": "我",
               "pinyin": "wǒ",
-              "index": 212,
-              "read": false,
-              "write": false
+              "index": 211
             },
             {
               "char": "也",
               "pinyin": "yě",
-              "index": 213,
-              "read": false,
-              "write": false
+              "index": 212
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 214,
-              "read": false,
-              "write": false
+              "index": 213
             },
             {
               "char": "”",
-              "index": 215,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 214
             }
           ],
-          "translation": "客人认为我美，是想有求于我。”",
-          "pinyin": "kè zhī měi wǒ zhě ， yù yǒu qiú yú wǒ yě 。”"
-        },
+          "translation": "我的客人认为我美，是有事情有求于我。”"
+        }
+      ]
+    },
+    {
+      "sentences": [
         {
           "content": [
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 216,
-              "read": false,
-              "write": false
+              "index": 215
             },
             {
               "char": "是",
               "pinyin": "shì",
-              "index": 217,
-              "read": false,
-              "write": false
+              "index": 216
             },
             {
               "char": "入",
               "pinyin": "rù",
-              "index": 218,
-              "read": false,
-              "write": false
+              "index": 217
             },
             {
               "char": "朝",
               "pinyin": "cháo",
-              "index": 219,
-              "read": false,
-              "write": false
+              "index": 218
             },
             {
               "char": "见",
               "pinyin": "jiàn",
-              "index": 220,
-              "read": false,
-              "write": false
+              "index": 219
             },
             {
               "char": "威",
               "pinyin": "wēi",
-              "index": 221,
-              "read": false,
-              "write": false
+              "index": 220
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 222,
-              "read": false,
-              "write": false
+              "index": 221
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 223,
-              "read": false,
-              "write": false
+              "index": 222
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 224,
-              "read": false,
-              "write": false
+              "index": 223
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 225,
-              "read": false,
-              "write": false
+              "index": 224
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 226,
-              "read": false,
-              "write": false
+              "index": 225
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 227,
-              "read": false,
-              "write": false
+              "index": 226
             },
             {
               "char": "诚",
               "pinyin": "chéng",
-              "index": 228,
-              "read": false,
-              "write": false
+              "index": 227
             },
             {
               "char": "知",
               "pinyin": "zhī",
-              "index": 229,
-              "read": false,
-              "write": false
+              "index": 228
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 230,
-              "read": false,
-              "write": false
+              "index": 229
             },
             {
               "char": "如",
               "pinyin": "rú",
-              "index": 231,
-              "read": false,
-              "write": false
+              "index": 230
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 232,
-              "read": false,
-              "write": false
+              "index": 231
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 233,
-              "read": false,
-              "write": false
+              "index": 232
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 234,
-              "read": false,
-              "write": false
+              "index": 233
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 235,
-              "read": false,
-              "write": false
+              "index": 234
             }
           ],
-          "translation": "于是邹忌上朝拜见齐威王，说：“我确实知道自己不如徐公美。",
-          "pinyin": "yú shì rù cháo jiàn wēi wáng ， yuē ： “ chén chéng zhī bù rú xú gōng měi 。"
+          "translation": "于是邹忌上朝拜见齐威王，说：“我知道自己确实比不上徐公美。"
         },
         {
           "content": [
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 236,
-              "read": false,
-              "write": false
+              "index": 235
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 237,
-              "read": false,
-              "write": false
+              "index": 236
             },
             {
               "char": "妻",
               "pinyin": "qī",
-              "index": 238,
-              "read": false,
-              "write": false
+              "index": 237
             },
             {
               "char": "私",
               "pinyin": "sī",
-              "index": 239,
-              "read": false,
-              "write": false
+              "index": 238
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 240,
-              "read": false,
-              "write": false
+              "index": 239
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 241,
-              "read": false,
-              "write": false
+              "index": 240
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 242,
-              "read": false,
-              "write": false
+              "index": 241
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 243,
-              "read": false,
-              "write": false
+              "index": 242
             },
             {
               "char": "妾",
               "pinyin": "qiè",
-              "index": 244,
-              "read": false,
-              "write": false
+              "index": 243
             },
             {
               "char": "畏",
               "pinyin": "wèi",
-              "index": 245,
-              "read": false,
-              "write": false
+              "index": 244
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 246,
-              "read": false,
-              "write": false
+              "index": 245
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 247,
-              "read": false,
-              "write": false
+              "index": 246
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 248,
-              "read": false,
-              "write": false
+              "index": 247
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 249,
-              "read": false,
-              "write": false
+              "index": 248
             },
             {
               "char": "客",
               "pinyin": "kè",
-              "index": 250,
-              "read": false,
-              "write": false
+              "index": 249
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 251,
-              "read": false,
-              "write": false
+              "index": 250
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 252,
-              "read": false,
-              "write": false
+              "index": 251
             },
             {
               "char": "求",
               "pinyin": "qiú",
-              "index": 253,
-              "read": false,
-              "write": false
+              "index": 252
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 254,
-              "read": false,
-              "write": false
+              "index": 253
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 255,
-              "read": false,
-              "write": false
+              "index": 254
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 256,
-              "read": false,
-              "write": false
+              "index": 255
             },
             {
               "char": "皆",
               "pinyin": "jiē",
-              "index": 257,
-              "read": false,
-              "write": false
+              "index": 256
             },
             {
               "char": "以",
               "pinyin": "yǐ",
-              "index": 258,
-              "read": false,
-              "write": false
+              "index": 257
             },
             {
               "char": "美",
               "pinyin": "měi",
-              "index": 259,
-              "read": false,
-              "write": false
+              "index": 258
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 260,
-              "read": false,
-              "write": false
+              "index": 259
             },
             {
               "char": "徐",
               "pinyin": "xú",
-              "index": 261,
-              "read": false,
-              "write": false
+              "index": 260
             },
             {
               "char": "公",
               "pinyin": "gōng",
-              "index": 262,
-              "read": false,
-              "write": false
+              "index": 261
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 263,
-              "read": false,
-              "write": false
+              "index": 262
             }
           ],
-          "translation": "我的妻子偏爱我，我的妾惧怕我，我的客人想有求于我，他们都认为我比徐公美。",
-          "pinyin": "chén zhī qī sī chén ， chén zhī qiè wèi chén ， chén zhī kè yù yǒu qiú yú chén ， jiē yǐ měi yú xú gōng 。",
-          "special_sentences": [
-            {
-              "start": 22,
-              "end": 27,
-              "content": "‘皆以美于徐公’为状语后置句，正常语序为‘皆以于徐公美’。"
-            }
-          ]
+          "translation": "可是我的妻子偏爱我，我的妾害怕我，我的客人有事想要求助于我，所以他们都认为我比徐公美。"
         },
         {
           "content": [
             {
               "char": "今",
               "pinyin": "jīn",
-              "index": 264,
-              "read": false,
-              "write": false
+              "index": 263
             },
             {
               "char": "齐",
               "pinyin": "qí",
-              "index": 265,
-              "read": false,
-              "write": false
+              "index": 264
             },
             {
               "char": "地",
               "pinyin": "dì",
-              "index": 266,
-              "read": false,
-              "write": false
+              "index": 265
             },
             {
               "char": "方",
               "pinyin": "fāng",
-              "index": 267,
-              "read": false,
-              "write": false
+              "index": 266
             },
             {
               "char": "千",
               "pinyin": "qiān",
-              "index": 268,
-              "read": false,
-              "write": false
+              "index": 267
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 269,
-              "read": false,
-              "write": false
+              "index": 268
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 270,
-              "read": false,
-              "write": false
+              "index": 269
             },
             {
               "char": "百",
               "pinyin": "bǎi",
-              "index": 271,
-              "read": false,
-              "write": false
+              "index": 270
             },
             {
               "char": "二",
               "pinyin": "èr",
-              "index": 272,
-              "read": false,
-              "write": false
+              "index": 271
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 273,
-              "read": false,
-              "write": false
+              "index": 272
             },
             {
               "char": "城",
               "pinyin": "chéng",
-              "index": 274,
-              "read": false,
-              "write": false
+              "index": 273
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 275,
-              "read": false,
-              "write": false
+              "index": 274
             },
             {
               "char": "宫",
               "pinyin": "gōng",
-              "index": 276,
-              "read": false,
-              "write": false
+              "index": 275
             },
             {
               "char": "妇",
               "pinyin": "fù",
-              "index": 277,
-              "read": false,
-              "write": false
+              "index": 276
             },
             {
               "char": "左",
               "pinyin": "zuǒ",
-              "index": 278,
-              "read": false,
-              "write": false
+              "index": 277
             },
             {
               "char": "右",
               "pinyin": "yòu",
-              "index": 279,
-              "read": false,
-              "write": false
+              "index": 278
             },
             {
               "char": "莫",
               "pinyin": "mò",
-              "index": 280,
-              "read": false,
-              "write": false
+              "index": 279
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 281,
-              "read": false,
-              "write": false
+              "index": 280
             },
             {
               "char": "私",
               "pinyin": "sī",
-              "index": 282,
-              "read": false,
-              "write": false
+              "index": 281
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 283,
-              "read": false,
-              "write": false
+              "index": 282
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 284,
-              "read": false,
-              "write": false
+              "index": 283
             },
             {
               "char": "朝",
               "pinyin": "cháo",
-              "index": 285,
-              "read": false,
-              "write": false
+              "index": 284
             },
             {
               "char": "廷",
               "pinyin": "tíng",
-              "index": 286,
-              "read": false,
-              "write": false
+              "index": 285
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 287,
-              "read": false,
-              "write": false
+              "index": 286
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 288,
-              "read": false,
-              "write": false
+              "index": 287
             },
             {
               "char": "莫",
               "pinyin": "mò",
-              "index": 289,
-              "read": false,
-              "write": false
+              "index": 288
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 290,
-              "read": false,
-              "write": false
+              "index": 289
             },
             {
               "char": "畏",
               "pinyin": "wèi",
-              "index": 291,
-              "read": false,
-              "write": false
+              "index": 290
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 292,
-              "read": false,
-              "write": false
+              "index": 291
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 293,
-              "read": false,
-              "write": false
+              "index": 292
             },
             {
               "char": "四",
               "pinyin": "sì",
-              "index": 294,
-              "read": false,
-              "write": false
+              "index": 293
             },
             {
               "char": "境",
               "pinyin": "jìng",
-              "index": 295,
-              "read": false,
-              "write": false
+              "index": 294
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 296,
-              "read": false,
-              "write": false
+              "index": 295
             },
             {
               "char": "内",
               "pinyin": "nèi",
-              "index": 297,
-              "read": false,
-              "write": false
+              "index": 296
             },
             {
               "char": "莫",
               "pinyin": "mò",
-              "index": 298,
-              "read": false,
-              "write": false
+              "index": 297
             },
             {
               "char": "不",
               "pinyin": "bù",
-              "index": 299,
-              "read": false,
-              "write": false
+              "index": 298
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 300,
-              "read": false,
-              "write": false
+              "index": 299
             },
             {
               "char": "求",
               "pinyin": "qiú",
-              "index": 301,
-              "read": false,
-              "write": false
+              "index": 300
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 302,
-              "read": false,
-              "write": false
+              "index": 301
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 303,
-              "read": false,
-              "write": false
+              "index": 302
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 304,
-              "read": false,
-              "write": false
-            }
-          ],
-          "translation": "如今齐国领土纵横千里，有一百二十座城池，宫中的妃子、近臣没有不偏爱您的，朝中的大臣没有不惧怕您的，全国范围内的人没有不想有求于您的：",
-          "pinyin": "jīn qí dì fāng qiān lǐ ， bǎi èr shí chéng ， gōng fù zuǒ yòu mò bù sī wáng ， cháo tíng zhī chén mò bù wèi wáng ， sì jìng zhī nèi mò bù yǒu qiú yú wáng ：",
-          "different_meanings": [
-            {
-              "start": 3,
-              "end": 4,
-              "old": "方圆（指面积）"
+              "index": 303
             },
-            {
-              "start": 3,
-              "end": 4,
-              "new": "区域、地点"
-            }
-          ]
-        },
-        {
-          "content": [
             {
               "char": "由",
               "pinyin": "yóu",
-              "index": 305,
-              "read": false,
-              "write": false
+              "index": 304
             },
             {
               "char": "此",
               "pinyin": "cǐ",
-              "index": 306,
-              "read": false,
-              "write": false
+              "index": 305
             },
             {
               "char": "观",
               "pinyin": "guān",
-              "index": 307,
-              "read": false,
-              "write": false
+              "index": 306
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 308,
-              "read": false,
-              "write": false
+              "index": 307
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 309,
-              "read": false,
-              "write": false
+              "index": 308
             },
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 310,
-              "read": false,
-              "write": false
+              "index": 309
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 311,
-              "read": false,
-              "write": false
+              "index": 310
             },
             {
               "char": "蔽",
               "pinyin": "bì",
-              "index": 312,
-              "read": false,
-              "write": true
+              "index": 311
             },
             {
               "char": "甚",
               "pinyin": "shèn",
-              "index": 313,
-              "read": false,
-              "write": false
+              "index": 312
             },
             {
               "char": "矣",
               "pinyin": "yǐ",
-              "index": 314,
-              "read": false,
-              "write": false
+              "index": 313
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 315,
-              "read": false,
-              "write": false
+              "index": 314
             },
             {
               "char": "”",
-              "index": 316,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 315
             }
           ],
-          "translation": "由此看来，大王您受蒙蔽很深啊。”",
-          "pinyin": "yóu cǐ guān zhī ， wáng zhī bì shèn yǐ 。”",
-          "notes": [
-            {
-              "start": 7,
-              "end": 7,
-              "content": "蔽：受蒙蔽，指因身边人阿谀奉承而不能明察事理。"
-            }
-          ]
-        },
+          "translation": "如今齐国有方圆千里的疆土，一百二十座城池。"
+        }
+      ]
+    },
+    {
+      "sentences": [
         {
           "content": [
             {
               "char": "王",
               "pinyin": "wáng",
-              "index": 317,
-              "read": false,
-              "write": false
+              "index": 316
             },
             {
               "char": "曰",
               "pinyin": "yuē",
-              "index": 318,
-              "read": false,
-              "write": false
+              "index": 317
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 319,
-              "read": false,
-              "write": false
+              "index": 318
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 320,
-              "read": false,
-              "write": false
+              "index": 319
             },
             {
               "char": "善",
               "pinyin": "shàn",
-              "index": 321,
-              "read": false,
-              "write": false
+              "index": 320
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 322,
-              "read": false,
-              "write": false
+              "index": 321
             },
             {
               "char": "”",
-              "index": 323,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 322
             }
           ],
-          "translation": "齐威王说：“好。”",
-          "pinyin": "wáng yuē ： “ shàn 。”"
+          "translation": "宫中的姬妾及身边的近臣，没有一个不偏爱大王的，朝中的大臣没有一个不惧怕大王的，全国的百姓没有不对大王有所求的。"
         },
         {
           "content": [
             {
               "char": "乃",
               "pinyin": "nǎi",
-              "index": 324,
-              "read": false,
-              "write": false
+              "index": 323
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 325,
-              "read": false,
-              "write": false
+              "index": 324
             },
             {
               "char": "令",
               "pinyin": "lìng",
-              "index": 326,
-              "read": false,
-              "write": false
+              "index": 325
             },
             {
               "char": "：",
               "pinyin": "",
-              "index": 327,
-              "read": false,
-              "write": false
+              "index": 326
             },
             {
               "char": "“",
               "pinyin": "",
-              "index": 328,
-              "read": false,
-              "write": false
+              "index": 327
             },
             {
               "char": "群",
               "pinyin": "qún",
-              "index": 329,
-              "read": false,
-              "write": false
+              "index": 328
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 330,
-              "read": false,
-              "write": false
+              "index": 329
             },
             {
               "char": "吏",
               "pinyin": "lì",
-              "index": 331,
-              "read": false,
-              "write": false
+              "index": 330
             },
             {
               "char": "民",
               "pinyin": "mín",
-              "index": 332,
-              "read": false,
-              "write": false
+              "index": 331
             },
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 333,
-              "read": false,
-              "write": false
+              "index": 332
             },
             {
               "char": "面",
               "pinyin": "miàn",
-              "index": 334,
-              "read": false,
-              "write": false
+              "index": 333
             },
             {
               "char": "刺",
               "pinyin": "cì",
-              "index": 335,
-              "read": false,
-              "write": true
+              "index": 334
             },
             {
               "char": "寡",
               "pinyin": "guǎ",
-              "index": 336,
-              "read": false,
-              "write": false
+              "index": 335
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 337,
-              "read": false,
-              "write": false
+              "index": 336
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 338,
-              "read": false,
-              "write": false
+              "index": 337
             },
             {
               "char": "过",
               "pinyin": "guò",
-              "index": 339,
-              "read": false,
-              "write": false
+              "index": 338
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 340,
-              "read": false,
-              "write": false
+              "index": 339
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 341,
-              "read": false,
-              "write": false
+              "index": 340
             },
             {
               "char": "受",
               "pinyin": "shòu",
-              "index": 342,
-              "read": false,
-              "write": false
+              "index": 341
             },
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 343,
-              "read": false,
-              "write": false
+              "index": 342
             },
             {
               "char": "赏",
               "pinyin": "shǎng",
-              "index": 344,
-              "read": false,
-              "write": false
+              "index": 343
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 345,
-              "read": false,
-              "write": false
+              "index": 344
             }
           ],
-          "translation": "于是下令：“所有大臣、官吏、百姓能够当面指责我的过错的，授予上等赏赐；",
-          "pinyin": "nǎi xià lìng ： “ qún chén lì mín néng miàn cì guǎ rén zhī guò zhě ， shòu shàng shǎng ；",
-          "notes": [
-            {
-              "start": 11,
-              "end": 11,
-              "content": "面刺：当面指责，‘刺’指批评，非‘刺杀’。"
-            },
-            {
-              "start": 12,
-              "end": 13,
-              "content": "寡人：古代君主自称，意为‘寡德之人’，表谦称。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 11,
-              "end": 11,
-              "old": "指责、批评"
-            },
-            {
-              "start": 11,
-              "end": 11,
-              "new": "用尖锐物体刺入"
-            }
-          ]
+          "translation": "由此看来，大王您受到的蒙蔽太严重了！”"
         },
         {
           "content": [
             {
               "char": "上",
               "pinyin": "shàng",
-              "index": 346,
-              "read": false,
-              "write": false
+              "index": 345
             },
             {
               "char": "书",
               "pinyin": "shū",
-              "index": 347,
-              "read": false,
-              "write": false
+              "index": 346
             },
             {
               "char": "谏",
               "pinyin": "jiàn",
-              "index": 348,
-              "read": false,
-              "write": false
+              "index": 347
             },
             {
               "char": "寡",
               "pinyin": "guǎ",
-              "index": 349,
-              "read": false,
-              "write": false
+              "index": 348
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 350,
-              "read": false,
-              "write": false
+              "index": 349
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 351,
-              "read": false,
-              "write": false
+              "index": 350
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 352,
-              "read": false,
-              "write": false
+              "index": 351
             },
             {
               "char": "受",
               "pinyin": "shòu",
-              "index": 353,
-              "read": false,
-              "write": false
+              "index": 352
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 354,
-              "read": false,
-              "write": false
+              "index": 353
             },
             {
               "char": "赏",
               "pinyin": "shǎng",
-              "index": 355,
-              "read": false,
-              "write": false
+              "index": 354
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 356,
-              "read": false,
-              "write": false
+              "index": 355
             }
           ],
-          "translation": "上书劝谏我的，授予中等赏赐；",
-          "pinyin": "shàng shū jiàn guǎ rén zhě ， shòu zhōng shǎng ；"
+          "translation": "齐威王说：“你说的很好！”"
         },
         {
           "content": [
             {
               "char": "能",
               "pinyin": "néng",
-              "index": 357,
-              "read": false,
-              "write": false
+              "index": 356
             },
             {
               "char": "谤",
               "pinyin": "bàng",
-              "index": 358,
-              "read": false,
-              "write": true
+              "index": 357
             },
             {
               "char": "讥",
               "pinyin": "jī",
-              "index": 359,
-              "read": false,
-              "write": false
+              "index": 358
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 360,
-              "read": false,
-              "write": false
+              "index": 359
             },
             {
               "char": "市",
               "pinyin": "shì",
-              "index": 361,
-              "read": false,
-              "write": false
+              "index": 360
             },
             {
               "char": "朝",
               "pinyin": "cháo",
-              "index": 362,
-              "read": false,
-              "write": false
+              "index": 361
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 363,
-              "read": false,
-              "write": false
+              "index": 362
             },
             {
               "char": "闻",
               "pinyin": "wén",
-              "index": 364,
-              "read": false,
-              "write": false
+              "index": 363
             },
             {
               "char": "寡",
               "pinyin": "guǎ",
-              "index": 365,
-              "read": false,
-              "write": false
+              "index": 364
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 366,
-              "read": false,
-              "write": false
+              "index": 365
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 367,
-              "read": false,
-              "write": false
+              "index": 366
             },
             {
               "char": "耳",
               "pinyin": "ěr",
-              "index": 368,
-              "read": false,
-              "write": false
+              "index": 367
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 369,
-              "read": false,
-              "write": false
+              "index": 368
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 370,
-              "read": false,
-              "write": false
+              "index": 369
             },
             {
               "char": "受",
               "pinyin": "shòu",
-              "index": 371,
-              "read": false,
-              "write": false
+              "index": 370
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 372,
-              "read": false,
-              "write": false
+              "index": 371
             },
             {
               "char": "赏",
               "pinyin": "shǎng",
-              "index": 373,
-              "read": false,
-              "write": false
+              "index": 372
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 374,
-              "read": false,
-              "write": false
+              "index": 373
             },
             {
               "char": "”",
-              "index": 375,
-              "read": false,
-              "write": false,
-              "pinyin": ""
+              "pinyin": "",
+              "index": 374
             }
           ],
-          "translation": "能够在公共场所批评议论我的过失，并传到我耳朵里的，授予下等赏赐。”",
-          "pinyin": "néng bàng jī yú shì cháo ， wén guǎ rén zhī ěr zhě ， shòu xià shǎng 。”",
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "content": "谤讥：公开批评，古为中性词，指议论政事得失，非现代贬义‘诽谤’。"
-            },
-            {
-              "start": 4,
-              "end": 6,
-              "content": "市朝：集市和朝廷，泛指公众场所，‘谤讥于市朝’即在公共场所发表意见。"
-            },
-            {
-              "start": 7,
-              "end": 7,
-              "content": "闻：使动用法，‘使……听到’，即‘传到……耳中’。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 1,
-              "end": 2,
-              "old": "公开议论政事"
-            },
-            {
-              "start": 1,
-              "end": 2,
-              "new": "恶意诽谤"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 1,
-              "end": 6,
-              "content": "‘能谤讥于市朝’为状语后置句，正常语序为‘能于市朝谤讥’。"
-            },
-            {
-              "start": 7,
-              "end": 13,
-              "content": "‘闻寡人之耳者’为使动用法，意为‘使我的耳朵听到’。"
-            }
-          ]
+          "translation": "于是就下了命令：“大小的官吏，大臣和百姓们，能够当面批评我的过错的人，给予上等奖赏；"
         },
         {
           "content": [
             {
               "char": "令",
               "pinyin": "lìng",
-              "index": 376,
-              "read": false,
-              "write": false
+              "index": 375
             },
             {
               "char": "初",
               "pinyin": "chū",
-              "index": 377,
-              "read": false,
-              "write": false
+              "index": 376
             },
             {
               "char": "下",
               "pinyin": "xià",
-              "index": 378,
-              "read": false,
-              "write": false
+              "index": 377
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 379,
-              "read": false,
-              "write": false
+              "index": 378
             },
             {
               "char": "群",
               "pinyin": "qún",
-              "index": 380,
-              "read": false,
-              "write": false
+              "index": 379
             },
             {
               "char": "臣",
               "pinyin": "chén",
-              "index": 381,
-              "read": false,
-              "write": false
+              "index": 380
             },
             {
               "char": "进",
               "pinyin": "jìn",
-              "index": 382,
-              "read": false,
-              "write": false
+              "index": 381
             },
             {
               "char": "谏",
               "pinyin": "jiàn",
-              "index": 383,
-              "read": false,
-              "write": false
+              "index": 382
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 384,
-              "read": false,
-              "write": false
+              "index": 383
             },
             {
               "char": "门",
               "pinyin": "mén",
-              "index": 385,
-              "read": false,
-              "write": false
+              "index": 384
             },
             {
               "char": "庭",
               "pinyin": "tíng",
-              "index": 386,
-              "read": false,
-              "write": false
+              "index": 385
             },
             {
               "char": "若",
               "pinyin": "ruò",
-              "index": 387,
-              "read": false,
-              "write": false
+              "index": 386
             },
             {
               "char": "市",
               "pinyin": "shì",
-              "index": 388,
-              "read": false,
-              "write": false
+              "index": 387
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 389,
-              "read": false,
-              "write": false
+              "index": 388
             }
           ],
-          "translation": "命令刚下达，许多大臣都来进谏，宫门前庭院内像集市一样热闹；",
-          "pinyin": "lìng chū xià ， qún chén jìn jiàn ， mén tíng ruò shì ；",
-          "notes": [
-            {
-              "start": 11,
-              "end": 13,
-              "content": "门庭若市：成语，字面意为‘门口和庭院像集市一样’，比喻来访者众多。"
-            }
-          ]
+          "translation": "上书直言规劝我的人，给予中等奖赏；"
         },
         {
           "content": [
             {
               "char": "数",
               "pinyin": "shù",
-              "index": 390,
-              "read": false,
-              "write": false
+              "index": 389
             },
             {
               "char": "月",
               "pinyin": "yuè",
-              "index": 391,
-              "read": false,
-              "write": false
+              "index": 390
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 392,
-              "read": false,
-              "write": false
+              "index": 391
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 393,
-              "read": false,
-              "write": false
+              "index": 392
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 394,
-              "read": false,
-              "write": false
+              "index": 393
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 395,
-              "read": false,
-              "write": false
+              "index": 394
             },
             {
               "char": "时",
               "pinyin": "shí",
-              "index": 396,
-              "read": false,
-              "write": false
+              "index": 395
             },
             {
               "char": "而",
               "pinyin": "ér",
-              "index": 397,
-              "read": false,
-              "write": false
+              "index": 396
             },
             {
               "char": "间",
               "pinyin": "jiàn",
-              "index": 398,
-              "read": true,
-              "write": true
+              "index": 397
             },
             {
               "char": "进",
               "pinyin": "jìn",
-              "index": 399,
-              "read": false,
-              "write": false
+              "index": 398
             },
             {
               "char": "；",
               "pinyin": "",
-              "index": 400,
-              "read": false,
-              "write": false
+              "index": 399
             }
           ],
-          "translation": "几个月以后，还偶尔有人来进谏；",
-          "pinyin": "shù yuè zhī hòu ， shí shí ér jiān jìn ；",
-          "notes": [
-            {
-              "start": 8,
-              "end": 8,
-              "content": "间：读jiàn，偶尔，‘间进’指偶尔有人进谏。"
-            }
-          ]
+          "translation": "能够在众人集聚的公共场所指责议论我的过失，并传到我耳朵里的人，给予下等奖赏。”"
         },
         {
           "content": [
             {
               "char": "期",
               "pinyin": "jī",
-              "index": 401,
-              "read": false,
-              "write": false
+              "index": 400
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 402,
-              "read": true,
-              "write": true
+              "index": 401
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 403,
-              "read": false,
-              "write": false
+              "index": 402
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 404,
-              "read": false,
-              "write": false
+              "index": 403
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 405,
-              "read": false,
-              "write": false
+              "index": 404
             },
             {
               "char": "虽",
               "pinyin": "suī",
-              "index": 406,
-              "read": false,
-              "write": false
+              "index": 405
             },
             {
               "char": "欲",
               "pinyin": "yù",
-              "index": 407,
-              "read": false,
-              "write": false
+              "index": 406
             },
             {
               "char": "言",
               "pinyin": "yán",
-              "index": 408,
-              "read": false,
-              "write": false
+              "index": 407
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 409,
-              "read": false,
-              "write": false
+              "index": 408
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 410,
-              "read": false,
-              "write": false
+              "index": 409
             },
             {
               "char": "可",
               "pinyin": "kě",
-              "index": 411,
-              "read": false,
-              "write": false
+              "index": 410
             },
             {
               "char": "进",
               "pinyin": "jìn",
-              "index": 412,
-              "read": false,
-              "write": false
+              "index": 411
             },
             {
               "char": "者",
               "pinyin": "zhě",
-              "index": 413,
-              "read": false,
-              "write": false
+              "index": 412
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 414,
-              "read": false,
-              "write": false
+              "index": 413
             }
           ],
-          "translation": "满一年以后，即使有人想进谏，也没有什么可说的了。",
-          "pinyin": "qī nián zhī hòu ， suī yù yán ， wú kě jìn zhě 。",
-          "notes": [
-            {
-              "start": 1,
-              "end": 2,
-              "content": "期年：满一年，‘期’读jī，指一周年，非‘期待’之‘期’。"
-            }
-          ]
+          "translation": "命令刚下达，许多大臣都来进献谏言，宫门和庭院像集市一样喧闹；"
         },
         {
           "content": [
             {
               "char": "燕",
               "pinyin": "yān",
-              "index": 415,
-              "read": false,
-              "write": false
+              "index": 414
             },
             {
               "char": "、",
               "pinyin": "",
-              "index": 416,
-              "read": false,
-              "write": false
+              "index": 415
             },
             {
               "char": "赵",
               "pinyin": "zhào",
-              "index": 417,
-              "read": false,
-              "write": false
+              "index": 416
             },
             {
               "char": "、",
               "pinyin": "",
-              "index": 418,
-              "read": false,
-              "write": false
+              "index": 417
             },
             {
               "char": "韩",
               "pinyin": "hán",
-              "index": 419,
-              "read": false,
-              "write": false
+              "index": 418
             },
             {
               "char": "、",
               "pinyin": "",
-              "index": 420,
-              "read": false,
-              "write": false
+              "index": 419
             },
             {
               "char": "魏",
               "pinyin": "wèi",
-              "index": 421,
-              "read": false,
-              "write": false
+              "index": 420
             },
             {
               "char": "闻",
               "pinyin": "wén",
-              "index": 422,
-              "read": false,
-              "write": false
+              "index": 421
             },
             {
               "char": "之",
               "pinyin": "zhī",
-              "index": 423,
-              "read": false,
-              "write": false
+              "index": 422
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 424,
-              "read": false,
-              "write": false
+              "index": 423
             },
             {
               "char": "皆",
               "pinyin": "jiē",
-              "index": 425,
-              "read": false,
-              "write": false
+              "index": 424
             },
             {
               "char": "朝",
               "pinyin": "cháo",
-              "index": 426,
-              "read": true,
-              "write": false
+              "index": 425
             },
             {
               "char": "于",
               "pinyin": "yú",
-              "index": 427,
-              "read": false,
-              "write": false
+              "index": 426
             },
             {
               "char": "齐",
               "pinyin": "qí",
-              "index": 428,
-              "read": false,
-              "write": false
+              "index": 427
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 429,
-              "read": false,
-              "write": false
+              "index": 428
             }
           ],
-          "translation": "燕、赵、韩、魏等国听说了这件事，都到齐国来朝见。",
-          "pinyin": "yān 、 zhào 、 hán 、 wèi wén zhī ， jiē cháo yú qí 。",
-          "notes": [
-            {
-              "start": 11,
-              "end": 11,
-              "content": "朝：读cháo，朝见，指诸侯前往齐国朝拜。"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 11,
-              "end": 14,
-              "content": "‘皆朝于齐’为状语后置句，正常语序为‘皆于齐朝’。"
-            }
-          ]
+          "translation": "几个月以后，还不时地有人偶尔进谏；"
         },
         {
           "content": [
             {
               "char": "此",
               "pinyin": "cǐ",
-              "index": 430,
-              "read": false,
-              "write": false
+              "index": 429
             },
             {
               "char": "所",
               "pinyin": "suǒ",
-              "index": 431,
-              "read": false,
-              "write": false
+              "index": 430
             },
             {
               "char": "谓",
               "pinyin": "wèi",
-              "index": 432,
-              "read": false,
-              "write": false
+              "index": 431
             },
             {
               "char": "战",
               "pinyin": "zhàn",
-              "index": 433,
-              "read": false,
-              "write": false
+              "index": 432
             },
             {
               "char": "胜",
               "pinyin": "shèng",
-              "index": 434,
-              "read": false,
-              "write": false
+              "index": 433
             },
             {
               "char": "于",
-              "index": 435,
-              "read": false,
-              "write": false,
-              "pinyin": "yú"
+              "pinyin": "yú",
+              "index": 434
             },
             {
               "char": "朝",
-              "index": 436,
-              "read": false,
-              "write": false,
-              "pinyin": "cháo"
+              "pinyin": "cháo",
+              "index": 435
             },
             {
               "char": "廷",
-              "index": 437,
-              "read": false,
-              "write": false,
-              "pinyin": "tíng"
+              "pinyin": "tíng",
+              "index": 436
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 438,
-              "read": false,
-              "write": false
+              "index": 437
             }
           ],
-          "translation": "这就是所说的在朝廷上战胜敌国。",
-          "pinyin": "cǐ suǒ wèi zhàn shèng yú cháo tíng 。"
+          "translation": "满一年以后，即使有人想进谏，也没有什么可说的了。"
         }
       ]
     }
@@ -3455,5 +2337,8 @@
     "古文  "
   ],
   "background": "春秋战国之际，七雄并立，各国间的兼并战争，各统治集团内部新旧势力的斗争异常尖锐激烈。在这激烈动荡的时代，士作为一种最活跃的阶层出现在政治舞台上。各国统治者也认识到失去了民心，国家的统治就难以维持。所以，他们争相延揽人才。至于邹忌讽齐王纳谏的故事，于史无考。",
-  "appreciation": "这篇文章出自《战国策·齐策一》，讲述了战国时期齐国谋士邹忌劝说君主纳谏，使之广开言路、改良政治的故事。文章塑造了邹忌这样有自知之明、善于思考、勇于进谏的贤士形象。又表现了齐威王知错能改、从谏如流的明君形象，及其革除弊端、改良政治的迫切愿望和巨大决心。这篇文章旨在说明领导者只有广开言路、采纳群言、虚心接受批评意见并积极加以改正才可能成功。"
+  "appreciation": "这篇文章出自《战国策·齐策一》，讲述了战国时期齐国谋士邹忌劝说君主纳谏，使之广开言路、改良政治的故事。文章塑造了邹忌这样有自知之明、善于思考、勇于进谏的贤士形象。又表现了齐威王知错能改、从谏如流的明君形象，及其革除弊端、改良政治的迫切愿望和巨大决心。这篇文章旨在说明领导者只有广开言路、采纳群言、虚心接受批评意见并积极加以改正才可能成功。",
+  "annotation": "邹忌（zōujì）：战国时齐人，善鼓琴，有辩才，曾任齐相。讽：指下级对上级以委婉曲折的言语进行规劝。齐王：即齐威王。纳谏：接受规劝。纳，接受，接纳。修：长，这里指身高。八尺：战国时一尺约合今天的七寸左右。昳丽：光艳美丽。朝（zhāo）服衣冠：早晨穿戴好衣帽。服，穿戴。朝，早晨。窥镜：照镜子。孰：谁，哪一个。与：和……比。及：比得上。旦日：明日，第二天。孰视之：孰，同“熟”，仔细。之，代指城北徐公。弗（fú）如远甚：远远地不如。弗：不。寝：躺，卧。美我者：以我为美。私：偏爱，动词。诚知：确实知道。皆以美于徐公：都认为我比徐公美。以：以为，认为。于：比。地：土地，疆域。方：方圆纵横。宫妇：宫中的姬妾。左右：国君身边的近臣。四境之内：全国范围内的人。之：音节助词，不译。蔽：蒙蔽，这里指受蒙蔽。善：好。乃：于是，就。面刺：当面指责。面，当面。刺，指责，议论。受：给予，付予。谤讥于市朝（cháo）：在公众场所议论君王的过失。谤：公开指责别人的过错。讥，讽刺。谤讥，指责，议论。市朝，公共场合。闻：这里是“使……听到”的意思。属于动词的使动用法。时时而间（jiàn）进：有时候有人偶然进谏。间进：偶然有人进谏。间：间或，偶尔，有时候。进：进谏。期（jī）年：满一年。期：满。战胜于朝廷：在朝廷上战胜（别国）。意思是内政修明，不需用兵，就能战胜敌国。",
+  "comprehensive_appreciation": "句子赏析：反忌修八尺有余，而形貌昳丽。镜服衣冠，窥镜，【句解】第一次“窥镜”自视，刻画了反忌的外貌：身了魁梧，仪表堂堂，逼真地再现了他不无自得的神情。正是有了这点自信。才使他敢于和解国有名的美男子比“美”。谓其妻曰：“我孰与城北徐公美？”【句解】其心里应该是对自己的美貌充满信心，所以，这第一问的语气应该是充满自信，且沾沾自喜的。其妻曰：“君美甚，徐公何能及君也？”【句解】妻子的回答，极赞其美，语态亲昵，饱含偏爱之情。尤其“美甚”二字，将此种神态、心理渲染得淋漓尽致。与后文“私我”呼应。城北徐公，解国之美丽者也。【句解】插笔介绍徐公，说明徐公是解国著名的美男子，为反忌怕比不上他提供现实依据。忌不自信，而复问其妾曰：“吾孰与徐公美？”【句解】反忌对自己的美貌略有怀疑。因此，这句话的语气应带有疑惑，并且急于知道结果。另外，考虑到所问的对象是小妾，因此，语气是严肃，焦虑，急切的。妾曰：“徐公何能及君也？”【句解】妾回答，少“君美甚”一句，仍用反问语气，表现了妾低微的地位和畏怯、顺从心理。与后文“畏我”呼应。旦日，客从外来，与坐谈，问之客曰：“吾与徐公孰美？”【句解】反忌一方面希望妻、妾的回答是可信的，另一方面仍在怀疑。客曰：“徐公不若君之美也。”【句解】客回答，因有求于人，故答语婉转，阿谀奉承。与后文“有求于我”呼应。明日，徐公来，孰视之，自以为不如；窥镜而自视，又弗如远甚。【句解】“窥镜而自视”，自我感觉“弗如远甚”。可见，由“自信”到“自惭”，心理上形成了鲜明的对比。暮寝而思之，曰：“吾妻之美我者，私我也；妾之美我者，畏我也；客之美我者，欲有求于我也。”【句解】妻、妾、客的回答，都肯定了反忌美于徐公，但反忌并没有飘飘然，而是在会见徐公后，又经过冷静的思考悟出了妻、妾、客的谬赞是有其原因的，就是“私我”“畏我”“欲有求于我”。这表现了他实事求是的精神，终于看清事物的本质。这句话也是下文他用暗示、比喻的方法讽谏解王的基础。赏析：本文着重写齐相邹忌以自身生活中的小事设喻，劝说齐王必须以广泛听取人民的意见作为施政依据的故事。全文可以分三部分。从开始到“欲有求于我也”是第一部分，写邹忌从妻、妾、客三人都谬赞自己比城北徐公还美这件事悟出一个深刻的道理。这一段的第一层，写邹忌之美。先说明邹忌是个高大美丽的男子，再通过三问三答，从妻、妾、客三个人异口同声的回答中印证了邹忌的美丽，而且比齐国的美男子徐公更美。然后在这一段的第二层，记叙邹忌和徐公实地比较的情况。邹忌深信：“城北徐公，齐国之美丽者也。”因此在比美中颇有自知之明，他怀疑妻、妾、客同声肯定他比徐公美是一种阿谀。他要从客观现实中找到正确的答案。通过“孰视”“窥镜”，终于发现自己远远不如徐公，于是引起他的深思。夜深人静，独自思忖，最后悟出妻、妾、门客阿谀自己的原因：凡对自己有偏私，有所畏惧，或者有所企求的人，在自己面前只会说些献媚讨好的假话，不会指出自己的缺点。这一段文字虽然不多，但用了铺陈和对比的手法，最后点明道理，是一则情节非常生动的故事。从“于是入朝”到“王曰：‘善’”是第二部分，写邹忌“因小见大，自容貌之微，推及于朝廷大事”。（见《郑堂札记》卷四）邹忌从比美的生活经验中深刻认识到一个统治者听到真话之不易。在齐国地位最高、权力最大的齐威王，处在许多人对他有所偏私、有所畏惧、有所企求的环境中，必然是个耳不聪、目不明的受蒙蔽者。于是他把切身体会告诉了齐威王，揭示了这个发人深思的问题，并以此来讽喻齐威王纳谏去蔽。为了使齐王能接受谏言，先述说自己的生活体验，指出妻、妾、客的三种回答是出于不同的动机，先给齐王一个清晰的印象，然后再以齐王所处的生活环境和自己的经历作比较，指出齐王受蒙蔽的严重。这样现身说法确实收到了预期的效果。从“乃下令”到结束是第三部分，写齐威王听取邹忌的规劝下令求谏和群臣在一年中进谏的情况。齐威王欣然接受了邹忌的劝告，下令奖励臣民向他进谏。齐威王纳谏结果是提高了齐国的威望，赢得了很多诸侯的尊敬。在这一部分记述中，有几点值得注意：1．文章没有写群臣受赏的情况，也没有写威王对待意见的情况。但是，从越来越没有人提意见和越来越提不出意见的情况就暗示了齐威王不仅听取意见，而且虚心接受意见改革了政治。2．齐王下令号召“群臣吏民”都来提意见，可是踊跃进谏者只写到群臣而没提到吏民。可见地位低下的吏和民，实际上是不可能参与政治发表看法的。文章不提吏民只写群臣，真实地反映了这一政治活动的阶级局限性；同时，我们不能只从“虽欲言，无可进者”，就认为威王的统治十分清明。3．文章只写“燕、赵、韩、魏闻之，皆朝于齐”，未及秦楚。燕、赵、韩、魏是战国时期齐国北方和西方的邻国，国力和齐国相若，后来都比齐国弱小。秦、楚则是齐国西方和南方的大国，文章没提秦楚，还是比较符合当时实际形势的。4．最后一句“此所谓战胜于朝廷”，点出全文的主旨。说明只要去蔽纳谏，修明内政，就能“战胜于朝廷”。本文篇幅不长，但完整地记叙了邹忌与徐公比美和威王纳谏强齐两则故事，而且包含了深刻而明白的寓意，容量是很大的。文章之所以写到这样，在技巧上有几点值得我们注意：1．用设喻的方法讲述道理。邹忌劝说齐王广开言路，不是像一般人那样正面讲道理，而是用一段具体的家庭琐事为譬喻来阐明“纳谏”的必要性和迫切性。2．具体形象地刻画人物。如写邹忌，先是“朝服衣冠，窥镜”，然后是问妻、问妾、问客；见到徐公，先是“孰视之，自以为不如”，再是“窥镜而自视，又弗如远甚”，最后是“暮寝而思之”；人物的动作心理，无不刻画入微。有了这一段有声有色的描写，才使下文的进谏入情合理。3．语言简练生动。一篇三百多字的短文，从家事说到国事。写人物，声貌毕肖；叙事实，曲折引人；用语言，简洁生动：如“于是入朝见威王曰：……”几个字就交代了朝见的过程，省去了进谏的“导语”，开门见山地直陈其事。齐王听了谏辞以后，只用了一个“善”字就写出了齐王纳谏的决心。威王下令纳谏以后，只三十来字就交代清楚了“令初下”“数月之后”“期年之后”三个阶段的具体情况，说明了纳谏后发生的巨大变化；纳谏的效果，只写邻国的动态，而略去国内的情况。这些都称得上简洁有力。再看语言的生动：邹忌与妻、妾、客的三问三答，意思基本一样，句法却各不相同，文字错综，毫不呆板。妻、妾、客的答话并不雷同，反映各自的心理十分切合人物身份。文章内容未必尽合历史事实，但所表达的思想有积极意义，并且有很强的艺术表现力。赏析二：《邹忌讽齐王纳谏》出自《战国策·齐策一》，讲述了战国时期齐国谋士邹忌劝说君主纳谏，使之广开言路，改良政治的故事。文章塑造了邹忌这样有自知之明，善于思考，勇于进谏的贤士形象。又表现了齐威王知错能改，从谏如流的明君形象，和革除弊端，改良政治的迫切愿望和巨大决心。告诉读者居上者只有广开言路，采纳群言，虚心接受批评意见并积极加以改正才有可能成功。文章以“孰美”的问答开篇，继写邹忌暮寝自思，寻找妻、妾、客人赞美自己的因为，并因小悟大，将生活小事与国大事有机地联系起来。由自己的“敝”，用类比推理的方法婉讽“王之敝甚”，充分显示了邹忌巧妙的讽谏艺术与娴熟的从政谋略。邹忌正是以自身的生活体悟，委婉地劝谏齐威王广开言路，改革弊政，整顿吏治，从而收到很好的效果。第一部分，写邹忌与徐公比美，不因妻、妾、客的赞美而自喜，而是从中悟出直言不易的道理。作者先刻画了邹忌的外貌：身材魁梧，仪表堂堂。“窥镜”“自视”，逼真地刻画出他不无自得的神情。正是有了这点自信，才使他敢于和齐国有名的美男子徐公比“美”，也与下文见徐公后“弗如远甚”的自惭心理形成了鲜明的对比。这种对比，烘托出他感到受蒙蔽的心情。明明是“弗如远甚”，可他的妻、妾和客却异口同声地认为他比徐公漂亮，显然是由于各自特殊的原因，使他们没有勇气说出真实的情况。这里，三个人的回答，由于身份和心理不同，虽然都是赞扬，但语气上却有明显的不同。妻的回答表现了妻对他由衷的喜爱，爱恋之情溢于言表。妾因其地位低下，与主人之间并没有多少真情可言，但又不能不顺从，所以她的回答就有些勉强，说话比较拘谨，不敢越雷池一步。客人的回答则明显地流露出奉承的意味。难能可贵的是，邹忌在这一片赞扬声中，并没有昏昏然，忘乎所以，而是保持着清醒的头脑。先是“不自信”，等见到徐公后，又实事求是地承认自己“弗如远甚”，甚而至于“暮寝而思之”。这一段，作者并没有把人物局限于家庭琐事之中，一般性地写他不因妻、妾和客的赞美而感到自满，而是将人物形象进一步提高、升华，由自身想到国家，从中体味出国君不易听到直言的道理，于是“入朝见威王”。第二部分，写邹忌以切身经历设喻，讽谏齐王除蔽纳谏。这一段是课文的中心部分。邹忌见威王后，并没有单刀直入地向威王进谏，而是先讲自己的切身体会，用类比推理的方式讲出“王之蔽甚矣”。他先叙述了妻、妾、客蒙蔽自己的原因，然后从自己的生活小事推而至于治国大事，说明齐王处于最有权势的地位，因而所受的蒙蔽也最深。这里，没有对威王的直接批评，而是以事设喻，启发诱导齐威王看到自己受蒙蔽的严重性，从而使他懂得纳谏的重要性。他以自己的亲身经历为依据，推己及人。“王之蔽甚矣”一句，点明了进谏的主旨，犹如当头棒喝，一针见血，使其猛醒，具有强烈的表达效果。邹忌敢下结论的原因：一是邹忌曾任齐相，是国家的重臣，言不在私而益于公，所以他无所顾忌；二是以小见大，由自己的受蒙蔽推想到国君的受蒙蔽，这种现身说法的方式具有较强的说服力。第三部分，写齐王纳谏及其结果。齐王接受了邹忌的劝告，立即发布政令，悬赏求谏，广开言路，对于关心国事、积极进谏者，分不同情况给予奖赏。齐王纳谏之后，齐国果然发生了可喜的变化。“门庭若市”说明在此以前，齐国确实有许多积弊，“时时而间进”说明最初的进谏已经取得了预期的效果，齐威王已经根据人们的意见，改革了弊政。“虽欲言，无可进者”，说明威王已完全纠正了缺点和错误，齐国政治清明。齐威王纳谏去蔽，从而使齐国国势强盛，威震诸侯。赏析三：文章的主题思想是明确的，即要求统治者能听取不同意见，而一个人之所以能听取不同意见，又在于他有自知之明。这是文章的重点。至于齐威王的政绩，齐国大治的情况，以及“战胜于朝廷”的具体经过，虽属文中应有之义，却并非作者命意的焦点所在，故仅仅一表而过。这一主题思想，显然是《战国策》的作者总结了封建社会初期统治阶级在政权的得失方面的经验教训而得出的结论。从文章的思想性看，值得肯定的地方正在于此。但更值得注意的是作者用以表达这一主题思想的艺术手法。因为文章本身固然对齐威王君臣不无美化之处，但也反映了作者对新兴的封建统治阶级寄以希望，这才用齐威王和邹忌作为纳谏和敢言的典型人物，并把他们理想化了。这就是文章之所以用浪漫主义表现方法的思想基础。这种浪漫主义的表现手法可以用过去评论家的套语予以概括，即前一半是“虚处实写”，后一半是“实处虚写”。齐威王从不理朝政到励精图治，终于奠定了七雄之一的齐国在东方的强大地位，是史实。他的接纳忠言和改恶从善，也是有历史依据的。邹忌对齐威王敢于直言进谏，当然也在情理之中。但邹忌本身，是否对他作为一个美男子果真如此沾沾自喜，而最后又如此之虚怀若谷，从妻、妾、客的重重谄媚阿谀的包围圈里钻了出来，并且敢于现身说法去规劝齐威王，则值得研究考虑。如果按照正规的文章结构，这篇作品一开头应该这样写：邹忌为齐威王相，入朝见威王，曰：“臣尝朝服衣冠而窥镜……”接着把他的故事叙述完毕，然后接下去再说“臣诚知不如徐公美”那一段。但如果真如此写，便索然寡味，毫无艺术特色。照这种写法，把虚构的情节提到文章的开头来叙述，俨然煞有介事。然后在叙述以后骤接“于是入朝见威王”那一段，把正面意思交代清楚，既活泼生动又水到渠成，这就是所谓的“虚处实写”。这是文学作品的艺术夸张，而非历史的忠实记录。文章的后一半写齐威王的纳谏经过，应该实有其事，或者至少是有一定的事实作为依据的。但作者却把它过分夸大了。因为齐威王的为人即使再差劲，一开始也不能全无是处，以致意见堆成山，使提出批评的人“门庭若市”。而在一周年以后，即使他改恶迁善，也不能一下子就达到圣贤的地步，使人们“虽欲言，无可进者”。可见这不过是作者用高度概括和极度夸张的手法，肯定纳谏改过的好处无穷，让封建统治者意识到这样做的优越性和有效后果，同时也表达了作者理想化了的君主应该是个什么样子。至于齐威王的政绩，作者并不想从正面详加描述；只要把一个统治者从谏如流的态度和方式淋漓尽致地写出，这就已经达到了塑造理想人物描写理想事件的目的，即使写得让人有点不相信也无妨。这就是所谓的“实处虚写”。这样，文章前后两段做到了虚实相生，前面似实而实虚，后面似虚而有实，从而收到了强烈的艺术效果。这篇文章的结构层次也很别致，从头至尾一直用三层排比的手法来写。妻、妾、客是三层；“私我”“畏我”“有求于我”是三层；“宫妇左右”“朝廷之臣”“四境之内”的百姓，又是三层。上、中、下赏，是三层；“令初下”“数月之后”“期年之后”，又是三层。这些都是比较容易识别的。再看，邹忌自以为美于徐公这一事件的发展在时间上是三层：“朝”“旦日”“明日”是也。邹忌的思想转变过程也是三层：“熟视之，自以为不如”是第一层，“窥镜而自视，又弗如远甚”是第二层，然后到“暮寝而思之”是第三层，找出了矛盾的焦点。全部事态的发展也是三层：邹忌现身说法进行讽谏是第一层；齐威王“下令”广泛征求意见是第二层，最后使邻近的诸侯国都来入朝，“此所谓战胜于朝廷”是第三层。当然，作者这样的写法不见得全部都是有意的，但我们却可以从中得到启发。总之，文章的结构层次很重要，没有层次不行，层次太多也不行。一般地说，总要注意到结构层次的对称美，排比作用和递进（即一层比一层深入）作用。本篇在这方面确有值得后人借鉴的地方。此外，这篇文章在叙事进程中对语言和句式的安排也很见匠心。有的叙述，对话有重复有排比，有的变化就大一些，邹忌与妻、妾、客的三问三答，有详有略，有重复处，也有小小变化处。总而言之，变中有不变，不变中又小有变化。一味求变，变得无头绪可循，不合乎我们写文章的民族传统；但如果自始至终毫无变化，也会令人乏味。而此篇则恰到好处，既有变化，又令人有轨迹可循。文章的技巧，就是靠这种地方的斟酌推敲。",
+  "knowledge": "### 通假字\n1.孰：通“熟”，仔细。如“孰视之”。2.受：通“授”，给予、付予。\n\n### 词类活用\n1.朝服衣冠（名词作状语，在早上）2.朝服衣冠（名词作动词，穿，戴）3.吾妻之美我者，私我也\n(形容词意动用法，认为……美)4.能面刺寡人之过者 (名词作状语，当面)5.闻寡人之耳者 (动词使动用法，使……听到，)6.私我也（形容词作动词，偏爱）7.王之蔽甚矣（形容词用作动词，受蒙蔽）\n\n### 古今异义\n1.邹忌讽齐王纳谏(古：（对君主、尊长、朋友等）委婉地规劝，讽谏。今：诽谤，嘲讽）2.窥镜而自视(古：照，看。今：偷看）3.今齐地方千里\n(古：土地方圆。今：地点，处所）4.能面刺寡人之过 (古：指责。今：用尖的物体进入或穿过）5.谤讥于市朝 (谤，古：公开指责别人的过错。今：诽谤。讥，古：谏；今：讽刺）6.臣之妻私臣 (古：偏爱。今：自私）7.宫妇左右莫不私王 (古：国君身边的近臣。今：方位名词或表示范围的副词“大概”。莫，古：没有谁；没有什么。今：不，不要）8.邹忌修八尺有余(古：长，原文中指代身高。今：改正）9.明日徐公来 (古：第二天。今：明天，今天的下一天。）10.朝服衣冠（古：穿戴。今：衣服）\n\n### 特殊句式\n1.判断句城北徐公(者)，齐国之美丽者也。（用“……者，……也”表示判断）2.倒装句忌不自信。（宾语“自”前置，正常语序为“忌不信自”）我孰与城北徐公美。（介词结构“与城北徐公”后置，正常语序为“我与城北徐公孰美”）此所谓战胜于朝廷。（语句可调整为“此所谓于朝廷战胜”）欲有求于我。（状语“于我”后置，正常语序为“欲于我有求”）谤讥于市朝。（状语“于市朝”后置，正常语序为“于市朝谤讥”）3.省略句与坐谈省略主语“邹忌”和介词“与”的宾语“之”（代客人），（邹忌）与（之）坐谈。与坐谈，介宾。之，代词宾语。4.被动句王之蔽甚矣。（蔽，受蒙蔽）\n\n### 一字多义之：⑴齐国之美丽者也(的)⑵问之(代词,他)⑶吾妻之美我者(取消句子独立性)⑷徐公不若君之美也（取消句子独立性）⑸孰视之（代词，指徐公）⑹暮寝而思之（代指这件事）⑺朝廷之臣莫不畏王（的）⑻由此观之（补足音节，无实义）⑼臣之妻私臣（的）⑽王之蔽甚矣（用于主谓之间，取消句子独立性，无实义）⑾群臣吏民能面刺寡人之过者（的）⑿数月之后（不译）⒀燕，赵，韩，魏闻之（代词，指上面这件事）朝：⑴相如每朝时常称病\n《史记·廉颇蔺相如列传》 上朝⑵燕、赵、韩、魏闻之，皆朝于齐 《战国策·邹忌讽齐王纳谏》 朝见⑶于是入朝见威王 《战国策·邹忌讽齐王纳谏》 朝廷⑷朝服衣冠《战国策·邹忌讽齐王纳谏》 早晨 (zhāo)孰：⑴我孰与城北徐公美（代词，谁，哪一个）⑵孰视之，自以为不如（通“熟”，仔细）于：⑴欲有求于我也；臣之客欲有求于臣（向）⑵能谤讥于市朝（在）⑶皆以美于徐公（比）美：⑴吾妻之美我者（认为……美）⑵徐公不若君之美也（漂亮，好看。这里的意思是俊美。）"
 }

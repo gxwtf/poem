@@ -671,17 +671,17 @@
               "char": "。",
               "pinyin": "",
               "index": 127
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 128
             }
           ],
           "translation": "现在不知道因为我积了什么德，让你沾我的光，运气好中了个秀才，因此我带了瓶酒来祝贺你。"
         },
         {
           "content": [
-            {
-              "char": "”",
-              "pinyin": "",
-              "index": 128
-            },
             {
               "char": "范",
               "pinyin": "fàn",
@@ -1681,17 +1681,17 @@
               "char": "。",
               "pinyin": "",
               "index": 323
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 324
             }
           ],
           "translation": "你是个忠厚没用的人，所以这些话我不得不教导你，免得惹人笑话。"
         },
         {
           "content": [
-            {
-              "char": "”",
-              "pinyin": "",
-              "index": 324
-            },
             {
               "char": "范",
               "pinyin": "jìn",
@@ -1751,17 +1751,17 @@
               "char": "。",
               "pinyin": "",
               "index": 336
+            },
+            {
+              "char": "”",
+              "pinyin": "",
+              "index": 337
             }
           ],
           "translation": "“范进说：“岳父指教的是。"
         },
         {
           "content": [
-            {
-              "char": "”",
-              "pinyin": "",
-              "index": 337
-            },
             {
               "char": "胡",
               "pinyin": "tún",
@@ -2151,17 +2151,17 @@
               "char": "！",
               "pinyin": "",
               "index": 410
-            }
-          ],
-          "translation": "可怜！"
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 411
-            },
+            }
+          ],
+          "translation": "可怜！”"
+        },
+        {
+          "content": [
             {
               "char": "说",
               "pinyin": "bà",
@@ -2238,7 +2238,7 @@
               "index": 426
             }
           ],
-          "translation": "”说完，婆媳两个都来坐着吃了饭。"
+          "translation": "说完，婆媳两个都来坐着吃了饭。"
         },
         {
           "content": [
@@ -2542,7 +2542,7 @@
               "index": 482
             }
           ],
-          "translation": ""
+          "translation": "第二天，范进免不了要拜访拜访同乡邻里。"
         },
         {
           "content": [
@@ -2642,7 +2642,7 @@
               "index": 501
             }
           ],
-          "translation": ""
+          "translation": "魏好古又约了一群同届的秀才朋友，彼此来往。"
         },
         {
           "content": [
@@ -2712,7 +2712,7 @@
               "index": 514
             }
           ],
-          "translation": ""
+          "translation": "因为是乡试年，参加了几个文会。"
         },
         {
           "content": [
@@ -2827,7 +2827,7 @@
               "index": 536
             }
           ],
-          "translation": ""
+          "translation": "不知不觉到了六月底，这些同届秀才都约范进去参加乡试。"
         },
         {
           "content": [
@@ -3072,7 +3072,7 @@
               "index": 584
             }
           ],
-          "translation": ""
+          "translation": "范进因为没有盘缠，就去同丈人商量，被胡屠夫一口唾沫吐在脸上，骂了一个狗血喷头，说：“不要再耽误你的时间了！"
         },
         {
           "content": [
@@ -3212,7 +3212,7 @@
               "index": 611
             }
           ],
-          "translation": ""
+          "translation": "你自己早知道中了一个秀才，就‘癞蛤蟆想吃天鹅肉’起来！"
         },
         {
           "content": [
@@ -3412,7 +3412,7 @@
               "index": 650
             }
           ],
-          "translation": ""
+          "translation": "我听说，你中秀才的时候，也不是因为你的文章写得好，而是学官觉得你太老了，心里过不去，施舍给你的。"
         },
         {
           "content": [
@@ -3477,7 +3477,7 @@
               "index": 662
             }
           ],
-          "translation": ""
+          "translation": "现在鬼迷了心窍，就想中举人了！"
         },
         {
           "content": [
@@ -3567,7 +3567,7 @@
               "index": 679
             }
           ],
-          "translation": ""
+          "translation": "这些中举人的都是天上的‘文曲星’！"
         },
         {
           "content": [
@@ -3717,7 +3717,7 @@
               "index": 708
             }
           ],
-          "translation": ""
+          "translation": "你没看见城里张府上那些举人，都有大量的钱财，一个个方面大耳？"
         },
         {
           "content": [
@@ -3812,7 +3812,7 @@
               "index": 726
             }
           ],
-          "translation": ""
+          "translation": "像你这尖嘴猴腮，也该撒泡尿自己照照！"
         },
         {
           "content": [
@@ -3877,7 +3877,7 @@
               "index": 738
             }
           ],
-          "translation": ""
+          "translation": "不三不四，就想吃天鹅肉！"
         },
         {
           "content": [
@@ -4122,7 +4122,7 @@
               "index": 786
             }
           ],
-          "translation": ""
+          "translation": "趁早收了这心，明年在我的行业里替你找一个教书的地方，每年赚个几两银子，养活你那老不死的老娘和你老婆才是正事！"
         },
         {
           "content": [
@@ -4345,17 +4345,17 @@
               "char": "！",
               "pinyin": "",
               "index": 830
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 831
-            },
+            }
+          ],
+          "translation": "你问我借钱，我一天杀一个猪还赚不到几钱银子，都拿给你丢在水里，叫我一家老小喝西北风吗！”"
+        },
+        {
+          "content": [
             {
               "char": "一",
               "pinyin": "jiā",
@@ -4437,7 +4437,7 @@
               "index": 847
             }
           ],
-          "translation": ""
+          "translation": "一顿夹七夹八，骂得范进不知怎么开口。"
         },
         {
           "content": [
@@ -4665,17 +4665,17 @@
               "char": "？",
               "pinyin": "",
               "index": 892
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 893
-            },
+            }
+          ],
+          "translation": "于是告辞了丈人回来，心里想：“老师说我写文章的功夫已经到家了，自古以来没有不进考场就能中举的，如果不进去考一考，怎么能甘心呢？”"
+        },
+        {
+          "content": [
             {
               "char": "因",
               "pinyin": "jǐ",
@@ -4777,7 +4777,7 @@
               "index": 913
             }
           ],
-          "translation": ""
+          "translation": "于是向几个同去考试的人商量，瞒着丈人，到城里去参加乡试。"
         },
         {
           "content": [
@@ -4827,7 +4827,7 @@
               "index": 922
             }
           ],
-          "translation": ""
+          "translation": "出了考场，马上就回家。"
         },
         {
           "content": [
@@ -4882,7 +4882,7 @@
               "index": 932
             }
           ],
-          "translation": ""
+          "translation": "而家人已经饿了两三天。"
         },
         {
           "content": [
@@ -4952,7 +4952,7 @@
               "index": 945
             }
           ],
-          "translation": ""
+          "translation": "被胡屠夫知道，又骂了一顿。"
         }
       ]
     },
@@ -5289,17 +5289,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1011
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1012
-            },
+            }
+          ],
+          "translation": "到发榜那天，家里没米煮早饭，母亲吩咐范进说：“我还有一只生蛋的母鸡，你快拿去集市上卖了，买几升米煮稀饭吃，我已经饿得两只眼睛都看不见了。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "máng",
@@ -5366,7 +5366,7 @@
               "index": 1025
             }
           ],
-          "translation": ""
+          "translation": "“范进慌忙抱了鸡，出门去集市。"
         },
         {
           "content": [
@@ -5501,7 +5501,7 @@
               "index": 1051
             }
           ],
-          "translation": ""
+          "translation": "才离开不到四个小时，只听到一阵锣声，三个人骑着马闯了进来。"
         },
         {
           "content": [
@@ -5694,17 +5694,17 @@
               "char": "！",
               "pinyin": "",
               "index": 1089
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1090
-            },
+            }
+          ],
+          "translation": "那三个人下了马，把马拴在茅草棚上，连连叫道：“快请范老爷出来，恭喜中举了！”"
+        },
+        {
+          "content": [
             {
               "char": "母",
               "pinyin": "zhī",
@@ -5781,7 +5781,7 @@
               "index": 1105
             }
           ],
-          "translation": ""
+          "translation": "母亲不知道发生了什么事，吓得躲在屋子里；"
         },
         {
           "content": [
@@ -5929,17 +5929,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1134
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1135
-            },
+            }
+          ],
+          "translation": "听说中了举，才敢伸出头来，解释道：“各位请坐下，我儿子刚出去了。”"
+        },
+        {
+          "content": [
             {
               "char": "那",
               "pinyin": "lù",
@@ -6014,17 +6014,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1150
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1151
-            },
+            }
+          ],
+          "translation": "那些报录人说：“原来是老太太。”"
+        },
+        {
+          "content": [
             {
               "char": "大",
               "pinyin": "yōng",
@@ -6071,7 +6071,7 @@
               "index": 1160
             }
           ],
-          "translation": ""
+          "translation": "大家簇拥着要喜钱。"
         },
         {
           "content": [
@@ -6256,7 +6256,7 @@
               "index": 1196
             }
           ],
-          "translation": ""
+          "translation": "正吵闹着，又是几拨人马，二报、三报也到了，挤了一屋子的人，连茅草棚地上都坐满了。"
         },
         {
           "content": [
@@ -6311,7 +6311,7 @@
               "index": 1206
             }
           ],
-          "translation": ""
+          "translation": "邻居们也都来了，挤着看热闹。"
         },
         {
           "content": [
@@ -6421,7 +6421,7 @@
               "index": 1227
             }
           ],
-          "translation": ""
+          "translation": "老太太没办法，只得恳求一个邻居去集市找范进。"
         }
       ]
     },
@@ -6510,7 +6510,7 @@
               "index": 1243
             }
           ],
-          "translation": ""
+          "translation": "那邻居飞奔到集市，到处找不到；"
         },
         {
           "content": [
@@ -6710,7 +6710,7 @@
               "index": 1282
             }
           ],
-          "translation": ""
+          "translation": "一直找到集市的东面，才看见范进抱着鸡，手里插个草标，慢腾腾地走着，东张西望，在那里找买家。"
         },
         {
           "content": [
@@ -6785,7 +6785,7 @@
               "index": 1296
             }
           ],
-          "translation": ""
+          "translation": "邻居说：“范进，快点回去！"
         },
         {
           "content": [
@@ -6873,17 +6873,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1313
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1314
-            },
+            }
+          ],
+          "translation": "恭喜你中了举人，报喜的人挤了一屋呢。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "hǒng",
@@ -6985,7 +6985,7 @@
               "index": 1334
             }
           ],
-          "translation": ""
+          "translation": "“范进以为是在骗他，就装作听不见，低着头往前走。"
         },
         {
           "content": [
@@ -7090,7 +7090,7 @@
               "index": 1354
             }
           ],
-          "translation": ""
+          "translation": "邻居看到他不理睬，走上前来，就要抢他手里的鸡。"
         },
         {
           "content": [
@@ -7160,7 +7160,7 @@
               "index": 1367
             }
           ],
-          "translation": ""
+          "translation": "范进说：“你抢我的鸡干什么？"
         },
         {
           "content": [
@@ -7188,17 +7188,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1372
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1373
-            },
+            }
+          ],
+          "translation": "你又不买。”"
+        },
+        {
+          "content": [
             {
               "char": "邻",
               "pinyin": "zhōng",
@@ -7303,17 +7303,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1394
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1395
-            },
+            }
+          ],
+          "translation": "邻居说：“你中举了，叫你回家打发那些报录人呢。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "lín",
@@ -7495,7 +7495,7 @@
               "index": 1431
             }
           ],
-          "translation": ""
+          "translation": "“范进说：“高邻，你知道我今天没米下锅，要卖这个鸡去救命，为什么拿这些话来骗我？"
         },
         {
           "content": [
@@ -7598,17 +7598,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1451
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1452
-            },
+            }
+          ],
+          "translation": "我不和你闹，你自己回去吧，别耽误了我卖鸡。”"
+        },
+        {
+          "content": [
             {
               "char": "邻",
               "pinyin": "bù",
@@ -7740,7 +7740,7 @@
               "index": 1478
             }
           ],
-          "translation": ""
+          "translation": "邻居看见他不相信，一手把鸡抢了，扔在地下，把范进拉了回来。"
         },
         {
           "content": [
@@ -7833,17 +7833,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1496
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1497
-            },
+            }
+          ],
+          "translation": "报录人见了说：“太好了，新贵人回来了。”"
+        },
+        {
+          "content": [
             {
               "char": "正",
               "pinyin": "tā",
@@ -8125,7 +8125,7 @@
               "index": 1553
             }
           ],
-          "translation": ""
+          "translation": "就簇拥着他要说话，范进三两步走进屋里来，看到屋中间升挂起了报帖，上面写着：“捷报贵府老爷范讳进高中广东乡试第七名亚元。"
         },
         {
           "content": [
@@ -8163,19 +8163,14 @@
               "char": "。",
               "pinyin": "",
               "index": 1560
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1561
             }
           ],
-          "translation": ""
+          "translation": "京报连登黄甲。”"
         }
       ]
     },
@@ -8369,7 +8364,7 @@
               "index": 1598
             }
           ],
-          "translation": ""
+          "translation": "范进不看还好，他看了一遍，又念一遍，自己双手一拍，笑了一声，说：“噫！"
         },
         {
           "content": [
@@ -8389,7 +8384,7 @@
               "index": 1601
             }
           ],
-          "translation": ""
+          "translation": "好了！"
         },
         {
           "content": [
@@ -8412,17 +8407,17 @@
               "char": "！",
               "pinyin": "",
               "index": 1605
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1606
-            },
+            }
+          ],
+          "translation": "我中了！”"
+        },
+        {
+          "content": [
             {
               "char": "说",
               "pinyin": "jiāo",
@@ -8524,7 +8519,7 @@
               "index": 1626
             }
           ],
-          "translation": ""
+          "translation": "说完，往后一倒，牙关紧咬，不省人事。"
         },
         {
           "content": [
@@ -8614,7 +8609,7 @@
               "index": 1643
             }
           ],
-          "translation": ""
+          "translation": "老太太慌了，慌忙给他灌了几口开水。"
         },
         {
           "content": [
@@ -8704,7 +8699,7 @@
               "index": 1660
             }
           ],
-          "translation": ""
+          "translation": "他爬起来，又拍着双手放声笑道：“噫！"
         },
         {
           "content": [
@@ -8719,7 +8714,7 @@
               "index": 1662
             }
           ],
-          "translation": ""
+          "translation": "好！"
         },
         {
           "content": [
@@ -8742,17 +8737,17 @@
               "char": "！",
               "pinyin": "",
               "index": 1666
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1667
-            },
+            }
+          ],
+          "translation": "我中了！”"
+        },
+        {
+          "content": [
             {
               "char": "笑",
               "pinyin": "shuō",
@@ -8894,7 +8889,7 @@
               "index": 1695
             }
           ],
-          "translation": ""
+          "translation": "笑着，不由分说，就往门外跑，把报录人和邻居都吓了一跳。"
         },
         {
           "content": [
@@ -9099,7 +9094,7 @@
               "index": 1735
             }
           ],
-          "translation": ""
+          "translation": "走出大门没多远，一脚踩进了水塘里，挣扎起来，头发都散掉了，两手黄泥，一身湿漉漉的全是水。"
         },
         {
           "content": [
@@ -9209,7 +9204,7 @@
               "index": 1756
             }
           ],
-          "translation": ""
+          "translation": "大伙都拉不住他，拍着笑着，一直走到集市上去了。"
         },
         {
           "content": [
@@ -9327,17 +9322,17 @@
               "char": "。",
               "pinyin": "",
               "index": 1779
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1780
-            },
+            }
+          ],
+          "translation": "大家大眼瞪小眼，都说：“原来新贵人高兴疯了。”"
+        },
+        {
+          "content": [
             {
               "char": "老",
               "pinyin": "zěn",
@@ -9419,7 +9414,7 @@
               "index": 1796
             }
           ],
-          "translation": ""
+          "translation": "老太太哭着道：“怎么出了这么苦命的事！"
         },
         {
           "content": [
@@ -9509,7 +9504,7 @@
               "index": 1813
             }
           ],
-          "translation": ""
+          "translation": "中了一个什么举人，就得了这个倒霉的病！"
         },
         {
           "content": [
@@ -9567,17 +9562,17 @@
               "char": "？",
               "pinyin": "",
               "index": 1824
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1825
-            },
+            }
+          ],
+          "translation": "这一疯了，什么时候才能好啊？”"
+        },
+        {
+          "content": [
             {
               "char": "娘",
               "pinyin": "shang",
@@ -9699,7 +9694,7 @@
               "index": 1849
             }
           ],
-          "translation": ""
+          "translation": "娘子胡氏道：“早上出去还很好的，怎么就得了这样的病！"
         },
         {
           "content": [
@@ -9737,17 +9732,17 @@
               "char": "？",
               "pinyin": "",
               "index": 1856
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1857
-            },
+            }
+          ],
+          "translation": "那这可怎么办呀？”"
+        },
+        {
+          "content": [
             {
               "char": "众",
               "pinyin": "tài",
@@ -9824,7 +9819,7 @@
               "index": 1872
             }
           ],
-          "translation": ""
+          "translation": "众邻居劝道：“老太太不要心慌。"
         },
         {
           "content": [
@@ -9909,7 +9904,7 @@
               "index": 1888
             }
           ],
-          "translation": ""
+          "translation": "我们现在暂且派两个人跟住了范老爷。"
         },
         {
           "content": [
@@ -10062,19 +10057,14 @@
               "char": "。",
               "pinyin": "",
               "index": 1918
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 1919
             }
           ],
-          "translation": ""
+          "translation": "这里大家从家里拿些鸡蛋酒米，暂且款待了报子上的老爹，再来商量这事。”"
         }
       ]
     },
@@ -10268,7 +10258,7 @@
               "index": 1956
             }
           ],
-          "translation": ""
+          "translation": "这时众邻居有拿鸡蛋来的，有拿白酒来的，也有背了一斗米来的，也有抓了两只鸡来的。"
         },
         {
           "content": [
@@ -10378,7 +10368,7 @@
               "index": 1977
             }
           ],
-          "translation": ""
+          "translation": "娘子哭哭啼啼，在厨房做好了，拿到茅草棚里。"
         },
         {
           "content": [
@@ -10528,7 +10518,7 @@
               "index": 2006
             }
           ],
-          "translation": ""
+          "translation": "邻居又搬来些桌子凳子，请报录的坐着喝酒，商议他这疯了的事，要怎么办才好。"
         },
         {
           "content": [
@@ -10686,17 +10676,17 @@
               "char": "？",
               "pinyin": "",
               "index": 2037
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2038
-            },
+            }
+          ],
+          "translation": "报录的人中有一个说：“在下倒是有一个主意，不知道行不行？"
+        },
+        {
+          "content": [
             {
               "char": "众",
               "pinyin": "rén",
@@ -10746,17 +10736,17 @@
               "char": "？",
               "pinyin": "",
               "index": 2048
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2049
-            },
+            }
+          ],
+          "translation": "“很多人问：“什么主意？”"
+        },
+        {
+          "content": [
             {
               "char": "那",
               "pinyin": "kě",
@@ -10843,7 +10833,7 @@
               "index": 2066
             }
           ],
-          "translation": ""
+          "translation": "那人说：“范老爷平日要没有最害怕的人？"
         },
         {
           "content": [
@@ -10938,7 +10928,7 @@
               "index": 2084
             }
           ],
-          "translation": ""
+          "translation": "他只是因为太高兴了，痰涌上来，迷了心窍。"
         },
         {
           "content": [
@@ -11126,17 +11116,17 @@
               "char": "。",
               "pinyin": "",
               "index": 2121
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "’",
               "pinyin": "",
               "index": 2122
-            },
+            }
+          ],
+          "translation": "现在只需要他害怕的这个人来打他一个嘴巴，说：“这个报录的话都是骗你的，你没有中举。’"
+        },
+        {
+          "content": [
             {
               "char": "他",
               "pinyin": "chū",
@@ -11226,17 +11216,17 @@
               "char": "。",
               "pinyin": "",
               "index": 2140
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2141
-            },
+            }
+          ],
+          "translation": "他被这么一吓，把痰吐了出来，就明白了。”"
+        },
+        {
+          "content": [
             {
               "char": "众",
               "pinyin": "yì",
@@ -11338,7 +11328,7 @@
               "index": 2161
             }
           ],
-          "translation": ""
+          "translation": "很多邻居都拍手称赞说：“这个主意太好了，太妙了！"
         },
         {
           "content": [
@@ -11428,7 +11418,7 @@
               "index": 2178
             }
           ],
-          "translation": ""
+          "translation": "范老爷最怕的莫过于杀猪的胡老爹。"
         },
         {
           "content": [
@@ -11448,7 +11438,7 @@
               "index": 2181
             }
           ],
-          "translation": ""
+          "translation": "太好了！"
         },
         {
           "content": [
@@ -11488,7 +11478,7 @@
               "index": 2188
             }
           ],
-          "translation": ""
+          "translation": "快找胡老爹来。"
         },
         {
           "content": [
@@ -11566,17 +11556,17 @@
               "char": "。",
               "pinyin": "",
               "index": 2203
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2204
-            },
+            }
+          ],
+          "translation": "他也许是还不知道道，还在集市卖肉哩。”"
+        },
+        {
+          "content": [
             {
               "char": "又",
               "pinyin": "tā",
@@ -11678,7 +11668,7 @@
               "index": 2224
             }
           ],
-          "translation": ""
+          "translation": "又一个人说：“要是在集市买肉，他早就知道了；"
         },
         {
           "content": [
@@ -11783,7 +11773,7 @@
               "index": 2244
             }
           ],
-          "translation": ""
+          "translation": "他从五更天就去东头集市赶猪，还没回来。"
         },
         {
           "content": [
@@ -11826,19 +11816,14 @@
               "char": "。",
               "pinyin": "",
               "index": 2252
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2253
             }
           ],
-          "translation": ""
+          "translation": "快点迎上去找他。”"
         }
       ]
     },
@@ -12092,7 +12077,7 @@
               "index": 2302
             }
           ],
-          "translation": ""
+          "translation": "一个人飞奔着去迎接，走到一半路，遇见胡屠夫走来，后面跟着一个烧水的伙计，提着七八斤肉，四五千钱，正要来贺喜。"
         },
         {
           "content": [
@@ -12197,7 +12182,7 @@
               "index": 2322
             }
           ],
-          "translation": ""
+          "translation": "进门见到了老太太，老太太大哭着诉说了一番。"
         },
         {
           "content": [
@@ -12275,17 +12260,17 @@
               "char": "？",
               "pinyin": "",
               "index": 2337
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2338
-            },
+            }
+          ],
+          "translation": "胡屠夫诧异道：“难道这么没福气吗？"
+        },
+        {
+          "content": [
             {
               "char": "外",
               "pinyin": "huà",
@@ -12352,7 +12337,7 @@
               "index": 2351
             }
           ],
-          "translation": ""
+          "translation": "“外边的人一起发声请胡老爹说话。"
         },
         {
           "content": [
@@ -12442,7 +12427,7 @@
               "index": 2368
             }
           ],
-          "translation": ""
+          "translation": "胡屠夫把肉和钱交给女儿，跑了出来。"
         },
         {
           "content": [
@@ -12507,7 +12492,7 @@
               "index": 2380
             }
           ],
-          "translation": ""
+          "translation": "大家把主意告诉了他，和他商量。"
         },
         {
           "content": [
@@ -12667,7 +12652,7 @@
               "index": 2411
             }
           ],
-          "translation": ""
+          "translation": "胡屠夫犯难了，说：“虽然这是我女婿，如今却做了举人老爷，就是这天上的星宿。"
         },
         {
           "content": [
@@ -12727,7 +12712,7 @@
               "index": 2422
             }
           ],
-          "translation": ""
+          "translation": "天上的星宿是打不得的！"
         },
         {
           "content": [
@@ -12942,7 +12927,7 @@
               "index": 2464
             }
           ],
-          "translation": ""
+          "translation": "我听斋公们说：打了天上的星宿，就要被阎王抓去打一百铁棍，发配到十八层地狱，永世不得翻身。"
         },
         {
           "content": [
@@ -13000,17 +12985,17 @@
               "char": "！",
               "pinyin": "",
               "index": 2475
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2476
-            },
+            }
+          ],
+          "translation": "我可是不敢做这样的事！”"
+        },
+        {
+          "content": [
             {
               "char": "邻",
               "pinyin": "me",
@@ -13087,7 +13072,7 @@
               "index": 2491
             }
           ],
-          "translation": ""
+          "translation": "邻居内一个尖酸刻薄的人说：“算了吧！"
         },
         {
           "content": [
@@ -13322,7 +13307,7 @@
               "index": 2537
             }
           ],
-          "translation": ""
+          "translation": "胡老爹，你每天杀猪做生意，白刀子进去，红刀子出来，阎王也不知道叫判官在簿上记了你几千条铁棍；"
         },
         {
           "content": [
@@ -13407,7 +13392,7 @@
               "index": 2553
             }
           ],
-          "translation": ""
+          "translation": "就算是加上这一百棍，又有什么关系？"
         },
         {
           "content": [
@@ -13512,7 +13497,7 @@
               "index": 2573
             }
           ],
-          "translation": ""
+          "translation": "只怕把铁棍子打完了，也算不到这笔帐上吧。"
         },
         {
           "content": [
@@ -13690,17 +13675,17 @@
               "char": "。",
               "pinyin": "",
               "index": 2608
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2609
-            },
+            }
+          ],
+          "translation": "可能你救好了女婿的病，阎王念你有功，从地狱里把你提上第十七层来，也说不定。”"
+        },
+        {
+          "content": [
             {
               "char": "报",
               "pinyin": "hú",
@@ -13777,7 +13762,7 @@
               "index": 2624
             }
           ],
-          "translation": ""
+          "translation": "报录的人说：“不要只顾着说笑了。"
         },
         {
           "content": [
@@ -13895,17 +13880,17 @@
               "char": "。",
               "pinyin": "",
               "index": 2647
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2648
-            },
+            }
+          ],
+          "translation": "胡老爹，这个事必须要这样，你没办法，权当变通一下。"
+        },
+        {
+          "content": [
             {
               "char": "屠",
               "pinyin": "liǎng",
@@ -14217,7 +14202,7 @@
               "index": 2710
             }
           ],
-          "translation": ""
+          "translation": "“屠夫碍于众人的情面，只得连喝了两碗酒，壮一壮胆，把刚才这些顾虑收起来，将平时的凶恶模样拿出来，卷一卷那油晃晃的衣袖，走到集市去。"
         },
         {
           "content": [
@@ -14277,7 +14262,7 @@
               "index": 2721
             }
           ],
-          "translation": ""
+          "translation": "众邻居五六个都跟着跑。"
         },
         {
           "content": [
@@ -14430,17 +14415,17 @@
               "char": "！",
               "pinyin": "",
               "index": 2751
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2752
-            },
+            }
+          ],
+          "translation": "老太太赶出来叫道：“亲家，你只可以吓他一吓，可别把他打伤了！"
+        },
+        {
+          "content": [
             {
               "char": "众",
               "pinyin": "zhe",
@@ -14515,17 +14500,17 @@
               "char": "。",
               "pinyin": "",
               "index": 2767
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2768
-            },
+            }
+          ],
+          "translation": "“众邻居道：“这自然，哪需要您吩咐。”"
+        },
+        {
+          "content": [
             {
               "char": "说",
               "pinyin": "jìn",
@@ -14567,7 +14552,7 @@
               "index": 2776
             }
           ],
-          "translation": ""
+          "translation": "说着，径直去了。"
         }
       ]
     },
@@ -14831,7 +14816,7 @@
               "index": 2827
             }
           ],
-          "translation": ""
+          "translation": "来到集市，见范进正在一个庙门口站着，散着头发，满脸污泥，鞋子都跑掉了一只，只顾拍着手，嘴巴里叫道：“中了！"
         },
         {
           "content": [
@@ -14849,17 +14834,17 @@
               "char": "！",
               "pinyin": "",
               "index": 2830
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2831
-            },
+            }
+          ],
+          "translation": "中了！"
+        },
+        {
+          "content": [
             {
               "char": "胡",
               "pinyin": "dào",
@@ -14971,7 +14956,7 @@
               "index": 2853
             }
           ],
-          "translation": ""
+          "translation": "“胡屠夫凶神似的的走到跟前，说道：“该死的畜生！"
         },
         {
           "content": [
@@ -15004,17 +14989,17 @@
               "char": "？",
               "pinyin": "",
               "index": 2859
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 2860
-            },
+            }
+          ],
+          "translation": "你中了什么？”"
+        },
+        {
+          "content": [
             {
               "char": "一",
               "pinyin": "jiàn",
@@ -15056,7 +15041,7 @@
               "index": 2868
             }
           ],
-          "translation": ""
+          "translation": "一个嘴巴打过去。"
         },
         {
           "content": [
@@ -15141,7 +15126,7 @@
               "index": 2884
             }
           ],
-          "translation": ""
+          "translation": "很多人和邻居看见这个样子，忍不住笑了。"
         },
         {
           "content": [
@@ -15346,7 +15331,7 @@
               "index": 2924
             }
           ],
-          "translation": ""
+          "translation": "没想到胡屠夫虽然大着胆子打了一下，心里到底还是害怕的，那手早就抖了起来，不敢打第二下。"
         },
         {
           "content": [
@@ -15451,7 +15436,7 @@
               "index": 2944
             }
           ],
-          "translation": ""
+          "translation": "范进一个嘴巴就被打晕了，昏倒在地上。"
         },
         {
           "content": [
@@ -15651,7 +15636,7 @@
               "index": 2983
             }
           ],
-          "translation": ""
+          "translation": "众邻居一齐上前，替他抹胸口，捶背心，弄了小半天，慢慢喘息过来，眼睛明亮起来，不疯了。"
         },
         {
           "content": [
@@ -15766,7 +15751,7 @@
               "index": 3005
             }
           ],
-          "translation": ""
+          "translation": "许多人他扶起来，借了庙门口一个外科郎中的板凳坐着。"
         },
         {
           "content": [
@@ -15876,7 +15861,7 @@
               "index": 3026
             }
           ],
-          "translation": ""
+          "translation": "胡屠夫站在一边，不多时，觉得那只手隐隐地疼了起来；"
         },
         {
           "content": [
@@ -15976,7 +15961,7 @@
               "index": 3045
             }
           ],
-          "translation": ""
+          "translation": "自己一看，一个巴掌仰着，怎么也拉不过来。"
         },
         {
           "content": [
@@ -16149,17 +16134,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3079
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3080
-            },
+            }
+          ],
+          "translation": "自己心里懊恼道：“果然是天上‘文曲星’是打不得的，现在菩萨计较起来了。"
+        },
+        {
+          "content": [
             {
               "char": "想",
               "pinyin": "tǎo",
@@ -16276,7 +16261,7 @@
               "index": 3103
             }
           ],
-          "translation": ""
+          "translation": "“想一想，更疼得厉害了，连忙向郎中讨了个膏药贴着。"
         }
       ]
     },
@@ -16378,17 +16363,17 @@
               "char": "？",
               "pinyin": "",
               "index": 3122
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3123
-            },
+            }
+          ],
+          "translation": "范进看了很多人，说：“我怎么坐在这里？”"
+        },
+        {
+          "content": [
             {
               "char": "又",
               "pinyin": "lǐ",
@@ -16493,17 +16478,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3144
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3145
-            },
+            }
+          ],
+          "translation": "又说：“我这半天，昏昏沉沉，像在梦里一样。"
+        },
+        {
+          "content": [
             {
               "char": "众",
               "pinyin": "huān",
@@ -16580,7 +16565,7 @@
               "index": 3160
             }
           ],
-          "translation": ""
+          "translation": "“众邻居道：“老爷，恭喜高中了。"
         },
         {
           "content": [
@@ -16705,7 +16690,7 @@
               "index": 3184
             }
           ],
-          "translation": ""
+          "translation": "刚才高兴得有些动了痰，刚才吐出几口痰来，好了。"
         },
         {
           "content": [
@@ -16763,17 +16748,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3195
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3196
-            },
+            }
+          ],
+          "translation": "快请回家去打发报录人。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "dì",
@@ -16820,7 +16805,7 @@
               "index": 3205
             }
           ],
-          "translation": ""
+          "translation": "“范进说：“对了。"
         },
         {
           "content": [
@@ -16878,17 +16863,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3216
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3217
-            },
+            }
+          ],
+          "translation": "我也记得是中的第七名。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "zhōng",
@@ -17010,7 +16995,7 @@
               "index": 3241
             }
           ],
-          "translation": ""
+          "translation": "“范进一面自己绾了头发，一面向郎中借了一盆水洗洗脸。"
         },
         {
           "content": [
@@ -17110,7 +17095,7 @@
               "index": 3260
             }
           ],
-          "translation": ""
+          "translation": "一个邻居早把那一只鞋寻了过来，替他穿上。"
         },
         {
           "content": [
@@ -17185,7 +17170,7 @@
               "index": 3274
             }
           ],
-          "translation": ""
+          "translation": "看到丈人在跟面，害怕他又要骂。"
         },
         {
           "content": [
@@ -17378,17 +17363,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3312
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3313
-            },
+            }
+          ],
+          "translation": "胡屠夫上前说：“贤婿老爷，刚才不是我敢大胆，是你老太太的意思，央求我来劝你的。”"
+        },
+        {
+          "content": [
             {
               "char": "邻",
               "pinyin": "ge",
@@ -17593,17 +17578,17 @@
               "char": "！",
               "pinyin": "",
               "index": 3354
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3355
-            },
+            }
+          ],
+          "translation": "邻居中的一个说：“胡老爹刚才这个嘴巴打的亲切，一会儿范老爷洗脸，还要洗下半盆猪油来！"
+        },
+        {
+          "content": [
             {
               "char": "又",
               "pinyin": "dé",
@@ -17703,17 +17688,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3375
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3376
-            },
+            }
+          ],
+          "translation": "又一个说”：“老爹，你这手明天杀不得猪了。"
+        },
+        {
+          "content": [
             {
               "char": "胡",
               "pinyin": "xián",
@@ -17780,7 +17765,7 @@
               "index": 3389
             }
           ],
-          "translation": ""
+          "translation": "“胡屠夫道：“我哪里还用杀猪了！"
         },
         {
           "content": [
@@ -17875,7 +17860,7 @@
               "index": 3407
             }
           ],
-          "translation": ""
+          "translation": "有我这贤婿，还怕后半辈子没得依靠吗？"
         },
         {
           "content": [
@@ -18150,7 +18135,7 @@
               "index": 3461
             }
           ],
-          "translation": ""
+          "translation": "我常常说，我的这个贤婿，才学又高，人品相貌又好，就是城里头那张府、周府的这些老爷，也没有我女婿这样一个体面的相貌。"
         },
         {
           "content": [
@@ -18295,7 +18280,7 @@
               "index": 3489
             }
           ],
-          "translation": ""
+          "translation": "你们不知道，不怕跟你们说，我小老这一双眼睛，可是认识人的。"
         },
         {
           "content": [
@@ -18603,17 +18588,17 @@
               "char": "！",
               "pinyin": "",
               "index": 3550
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3551
-            },
+            }
+          ],
+          "translation": "想当年，我小女儿在家里长到30多岁，多少有钱的富户要和我结成亲家，我自己觉得女儿像有些福气的人，最终会嫁给一个老爷，今天果然没有错！”"
+        },
+        {
+          "content": [
             {
               "char": "说",
               "pinyin": "zhe",
@@ -18655,7 +18640,7 @@
               "index": 3559
             }
           ],
-          "translation": ""
+          "translation": "说完，哈哈大笑。"
         },
         {
           "content": [
@@ -18695,7 +18680,7 @@
               "index": 3566
             }
           ],
-          "translation": ""
+          "translation": "众人都笑起来。"
         },
         {
           "content": [
@@ -18810,7 +18795,7 @@
               "index": 3588
             }
           ],
-          "translation": ""
+          "translation": "看着范进洗了脸，郎中又拿茶来喝了，一同回家。"
         },
         {
           "content": [
@@ -18895,7 +18880,7 @@
               "index": 3604
             }
           ],
-          "translation": ""
+          "translation": "范举人走前面，屠夫和邻居跟在后面。"
         },
         {
           "content": [
@@ -19040,7 +19025,7 @@
               "index": 3632
             }
           ],
-          "translation": ""
+          "translation": "屠夫看见女婿衣裳后衣襟皱了很多，一路低着头替他扯了几十回。"
         }
       ]
     },
@@ -19142,17 +19127,17 @@
               "char": "！",
               "pinyin": "",
               "index": 3651
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3652
-            },
+            }
+          ],
+          "translation": "到了家门口，屠夫高声叫道：“老爷回府了！”"
+        },
+        {
+          "content": [
             {
               "char": "老",
               "pinyin": "cóng",
@@ -19249,7 +19234,7 @@
               "index": 3671
             }
           ],
-          "translation": ""
+          "translation": "老太太迎接着出来，看到儿子不疯，喜从天降。"
         },
         {
           "content": [
@@ -19389,7 +19374,7 @@
               "index": 3698
             }
           ],
-          "translation": ""
+          "translation": "很多人问报录的在哪，是家里已经用屠夫送来的几千钱打发走了。"
         },
         {
           "content": [
@@ -19459,7 +19444,7 @@
               "index": 3711
             }
           ],
-          "translation": ""
+          "translation": "范进拜了母亲，也拜谢了丈人。"
         },
         {
           "content": [
@@ -19572,17 +19557,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3733
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3734
-            },
+            }
+          ],
+          "translation": "胡屠夫再三不安地说：“这没几个钱，不够你赏人的。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "jiàn",
@@ -19624,7 +19609,7 @@
               "index": 3742
             }
           ],
-          "translation": ""
+          "translation": "“范进又谢了邻居。"
         },
         {
           "content": [
@@ -19857,17 +19842,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3788
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3789
-            },
+            }
+          ],
+          "translation": "正要坐下来，却先看到一个穿着体面的管家，手里拿着一个大红色全帖，飞跑了进来：“张老爷来拜访新中举的范老爷。”"
+        },
+        {
+          "content": [
             {
               "char": "说",
               "pinyin": "máng",
@@ -19929,7 +19914,7 @@
               "index": 3801
             }
           ],
-          "translation": ""
+          "translation": "说完后，轿子已经是到了门口。"
         },
         {
           "content": [
@@ -20014,7 +19999,7 @@
               "index": 3817
             }
           ],
-          "translation": ""
+          "translation": "胡屠夫急忙躲藏进女儿房里，不敢出来。"
         },
         {
           "content": [
@@ -20054,7 +20039,7 @@
               "index": 3824
             }
           ],
-          "translation": ""
+          "translation": "邻居各自散了。"
         }
       ]
     },
@@ -20253,7 +20238,7 @@
               "index": 3862
             }
           ],
-          "translation": ""
+          "translation": "范进迎了出去，只见那张乡绅下了轿进来，头戴纱帽，身穿葵花色圆领，金带，皂色靴。"
         },
         {
           "content": [
@@ -20473,7 +20458,7 @@
               "index": 3905
             }
           ],
-          "translation": ""
+          "translation": "他是举人出身，做过一任知县，别号静斋，范进和他礼让请了进来，到堂屋内平磕了头，分宾主坐下。"
         },
         {
           "content": [
@@ -20596,17 +20581,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3929
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3930
-            },
+            }
+          ],
+          "translation": "张乡绅先攀谈说：“世先生同在乡里，却一直没有亲近。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "yuán",
@@ -20721,17 +20706,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3953
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3954
-            },
+            }
+          ],
+          "translation": "“范进说：“晚生一直仰慕老先生，只是无缘，还没能拜会过。”"
+        },
+        {
+          "content": [
             {
               "char": "张",
               "pinyin": "shī",
@@ -20941,17 +20926,17 @@
               "char": "。",
               "pinyin": "",
               "index": 3996
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 3997
-            },
+            }
+          ],
+          "translation": "张乡绅说：“刚才看见题名录，贵房老师高要县汤公，就是我家先祖父的学生，我和你是亲切的世家兄弟。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "chū",
@@ -21028,7 +21013,7 @@
               "index": 4012
             }
           ],
-          "translation": ""
+          "translation": "“范进道：“晚生侥幸，实在是惭愧。"
         },
         {
           "content": [
@@ -21106,17 +21091,17 @@
               "char": "。",
               "pinyin": "",
               "index": 4027
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4028
-            },
+            }
+          ],
+          "translation": "但幸运的是出自老先生的门下，可真是令人高兴。”"
+        },
+        {
+          "content": [
             {
               "char": "张",
               "pinyin": "shì",
@@ -21241,17 +21226,17 @@
               "char": "。",
               "pinyin": "",
               "index": 4053
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4054
-            },
+            }
+          ],
+          "translation": "张乡绅四周看了看，说：“世先生真是清贫。"
+        },
+        {
+          "content": [
             {
               "char": "随",
               "pinyin": "lái",
@@ -21473,7 +21458,7 @@
               "index": 4098
             }
           ],
-          "translation": ""
+          "translation": "“从跟随的家仆手里拿过一封银子来，说：“小弟也没什么好东西可以送你，郑重备了五十两作为贺礼，世先生暂时收着。"
         },
         {
           "content": [
@@ -21583,7 +21568,7 @@
               "index": 4119
             }
           ],
-          "translation": ""
+          "translation": "这华居实在住不得，将来主事或有人拜访，都不很方便。"
         },
         {
           "content": [
@@ -21773,7 +21758,7 @@
               "index": 4156
             }
           ],
-          "translation": ""
+          "translation": "我有一所空房子，就在东门大街上，三进三开间，虽然不算很宽敞，也还算干净，就送给世先生；"
         },
         {
           "content": [
@@ -21851,17 +21836,17 @@
               "char": "。",
               "pinyin": "",
               "index": 4171
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4172
-            },
+            }
+          ],
+          "translation": "搬到那里去住，或早或晚也好上门请教。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "nián",
@@ -22023,7 +22008,7 @@
               "index": 4204
             }
           ],
-          "translation": ""
+          "translation": "“范进再三推辞，张乡绅急了，道：“你我多年情谊的世交，就如同至亲骨肉一样；"
         },
         {
           "content": [
@@ -22081,17 +22066,17 @@
               "char": "。",
               "pinyin": "",
               "index": 4215
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4216
-            },
+            }
+          ],
+          "translation": "如果要这样，就是见外了。"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "shuō",
@@ -22168,7 +22153,7 @@
               "index": 4231
             }
           ],
-          "translation": ""
+          "translation": "“范进这才把银子收下，作揖谢了。"
         },
         {
           "content": [
@@ -22228,7 +22213,7 @@
               "index": 4242
             }
           ],
-          "translation": ""
+          "translation": "又聊了一会儿，张乡绅躬身告别。"
         },
         {
           "content": [
@@ -22323,7 +22308,7 @@
               "index": 4260
             }
           ],
-          "translation": ""
+          "translation": "胡屠夫一直等他上了轿，才敢走出堂屋来。"
         }
       ]
     },
@@ -22642,7 +22627,7 @@
               "index": 4322
             }
           ],
-          "translation": ""
+          "translation": "范进立即把这银子交给妻子打开看，是一封一封雪白色的细丝银锭，于是包了两锭，叫胡屠夫进来，递给他说：“刚才让老爹破费了，拿了五千钱来。"
         },
         {
           "content": [
@@ -22710,17 +22695,17 @@
               "char": "。",
               "pinyin": "",
               "index": 4335
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4336
-            },
+            }
+          ],
+          "translation": "这六两多银子，老爹拿去吧。"
+        },
+        {
+          "content": [
             {
               "char": "屠",
               "pinyin": "tou",
@@ -22877,7 +22862,7 @@
               "index": 4367
             }
           ],
-          "translation": ""
+          "translation": "“屠夫紧紧地把银子攥在手里，把拳头伸过来，说：“这个，你先收着。"
         },
         {
           "content": [
@@ -22955,17 +22940,17 @@
               "char": "？",
               "pinyin": "",
               "index": 4382
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4383
-            },
+            }
+          ],
+          "translation": "我原本是祝贺你的，怎么又好意思拿了回去？"
+        },
+        {
+          "content": [
             {
               "char": "范",
               "pinyin": "yín",
@@ -23130,17 +23115,17 @@
               "char": "。",
               "pinyin": "",
               "index": 4416
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4417
-            },
+            }
+          ],
+          "translation": "“范进道：“眼下我这里还有这几两银子，如果用完了，再来向老爹讨来用。"
+        },
+        {
+          "content": [
             {
               "char": "屠",
               "pinyin": "chuāi",
@@ -23372,7 +23357,7 @@
               "index": 4463
             }
           ],
-          "translation": ""
+          "translation": "“屠夫连忙把拳头缩了回去，往腰里揣银子，嘴上说着：“算了，你现在结交了这个张老爷，哪还用发愁没有银子花呢？"
         },
         {
           "content": [
@@ -23472,7 +23457,7 @@
               "index": 4482
             }
           ],
-          "translation": ""
+          "translation": "他家里的银子，说起来比皇帝家还多哩。！"
         },
         {
           "content": [
@@ -23645,17 +23630,17 @@
               "char": "！",
               "pinyin": "",
               "index": 4516
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4517
-            },
+            }
+          ],
+          "translation": "他家就是我卖肉的主顾，一年就是没有事，肉也要用四五千斤，银子哪有什么奇怪的！”"
+        },
+        {
+          "content": [
             {
               "char": "又",
               "pinyin": "ná",
@@ -24020,17 +24005,17 @@
               "char": "。",
               "pinyin": "",
               "index": 4590
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "’",
               "pinyin": "",
               "index": 4591
-            },
+            }
+          ],
+          "translation": "又转回头来看着女儿，说：“我早上拿了钱来，你那该死的兄弟还不肯，我说：‘姑老爷今非昔比，免不了有人把银子送上门来给他用，只怕姑老爷还不稀罕。’"
+        },
+        {
+          "content": [
             {
               "char": "今",
               "pinyin": "mà",
@@ -24067,7 +24052,7 @@
               "index": 4598
             }
           ],
-          "translation": ""
+          "translation": "现在果然是这样！"
         },
         {
           "content": [
@@ -24170,17 +24155,17 @@
               "char": "！",
               "pinyin": "",
               "index": 4618
-            }
-          ],
-          "translation": ""
-        },
-        {
-          "content": [
+            },
             {
               "char": "”",
               "pinyin": "",
               "index": 4619
-            },
+            }
+          ],
+          "translation": "如今拿了银子回家去，骂骂这死砍头短命的奴才！”"
+        },
+        {
+          "content": [
             {
               "char": "说",
               "pinyin": "de",
@@ -24287,7 +24272,7 @@
               "index": 4640
             }
           ],
-          "translation": ""
+          "translation": "说了一会儿，千恩万谢，低着头，笑迷迷的离开了。"
         }
       ]
     },
@@ -24406,7 +24391,7 @@
               "index": 4662
             }
           ],
-          "translation": ""
+          "translation": "从此以后，果然有许多人来奉承他：有送田产的；"
         },
         {
           "content": [
@@ -24446,7 +24431,7 @@
               "index": 4669
             }
           ],
-          "translation": ""
+          "translation": "有人送店房的；"
         },
         {
           "content": [
@@ -24561,7 +24546,7 @@
               "index": 4691
             }
           ],
-          "translation": ""
+          "translation": "还有那些破落户，两口子来投身为仆，图荫庇的。"
         },
         {
           "content": [
@@ -24701,7 +24686,7 @@
               "index": 4718
             }
           ],
-          "translation": ""
+          "translation": "过两三个月，范进家奴仆、丫鬟都有了，钱、米自然是不用说了。"
         },
         {
           "content": [
@@ -24761,7 +24746,7 @@
               "index": 4729
             }
           ],
-          "translation": ""
+          "translation": "张乡绅家利又来催着搬家。"
         },
         {
           "content": [
@@ -24871,9 +24856,10 @@
               "index": 4750
             }
           ],
-          "translation": ""
+          "translation": "搬到新房子里，唱戏、摆酒、请客，一连三日。"
         }
       ]
     }
-  ]
+  ],
+  "knowledge": ""
 }

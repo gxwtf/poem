@@ -1,7 +1,7 @@
 {
   "name": "归园田居（其一）",
   "author": "陶渊明",
-  "dynasty": "东晋",
+  "dynasty": "魏晋",
   "mode": "poem",
   "paragraphs": [
     {
@@ -11,90 +11,65 @@
             {
               "char": "少",
               "pinyin": "shào",
-              "index": 0,
-              "read": false,
-              "write": false
+              "index": 0
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 1,
-              "read": false,
-              "write": false
+              "index": 1
             },
             {
               "char": "适",
               "pinyin": "shì",
-              "index": 2,
-              "read": false,
-              "write": false
+              "index": 2
             },
             {
               "char": "俗",
               "pinyin": "sú",
-              "index": 3,
-              "read": false,
-              "write": false
+              "index": 3
             },
             {
               "char": "韵",
               "pinyin": "yùn",
-              "index": 4,
-              "read": false,
-              "write": false
+              "index": 4
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 5,
-              "read": false,
-              "write": false
+              "index": 5
             },
             {
               "char": "性",
               "pinyin": "xìng",
-              "index": 6,
-              "read": false,
-              "write": false
+              "index": 6
             },
             {
               "char": "本",
               "pinyin": "běn",
-              "index": 7,
-              "read": false,
-              "write": false
+              "index": 7
             },
             {
               "char": "爱",
               "pinyin": "ài",
-              "index": 8,
-              "read": false,
-              "write": false
+              "index": 8
             },
             {
               "char": "丘",
               "pinyin": "qiū",
-              "index": 9,
-              "read": false,
-              "write": false
+              "index": 9
             },
             {
               "char": "山",
               "pinyin": "shān",
-              "index": 10,
-              "read": false,
-              "write": false
+              "index": 10
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 11,
-              "read": false,
-              "write": false
+              "index": 11
             }
           ],
           "translation": "年少时就没有适应世俗的性情，生来就喜爱大自然的风物。",
-          "pinyin": "shǎo wú shì sú yùn ， xìng běn ài qiū shān 。",
           "notes": [
             {
               "start": 2,
@@ -111,18 +86,6 @@
               "end": 10,
               "content": "指山林。"
             }
-          ],
-          "different_meanings": [
-            {
-              "start": 0,
-              "end": 0,
-              "old": "年少"
-            },
-            {
-              "start": 0,
-              "end": 0,
-              "new": "数量少"
-            }
           ]
         }
       ]
@@ -134,90 +97,65 @@
             {
               "char": "误",
               "pinyin": "wù",
-              "index": 12,
-              "read": false,
-              "write": false
+              "index": 12
             },
             {
               "char": "落",
               "pinyin": "luò",
-              "index": 13,
-              "read": false,
-              "write": false
+              "index": 13
             },
             {
               "char": "尘",
               "pinyin": "chén",
-              "index": 14,
-              "read": false,
-              "write": false
+              "index": 14
             },
             {
               "char": "网",
               "pinyin": "wǎng",
-              "index": 15,
-              "read": false,
-              "write": false
+              "index": 15
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 16,
-              "read": false,
-              "write": false
+              "index": 16
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 17,
-              "read": false,
-              "write": false
+              "index": 17
             },
             {
               "char": "一",
               "pinyin": "yī",
-              "index": 18,
-              "read": false,
-              "write": false
+              "index": 18
             },
             {
               "char": "去",
               "pinyin": "qù",
-              "index": 19,
-              "read": false,
-              "write": false
+              "index": 19
             },
             {
               "char": "三",
               "pinyin": "sān",
-              "index": 20,
-              "read": false,
-              "write": false
+              "index": 20
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 21,
-              "read": false,
-              "write": false
+              "index": 21
             },
             {
               "char": "年",
               "pinyin": "nián",
-              "index": 22,
-              "read": false,
-              "write": false
+              "index": 22
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 23,
-              "read": false,
-              "write": false
+              "index": 23
             }
           ],
           "translation": "错误地陷落到世俗的种种束缚中，转眼间远离田园已十余年。",
-          "pinyin": "wù luò chén wǎng zhōng ， yī qù sān shí nián 。",
           "notes": [
             {
               "start": 2,
@@ -228,18 +166,6 @@
               "start": 6,
               "end": 10,
               "content": "陶渊明大约二十五岁离开少时居所，直到五十五岁辞去彭泽令方归，所以说“一去三十年”。或疑当作“十三年”。自开始做官至辞去彭泽令，前后为十三年。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 8,
-              "end": 8,
-              "old": "眼泪"
-            },
-            {
-              "start": 8,
-              "end": 8,
-              "new": "鼻涕"
             }
           ]
         }
@@ -252,90 +178,65 @@
             {
               "char": "羁",
               "pinyin": "jī",
-              "index": 24,
-              "read": true,
-              "write": true
+              "index": 24
             },
             {
               "char": "鸟",
               "pinyin": "niǎo",
-              "index": 25,
-              "read": false,
-              "write": false
+              "index": 25
             },
             {
               "char": "恋",
               "pinyin": "liàn",
-              "index": 26,
-              "read": false,
-              "write": false
+              "index": 26
             },
             {
               "char": "旧",
               "pinyin": "jiù",
-              "index": 27,
-              "read": false,
-              "write": false
+              "index": 27
             },
             {
               "char": "林",
               "pinyin": "lín",
-              "index": 28,
-              "read": false,
-              "write": false
+              "index": 28
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 29,
-              "read": false,
-              "write": false
+              "index": 29
             },
             {
               "char": "池",
               "pinyin": "chí",
-              "index": 30,
-              "read": false,
-              "write": false
+              "index": 30
             },
             {
               "char": "鱼",
               "pinyin": "yú",
-              "index": 31,
-              "read": false,
-              "write": false
+              "index": 31
             },
             {
               "char": "思",
               "pinyin": "sī",
-              "index": 32,
-              "read": false,
-              "write": false
+              "index": 32
             },
             {
               "char": "故",
               "pinyin": "gù",
-              "index": 33,
-              "read": false,
-              "write": false
+              "index": 33
             },
             {
               "char": "渊",
               "pinyin": "yuān",
-              "index": 34,
-              "read": false,
-              "write": false
+              "index": 34
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 35,
-              "read": false,
-              "write": false
+              "index": 35
             }
           ],
           "translation": "笼中之鸟怀念以前生活的树林，池塘之鱼思念旧日嬉戏的深潭。",
-          "pinyin": "jī niǎo liàn jiù lín ， chí yú sī gù yuān 。",
           "notes": [
             {
               "start": 0,
@@ -353,90 +254,65 @@
             {
               "char": "开",
               "pinyin": "kāi",
-              "index": 36,
-              "read": false,
-              "write": false
+              "index": 36
             },
             {
               "char": "荒",
               "pinyin": "huāng",
-              "index": 37,
-              "read": false,
-              "write": false
+              "index": 37
             },
             {
               "char": "南",
               "pinyin": "nán",
-              "index": 38,
-              "read": false,
-              "write": false
+              "index": 38
             },
             {
               "char": "野",
               "pinyin": "yě",
-              "index": 39,
-              "read": false,
-              "write": false
+              "index": 39
             },
             {
               "char": "际",
               "pinyin": "jì",
-              "index": 40,
-              "read": false,
-              "write": false
+              "index": 40
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 41,
-              "read": false,
-              "write": false
+              "index": 41
             },
             {
               "char": "守",
               "pinyin": "shǒu",
-              "index": 42,
-              "read": false,
-              "write": false
+              "index": 42
             },
             {
               "char": "拙",
               "pinyin": "zhuō",
-              "index": 43,
-              "read": false,
-              "write": false
+              "index": 43
             },
             {
               "char": "归",
               "pinyin": "guī",
-              "index": 44,
-              "read": false,
-              "write": false
+              "index": 44
             },
             {
               "char": "园",
               "pinyin": "yuán",
-              "index": 45,
-              "read": false,
-              "write": false
+              "index": 45
             },
             {
               "char": "田",
               "pinyin": "tián",
-              "index": 46,
-              "read": false,
-              "write": false
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 47,
-              "read": false,
-              "write": false
+              "index": 47
             }
           ],
           "translation": "我愿到南面的田野去开荒，依着拙朴的心性回家耕种田园。",
-          "pinyin": "kāi huāng nán yě jì ， shǒu zhuō guī yuán tián 。",
           "notes": [
             {
               "start": 2,
@@ -459,90 +335,65 @@
             {
               "char": "方",
               "pinyin": "fāng",
-              "index": 48,
-              "read": false,
-              "write": false
+              "index": 48
             },
             {
               "char": "宅",
               "pinyin": "zhái",
-              "index": 49,
-              "read": false,
-              "write": false
+              "index": 49
             },
             {
               "char": "十",
               "pinyin": "shí",
-              "index": 50,
-              "read": false,
-              "write": false
+              "index": 50
             },
             {
               "char": "余",
               "pinyin": "yú",
-              "index": 51,
-              "read": false,
-              "write": false
+              "index": 51
             },
             {
               "char": "亩",
               "pinyin": "mǔ",
-              "index": 52,
-              "read": false,
-              "write": false
+              "index": 52
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 53,
-              "read": false,
-              "write": false
+              "index": 53
             },
             {
               "char": "草",
               "pinyin": "cǎo",
-              "index": 54,
-              "read": false,
-              "write": false
+              "index": 54
             },
             {
               "char": "屋",
               "pinyin": "wū",
-              "index": 55,
-              "read": false,
-              "write": false
+              "index": 55
             },
             {
               "char": "八",
               "pinyin": "bā",
-              "index": 56,
-              "read": false,
-              "write": false
+              "index": 56
             },
             {
               "char": "九",
               "pinyin": "jiǔ",
-              "index": 57,
-              "read": false,
-              "write": false
+              "index": 57
             },
             {
               "char": "间",
               "pinyin": "jiān",
-              "index": 58,
-              "read": false,
-              "write": false
+              "index": 58
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 59,
-              "read": false,
-              "write": false
+              "index": 59
             }
           ],
           "translation": "围绕着房宅方圆有十余亩地，还有八九间茅草屋。",
-          "pinyin": "fāng zhái shí yú mǔ ， cǎo wū bā jiǔ jiān 。",
           "notes": [
             {
               "start": 0,
@@ -560,90 +411,65 @@
             {
               "char": "榆",
               "pinyin": "yú",
-              "index": 60,
-              "read": false,
-              "write": false
+              "index": 60
             },
             {
               "char": "柳",
               "pinyin": "liǔ",
-              "index": 61,
-              "read": false,
-              "write": false
+              "index": 61
             },
             {
               "char": "荫",
               "pinyin": "yìn",
-              "index": 62,
-              "read": false,
-              "write": false
+              "index": 62
             },
             {
               "char": "后",
               "pinyin": "hòu",
-              "index": 63,
-              "read": false,
-              "write": false
+              "index": 63
             },
             {
               "char": "檐",
               "pinyin": "yán",
-              "index": 64,
-              "read": false,
-              "write": false
+              "index": 64
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 65,
-              "read": false,
-              "write": false
+              "index": 65
             },
             {
               "char": "桃",
               "pinyin": "táo",
-              "index": 66,
-              "read": false,
-              "write": false
+              "index": 66
             },
             {
               "char": "李",
               "pinyin": "lǐ",
-              "index": 67,
-              "read": false,
-              "write": false
+              "index": 67
             },
             {
               "char": "罗",
               "pinyin": "luó",
-              "index": 68,
-              "read": false,
-              "write": false
+              "index": 68
             },
             {
               "char": "堂",
               "pinyin": "táng",
-              "index": 69,
-              "read": false,
-              "write": false
+              "index": 69
             },
             {
               "char": "前",
               "pinyin": "qián",
-              "index": 70,
-              "read": false,
-              "write": false
+              "index": 70
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 71,
-              "read": false,
-              "write": false
+              "index": 71
             }
           ],
           "translation": "生长茂盛的榆树柳树遮蔽了后屋檐，桃树李树整齐的罗列在屋前。",
-          "pinyin": "yú liǔ yīn hòu yán ， táo lǐ luó táng qián 。",
           "notes": []
         }
       ]
@@ -655,90 +481,65 @@
             {
               "char": "暧",
               "pinyin": "ài",
-              "index": 72,
-              "read": true,
-              "write": true
+              "index": 72
             },
             {
               "char": "暧",
               "pinyin": "ài",
-              "index": 73,
-              "read": false,
-              "write": false
+              "index": 73
             },
             {
               "char": "远",
               "pinyin": "yuǎn",
-              "index": 74,
-              "read": false,
-              "write": false
+              "index": 74
             },
             {
               "char": "人",
               "pinyin": "rén",
-              "index": 75,
-              "read": false,
-              "write": false
+              "index": 75
             },
             {
               "char": "村",
               "pinyin": "cūn",
-              "index": 76,
-              "read": false,
-              "write": false
+              "index": 76
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 77,
-              "read": false,
-              "write": false
+              "index": 77
             },
             {
               "char": "依",
               "pinyin": "yī",
-              "index": 78,
-              "read": false,
-              "write": false
+              "index": 78
             },
             {
               "char": "依",
               "pinyin": "yī",
-              "index": 79,
-              "read": false,
-              "write": false
+              "index": 79
             },
             {
               "char": "墟",
               "pinyin": "xū",
-              "index": 80,
-              "read": false,
-              "write": false
+              "index": 80
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 81,
-              "read": false,
-              "write": false
+              "index": 81
             },
             {
               "char": "烟",
               "pinyin": "yān",
-              "index": 82,
-              "read": false,
-              "write": false
+              "index": 82
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 83,
-              "read": false,
-              "write": false
+              "index": 83
             }
           ],
           "translation": "远处邻村的屋舍依稀可见，村落上方轻柔而缓慢的飘升着袅袅炊烟。",
-          "pinyin": "ài ài yuǎn rén cūn ， yī yī xū lǐ yān 。",
           "notes": [
             {
               "start": 0,
@@ -766,119 +567,70 @@
             {
               "char": "狗",
               "pinyin": "gǒu",
-              "index": 84,
-              "read": false,
-              "write": false
+              "index": 84
             },
             {
               "char": "吠",
               "pinyin": "fèi",
-              "index": 85,
-              "read": false,
-              "write": false
+              "index": 85
             },
             {
               "char": "深",
               "pinyin": "shēn",
-              "index": 86,
-              "read": false,
-              "write": false
+              "index": 86
             },
             {
               "char": "巷",
               "pinyin": "xiàng",
-              "index": 87,
-              "read": false,
-              "write": false
+              "index": 87
             },
             {
               "char": "中",
               "pinyin": "zhōng",
-              "index": 88,
-              "read": false,
-              "write": false
+              "index": 88
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 89,
-              "read": false,
-              "write": false
+              "index": 89
             },
             {
               "char": "鸡",
               "pinyin": "jī",
-              "index": 90,
-              "read": false,
-              "write": false
+              "index": 90
             },
             {
               "char": "鸣",
               "pinyin": "míng",
-              "index": 91,
-              "read": false,
-              "write": false
+              "index": 91
             },
             {
               "char": "桑",
               "pinyin": "sāng",
-              "index": 92,
-              "read": false,
-              "write": false
+              "index": 92
             },
             {
               "char": "树",
               "pinyin": "shù",
-              "index": 93,
-              "read": true,
-              "write": true
+              "index": 93
             },
             {
               "char": "颠",
               "pinyin": "diān",
-              "index": 94,
-              "read": false,
-              "write": false
+              "index": 94
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 95,
-              "read": false,
-              "write": false
+              "index": 95
             }
           ],
           "translation": "深深的街巷中传来了几声狗吠，桑树顶端有雄鸡不停啼鸣。",
-          "pinyin": "gǒu fèi shēn xiàng zhōng ， jī míng sāng shù diān 。",
           "notes": [
             {
               "start": 10,
               "end": 10,
               "content": "顶端。"
-            }
-          ],
-          "different_meanings": [
-            {
-              "start": 9,
-              "end": 10,
-              "old": "树颠（树梢）"
-            },
-            {
-              "start": 9,
-              "end": 10,
-              "new": "颠（通常指颠倒）"
-            }
-          ],
-          "special_sentences": [
-            {
-              "start": 0,
-              "end": 5,
-              "content": "状语后置：'深巷中'是'吠'的地点状语，正常语序为'狗于深巷中吠'"
-            },
-            {
-              "start": 6,
-              "end": 11,
-              "content": "状语后置：'桑树颠'是'鸣'的地点状语，正常语序为'鸡于桑树颠鸣'"
             }
           ]
         }
@@ -891,90 +643,65 @@
             {
               "char": "户",
               "pinyin": "hù",
-              "index": 96,
-              "read": false,
-              "write": false
+              "index": 96
             },
             {
               "char": "庭",
               "pinyin": "tíng",
-              "index": 97,
-              "read": false,
-              "write": false
+              "index": 97
             },
             {
               "char": "无",
               "pinyin": "wú",
-              "index": 98,
-              "read": false,
-              "write": false
+              "index": 98
             },
             {
               "char": "尘",
               "pinyin": "chén",
-              "index": 99,
-              "read": false,
-              "write": false
+              "index": 99
             },
             {
               "char": "杂",
               "pinyin": "zá",
-              "index": 100,
-              "read": false,
-              "write": false
+              "index": 100
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 101,
-              "read": false,
-              "write": false
+              "index": 101
             },
             {
               "char": "虚",
               "pinyin": "xū",
-              "index": 102,
-              "read": false,
-              "write": false
+              "index": 102
             },
             {
               "char": "室",
               "pinyin": "shì",
-              "index": 103,
-              "read": false,
-              "write": false
+              "index": 103
             },
             {
               "char": "有",
               "pinyin": "yǒu",
-              "index": 104,
-              "read": false,
-              "write": false
+              "index": 104
             },
             {
               "char": "余",
               "pinyin": "yú",
-              "index": 105,
-              "read": false,
-              "write": false
+              "index": 105
             },
             {
               "char": "闲",
               "pinyin": "xián",
-              "index": 106,
-              "read": false,
-              "write": false
+              "index": 106
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 107,
-              "read": false,
-              "write": false
+              "index": 107
             }
           ],
           "translation": "庭院内没有尘俗杂事烦扰，静室里有的是安适悠闲。",
-          "pinyin": "hù tíng wú chén zá ， xū shì yǒu yú xián 。",
           "notes": [
             {
               "start": 0,
@@ -1007,90 +734,65 @@
             {
               "char": "久",
               "pinyin": "jiǔ",
-              "index": 108,
-              "read": false,
-              "write": false
+              "index": 108
             },
             {
               "char": "在",
               "pinyin": "zài",
-              "index": 109,
-              "read": false,
-              "write": false
+              "index": 109
             },
             {
               "char": "樊",
               "pinyin": "fán",
-              "index": 110,
-              "read": false,
-              "write": false
+              "index": 110
             },
             {
               "char": "笼",
               "pinyin": "lóng",
-              "index": 111,
-              "read": false,
-              "write": false
+              "index": 111
             },
             {
               "char": "里",
               "pinyin": "lǐ",
-              "index": 112,
-              "read": false,
-              "write": false
+              "index": 112
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 113,
-              "read": false,
-              "write": false
+              "index": 113
             },
             {
               "char": "复",
               "pinyin": "fù",
-              "index": 114,
-              "read": false,
-              "write": false
+              "index": 114
             },
             {
               "char": "得",
               "pinyin": "dé",
-              "index": 115,
-              "read": false,
-              "write": false
+              "index": 115
             },
             {
               "char": "返",
               "pinyin": "fǎn",
-              "index": 116,
-              "read": false,
-              "write": false
+              "index": 116
             },
             {
               "char": "自",
               "pinyin": "zì",
-              "index": 117,
-              "read": false,
-              "write": false
+              "index": 117
             },
             {
               "char": "然",
               "pinyin": "rán",
-              "index": 118,
-              "read": false,
-              "write": false
+              "index": 118
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 119,
-              "read": false,
-              "write": false
+              "index": 119
             }
           ],
           "translation": "久久困于官场生活，毫无自由，我今日总算又归耕园田。",
-          "pinyin": "jiǔ zài fán lóng lǐ ， fù dé fǎn zì rán 。",
           "notes": [
             {
               "start": 2,
@@ -1109,5 +811,8 @@
     "山水田园"
   ],
   "background": "陶渊明任官十三年，却一直厌恶官场，向往田园。他在公元405年（义熙元年），即四十一岁时最后一次出仕，做了八十多天的彭泽县令即辞官回家。以后再也没有出来做官。归来后，作《归园田居》诗一组。本诗就是其中一首。",
-  "appreciation": "这首诗是《归园田居》中第一首。诗中描写田园风光运用白描手法，远近景相交，语言明白清新，几如白话，质朴无华。全诗以追悔开始，以庆幸结束，追悔自己“误落尘网”“久在樊笼”的压抑与痛苦，庆幸自己终“归园田”、复“返自然”的惬意与欢欣，真切表达了诗人对污浊官场的厌恶，对山林隐居生活的无限向往与怡然陶醉，流露出如释重负的心情，表达了对自然和自由的热爱。"
+  "appreciation": "这首诗是《归园田居》中第一首。诗中描写田园风光运用白描手法，远近景相交，语言明白清新，几如白话，质朴无华。全诗以追悔开始，以庆幸结束，追悔自己“误落尘网”“久在樊笼”的压抑与痛苦，庆幸自己终“归园田”、复“返自然”的惬意与欢欣，真切表达了诗人对污浊官场的厌恶，对山林隐居生活的无限向往与怡然陶醉，流露出如释重负的心情，表达了对自然和自由的热爱。",
+  "annotation": "少：指少年时代。适俗：适应世俗。韵：气质、情致。一作“愿”。丘山：指山林。尘网：世俗的种种束缚。三十年：有人认为是“十三年”之误（陶渊明做官十三年）。一说，此处是三又十年之意（习惯说法是十又三年），诗人意感“一去十三年”音调嫌平，故将十三年改为倒文。羁（jī）鸟：笼中之鸟。恋：一作“眷”。池鱼：池塘之鱼。鸟恋旧林、鱼思故渊，借喻自己怀恋旧居。南野：南面的田野。一作“南亩”，指农田。野：一作“亩”。际：间。守拙（zhuō）：意思是不随波逐流，固守节操。方宅：宅地方圆。一说，“方”通“旁”。荫（yìn）：遮蔽。罗：罗列。暧暧（ài）：迷蒙隐约的样子。依依：轻柔而缓慢的飘升。墟里：村落。颠：顶端。户庭：门户庭院。尘杂：尘俗杂事。虚室：空室，比喻心境。余闲：闲暇。樊（fán）笼：蓄鸟工具，这里比喻官场生活。樊，藩篱，栅栏。返自然：指归耕园田。",
+  "comprehensive_appreciation": "赏析：公元405年（东晋安帝义熙元年），陶渊明在江西彭泽做县令，不过八十多天，便声称不愿“为五斗米向乡里小儿折腰”，挂印回家。从此结束了时隐时仕、身不由己的生活，终老田园。归来后，作《归园田居》诗一组，共五首，描绘田园风光的美好与农村生活的淳朴可爱 ，抒发归隐后愉悦的心情。这是第一首。主要是以追悔开始，以庆幸结束，追悔自己“误落尘网”、“久在樊笼”的压抑与痛苦，庆幸自己终“归园田”、复“返自然”的惬意与欢欣，真切表达了诗人对污浊官场的厌恶，对山林隐居生活的无限向往与怡然陶醉。“少无适俗韵，性本爱丘山。”所谓“适俗韵”无非是逢迎世俗、周旋应酬、钻营取巧的那种情态、那种本领，这是诗人从来就未曾学会的东西。作为一个真诚率直的人，其本性与淳朴的乡村、宁静的自然，似乎有一种内在的共通之处，所以“爱丘山”。前二句表露了作者清高孤傲、与世不合的性格，看破官场后，执意离开，对官场黑暗的不满和绝望。为全诗定下一个基调，同时又是一个伏笔，它是诗人进入官场却终于辞官归田的根本原因。“误落尘网中，一去三十年。”尘网：尘世的罗网。“三十年”应该是“十三年”，他从开始作江州祭酒，到辞去彭泽县令，前后一共十三年。所以“一去三十年”是“一去十三年”的夸词。这两句是说，自己不得已出去做官，一去就是十三年。起首四句，先说个性与既往人生道路的冲突。“适俗韵”无非是指逢迎世俗、周旋应酬、钻营取巧的那种情态、那种本领吧，这是诗人从来就未曾学会的东西。作为一个真诚率直的人，其本性与淳朴的乡村、宁静的自然，似乎有一种内在的共同之处，所以“爱丘山”。前两句表现了作者清高孤傲、与世不合的性格，为全诗定下了一个基调，同时又是一个伏笔，它是诗人进入官场却终于辞官归田的根本原因。但是人生常不得已，作为一个官宦人家的子弟，步入仕途乃是通常的选择；作为一个熟读儒家经书，欲在社会中寻求成功的知识分子，也必须进入社会的权力组织；便是为了供养家小、维持较舒适的日常生活，也需要做官。所以不能不违背自己的本性，奔波于官场。回头想起来，那是误入歧途，误入了束缚人性而又肮脏无聊的世俗之网。“羁鸟恋旧林，池鱼思故渊。”羁鸟：被束缚的鸟。池鱼：水池里养的鱼。故渊：指鱼儿原先生活的水潭。这两句是说，关在笼中的鸟儿依恋居住过的山林，养在池中的鱼儿思念生活过的深潭。“开荒南野际，守拙归园田。”际：间。拙：笨拙。自谦之词，与世俗的机巧相对而言。这两句是说，到南边的原野里去开荒，依着愚拙的心性回家耕种田园。这四句是两种生活之间的过渡，前两句集中描写做官时的心情，从上文转接下来，语气顺畅，毫无阻隔。因为连用两个相似的比喻，又是对仗的句式，便强化了厌倦旧生活，向往新生活的情绪；再从这里转接下文，就显得自然妥帖，丝毫不着痕迹了。“方宅十余亩，草屋八九间”，是简笔的勾勒，以此显出主人生活的简朴。但虽无雕梁画栋之堂皇宏丽，却有榆树柳树的绿荫笼罩于屋后，桃花李花竞艳于堂前，素淡与绚丽交掩成趣。“暧暧远人村，依依墟里烟。”暧暧，是模糊不清的样子，村落相隔很远，所以显得模糊，就像国画家画远景时，往往也是淡淡勾上几笔水墨一样。依依，形容炊烟轻柔而缓慢地向上飘升。这两句所描写的景致，给人以平静安详的感觉，好像这世界不受任何力量的干扰。“狗吠深巷中，鸡鸣桑树颠”，一下子将这幅美好的田园画活起来了。这二句套用汉乐府《鸡鸣》“鸡鸣高树颠，狗吠深宫中”而稍加变化。但诗人绝无用典炫博的意思，不过是信手拈来。他不写虫吟鸟唱，却写了极为平常的鸡鸣狗吠，因为这鸡犬之声相闻，才最富有农村环境的特征，和整个画面也最为和谐统一。隐隐之中，是否也渗透了《老子》所谓“小国寡民”、“鸡犬之声相闻，民老死不相往来”的理想社会观念，那也难说。单从诗境本身来看，这二笔是不可缺少的。它恰当地表现出农村的生活气息，又丝毫不破坏那一片和平的意境，没有喧嚣和烦躁之感。以此比较王籍的名句“蝉噪林逾静，鸟鸣山更幽”，那种为人传诵的所谓“以动写静”的笔法，未免太强调、太吃力。这八句是写归隐之后的生活，好像诗人带着我们在他的田园里参观一番，他指东道西地向我们一一介绍：田亩、草屋、榆柳、桃李、远村、近烟、狗吠、鸡鸣。这些平平常常的景物，一经诗人点化，都添了无穷的情趣。“户庭无尘杂，虚室有余闲。”尘杂是指尘俗杂事，虚室就是静室。既是做官，总不免有许多自己不愿干的蠢事，许多无聊应酬吧。如今可是全都摆脱了，在虚静的居所里生活得很悠闲。不过，最令作者愉快的，倒不在这悠闲，而在于从此可以按照自己的意愿生活。“久在樊笼里，复得返自然。”自然，既是指自然的环境，又是指顺适本性、无所扭曲的生活。这两句再次同开头“少无适俗韵，性本爱丘山”相呼应，同时又是点题之笔，揭示出《归园田居》的主旨。但这一呼应与点题，丝毫不觉勉强。全诗从对官场生活的强烈厌倦，写到田园风光的美好动人，新生活的愉快，一种如释重负的心情自然而然地流露了出来。这样的结尾，既是用笔精细，又是顺理成章。这首诗最突出的是写景———描写园田风光运用白描手法远近景相交，有声有色；其次，诗中多处运用对偶句，如：“榆柳荫后檐，桃李罗堂前。”还有对比手法的运用，将“尘网”“樊笼”与“园田居”对比，从而突出诗人对官场的厌恶、对自然的热爱；再有语言明白清新，几如白话，质朴无华。这首诗呈现出一个完整的意境，诗的语言完全为呈现这意境服务，不求表面的好看，于是诗便显得自然。总之，这是经过艺术追求、艺术努力而达到的自然。",
+  "knowledge": ""
 }

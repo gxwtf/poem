@@ -21,20 +21,20 @@
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "gōng"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "公",
-              "pinyin": "sūn"
+              "pinyin": "gōng"
             },
             {
               "char": "孙",
-              "pinyin": "yǎn"
+              "pinyin": "sūn"
             },
             {
               "char": "衍",
-              "pinyin": "zhāng"
+              "pinyin": "yǎn"
             },
             {
               "char": "、",
@@ -42,73 +42,75 @@
             },
             {
               "char": "张",
-              "pinyin": "yí"
+              "pinyin": "zhāng"
             },
             {
               "char": "仪",
-              "pinyin": "qǐ"
+              "pinyin": "yí"
             },
             {
               "char": "岂",
-              "pinyin": "bù"
+              "pinyin": "qǐ"
             },
             {
               "char": "不",
-              "pinyin": "chéng"
+              "pinyin": "bù"
             },
             {
               "char": "诚",
-              "pinyin": "dà",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "诚：确实、真正，加强反问语气。"
-                }
-              ]
+              "pinyin": "chéng"
             },
             {
               "char": "大",
-              "pinyin": "zhàng"
+              "pinyin": "dà"
             },
             {
               "char": "丈",
-              "pinyin": "fū"
+              "pinyin": "zhàng"
             },
             {
               "char": "夫",
-              "pinyin": "zāi"
+              "pinyin": "fū"
             },
             {
               "char": "哉",
-              "pinyin": "yī"
+              "pinyin": "zāi"
             },
             {
               "char": "？",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "景春说：“公孙衍、张仪难道不是真正的有大志、有作为、有气节的男子吗？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "一",
-              "pinyin": "nù"
+              "pinyin": "yī"
             },
             {
               "char": "怒",
-              "pinyin": "ér"
+              "pinyin": "nù"
             },
             {
               "char": "而",
-              "pinyin": "zhū"
+              "pinyin": "ér"
             },
             {
               "char": "诸",
-              "pinyin": "hóu"
+              "pinyin": "zhū"
             },
             {
               "char": "侯",
-              "pinyin": "jù"
+              "pinyin": "hóu"
             },
             {
               "char": "惧",
-              "pinyin": "ān"
+              "pinyin": "jù"
             },
             {
               "char": "，",
@@ -116,47 +118,41 @@
             },
             {
               "char": "安",
-              "pinyin": "jū"
+              "pinyin": "ān"
             },
             {
               "char": "居",
-              "pinyin": "ér"
+              "pinyin": "jū"
             },
             {
               "char": "而",
-              "pinyin": "tiān"
+              "pinyin": "ér"
             },
             {
               "char": "天",
-              "pinyin": "xià"
+              "pinyin": "tiān"
             },
             {
               "char": "下",
-              "pinyin": "xī"
+              "pinyin": "xià"
             },
             {
               "char": "熄",
-              "pinyin": "mèng"
+              "pinyin": "xī"
             },
             {
               "char": "。",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "zǐ"
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "景春说：\"公孙衍、张仪难道不真是大丈夫吗？一发怒诸侯都恐惧，一安坐天下便太平。\""
+            "translation": "他们一发怒，连诸侯都害怕，他们安静下来，天下就太平无事。”"
           },
-          "notes": [
-            {
-              "start": 14,
-              "end": 16,
-              "note": "大丈夫：指有理想、有节操、不为外物所动的男子，非现代泛指成年男性。"
-            }
-          ]
+          "notes": []
         }
       ]
     },
@@ -166,103 +162,119 @@
           "sentence": [
             {
               "char": "孟",
-              "pinyin": "yuē"
+              "pinyin": "mèng"
             },
             {
               "char": "子",
-              "pinyin": "shì"
+              "pinyin": "zǐ"
             },
             {
               "char": "曰",
-              "pinyin": "yān"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "\"",
-              "pinyin": "dé"
+              "char": "“",
+              "pinyin": "　"
             },
             {
               "char": "是",
-              "pinyin": "wéi"
+              "pinyin": "shì"
             },
             {
               "char": "焉",
-              "pinyin": "dà"
+              "pinyin": "yān"
             },
             {
               "char": "得",
-              "pinyin": "zhàng"
+              "pinyin": "dé"
             },
             {
               "char": "为",
-              "pinyin": "fū"
+              "pinyin": "wéi"
             },
             {
               "char": "大",
-              "pinyin": "hū"
+              "pinyin": "dà"
             },
             {
               "char": "丈",
-              "pinyin": "zǐ"
-            },
-            {
-              "char": "夫",
-              "pinyin": "wèi"
-            },
-            {
-              "char": "乎",
-              "pinyin": "xué"
-            },
-            {
-              "char": "？",
-              "pinyin": "　"
-            },
-            {
-              "char": "子",
-              "pinyin": "lǐ"
-            },
-            {
-              "char": "未",
-              "pinyin": "hū"
-            },
-            {
-              "char": "学",
               "pinyin": "zhàng"
             },
             {
-              "char": "礼",
+              "char": "夫",
               "pinyin": "fū"
             },
             {
               "char": "乎",
-              "pinyin": "zhī"
+              "pinyin": "hū"
             },
             {
               "char": "？",
               "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "孟子说：“这哪里能算是有大志、有作为、有气节的男子呢？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "子",
+              "pinyin": "zǐ"
             },
             {
+              "char": "未",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "学",
+              "pinyin": "xué"
+            },
+            {
+              "char": "礼",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "乎",
+              "pinyin": "hū"
+            },
+            {
+              "char": "？",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "你没有学过礼吗？"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
               "char": "丈",
-              "pinyin": "guàn"
+              "pinyin": "zhàng"
             },
             {
               "char": "夫",
-              "pinyin": "yě"
+              "pinyin": "fū"
             },
             {
               "char": "之",
-              "pinyin": "fù"
+              "pinyin": "zhī"
             },
             {
               "char": "冠",
-              "pinyin": "mìng"
+              "pinyin": "guàn"
             },
             {
               "char": "也",
-              "pinyin": "zhī"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -270,17 +282,11 @@
             },
             {
               "char": "父",
-              "pinyin": "nǚ"
+              "pinyin": "fù"
             },
             {
               "char": "命",
-              "pinyin": "zǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "命：训导、教诲，非命令，体现家庭教育中的礼仪内涵。"
-                }
-              ]
+              "pinyin": "mìng"
             },
             {
               "char": "之",
@@ -289,26 +295,34 @@
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "男子举行加冠礼的时候，父亲给予训导；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "女",
-              "pinyin": "jià"
+              "pinyin": "nǚ"
             },
             {
               "char": "子",
-              "pinyin": "yě"
+              "pinyin": "zǐ"
             },
             {
               "char": "之",
-              "pinyin": "mǔ"
+              "pinyin": "zhī"
             },
             {
               "char": "嫁",
-              "pinyin": "mìng"
+              "pinyin": "jià"
             },
             {
               "char": "也",
-              "pinyin": "zhī"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -316,10 +330,26 @@
             },
             {
               "char": "母",
-              "pinyin": "wǎng"
+              "pinyin": "mǔ"
             },
             {
               "char": "命",
+              "pinyin": "mìng"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "往",
+              "pinyin": "wǎng"
+            },
+            {
+              "char": "送",
               "pinyin": "sòng"
             },
             {
@@ -327,15 +357,15 @@
               "pinyin": "zhī"
             },
             {
+              "char": "门",
+              "pinyin": "mén"
+            },
+            {
               "char": "，",
               "pinyin": "　"
             },
             {
-              "char": "往",
-              "pinyin": "mén"
-            },
-            {
-              "char": "送",
+              "char": "戒",
               "pinyin": "jiè"
             },
             {
@@ -343,54 +373,32 @@
               "pinyin": "zhī"
             },
             {
-              "char": "门",
-              "pinyin": "yuē"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "戒",
-              "pinyin": "wǎng"
-            },
-            {
-              "char": "之",
-              "pinyin": "zhī",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "戒：通‘诫’，告诫；后文‘必敬必戒’中‘戒’意为谨慎。"
-                }
-              ]
-            },
-            {
               "char": "曰",
-              "pinyin": "rǔ"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
               "pinyin": "　"
             },
             {
-              "char": "'",
-              "pinyin": "jiā"
+              "char": "‘",
+              "pinyin": "　"
             },
             {
               "char": "往",
-              "pinyin": "bì"
+              "pinyin": "wǎng"
             },
             {
               "char": "之",
-              "pinyin": "jìng"
+              "pinyin": "zhī"
             },
             {
               "char": "女",
-              "pinyin": "bì"
+              "pinyin": "rǔ"
             },
             {
               "char": "家",
-              "pinyin": "jiè"
+              "pinyin": "jiā"
             },
             {
               "char": "，",
@@ -398,19 +406,19 @@
             },
             {
               "char": "必",
-              "pinyin": "wú"
+              "pinyin": "bì"
             },
             {
               "char": "敬",
-              "pinyin": "wéi"
+              "pinyin": "jìng"
             },
             {
               "char": "必",
-              "pinyin": "fū"
+              "pinyin": "bì"
             },
             {
               "char": "戒",
-              "pinyin": "zǐ"
+              "pinyin": "jiè"
             },
             {
               "char": "，",
@@ -418,53 +426,55 @@
             },
             {
               "char": "无",
-              "pinyin": "yǐ",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "戒：此处为谨慎之意，与前‘戒之曰’中‘告诫’略有不同。"
-                }
-              ]
+              "pinyin": "wú"
             },
             {
               "char": "违",
-              "pinyin": "shùn"
-            },
-            {
-              "char": "夫",
               "pinyin": "wéi"
             },
             {
+              "char": "夫",
+              "pinyin": "fū"
+            },
+            {
               "char": "子",
-              "pinyin": "zhèng"
+              "pinyin": "zǐ"
             },
             {
               "char": "！",
               "pinyin": "　"
             },
             {
-              "char": "'",
-              "pinyin": "zhě"
-            },
+              "char": "’",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "女子出嫁时，母亲给予训导，送她到门口，告诫她说：‘到了你的丈夫的家里，一定要恭敬，一定要谨慎，不要违背你的丈夫！’"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "以",
-              "pinyin": "qiè"
+              "pinyin": "yǐ"
             },
             {
               "char": "顺",
-              "pinyin": "fù"
+              "pinyin": "shùn"
             },
             {
               "char": "为",
-              "pinyin": "zhī"
+              "pinyin": "wéi"
             },
             {
               "char": "正",
-              "pinyin": "dào"
+              "pinyin": "zhèng"
             },
             {
               "char": "者",
-              "pinyin": "yě"
+              "pinyin": "zhě"
             },
             {
               "char": "，",
@@ -472,23 +482,23 @@
             },
             {
               "char": "妾",
-              "pinyin": "jū"
+              "pinyin": "qiè"
             },
             {
               "char": "妇",
-              "pinyin": "tiān"
+              "pinyin": "fù"
             },
             {
               "char": "之",
-              "pinyin": "xià"
-            },
-            {
-              "char": "道",
               "pinyin": "zhī"
             },
             {
+              "char": "道",
+              "pinyin": "dào"
+            },
+            {
               "char": "也",
-              "pinyin": "guǎng"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -496,20 +506,9 @@
             }
           ],
           "translation": {
-            "translation": "孟子说：\"这怎能算大丈夫？你没学礼制吗？男子行冠礼时，父亲训导；女子出嫁时，母亲训诫，送别时叮嘱：'到了夫家，必恭敬必谨慎，不违丈夫意愿！'以顺从为标准，只是妇道。"
+            "translation": "把顺从当作做人的原则，是妾妇之道。"
           },
-          "notes": [
-            {
-              "start": 23,
-              "end": 24,
-              "note": "冠：古代男子二十岁行加冠礼，表示成年，此处用作动词，读guàn。"
-            },
-            {
-              "start": 72,
-              "end": 74,
-              "note": "妾妇之道：比喻顺从权势、丧失独立人格的行为准则，孟子以此批评纵横家。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
@@ -519,23 +518,23 @@
             },
             {
               "char": "天",
-              "pinyin": "lì"
-            },
-            {
-              "char": "下",
               "pinyin": "tiān"
             },
             {
-              "char": "之",
+              "char": "下",
               "pinyin": "xià"
             },
             {
-              "char": "广",
+              "char": "之",
               "pinyin": "zhī"
             },
             {
+              "char": "广",
+              "pinyin": "guǎng"
+            },
+            {
               "char": "居",
-              "pinyin": "zhèng"
+              "pinyin": "jū"
             },
             {
               "char": "，",
@@ -543,27 +542,27 @@
             },
             {
               "char": "立",
-              "pinyin": "wèi"
+              "pinyin": "lì"
             },
             {
               "char": "天",
-              "pinyin": "xíng"
-            },
-            {
-              "char": "下",
               "pinyin": "tiān"
             },
             {
-              "char": "之",
+              "char": "下",
               "pinyin": "xià"
             },
             {
-              "char": "正",
+              "char": "之",
               "pinyin": "zhī"
             },
             {
+              "char": "正",
+              "pinyin": "zhèng"
+            },
+            {
               "char": "位",
-              "pinyin": "dà"
+              "pinyin": "wèi"
             },
             {
               "char": "，",
@@ -571,27 +570,27 @@
             },
             {
               "char": "行",
-              "pinyin": "dào"
+              "pinyin": "xíng"
             },
             {
               "char": "天",
-              "pinyin": "dé"
+              "pinyin": "tiān"
             },
             {
               "char": "下",
-              "pinyin": "zhì"
+              "pinyin": "xià"
             },
             {
               "char": "之",
-              "pinyin": "yǔ"
+              "pinyin": "zhī"
             },
             {
               "char": "大",
-              "pinyin": "mín"
+              "pinyin": "dà"
             },
             {
               "char": "道",
-              "pinyin": "yóu"
+              "pinyin": "dào"
             },
             {
               "char": "。",
@@ -599,35 +598,19 @@
             }
           ],
           "translation": {
-            "translation": "（大丈夫）该居仁心这广厦，立礼法这正位，行道义这大道。"
+            "translation": "（大丈夫应该）住进天下最宽广的住宅——仁，站在天下最正确的位置——礼，走天下最正确的道路——义。"
           },
-          "notes": [
-            {
-              "start": 4,
-              "end": 6,
-              "note": "广居：比喻‘仁’，即心怀仁德，居于天下最宽广的住所。"
-            },
-            {
-              "start": 11,
-              "end": 13,
-              "note": "正位：比喻‘礼’，即立于天下最正当的位置，符合礼制。"
-            },
-            {
-              "start": 18,
-              "end": 20,
-              "note": "大道：比喻‘义’，即践行天下最光明正大的道义。"
-            }
-          ]
+          "notes": []
         },
         {
           "sentence": [
             {
               "char": "得",
-              "pinyin": "zhī"
+              "pinyin": "dé"
             },
             {
               "char": "志",
-              "pinyin": "bù"
+              "pinyin": "zhì"
             },
             {
               "char": "，",
@@ -635,41 +618,43 @@
             },
             {
               "char": "与",
-              "pinyin": "dé"
+              "pinyin": "yǔ"
             },
             {
               "char": "民",
-              "pinyin": "zhì"
+              "pinyin": "mín"
             },
             {
               "char": "由",
-              "pinyin": "dú",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "由：遵从、实行，指与百姓共同实践理想之道。"
-                }
-              ]
+              "pinyin": "yóu"
             },
             {
               "char": "之",
-              "pinyin": "xíng"
+              "pinyin": "zhī"
             },
             {
               "char": "；",
               "pinyin": "　"
-            },
+            }
+          ],
+          "translation": {
+            "translation": "（大丈夫）能实现理想时，就同百姓一起走这条正道；"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
             {
               "char": "不",
-              "pinyin": "qí"
+              "pinyin": "bù"
             },
             {
               "char": "得",
-              "pinyin": "dào"
+              "pinyin": "dé"
             },
             {
               "char": "志",
-              "pinyin": "fù"
+              "pinyin": "zhì"
             },
             {
               "char": "，",
@@ -677,19 +662,19 @@
             },
             {
               "char": "独",
-              "pinyin": "guì"
+              "pinyin": "dú"
             },
             {
               "char": "行",
-              "pinyin": "bù"
+              "pinyin": "xíng"
             },
             {
               "char": "其",
-              "pinyin": "néng"
+              "pinyin": "qí"
             },
             {
               "char": "道",
-              "pinyin": "yín"
+              "pinyin": "dào"
             },
             {
               "char": "。",
@@ -697,7 +682,7 @@
             }
           ],
           "translation": {
-            "translation": "得志时，与民共行正道；不得志，独守个人原则。"
+            "translation": "不能实现理想时，就独自走自己的道路。"
           },
           "notes": []
         },
@@ -705,11 +690,11 @@
           "sentence": [
             {
               "char": "富",
-              "pinyin": "pín"
+              "pinyin": "fù"
             },
             {
               "char": "贵",
-              "pinyin": "jiàn"
+              "pinyin": "guì"
             },
             {
               "char": "不",
@@ -721,25 +706,19 @@
             },
             {
               "char": "淫",
-              "pinyin": "yí"
+              "pinyin": "yín"
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "淫：使……迷惑，指富贵使人丧失节操，非指性行为。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
               "char": "贫",
-              "pinyin": "wēi"
+              "pinyin": "pín"
             },
             {
               "char": "贱",
-              "pinyin": "wǔ"
+              "pinyin": "jiàn"
             },
             {
               "char": "不",
@@ -751,77 +730,71 @@
             },
             {
               "char": "移",
+              "pinyin": "yí"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "威",
+              "pinyin": "wēi"
+            },
+            {
+              "char": "武",
+              "pinyin": "wǔ"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "屈",
               "pinyin": "qū"
             },
             {
               "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "移：使……改变，指贫贱不能改变其志向。"
-                }
-              ]
-            },
-            {
-              "char": "威",
-              "pinyin": "cǐ"
-            },
-            {
-              "char": "武",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "不",
-              "pinyin": "wèi"
-            },
-            {
-              "char": "能",
-              "pinyin": "dà"
-            },
-            {
-              "char": "屈",
-              "pinyin": "zhàng"
-            },
-            {
-              "char": "，",
-              "pinyin": "　",
-              "note": [
-                {
-                  "title": "注释",
-                  "content": "屈：使……屈服，指武力威胁不能使其低头。"
-                }
-              ]
+              "pinyin": "　"
             },
             {
               "char": "此",
+              "pinyin": "cǐ"
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "谓",
+              "pinyin": "wèi"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "丈",
+              "pinyin": "zhàng"
+            },
+            {
+              "char": "夫",
               "pinyin": "fū"
-            },
-            {
-              "char": "之"
-            },
-            {
-              "char": "谓"
-            },
-            {
-              "char": "大"
-            },
-            {
-              "char": "丈"
-            },
-            {
-              "char": "夫"
             },
             {
               "char": "。",
               "pinyin": "　"
             },
             {
-              "char": "\""
+              "char": "”",
+              "pinyin": "　"
             }
           ],
           "translation": {
-            "translation": "富贵不能惑其心，贫贱不能改其志，威武不能屈其节，这才叫大丈夫。\""
+            "translation": "富贵不能使他的思想迷惑，贫贱不能使他的操守动摇，威武不能使他的意志屈服，这才叫做大丈夫。”"
           },
           "notes": []
         }
