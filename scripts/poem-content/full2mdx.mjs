@@ -6,19 +6,6 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-/**
- * 转义 Markdown/MDX 特殊字符
- * @param str 待转义字符串
- */
-function encode(str) {
-  if (!str) return "";
-  return str
-    .replace(/\\/g, "\\\\")
-    .replace(/(?<=.)(?<!\n)\s*([（(]\s*(?:\d+|[一二三四五六七八九十]+)\s*[）)]|[⑴-⒇])/g, "\n$1")
-    .replace(/\n/g, "\n\n")
-    .replace(/([`*_{}[\]()<>+.!|-])/g, "\\$1");
-}
-
 function convert(data) {
   // 构建基础 MDX 内容
   let mdxContent = `import { Meta } from '@/components/poem-meta';
@@ -61,12 +48,12 @@ import { PoemQuoteCard, PoemQuoteCards } from "@/components/poem-quote-card"
 　　${data.appreciation}
 `}
 
-  // 检查是否有推荐数据
-  if (data.appreciation && data.appreciation.length > 0) {
+  // 检查是否有文言知识数据（由 add_knowledge.mjs 从 knowledge.mdx 导入，文件本身已转义，可直接嵌入）
+  if (data.knowledge && data.knowledge.length > 0) {
     mdxContent += `
 ## 文言知识
 
-${encode(data.knowledge)}
+${data.knowledge}
 `}
 
   // 检查是否有推荐数据
