@@ -39,23 +39,78 @@ function getOrderFromFile(filePath: string): string[] {
     return []
 }
 
+interface SyncConfig<T> {
+    // 表名（用于日志/告警）
+    label: string
+    // 源数据列表
+    source: T[]
+    // 从源数据求自然键（用于去重 + 残留比对）
+    key: (item: T) => string
+    // 数据库对象，如 prisma.poem
+    delegate: any
+    // 源数据 → upsert 参数
+    build: (item: T) => { where: any; create: any; update: any }
+    // 从数据库已有行求自然键（用于残留比对）
+    dbKey: (row: any) => string
+    // 可选：残留行的可读描述，默认用 dbKey
+    describe?: (row: any) => string
+    // 可选：计算某行被引用的次数；缺省视为 0（无引用，直接清理，不告警）
+    refs?: (row: any) => Promise<number>
+}
+
+// 通用幂等同步：对源数据逐个 upsert、重复自然键告警，
+// 再按自然键 + refs 清理源数据中已移除的残留行
+async function syncTable<T>(config: SyncConfig<T>) {
+    const { label, source, key, delegate, build, dbKey, describe, refs } = config
+
+    // 源数据为空视为读取失败，跳过同步以免误删全表
+    if (source.length === 0) {
+        console.warn(`⚠️ ${label} 源数据为空，跳过同步`)
+        return
+    }
+
+    const seen = new Set<string>()
+    for (const item of source) {
+        const k = key(item)
+        if (seen.has(k)) {
+            console.log(`🚨 Duplicate detected: ${label} key=${k}`)
+            continue
+        }
+        seen.add(k)
+        const { where, create, update } = build(item)
+        await delegate.upsert({ where, create, update })
+    }
+
+    // 清理源数据中已移除的残留行
+    const removed: string[] = []
+    for (const row of await delegate.findMany()) {
+        if (seen.has(dbKey(row))) continue
+        const refCount = refs ? await refs(row) : 0
+        const desc = describe ? describe(row) : dbKey(row)
+        if (refCount > 0) {
+            console.warn(`⚠️ ${label}「${desc}」已从源数据移除，但仍被 ${refCount} 处引用，跳过删除`)
+            continue
+        }
+        await delegate.delete({ where: { id: row.id } })
+        removed.push(desc)
+    }
+    if (removed.length > 0) {
+        console.log(`🧹 清理已移除${label} ${removed.length} 条：${removed.join('、')}`)
+    }
+}
+
 export async function main() {
     const basePath = path.join(__dirname, '../src/data')
     
-    // 清空现有数据
-    // await prisma.checkIn.deleteMany() 
-    // await prisma.quote.deleteMany()
-    await prisma.star.deleteMany()
-    await prisma.sentenceStar.deleteMany()
-    await prisma.article.deleteMany()
-    await prisma.author.deleteMany()
-    await prisma.poem.deleteMany()
+    // 只清理重建内容型数据（event 无自然唯一键，按卷重建）；
+    // 用户数据（user/star/sentenceStar/checkIn）与 poem/article/author 一律不删除，
+    // 改用 upsert 幂等更新，避免清空用户收藏及其外键引用
     await prisma.event.deleteMany()
     
     // 处理名句数据 - 只添加新的quote记录
     const quotePath = path.join(basePath, 'quote', 'index.json')
     const quoteData = readJsonFile(quotePath)
-    
+
     if (quoteData && Array.isArray(quoteData)) {
         for (const quote of quoteData) {
             // 检查quote是否已存在
@@ -82,82 +137,119 @@ export async function main() {
     
     // 处理诗歌数据（junior & senior）
     const versions = ['junior', 'senior']
+    const poemSources: any[] = []
     for (const ver of versions) {
         const order = getOrderFromFile(path.join(basePath, `poem/${ver}/order.tsx`))
         for (const poemName of order) {
             const poemPath = path.join(basePath, `poem/${ver}`, poemName, 'index.json')
             const poemData = readJsonFile(poemPath)
-
             if (poemData) {
-                const exists = await prisma.poem.findFirst({
-                    where: {
-                        version: ver,
-                        title: poemData.title
-                    }
-                })
-
-                if (exists) {
-                    console.log(`🚨 Duplicate detected: version=${ver}, title=${poemData.title}`)
-                    continue
-                }
-
-                await prisma.poem.create({
-                    data: {
-                        title: poemData.title,
-                        version: ver,
-                        tags: poemData.tags || [],
-                        author: poemData.author,
-                        dynasty: poemData.dynasty,
-                        mode: poemData.mode || 'poem',
-                        content: poemData.content
-                    }
-                })
+                poemSources.push({ ver, data: poemData })
             }
         }
     }
+
+    // 清理源数据中已移除的诗文；被用户收藏（star/sentenceStar）引用的跳过
+    await syncTable({
+        label: '诗文',
+        source: poemSources,
+        key: (p) => `${p.ver}/${p.data.title}`,
+        delegate: prisma.poem,
+        build: (p) => {
+            const data = {
+                title: p.data.title,
+                version: p.ver,
+                tags: p.data.tags || [],
+                author: p.data.author,
+                dynasty: p.data.dynasty,
+                mode: p.data.mode || 'poem',
+                content: p.data.content
+            }
+            return {
+                where: { compoundId: { version: p.ver, title: p.data.title } },
+                create: data,
+                update: data
+            }
+        },
+        dbKey: (row) => `${row.version}/${row.title}`,
+        describe: (row) => `${row.title}（${row.version}）`,
+        refs: async (row) => {
+            const [starRefs, sentenceRefs] = await Promise.all([
+                prisma.star.count({ where: { poemId: row.id } }),
+                prisma.sentenceStar.count({ where: { poemId: row.id } })
+            ])
+            return starRefs + sentenceRefs
+        }
+    })
     
     // 处理文章数据
     const articleOrder = getOrderFromFile(path.join(basePath, 'article/order.tsx'))
+    const articleSources: any[] = []
     for (const articleName of articleOrder) {
         const articlePath = path.join(basePath, 'article', articleName, 'index.json')
         const articleData = readJsonFile(articlePath)
-        
-        if (articleData) {
-            await prisma.article.create({
-                data: {
-                    title: articleData.title,
-                    author: articleData.author,
-                    dynasty: articleData.dynasty,
-                    views: articleData.views || 0,
-                    abstract: articleData.abstract,
-                    content: articleData.content,
-                    img: articleData.img,
-                    tags: articleData.tags || []
-                }
-            })
-        }
+        if (articleData) articleSources.push(articleData)
     }
+
+    // 清理源数据中已移除的文章（无用户外键关联，refs 缺省即 0，直接清理）
+    await syncTable({
+        label: '文章',
+        source: articleSources,
+        key: (a) => a.title,
+        delegate: prisma.article,
+        build: (a) => {
+            const data = {
+                author: a.author,
+                dynasty: a.dynasty,
+                abstract: a.abstract,
+                content: a.content,
+                img: a.img,
+                tags: a.tags || []
+            }
+            return {
+                where: { title: a.title },
+                // views 是用户侧累计数据，仅在新建时初始化，更新时不覆盖
+                create: { title: a.title, views: a.views || 0, ...data },
+                update: data
+            }
+        },
+        dbKey: (row) => row.title,
+        describe: (row) => row.title
+    })
     
     // 处理作者数据
     const authorOrder = getOrderFromFile(path.join(basePath, 'author/order.tsx'))
+    const authorSources: any[] = []
     for (const authorName of authorOrder) {
         const authorPath = path.join(basePath, 'author', authorName, 'index.json')
         const authorData = readJsonFile(authorPath)
-        
-        if (authorData) {
-            await prisma.author.create({
-                data: {
-                    name: authorData.name,
-                    dynasty: authorData.dynasty,
-                    epithet: authorData.epithet,
-                    quote: authorData.quote,
-                    avatar: authorData.avatar,
-                    intro: authorData.intro,
-                    tags: authorData.tags || []
-                }
-            })
-        }
+        if (authorData) authorSources.push(authorData)
     }
+
+    // 清理源数据中已移除的作者（无用户外键关联，refs 缺省即 0，直接清理）
+    await syncTable({
+        label: '作者',
+        source: authorSources,
+        key: (a) => a.name,
+        delegate: prisma.author,
+        build: (a) => {
+            const data = {
+                dynasty: a.dynasty,
+                epithet: a.epithet,
+                quote: a.quote,
+                avatar: a.avatar,
+                intro: a.intro,
+                tags: a.tags || []
+            }
+            return {
+                where: { name: a.name },
+                create: { name: a.name, ...data },
+                update: data
+            }
+        },
+        dbKey: (row) => row.name,
+        describe: (row) => row.name
+    })
     
     // 处理历史事件数据
     const eventPath = path.join(basePath, 'event', 'index.json')
