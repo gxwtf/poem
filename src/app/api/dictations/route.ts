@@ -7,13 +7,15 @@ const prisma = new PrismaClient()
 export async function GET(request: NextRequest) {
     const { searchParams } = new URL(request.url)
     const sourceType = searchParams.get('sourceType')
+    const poemTitle = searchParams.get('poemTitle')
     // 分批拉取，1782 句 + 考察记录总量约 1MB，一次返回可接受
     const take = Math.min(parseInt(searchParams.get('take') || '2000', 10), 2000)
 
     try {
         const dictations = await prisma.dictation.findMany({
             where: {
-                sourceType: sourceType || undefined
+                sourceType: sourceType || undefined,
+                poemTitle: poemTitle || undefined
             },
             include: {
                         appearances: {

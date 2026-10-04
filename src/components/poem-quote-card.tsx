@@ -15,6 +15,7 @@ interface PoemQuoteCardProps {
     quote: string
     href?: string // 指定时优先于默认的相对跳转
     unlinked?: boolean // 为 true 时不跳转
+    onClick?: (e: React.MouseEvent) => void // 指定时替代默认跳转
     quoteExtra?: React.ReactNode // 正文下方附加内容
     footerExtra?: React.ReactNode // 页脚左侧附加内容
     footerNote?: React.ReactNode // 替代默认出处行
@@ -28,6 +29,7 @@ export function PoemQuoteCard({
     quote,
     href,
     unlinked,
+    onClick,
     quoteExtra,
     footerExtra,
     footerNote
@@ -35,9 +37,10 @@ export function PoemQuoteCard({
     const router = useRouter()
     return (
         <Card
-            className={`border-l-4 border-l-[var(--theme-color)] ${unlinked ? '' : 'cursor-pointer'}`}
+            className={`border-l-4 border-l-[var(--theme-color)] ${unlinked && !onClick ? '' : 'cursor-pointer'}`}
             onClick={(e) => {
                 if (unlinked) return
+                if (onClick) { onClick(e); return }
                 if (!(e.target as HTMLElement).closest('.no-navigate')) {
                     router.push(href || `../${version}/${title}`)
                 }

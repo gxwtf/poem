@@ -47,6 +47,34 @@ function getCharElements(container: HTMLElement): { els: HTMLElement[]; text: st
     return { els, text }
 }
 
+/** 按文本定位并加 jump-highlight：忽略标点/分行差异，只比较字母数字序列 */
+function jumpHighlightByText(container: HTMLElement, rawText: string): boolean {
+    const { els } = getCharElements(container)
+    const norm = (s: string) => s.replace(/[^\p{L}\p{N}]/gu, '')
+    const target = norm(rawText)
+    if (!target) return false
+    const idxMap: number[] = []
+    let normText = ''
+    els.forEach((el, i) => {
+        const c = norm(el.dataset.char ?? '')
+        if (c) {
+            normText += c
+            idxMap.push(i)
+        }
+    })
+    const idx = normText.indexOf(target)
+    if (idx === -1) return false
+    const first = idxMap[idx]
+    const last = idxMap[idx + target.length - 1]
+    // 清除旧定位高亮，避免多次点击残留
+    container.querySelectorAll(".jump-highlight").forEach(el => el.classList.remove("jump-highlight"))
+    for (let k = first; k <= last; k++) {
+        els[k].classList.add("jump-highlight")
+    }
+    els[first].scrollIntoView({ behavior: "smooth", block: "center" })
+    return true
+}
+
 export function TextHighlighter({ children, version, title }: TextHighlighterProps) {
     const containerRef = useRef<HTMLDivElement>(null)
     const observerRef = useRef<MutationObserver | null>(null)
@@ -224,34 +252,6 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         let attempts = 0
         let timer: ReturnType<typeof setTimeout> | undefined
 
-        // 按 highlight 文本匹配：忽略标点/分行差异，只比较汉字数字序列
-        const locateByText = (): boolean => {
-            const container = containerRef.current
-            if (!container) return false
-            const { els } = getCharElements(container)
-            const norm = (s: string) => s.replace(/[^\p{L}\p{N}]/gu, '')
-            const target = norm(scrollToText)
-            if (!target) return false
-            const idxMap: number[] = []
-            let normText = ''
-            els.forEach((el, i) => {
-                const c = norm(el.dataset.char ?? '')
-                if (c) {
-                    normText += c
-                    idxMap.push(i)
-                }
-            })
-            const idx = normText.indexOf(target)
-            if (idx === -1) return false
-            const first = idxMap[idx]
-            const last = idxMap[idx + target.length - 1]
-            for (let k = first; k <= last; k++) {
-                els[k].classList.add("jump-highlight")
-            }
-            els[first].scrollIntoView({ behavior: "smooth", block: "center" })
-            return true
-        }
-
         const run = () => {
             const container = containerRef.current
             if (container) {
@@ -263,7 +263,7 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
                         return
                     }
                 }
-                if (locateByText()) {
+                if (jumpHighlightByText(container, scrollToText)) {
                     hasScrolledRef.current = true
                     return
                 }
@@ -278,6 +278,20 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
         run()
         return () => clearTimeout(timer)
     }, [scrollToText, scrollOffset])
+
+    // 页内「默写常考句」卡片点击定位（DictationHot 派发的自定义事件）
+    useEffect(() => {
+        const handler = (e: Event) => {
+            const text = (e as CustomEvent<string>).detail
+            const container = containerRef.current
+            if (!container || typeof text !== 'string' || !text) return
+            if (!jumpHighlightByText(container, text)) {
+                toast.info("未能在正文中定位该句")
+            }
+        }
+        document.addEventListener("poem:jump-highlight", handler)
+        return () => document.removeEventListener("poem:jump-highlight", handler)
+    }, [])
 
     // 监听文本选择和点击
     useEffect(() => {

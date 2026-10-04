@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button"
 import { Paragraph, ParagraphData } from "./paragraph";
 import { Memorize } from "./memorize";
 import { MemorizeContext } from "./memorize-context";
+import { DictationHot } from "./dictation-hot";
 import { StarButton } from "../star";
 import { Book, BookOpen, Music, Music3, FileText, FileCheck, Scissors } from "lucide-react";
 import { usePathname } from "next/navigation";
@@ -137,6 +138,7 @@ export function PoemPreview({ data }: PoemPreviewProps) {
                         ))}
                     </div>
                 </MouseDownStatContextProvider>
+                <DictationHot />
             </div>
         </>
     )

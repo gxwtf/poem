@@ -1,11 +1,25 @@
 "use client"
 
 import React, { useEffect, useMemo, useState } from "react"
+import { CheckIcon, ChevronsUpDownIcon } from "lucide-react"
 import { SiteHeader } from "@/components/site-header"
 import { PoemQuoteCard, SkeletonPoemQuoteCard } from "@/components/poem-quote-card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Label } from "@/components/ui/label"
+import {
+    Popover,
+    PopoverContent,
+    PopoverTrigger,
+} from "@/components/ui/popover"
+import {
+    Command,
+    CommandEmpty,
+    CommandGroup,
+    CommandInput,
+    CommandItem,
+    CommandList,
+} from "@/components/ui/command"
 import {
     Select,
     SelectContent,
@@ -13,6 +27,7 @@ import {
     SelectTrigger,
     SelectValue,
 } from "@/components/ui/select"
+import { cn } from "@/lib/utils"
 
 interface Appearance {
     category: string
@@ -48,6 +63,8 @@ export default function DictationPage() {
     const [region, setRegion] = useState("all")
     const [category, setCategory] = useState("all")
     const [grade, setGrade] = useState("all")
+    const [title, setTitle] = useState("all")
+    const [titleOpen, setTitleOpen] = useState(false)
 
     useEffect(() => {
         fetch("/api/dictations")
@@ -82,7 +99,16 @@ export default function DictationPage() {
         })
     }, [dictations])
 
-    const filterActive = yearRange !== "all" || region !== "all" || category !== "all" || grade !== "all"
+    // 篇目选项：按句数降序
+    const titleOptions = useMemo(() => {
+        const count = new Map<string, number>()
+        for (const d of dictations) if (d.title) count.set(d.title, (count.get(d.title) || 0) + 1)
+        return [...count.entries()]
+            .sort((x, y) => y[1] - x[1] || x[0].localeCompare(y[0], "zh"))
+            .map(([name, count]) => ({ name, count }))
+    }, [dictations])
+
+    const filterActive = yearRange !== "all" || region !== "all" || category !== "all" || grade !== "all" || title !== "all"
 
     // 按筛选条件统计每句考察次数并排序
     const filtered = useMemo(() => {
@@ -96,13 +122,14 @@ export default function DictationPage() {
             )
             return { d, count: apps.length }
         })
-        const shown = filterActive ? rows.filter(r => r.count > 0) : rows
+        const byTitle = title === "all" ? rows : rows.filter(r => r.d.title === title)
+        const shown = filterActive ? byTitle.filter(r => r.count > 0) : byTitle
         shown.sort((x, y) => y.count - x.count || y.d.appearances.length - x.d.appearances.length || x.d.id - y.d.id)
         return shown
-    }, [dictations, yearRange, region, category, grade, filterActive, maxYear])
+    }, [dictations, yearRange, region, category, grade, title, filterActive, maxYear])
 
     // 筛选变化时重置分页
-    useEffect(() => setVisible(PAGE_SIZE), [yearRange, region, category, grade])
+    useEffect(() => setVisible(PAGE_SIZE), [yearRange, region, category, grade, title])
 
     return (
         <>
@@ -171,6 +198,45 @@ export default function DictationPage() {
                                     <SelectItem value="高一">高一</SelectItem>
                                 </SelectContent>
                             </Select>
+                        </div>
+                        <div className="space-y-1">
+                            <Label className="text-xs text-muted-foreground">篇目</Label>
+                            <Popover open={titleOpen} onOpenChange={setTitleOpen}>
+                                <PopoverTrigger asChild>
+                                    <Button variant="outline" className="w-40 justify-between font-normal">
+                                        <span className="truncate">{title === "all" ? "全部" : title}</span>
+                                        <ChevronsUpDownIcon className="size-4 shrink-0 opacity-50" />
+                                    </Button>
+                                </PopoverTrigger>
+                                <PopoverContent className="w-48 p-0" align="start">
+                                    <Command>
+                                        <CommandInput placeholder="搜索篇目…" />
+                                        <CommandList>
+                                            <CommandEmpty>未找到篇目</CommandEmpty>
+                                            <CommandGroup>
+                                                <CommandItem
+                                                    value="全部"
+                                                    onSelect={() => { setTitle("all"); setTitleOpen(false) }}
+                                                >
+                                                    <CheckIcon className={cn("size-4 shrink-0", title === "all" ? "opacity-100" : "opacity-0")} />
+                                                    全部
+                                                </CommandItem>
+                                                {titleOptions.map(({ name, count }) => (
+                                                    <CommandItem
+                                                        key={name}
+                                                        value={name}
+                                                        onSelect={() => { setTitle(name); setTitleOpen(false) }}
+                                                    >
+                                                        <CheckIcon className={cn("size-4 shrink-0", title === name ? "opacity-100" : "opacity-0")} />
+                                                        <span className="truncate">{name}</span>
+                                                        <span className="ml-auto text-xs text-muted-foreground">{count}</span>
+                                                    </CommandItem>
+                                                ))}
+                                            </CommandGroup>
+                                        </CommandList>
+                                    </Command>
+                                </PopoverContent>
+                            </Popover>
                         </div>
                         <div className="text-sm text-muted-foreground ml-auto pb-2">
                             共 {filtered.length} 句
