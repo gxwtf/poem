@@ -12,7 +12,6 @@
 /* 跳转定位高亮（?highlight= 文本匹配，如默写页/收藏页跳入） */
 [data-char].jump-highlight {
     background-color: oklch(0.92 0.07 95) !important;
-    border-radius: 2px;
 }
 
 .dark [data-char].jump-highlight {
