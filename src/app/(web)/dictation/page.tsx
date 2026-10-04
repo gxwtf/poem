@@ -74,6 +74,19 @@ export default function DictationPage() {
             .finally(() => setLoading(false))
     }, [])
 
+    // 从 URL ?title= 初始化篇目筛选（如 preview 常考句的"查看该篇目全部默写"链接）
+    useEffect(() => {
+        const t = new URLSearchParams(window.location.search).get("title")
+        if (t) setTitle(t)
+    }, [])
+
+    // 数据加载后校验：URL 传入的篇目不存在时回退全部
+    useEffect(() => {
+        if (dictations.length > 0 && title !== "all" && !dictations.some(d => d.title === title)) {
+            setTitle("all")
+        }
+    }, [dictations, title])
+
     // 数据中的最新年份，作为"近 N 年"基准
     const maxYear = useMemo(() => {
         let y = 0
