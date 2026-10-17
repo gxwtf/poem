@@ -6,7 +6,7 @@ import { useState, useContext, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { Paragraph, ParagraphData } from "./paragraph";
 import { Memorize } from "./memorize";
-import { MemorizeContext } from "./memorize-context";
+import { isMemorizeMode, MemorizeContext } from "./memorize-context";
 import { DictationHot } from "./dictation-hot";
 import { StarButton } from "../star";
 import { Book, BookOpen, Music, Music3, FileText, FileCheck, Scissors } from "lucide-react";
@@ -46,7 +46,7 @@ function ControlButtons({
                 {showPinyin ? <Music3 className="w-4 h-4" /> : <Music className="w-4 h-4" />}
                 <span className="hidden sm:inline">{showPinyin ? "隐藏拼音" : "显示拼音"}</span>
             </Button>
-            {isNaN(memorize) ? (
+            {!isMemorizeMode(memorize) ? (
                 <Button variant="outline" className="text-primary flex items-center gap-2" onClick={() => {
                     // 在 React 重新渲染前同步清除高亮属性，否则干扰 reconciliation 导致崩溃
                     (window as unknown as Record<string, unknown>).__poemHighlightSuspended = true
@@ -62,7 +62,7 @@ function ControlButtons({
                     <span className="hidden sm:inline">{showNotes ? "隐藏注释" : "显示注释"}</span>
                 </Button>
             ) : null}
-            {isNaN(memorize) ? (
+            {!isMemorizeMode(memorize) ? (
                 <Button asChild variant="outline" className="text-primary flex items-center gap-2">
                     <Link href={`/breaksentence/${version}/${title}`}>
                         <Scissors className="w-4 h-4" />
@@ -71,7 +71,7 @@ function ControlButtons({
                 </Button>
             ) : null}
             <Memorize></Memorize>
-            {isNaN(memorize) ? (
+            {!isMemorizeMode(memorize) ? (
                 <StarButton version={version} title={title}></StarButton>
             ) : null}
         </div>
@@ -98,7 +98,7 @@ export function PoemPreview({ data }: PoemPreviewProps) {
     const { memorize } = useContext(MemorizeContext);
 
     useEffect(() => {
-        if (isNaN(memorize)) setShowNotes(true);
+        if (!isMemorizeMode(memorize)) setShowNotes(true);
         else {
             // 背诵模式切换时也需要清除高亮属性
             (window as unknown as Record<string, unknown>).__poemHighlightSuspended = true

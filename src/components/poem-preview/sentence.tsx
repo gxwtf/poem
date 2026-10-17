@@ -2,8 +2,11 @@
 
 // 古诗文句子组件
 
+import { useContext, useMemo } from "react"
 import { Char, CharData } from "./char"
 import { WordNotePopover } from "./word-note"
+import { isSentenceHideMode, MemorizeContext, sentenceHideDifficulty } from "./memorize-context"
+import { computeUnitHidingMask, isPunctuation } from "@/lib/poem-text"
 
 
 export type NoteBlock = {
@@ -15,35 +18,6 @@ export type NoteBlock = {
 export type TranslationData = {
     translation: string
     highlight?: boolean
-}
-
-// 判断是否是首字：每个小短句的首个汉字
-// 小短句以句号、叹号、问号等分隔，每个新句子的第一个非标点字符是首字
-function isFirstCharInSentence(charIndex: number, sentence: CharData[]): boolean {
-    if (charIndex === 0) {
-        // 第一个字符如果是汉字，就是首字
-        return !isPunctuation((sentence[charIndex] as CharData).char);
-    }
-
-    // 往前找，如果前面有标点符号，且标点后第一个汉字是当前字符
-    for (let i = charIndex - 1; i >= 0; i--) {
-        const c = (sentence[i] as CharData).char;
-        if (isPunctuation(c)) {
-            // 这是一个标点符号，如果从后一个位置到当前字符之前都是标点，那么当前字符是首字
-            for (let j = i + 1; j < charIndex; j++) {
-                if (isPunctuation((sentence[j] as CharData).char)) {
-                    continue;
-                }
-            }
-            // 当前字符是标点后第一个非标点字符
-            return !isPunctuation((sentence[charIndex] as CharData).char);
-        }
-    }
-    return false;
-}
-
-function isPunctuation(char: string): boolean {
-    return `。，、；：？！"'（）【】《》…—·～“”‘’\n\r`.includes(char);
 }
 
 export type SentenceData = {
@@ -78,8 +52,20 @@ export function Sentence({
     showNotes: boolean
 }) {
     const { sentence, notes } = sent;
+    const { memorize } = useContext(MemorizeContext);
+
+    // 随机隐藏整句：整句（以标点为界的小句）是否隐藏在这里统一决定，
+    // 保证同一句内所有字共享同一次随机结果，且每次进入该模式重新掷骰
+    const unitHidden = useMemo(
+        () => isSentenceHideMode(memorize)
+            ? computeUnitHidingMask(sentence.map(c => c.char), sentenceHideDifficulty(memorize))
+            : null,
+        [memorize, sentence]
+    );
+
     const charList: React.ReactNode[] = [];
     for (let i = 0; i < sentence.length; i++) {
+        const hidden = unitHidden ? unitHidden[i] : false;
         const note = notes?.find(n => n.start == i);
         let unit: React.ReactNode;
         if (note && showNotes) {  // 仅在显示注释时才渲染词语注释
@@ -94,6 +80,7 @@ export function Sentence({
                         highlight={highlight}
                         showNotes={showNotes}
                         isFirstChar={j === 0 && isFirst}
+                        unitHidden={unitHidden ? unitHidden[i + j] : false}
                     />
                 </WordNotePopover>
             ));
@@ -112,6 +99,7 @@ export function Sentence({
                     highlight={highlight}
                     showNotes={showNotes}
                     isFirstChar={isCharFirst}
+                    unitHidden={hidden}
                 />
             );
         }

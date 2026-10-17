@@ -8,7 +8,7 @@ import { toggleSentenceStar, querySentenceStarsByPoem, deleteSentenceStar } from
 import { queryPoemId } from "@/lib/star"
 import useSession from "@/lib/use-session"
 import { toast } from "sonner"
-import { MemorizeContext } from "@/components/poem-preview/memorize-context"
+import { isMemorizeMode, MemorizeContext } from "@/components/poem-preview/memorize-context"
 
 interface AnchorRect {
     x: number
@@ -93,16 +93,16 @@ export function TextHighlighter({ children, version, title }: TextHighlighterPro
 
     // 用 ref 存储 memorize 状态，使旧闭包也能获取最新值，防止 rAF 调度的旧 applyHighlights 重新应用高亮
     const memorizeModeRef = useRef(false)
-    memorizeModeRef.current = !isNaN(memorize)
+    memorizeModeRef.current = isMemorizeMode(memorize)
 
     // 背诵模式下不应用高亮（避免手动 DOM 操作与 React 冲突导致崩溃）
-    const activeHighlights = isNaN(memorize) ? highlights : []
+    const activeHighlights = isMemorizeMode(memorize) ? [] : highlights
 
     // 背诵模式切换时，同步清除高亮属性
     useLayoutEffect(() => {
         const container = containerRef.current
         if (!container) return
-        if (!isNaN(memorize)) {
+        if (isMemorizeMode(memorize)) {
             observerRef.current?.disconnect()
             clearHighlightAttrs(container)
         }

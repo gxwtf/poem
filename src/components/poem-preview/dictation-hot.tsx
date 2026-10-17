@@ -5,7 +5,7 @@
 import { useContext, useEffect, useMemo, useState } from "react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
-import { MemorizeContext } from "./memorize-context"
+import { isMemorizeMode, MemorizeContext } from "./memorize-context"
 import { PoemQuoteCard } from "@/components/poem-quote-card"
 import { Badge } from "@/components/ui/badge"
 
@@ -56,7 +56,7 @@ export function DictationHot() {
     }, [rows, title])
 
     // 背诵模式（memorize 非 NaN）下隐藏，避免剧透；无数据也不渲染
-    if (!enabled || !Number.isNaN(memorize) || !rows || top.length === 0) return null
+    if (!enabled || isMemorizeMode(memorize) || !rows || top.length === 0) return null
 
     return (
         <div className="my-8 text-left">

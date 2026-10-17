@@ -4,7 +4,14 @@
 
 import { useState, useRef, useContext, useEffect } from "react";
 import CharNote from "./char-note";
-import { MemorizeContext } from "./memorize-context";
+import {
+    isCharHideMode,
+    isFirstCharMode,
+    isMemorizeMode,
+    isSentenceHideMode,
+    MemorizeContext,
+} from "./memorize-context";
+import { isBlank, isPunctuation } from "@/lib/poem-text";
 import { MouseDownStatContext } from "../mouse-stat-context";
 
 export type CharData = {
@@ -27,14 +34,16 @@ export function Char({
     highlight,
     suppressNote,
     showNotes,
-    isFirstChar  // 新增：是否是首字
+    isFirstChar,  // 是否是首字
+    unitHidden = false  // 是否处于「被隐藏的整句」中（仅随机隐藏整句模式使用）
 }: {
     data: CharData
     showPinyin: boolean
     highlight: boolean
     suppressNote?: (suppress: boolean) => void
     showNotes: boolean
-    isFirstChar?: boolean  // 新增 prop
+    isFirstChar?: boolean
+    unitHidden?: boolean
 }) {
     const [showNote, setShowNote] = useState(false);
     const hoverTimer = useRef<number | null>(null);
@@ -43,14 +52,19 @@ export function Char({
     const mouseDownStat = useContext(MouseDownStatContext);
 
     useEffect(() => {
-        if (`。，、；：？！"'（）【】《》…—·～“”‘’\n\r`.includes(data.char))setMemorizeMode(CharMode.Read);
-        else if (memorize === -1) {
+        // 标点与空白不参与背诵：标点是断句依据，空白只是排版占位
+        if (isPunctuation(data.char) || isBlank(data.char)) setMemorizeMode(CharMode.Read);
+        else if (isFirstCharMode(memorize)) {
             // 首字提示模式：是首字就显示，否则隐藏
             setMemorizeMode(isFirstChar ? CharMode.FirstChar : CharMode.Memorize);
         }
-        else if (!isNaN(memorize) && memorize > 0)setMemorizeMode(Math.random() < memorize ? CharMode.Memorize : CharMode.Read);
+        else if (isSentenceHideMode(memorize)) {
+            // 随机隐藏整句模式：整句是否隐藏由父组件（Sentence）统一掷骰决定
+            setMemorizeMode(unitHidden ? CharMode.Memorize : CharMode.Read);
+        }
+        else if (isCharHideMode(memorize)) setMemorizeMode(Math.random() < memorize ? CharMode.Memorize : CharMode.Read);
         else setMemorizeMode(CharMode.Read);
-    }, [memorize, data.char, isFirstChar]);
+    }, [memorize, data.char, isFirstChar, unitHidden]);
 
     // useEffect(() => {
     //     console.log('ShowNotes:', showNotes);
@@ -88,7 +102,7 @@ export function Char({
                     ${memorizeMode === CharMode.Read || memorizeMode === CharMode.FirstChar ? "text-primary" : "text-[var(--theme-color)]"}
                     ${highlight ? "bg-yellow-100" : ""}
                     relative
-                    ${!isNaN(memorize) ? "select-none" : ""}
+                    ${isMemorizeMode(memorize) ? "select-none" : ""}
                 `}
                 onMouseEnter={handleMouseEnter}
                 onMouseLeave={handleMouseLeave}
