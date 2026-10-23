@@ -26,6 +26,10 @@ export function LoginForm({
       setHost(window.location.host);
     }
   }, [])
+  // 注册完成后回到广学账号的登录页。back 用相对路径，永远落在
+  // account.gxwtf.cn 上；不要写死 http://localhost:3000，否则注册成功
+  // 后会把线上用户带到本地开发地址。
+  const registerUrl = `https://account.gxwtf.cn/register?back=${encodeURIComponent('/login')}`
 
   return (
     <form 
@@ -95,7 +99,7 @@ export function LoginForm({
       </div>
       <div className="text-primary text-center text-sm">
         没有账号？{" "}
-        <Link href="https://account.gxwtf.cn/register?back=http://localhost:3000/login" className="underline underline-offset-4">
+        <Link href={registerUrl} className="underline underline-offset-4">
           立即注册
         </Link>
       </div>
