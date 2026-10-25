@@ -1,0 +1,125 @@
+/*
+ * 古诗文正文字格与中文标点排版
+ *
+ * 数值依据《标点符号用法》GB/T 15834—2011，以及字体本身的字身框（实测 24px 正文下）：
+ *   - 汉字：1.4em 字格（字形 1em + 两侧各 0.2em 字距）
+ *   - 点号（。，、；：？！）：1em。点号墨迹靠左、右侧自带 12~17px 空白，
+ *     所以「紧随前字、后面留白」才是规范排法，不能把 1em 的字形再居中放大到 1.5em
+ *   - 前引号/前括号（“‘（《【）：1em，墨迹靠右，与前面的字自然形成半字空白
+ *   - 后引号/后括号（”’）》】）：1em，墨迹靠左，同理
+ *   - 破折号「——」、省略号「……」：每个字符 1em，成对即 2 个字位
+ *   - 半角括号 ( )：0.5em
+ *
+ * 字号按「正文容器宽度」自适应（见 --poem-font）：手机上一行要能放下
+ * 七言句（7 字 + 标点，约 8 个字格；开拼音时字格可能涨到 1.5em），
+ * 所以最窄的竖屏也要保证 8 × 1.5em 塞得进一行，宽屏则封顶在 24px。
+ *
+ * 想整体调紧凑/宽松，只改下面的变量即可（字号上限、字距、标点宽度、拼音字号、挤压幅度）。
+ */
+
+/* 正文容器：作为字号自适应的参照宽度 */
+.poem-container {
+    container-type: inline-size;
+}
+
+.poem-text {
+    /* 正文字号：窄容器按比例缩小，宽屏封顶 24px（与原来的 text-2xl 一致）。
+       9 = 8 个字格（七言 + 标点）+ 余量；开拼音时字格变宽，除数换成 12.6 */
+    --poem-font: clamp(16px, 4.4vw, 24px);
+    /* 行距按 1.65 倍字号走，字号缩小时行距一起缩 */
+    --poem-leading: 1.65;
+    /*
+     * 统一 1em 字格：汉字与标点的步进一致，所以「第 N 个字」在每行的 x 位置相同，
+     * 首行缩进两格后，首字才能和第二行的第三个字对齐（书本就是这样排的）。
+     * 拼音模式下字格要放宽给注音留位，由 .poem-text--pinyin 覆盖。
+     */
+    --poem-char-w: 1em;
+    --poem-punct-w: 1em;
+    /* 拼音字号：0.5em = 12px（正文 24px 时）。缩小后长拼音不会再把字格撑开 */
+    --poem-py-size: 0.5em;
+    /* 标点挤压：连续标点若向左收紧会破坏字格对齐，默认关闭（想要紧凑可改 -0.3em） */
+    --poem-punct-squeeze: 0em;
+}
+
+@supports (container-type: inline-size) {
+    .poem-text {
+        --poem-font: clamp(16px, calc(100cqw / 9), 24px);
+    }
+
+    /* 开拼音：字格放宽到 1.4em 给注音留位（汉字与标点同步放宽，保持对齐） */
+    .poem-text--pinyin {
+        --poem-font: clamp(16px, calc(100cqw / 12.6), 24px);
+        --poem-char-w: 1.4em;
+        --poem-punct-w: 1.4em;
+    }
+}
+
+/* 正文与译文跟随自适应字号 */
+.poem-text .sentences {
+    font-size: var(--poem-font);
+    line-height: var(--poem-leading);
+}
+
+.poem-text .translations {
+    /* 译文比正文小一档（原来 20px / 24px ≈ 0.85） */
+    font-size: calc(var(--poem-font) * 0.85);
+    line-height: 1.7;
+}
+
+/* 汉字的字格 */
+.poem-text [data-char] > .char-cell {
+    min-width: var(--poem-char-w);
+}
+
+/* 标点用自己的字格（不跟随汉字字距） */
+.poem-text [data-char][data-punct] > .char-cell {
+    min-width: var(--poem-punct-w);
+}
+
+/* 半角括号只占半个字位 */
+.poem-text [data-char="("],
+.poem-text [data-char=")"] {
+    --poem-punct-w: 0.5em;
+}
+
+/* 标点挤压：如 ？！”、。”、“《 这类连续标点，后一个向左收紧 */
+.poem-text [data-char][data-squeeze] {
+    margin-left: var(--poem-punct-squeeze);
+}
+
+/* 拼音：字号缩小、不换行、不参与选中与复制 */
+.poem-text .char-pinyin {
+    font-size: var(--poem-py-size);
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+/* 禁则单元：字与其后的标点（或开标号与其后的字）不得被拆到两行 */
+.poem-text .poem-nowrap {
+    display: inline-block;
+    white-space: nowrap;
+}
+
+/* 诗词模式的小句单元：整句参与换行，过长时再在内部折行 */
+.poem-text .poem-clause {
+    display: inline-block;
+    max-width: 100%;
+}
+
+/*
+ * 段落首行缩进：首行空两格（= 2 个字格，随字格一起变）。
+ * 注意旧实现是 w-[4.5em]，但当时 em 参照的是 16px 的父级字号，
+ * 换算下来正好是 2 个字格（2 × 36px = 72px）；改字格后必须显式写 2 格，
+ * 否则会变成 3 格（100.8px），首行缩进多一个字。
+ */
+.poem-indent-2 {
+    display: inline-block;
+    width: calc(var(--poem-char-w) * 2);
+}
+
+/* 译文缩进：译文比正文小一档，用自身字号 2em（约等于 1 个正文格） */
+.poem-indent-trans {
+    display: inline-block;
+    width: 2em;
+}

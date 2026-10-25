@@ -33,9 +33,9 @@ export function Paragraph({
     };
 
     return (
-        <div className="leading-13">
+        <div className={`leading-13 poem-text${showPinyin ? " poem-text--pinyin" : ""}`}>
             <div className="sentences">
-                {mode === "paragraph" && <span className="inline-block w-[4.5em]"></span>}
+                {mode === "paragraph" && <span className="poem-indent-2"></span>}
                 {para.paragraph.map((s, index) => (
                     <span
                         key={index}
@@ -48,13 +48,14 @@ export function Paragraph({
                             showPinyin={showPinyin} 
                             highlight={highlightId === index} 
                             showNotes={showNotes}
+                            atomicClauses={mode === "poem"}
                         />
                     </span>
                 ))}
             </div>
             {showTranslation && (
                 <div className="translations mt-4">
-                    {mode === "paragraph" && <span className="inline-block w-[2.5em]"></span>}
+                    {mode === "paragraph" && <span className="poem-indent-trans"></span>}
                     {para.paragraph.map((s, index) =>
                         s.translation ? (
                             <span

@@ -5,13 +5,14 @@
  * 这里集中实现，避免各处各写一份导致行为分歧。
  */
 
-/** 标点符号/换行字符集合（与原有的首字提示判断保持一致） */
-export const POEM_PUNCTUATION = `。，、；：？！"'（）【】《》…—·～“”‘’\n\r`;
+/**
+ * 是否是标点符号（含换行）。
+ * 分类细则集中在 lib/punctuation.ts（点号/开标号/闭标号/破折号/省略号/间隔号），
+ * 这里保留导出名，供背诵模式判断断句与「首字」使用。
+ */
+import { isPunctuation } from "./punctuation";
 
-/** 是否是标点符号（含换行） */
-export function isPunctuation(char: string | undefined): boolean {
-    return !!char && POEM_PUNCTUATION.includes(char);
-}
+export { isPunctuation };
 
 /** 是否是空白字符（半角空格等）。空白字符既不断句也不隐藏 */
 export function isBlank(char: string | undefined): boolean {

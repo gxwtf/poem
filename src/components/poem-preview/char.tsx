@@ -2,8 +2,7 @@
 
 "use client"
 
-import { useState, useRef, useContext, useEffect } from "react";
-import CharNote from "./char-note";
+import { useState, useContext, useEffect } from "react";
 import {
     isCharHideMode,
     isFirstCharMode,
@@ -12,6 +11,7 @@ import {
     MemorizeContext,
 } from "./memorize-context";
 import { isBlank, isPunctuation } from "@/lib/poem-text";
+import { punctKind } from "@/lib/punctuation";
 import { MouseDownStatContext } from "../mouse-stat-context";
 
 export type CharData = {
@@ -32,24 +32,24 @@ export function Char({
     data,
     showPinyin,
     highlight,
-    suppressNote,
-    showNotes,
     isFirstChar,  // 是否是首字
-    unitHidden = false  // 是否处于「被隐藏的整句」中（仅随机隐藏整句模式使用）
+    unitHidden = false,  // 是否处于「被隐藏的整句」中（仅随机隐藏整句模式使用）
+    squeeze = false  // 是否紧跟在另一个标点之后（标点挤压）
 }: {
     data: CharData
     showPinyin: boolean
     highlight: boolean
-    suppressNote?: (suppress: boolean) => void
-    showNotes: boolean
     isFirstChar?: boolean
     unitHidden?: boolean
+    squeeze?: boolean
 }) {
-    const [showNote, setShowNote] = useState(false);
-    const hoverTimer = useRef<number | null>(null);
     const { memorize } = useContext(MemorizeContext);
     const [ memorizeMode, setMemorizeMode ] = useState(CharMode.Read);
     const mouseDownStat = useContext(MouseDownStatContext);
+
+    // 标点单独给宽度（点号 1 字位、半角括号 0.5 字位…），见 app/poem-preview.css
+    const kind = punctKind(data.char);
+    const punctAttr = kind !== "none" && kind !== "space" ? kind : undefined;
 
     useEffect(() => {
         // 标点与空白不参与背诵：标点是断句依据，空白只是排版占位
@@ -66,37 +66,12 @@ export function Char({
         else setMemorizeMode(CharMode.Read);
     }, [memorize, data.char, isFirstChar, unitHidden]);
 
-    // useEffect(() => {
-    //     console.log('ShowNotes:', showNotes);
-    // }, [showNotes]);
-
     if (memorizeMode !== CharMode.Memorize){
-        const clearHoverTimer = () => {
-            if (hoverTimer.current !== null) {
-                clearTimeout(hoverTimer.current);
-                hoverTimer.current = null;
-            }
-        };
-
-        const handleMouseEnter = () => {
-            if (!showNotes) return; // 新增：隐藏注释时不触发
-            clearHoverTimer();
-            setShowNote(true);
-            suppressNote?.(true);
-        };
-
-        const handleMouseLeave = () => {
-            if (!showNotes) return; // 新增：隐藏注释时不触发
-            clearHoverTimer();
-            hoverTimer.current = window.setTimeout(() => {
-                setShowNote(false);
-                suppressNote?.(false);
-            }, 200);
-        };
-
         return (
             <div
                 data-char={data.char}
+                data-punct={punctAttr}
+                data-squeeze={squeeze ? "1" : undefined}
                 className={`
                     inline-block justify-center
                     ${memorizeMode === CharMode.Read || memorizeMode === CharMode.FirstChar ? "text-primary" : "text-[var(--theme-color)]"}
@@ -104,23 +79,14 @@ export function Char({
                     relative
                     ${isMemorizeMode(memorize) ? "select-none" : ""}
                 `}
-                onMouseEnter={handleMouseEnter}
-                onMouseLeave={handleMouseLeave}
             >
-                <span className="inline-flex flex-col items-center min-w-[1.5em] cursor-pointer">
+                <span className="char-cell inline-flex flex-col items-center cursor-pointer">
                     {showPinyin && (
-                        <span className="text-base text-gray-500 leading-none">{data.pinyin || ""}</span>
+                        <span className="char-pinyin text-gray-500 leading-none">{data.pinyin || ""}</span>
                     )}
-                    {data.note && showNotes ? (
-                        <CharNote
-                            char={data.char}
-                            pinyin={data.pinyin}
-                            note={data.note}
-                            frequency={data.frequency}
-                        >
-                            <strong>{data.char}</strong>
-                        </CharNote>
-                    ) : data.char}
+                    {/* 注释（无论单字还是多字）统一由 Sentence 用 WordNotePopover 包裹，
+                        这里只负责画字本身 */}
+                    {data.char}
                 </span>
             </div>
         );
@@ -139,24 +105,20 @@ export function Char({
     return (
         <div
             data-char={data.char}
+            data-punct={punctAttr}
+            data-squeeze={squeeze ? "1" : undefined}
             className={`inline-block justify-center text-primary ${highlight ? "bg-yellow-100" : ""} relative select-none`}
             onMouseOver={handleMouseOver}
             onMouseDown={handleMouseDown}
         >
-            <span className="inline-flex flex-col items-center min-w-[1.5em] cursor-pointer">
+            <span className="char-cell inline-flex flex-col items-center cursor-pointer">
                 {showPinyin && (
-                    <span className="text-base text-gray-500 leading-none">{data.pinyin || ""}</span>
+                    <span className="char-pinyin text-gray-500 leading-none">{data.pinyin || ""}</span>
                 )}
                 <span>
                     __
                 </span>
             </span>
-
-            {showNote && data.note && (
-                <CharNote char={data.char} pinyin={data.pinyin} note={data.note} frequency={data.frequency}>
-                    <span>{data.char}</span>
-                </CharNote>
-            )}
         </div>
     )
 }

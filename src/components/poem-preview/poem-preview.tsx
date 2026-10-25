@@ -2,7 +2,7 @@
 
 "use client"
 
-import { useState, useContext, useEffect } from "react"
+import { useState, useContext, useEffect, useRef } from "react"
 import { Button } from "@/components/ui/button"
 import { Paragraph, ParagraphData } from "./paragraph";
 import { Memorize } from "./memorize";
@@ -13,6 +13,7 @@ import { Book, BookOpen, Music, Music3, FileText, FileCheck, Scissors } from "lu
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import { MouseDownStatContextProvider } from "../mouse-stat-context";
+import { buildPoemPlainText } from "@/lib/copy-text";
 
 function ControlButtons({
     showTranslation,
@@ -96,6 +97,27 @@ export function PoemPreview({ data }: PoemPreviewProps) {
     const [showTranslation, setShowTranslation] = useState(false)
     const [showNotes, setShowNotes] = useState(true)  // 默认显示注释
     const { memorize } = useContext(MemorizeContext);
+    const contentRef = useRef<HTMLDivElement>(null);
+
+    // 复制正文时按字格重建纯文本：避免浏览器在字与字之间插换行、把拼音抄进剪贴板。
+    // 用原生 copy 事件（而不是 React 的 onCopy）：浏览器触发复制时事件目标可能不在
+    // 正文容器上，只有挂在 document 上才不会漏掉。
+    useEffect(() => {
+        const handleCopy = (e: ClipboardEvent) => {
+            if (isMemorizeMode(memorize)) return;  // 背诵模式正文本就不可选
+            const root = contentRef.current;
+            const selection = window.getSelection();
+            if (!root || !selection || selection.isCollapsed) return;
+            // 选区跨出正文容器时交给浏览器默认处理
+            if (!root.contains(selection.anchorNode) || !root.contains(selection.focusNode)) return;
+            const text = buildPoemPlainText(root, selection);
+            if (!text || !e.clipboardData) return;
+            e.clipboardData.setData("text/plain", text);
+            e.preventDefault();
+        };
+        document.addEventListener("copy", handleCopy);
+        return () => document.removeEventListener("copy", handleCopy);
+    }, [memorize]);
 
     useEffect(() => {
         if (!isMemorizeMode(memorize)) setShowNotes(true);
@@ -114,7 +136,7 @@ export function PoemPreview({ data }: PoemPreviewProps) {
 
     return (
         <>
-            <div className="max-w-full mx-auto">
+            <div className="max-w-full mx-auto poem-container" ref={contentRef}>
                 <ControlButtons
                     showTranslation={showTranslation}
                     setShowTranslation={setShowTranslation}

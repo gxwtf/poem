@@ -2,6 +2,7 @@
 @import "tw-animate-css";
 
 @import "./sentence-highlight.css";
+@import "./poem-preview.css";
 
 @custom-variant dark (&:is(.dark *));
 
