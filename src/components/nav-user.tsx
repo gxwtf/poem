@@ -3,7 +3,6 @@
 import {
   BadgeCheck,
   ChevronsUpDown,
-  CreditCard, 
   User,
   LogIn,
   LogOut,
@@ -102,12 +101,6 @@ export function NavUser({
                     账号中心
                   </Link>
                 </DropdownMenuItem>
-                { user.vip ? <DropdownMenuItem asChild>
-                  <Link href="https://gxwtf.cn/admin">
-                    <CreditCard />
-                    会员中心
-                  </Link>
-                </DropdownMenuItem> : null}
               </DropdownMenuGroup>
               <DropdownMenuSeparator />
               <DropdownMenuItem onClick={(e) => {
