@@ -7,6 +7,8 @@ import { Button } from "@/components/ui/button"
 import { Paragraph, ParagraphData } from "./paragraph";
 import { Memorize } from "./memorize";
 import { isMemorizeMode, MemorizeContext } from "./memorize-context";
+import { RevealContextProvider } from "./reveal-context";
+import { MemorizeKeyboard } from "./memorize-keyboard";
 import { DictationHot } from "./dictation-hot";
 import { StarButton } from "../star";
 import { Book, BookOpen, Music, Music3, FileText, FileCheck, Scissors } from "lucide-react";
@@ -146,19 +148,24 @@ export function PoemPreview({ data }: PoemPreviewProps) {
                     setShowNotes={setShowNotes}
                 />
                 <MouseDownStatContextProvider>
-                    <div className={mode === "poem" ? "text-center" : "text-left"}>
-                        {preview.map((paragraph, pIdx) => (
-                            <div key={pIdx} className={mode === "paragraph" ? "my-4" : ""}>
-                                <Paragraph
-                                    para={paragraph}
-                                    showPinyin={showPinyin}
-                                    showTranslation={showTranslation}
-                                    mode={mode}
-                                    showNotes={showNotes}
-                                />
-                            </div>
-                        ))}
-                    </div>
+                    {/* 背诵模式下在电脑上敲隐藏字的拼音首字母即可显示该字 */}
+                    <RevealContextProvider memorize={memorize}>
+                        <MemorizeKeyboard rootRef={contentRef} />
+                        <div className={mode === "poem" ? "text-center" : "text-left"}>
+                            {preview.map((paragraph, pIdx) => (
+                                <div key={pIdx} className={mode === "paragraph" ? "my-4" : ""}>
+                                    <Paragraph
+                                        para={paragraph}
+                                        showPinyin={showPinyin}
+                                        showTranslation={showTranslation}
+                                        mode={mode}
+                                        showNotes={showNotes}
+                                        slotBase={`p${pIdx}-`}
+                                    />
+                                </div>
+                            ))}
+                        </div>
+                    </RevealContextProvider>
                 </MouseDownStatContextProvider>
                 <DictationHot />
             </div>

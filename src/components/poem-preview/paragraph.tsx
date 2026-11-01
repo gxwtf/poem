@@ -14,13 +14,16 @@ export function Paragraph({
     showPinyin,
     showTranslation,
     mode,
-    showNotes
+    showNotes,
+    slotBase = "",
 }: {
     para: ParagraphData
     showPinyin: boolean
     showTranslation: boolean
     mode: "poem" | "paragraph"
     showNotes: boolean
+    /** 本段字格编号前缀，供「输入首字母显示隐藏字」定位 */
+    slotBase?: string
 }) {
     const [highlightId, setHighlightId] = useState<number | null>(null);
 
@@ -49,6 +52,7 @@ export function Paragraph({
                             highlight={highlightId === index} 
                             showNotes={showNotes}
                             atomicClauses={mode === "poem"}
+                            slotBase={`${slotBase}s${index}-`}
                         />
                     </span>
                 ))}

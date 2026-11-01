@@ -52,13 +52,16 @@ export function Sentence({
     highlight,
     showNotes,
     atomicClauses = false,
+    slotBase = "",
 }: {
     sent: SentenceData,
     showPinyin: boolean,
     highlight: boolean,
     showNotes: boolean,
     /** 诗词模式：以小句为单位整句换行（长句仍可内部折行），避免诗句被拆开 */
-    atomicClauses?: boolean
+    atomicClauses?: boolean,
+    /** 本句字格编号前缀（段落号 + 句号），字格编号 = 前缀 + 字在该句中的下标 */
+    slotBase?: string
 }) {
     const { sentence, notes } = sent;
     const { memorize } = useContext(MemorizeContext);
@@ -120,6 +123,7 @@ export function Sentence({
                             isFirstChar={j === 0 && isFirst}
                             unitHidden={unitHidden ? unitHidden[i + j] : false}
                             squeeze={squeeze[i + j]}
+                            slot={`${slotBase}${i + j}`}
                         />
                     </WordNotePopover>
                 );
@@ -140,6 +144,7 @@ export function Sentence({
                     isFirstChar={isCharFirst}
                     unitHidden={hidden}
                     squeeze={squeeze[i]}
+                    slot={`${slotBase}${i}`}
                 />
             );
         }
