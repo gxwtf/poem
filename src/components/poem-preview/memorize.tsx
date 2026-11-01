@@ -97,8 +97,7 @@ export function Memorize() {
                             背诵古诗文
                         </h4>
                         <p className="text-muted-foreground mt-1 text-xs">
-                            选择一种方式开始背诵，按住鼠标左键划过空白处可查看答案。
-                            在电脑上输入下一个隐藏字拼音的首字母（带声调的字敲基础字母，ü 记作 v）也会显示该字。
+                            选择一种方式开始背诵，按住鼠标左键划过空白处或输入下一个字的拼音首字母可查看答案。
                         </p>
                         <div className="mt-3 flex items-center justify-between gap-3">
                             <Label htmlFor="difficulty" className="flex items-center gap-1 text-sm">
