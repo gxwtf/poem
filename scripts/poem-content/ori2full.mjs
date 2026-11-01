@@ -25,8 +25,8 @@ const __dirname = path.dirname(__filename);
 // -------- CONFIG --------
 /** 强制更新列表，用于 --force 模式下指定必须覆盖的诗文名称 */
 const forceList = {
-    junior: ["得道多助，失道寡助"],
-    senior: []
+    junior: [],
+    senior: ["琵琶行并序"]
 };
 
 let GLOBAL_TAG_LIST = [];
