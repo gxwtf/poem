@@ -6,6 +6,11 @@
  *   - 带调字母取基础字母（ā/á/ǎ/à → a、ē/é/ě/è → e…），按键盘上那颗键算；
  *   - ü 系列（ü/ǖ/ǘ/ǚ/ǜ）按中文拼音输入法的习惯记作 v，而不是 u。
  *
+ * 另外数据里还有「整词拼音挂在单字上」的脏值（「与妻书」的「前」pinyin="guòQián"、
+ * 「窦娥冤」的「三」pinyin="guìzǐ"、「长恨歌」的「差」pinyin="intercross"）。
+ * 这种值按首字母取会取到别的音节：敲该敲的键永远敲不开，敲错的键反而掀开答案。
+ * 所以先判断「这个拼音字段是不是一个字的读音」，不是就当作没有拼音。
+ *
  * 为什么不用 /\p{M}/u 这类 Unicode 属性转义：项目 target 是 ES2017。
  */
 
@@ -23,49 +28,66 @@ function isCombiningMark(char: string): boolean {
 /** 分音符（ü 分解后就是这个符号） */
 const DIAERESIS = "\u0308";
 
+/** 元音字母（ü 系列已归一成 v，不算元音） */
+const VOWELS = "aeiou";
+
 /**
- * 拼音字段是不是「一个字的读音」。
- *
- * 数据里偶有整词拼音挂在单字上的脏值（「与妻书」的「前」pinyin="guòQián"、
- * 「长恨歌」的「差」pinyin="intercross"、「刘姥姥进大观园」的「老」pinyin="lǎotàitai"），
- * 这类值按首字母取会取到别的音节：敲该敲的键永远敲不开，敲错的键反而掀开答案。
- * 所以宁可当作「没有拼音」（该字不参与键盘核对），也不给出错误的首字母。
- *
- * 判定：单音节最多 7 个字母，且除了首字母（数据里偶有 "Tài" 这种首字母大写）之外不再出现大写。
+ * 把带调拼音归一成小写基础字母串：丢掉声调符号与非字母，ü 系列记作 v。
+ * 归一之后才能数「元音串」个数（见 vowelRunCount）。
  */
-function isSingleSyllable(pinyin: string): boolean {
-    if (pinyin.length > 7) return false;
-    if (/[A-Z]/.test(pinyin.slice(1))) return false;
-    return true;
+function plainLetters(decomposed: string): string {
+    let out = "";
+    for (let i = 0; i < decomposed.length; i++) {
+        const char = decomposed[i];
+        if (isCombiningMark(char)) continue;
+        // 分音符紧跟基础字母（ü = u + ¨）：按拼音输入法习惯记作 v，不当作元音
+        if (decomposed.startsWith(DIAERESIS, i + 1)) out += "v";
+        else if (char >= "a" && char <= "z") out += char;
+        else if (char >= "A" && char <= "Z") out += char.toLowerCase();
+    }
+    return out;
+}
+
+/** 连续元音串的个数 */
+function vowelRunCount(letters: string): number {
+    let runs = 0;
+    let inRun = false;
+    for (const char of letters) {
+        const isVowel = VOWELS.includes(char);
+        if (isVowel && !inRun) runs++;
+        inRun = isVowel;
+    }
+    return runs;
 }
 
 /**
- * 取拼音首字母（小写）。取不到（空拼音、标点占位「　」、脏数据）时返回空串。
+ * 取拼音首字母（小写）。取不到（空拼音、标点占位「　」、多音节脏数据）时返回空串。
+ *
+ * 判定「是不是一个字的读音」用元音串个数：单音节必然只有一个连续元音串
+ * （xiāo、zhuàng、guī、ér、hǎo 都是 1 串），而多音节拼在一起必然 ≥2 串
+ * （guìzǐ、wǒmen、lǎotàitai、intercross），比「长度/大小写」这类启发式更稳。
  *
  * @example
  * pinyinInitial("zhī")     // "z"
  * pinyinInitial("ān")      // "a"：首字母带声调，按基础字母 a 算
  * pinyinInitial("ǚ")       // "v"：ü 记作 v
  * pinyinInitial("nǚ")      // "n"
+ * pinyinInitial("Tài")     // "t"：数据里偶有首字母大写
  * pinyinInitial("guòQián") // ""：整词拼音挂在单字上，取哪个首字母都是错的
  * pinyinInitial("")        // ""
  */
 export function pinyinInitial(pinyin: string | undefined): string {
     const trimmed = (pinyin ?? "").trim();
-    if (!trimmed || !isSingleSyllable(trimmed)) return "";
-    const raw = trimmed.toLowerCase();
+    if (!trimmed) return "";
 
-    const decomposed = raw.normalize("NFD");
-    const base = decomposed[0];
-    // 首字符不是拉丁字母（标点、数字、汉字）就没有首字母可敲
-    if (base < "a" || base > "z") return "";
+    const letters = plainLetters(trimmed.normalize("NFD"));
+    // 首字母不是拉丁字母（标点、数字、汉字）就没有可敲的键
+    const base = letters[0];
+    if (!base || base < "a" || base > "z") return "";
+    // 多音节脏数据：取哪个首字母都是错的，宁可不参与键盘核对
+    if (vowelRunCount(letters) >= 2) return "";
 
-    // 基础字母后面紧跟的组合符号决定它是不是 ü 系列（ü = u + 分音符）
-    let marks = "";
-    for (let i = 1; i < decomposed.length && isCombiningMark(decomposed[i]); i++) {
-        marks += decomposed[i];
-    }
-    return marks.includes(DIAERESIS) ? "v" : base;
+    return base;
 }
 
 /** 是否是「可以当作首字母输入」的按键：单个英文字母（不区分大小写） */
