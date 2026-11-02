@@ -34,6 +34,9 @@
     --color-secondary: var(--secondary);
     --color-primary-foreground: var(--primary-foreground);
     --color-primary: var(--primary);
+    --color-brand: var(--brand);
+    --color-brand-foreground: var(--brand-foreground);
+    --color-brand-muted: var(--brand-muted);
     --color-popover-foreground: var(--popover-foreground);
     --color-popover: var(--popover);
     --color-card-foreground: var(--card-foreground);
@@ -45,10 +48,16 @@
 }
 
 :root {
-    --theme-color: rgb(163, 31, 36);
+    /* 品牌红（墨红）：色值与 exercise 同源，深色模式在 .dark 里自动提亮。
+       业务里优先用 text-brand / bg-brand / bg-brand-muted；需要实心红块（结束背诵、
+       危险操作、悬浮按钮）用 destructive——它与品牌红同色相，深色模式单独提亮。 */
+    --brand: oklch(0.4667 0.1672 25.06);
+    --brand-foreground: oklch(0.985 0 0);   /* 品牌底色上的字 */
+    --brand-muted: oklch(0.95 0.021 25.06); /* 品牌色的极浅底（键帽、标签） */
+    --theme-color: var(--brand);
     --radius: 0.625rem;
     --background: oklch(1 0 0);
-    --foreground: rgb(163, 31, 36);
+    --foreground: var(--brand);
     --card: oklch(1 0 0);
     --tiny-section-bg: oklch(0.96 0 0);
     --card-foreground: oklch(0.145 0 0);
@@ -62,7 +71,7 @@
     --muted-foreground: oklch(0.556 0 0);
     --accent: oklch(0.97 0 0);
     --accent-foreground: oklch(0.205 0 0);
-    --destructive: oklch(0.577 0.245 27.325);
+    --destructive: oklch(0.52 0.19 25.06);   /* 实心红块（危险操作/结束背诵），色相与品牌红一致 */
     --border: oklch(0.922 0 0);
     --input: oklch(0.922 0 0);
     --ring: oklch(0.708 0 0);
@@ -73,7 +82,7 @@
     --chart-5: oklch(0.769 0.188 70.08);
     --sidebar: oklch(0.985 0 0);
     --sidebar-foreground: oklch(0.145 0 0);
-    --sidebar-primary: rgb(163, 31, 36);
+    --sidebar-primary: var(--brand);
     --sidebar-primary-foreground: oklch(0.985 0 0);
     --sidebar-accent: oklch(0.97 0 0);
     --sidebar-accent-foreground: oklch(0.205 0 0);
@@ -82,7 +91,12 @@
 }
 
 .dark {
-    --theme-color: rgb(194, 37, 37);
+    /* 深色模式：品牌红提亮（参考 exercise 的 dark brand），
+       实心块用更深一档，保证白字对比度 */
+    --brand: oklch(0.735 0.152 25.06);
+    --brand-foreground: oklch(0.145 0 0);
+    --brand-muted: oklch(0.283 0.049 25.06);
+    --theme-color: var(--brand);
     --background: oklch(0.145 0 0);
     --foreground: oklch(0.985 0 0);
     --card: oklch(0.205 0 0);
@@ -98,7 +112,7 @@
     --muted-foreground: oklch(0.708 0 0);
     --accent: oklch(0.269 0 0);
     --accent-foreground: oklch(0.985 0 0);
-    --destructive: oklch(0.704 0.191 22.216);
+    --destructive: oklch(0.60 0.20 25.06);   /* 深色模式提亮，保证白字对比与整体亮度一致 */
     --border: oklch(1 0 0 / 10%);
     --input: oklch(1 0 0 / 15%);
     --ring: oklch(0.556 0 0);
@@ -109,7 +123,7 @@
     --chart-5: oklch(0.645 0.246 16.439);
     --sidebar: oklch(0.205 0 0);
     --sidebar-foreground: oklch(0.985 0 0);
-    --sidebar-primary: rgb(163, 31, 36);
+    --sidebar-primary: var(--brand);
     --sidebar-primary-foreground: oklch(0.985 0 0);
     --sidebar-accent: oklch(0.269 0 0);
     --sidebar-accent-foreground: oklch(0.985 0 0);
