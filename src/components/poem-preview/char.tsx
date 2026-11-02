@@ -10,6 +10,7 @@ import {
     isNoHintMode,
     isSentenceHideMode,
     MemorizeContext,
+    MemorizePointerEnabledContext,
 } from "./memorize-context";
 import { RevealContext } from "./reveal-context";
 import { isBlank, isPunctuation } from "@/lib/poem-text";
@@ -50,6 +51,8 @@ export function Char({
 }) {
     const { memorize } = useContext(MemorizeContext);
     const { revealed } = useContext(RevealContext);
+    // 站内字母键盘打开时关掉「点/划字格看答案」，只认按键
+    const pointerEnabled = useContext(MemorizePointerEnabledContext);
     const [ memorizeMode, setMemorizeMode ] = useState(CharMode.Read);
     const mouseDownStat = useContext(MouseDownStatContext);
 
@@ -111,13 +114,13 @@ export function Char({
 
     function handleMouseOver() {
         // 空白模式下整篇是空白，划过就揭开会让「逐个背」失去意义，只认点击与键盘
-        if (!blank && mouseDownStat && mode === CharMode.Memorize)
+        if (pointerEnabled && !blank && mouseDownStat && mode === CharMode.Memorize)
             setMemorizeMode(CharMode.ShowAnswer);
     }
 
     function handleMouseDown() {
-        // 空白模式下由 MemorizeInput 统一处理「点击显示下一个字」，这里不再单独揭开被点的那格
-        if (!blank && mode === CharMode.Memorize)
+        // 空白模式下由 MemorizeControls 统一处理「点击显示下一个字」，这里不再单独揭开被点的那格
+        if (pointerEnabled && !blank && mode === CharMode.Memorize)
             setMemorizeMode(CharMode.ShowAnswer);
     }
 

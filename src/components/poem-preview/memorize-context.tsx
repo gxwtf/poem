@@ -77,6 +77,12 @@ export function sentenceHideDifficulty(memorize: MemorizeType): number {
     return clamp01(MEMORIZE_SENTENCE_BASE - memorize);
 }
 
+/**
+ * 背诵模式下是否允许「点/划过字格直接看答案」。
+ * 站内字母键盘打开时置 false：此时整篇只认按键与「提示」，避免手指误触把答案点开。
+ */
+export const MemorizePointerEnabledContext = createContext<boolean>(true);
+
 export const MemorizeContext = createContext<{
     memorize: MemorizeType;
     setMemorize: (memorize: MemorizeType) => void;

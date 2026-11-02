@@ -6,9 +6,9 @@ import { useState, useContext, useEffect, useRef } from "react"
 import { Button } from "@/components/ui/button"
 import { Paragraph, ParagraphData } from "./paragraph";
 import { Memorize } from "./memorize";
-import { isMemorizeMode, MemorizeContext } from "./memorize-context";
+import { isMemorizeMode, MemorizeContext, MemorizePointerEnabledContext } from "./memorize-context";
 import { RevealContextProvider } from "./reveal-context";
-import { MemorizeInput } from "./memorize-input";
+import { MemorizeControls } from "./memorize-input";
 import { DictationHot } from "./dictation-hot";
 import { StarButton } from "../star";
 import { Book, BookOpen, Music, Music3, FileText, FileCheck, Scissors } from "lucide-react";
@@ -100,6 +100,8 @@ export function PoemPreview({ data }: PoemPreviewProps) {
     const [showNotes, setShowNotes] = useState(true)  // 默认显示注释
     const { memorize } = useContext(MemorizeContext);
     const contentRef = useRef<HTMLDivElement>(null);
+    // 站内字母键盘（手机用）：打开时正文停用「点/划字格看答案」，只认按键与「提示」
+    const [keyboardOpen, setKeyboardOpen] = useState(false);
 
     // 复制正文时按字格重建纯文本：避免浏览器在字与字之间插换行、把拼音抄进剪贴板。
     // 用原生 copy 事件（而不是 React 的 onCopy）：浏览器触发复制时事件目标可能不在
@@ -119,6 +121,11 @@ export function PoemPreview({ data }: PoemPreviewProps) {
         };
         document.addEventListener("copy", handleCopy);
         return () => document.removeEventListener("copy", handleCopy);
+    }, [memorize]);
+
+    // 退出背诵时收起站内键盘，避免面板悬在阅读模式上
+    useEffect(() => {
+        if (!isMemorizeMode(memorize)) setKeyboardOpen(false);
     }, [memorize]);
 
     useEffect(() => {
@@ -150,7 +157,13 @@ export function PoemPreview({ data }: PoemPreviewProps) {
                 <MouseDownStatContextProvider>
                     {/* 背诵模式下在电脑上敲隐藏字的拼音首字母即可显示该字 */}
                     <RevealContextProvider memorize={memorize}>
-                        <MemorizeInput rootRef={contentRef} />
+                        <MemorizePointerEnabledContext.Provider value={!keyboardOpen}>
+                        <MemorizeControls
+                            rootRef={contentRef}
+                            keyboardOpen={keyboardOpen}
+                            onOpenKeyboard={() => setKeyboardOpen(true)}
+                            onCloseKeyboard={() => setKeyboardOpen(false)}
+                        />
                         <div className={mode === "poem" ? "text-center" : "text-left"}>
                             {preview.map((paragraph, pIdx) => (
                                 <div key={pIdx} className={mode === "paragraph" ? "my-4" : ""}>
@@ -165,6 +178,7 @@ export function PoemPreview({ data }: PoemPreviewProps) {
                                 </div>
                             ))}
                         </div>
+                        </MemorizePointerEnabledContext.Provider>
                     </RevealContextProvider>
                 </MouseDownStatContextProvider>
                 <DictationHot />

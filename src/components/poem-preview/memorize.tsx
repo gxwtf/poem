@@ -175,9 +175,7 @@ export function Memorize() {
 
     return (
         <>
-            <Button variant="destructive" onClick={quitMemorizeMode} style={{
-                backgroundColor: 'var(--theme-color)'
-            }} className="flex items-center gap-2">
+            <Button variant="destructive" onClick={quitMemorizeMode} className="flex items-center gap-2">
                 <Brain className="w-4 h-4" />
                 <span className="hidden sm:inline">结束背诵</span>
                 {modeName && <span className="text-xs opacity-80 hidden sm:inline">{modeName}</span>}

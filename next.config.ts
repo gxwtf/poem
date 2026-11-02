@@ -28,6 +28,8 @@ const nextConfig: NextConfig = {
         ],
     },
     pageExtensions: ['ts', 'tsx', 'md', 'mdx', 'js', 'jsx'],
+    // 开发环境的左下角悬浮指示器会挡住页面底部的按钮（背诵悬浮按钮/字母键盘），关掉
+    devIndicators: false,
 };
 
 export default withMDX(nextConfig);
