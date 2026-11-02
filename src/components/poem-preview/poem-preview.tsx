@@ -8,7 +8,7 @@ import { Paragraph, ParagraphData } from "./paragraph";
 import { Memorize } from "./memorize";
 import { isMemorizeMode, MemorizeContext } from "./memorize-context";
 import { RevealContextProvider } from "./reveal-context";
-import { MemorizeKeyboard } from "./memorize-keyboard";
+import { MemorizeInput } from "./memorize-input";
 import { DictationHot } from "./dictation-hot";
 import { StarButton } from "../star";
 import { Book, BookOpen, Music, Music3, FileText, FileCheck, Scissors } from "lucide-react";
@@ -150,7 +150,7 @@ export function PoemPreview({ data }: PoemPreviewProps) {
                 <MouseDownStatContextProvider>
                     {/* 背诵模式下在电脑上敲隐藏字的拼音首字母即可显示该字 */}
                     <RevealContextProvider memorize={memorize}>
-                        <MemorizeKeyboard rootRef={contentRef} />
+                        <MemorizeInput rootRef={contentRef} />
                         <div className={mode === "poem" ? "text-center" : "text-left"}>
                             {preview.map((paragraph, pIdx) => (
                                 <div key={pIdx} className={mode === "paragraph" ? "my-4" : ""}>

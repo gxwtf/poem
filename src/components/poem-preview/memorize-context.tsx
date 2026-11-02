@@ -7,6 +7,7 @@ memorize 的取值约定：
 - (0, 1]：随机隐藏单字模式，值表示原文中每个字被隐藏的概率
 - -1（MEMORIZE_FIRST_CHAR）：首字提示模式（只显示每小句首字）
 - [-3, -2]：随机隐藏整句模式，隐藏概率 = -(memorize + 2) ∈ [0, 1]
+- -4（MEMORIZE_NO_HINT）：空白背诵模式（不显示任何占位，只有空白，点击或敲首字母逐个显示）
 
 更多信息可以参考：https://yuanbao.tencent.com/bot/app/share/chat/9Nrl3oZXWLuh
 
@@ -24,6 +25,16 @@ export const MEMORIZE_FIRST_CHAR = -1;
 
 /** 随机隐藏整句模式的基准值：难度为 0 时取该值，难度为 1 时取 -3 */
 export const MEMORIZE_SENTENCE_BASE = -2;
+
+/** 随机隐藏整句模式的下限值：难度为 1 时取该值 */
+export const MEMORIZE_SENTENCE_MIN = MEMORIZE_SENTENCE_BASE - 1;
+
+/**
+ * 空白背诵模式的标记值。
+ * 该模式连下划线占位都不给，整篇只剩空白（标点照常显示），
+ * 每点击一次或敲对下一个字的拼音首字母，才显示一个字。
+ */
+export const MEMORIZE_NO_HINT = -4;
 
 /** 把任意数值收敛到 [0, 1]，NaN 视为 0 */
 export function clamp01(value: number): number {
@@ -46,9 +57,14 @@ export function isFirstCharMode(memorize: MemorizeType): boolean {
     return memorize === MEMORIZE_FIRST_CHAR;
 }
 
-/** 是否是随机隐藏整句模式 */
+/** 是否是随机隐藏整句模式（取值范围 [-3, -2]；-4 已是空白背诵模式） */
 export function isSentenceHideMode(memorize: MemorizeType): boolean {
-    return !isNaN(memorize) && memorize <= MEMORIZE_SENTENCE_BASE;
+    return !isNaN(memorize) && memorize <= MEMORIZE_SENTENCE_BASE && memorize >= MEMORIZE_SENTENCE_MIN;
+}
+
+/** 是否是空白背诵模式（不显示任何占位） */
+export function isNoHintMode(memorize: MemorizeType): boolean {
+    return memorize === MEMORIZE_NO_HINT;
 }
 
 /** 由隐藏概率（0~1）得到随机隐藏整句模式的 memorize 取值 */

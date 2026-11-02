@@ -11,13 +11,15 @@ import {
 import { Button } from "@/components/ui/button";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
-import { CircleQuestionMark, Brain, Lightbulb, EyeOff, Rows3 } from "lucide-react";
+import { CircleQuestionMark, Brain, Lightbulb, EyeOff, Rows3, Square } from "lucide-react";
 import {
     clamp01,
     isCharHideMode,
     isFirstCharMode,
+    isNoHintMode,
     isSentenceHideMode,
     MEMORIZE_FIRST_CHAR,
+    MEMORIZE_NO_HINT,
     MemorizeContext,
     sentenceHideDifficulty,
     sentenceHideValue,
@@ -147,6 +149,12 @@ export function Memorize() {
                                 hint="只显示每句的首字"
                                 onClick={() => enterMode(MEMORIZE_FIRST_CHAR)}
                             />
+                            <ModeButton
+                                icon={<Square className="w-4 h-4" />}
+                                title="空白模式"
+                                hint="背一个字看一个字，什么提示都木有"
+                                onClick={() => enterMode(MEMORIZE_NO_HINT)}
+                            />
                         </div>
                     </PopoverContent>
                 </Popover>
@@ -155,7 +163,9 @@ export function Memorize() {
     }
 
     // 各背诵模式都显示结束按钮，并在按钮上标注当前方式与难度
-    const modeName = isFirstCharMode(memorize)
+    const modeName = isNoHintMode(memorize)
+        ? "空白模式"
+        : isFirstCharMode(memorize)
         ? "首字提示"
         : isSentenceHideMode(memorize)
             ? `整句隐藏 ${Math.round(sentenceHideDifficulty(memorize) * 100)}%`

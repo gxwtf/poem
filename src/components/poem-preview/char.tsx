@@ -7,6 +7,7 @@ import {
     isCharHideMode,
     isFirstCharMode,
     isMemorizeMode,
+    isNoHintMode,
     isSentenceHideMode,
     MemorizeContext,
 } from "./memorize-context";
@@ -57,8 +58,12 @@ export function Char({
     const punctAttr = kind !== "none" && kind !== "space" ? kind : undefined;
 
     useEffect(() => {
-        // 标点与空白不参与背诵：标点是断句依据，空白只是排版占位
-        if (isPunctuation(data.char) || isBlank(data.char)) setMemorizeMode(CharMode.Read);
+        // 空白背诵模式：正文连同标点一起隐藏，整篇只剩空白（空白字符本就看不见，不必藏）
+        if (isNoHintMode(memorize)) {
+            setMemorizeMode(isBlank(data.char) ? CharMode.Read : CharMode.Memorize);
+        }
+        // 其它背诵模式下：标点是断句依据，空白只是排版占位，都不参与隐藏
+        else if (isPunctuation(data.char) || isBlank(data.char)) setMemorizeMode(CharMode.Read);
         else if (isFirstCharMode(memorize)) {
             // 首字提示模式：是首字就显示，否则隐藏
             setMemorizeMode(isFirstChar ? CharMode.FirstChar : CharMode.Memorize);
@@ -71,9 +76,12 @@ export function Char({
         else setMemorizeMode(CharMode.Read);
     }, [memorize, data.char, isFirstChar, unitHidden]);
 
-    // 键盘输入首字母命中的字：与鼠标划过一样按「已看过答案」呈现（见 memorize-keyboard.tsx）
+    // 键盘输入首字母命中的字：与鼠标划过一样按「已看过答案」呈现（见 memorize-input.tsx）
     const shownByKey = !!slot && revealed.has(slot);
     const mode = shownByKey && memorizeMode === CharMode.Memorize ? CharMode.ShowAnswer : memorizeMode;
+
+    // 空白背诵模式：字格只占位、不画下划线，也不显示拼音（拼音会把答案的声母直接送出去）
+    const blank = isNoHintMode(memorize);
 
     if (mode !== CharMode.Memorize){
         return (
@@ -102,12 +110,14 @@ export function Char({
     }
 
     function handleMouseOver() {
-        if (mouseDownStat && mode === CharMode.Memorize)
+        // 空白模式下整篇是空白，划过就揭开会让「逐个背」失去意义，只认点击与键盘
+        if (!blank && mouseDownStat && mode === CharMode.Memorize)
             setMemorizeMode(CharMode.ShowAnswer);
     }
 
     function handleMouseDown() {
-        if (mode === CharMode.Memorize)
+        // 空白模式下由 MemorizeInput 统一处理「点击显示下一个字」，这里不再单独揭开被点的那格
+        if (!blank && mode === CharMode.Memorize)
             setMemorizeMode(CharMode.ShowAnswer);
     }
 
@@ -125,11 +135,12 @@ export function Char({
             onMouseDown={handleMouseDown}
         >
             <span className="char-cell inline-flex flex-col items-center cursor-pointer">
-                {showPinyin && (
+                {showPinyin && !blank && (
                     <span className="char-pinyin text-gray-500 leading-none">{data.pinyin || ""}</span>
                 )}
+                {/* 空白模式只留一个不可见的占位字符，撑住行高与字格宽度 */}
                 <span>
-                    __
+                    {blank ? "\u00A0" : "__"}
                 </span>
             </span>
         </div>
