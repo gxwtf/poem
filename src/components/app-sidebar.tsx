@@ -50,8 +50,16 @@ const data = {
                     url: "/star/poem",
                 },
                 {
+                    title: "完胜默写",
+                    url: "/perfect-dictation",
+                },
+                {
                     title: "默写整理",
                     url: "/dictation",
+                },
+                {
+                    title: "默写错题本",
+                    url: "/dictation/mistakes",
                 },
             ],
         },

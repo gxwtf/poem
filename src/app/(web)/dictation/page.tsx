@@ -1,7 +1,8 @@
 "use client"
 
 import React, { useEffect, useMemo, useState } from "react"
-import { CheckIcon, ChevronsUpDownIcon } from "lucide-react"
+import { CheckIcon, ChevronsUpDownIcon, NotebookPen } from "lucide-react"
+import Link from "next/link"
 import { SiteHeader } from "@/components/site-header"
 import { PoemQuoteCard, SkeletonPoemQuoteCard } from "@/components/poem-quote-card"
 import { Badge } from "@/components/ui/badge"
@@ -255,6 +256,12 @@ export default function DictationPage() {
                             共 {filtered.length} 句
                             {filterActive && "（按筛选范围统计）"}
                         </div>
+                        <Button asChild variant="outline" size="sm" className="mb-1.5">
+                            <Link href="/dictation/mistakes">
+                                <NotebookPen className="size-4" />
+                                我的默写错题本
+                            </Link>
+                        </Button>
                     </div>
 
                     {/* 列表 */}
