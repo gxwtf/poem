@@ -5,6 +5,7 @@ import Recommends from "@/components/recommends"
 import { CheckIn } from "@/components/check-in"
 import { TodayInHistory } from "@/components/today-in-history"
 import { PerfectDictation } from "@/components/perfect-dictation"
+import PerfectDictationLeaderboard from "@/components/perfect-dictation-leaderboard"
 import React from "react"
 
 export default function Page() {
@@ -18,8 +19,9 @@ export default function Page() {
                     <PerfectDictation />
                     <TodayInHistory />
                 </div>
-                <div className="min-h-[100vh] flex-1 rounded-xl md:min-h-min">
+                <div className="min-h-[100vh] flex-1 space-y-4 rounded-xl md:min-h-min">
                     <Recommends />
+                    <PerfectDictationLeaderboard />
                 </div>
             </div>
         </>

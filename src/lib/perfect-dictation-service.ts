@@ -7,6 +7,10 @@ import { normalizeSentence } from "@/lib/mistake-sentence"
 import {
     DEFAULT_DAILY_COUNT,
     DICTATION_RECITE_TAG,
+    LEADERBOARD_ANONYMOUS_NAME,
+    LEADERBOARD_HINTS,
+    LEADERBOARD_LABELS,
+    LEADERBOARD_MAX_ROWS,
     MIXED_MISTAKE_RATIO,
     RECENT_NEW_DAYS,
     SEMESTER_LABELS,
@@ -29,6 +33,9 @@ import {
     type CompleteQuestionResult,
     type DictationScope,
     type GroupResponse,
+    type LeaderboardEntry,
+    type LeaderboardResponse,
+    type LeaderboardType,
     type PerfectDictationHome,
     type PerfectDictationSettings,
     type PracticeMode,
@@ -730,5 +737,101 @@ export async function completePracticeGroup(params: {
         streak: home.streak,
         checkedInToday: home.checkedInToday,
         todayGroups: home.todayGroups,
+    }
+}
+
+// ---------------- 排行榜 ----------------
+
+/**
+ * 两个榜都基于「完胜默写打卡」= 当天完成过至少一组（perfect_dictation_groups 里有一天）。
+ * - total  积跬榜：累计打卡天数
+ * - streak 勤学榜：当前连续打卡天数（中断则归零，不上榜）
+ */
+export async function getLeaderboard(params: {
+    type: LeaderboardType
+    viewerId?: number | null
+    now?: Date
+}): Promise<LeaderboardResponse> {
+    const { type } = params
+    const viewerId = params.viewerId ?? null
+    const now = params.now ?? new Date()
+    const today = dayKey(now)
+
+    // 每人每天的打卡记录（数据库侧去重，避免行数膨胀）
+    const grouped = await prisma.perfectDictationGroup.groupBy({
+        by: ["userId", "day"],
+        _count: { _all: true },
+    })
+
+    const daysByUser = new Map<number, string[]>()
+    for (const row of grouped) {
+        const list = daysByUser.get(row.userId)
+        if (list) list.push(row.day)
+        else daysByUser.set(row.userId, [row.day])
+    }
+
+    const scored = [...daysByUser.entries()].map(([userId, days]) => {
+        const sorted = [...days].sort()
+        return {
+            userId,
+            score: type === "streak" ? computeStreak(sorted, today) : sorted.length,
+            firstDay: sorted[0] ?? "",
+            lastDay: sorted[sorted.length - 1] ?? "",
+        }
+    })
+
+    // 连续榜里断签（0 天）的人不上榜
+    const ranked = scored
+        .filter((item) => item.score > 0)
+        .sort(
+            (a, b) =>
+                b.score - a.score ||
+                a.firstDay.localeCompare(b.firstDay) ||
+                b.lastDay.localeCompare(a.lastDay) ||
+                a.userId - b.userId
+        )
+
+    const users = await prisma.user.findMany({
+        where: { id: { in: ranked.map((item) => item.userId) } },
+        select: { id: true, name: true },
+    })
+    const nameById = new Map(users.map((user) => [user.id, user.name?.trim() || ""]))
+
+    const entries: LeaderboardEntry[] = ranked.map((item) => ({
+        userId: item.userId,
+        name: nameById.get(item.userId) || LEADERBOARD_ANONYMOUS_NAME,
+        score: item.score,
+        isMe: viewerId !== null && item.userId === viewerId,
+    }))
+
+    const myIndex = viewerId === null ? -1 : ranked.findIndex((item) => item.userId === viewerId)
+
+    return {
+        type,
+        label: LEADERBOARD_LABELS[type],
+        hint: LEADERBOARD_HINTS[type],
+        unit: "天",
+        rank: entries.slice(0, LEADERBOARD_MAX_ROWS),
+        me: myIndex >= 0 ? { rank: myIndex + 1, score: ranked[myIndex].score } : null,
+        totalParticipants: ranked.length,
+        generatedAt: now.toISOString(),
+    }
+}
+
+/** 登录时把广学账号的昵称同步到本地，排行榜用；名字没变就不写库 */
+export async function syncUserName(
+    userId: number,
+    name: string | null | undefined
+): Promise<void> {
+    const trimmed = (name ?? "").trim()
+    if (!trimmed) return
+    try {
+        await prisma.user.updateMany({
+            where: { id: userId, OR: [{ name: null }, { name: { not: trimmed } }] },
+            data: { name: trimmed },
+        })
+    } catch (error) {
+        // 名字同步失败不能影响登录/出题主流程
+        console.error("Error syncing user name:", error)
     }
 }

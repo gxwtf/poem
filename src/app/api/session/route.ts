@@ -7,6 +7,7 @@ import { defaultSession, sessionOptions } from "@/lib/iron";
 import { SessionData } from "@/lib/iron";
 import axios from "axios";
 import prisma from "@/lib/prisma";
+import { syncUserName } from "@/lib/perfect-dictation-service";
 
 // login
 export async function POST(request: NextRequest) {
@@ -36,6 +37,8 @@ export async function POST(request: NextRequest) {
                     }
                 });
             }
+            // 排行榜需要展示昵称，登录时顺带同步一次
+            await syncUserName(res.data.userId, res.data.userName ?? res.data.userRealName);
             session.isLoggedIn = true;
             session.username = res.data.userName;
             session.userid = res.data.userId;
@@ -77,6 +80,11 @@ export async function GET() {
 
     if (!session.isLoggedIn) {
         return Response.json(defaultSession);
+    }
+
+    // 老用户的昵称可能还没落库（本次改动之前登录过），这里补一次，排行榜才有名字
+    if (typeof session.userid === "number" && session.userid > 0) {
+        await syncUserName(session.userid, session.username ?? session.real_name);
     }
 
     return Response.json(session);

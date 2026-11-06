@@ -7,6 +7,7 @@ import { sessionOptions } from "@/lib/iron";
 import { SessionData } from "@/lib/iron";
 import axios from "axios";
 import prisma from "@/lib/prisma";
+import { syncUserName } from "@/lib/perfect-dictation-service";
 
 // login
 export async function GET(request: NextRequest) {
@@ -35,6 +36,8 @@ export async function GET(request: NextRequest) {
                     }
                 });
             }
+            // 排行榜需要展示昵称，登录时顺带同步一次
+            await syncUserName(res.data.userId, res.data.userName ?? res.data.userRealName);
             session.isLoggedIn = true;
             session.username = res.data.userName;
             session.userid = res.data.userId;

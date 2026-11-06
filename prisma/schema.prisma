@@ -34,6 +34,7 @@ model Poem {
 
 model User {
     id       Int             @id
+    name     String? // 展示用昵称（登录时从广学账号同步，排行榜用）
     star     Star[]
     sentenceStars SentenceStar[]
     checkIns CheckIn[]

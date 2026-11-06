@@ -544,6 +544,56 @@ export interface DictationScope {
     reciteTagged: boolean
 }
 
+// ---------------- 排行榜 ----------------
+
+export const LEADERBOARD_TYPES = ["streak", "total"] as const
+export type LeaderboardType = (typeof LEADERBOARD_TYPES)[number]
+
+/** 两个榜的名字：连续打卡 = 勤学榜，累计打卡 = 积跬榜（荀子「不积跬步，无以至千里」） */
+export const LEADERBOARD_LABELS: Record<LeaderboardType, string> = {
+    streak: "勤学榜",
+    total: "积跬榜",
+}
+
+export const LEADERBOARD_HINTS: Record<LeaderboardType, string> = {
+    streak: "连续打卡天数，中断一天就从零开始",
+    total: "累计打卡天数，练一天算一天",
+}
+
+/** 榜单最多展示多少人（我的名次另算） */
+export const LEADERBOARD_MAX_ROWS = 30
+
+/** 库里没有名字时（用户还没重新登录过）的占位名 */
+export const LEADERBOARD_ANONYMOUS_NAME = "匿名同学"
+
+export function isLeaderboardType(value: unknown): value is LeaderboardType {
+    return typeof value === "string" && (LEADERBOARD_TYPES as readonly string[]).includes(value)
+}
+
+export interface LeaderboardEntry {
+    userId: number
+    name: string
+    /** 榜单数值，单位「天」 */
+    score: number
+    /** 是否是当前查看者自己 */
+    isMe: boolean
+}
+
+export interface LeaderboardResponse {
+    type: LeaderboardType
+    label: string
+    hint: string
+    /** 数值单位 */
+    unit: string
+    /** 前 LEADERBOARD_MAX_ROWS 名 */
+    rank: LeaderboardEntry[]
+    /** 我的名次与数值；未登录或没打过卡时为 null */
+    me: { rank: number; score: number } | null
+    /** 参与人数（打过至少一次卡的人） */
+    totalParticipants: number
+    generatedAt: string
+}
+
 // ---------------- API / UI 共享类型 ----------------
 
 export interface PerfectDictationSettings {

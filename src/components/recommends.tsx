@@ -3,7 +3,6 @@
 import React, { useEffect, useState } from "react"
 import { PoemCard, SkeletonPoemCard } from "@/components/poem-card"
 import { AuthorCard, SkeletonAuthorCard } from "@/components/author-card"
-import { ArticleCard, SkeletonArticleCard } from "@/components/article-card"
 import { useVersion } from "@/components/version-provider"
 import Link from "next/link"
 
@@ -76,24 +75,6 @@ export default function Recommends() {
                         ))}
                     </div>
                 </div>
-
-                {/* 读书课推荐骨架屏 */}
-                <div>
-                    <div className="flex justify-between items-center my-4">
-                        <h2 className="text-2xl font-bold">读书课推荐</h2>
-                        <Link
-                            href="/articles"
-                            className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                        >
-                            查看全部
-                        </Link>
-                    </div>
-                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                        {Array.from({ length: 3 }).map((_, index) => (
-                            <SkeletonArticleCard key={index} />
-                        ))}
-                    </div>
-                </div>
             </div>
         )
     }
@@ -151,34 +132,6 @@ export default function Recommends() {
                             quote={author.quote}
                             tags={author.tags}
                             url={`/author/${author.name}`}
-                        />
-                    ))}
-                </div>
-            </div>
-
-            {/* 读书课推荐 */}
-            <div>
-                <div className="flex justify-between items-center my-4">
-                    <h2 className="text-2xl font-bold">读书课推荐</h2>
-                    <Link
-                        href="/articles"
-                        className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-                    >
-                        查看全部
-                    </Link>
-                </div>
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                    {data.articles.slice(0, 3).map((article) => (
-                        <ArticleCard
-                            key={article.id}
-                            title={article.title}
-                            author={article.author}
-                            dynasty={article.dynasty}
-                            views={article.views}
-                            abstract={article.abstract}
-                            img={article.img}
-                            tags={article.tags}
-                            url={`/article/${encodeURIComponent(article.title)}`}
                         />
                     ))}
                 </div>
