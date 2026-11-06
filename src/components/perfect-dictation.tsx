@@ -28,6 +28,7 @@ import {
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Skeleton } from "@/components/ui/skeleton"
+import { BookScopePicker, scopeRangeLabel } from "@/components/dictation-book-scope"
 import { cn } from "@/lib/utils"
 import {
     MAX_DAILY_COUNT,
@@ -97,6 +98,7 @@ export function PerfectDictation() {
     const [settingsOpen, setSettingsOpen] = useState(false)
     const [draftMode, setDraftMode] = useState<PracticeMode>("mixed")
     const [draftCount, setDraftCount] = useState("10")
+    const [draftBooks, setDraftBooks] = useState<string[]>([])
     const [savingSettings, setSavingSettings] = useState(false)
 
     useEffect(() => {
@@ -119,6 +121,7 @@ export function PerfectDictation() {
                 setData(home)
                 setDraftMode(home.settings.mode)
                 setDraftCount(String(home.settings.dailyCount))
+                setDraftBooks(home.settings.books ?? [])
             })
             .catch(() => {
                 if (!cancelled) setError(true)
@@ -140,7 +143,21 @@ export function PerfectDictation() {
         })
         if (!response.ok) throw new Error("保存失败")
         const json = (await response.json()) as { settings: PerfectDictationSettings }
-        setData((previous) => (previous ? { ...previous, settings: json.settings } : previous))
+        setData((previous) => {
+            if (!previous) return previous
+            const settings = json.settings
+            const books = settings.books ?? []
+            // PATCH 只回设置，不发范围；按新设置就地推一遍 scope，卡片上的范围文案立刻同步
+            return {
+                ...previous,
+                settings,
+                scope: {
+                    ...previous.scope,
+                    customBooks: books,
+                    effectiveBooks: books.length > 0 ? books : previous.scope.defaultBooks,
+                },
+            }
+        })
         return json.settings
     }
 
@@ -148,6 +165,7 @@ export function PerfectDictation() {
         if (!data) return
         setDraftMode(data.settings.mode)
         setDraftCount(String(data.settings.dailyCount))
+        setDraftBooks(data.settings.books ?? [])
         setSettingsOpen(true)
     }
 
@@ -166,8 +184,9 @@ export function PerfectDictation() {
 
         setSavingSettings(true)
         try {
-            const settings = await patchSettings({ mode: draftMode, dailyCount })
+            const settings = await patchSettings({ mode: draftMode, dailyCount, books: draftBooks })
             setDraftCount(String(settings.dailyCount))
+            setDraftBooks(settings.books ?? [])
             setSettingsOpen(false)
             toast.success("设置已保存")
         } catch {
@@ -276,6 +295,11 @@ export function PerfectDictation() {
             <Card className="flex h-full min-h-[256px] flex-col gap-0 py-0">
                 <CardContent className="flex flex-1 flex-col gap-4 p-4 sm:p-5">
                     {header}
+                    {data.scope && (
+                        <p className="text-xs text-muted-foreground">
+                            范围：{scopeRangeLabel(data.scope)}
+                        </p>
+                    )}
                     {progressRow}
                 </CardContent>
                 <CardFooter className="p-4 pt-0 sm:p-5 sm:pt-0">
@@ -298,10 +322,10 @@ export function PerfectDictation() {
                 <DialogContent className="sm:max-w-md">
                     <DialogHeader>
                         <DialogTitle>完胜默写设置</DialogTitle>
-                        <DialogDescription>选择考察方式和每组题数。</DialogDescription>
+                        <DialogDescription>选择考察方式、考察范围和每组题数。</DialogDescription>
                     </DialogHeader>
 
-                    <div className="space-y-5">
+                    <div className="max-h-[65vh] space-y-5 overflow-y-auto pr-1">
                         <div className="space-y-2">
                             <Label>考察方式</Label>
                             <div className="space-y-2">
@@ -388,6 +412,17 @@ export function PerfectDictation() {
                                 每天完成一组即可打卡，也可以继续做多组。
                             </p>
                         </div>
+
+                        {data.scope && (
+                            <div className="border-t pt-4">
+                                <BookScopePicker
+                                    scope={data.scope}
+                                    value={draftBooks}
+                                    onChange={setDraftBooks}
+                                    disabled={savingSettings}
+                                />
+                            </div>
+                        )}
 
                         <Button
                             className="w-full"

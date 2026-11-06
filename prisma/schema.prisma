@@ -200,6 +200,7 @@ model PerfectDictationSetting {
     userId     Int      @unique
     dailyCount Int      @default(10) // 每组题目数量
     mode       String   @default("mixed") // mistakes | new | mixed
+    books      String[] @default([]) // 用户自选册次（必修上/选必中…）；空数组 = 跟随年级默认
     createdAt  DateTime @default(now())
     updatedAt  DateTime @updatedAt
 

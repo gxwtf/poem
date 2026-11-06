@@ -435,11 +435,116 @@ export function nextReviewUpdate(
     }
 }
 
+// ---------------- 书目范围（只考量「已学过」的「背默」篇目） ----------------
+
+/** 人教统编高中教材册次，也是诗文 tags 里的册次标记 */
+export const SENIOR_BOOKS = ["必修上", "必修下", "选必上", "选必中", "选必下"] as const
+/** 初中教材册次标记 */
+export const JUNIOR_BOOKS = ["七上", "七下", "八上", "八下", "九上", "九下"] as const
+
+export type Semester = "first" | "second"
+
+export const SEMESTER_LABELS: Record<Semester, string> = {
+    first: "上学期",
+    second: "下学期",
+}
+
+/** 「背默」标签：只有带这个 tag 的篇目才作为完胜默写的题库 */
+export const DICTATION_RECITE_TAG = "背默"
+
+export function booksForVersion(version: string): string[] {
+    return version === "junior" ? [...JUNIOR_BOOKS] : [...SENIOR_BOOKS]
+}
+
+/** 判断某个册次是否属于该学段（用于入参校验，避免把「七上」写进高中设置里） */
+export function isBookKey(version: string, value: unknown): value is string {
+    return typeof value === "string" && booksForVersion(version).includes(value)
+}
+
+/**
+ * 当前学期判断，与「古诗文推荐」（src/app/api/recommends/route.ts）保持一致：
+ * 9 月 1 日及以后 ~ 次年 2 月算上学期，3 ~ 8 月算下学期。
+ */
+export function currentSemester(now: Date = new Date()): Semester {
+    const month = now.getMonth() + 1
+    const day = now.getDate()
+    if (month > 9 || (month === 9 && day >= 1)) return "first"
+    if (month <= 2) return "first"
+    return "second"
+}
+
+/**
+ * 按年级 + 学期推出「已经学过」的册次：
+ * - 高一上：必修上；高一下：必修下
+ * - 高二上：选必上 + 选必中；高二下：选必中 + 选必下
+ * - 高三：不限（返回 null）
+ * - 初中同构：七上/七下、八上/八下、九上/九下
+ * - 年级未知（0/null）或超出范围：不限（返回 null）
+ */
+export function defaultBooksFor(
+    grade: number | null | undefined,
+    semester: Semester,
+    version: string = "senior"
+): string[] | null {
+    const g = typeof grade === "number" ? grade : 0
+    const first = semester === "first"
+
+    if (version === "junior") {
+        switch (g) {
+            case 7:
+                return [first ? "七上" : "七下"]
+            case 8:
+                return [first ? "八上" : "八下"]
+            case 9:
+                return [first ? "九上" : "九下"]
+            default:
+                return null
+        }
+    }
+
+    switch (g) {
+        case 10:
+            return [first ? "必修上" : "必修下"]
+        case 11:
+            return first ? ["选必上", "选必中"] : ["选必中", "选必下"]
+        case 12:
+            return null // 高三：全部
+        default:
+            return null
+    }
+}
+
+export interface BookOption {
+    key: string
+    /** 该册里可用于默写的篇目数（含「背默」标记的篇目） */
+    count: number
+}
+
+export interface DictationScope {
+    version: string
+    grade: number
+    gradeLabel: string | null
+    semester: Semester
+    semesterLabel: string
+    /** 年级 + 学期推出的默认册次；null 表示不限（高三 / 年级未知） */
+    defaultBooks: string[] | null
+    /** 用户在「完胜默写」里自选并保存的册次；空数组表示仍用默认 */
+    customBooks: string[]
+    /** 实际生效的册次；null 表示不限 */
+    effectiveBooks: string[] | null
+    /** 当前学段可选的全部册次及各自可用篇目数 */
+    books: BookOption[]
+    /** 该学段是否已有「背默」标注过的篇目（没有标注时按未启用该过滤处理） */
+    reciteTagged: boolean
+}
+
 // ---------------- API / UI 共享类型 ----------------
 
 export interface PerfectDictationSettings {
     dailyCount: number
     mode: PracticeMode
+    /** 用户自选册次；空数组 = 跟随年级默认 */
+    books: string[]
 }
 
 export interface PerfectDictationWeekDay {
@@ -457,6 +562,8 @@ export interface PerfectDictationHome {
     dueMistakes: number
     mistakeCount: number
     week: PerfectDictationWeekDay[]
+    /** 本次出题范围（年级默认 / 用户自选） */
+    scope: DictationScope
 }
 
 export interface PracticeQuestion {
@@ -476,6 +583,8 @@ export interface GroupResponse {
     mode: PracticeMode
     count: number
     questions: PracticeQuestion[]
+    /** 本组实际使用的出题范围 */
+    scope?: DictationScope
 }
 
 export interface CompleteQuestionResult {

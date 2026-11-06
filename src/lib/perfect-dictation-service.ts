@@ -6,20 +6,28 @@ import prisma from "@/lib/prisma"
 import { normalizeSentence } from "@/lib/mistake-sentence"
 import {
     DEFAULT_DAILY_COUNT,
+    DICTATION_RECITE_TAG,
     MIXED_MISTAKE_RATIO,
     RECENT_NEW_DAYS,
+    SEMESTER_LABELS,
+    booksForVersion,
     buildCloze,
     clampDailyCount,
     computeStreak,
+    currentSemester,
     dayKey,
+    defaultBooksFor,
     dictationWeight,
+    gradeLabel,
     isPracticeMode,
     isPracticeResult,
     nextReviewUpdate,
     shiftDayKey,
     weekdayLabel,
+    type BookOption,
     type CompleteGroupResponse,
     type CompleteQuestionResult,
+    type DictationScope,
     type GroupResponse,
     type PerfectDictationHome,
     type PerfectDictationSettings,
@@ -59,10 +67,15 @@ interface NewCandidate extends Candidate {
 
 export class InvalidPracticeResultError extends Error {}
 
-function normalizeSettings(row: { dailyCount: number; mode: string }): PerfectDictationSettings {
+function normalizeSettings(row: {
+    dailyCount: number
+    mode: string
+    books: string[]
+}): PerfectDictationSettings {
     return {
         dailyCount: clampDailyCount(row.dailyCount),
         mode: isPracticeMode(row.mode) ? row.mode : "mixed",
+        books: Array.isArray(row.books) ? row.books : [],
     }
 }
 
@@ -70,28 +83,95 @@ export async function getOrCreateSettings(userId: number): Promise<PerfectDictat
     const row = await prisma.perfectDictationSetting.upsert({
         where: { userId },
         update: {},
-        create: { userId, dailyCount: DEFAULT_DAILY_COUNT, mode: "mixed" },
+        create: { userId, dailyCount: DEFAULT_DAILY_COUNT, mode: "mixed", books: [] },
     })
     return normalizeSettings(row)
 }
 
 export async function updateSettings(
     userId: number,
-    patch: { dailyCount?: unknown; mode?: unknown }
+    patch: { dailyCount?: unknown; mode?: unknown; books?: unknown },
+    version: string = "senior"
 ): Promise<PerfectDictationSettings> {
     const current = await getOrCreateSettings(userId)
     const dailyCount =
         typeof patch.dailyCount === "number" ? clampDailyCount(patch.dailyCount) : current.dailyCount
     const mode = isPracticeMode(patch.mode) ? patch.mode : current.mode
+
+    let books = current.books
+    if (Array.isArray(patch.books)) {
+        // 只接受当前学段真实存在的册次，并按教材顺序去重排序；空数组表示「跟随年级默认」
+        const allowed = booksForVersion(version)
+        const picked = new Set(
+            patch.books.filter((book): book is string => typeof book === "string")
+        )
+        books = allowed.filter((book) => picked.has(book))
+    }
+
     const row = await prisma.perfectDictationSetting.upsert({
         where: { userId },
-        update: { dailyCount, mode },
-        create: { userId, dailyCount, mode },
+        update: { dailyCount, mode, books },
+        create: { userId, dailyCount, mode, books },
     })
     return normalizeSettings(row)
 }
 
-export async function getHomeState(userId: number): Promise<PerfectDictationHome> {
+/**
+ * 解析本次出题范围：
+ * - 默认册次由「年级 + 当前学期」推出（高一上=必修上，高二上=选必上+选必中，高三=不限…）；
+ * - 用户在「完胜默写」里自选过册次则用自选（空数组仍按默认）。
+ */
+export async function resolveScope(params: {
+    userId: number
+    version: string
+    grade: number
+    now?: Date
+}): Promise<DictationScope> {
+    const { userId, version } = params
+    const grade = typeof params.grade === "number" ? params.grade : 0
+    const semester = currentSemester(params.now ?? new Date())
+    const allowed = booksForVersion(version)
+
+    const [settings, poems] = await Promise.all([
+        getOrCreateSettings(userId),
+        prisma.poem.findMany({ where: { version }, select: { tags: true } }),
+    ])
+
+    // 该学段是否已有「背默」标注；没有标注时（如初中数据尚未标注）不启用该过滤
+    const reciteTagged = poems.some((poem) => poem.tags.includes(DICTATION_RECITE_TAG))
+
+    const counts = new Map<string, number>(allowed.map((book) => [book, 0]))
+    for (const poem of poems) {
+        if (reciteTagged && !poem.tags.includes(DICTATION_RECITE_TAG)) continue
+        for (const tag of new Set(poem.tags)) {
+            const current = counts.get(tag)
+            if (current === undefined) continue
+            counts.set(tag, current + 1)
+        }
+    }
+    const books: BookOption[] = allowed.map((key) => ({ key, count: counts.get(key) ?? 0 }))
+
+    const customBooks = settings.books.filter((book) => allowed.includes(book))
+    const defaultBooks = defaultBooksFor(grade, semester, version)
+    const effectiveBooks = customBooks.length > 0 ? customBooks : defaultBooks
+
+    return {
+        version,
+        grade,
+        gradeLabel: gradeLabel(grade),
+        semester,
+        semesterLabel: SEMESTER_LABELS[semester],
+        defaultBooks,
+        customBooks,
+        effectiveBooks,
+        books,
+        reciteTagged,
+    }
+}
+
+async function getHomeBase(
+    userId: number
+): Promise<Omit<PerfectDictationHome, "scope">> {
     const today = dayKey()
     const [settings, groups, mistakes, states] = await Promise.all([
         getOrCreateSettings(userId),
@@ -135,6 +215,22 @@ export async function getHomeState(userId: number): Promise<PerfectDictationHome
             checked: daySet.has(day),
         })),
     }
+}
+
+export async function getHomeState(
+    userId: number,
+    params: { version: string; grade: number; now?: Date }
+): Promise<PerfectDictationHome> {
+    const [base, scope] = await Promise.all([
+        getHomeBase(userId),
+        resolveScope({
+            userId,
+            version: params.version,
+            grade: params.grade,
+            now: params.now,
+        }),
+    ])
+    return { ...base, scope }
 }
 
 async function loadMistakeCandidates(userId: number): Promise<MistakeCandidate[]> {
@@ -195,12 +291,20 @@ async function loadMistakeCandidates(userId: number): Promise<MistakeCandidate[]
 async function loadNewCandidates(
     userId: number,
     version: string,
-    grade: number
+    grade: number,
+    books: string[] | null,
+    reciteTagged: boolean
 ): Promise<NewCandidate[]> {
     const since = new Date(Date.now() - RECENT_NEW_DAYS * 86_400_000)
+
+    // 新句只从「默写整理」里抽取带「背默」标签、且属于用户已学册次的篇目
+    const poemFilters: Prisma.PoemWhereInput[] = []
+    if (reciteTagged) poemFilters.push({ tags: { has: DICTATION_RECITE_TAG } })
+    if (books && books.length > 0) poemFilters.push({ tags: { hasSome: books } })
+
     const [poems, dictations, mistakes, states, recentAnswers] = await Promise.all([
         prisma.poem.findMany({
-            where: { version },
+            where: poemFilters.length > 0 ? { version, AND: poemFilters } : { version },
             select: {
                 id: true,
                 title: true,
@@ -365,8 +469,12 @@ export async function generatePracticeGroup(params: {
     count: number
     version: string
     grade: number
+    /** 生效册次；null 表示不限册次（高三 / 年级未知） */
+    books: string[] | null
+    /** 该学段是否启用「背默」标签过滤 */
+    reciteTagged: boolean
 }): Promise<GroupResponse> {
-    const { userId, mode, version, grade } = params
+    const { userId, mode, version, grade, books, reciteTagged } = params
     const count = clampDailyCount(params.count)
     const selected: Candidate[] = []
 
@@ -378,7 +486,7 @@ export async function generatePracticeGroup(params: {
     }
 
     if (mode !== "mistakes") {
-        const newCandidates = await loadNewCandidates(userId, version, grade)
+        const newCandidates = await loadNewCandidates(userId, version, grade, books, reciteTagged)
         const picked = takeNew(newCandidates, count - selected.length, selected)
         selected.push(...picked)
     }
@@ -390,7 +498,7 @@ export async function generatePracticeGroup(params: {
         selected.push(...picked)
     }
     if (selected.length < count && mode !== "mistakes") {
-        const newCandidates = await loadNewCandidates(userId, version, grade)
+        const newCandidates = await loadNewCandidates(userId, version, grade, books, reciteTagged)
         const picked = takeNew(newCandidates, count - selected.length, selected)
         selected.push(...picked)
     }
@@ -612,7 +720,7 @@ export async function completePracticeGroup(params: {
 
     await prisma.$transaction(operations)
 
-    const home = await getHomeState(userId)
+    const home = await getHomeBase(userId)
     return {
         total: checked.length,
         correct,

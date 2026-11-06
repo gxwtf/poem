@@ -2,7 +2,11 @@ import { NextRequest, NextResponse } from "next/server"
 import { cookies } from "next/headers"
 import { getIronSession } from "iron-session"
 import { SessionData, sessionOptions } from "@/lib/iron"
-import { generatePracticeGroup, getOrCreateSettings } from "@/lib/perfect-dictation-service"
+import {
+    generatePracticeGroup,
+    getOrCreateSettings,
+    resolveScope,
+} from "@/lib/perfect-dictation-service"
 import { clampDailyCount, isPracticeMode } from "@/lib/perfect-dictation"
 
 export async function POST(request: NextRequest) {
@@ -18,15 +22,21 @@ export async function POST(request: NextRequest) {
         const count =
             typeof body?.count === "number" ? clampDailyCount(body.count) : settings.dailyCount
         const version = session.version === "junior" ? "junior" : "senior"
+        const grade = session.grade ?? 0
+
+        // 范围：年级 + 学期推出的默认册次，或用户在「完胜默写」里自选的册次
+        const scope = await resolveScope({ userId: session.userid, version, grade })
 
         const group = await generatePracticeGroup({
             userId: session.userid,
             mode,
             count,
             version,
-            grade: session.grade ?? 0,
+            grade,
+            books: scope.effectiveBooks,
+            reciteTagged: scope.reciteTagged,
         })
-        return NextResponse.json(group)
+        return NextResponse.json({ ...group, scope })
     } catch (error) {
         console.error("Error generating perfect dictation group:", error)
         return NextResponse.json({ error: "生成题目失败" }, { status: 500 })

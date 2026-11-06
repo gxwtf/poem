@@ -5,10 +5,12 @@ import Link from "next/link"
 import { useRouter } from "next/navigation"
 import {
     ArrowLeft,
+    BookMarked,
     CheckCircle2,
     Clock3,
     Loader2,
     RotateCcw,
+    SlidersHorizontal,
     Sparkles,
     XCircle,
     Zap,
@@ -16,15 +18,26 @@ import {
 import { toast } from "sonner"
 
 import { SiteHeader } from "@/components/site-header"
+import { BookScopePicker, scopeRangeLabel } from "@/components/dictation-book-scope"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
+import {
+    Dialog,
+    DialogContent,
+    DialogDescription,
+    DialogHeader,
+    DialogTitle,
+} from "@/components/ui/dialog"
 import { Skeleton } from "@/components/ui/skeleton"
 import useSession from "@/lib/use-session"
 import { cn } from "@/lib/utils"
 import {
     PRACTICE_RESULT_LABELS,
     type CompleteGroupResponse,
+    type DictationScope,
     type GroupResponse,
+    type PerfectDictationHome,
+    type PerfectDictationSettings,
     type PracticeQuestion,
     type PracticeResult,
 } from "@/lib/perfect-dictation"
@@ -56,7 +69,59 @@ export default function PerfectDictationPage() {
     const [mode, setMode] = useState<GroupResponse["mode"]>("mixed")
     const [summary, setSummary] = useState<CompleteGroupResponse | null>(null)
     const [errorMessage, setErrorMessage] = useState("")
+    const [scope, setScope] = useState<DictationScope | null>(null)
+    const [scopeOpen, setScopeOpen] = useState(false)
+    const [draftBooks, setDraftBooks] = useState<string[]>([])
+    const [savingScope, setSavingScope] = useState(false)
     const submitting = phase === "submitting"
+
+    async function loadScope() {
+        try {
+            const response = await fetch("/api/perfect-dictation")
+            if (!response.ok) return
+            const home = (await response.json()) as PerfectDictationHome
+            if (home?.scope) setScope(home.scope)
+        } catch {
+            // 范围栏只是辅助信息，取不到就整块隐藏，不影响练习流程
+        }
+    }
+
+    function openScope() {
+        if (!scope) return
+        setDraftBooks(scope.customBooks ?? [])
+        setScopeOpen(true)
+    }
+
+    async function saveScope() {
+        if (!scope || savingScope) return
+        setSavingScope(true)
+        try {
+            const response = await fetch("/api/perfect-dictation", {
+                method: "PATCH",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ books: draftBooks }),
+            })
+            if (!response.ok) throw new Error("保存考察范围失败")
+            const json = (await response.json()) as { settings: PerfectDictationSettings }
+            const books = json.settings?.books ?? draftBooks
+            setScope((previous) =>
+                previous
+                    ? {
+                          ...previous,
+                          customBooks: books,
+                          effectiveBooks: books.length > 0 ? books : previous.defaultBooks,
+                      }
+                    : previous
+            )
+            setScopeOpen(false)
+            toast.success("考察范围已更新")
+            await loadGroup()
+        } catch {
+            toast.error("保存考察范围失败，请重试")
+        } finally {
+            setSavingScope(false)
+        }
+    }
 
     async function loadGroup() {
         setPhase("loading")
@@ -99,6 +164,7 @@ export default function PerfectDictationPage() {
         if (started.current) return
         started.current = true
         void loadGroup()
+        void loadScope()
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [isLoading, session?.isLoggedIn])
 
@@ -193,6 +259,25 @@ export default function PerfectDictationPage() {
                         )}
                     </div>
 
+                    {scope && (
+                        <div className="flex flex-wrap items-center justify-between gap-2 rounded-lg border bg-card px-3 py-2">
+                            <p className="flex min-w-0 items-center gap-1.5 text-xs text-muted-foreground sm:text-sm">
+                                <BookMarked className="size-4 shrink-0 text-[var(--theme-color)]" />
+                                <span className="truncate">范围：{scopeRangeLabel(scope)}</span>
+                            </p>
+                            <Button
+                                variant="ghost"
+                                size="sm"
+                                className="shrink-0 text-muted-foreground"
+                                onClick={openScope}
+                                disabled={savingScope}
+                            >
+                                <SlidersHorizontal className="size-4" />
+                                调整范围
+                            </Button>
+                        </div>
+                    )}
+
                     {phase === "loading" && (
                         <Card>
                             <CardContent className="space-y-6 p-5 sm:p-8">
@@ -237,10 +322,18 @@ export default function PerfectDictationPage() {
                                         : "当前没有可考察的新句：可能已经练完，或都被标记为「太简单」。"}
                                 </p>
                                 <p className="text-sm text-muted-foreground">
-                                    回首页打开设置调整考察方式，或去默写错题本补充几句。
+                                    {scope
+                                        ? "当前范围内没有可练的句子，试试把范围放宽或全选。"
+                                        : "回首页打开设置调整考察方式，或去默写错题本补充几句。"}
                                 </p>
                                 <div className="flex flex-wrap justify-center gap-2 pt-1">
-                                    <Button asChild>
+                                    {scope && (
+                                        <Button onClick={openScope}>
+                                            <SlidersHorizontal className="size-4" />
+                                            调整范围
+                                        </Button>
+                                    )}
+                                    <Button variant={scope ? "outline" : "default"} asChild>
                                         <Link href="/dashboard">回首页调整</Link>
                                     </Button>
                                     <Button variant="outline" asChild>
@@ -437,6 +530,35 @@ export default function PerfectDictationPage() {
                     )}
                 </div>
             </div>
+
+            <Dialog open={scopeOpen} onOpenChange={setScopeOpen}>
+                <DialogContent className="sm:max-w-md">
+                    <DialogHeader>
+                        <DialogTitle>调整考察范围</DialogTitle>
+                        <DialogDescription>
+                            选择这次出题用到的册次，保存后会重新出一组题。
+                        </DialogDescription>
+                    </DialogHeader>
+                    {scope && (
+                        <div className="space-y-4">
+                            <BookScopePicker
+                                scope={scope}
+                                value={draftBooks}
+                                onChange={setDraftBooks}
+                                disabled={savingScope}
+                            />
+                            <Button
+                                className="w-full"
+                                onClick={() => void saveScope()}
+                                disabled={savingScope}
+                            >
+                                {savingScope && <Loader2 className="size-4 animate-spin" />}
+                                保存并重新出题
+                            </Button>
+                        </div>
+                    )}
+                </DialogContent>
+            </Dialog>
         </>
     )
 }
