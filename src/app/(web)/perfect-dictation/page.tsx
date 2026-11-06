@@ -374,13 +374,7 @@ export default function PerfectDictationPage() {
 
                                     <div className="space-y-2 text-center font-serif text-xl leading-loose tracking-wide sm:text-2xl">
                                         {question.lines.map((line, lineIndex) => (
-                                            <div
-                                                key={`line-${lineIndex}`}
-                                                className={cn(
-                                                    line.kind === "context" &&
-                                                        "text-base text-muted-foreground sm:text-lg"
-                                                )}
-                                            >
+                                            <div key={`line-${lineIndex}`}>
                                                 {line.parts.map((part, partIndex) =>
                                                     part.blank ? (
                                                         <span
