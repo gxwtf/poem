@@ -24,6 +24,9 @@ model Poem {
     content   String
     starredBy       Star[]
     sentenceStarredBy SentenceStar[]
+    dictationMistakes DictationMistake[]
+    dictationReviewStates DictationReviewState[]
+    perfectDictationAnswers PerfectDictationAnswer[]
 
     @@map("poems")
     @@unique(name: "compoundId",[version, title])
@@ -34,6 +37,11 @@ model User {
     star     Star[]
     sentenceStars SentenceStar[]
     checkIns CheckIn[]
+    dictationMistakes DictationMistake[]
+    perfectDictationSetting PerfectDictationSetting?
+    dictationReviewStates DictationReviewState[]
+    perfectDictationGroups PerfectDictationGroup[]
+    perfectDictationAnswers PerfectDictationAnswer[]
 
     @@map("users")
 }
@@ -80,6 +88,23 @@ model SentenceStar {
     @@unique([userId, poemId, text, charOffset])
     @@index([userId])
     @@index([poemId])
+}
+
+// 默写错题本：用户从站内古诗文中挑出的完整句子
+model DictationMistake {
+    id         Int      @id @default(autoincrement())
+    user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+    userId     Int
+    poem       Poem     @relation(fields: [poemId], references: [id], onDelete: Cascade)
+    poemId     String
+    text       String // 展示用规范句（取自诗文原文，带标点）
+    normalized String // 去标点后的句子，用于查重
+    createdAt  DateTime @default(now())
+
+    @@unique([userId, normalized])
+    @@index([userId])
+    @@index([poemId])
+    @@map("dictation_mistakes")
 }
 
 model Author {
@@ -166,4 +191,82 @@ model DictationAppearance {
     @@index([year])
     @@index([region])
     @@map("dictation_appearances")
+}
+
+// 完胜默写：每日打卡设置
+model PerfectDictationSetting {
+    id         Int      @id @default(autoincrement())
+    user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+    userId     Int      @unique
+    dailyCount Int      @default(10) // 每组题目数量
+    mode       String   @default("mixed") // mistakes | new | mixed
+    createdAt  DateTime @default(now())
+    updatedAt  DateTime @updatedAt
+
+    @@map("perfect_dictation_settings")
+}
+
+// 完胜默写：句子的遗忘曲线复习状态（按用户 + 去标点句子唯一）
+model DictationReviewState {
+    id             Int       @id @default(autoincrement())
+    user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+    userId         Int
+    poem           Poem      @relation(fields: [poemId], references: [id], onDelete: Cascade)
+    poemId         String
+    text           String
+    normalized     String
+    status         String    @default("active") // active | excluded（太简单，不再考察）
+    repetitions    Int       @default(0)
+    intervalDays   Int       @default(0)
+    easeFactor     Float     @default(2.5)
+    lapses         Int       @default(0)
+    dueAt          DateTime  @default(now())
+    lastReviewedAt DateTime?
+    createdAt      DateTime  @default(now())
+    updatedAt      DateTime  @updatedAt
+
+    @@unique([userId, normalized])
+    @@index([userId, status, dueAt])
+    @@map("dictation_review_states")
+}
+
+// 完胜默写：完成的一组题目（一天可以完成多组）
+model PerfectDictationGroup {
+    id        String                   @id @default(cuid())
+    user      User                     @relation(fields: [userId], references: [id], onDelete: Cascade)
+    userId    Int
+    day       String // Asia/Shanghai 的 YYYY-MM-DD
+    mode      String
+    total     Int
+    correct   Int
+    wrong     Int
+    notYet    Int
+    tooEasy   Int
+    createdAt DateTime                 @default(now())
+    answers   PerfectDictationAnswer[]
+
+    @@index([userId, day])
+    @@index([userId, createdAt])
+    @@map("perfect_dictation_groups")
+}
+
+// 完胜默写：每道题的作答记录
+model PerfectDictationAnswer {
+    id         Int                   @id @default(autoincrement())
+    group      PerfectDictationGroup @relation(fields: [groupId], references: [id], onDelete: Cascade)
+    groupId    String
+    user       User                  @relation(fields: [userId], references: [id], onDelete: Cascade)
+    userId     Int
+    poem       Poem                  @relation(fields: [poemId], references: [id], onDelete: Cascade)
+    poemId     String
+    text       String
+    normalized String
+    pool       String // mistake | new
+    result     String // correct | wrong | not_yet | too_easy
+    createdAt  DateTime              @default(now())
+
+    @@index([groupId])
+    @@index([userId, normalized])
+    @@index([userId, createdAt])
+    @@map("perfect_dictation_answers")
 }
