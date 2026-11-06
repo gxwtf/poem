@@ -544,7 +544,7 @@ export interface DictationScope {
     reciteTagged: boolean
 }
 
-// ---------------- 排行榜 ----------------
+// ---------------- 排行榜（UI 照抄广学题库 gxexercise 的广学榜） ----------------
 
 export const LEADERBOARD_TYPES = ["streak", "total"] as const
 export type LeaderboardType = (typeof LEADERBOARD_TYPES)[number]
@@ -555,9 +555,9 @@ export const LEADERBOARD_LABELS: Record<LeaderboardType, string> = {
     total: "积跬榜",
 }
 
-export const LEADERBOARD_HINTS: Record<LeaderboardType, string> = {
-    streak: "连续打卡天数，中断一天就从零开始",
-    total: "累计打卡天数，练一天算一天",
+export const LEADERBOARD_SUBTITLES: Record<LeaderboardType, string> = {
+    streak: "按当前连续打卡天数排名",
+    total: "按累计打卡天数排名",
 }
 
 /** 榜单最多展示多少人（我的名次另算） */
@@ -566,31 +566,33 @@ export const LEADERBOARD_MAX_ROWS = 30
 /** 库里没有名字时（用户还没重新登录过）的占位名 */
 export const LEADERBOARD_ANONYMOUS_NAME = "匿名同学"
 
+/** 打卡单位 */
+export const LEADERBOARD_UNIT = "天"
+
 export function isLeaderboardType(value: unknown): value is LeaderboardType {
     return typeof value === "string" && (LEADERBOARD_TYPES as readonly string[]).includes(value)
 }
 
-export interface LeaderboardEntry {
+export interface LeaderboardRow {
     userId: number
     name: string
-    /** 榜单数值，单位「天」 */
-    score: number
-    /** 是否是当前查看者自己 */
-    isMe: boolean
+    /** 当前连续打卡天数 */
+    streak: number
+    /** 累计打卡天数 */
+    total: number
 }
 
 export interface LeaderboardResponse {
     type: LeaderboardType
-    label: string
-    hint: string
-    /** 数值单位 */
+    title: string
+    subtitle: string
     unit: string
     /** 前 LEADERBOARD_MAX_ROWS 名 */
-    rank: LeaderboardEntry[]
+    rows: LeaderboardRow[]
     /** 我的名次与数值；未登录或没打过卡时为 null */
-    me: { rank: number; score: number } | null
-    /** 参与人数（打过至少一次卡的人） */
-    totalParticipants: number
+    me: { rank: number; name: string | null; streak: number; total: number } | null
+    /** 上榜人数（打过至少一次卡的人） */
+    totalUsers: number
     generatedAt: string
 }
 

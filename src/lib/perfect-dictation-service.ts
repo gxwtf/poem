@@ -8,9 +8,10 @@ import {
     DEFAULT_DAILY_COUNT,
     DICTATION_RECITE_TAG,
     LEADERBOARD_ANONYMOUS_NAME,
-    LEADERBOARD_HINTS,
+    LEADERBOARD_SUBTITLES,
     LEADERBOARD_LABELS,
     LEADERBOARD_MAX_ROWS,
+    LEADERBOARD_UNIT,
     MIXED_MISTAKE_RATIO,
     RECENT_NEW_DAYS,
     SEMESTER_LABELS,
@@ -33,7 +34,7 @@ import {
     type CompleteQuestionResult,
     type DictationScope,
     type GroupResponse,
-    type LeaderboardEntry,
+    type LeaderboardRow,
     type LeaderboardResponse,
     type LeaderboardType,
     type PerfectDictationHome,
@@ -770,26 +771,30 @@ export async function getLeaderboard(params: {
         else daysByUser.set(row.userId, [row.day])
     }
 
+    // 每个人都有两个指标：连续天数 + 累计天数（和题库「题数/得分」双列一致）
     const scored = [...daysByUser.entries()].map(([userId, days]) => {
         const sorted = [...days].sort()
         return {
             userId,
-            score: type === "streak" ? computeStreak(sorted, today) : sorted.length,
+            streak: computeStreak(sorted, today),
+            total: sorted.length,
             firstDay: sorted[0] ?? "",
             lastDay: sorted[sorted.length - 1] ?? "",
         }
     })
 
-    // 连续榜里断签（0 天）的人不上榜
-    const ranked = scored
-        .filter((item) => item.score > 0)
-        .sort(
-            (a, b) =>
-                b.score - a.score ||
-                a.firstDay.localeCompare(b.firstDay) ||
-                b.lastDay.localeCompare(a.lastDay) ||
-                a.userId - b.userId
-        )
+    // 勤学榜按连续天数排；积跬榜按累计天数排。主指标相同再比另一项，最后比首次打卡日、用户 ID
+    const ranked = scored.sort((a, b) =>
+        type === "streak"
+            ? b.streak - a.streak ||
+              b.total - a.total ||
+              a.firstDay.localeCompare(b.firstDay) ||
+              a.userId - b.userId
+            : b.total - a.total ||
+              b.streak - a.streak ||
+              a.firstDay.localeCompare(b.firstDay) ||
+              a.userId - b.userId
+    )
 
     const users = await prisma.user.findMany({
         where: { id: { in: ranked.map((item) => item.userId) } },
@@ -797,23 +802,31 @@ export async function getLeaderboard(params: {
     })
     const nameById = new Map(users.map((user) => [user.id, user.name?.trim() || ""]))
 
-    const entries: LeaderboardEntry[] = ranked.map((item) => ({
+    const rows: LeaderboardRow[] = ranked.map((item) => ({
         userId: item.userId,
         name: nameById.get(item.userId) || LEADERBOARD_ANONYMOUS_NAME,
-        score: item.score,
-        isMe: viewerId !== null && item.userId === viewerId,
+        streak: item.streak,
+        total: item.total,
     }))
 
     const myIndex = viewerId === null ? -1 : ranked.findIndex((item) => item.userId === viewerId)
 
     return {
         type,
-        label: LEADERBOARD_LABELS[type],
-        hint: LEADERBOARD_HINTS[type],
-        unit: "天",
-        rank: entries.slice(0, LEADERBOARD_MAX_ROWS),
-        me: myIndex >= 0 ? { rank: myIndex + 1, score: ranked[myIndex].score } : null,
-        totalParticipants: ranked.length,
+        title: LEADERBOARD_LABELS[type],
+        subtitle: LEADERBOARD_SUBTITLES[type],
+        unit: LEADERBOARD_UNIT,
+        rows: rows.slice(0, LEADERBOARD_MAX_ROWS),
+        me:
+            myIndex >= 0
+                ? {
+                      rank: myIndex + 1,
+                      name: nameById.get(ranked[myIndex].userId) || null,
+                      streak: ranked[myIndex].streak,
+                      total: ranked[myIndex].total,
+                  }
+                : null,
+        totalUsers: ranked.length,
         generatedAt: now.toISOString(),
     }
 }
