@@ -129,7 +129,9 @@ export function LeaderboardList({
                                         {me.rank}
                                     </span>
                                     <Avatar className="size-8 shrink-0">
-                                        <AvatarFallback>{initials(me.name || "我")}</AvatarFallback>
+                                        <AvatarFallback className="bg-[var(--theme-color)]/10 text-[var(--theme-color)]">
+                                            {initials(me.name || "我")}
+                                        </AvatarFallback>
                                     </Avatar>
                                     <div className="min-w-0 flex-1">
                                         <p className="truncate text-sm font-medium text-foreground">
@@ -158,7 +160,15 @@ export function LeaderboardList({
                                         {idx + 1}
                                     </span>
                                     <Avatar className="size-8 shrink-0">
-                                        <AvatarFallback>{initials(row.name)}</AvatarFallback>
+                                        <AvatarFallback
+                                            className={
+                                                idx < 3
+                                                    ? "bg-[var(--theme-color)]/10 text-[var(--theme-color)]"
+                                                    : undefined
+                                            }
+                                        >
+                                            {initials(row.name)}
+                                        </AvatarFallback>
                                     </Avatar>
                                     <p className="min-w-0 flex-1 truncate text-sm font-medium text-foreground">
                                         {row.name}
@@ -203,7 +213,7 @@ export function LeaderboardList({
                                             <TableCell>
                                                 <div className="flex items-center gap-2.5">
                                                     <Avatar className="size-8">
-                                                        <AvatarFallback>
+                                                        <AvatarFallback className="bg-[var(--theme-color)]/10 text-[var(--theme-color)]">
                                                             {initials(me.name || "我")}
                                                         </AvatarFallback>
                                                     </Avatar>
@@ -238,7 +248,13 @@ export function LeaderboardList({
                                             <TableCell>
                                                 <div className="flex items-center gap-2.5">
                                                     <Avatar className="size-8">
-                                                        <AvatarFallback>
+                                                        <AvatarFallback
+                                                            className={
+                                                                idx < 3
+                                                                    ? "bg-[var(--theme-color)]/10 text-[var(--theme-color)]"
+                                                                    : undefined
+                                                            }
+                                                        >
                                                             {initials(row.name)}
                                                         </AvatarFallback>
                                                     </Avatar>
