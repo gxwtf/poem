@@ -751,12 +751,18 @@ export async function completePracticeGroup(params: {
 export async function getLeaderboard(params: {
     type: LeaderboardType
     viewerId?: number | null
+    /** 榜单展示前多少名（我的名次另算） */
+    limit?: number
     now?: Date
 }): Promise<LeaderboardResponse> {
     const { type } = params
     const viewerId = params.viewerId ?? null
     const now = params.now ?? new Date()
     const today = dayKey(now)
+    const limit = Math.min(
+        LEADERBOARD_MAX_ROWS,
+        Math.max(1, params.limit ?? LEADERBOARD_MAX_ROWS)
+    )
 
     // 每人每天的打卡记录（数据库侧去重，避免行数膨胀）
     const grouped = await prisma.perfectDictationGroup.groupBy({
@@ -771,7 +777,6 @@ export async function getLeaderboard(params: {
         else daysByUser.set(row.userId, [row.day])
     }
 
-    // 每个人都有两个指标：连续天数 + 累计天数（和题库「题数/得分」双列一致）
     const scored = [...daysByUser.entries()].map(([userId, days]) => {
         const sorted = [...days].sort()
         return {
@@ -779,11 +784,10 @@ export async function getLeaderboard(params: {
             streak: computeStreak(sorted, today),
             total: sorted.length,
             firstDay: sorted[0] ?? "",
-            lastDay: sorted[sorted.length - 1] ?? "",
         }
     })
 
-    // 勤学榜按连续天数排；积跬榜按累计天数排。主指标相同再比另一项，最后比首次打卡日、用户 ID
+    // 勤学榜按连续天数排、积跬榜按累计天数排；同分再比另一项、首次打卡日、用户 ID
     const ranked = scored.sort((a, b) =>
         type === "streak"
             ? b.streak - a.streak ||
@@ -801,12 +805,13 @@ export async function getLeaderboard(params: {
         select: { id: true, name: true },
     })
     const nameById = new Map(users.map((user) => [user.id, user.name?.trim() || ""]))
+    const daysOf = (item: { streak: number; total: number }) =>
+        type === "streak" ? item.streak : item.total
 
-    const rows: LeaderboardRow[] = ranked.map((item) => ({
+    const rows: LeaderboardRow[] = ranked.slice(0, limit).map((item) => ({
         userId: item.userId,
         name: nameById.get(item.userId) || LEADERBOARD_ANONYMOUS_NAME,
-        streak: item.streak,
-        total: item.total,
+        days: daysOf(item),
     }))
 
     const myIndex = viewerId === null ? -1 : ranked.findIndex((item) => item.userId === viewerId)
@@ -816,14 +821,13 @@ export async function getLeaderboard(params: {
         title: LEADERBOARD_LABELS[type],
         subtitle: LEADERBOARD_SUBTITLES[type],
         unit: LEADERBOARD_UNIT,
-        rows: rows.slice(0, LEADERBOARD_MAX_ROWS),
+        rows,
         me:
             myIndex >= 0
                 ? {
                       rank: myIndex + 1,
                       name: nameById.get(ranked[myIndex].userId) || null,
-                      streak: ranked[myIndex].streak,
-                      total: ranked[myIndex].total,
+                      days: daysOf(ranked[myIndex]),
                   }
                 : null,
         totalUsers: ranked.length,

@@ -5,13 +5,16 @@ import { SessionData, sessionOptions } from "@/lib/iron"
 import { getLeaderboard } from "@/lib/perfect-dictation-service"
 import { isLeaderboardType } from "@/lib/perfect-dictation"
 
-// 完胜默写打卡榜：勤学榜（连续）/ 积跬榜（累计）。未登录也能看，只是没有「我的排名」
+// 完胜默写打卡榜：勤学榜（连续天数）/ 积跬榜（累计天数）。未登录也能看，只是没有「我的排名」
 export async function GET(request: NextRequest) {
     const { searchParams } = new URL(request.url)
     const type = searchParams.get("type") ?? "streak"
     if (!isLeaderboardType(type)) {
         return NextResponse.json({ error: "榜单类型不正确" }, { status: 400 })
     }
+
+    const rawLimit = Number.parseInt(searchParams.get("limit") ?? "", 10)
+    const limit = Number.isFinite(rawLimit) && rawLimit > 0 ? rawLimit : undefined
 
     let viewerId: number | null = null
     try {
@@ -24,7 +27,7 @@ export async function GET(request: NextRequest) {
     }
 
     try {
-        const data = await getLeaderboard({ type, viewerId })
+        const data = await getLeaderboard({ type, viewerId, limit })
         return NextResponse.json(data)
     } catch (error) {
         console.error("Error fetching perfect dictation leaderboard:", error)

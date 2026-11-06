@@ -560,8 +560,10 @@ export const LEADERBOARD_SUBTITLES: Record<LeaderboardType, string> = {
     total: "按累计打卡天数排名",
 }
 
-/** 榜单最多展示多少人（我的名次另算） */
-export const LEADERBOARD_MAX_ROWS = 30
+/** 首页广学榜展示前几名（完整榜单在 /leaderboard） */
+export const LEADERBOARD_HOME_LIMIT = 5
+/** 完整榜单一页最多展示多少人（我的名次另算） */
+export const LEADERBOARD_MAX_ROWS = 50
 
 /** 库里没有名字时（用户还没重新登录过）的占位名 */
 export const LEADERBOARD_ANONYMOUS_NAME = "匿名同学"
@@ -576,10 +578,8 @@ export function isLeaderboardType(value: unknown): value is LeaderboardType {
 export interface LeaderboardRow {
     userId: number
     name: string
-    /** 当前连续打卡天数 */
-    streak: number
-    /** 累计打卡天数 */
-    total: number
+    /** 榜单数值：勤学榜=连续天数，积跬榜=累计天数 */
+    days: number
 }
 
 export interface LeaderboardResponse {
@@ -587,10 +587,10 @@ export interface LeaderboardResponse {
     title: string
     subtitle: string
     unit: string
-    /** 前 LEADERBOARD_MAX_ROWS 名 */
+    /** 前 N 名 */
     rows: LeaderboardRow[]
     /** 我的名次与数值；未登录或没打过卡时为 null */
-    me: { rank: number; name: string | null; streak: number; total: number } | null
+    me: { rank: number; name: string | null; days: number } | null
     /** 上榜人数（打过至少一次卡的人） */
     totalUsers: number
     generatedAt: string
