@@ -372,20 +372,30 @@ export default function PerfectDictationPage() {
                                         )}
                                     </div>
 
-                                    <div className="text-center font-serif text-xl leading-loose tracking-wide sm:text-2xl">
-                                        {question.lines.flatMap((line, lineIndex) =>
-                                            line.parts.map((part, partIndex) =>
-                                                part.blank ? (
-                                                    <span
-                                                        key={`${lineIndex}-${partIndex}`}
-                                                        className="relative top-[0.25em] mx-1 inline-block w-14 border-b border-primary align-baseline sm:w-20"
-                                                        aria-label="空白"
-                                                    />
-                                                ) : (
-                                                    <span key={`${lineIndex}-${partIndex}`}>{part.text}</span>
-                                                )
-                                            )
-                                        )}
+                                    <div className="space-y-2 text-center font-serif text-xl leading-loose tracking-wide sm:text-2xl">
+                                        {question.lines.map((line, lineIndex) => (
+                                            <div
+                                                key={`line-${lineIndex}`}
+                                                className={cn(
+                                                    line.kind === "context" &&
+                                                        "text-base text-muted-foreground sm:text-lg"
+                                                )}
+                                            >
+                                                {line.parts.map((part, partIndex) =>
+                                                    part.blank ? (
+                                                        <span
+                                                            key={`${lineIndex}-${partIndex}`}
+                                                            className="relative top-[0.25em] mx-1 inline-block w-14 border-b border-primary align-baseline sm:w-20"
+                                                            aria-label="空白"
+                                                        />
+                                                    ) : (
+                                                        <span key={`${lineIndex}-${partIndex}`}>
+                                                            {part.text}
+                                                        </span>
+                                                    )
+                                                )}
+                                            </div>
+                                        ))}
                                     </div>
 
                                     {!revealed ? (

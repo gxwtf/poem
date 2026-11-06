@@ -282,13 +282,19 @@ function trimAfterContext(text: string): string {
     return lead + (index >= 0 ? body.slice(0, index + 1) : body)
 }
 
+interface ContextPick {
+    sentence: SentenceInfo
+    /** 上下文句相对答案句的位置：before = 原诗里在答案之前，after = 在答案之后 */
+    position: "before" | "after"
+}
+
 function pickContext(
     sentences: SentenceInfo[],
     index: number,
     targetNormalized: string,
     avoidContext?: Set<string>
-): SentenceInfo | null {
-    const options: SentenceInfo[] = []
+): ContextPick | null {
+    const options: ContextPick[] = []
     const prev = sentences[index - 1]
     const next = sentences[index + 1]
     const forbidden = avoidContext ? [...avoidContext] : []
@@ -300,7 +306,7 @@ function pickContext(
         !prev.normalized.includes(targetNormalized) &&
         !leaks(prev)
     ) {
-        options.push(prev)
+        options.push({ sentence: prev, position: "before" })
     }
     if (
         next &&
@@ -308,7 +314,7 @@ function pickContext(
         !next.normalized.includes(targetNormalized) &&
         !leaks(next)
     ) {
-        options.push(next)
+        options.push({ sentence: next, position: "after" })
     }
     if (options.length === 0) return null
     return options[Math.floor(Math.random() * options.length)]
@@ -342,16 +348,16 @@ export function buildCloze(
     if (located.whole) {
         const context = pickContext(sentences, located.index, targetNormalized, avoidContext)
         const blankLine: ClozeLine = { kind: "blank", parts: splitPattern(pattern) }
+        // 上下文必须按它在原诗里的真实位置摆放：
+        // 前一句放上面、后一句放下面，否则会出现「后一句显示在空格之前」的倒错
+        const contextLine = (pick: ContextPick): ClozeLine => ({
+            kind: "context",
+            parts: [{ text: stripUnpairedQuotes(pick.sentence.text) }],
+        })
         const lines: ClozeLine[] = context
-            ? Math.random() < 0.5
-                ? [
-                      { kind: "context", parts: [{ text: stripUnpairedQuotes(context.text) }] },
-                      blankLine,
-                  ]
-                : [
-                      blankLine,
-                      { kind: "context", parts: [{ text: stripUnpairedQuotes(context.text) }] },
-                  ]
+            ? context.position === "before"
+                ? [contextLine(context), blankLine]
+                : [blankLine, contextLine(context)]
             : [blankLine]
         return {
             answer,
