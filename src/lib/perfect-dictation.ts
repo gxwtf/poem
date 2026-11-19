@@ -611,6 +611,12 @@ export interface PerfectDictationWeekDay {
     checked: boolean
 }
 
+/** 未完成草稿的进度（首页「继续作答」提示用）；无草稿时为 null */
+export interface DraftProgress {
+    answered: number
+    total: number
+}
+
 export interface PerfectDictationHome {
     settings: PerfectDictationSettings
     streak: number
@@ -622,6 +628,8 @@ export interface PerfectDictationHome {
     week: PerfectDictationWeekDay[]
     /** 本次出题范围（年级默认 / 用户自选） */
     scope: DictationScope
+    /** 存在未完成草稿时的进度；无草稿为 null */
+    draft: DraftProgress | null
 }
 
 export interface PracticeQuestion {
@@ -661,4 +669,17 @@ export interface CompleteGroupResponse {
     streak: number
     checkedInToday: boolean
     todayGroups: number
+}
+
+/** 一条已作答记录（题目 + 结果），用于草稿的 JSON 持久化 */
+export interface DraftAnswer {
+    question: PracticeQuestion
+    result: PracticeResult
+}
+
+/** 未完成的一组（草稿）：整组题目 + 已作答结果 */
+export interface PerfectDictationDraft {
+    mode: PracticeMode
+    questions: PracticeQuestion[]
+    results: DraftAnswer[]
 }

@@ -2,7 +2,11 @@ import { NextRequest, NextResponse } from "next/server"
 import { cookies } from "next/headers"
 import { getIronSession, type IronSession } from "iron-session"
 import { SessionData, sessionOptions } from "@/lib/iron"
-import { getHomeState, updateSettings } from "@/lib/perfect-dictation-service"
+import {
+    deleteDraft,
+    getHomeState,
+    updateSettings,
+} from "@/lib/perfect-dictation-service"
 
 interface Auth {
     session: IronSession<SessionData>
@@ -56,6 +60,8 @@ export async function PATCH(request: NextRequest) {
             },
             auth.version
         )
+        // 设置变更 = 重新出题，清除未完成的草稿，避免在新设置下继续旧题目
+        await deleteDraft(auth.userId)
         return NextResponse.json({ settings })
     } catch (error) {
         console.error("Error updating perfect dictation settings:", error)

@@ -148,9 +148,11 @@ export function PerfectDictation() {
             const settings = json.settings
             const books = settings.books ?? []
             // PATCH 只回设置，不发范围；按新设置就地推一遍 scope，卡片上的范围文案立刻同步
+            // 设置变更会清除服务端草稿，这里同步把本地 draft 置空，避免首页还显示「继续作答」
             return {
                 ...previous,
                 settings,
+                draft: null,
                 scope: {
                     ...previous.scope,
                     customBooks: books,
@@ -300,6 +302,11 @@ export function PerfectDictation() {
                             范围：{scopeRangeLabel(data.scope)}
                         </p>
                     )}
+                    {data.draft && (
+                        <p className="text-xs text-[var(--theme-color)]">
+                            上次还没做完，可继续作答
+                        </p>
+                    )}
                     {progressRow}
                 </CardContent>
                 <CardFooter className="p-4 pt-0 sm:p-5 sm:pt-0">
@@ -313,7 +320,11 @@ export function PerfectDictation() {
                         ) : (
                             <Play className="size-4" />
                         )}
-                        {data.checkedInToday ? "再来一组" : "开始默写"}
+                        {data.draft
+                            ? `继续作答（${data.draft.answered}/${data.draft.total}）`
+                            : data.checkedInToday
+                              ? "再来一组"
+                              : "开始默写"}
                     </Button>
                 </CardFooter>
             </Card>

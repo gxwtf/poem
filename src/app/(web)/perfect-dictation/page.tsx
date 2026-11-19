@@ -35,19 +35,17 @@ import {
     PRACTICE_RESULT_LABELS,
     type CompleteGroupResponse,
     type DictationScope,
+    type DraftAnswer,
     type GroupResponse,
+    type PerfectDictationDraft,
     type PerfectDictationHome,
     type PerfectDictationSettings,
+    type PracticeMode,
     type PracticeQuestion,
     type PracticeResult,
 } from "@/lib/perfect-dictation"
 
 type Phase = "login" | "loading" | "question" | "answer" | "submitting" | "summary" | "empty" | "error"
-
-interface AnsweredQuestion {
-    question: PracticeQuestion
-    result: PracticeResult
-}
 
 const RESULT_STYLES: Record<PracticeResult, string> = {
     correct: "bg-emerald-500/10 text-emerald-600",
@@ -65,7 +63,7 @@ export default function PerfectDictationPage() {
     const [questions, setQuestions] = useState<PracticeQuestion[]>([])
     const [index, setIndex] = useState(0)
     const [revealed, setRevealed] = useState(false)
-    const [results, setResults] = useState<AnsweredQuestion[]>([])
+    const [results, setResults] = useState<DraftAnswer[]>([])
     const [mode, setMode] = useState<GroupResponse["mode"]>("mixed")
     const [summary, setSummary] = useState<CompleteGroupResponse | null>(null)
     const [errorMessage, setErrorMessage] = useState("")
@@ -163,7 +161,7 @@ export default function PerfectDictationPage() {
         }
         if (started.current) return
         started.current = true
-        void loadGroup()
+        void initialize()
         void loadScope()
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [isLoading, session?.isLoggedIn])
@@ -171,19 +169,65 @@ export default function PerfectDictationPage() {
     const question = questions[index]
     const progress = questions.length > 0 ? ((index + (revealed ? 0.5 : 0)) / questions.length) * 100 : 0
 
-    async function choose(result: PracticeResult) {
-        if (!revealed || !question || submitting || submittingRef.current) return
+    // 未完成草稿（继续作答）相关
+    async function fetchDraft(): Promise<PerfectDictationDraft | null> {
+        try {
+            const response = await fetch("/api/perfect-dictation/draft", { cache: "no-store" })
+            if (!response.ok) return null
+            const draft = (await response.json()) as PerfectDictationDraft | null
+            return draft && Array.isArray(draft.questions) ? draft : null
+        } catch {
+            return null
+        }
+    }
 
-        const answered: AnsweredQuestion = { question, result }
-        if (index < questions.length - 1) {
-            setResults((previous) => [...previous, answered])
-            setIndex((previous) => previous + 1)
+    // 每答一题把整组题目 + 已作答结果落盘（尽力而为，不阻塞答题）
+    async function persistDraft(all: DraftAnswer[]) {
+        try {
+            await fetch("/api/perfect-dictation/draft", {
+                method: "PUT",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ mode, questions, results: all }),
+            })
+        } catch {
+            // 保存失败不阻塞答题
+        }
+    }
+
+    async function clearDraft() {
+        try {
+            await fetch("/api/perfect-dictation/draft", { method: "DELETE" })
+        } catch {
+            // 忽略
+        }
+    }
+
+    // 进页面时先看有没有未完成的草稿：有则继续作答，没有才出新题
+    async function initialize() {
+        const draft = await fetchDraft()
+        if (draft && draft.questions.length > 0) {
+            setMode(draft.mode)
+            setQuestions(draft.questions)
+            setResults(draft.results)
+            setSummary(null)
+            setErrorMessage("")
             setRevealed(false)
-            setPhase("question")
+            if (draft.results.length >= draft.questions.length) {
+                // 全部答完但没提交成功（上次提交失败）→ 重新提交
+                // 先定位到最后一题，若提交再失败可回到该题重选重提
+                setIndex(draft.questions.length - 1)
+                await submitComplete(draft.results, draft.mode)
+            } else {
+                setIndex(draft.results.length)
+                setPhase("question")
+            }
             return
         }
+        await loadGroup()
+    }
 
-        const all = [...results, answered]
+    async function submitComplete(all: DraftAnswer[], submitMode: PracticeMode) {
+        if (submittingRef.current) return
         submittingRef.current = true
         setPhase("submitting")
         try {
@@ -191,7 +235,7 @@ export default function PerfectDictationPage() {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
-                    mode,
+                    mode: submitMode,
                     results: all.map((item) => ({
                         poemId: item.question.poemId,
                         text: item.question.answer,
@@ -205,6 +249,7 @@ export default function PerfectDictationPage() {
                 throw new Error(body.error || "保存本组结果失败")
             }
             const completed = (await response.json()) as CompleteGroupResponse
+            await clearDraft()
             setResults(all)
             setSummary(completed)
             setPhase("summary")
@@ -214,6 +259,33 @@ export default function PerfectDictationPage() {
         } finally {
             submittingRef.current = false
         }
+    }
+
+    async function choose(result: PracticeResult) {
+        if (!revealed || !question || submitting || submittingRef.current) return
+
+        const answered: DraftAnswer = { question, result }
+        const all = [...results, answered]
+
+        if (index < questions.length - 1) {
+            // 每答一题就落盘，便于「继续作答」
+            void persistDraft(all)
+            setResults(all)
+            setIndex((previous) => previous + 1)
+            setRevealed(false)
+            setPhase("question")
+            return
+        }
+
+        // 最后一题：先落盘再提交，避免提交失败丢最后一条
+        await persistDraft(all)
+        await submitComplete(all, mode)
+    }
+
+    // 放弃这次作答，重新出一组
+    async function abandon() {
+        await clearDraft()
+        await loadGroup()
     }
 
     const header = (
@@ -252,11 +324,26 @@ export default function PerfectDictationPage() {
                                 返回首页
                             </Link>
                         </Button>
-                        {phase !== "empty" && phase !== "error" && questions.length > 0 && (
-                            <span className="text-sm text-muted-foreground">
-                                {phase === "summary" ? `共 ${questions.length} 题` : `第 ${index + 1} / ${questions.length} 题`}
-                            </span>
-                        )}
+                        <div className="flex items-center gap-2">
+                            {(phase === "question" || phase === "answer") && questions.length > 0 && (
+                                <Button
+                                    variant="ghost"
+                                    size="sm"
+                                    onClick={() => void abandon()}
+                                    className="text-muted-foreground"
+                                >
+                                    <RotateCcw className="size-4" />
+                                    放弃重来
+                                </Button>
+                            )}
+                            {phase !== "empty" && phase !== "error" && questions.length > 0 && (
+                                <span className="text-sm text-muted-foreground">
+                                    {phase === "summary"
+                                        ? `共 ${questions.length} 题`
+                                        : `第 ${index + 1} / ${questions.length} 题`}
+                                </span>
+                            )}
+                        </div>
                     </div>
 
                     {scope && (

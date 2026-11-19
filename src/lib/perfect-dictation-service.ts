@@ -33,10 +33,12 @@ import {
     type CompleteGroupResponse,
     type CompleteQuestionResult,
     type DictationScope,
+    type DraftAnswer,
     type GroupResponse,
     type LeaderboardRow,
     type LeaderboardResponse,
     type LeaderboardType,
+    type PerfectDictationDraft,
     type PerfectDictationHome,
     type PerfectDictationSettings,
     type PracticeMode,
@@ -181,7 +183,7 @@ async function getHomeBase(
     userId: number
 ): Promise<Omit<PerfectDictationHome, "scope">> {
     const today = dayKey()
-    const [settings, groups, mistakes, states] = await Promise.all([
+    const [settings, groups, mistakes, states, draft] = await Promise.all([
         getOrCreateSettings(userId),
         prisma.perfectDictationGroup.findMany({
             where: { userId },
@@ -194,6 +196,7 @@ async function getHomeBase(
             where: { userId },
             select: { normalized: true, status: true, dueAt: true },
         }),
+        prisma.perfectDictationDraft.findUnique({ where: { userId } }),
     ])
 
     const now = new Date()
@@ -209,6 +212,16 @@ async function getHomeBase(
     const weekDays = Array.from({ length: 7 }, (_, i) => shiftDayKey(today, i - 6))
     const daySet = new Set(days)
 
+    const draftQuestions = asJsonArray(draft?.questions)
+    const draftResults = asJsonArray(draft?.results)
+    const draftProgress =
+        draft && draftQuestions.length > 0
+            ? {
+                  answered: Math.min(draftResults.length, draftQuestions.length),
+                  total: draftQuestions.length,
+              }
+            : null
+
     return {
         settings,
         streak: computeStreak(days, today),
@@ -222,6 +235,7 @@ async function getHomeBase(
             weekday: weekdayLabel(day),
             checked: daySet.has(day),
         })),
+        draft: draftProgress,
     }
 }
 
@@ -239,6 +253,44 @@ export async function getHomeState(
         }),
     ])
     return { ...base, scope }
+}
+
+// ---------------- 未完成草稿（继续作答） ----------------
+
+function asJsonArray(value: unknown): unknown[] {
+    return Array.isArray(value) ? value : []
+}
+
+/** 读取未完成的草稿；没有则返回 null */
+export async function getDraft(userId: number): Promise<PerfectDictationDraft | null> {
+    const draft = await prisma.perfectDictationDraft.findUnique({ where: { userId } })
+    if (!draft) return null
+    const questions = asJsonArray(draft.questions) as PracticeQuestion[]
+    const results = asJsonArray(draft.results) as DraftAnswer[]
+    return {
+        mode: isPracticeMode(draft.mode) ? draft.mode : "mixed",
+        questions,
+        results,
+    }
+}
+
+/** 保存/覆盖未完成的草稿（整组题目 + 已作答结果） */
+export async function saveDraft(
+    userId: number,
+    data: PerfectDictationDraft
+): Promise<void> {
+    const questions = data.questions as unknown as Prisma.InputJsonValue
+    const results = data.results as unknown as Prisma.InputJsonValue
+    await prisma.perfectDictationDraft.upsert({
+        where: { userId },
+        update: { mode: data.mode, questions, results },
+        create: { userId, mode: data.mode, questions, results },
+    })
+}
+
+/** 清除未完成的草稿（完成一组 / 放弃重来 / 设置变更时） */
+export async function deleteDraft(userId: number): Promise<void> {
+    await prisma.perfectDictationDraft.deleteMany({ where: { userId } })
 }
 
 async function loadMistakeCandidates(userId: number): Promise<MistakeCandidate[]> {

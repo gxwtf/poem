@@ -43,6 +43,7 @@ model User {
     dictationReviewStates DictationReviewState[]
     perfectDictationGroups PerfectDictationGroup[]
     perfectDictationAnswers PerfectDictationAnswer[]
+    perfectDictationDraft PerfectDictationDraft?
 
     @@map("users")
 }
@@ -271,4 +272,19 @@ model PerfectDictationAnswer {
     @@index([userId, normalized])
     @@index([userId, createdAt])
     @@map("perfect_dictation_answers")
+}
+
+// 完胜默写：未完成的一组题目（草稿）。用户做了一部分没做完时，把整组题目 + 已作答结果
+// 存成 JSON，用于「继续作答」；完成一组或设置变更后清除。每用户至多一份。
+model PerfectDictationDraft {
+    id        String   @id @default(cuid())
+    user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+    userId    Int      @unique
+    mode      String
+    questions Json // PracticeQuestion[]
+    results   Json // DraftAnswer[]
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+
+    @@map("perfect_dictation_drafts")
 }

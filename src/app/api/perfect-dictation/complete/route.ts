@@ -5,6 +5,7 @@ import { SessionData, sessionOptions } from "@/lib/iron"
 import {
     InvalidPracticeResultError,
     completePracticeGroup,
+    deleteDraft,
 } from "@/lib/perfect-dictation-service"
 import { isPracticeMode, type CompleteQuestionResult } from "@/lib/perfect-dictation"
 
@@ -28,6 +29,8 @@ export async function POST(request: NextRequest) {
             mode: body.mode,
             results: body.results as CompleteQuestionResult[],
         })
+        // 完成一组后清除未完成草稿
+        await deleteDraft(session.userid)
         return NextResponse.json(result)
     } catch (error) {
         if (error instanceof InvalidPracticeResultError) {
