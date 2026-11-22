@@ -8,8 +8,8 @@
         "generate:authors": "tsx scripts/generate-authors.tsx",
         "generate:articles": "tsx scripts/generate-articles.tsx",
         "generate:all": "npm run generate:overview && npm run generate:preview && npm run generate:authors && npm run generate:articles",
-        "dev": "next dev",
-        "build": "next build",
+        "dev": "next dev --webpack",
+        "build": "next build --webpack",
         "start": "next start",
         "lint": "eslint"
     },
