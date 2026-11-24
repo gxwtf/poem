@@ -323,27 +323,27 @@ async function seedDictations() {
     await prisma.dictationAppearance.deleteMany()
     await prisma.dictation.deleteMany()
 
-    // 数据库篇名映射：归一化标题 → { title, version }，同标题多版本时 senior 优先
+    // 同名篇目优先使用标注的学段，未标注时优先使用高中篇目。
     const poems = await prisma.poem.findMany({ select: { title: true, version: true } })
-    const poemByNorm = new Map<string, { title: string; version: string }>()
+    const poemsByNorm = new Map<string, typeof poems>()
     for (const p of poems) {
         const key = normalizeTitle(p.title)
-        const cur = poemByNorm.get(key)
-        if (!cur || (cur.version !== 'senior' && p.version === 'senior')) {
-            poemByNorm.set(key, { title: p.title, version: p.version })
-        }
+        const matches = poemsByNorm.get(key) ?? []
+        matches.push(p)
+        poemsByNorm.set(key, matches)
     }
 
     // 出处篇名 → 数据库篇名（精确归一化匹配，其次双向包含，避免短标题误配要求 ≥3 字）
-    function resolvePoem(title: string | undefined): { title: string; version: string } | null {
-        if (!title) return null
-        const key = normalizeTitle(title)
-        const exact = poemByNorm.get(key)
-        if (exact) return exact
-        for (const [norm, info] of poemByNorm) {
-            if (key.length >= 3 && (norm.includes(key) || key.includes(norm))) return info
-        }
-        return null
+    function resolvePoem(source: { title?: string; version?: string } | undefined) {
+        if (!source?.title) return null
+        const key = normalizeTitle(source.title)
+        const matches = poemsByNorm.get(key) ?? [...poemsByNorm].find(([norm]) =>
+            key.length >= 3 && (norm.includes(key) || key.includes(norm))
+        )?.[1]
+        if (!matches) return null
+        return matches.find(p => p.version === source.version)
+            ?? matches.find(p => p.version === 'senior')
+            ?? matches[0]
     }
 
     // full 数据按 id 与 content 建立索引（annotated 的 key 与 full 数组下标不对应）
@@ -384,7 +384,7 @@ async function seedDictations() {
     let linkedCount = 0
     for (const vs of merged) {
         const v = vs[0]
-        const poem = resolvePoem(v.source?.title)
+        const poem = resolvePoem(v.source)
         if (poem) linkedCount++
 
         // 组内所有条目对应的 full 记录都参与考察合并（手动条目用继承的 id 查）

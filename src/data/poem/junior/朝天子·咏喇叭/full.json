@@ -78,7 +78,7 @@
               "index": 12
             }
           ],
-          "translation": "喇叭和唢呐，吹的曲子虽繁，声音却很响亮。"
+          "translation": "喇叭和唢呐，吹的曲调短小，声音却很响亮。"
         },
         {
           "content": [
@@ -158,7 +158,7 @@
               "index": 27
             }
           ],
-          "translation": "官船来往频繁乱如麻，全凭借你抬高名誉听位。"
+          "translation": "官船来往频繁乱如麻，全凭你抬高声势。"
         }
       ]
     },
@@ -282,57 +282,14 @@
               "index": 49
             }
           ],
-          "translation": "哪里会去辨别什么真和假？"
-        },
-        {
-          "content": [
+          "translation": "哪里会去辨别什么真和假？",
+          "notes": [
             {
-              "char": "(",
-              "pinyin": "",
-              "index": 50
-            },
-            {
-              "char": "甚",
-              "pinyin": "yǎn",
-              "index": 51
-            },
-            {
-              "char": "么",
-              "pinyin": "jiàn",
-              "index": 52
-            },
-            {
-              "char": " ",
-              "pinyin": "de",
-              "index": 53
-            },
-            {
-              "char": "同",
-              "pinyin": "chuī",
-              "index": 54
-            },
-            {
-              "char": "：",
-              "pinyin": "",
-              "index": 55
-            },
-            {
-              "char": "什",
-              "pinyin": "fān",
-              "index": 56
-            },
-            {
-              "char": "么",
-              "pinyin": "le",
-              "index": 57
-            },
-            {
-              "char": ")",
-              "pinyin": "",
-              "index": 58
+              "start": 4,
+              "end": 5,
+              "content": "甚么，同“什么”。"
             }
-          ],
-          "translation": "眼看着使有的跑家倾家荡产，有的跑家元气大伤，直吹得江水枯竭鹅飞跑，家破跑亡啊！"
+          ]
         }
       ]
     },
@@ -342,126 +299,126 @@
           "content": [
             {
               "char": "眼",
-              "pinyin": "zhè",
-              "index": 59
+              "pinyin": "yǎn",
+              "index": 50
             },
             {
               "char": "见",
-              "pinyin": "jiā",
-              "index": 60
+              "pinyin": "jiàn",
+              "index": 51
             },
             {
               "char": "的",
-              "pinyin": "chuī",
-              "index": 61
+              "pinyin": "de",
+              "index": 52
             },
             {
               "char": "吹",
-              "pinyin": "shāng",
-              "index": 62
+              "pinyin": "chuī",
+              "index": 53
             },
             {
               "char": "翻",
-              "pinyin": "le",
-              "index": 63
+              "pinyin": "fān",
+              "index": 54
             },
             {
               "char": "了",
-              "pinyin": "nà",
-              "index": 64
+              "pinyin": "le",
+              "index": 55
             },
             {
               "char": "这",
-              "pinyin": "jiā",
-              "index": 65
+              "pinyin": "zhè",
+              "index": 56
             },
             {
               "char": "家",
-              "pinyin": "zhǐ",
-              "index": 66
+              "pinyin": "jiā",
+              "index": 57
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 67
+              "index": 58
             },
             {
               "char": "吹",
               "pinyin": "chuī",
-              "index": 68
+              "index": 59
             },
             {
               "char": "伤",
-              "pinyin": "de",
-              "index": 69
+              "pinyin": "shāng",
+              "index": 60
             },
             {
               "char": "了",
-              "pinyin": "shuǐ",
-              "index": 70
+              "pinyin": "le",
+              "index": 61
             },
             {
               "char": "那",
-              "pinyin": "jìn",
-              "index": 71
+              "pinyin": "nà",
+              "index": 62
             },
             {
               "char": "家",
-              "pinyin": "é",
-              "index": 72
+              "pinyin": "jiā",
+              "index": 63
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 73
+              "index": 64
             },
             {
               "char": "只",
-              "pinyin": "fēi",
-              "index": 74
+              "pinyin": "zhǐ",
+              "index": 65
             },
             {
               "char": "吹",
-              "pinyin": "bà",
-              "index": 75
+              "pinyin": "chuī",
+              "index": 66
             },
             {
               "char": "的",
-              "pinyin": "",
-              "index": 76
+              "pinyin": "de",
+              "index": 67
             },
             {
               "char": "水",
-              "pinyin": "",
-              "index": 77
+              "pinyin": "shuǐ",
+              "index": 68
             },
             {
               "char": "尽",
-              "pinyin": "",
-              "index": 78
+              "pinyin": "jìn",
+              "index": 69
             },
             {
               "char": "鹅",
-              "pinyin": "",
-              "index": 79
+              "pinyin": "é",
+              "index": 70
             },
             {
               "char": "飞",
-              "pinyin": "",
-              "index": 80
+              "pinyin": "fēi",
+              "index": 71
             },
             {
               "char": "罢",
-              "pinyin": "",
-              "index": 81
+              "pinyin": "bà",
+              "index": 72
             },
             {
               "char": "！",
               "pinyin": "",
-              "index": 82
+              "index": 73
             }
           ],
-          "translation": "译文二喇叭锁呐呜呜哇哇，曲子很繁声音大。"
+          "translation": "眼看着它吹翻了这家，吹伤了那家，直吹得水干鹅飞，百姓倾家荡产！"
         }
       ]
     }

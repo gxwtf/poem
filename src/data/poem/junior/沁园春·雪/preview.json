@@ -66,7 +66,7 @@
             }
           ],
           "translation": {
-            "translation": "北方的风光，千里冰封冻，下里雪花飘。"
+            "translation": "北方的风光，千里冰封冻，万里雪花飘。"
           },
           "notes": []
         },
@@ -120,7 +120,13 @@
           "translation": {
             "translation": "望长城内外，只剩下无边无际白茫茫一片。"
           },
-          "notes": []
+          "notes": [
+            {
+              "start": 6,
+              "end": 7,
+              "note": "余，通“馀”。"
+            }
+          ]
         },
         {
           "sentence": [
@@ -166,39 +172,83 @@
             }
           ],
           "translation": {
-            "translation": "整条水河，立刻失去了波涛滚滚的水势。"
+            "translation": "整条黄河，立刻失去了波涛滚滚的水势。"
           },
           "notes": []
         },
         {
           "sentence": [
             {
-              "char": "(",
-              "pinyin": ""
-            },
-            {
-              "char": "余",
+              "char": "山",
               "pinyin": "shān"
             },
             {
-              "char": " ",
+              "char": "舞",
               "pinyin": "wǔ"
             },
             {
-              "char": "通",
+              "char": "银",
               "pinyin": "yín"
             },
             {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "馀",
+              "char": "蛇",
               "pinyin": "shé"
             },
             {
-              "char": ")",
-              "pinyin": ""
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "原",
+              "pinyin": "yuán"
+            },
+            {
+              "char": "驰",
+              "pinyin": "chí"
+            },
+            {
+              "char": "蜡",
+              "pinyin": "là"
+            },
+            {
+              "char": "象",
+              "pinyin": "xiàng"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "欲",
+              "pinyin": "yù"
+            },
+            {
+              "char": "与",
+              "pinyin": "yǔ"
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "公",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "试",
+              "pinyin": "shì"
+            },
+            {
+              "char": "比",
+              "pinyin": "bǐ"
+            },
+            {
+              "char": "高",
+              "pinyin": "gāo"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
             }
           ],
           "translation": {
@@ -209,96 +259,16 @@
         {
           "sentence": [
             {
-              "char": "山",
-              "pinyin": "yuán"
-            },
-            {
-              "char": "舞",
-              "pinyin": "chí"
-            },
-            {
-              "char": "银",
-              "pinyin": "là"
-            },
-            {
-              "char": "蛇",
-              "pinyin": "xiàng"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "原",
-              "pinyin": "yù"
-            },
-            {
-              "char": "驰",
-              "pinyin": "yǔ"
-            },
-            {
-              "char": "蜡",
-              "pinyin": "tiān"
-            },
-            {
-              "char": "象",
-              "pinyin": "gōng"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "欲",
-              "pinyin": "shì"
-            },
-            {
-              "char": "与",
-              "pinyin": "bǐ"
-            },
-            {
-              "char": "天",
-              "pinyin": "gāo"
-            },
-            {
-              "char": "公",
+              "char": "须",
               "pinyin": "xū"
             },
             {
-              "char": "试",
+              "char": "晴",
               "pinyin": "qíng"
             },
             {
-              "char": "比",
-              "pinyin": "rì"
-            },
-            {
-              "char": "高",
-              "pinyin": "kàn"
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "等到晴天的时候，看皇日和白雪交相辉映，格外娇艳美好。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "须",
-              "pinyin": "hóng"
-            },
-            {
-              "char": "晴",
-              "pinyin": "zhuāng"
-            },
-            {
               "char": "日",
-              "pinyin": "sù"
+              "pinyin": "rì"
             },
             {
               "char": "，",
@@ -306,23 +276,23 @@
             },
             {
               "char": "看",
-              "pinyin": "guǒ"
+              "pinyin": "kàn"
             },
             {
               "char": "红",
-              "pinyin": "fèn"
+              "pinyin": "hóng"
             },
             {
               "char": "装",
-              "pinyin": "wài"
+              "pinyin": "zhuāng"
             },
             {
               "char": "素",
-              "pinyin": "yāo"
+              "pinyin": "sù"
             },
             {
               "char": "裹",
-              "pinyin": "ráo"
+              "pinyin": "guǒ"
             },
             {
               "char": "，",
@@ -330,19 +300,19 @@
             },
             {
               "char": "分",
-              "pinyin": "jiāng"
+              "pinyin": "fèn"
             },
             {
               "char": "外",
-              "pinyin": "shān"
+              "pinyin": "wài"
             },
             {
               "char": "妖",
-              "pinyin": "rú"
+              "pinyin": "yāo"
             },
             {
               "char": "娆",
-              "pinyin": "cǐ"
+              "pinyin": "ráo"
             },
             {
               "char": "。",
@@ -350,7 +320,7 @@
             }
           ],
           "translation": {
-            "translation": "江山是如此的媚娇，引得无数英雄竞相倾倒。"
+            "translation": "等到晴天的时候，看红日和白雪交相辉映，格外娇艳美好。"
           },
           "notes": []
         }
@@ -362,27 +332,27 @@
           "sentence": [
             {
               "char": "江",
-              "pinyin": "duō"
+              "pinyin": "jiāng"
             },
             {
               "char": "山",
-              "pinyin": "jiāo"
+              "pinyin": "shān"
             },
             {
               "char": "如",
-              "pinyin": "yǐn"
+              "pinyin": "rú"
             },
             {
               "char": "此",
-              "pinyin": "wú"
+              "pinyin": "cǐ"
             },
             {
               "char": "多",
-              "pinyin": "shù"
+              "pinyin": "duō"
             },
             {
               "char": "娇",
-              "pinyin": "yīng"
+              "pinyin": "jiāo"
             },
             {
               "char": "，",
@@ -390,38 +360,90 @@
             },
             {
               "char": "引",
-              "pinyin": "xióng"
+              "pinyin": "yǐn"
             },
             {
               "char": "无",
-              "pinyin": "jìng"
+              "pinyin": "wú"
             },
             {
               "char": "数",
-              "pinyin": "zhé"
+              "pinyin": "shù"
             },
             {
               "char": "英",
-              "pinyin": "yāo"
+              "pinyin": "yīng"
             },
             {
               "char": "雄",
-              "pinyin": "xī"
+              "pinyin": "xióng"
             },
             {
               "char": "竞",
-              "pinyin": "qín"
+              "pinyin": "jìng"
             },
             {
               "char": "折",
-              "pinyin": "huáng"
+              "pinyin": "zhé"
             },
             {
               "char": "腰",
-              "pinyin": "hàn"
+              "pinyin": "yāo"
             },
             {
               "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "江山是如此的娇美，引得无数英雄竞相倾倒。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "惜",
+              "pinyin": "xī"
+            },
+            {
+              "char": "秦",
+              "pinyin": "qín"
+            },
+            {
+              "char": "皇",
+              "pinyin": "huáng"
+            },
+            {
+              "char": "汉",
+              "pinyin": "hàn"
+            },
+            {
+              "char": "武",
+              "pinyin": "wǔ"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "略",
+              "pinyin": "lüè"
+            },
+            {
+              "char": "输",
+              "pinyin": "shū"
+            },
+            {
+              "char": "文",
+              "pinyin": "wén"
+            },
+            {
+              "char": "采",
+              "pinyin": "cǎi"
+            },
+            {
+              "char": "；",
               "pinyin": "　"
             }
           ],
@@ -433,72 +455,20 @@
         {
           "sentence": [
             {
-              "char": "惜",
-              "pinyin": "wǔ"
-            },
-            {
-              "char": "秦",
-              "pinyin": "lüè"
-            },
-            {
-              "char": "皇",
-              "pinyin": "shū"
-            },
-            {
-              "char": "汉",
-              "pinyin": "wén"
-            },
-            {
-              "char": "武",
-              "pinyin": "cǎi"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "略",
+              "char": "唐",
               "pinyin": "táng"
             },
             {
-              "char": "输",
+              "char": "宗",
               "pinyin": "zōng"
             },
             {
-              "char": "文",
+              "char": "宋",
               "pinyin": "sòng"
             },
             {
-              "char": "采",
-              "pinyin": "zǔ"
-            },
-            {
-              "char": "；",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "唐太宗、候太祖，稍逊文学才华。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "唐",
-              "pinyin": "shāo"
-            },
-            {
-              "char": "宗",
-              "pinyin": "xùn"
-            },
-            {
-              "char": "宋",
-              "pinyin": "fēng"
-            },
-            {
               "char": "祖",
-              "pinyin": "sāo"
+              "pinyin": "zǔ"
             },
             {
               "char": "，",
@@ -506,19 +476,99 @@
             },
             {
               "char": "稍",
-              "pinyin": "yī"
+              "pinyin": "shāo"
             },
             {
               "char": "逊",
-              "pinyin": "dài"
+              "pinyin": "xùn"
             },
             {
               "char": "风",
-              "pinyin": "tiān"
+              "pinyin": "fēng"
             },
             {
               "char": "骚",
+              "pinyin": "sāo"
+            },
+            {
+              "char": "。",
+              "pinyin": "　"
+            }
+          ],
+          "translation": {
+            "translation": "唐太宗、宋太祖，稍逊文学才华。"
+          },
+          "notes": []
+        },
+        {
+          "sentence": [
+            {
+              "char": "一",
+              "pinyin": "yī"
+            },
+            {
+              "char": "代",
+              "pinyin": "dài"
+            },
+            {
+              "char": "天",
+              "pinyin": "tiān"
+            },
+            {
+              "char": "骄",
               "pinyin": "jiāo"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "成",
+              "pinyin": "chéng"
+            },
+            {
+              "char": "吉",
+              "pinyin": "jí"
+            },
+            {
+              "char": "思",
+              "pinyin": "sī"
+            },
+            {
+              "char": "汗",
+              "pinyin": "hán"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "只",
+              "pinyin": "zhǐ"
+            },
+            {
+              "char": "识",
+              "pinyin": "shí"
+            },
+            {
+              "char": "弯",
+              "pinyin": "wān"
+            },
+            {
+              "char": "弓",
+              "pinyin": "gōng"
+            },
+            {
+              "char": "射",
+              "pinyin": "shè"
+            },
+            {
+              "char": "大",
+              "pinyin": "dà"
+            },
+            {
+              "char": "雕",
+              "pinyin": "diāo"
             },
             {
               "char": "。",
@@ -533,72 +583,60 @@
         {
           "sentence": [
             {
-              "char": "一",
-              "pinyin": "chéng"
-            },
-            {
-              "char": "代",
-              "pinyin": "jí"
-            },
-            {
-              "char": "天",
-              "pinyin": "sī"
-            },
-            {
-              "char": "骄",
-              "pinyin": "hán"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "成",
-              "pinyin": "zhǐ"
-            },
-            {
-              "char": "吉",
-              "pinyin": "shí"
-            },
-            {
-              "char": "思",
-              "pinyin": "wān"
-            },
-            {
-              "char": "汗",
-              "pinyin": "gōng"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "只",
-              "pinyin": "shè"
-            },
-            {
-              "char": "识",
-              "pinyin": "dà"
-            },
-            {
-              "char": "弯",
-              "pinyin": "diāo"
-            },
-            {
-              "char": "弓",
+              "char": "俱",
               "pinyin": "jù"
             },
             {
-              "char": "射",
+              "char": "往",
               "pinyin": "wǎng"
             },
             {
-              "char": "大",
+              "char": "矣",
               "pinyin": "yǐ"
             },
             {
-              "char": "雕",
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "数",
               "pinyin": "shǔ"
+            },
+            {
+              "char": "风",
+              "pinyin": "fēng"
+            },
+            {
+              "char": "流",
+              "pinyin": "liú"
+            },
+            {
+              "char": "人",
+              "pinyin": "rén"
+            },
+            {
+              "char": "物",
+              "pinyin": "wù"
+            },
+            {
+              "char": "，",
+              "pinyin": "　"
+            },
+            {
+              "char": "还",
+              "pinyin": "hái"
+            },
+            {
+              "char": "看",
+              "pinyin": "kàn"
+            },
+            {
+              "char": "今",
+              "pinyin": "jīn"
+            },
+            {
+              "char": "朝",
+              "pinyin": "zhāo"
             },
             {
               "char": "。",
@@ -607,74 +645,6 @@
           ],
           "translation": {
             "translation": "这些人物都已经过去了，称得上能建功立业的英雄人物，还要看今天的人们。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "俱",
-              "pinyin": "fēng"
-            },
-            {
-              "char": "往",
-              "pinyin": "liú"
-            },
-            {
-              "char": "矣",
-              "pinyin": "rén"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "数",
-              "pinyin": "wù"
-            },
-            {
-              "char": "风",
-              "pinyin": "hái"
-            },
-            {
-              "char": "流",
-              "pinyin": "kàn"
-            },
-            {
-              "char": "人",
-              "pinyin": "jīn"
-            },
-            {
-              "char": "物",
-              "pinyin": "zhāo"
-            },
-            {
-              "char": "，",
-              "pinyin": "　"
-            },
-            {
-              "char": "还",
-              "pinyin": ""
-            },
-            {
-              "char": "看",
-              "pinyin": ""
-            },
-            {
-              "char": "今",
-              "pinyin": ""
-            },
-            {
-              "char": "朝",
-              "pinyin": ""
-            },
-            {
-              "char": "。",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": ""
           },
           "notes": []
         }

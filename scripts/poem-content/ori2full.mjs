@@ -78,7 +78,7 @@ function splitPinyin(pinyinStr) {
  * 1. 按 "/" 将正文拆分为段落。
  * 2. 使用正则匹配每段中的句子。
  * 3. 将句子拆成单字，填充 char / pinyin / index。
- * 4. 对 translation 做相同的句子拆分，并与正文句子一一对应。
+ * 4. translation 为数组时按正文顺序逐句对应，为字符串时沿用标点分句。
  */
 function buildParagraphs(content, translation, pinyin) {
     const rawParagraphs = (content || "").split("/").map(p => p.trim()).filter(Boolean);
@@ -86,20 +86,21 @@ function buildParagraphs(content, translation, pinyin) {
     let pinyinIndex = 0;
     let globalIndex = 0;
 
-    // ---- Global sentence alignment (ignore paragraph structure for translation) ----
-    const globalRawSentences = (content || "")
-        .replaceAll("/", "")
-        .match(SENTENCE_MATCH_REGEX) || [];
+    const paragraphSentences = rawParagraphs.map(paraStr =>
+        (paraStr.match(SENTENCE_MATCH_REGEX) || [paraStr]).map(s => s.trim()).filter(Boolean)
+    );
+    const hasAlignedTranslations = Array.isArray(translation);
+    const globalTransSentences = hasAlignedTranslations
+        ? translation
+        : (translation || "").match(TRANSLATION_MATCH_REGEX) || [];
 
-    const globalTransSentences = (translation || "")
-        .match(TRANSLATION_MATCH_REGEX) || [];
+    if (hasAlignedTranslations && globalTransSentences.length !== paragraphSentences.flat().length) {
+        throw new Error("逐句译文的条数与正文句数不一致");
+    }
 
     let globalSentenceCursor = 0;
 
-    const paragraphs = rawParagraphs.map((paraStr) => {
-        // match sentences including trailing punctuation
-        const rawSentences = (paraStr.match(SENTENCE_MATCH_REGEX) || [paraStr]).map(s => s.trim()).filter(Boolean);
-
+    const paragraphs = paragraphSentences.map((rawSentences) => {
         const sentences = rawSentences.map((sentence) => {
             const contentArr = [];
             // iterate by code points to handle any multi-byte characters safely
