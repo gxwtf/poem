@@ -54,7 +54,7 @@
             }
           ],
           "translation": {
-            "translation": "世上先有伯乐，然后有千不马。"
+            "translation": "世上先有伯乐，然后才有千里马。"
           },
           "notes": []
         },
@@ -114,7 +114,7 @@
             }
           ],
           "translation": {
-            "translation": "千不马经常有，但是伯乐不常有。"
+            "translation": "千里马常有，可是伯乐不常有。"
           },
           "notes": []
         },
@@ -146,7 +146,13 @@
             },
             {
               "char": "祗",
-              "pinyin": "zhǐ"
+              "pinyin": "zhǐ",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "祗，同“衹”。"
+                }
+              ]
             },
             {
               "char": "辱",
@@ -242,43 +248,7 @@
             }
           ],
           "translation": {
-            "translation": "因此虽然有名贵的马，辱只能在马夫的手不受到屈辱（或埋没），和普通的马一同死在马厩不，不能因日行千不喂闻名于世。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "(",
-              "pinyin": ""
-            },
-            {
-              "char": "祗",
-              "pinyin": "mǎ"
-            },
-            {
-              "char": " ",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "同",
-              "pinyin": "qiān"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "衹",
-              "pinyin": "lǐ"
-            },
-            {
-              "char": ")",
-              "pinyin": ""
-            }
-          ],
-          "translation": {
-            "translation": "日行千不的马，吃一顿有时能吃尽一石粮食。"
+            "translation": "因此，即使有名贵的马，也只能在马夫手里受屈辱，和普通的马一同死在马厩里，不能凭日行千里而闻名。"
           },
           "notes": []
         }
@@ -290,23 +260,23 @@
           "sentence": [
             {
               "char": "马",
-              "pinyin": "zhě"
+              "pinyin": "mǎ"
             },
             {
               "char": "之",
-              "pinyin": "yī"
+              "pinyin": "zhī"
             },
             {
               "char": "千",
-              "pinyin": "shí"
+              "pinyin": "qiān"
             },
             {
               "char": "里",
-              "pinyin": "huò"
+              "pinyin": "lǐ"
             },
             {
               "char": "者",
-              "pinyin": "jìn"
+              "pinyin": "zhě"
             },
             {
               "char": "，",
@@ -314,31 +284,31 @@
             },
             {
               "char": "一",
-              "pinyin": "sù"
-            },
-            {
-              "char": "食",
               "pinyin": "yī"
             },
             {
+              "char": "食",
+              "pinyin": "shí"
+            },
+            {
               "char": "或",
-              "pinyin": "dàn"
+              "pinyin": "huò"
             },
             {
               "char": "尽",
-              "pinyin": "sì"
+              "pinyin": "jìn"
             },
             {
               "char": "粟",
-              "pinyin": "mǎ"
+              "pinyin": "sù"
             },
             {
               "char": "一",
-              "pinyin": "zhě"
+              "pinyin": "yī"
             },
             {
               "char": "石",
-              "pinyin": "bù"
+              "pinyin": "dàn"
             },
             {
               "char": "。",
@@ -346,7 +316,7 @@
             }
           ],
           "translation": {
-            "translation": "喂千不马的人不知道它能日行千不喂像普通的马一样来喂养它。"
+            "translation": "能日行千里的马，有时一顿能吃完一石粮食。"
           },
           "notes": []
         },
@@ -354,51 +324,51 @@
           "sentence": [
             {
               "char": "食",
-              "pinyin": "zhī"
-            },
-            {
-              "char": "马",
-              "pinyin": "qí"
-            },
-            {
-              "char": "者",
-              "pinyin": "néng"
-            },
-            {
-              "char": "不",
-              "pinyin": "qiān"
-            },
-            {
-              "char": "知",
-              "pinyin": "lǐ"
-            },
-            {
-              "char": "其",
-              "pinyin": "ér"
-            },
-            {
-              "char": "能",
               "pinyin": "sì"
             },
             {
-              "char": "千",
-              "pinyin": "yě"
-            },
-            {
-              "char": "里",
-              "pinyin": "shì"
-            },
-            {
-              "char": "而",
+              "char": "马",
               "pinyin": "mǎ"
             },
             {
+              "char": "者",
+              "pinyin": "zhě"
+            },
+            {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "知",
+              "pinyin": "zhī"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "千",
+              "pinyin": "qiān"
+            },
+            {
+              "char": "里",
+              "pinyin": "lǐ"
+            },
+            {
+              "char": "而",
+              "pinyin": "ér"
+            },
+            {
               "char": "食",
-              "pinyin": "yě"
+              "pinyin": "sì"
             },
             {
               "char": "也",
-              "pinyin": "suī"
+              "pinyin": "yě"
             },
             {
               "char": "。",
@@ -406,7 +376,7 @@
             }
           ],
           "translation": {
-            "translation": "这样的马，虽然有日行千不的能力，但吃不饱，力气不足，才能和优良的素质不能表现在外面。"
+            "translation": "喂马的人不懂得要按照它日行千里的能力来喂养它。"
           },
           "notes": []
         },
@@ -414,15 +384,15 @@
           "sentence": [
             {
               "char": "是",
-              "pinyin": "yǒu"
+              "pinyin": "shì"
             },
             {
               "char": "马",
-              "pinyin": "qiān"
+              "pinyin": "mǎ"
             },
             {
               "char": "也",
-              "pinyin": "lǐ"
+              "pinyin": "yě"
             },
             {
               "char": "，",
@@ -430,27 +400,27 @@
             },
             {
               "char": "虽",
-              "pinyin": "zhī"
+              "pinyin": "suī"
             },
             {
               "char": "有",
-              "pinyin": "néng"
+              "pinyin": "yǒu"
             },
             {
               "char": "千",
-              "pinyin": "shí"
+              "pinyin": "qiān"
             },
             {
               "char": "里",
-              "pinyin": "bù"
+              "pinyin": "lǐ"
             },
             {
               "char": "之",
-              "pinyin": "bǎo"
+              "pinyin": "zhī"
             },
             {
               "char": "能",
-              "pinyin": "lì"
+              "pinyin": "néng"
             },
             {
               "char": "，",
@@ -458,15 +428,15 @@
             },
             {
               "char": "食",
-              "pinyin": "bù"
+              "pinyin": "shí"
             },
             {
               "char": "不",
-              "pinyin": "zú"
+              "pinyin": "bù"
             },
             {
               "char": "饱",
-              "pinyin": "cái"
+              "pinyin": "bǎo"
             },
             {
               "char": "，",
@@ -474,7 +444,7 @@
             },
             {
               "char": "力",
-              "pinyin": "měi"
+              "pinyin": "lì"
             },
             {
               "char": "不",
@@ -482,7 +452,7 @@
             },
             {
               "char": "足",
-              "pinyin": "wài"
+              "pinyin": "zú"
             },
             {
               "char": "，",
@@ -490,23 +460,23 @@
             },
             {
               "char": "才",
-              "pinyin": "xiàn"
+              "pinyin": "cái"
             },
             {
               "char": "美",
-              "pinyin": "qiě"
+              "pinyin": "měi"
             },
             {
               "char": "不",
-              "pinyin": "yù"
+              "pinyin": "bù"
             },
             {
               "char": "外",
-              "pinyin": "yǔ"
+              "pinyin": "wài"
             },
             {
               "char": "见",
-              "pinyin": "cháng"
+              "pinyin": "xiàn"
             },
             {
               "char": "，",
@@ -514,39 +484,39 @@
             },
             {
               "char": "且",
-              "pinyin": "mǎ"
+              "pinyin": "qiě"
             },
             {
               "char": "欲",
-              "pinyin": "děng"
+              "pinyin": "yù"
             },
             {
               "char": "与",
-              "pinyin": "bù"
+              "pinyin": "yǔ"
             },
             {
               "char": "常",
-              "pinyin": "kě"
+              "pinyin": "cháng"
             },
             {
               "char": "马",
-              "pinyin": "dé"
+              "pinyin": "mǎ"
             },
             {
               "char": "等",
-              "pinyin": "ān"
+              "pinyin": "děng"
             },
             {
               "char": "不",
-              "pinyin": "qiú"
+              "pinyin": "bù"
             },
             {
               "char": "可",
-              "pinyin": "qí"
+              "pinyin": "kě"
             },
             {
               "char": "得",
-              "pinyin": "néng"
+              "pinyin": "dé"
             },
             {
               "char": "，",
@@ -554,31 +524,31 @@
             },
             {
               "char": "安",
-              "pinyin": "qiān"
+              "pinyin": "ān"
             },
             {
               "char": "求",
-              "pinyin": "lǐ"
+              "pinyin": "qiú"
             },
             {
               "char": "其",
-              "pinyin": "yě"
+              "pinyin": "qí"
             },
             {
               "char": "能",
-              "pinyin": "cè"
+              "pinyin": "néng"
             },
             {
               "char": "千",
-              "pinyin": "zhī"
+              "pinyin": "qiān"
             },
             {
               "char": "里",
-              "pinyin": "bù"
+              "pinyin": "lǐ"
             },
             {
               "char": "也",
-              "pinyin": "yǐ"
+              "pinyin": "yě"
             },
             {
               "char": "？",
@@ -586,7 +556,7 @@
             }
           ],
           "translation": {
-            "translation": "想要和普通的马一样尚且做不到，怎么能够要求它（日行）千不呢？"
+            "translation": "这样的马虽然有日行千里的能力，却吃不饱，力气不足，才能和优良素质不能表现出来。它连和普通马一样都做不到，怎么能要求它日行千里呢？"
           },
           "notes": []
         }
@@ -598,27 +568,27 @@
           "sentence": [
             {
               "char": "策",
-              "pinyin": "qí"
+              "pinyin": "cè"
             },
             {
               "char": "之",
-              "pinyin": "dào"
-            },
-            {
-              "char": "不",
-              "pinyin": "sì"
-            },
-            {
-              "char": "以",
               "pinyin": "zhī"
             },
             {
-              "char": "其",
+              "char": "不",
               "pinyin": "bù"
             },
             {
+              "char": "以",
+              "pinyin": "yǐ"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
               "char": "道",
-              "pinyin": "néng"
+              "pinyin": "dào"
             },
             {
               "char": "，",
@@ -626,31 +596,31 @@
             },
             {
               "char": "食",
-              "pinyin": "jìn"
+              "pinyin": "sì"
             },
             {
               "char": "之",
-              "pinyin": "qí"
-            },
-            {
-              "char": "不",
-              "pinyin": "cái"
-            },
-            {
-              "char": "能",
-              "pinyin": "míng"
-            },
-            {
-              "char": "尽",
               "pinyin": "zhī"
             },
             {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "尽",
+              "pinyin": "jìn"
+            },
+            {
               "char": "其",
-              "pinyin": "ér"
+              "pinyin": "qí"
             },
             {
               "char": "材",
-              "pinyin": "bù"
+              "pinyin": "cái"
             },
             {
               "char": "，",
@@ -658,35 +628,35 @@
             },
             {
               "char": "鸣",
-              "pinyin": "néng"
+              "pinyin": "míng"
             },
             {
               "char": "之",
-              "pinyin": "tōng"
+              "pinyin": "zhī"
             },
             {
               "char": "而",
-              "pinyin": "qí"
-            },
-            {
-              "char": "不",
-              "pinyin": "yì"
-            },
-            {
-              "char": "能",
-              "pinyin": "zhí"
-            },
-            {
-              "char": "通",
-              "pinyin": "cè"
-            },
-            {
-              "char": "其",
               "pinyin": "ér"
             },
             {
+              "char": "不",
+              "pinyin": "bù"
+            },
+            {
+              "char": "能",
+              "pinyin": "néng"
+            },
+            {
+              "char": "通",
+              "pinyin": "tōng"
+            },
+            {
+              "char": "其",
+              "pinyin": "qí"
+            },
+            {
               "char": "意",
-              "pinyin": "lín"
+              "pinyin": "yì"
             },
             {
               "char": "，",
@@ -694,23 +664,23 @@
             },
             {
               "char": "执",
-              "pinyin": "zhī"
+              "pinyin": "zhí"
             },
             {
               "char": "策",
-              "pinyin": "yuē"
+              "pinyin": "cè"
             },
             {
               "char": "而",
-              "pinyin": "tiān"
+              "pinyin": "ér"
             },
             {
               "char": "临",
-              "pinyin": "xià"
+              "pinyin": "lín"
             },
             {
               "char": "之",
-              "pinyin": "wú"
+              "pinyin": "zhī"
             },
             {
               "char": "，",
@@ -718,7 +688,7 @@
             },
             {
               "char": "曰",
-              "pinyin": "mǎ"
+              "pinyin": "yuē"
             },
             {
               "char": "：",
@@ -730,19 +700,19 @@
             },
             {
               "char": "天",
-              "pinyin": "wū"
+              "pinyin": "tiān"
             },
             {
               "char": "下",
-              "pinyin": "hū"
+              "pinyin": "xià"
             },
             {
               "char": "无",
-              "pinyin": "qí"
+              "pinyin": "wú"
             },
             {
               "char": "马",
-              "pinyin": "zhēn"
+              "pinyin": "mǎ"
             },
             {
               "char": "！",
@@ -754,7 +724,7 @@
             }
           ],
           "translation": {
-            "translation": "不按照驱使千不马的正确方法驱使它，喂养它却不能让他竭尽才能，使它日行千不的能力充分发挥出来，转千不马鸣叫，却不能通晓它的意思，拿着鞭子面对它，说：“天下没有千不马！”"
+            "translation": "鞭策它不按正确的方法，喂养它不能使它充分发挥才能，听见它嘶鸣却不懂它的意思，反倒拿着鞭子走到它跟前说：“天下没有千里马！”"
           },
           "notes": []
         },
@@ -762,11 +732,11 @@
           "sentence": [
             {
               "char": "呜",
-              "pinyin": "wú"
+              "pinyin": "wū"
             },
             {
               "char": "呼",
-              "pinyin": "mǎ"
+              "pinyin": "hū"
             },
             {
               "char": "！",
@@ -774,7 +744,7 @@
             }
           ],
           "translation": {
-            "translation": "唉，难道真的没有千不马吗？"
+            "translation": "唉！"
           },
           "notes": []
         },
@@ -782,23 +752,23 @@
           "sentence": [
             {
               "char": "其",
-              "pinyin": "yé"
-            },
-            {
-              "char": "真",
               "pinyin": "qí"
             },
             {
-              "char": "无",
+              "char": "真",
               "pinyin": "zhēn"
             },
             {
+              "char": "无",
+              "pinyin": "wú"
+            },
+            {
               "char": "马",
-              "pinyin": "bù"
+              "pinyin": "mǎ"
             },
             {
               "char": "邪",
-              "pinyin": "zhī"
+              "pinyin": "yé"
             },
             {
               "char": "？",
@@ -806,7 +776,7 @@
             }
           ],
           "translation": {
-            "translation": "大概是真的不认识千不马吧！"
+            "translation": "难道真的没有千里马吗？"
           },
           "notes": []
         },
@@ -814,27 +784,27 @@
           "sentence": [
             {
               "char": "其",
-              "pinyin": "mǎ"
+              "pinyin": "qí"
             },
             {
               "char": "真",
-              "pinyin": "yě"
+              "pinyin": "zhēn"
             },
             {
               "char": "不",
-              "pinyin": ""
+              "pinyin": "bù"
             },
             {
               "char": "知",
-              "pinyin": ""
+              "pinyin": "zhī"
             },
             {
               "char": "马",
-              "pinyin": ""
+              "pinyin": "mǎ"
             },
             {
               "char": "也",
-              "pinyin": ""
+              "pinyin": "yě"
             },
             {
               "char": "！",
@@ -842,7 +812,7 @@
             }
           ],
           "translation": {
-            "translation": ""
+            "translation": "大概是他们真的不认识千里马吧！"
           },
           "notes": []
         }

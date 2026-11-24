@@ -73,7 +73,7 @@
               "index": 11
             }
           ],
-          "translation": "驿站外的断桥边，梅花孤单冷清的绽放着，无人过问。"
+          "translation": "驿站外的断桥边，梅花孤单冷清地绽放着，无人过问。"
         },
         {
           "content": [
@@ -148,47 +148,14 @@
               "index": 25
             }
           ],
-          "translation": "已是日落黄昏，她正独自忧愁感伤，却又遭到了风雨的摧残。"
-        },
-        {
-          "content": [
+          "translation": "已是日落黄昏，她正独自忧愁感伤，却又遭到了风雨的摧残。",
+          "notes": [
             {
-              "char": "(",
-              "pinyin": "",
-              "index": 26
-            },
-            {
-              "char": "着",
-              "pinyin": "wú",
-              "index": 27
-            },
-            {
-              "char": " ",
-              "pinyin": "yì",
-              "index": 28
-            },
-            {
-              "char": "同",
-              "pinyin": "kǔ",
-              "index": 29
-            },
-            {
-              "char": "：",
-              "pinyin": "",
-              "index": 30
-            },
-            {
-              "char": "著",
-              "pinyin": "zhēng",
-              "index": 31
-            },
-            {
-              "char": ")",
-              "pinyin": "",
-              "index": 32
+              "start": 9,
+              "end": 9,
+              "content": "着，同“著”。"
             }
-          ],
-          "translation": "梅花并不想费尽心思与百花争奇斗艳，任凭百花嫉妒。"
+          ]
         }
       ]
     },
@@ -198,141 +165,141 @@
           "content": [
             {
               "char": "无",
-              "pinyin": "chūn",
-              "index": 33
+              "pinyin": "wú",
+              "index": 26
             },
             {
               "char": "意",
-              "pinyin": "yī",
-              "index": 34
+              "pinyin": "yì",
+              "index": 27
             },
             {
               "char": "苦",
-              "pinyin": "rèn",
-              "index": 35
+              "pinyin": "kǔ",
+              "index": 28
             },
             {
               "char": "争",
-              "pinyin": "qún",
-              "index": 36
+              "pinyin": "zhēng",
+              "index": 29
             },
             {
               "char": "春",
-              "pinyin": "fāng",
-              "index": 37
+              "pinyin": "chūn",
+              "index": 30
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 38
+              "index": 31
             },
             {
               "char": "一",
-              "pinyin": "dù",
-              "index": 39
+              "pinyin": "yī",
+              "index": 32
             },
             {
               "char": "任",
-              "pinyin": "líng",
-              "index": 40
+              "pinyin": "rèn",
+              "index": 33
             },
             {
               "char": "群",
-              "pinyin": "luò",
-              "index": 41
+              "pinyin": "qún",
+              "index": 34
             },
             {
               "char": "芳",
-              "pinyin": "chéng",
-              "index": 42
+              "pinyin": "fāng",
+              "index": 35
             },
             {
               "char": "妒",
-              "pinyin": "ní",
-              "index": 43
+              "pinyin": "dù",
+              "index": 36
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 44
+              "index": 37
             }
           ],
-          "translation": "即使凋零被碾作泥土，又化作尘土，它仍和往常一样散发出缕缕清香。"
+          "translation": "梅花并不想费尽心思与百花争奇斗艳，任凭百花嫉妒。"
         },
         {
           "content": [
             {
               "char": "零",
-              "pinyin": "niǎn",
-              "index": 45
+              "pinyin": "líng",
+              "index": 38
             },
             {
               "char": "落",
-              "pinyin": "zuò",
-              "index": 46
+              "pinyin": "luò",
+              "index": 39
             },
             {
               "char": "成",
-              "pinyin": "chén",
-              "index": 47
+              "pinyin": "chéng",
+              "index": 40
             },
             {
               "char": "泥",
-              "pinyin": "zhǐ",
-              "index": 48
+              "pinyin": "ní",
+              "index": 41
             },
             {
               "char": "碾",
-              "pinyin": "yǒu",
-              "index": 49
+              "pinyin": "niǎn",
+              "index": 42
             },
             {
               "char": "作",
-              "pinyin": "xiāng",
-              "index": 50
+              "pinyin": "zuò",
+              "index": 43
             },
             {
               "char": "尘",
-              "pinyin": "rú",
-              "index": 51
+              "pinyin": "chén",
+              "index": 44
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 52
+              "index": 45
             },
             {
               "char": "只",
-              "pinyin": "gù",
-              "index": 53
+              "pinyin": "zhǐ",
+              "index": 46
             },
             {
               "char": "有",
-              "pinyin": "",
-              "index": 54
+              "pinyin": "yǒu",
+              "index": 47
             },
             {
               "char": "香",
-              "pinyin": "",
-              "index": 55
+              "pinyin": "xiāng",
+              "index": 48
             },
             {
               "char": "如",
-              "pinyin": "",
-              "index": 56
+              "pinyin": "rú",
+              "index": 49
             },
             {
               "char": "故",
-              "pinyin": "",
-              "index": 57
+              "pinyin": "gù",
+              "index": 50
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 58
+              "index": 51
             }
           ],
-          "translation": ""
+          "translation": "即使凋零被碾作泥土，又化作尘土，它仍和往常一样散发出缕缕清香。"
         }
       ]
     }

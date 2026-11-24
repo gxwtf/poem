@@ -104,7 +104,7 @@
               "index": 17
             }
           ],
-          "translation": "鲁庄公将要迎战。"
+          "translation": "鲁庄公将要迎战。曹刿请求鲁庄公接见自己。"
         },
         {
           "content": [
@@ -199,7 +199,7 @@
               "index": 35
             }
           ],
-          "translation": "曹刿请求鲁庄公接见自己。"
+          "translation": "他的同乡说：“打仗的事当权者自会谋划，你又何必参与呢？”"
         },
         {
           "content": [
@@ -279,7 +279,7 @@
               "index": 50
             }
           ],
-          "translation": "他的同乡说：“打仗的事当权者自会谋划，你又何必参与呢？”"
+          "translation": "曹刿说：“当权者目光短浅，不能深谋远虑。”"
         },
         {
           "content": [
@@ -304,7 +304,7 @@
               "index": 54
             }
           ],
-          "translation": "曹刿说：“当权者目光短浅，不能深谋远虑。”"
+          "translation": "于是入朝去见鲁庄公。"
         },
         {
           "content": [
@@ -349,7 +349,7 @@
               "index": 62
             }
           ],
-          "translation": "于是入朝去见鲁庄公。"
+          "translation": "曹刿问：“您凭借什么作战？”"
         },
         {
           "content": [
@@ -454,7 +454,7 @@
               "index": 82
             }
           ],
-          "translation": "曹刿问：“您凭借什么作战？”"
+          "translation": "鲁庄公说：“衣食这类安身的东西，不敢独自享有，一定把它分给别人。”"
         },
         {
           "content": [
@@ -534,7 +534,14 @@
               "index": 97
             }
           ],
-          "translation": "鲁庄公说：“衣食这类安身的东西，不敢独自享有，一定把它分给别人。”"
+          "translation": "曹刿回答说：“这些小恩惠不能遍及百姓，百姓是不会听从您的。”",
+          "notes": [
+            {
+              "start": 7,
+              "end": 7,
+              "content": "遍，一作“徧”。"
+            }
+          ]
         },
         {
           "content": [
@@ -634,7 +641,7 @@
               "index": 116
             }
           ],
-          "translation": "曹刿回答说：“这些小恩惠不能遍及百姓，百姓是不会听从您的。”"
+          "translation": "鲁庄公说：“祭祀神灵的牛、羊、玉帛之类的用品，我(从来)不敢虚报数目，一定按照承诺的去做。”"
         },
         {
           "content": [
@@ -714,7 +721,7 @@
               "index": 131
             }
           ],
-          "translation": "鲁庄公说：“祭祀神灵的牛、羊、玉帛之类的用品，我(从来)不敢虚报数目，一定按照承诺的去做。”"
+          "translation": "曹刿说：“这只是小信用，未能让神灵信服，神是不会保佑你的。”"
         },
         {
           "content": [
@@ -814,7 +821,7 @@
               "index": 150
             }
           ],
-          "translation": "曹刿说：“这只是小信用，未能让神灵信服，神是不会保佑你的。”"
+          "translation": "鲁庄公说：“大大小小的诉讼案件，虽然不能件件都了解得清楚，但一定要处理得合情合理。”"
         },
         {
           "content": [
@@ -864,7 +871,7 @@
               "index": 159
             }
           ],
-          "translation": "鲁庄公说：“大大小小的诉讼案件，虽然不能件件都了解得清楚，但一定要处理得合情合理。”"
+          "translation": "曹刿回答说：“这才是尽了本职一类的事。"
         },
         {
           "content": [
@@ -894,7 +901,7 @@
               "index": 164
             }
           ],
-          "translation": "曹刿回答说：“这才是尽了本职一类的事，可以凭借这个条件打一仗。"
+          "translation": "可以凭借这个条件打一仗。"
         },
         {
           "content": [
@@ -930,51 +937,6 @@
             }
           ],
           "translation": "如果作战，请允许我跟随您一同去。”"
-        },
-        {
-          "content": [
-            {
-              "char": "（",
-              "pinyin": "",
-              "index": 171
-            },
-            {
-              "char": "遍",
-              "pinyin": "gōng",
-              "index": 172
-            },
-            {
-              "char": " ",
-              "pinyin": "yǔ",
-              "index": 173
-            },
-            {
-              "char": "一",
-              "pinyin": "zhī",
-              "index": 174
-            },
-            {
-              "char": "作",
-              "pinyin": "chéng",
-              "index": 175
-            },
-            {
-              "char": "：",
-              "pinyin": "",
-              "index": 176
-            },
-            {
-              "char": "徧",
-              "pinyin": "zhàn",
-              "index": 177
-            },
-            {
-              "char": ")",
-              "pinyin": "",
-              "index": 178
-            }
-          ],
-          "translation": "鲁庄公和曹刿共坐一辆战车，在长勺与齐军作战。"
         }
       ]
     },
@@ -984,53 +946,83 @@
           "content": [
             {
               "char": "公",
-              "pinyin": "yú",
-              "index": 179
+              "pinyin": "gōng",
+              "index": 171
             },
             {
               "char": "与",
-              "pinyin": "cháng",
-              "index": 180
+              "pinyin": "yǔ",
+              "index": 172
             },
             {
               "char": "之",
-              "pinyin": "sháo",
-              "index": 181
+              "pinyin": "zhī",
+              "index": 173
             },
             {
               "char": "乘",
-              "pinyin": "gōng",
-              "index": 182
+              "pinyin": "chéng",
+              "index": 174
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 183
+              "index": 175
             },
             {
               "char": "战",
-              "pinyin": "jiāng",
-              "index": 184
+              "pinyin": "zhàn",
+              "index": 176
             },
             {
               "char": "于",
-              "pinyin": "gǔ",
-              "index": 185
+              "pinyin": "yú",
+              "index": 177
             },
             {
               "char": "长",
-              "pinyin": "zhī",
-              "index": 186
+              "pinyin": "cháng",
+              "index": 178
             },
             {
               "char": "勺",
-              "pinyin": "guì",
-              "index": 187
+              "pinyin": "sháo",
+              "index": 179
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 188
+              "index": 180
+            }
+          ],
+          "translation": "鲁庄公和曹刿共坐一辆战车，在长勺与齐军作战。"
+        },
+        {
+          "content": [
+            {
+              "char": "公",
+              "pinyin": "gōng",
+              "index": 181
+            },
+            {
+              "char": "将",
+              "pinyin": "jiāng",
+              "index": 182
+            },
+            {
+              "char": "鼓",
+              "pinyin": "gǔ",
+              "index": 183
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 184
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 185
             }
           ],
           "translation": "鲁庄公将要下令击鼓进军。"
@@ -1038,27 +1030,42 @@
         {
           "content": [
             {
-              "char": "公",
+              "char": "刿",
+              "pinyin": "guì",
+              "index": 186
+            },
+            {
+              "char": "曰",
               "pinyin": "yuē",
+              "index": 187
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 188
+            },
+            {
+              "char": "“",
+              "pinyin": "",
               "index": 189
             },
             {
-              "char": "将",
+              "char": "未",
               "pinyin": "wèi",
               "index": 190
             },
             {
-              "char": "鼓",
+              "char": "可",
               "pinyin": "kě",
               "index": 191
             },
             {
-              "char": "之",
-              "pinyin": "qí",
+              "char": "。",
+              "pinyin": "",
               "index": 192
             },
             {
-              "char": "。",
+              "char": "”",
               "pinyin": "",
               "index": 193
             }
@@ -1068,44 +1075,29 @@
         {
           "content": [
             {
-              "char": "刿",
-              "pinyin": "rén",
+              "char": "齐",
+              "pinyin": "qí",
               "index": 194
             },
             {
-              "char": "曰",
-              "pinyin": "sān",
+              "char": "人",
+              "pinyin": "rén",
               "index": 195
             },
             {
-              "char": "：",
-              "pinyin": "",
+              "char": "三",
+              "pinyin": "sān",
               "index": 196
             },
             {
-              "char": "“",
-              "pinyin": "",
-              "index": 197
-            },
-            {
-              "char": "未",
+              "char": "鼓",
               "pinyin": "gǔ",
-              "index": 198
-            },
-            {
-              "char": "可",
-              "pinyin": "guì",
-              "index": 199
+              "index": 197
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 200
-            },
-            {
-              "char": "”",
-              "pinyin": "",
-              "index": 201
+              "index": 198
             }
           ],
           "translation": "等到齐军三次击鼓之后。"
@@ -1113,27 +1105,42 @@
         {
           "content": [
             {
-              "char": "齐",
+              "char": "刿",
+              "pinyin": "guì",
+              "index": 199
+            },
+            {
+              "char": "曰",
               "pinyin": "yuē",
+              "index": 200
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 201
+            },
+            {
+              "char": "“",
+              "pinyin": "",
               "index": 202
             },
             {
-              "char": "人",
+              "char": "可",
               "pinyin": "kě",
               "index": 203
             },
             {
-              "char": "三",
+              "char": "矣",
               "pinyin": "yǐ",
               "index": 204
             },
             {
-              "char": "鼓",
-              "pinyin": "qí",
+              "char": "。",
+              "pinyin": "",
               "index": 205
             },
             {
-              "char": "。",
+              "char": "”",
               "pinyin": "",
               "index": 206
             }
@@ -1143,44 +1150,29 @@
         {
           "content": [
             {
-              "char": "刿",
-              "pinyin": "shī",
+              "char": "齐",
+              "pinyin": "qí",
               "index": 207
             },
             {
-              "char": "曰",
-              "pinyin": "bài",
+              "char": "师",
+              "pinyin": "shī",
               "index": 208
             },
             {
-              "char": "：",
-              "pinyin": "",
+              "char": "败",
+              "pinyin": "bài",
               "index": 209
             },
             {
-              "char": "“",
-              "pinyin": "",
-              "index": 210
-            },
-            {
-              "char": "可",
+              "char": "绩",
               "pinyin": "jī",
-              "index": 211
-            },
-            {
-              "char": "矣",
-              "pinyin": "gōng",
-              "index": 212
+              "index": 210
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 213
-            },
-            {
-              "char": "”",
-              "pinyin": "",
-              "index": 214
+              "index": 211
             }
           ],
           "translation": "齐国军队溃败。"
@@ -1188,29 +1180,29 @@
         {
           "content": [
             {
-              "char": "齐",
+              "char": "公",
+              "pinyin": "gōng",
+              "index": 212
+            },
+            {
+              "char": "将",
               "pinyin": "jiāng",
-              "index": 215
+              "index": 213
             },
             {
-              "char": "师",
+              "char": "驰",
               "pinyin": "chí",
-              "index": 216
+              "index": 214
             },
             {
-              "char": "败",
+              "char": "之",
               "pinyin": "zhī",
-              "index": 217
-            },
-            {
-              "char": "绩",
-              "pinyin": "guì",
-              "index": 218
+              "index": 215
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 219
+              "index": 216
             }
           ],
           "translation": "鲁庄公又要下令驾车马追逐齐军。"
@@ -1218,27 +1210,42 @@
         {
           "content": [
             {
-              "char": "公",
+              "char": "刿",
+              "pinyin": "guì",
+              "index": 217
+            },
+            {
+              "char": "曰",
               "pinyin": "yuē",
+              "index": 218
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 219
+            },
+            {
+              "char": "“",
+              "pinyin": "",
               "index": 220
             },
             {
-              "char": "将",
+              "char": "未",
               "pinyin": "wèi",
               "index": 221
             },
             {
-              "char": "驰",
+              "char": "可",
               "pinyin": "kě",
               "index": 222
             },
             {
-              "char": "之",
-              "pinyin": "xià",
+              "char": "。",
+              "pinyin": "",
               "index": 223
             },
             {
-              "char": "。",
+              "char": "”",
               "pinyin": "",
               "index": 224
             }
@@ -1248,44 +1255,94 @@
         {
           "content": [
             {
-              "char": "刿",
-              "pinyin": "shì",
+              "char": "下",
+              "pinyin": "xià",
               "index": 225
             },
             {
-              "char": "曰",
-              "pinyin": "qí",
+              "char": "视",
+              "pinyin": "shì",
               "index": 226
             },
             {
-              "char": "：",
-              "pinyin": "",
+              "char": "其",
+              "pinyin": "qí",
               "index": 227
             },
             {
-              "char": "“",
-              "pinyin": "",
+              "char": "辙",
+              "pinyin": "zhé",
               "index": 228
             },
             {
-              "char": "未",
-              "pinyin": "zhé",
+              "char": "，",
+              "pinyin": "",
               "index": 229
             },
             {
-              "char": "可",
+              "char": "登",
               "pinyin": "dēng",
               "index": 230
             },
             {
+              "char": "轼",
+              "pinyin": "shì",
+              "index": 231
+            },
+            {
+              "char": "而",
+              "pinyin": "ér",
+              "index": 232
+            },
+            {
+              "char": "望",
+              "pinyin": "wàng",
+              "index": 233
+            },
+            {
+              "char": "之",
+              "pinyin": "zhī",
+              "index": 234
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 235
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 236
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 237
+            },
+            {
+              "char": "“",
+              "pinyin": "",
+              "index": 238
+            },
+            {
+              "char": "可",
+              "pinyin": "kě",
+              "index": 239
+            },
+            {
+              "char": "矣",
+              "pinyin": "yǐ",
+              "index": 240
+            },
+            {
               "char": "。",
               "pinyin": "",
-              "index": 231
+              "index": 241
             },
             {
               "char": "”",
               "pinyin": "",
-              "index": 232
+              "index": 242
             }
           ],
           "translation": "说完就向下看，查看齐军车轮碾出的痕迹，又登上战车，扶着轼远望齐军的队形，这才说：“可以追击了。”"
@@ -1293,127 +1350,32 @@
         {
           "content": [
             {
-              "char": "下",
-              "pinyin": "shì",
-              "index": 233
-            },
-            {
-              "char": "视",
-              "pinyin": "ér",
-              "index": 234
-            },
-            {
-              "char": "其",
-              "pinyin": "wàng",
-              "index": 235
-            },
-            {
-              "char": "辙",
-              "pinyin": "zhī",
-              "index": 236
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 237
-            },
-            {
-              "char": "登",
-              "pinyin": "yuē",
-              "index": 238
-            },
-            {
-              "char": "轼",
-              "pinyin": "kě",
-              "index": 239
-            },
-            {
-              "char": "而",
-              "pinyin": "yǐ",
-              "index": 240
-            },
-            {
-              "char": "望",
+              "char": "遂",
               "pinyin": "suì",
-              "index": 241
-            },
-            {
-              "char": "之",
-              "pinyin": "zhú",
-              "index": 242
-            },
-            {
-              "char": "，",
-              "pinyin": "",
               "index": 243
             },
             {
-              "char": "曰",
-              "pinyin": "qí",
+              "char": "逐",
+              "pinyin": "zhú",
               "index": 244
             },
             {
-              "char": "：",
-              "pinyin": "",
+              "char": "齐",
+              "pinyin": "qí",
               "index": 245
             },
             {
-              "char": "“",
-              "pinyin": "",
+              "char": "师",
+              "pinyin": "shī",
               "index": 246
             },
             {
-              "char": "可",
-              "pinyin": "shī",
-              "index": 247
-            },
-            {
-              "char": "矣",
-              "pinyin": "jì",
-              "index": 248
-            },
-            {
               "char": "。",
               "pinyin": "",
-              "index": 249
-            },
-            {
-              "char": "”",
-              "pinyin": "",
-              "index": 250
+              "index": 247
             }
           ],
           "translation": "于是追击齐军。"
-        },
-        {
-          "content": [
-            {
-              "char": "遂",
-              "pinyin": "kè",
-              "index": 251
-            },
-            {
-              "char": "逐",
-              "pinyin": "gōng",
-              "index": 252
-            },
-            {
-              "char": "齐",
-              "pinyin": "wèn",
-              "index": 253
-            },
-            {
-              "char": "师",
-              "pinyin": "qí",
-              "index": 254
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 255
-            }
-          ],
-          "translation": "战胜齐军后，鲁庄公问他这样做的原因。"
         }
       ]
     },
@@ -1423,43 +1385,103 @@
           "content": [
             {
               "char": "既",
-              "pinyin": "gù",
-              "index": 256
+              "pinyin": "jì",
+              "index": 248
             },
             {
               "char": "克",
-              "pinyin": "duì",
-              "index": 257
+              "pinyin": "kè",
+              "index": 249
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 258
+              "index": 250
             },
             {
               "char": "公",
-              "pinyin": "yuē",
-              "index": 259
+              "pinyin": "gōng",
+              "index": 251
             },
             {
               "char": "问",
-              "pinyin": "fú",
-              "index": 260
+              "pinyin": "wèn",
+              "index": 252
             },
             {
               "char": "其",
-              "pinyin": "zhàn",
-              "index": 261
+              "pinyin": "qí",
+              "index": 253
             },
             {
               "char": "故",
-              "pinyin": "yǒng",
-              "index": 262
+              "pinyin": "gù",
+              "index": 254
             },
             {
               "char": "。",
               "pinyin": "",
+              "index": 255
+            }
+          ],
+          "translation": "战胜齐军后，鲁庄公问他这样做的原因。"
+        },
+        {
+          "content": [
+            {
+              "char": "对",
+              "pinyin": "duì",
+              "index": 256
+            },
+            {
+              "char": "曰",
+              "pinyin": "yuē",
+              "index": 257
+            },
+            {
+              "char": "：",
+              "pinyin": "",
+              "index": 258
+            },
+            {
+              "char": "“",
+              "pinyin": "",
+              "index": 259
+            },
+            {
+              "char": "夫",
+              "pinyin": "fú",
+              "index": 260
+            },
+            {
+              "char": "战",
+              "pinyin": "zhàn",
+              "index": 261
+            },
+            {
+              "char": "，",
+              "pinyin": "",
+              "index": 262
+            },
+            {
+              "char": "勇",
+              "pinyin": "yǒng",
               "index": 263
+            },
+            {
+              "char": "气",
+              "pinyin": "qì",
+              "index": 264
+            },
+            {
+              "char": "也",
+              "pinyin": "yě",
+              "index": 265
+            },
+            {
+              "char": "。",
+              "pinyin": "",
+              "index": 266
             }
           ],
           "translation": "曹刿回答说：“作战，靠的是勇气。"
@@ -1467,179 +1489,119 @@
         {
           "content": [
             {
-              "char": "对",
-              "pinyin": "qì",
-              "index": 264
-            },
-            {
-              "char": "曰",
-              "pinyin": "yě",
-              "index": 265
-            },
-            {
-              "char": "：",
-              "pinyin": "",
-              "index": 266
-            },
-            {
-              "char": "“",
-              "pinyin": "",
+              "char": "一",
+              "pinyin": "yī",
               "index": 267
             },
             {
-              "char": "夫",
-              "pinyin": "yī",
+              "char": "鼓",
+              "pinyin": "gǔ",
               "index": 268
             },
             {
-              "char": "战",
-              "pinyin": "gǔ",
-              "index": 269
-            },
-            {
-              "char": "，",
-              "pinyin": "",
-              "index": 270
-            },
-            {
-              "char": "勇",
+              "char": "作",
               "pinyin": "zuò",
-              "index": 271
+              "index": 269
             },
             {
               "char": "气",
               "pinyin": "qì",
-              "index": 272
-            },
-            {
-              "char": "也",
-              "pinyin": "zài",
-              "index": 273
-            },
-            {
-              "char": "。",
-              "pinyin": "",
-              "index": 274
-            }
-          ],
-          "translation": "第一次击鼓能够振作士气。"
-        },
-        {
-          "content": [
-            {
-              "char": "一",
-              "pinyin": "ér",
-              "index": 275
-            },
-            {
-              "char": "鼓",
-              "pinyin": "shuāi",
-              "index": 276
-            },
-            {
-              "char": "作",
-              "pinyin": "sān",
-              "index": 277
-            },
-            {
-              "char": "气",
-              "pinyin": "ér",
-              "index": 278
+              "index": 270
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 279
+              "index": 271
             },
             {
               "char": "再",
-              "pinyin": "jié",
-              "index": 280
+              "pinyin": "zài",
+              "index": 272
             },
             {
               "char": "而",
-              "pinyin": "bǐ",
-              "index": 281
+              "pinyin": "ér",
+              "index": 273
             },
             {
               "char": "衰",
-              "pinyin": "jié",
-              "index": 282
+              "pinyin": "shuāi",
+              "index": 274
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 283
+              "index": 275
             },
             {
               "char": "三",
-              "pinyin": "wǒ",
-              "index": 284
+              "pinyin": "sān",
+              "index": 276
             },
             {
               "char": "而",
-              "pinyin": "yíng",
-              "index": 285
+              "pinyin": "ér",
+              "index": 277
             },
             {
               "char": "竭",
-              "pinyin": "gù",
-              "index": 286
+              "pinyin": "jié",
+              "index": 278
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 287
+              "index": 279
             }
           ],
-          "translation": "第二次击鼓士兵们的士气就开始低落了，第三次击鼓士兵们的士气就穷尽了。"
+          "translation": "第一次击鼓能够振作士气。第二次击鼓士兵们的士气就开始低落了，第三次击鼓士兵们的士气就穷尽了。"
         },
         {
           "content": [
             {
               "char": "彼",
-              "pinyin": "kè",
-              "index": 288
+              "pinyin": "bǐ",
+              "index": 280
             },
             {
               "char": "竭",
-              "pinyin": "zhī",
-              "index": 289
+              "pinyin": "jié",
+              "index": 281
             },
             {
               "char": "我",
-              "pinyin": "fú",
-              "index": 290
+              "pinyin": "wǒ",
+              "index": 282
             },
             {
               "char": "盈",
-              "pinyin": "dà",
-              "index": 291
+              "pinyin": "yíng",
+              "index": 283
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 292
+              "index": 284
             },
             {
               "char": "故",
-              "pinyin": "guó",
-              "index": 293
+              "pinyin": "gù",
+              "index": 285
             },
             {
               "char": "克",
-              "pinyin": "nán",
-              "index": 294
+              "pinyin": "kè",
+              "index": 286
             },
             {
               "char": "之",
-              "pinyin": "cè",
-              "index": 295
+              "pinyin": "zhī",
+              "index": 287
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 296
+              "index": 288
             }
           ],
           "translation": "他们的士气已经消失而我军的士气正盛，所以才战胜了他们。"
@@ -1648,68 +1610,68 @@
           "content": [
             {
               "char": "夫",
-              "pinyin": "yě",
-              "index": 297
+              "pinyin": "fú",
+              "index": 289
             },
             {
               "char": "大",
-              "pinyin": "jù",
-              "index": 298
+              "pinyin": "dà",
+              "index": 290
             },
             {
               "char": "国",
-              "pinyin": "yǒu",
-              "index": 299
+              "pinyin": "guó",
+              "index": 291
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 300
+              "index": 292
             },
             {
               "char": "难",
-              "pinyin": "fú",
-              "index": 301
+              "pinyin": "nán",
+              "index": 293
             },
             {
               "char": "测",
-              "pinyin": "yān",
-              "index": 302
+              "pinyin": "cè",
+              "index": 294
             },
             {
               "char": "也",
-              "pinyin": "wú",
-              "index": 303
+              "pinyin": "yě",
+              "index": 295
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 304
+              "index": 296
             },
             {
               "char": "惧",
-              "pinyin": "shì",
-              "index": 305
+              "pinyin": "jù",
+              "index": 297
             },
             {
               "char": "有",
-              "pinyin": "qí",
-              "index": 306
+              "pinyin": "yǒu",
+              "index": 298
             },
             {
               "char": "伏",
-              "pinyin": "zhé",
-              "index": 307
+              "pinyin": "fú",
+              "index": 299
             },
             {
               "char": "焉",
-              "pinyin": "luàn",
-              "index": 308
+              "pinyin": "yān",
+              "index": 300
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 309
+              "index": 301
             }
           ],
           "translation": "像齐国这样的大国，他们的情况是难以推测的，怕他们设下埋伏。"
@@ -1718,83 +1680,83 @@
           "content": [
             {
               "char": "吾",
-              "pinyin": "wàng",
-              "index": 310
+              "pinyin": "wú",
+              "index": 302
             },
             {
               "char": "视",
-              "pinyin": "qí",
-              "index": 311
+              "pinyin": "shì",
+              "index": 303
             },
             {
               "char": "其",
               "pinyin": "qí",
-              "index": 312
+              "index": 304
             },
             {
               "char": "辙",
-              "pinyin": "mǐ",
-              "index": 313
+              "pinyin": "zhé",
+              "index": 305
             },
             {
               "char": "乱",
-              "pinyin": "gù",
-              "index": 314
+              "pinyin": "luàn",
+              "index": 306
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 315
+              "index": 307
             },
             {
               "char": "望",
-              "pinyin": "zhú",
-              "index": 316
+              "pinyin": "wàng",
+              "index": 308
             },
             {
               "char": "其",
-              "pinyin": "zhī",
-              "index": 317
+              "pinyin": "qí",
+              "index": 309
             },
             {
               "char": "旗",
-              "pinyin": "",
-              "index": 318
+              "pinyin": "qí",
+              "index": 310
             },
             {
               "char": "靡",
-              "pinyin": "",
-              "index": 319
+              "pinyin": "mǐ",
+              "index": 311
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 320
+              "index": 312
             },
             {
               "char": "故",
-              "pinyin": "",
-              "index": 321
+              "pinyin": "gù",
+              "index": 313
             },
             {
               "char": "逐",
-              "pinyin": "",
-              "index": 322
+              "pinyin": "zhú",
+              "index": 314
             },
             {
               "char": "之",
-              "pinyin": "",
-              "index": 323
+              "pinyin": "zhī",
+              "index": 315
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 324
+              "index": 316
             },
             {
               "char": "”",
               "pinyin": "",
-              "index": 325
+              "index": 317
             }
           ],
           "translation": "我看他们车轮碾过的痕迹散乱，望见他们的旗子倒下了，所以决定追击他们。”"

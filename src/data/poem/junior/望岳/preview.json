@@ -146,7 +146,13 @@
             },
             {
               "char": "曾",
-              "pinyin": "céng"
+              "pinyin": "céng",
+              "note": [
+                {
+                  "title": "注释",
+                  "content": "曾，同“层”。"
+                }
+              ]
             },
             {
               "char": "云",
@@ -182,47 +188,7 @@
             }
           ],
           "translation": {
-            "translation": "升腾的层层云气，使心胸摇荡；"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "(",
-              "pinyin": ""
-            },
-            {
-              "char": " ",
-              "pinyin": "huì"
-            },
-            {
-              "char": "曾",
-              "pinyin": "dāng"
-            },
-            {
-              "char": " ",
-              "pinyin": "líng"
-            },
-            {
-              "char": "同",
-              "pinyin": "jué"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "层",
-              "pinyin": "dǐng"
-            },
-            {
-              "char": ")",
-              "pinyin": ""
-            }
-          ],
-          "translation": {
-            "translation": "极力张大眼睛远望归鸟隐入了山林。"
+            "translation": "升腾的层层云气，使心胸摇荡；极力张大眼睛远望归鸟隐入了山林。"
           },
           "notes": []
         }
@@ -234,23 +200,23 @@
           "sentence": [
             {
               "char": "会",
-              "pinyin": "yī"
+              "pinyin": "huì"
             },
             {
               "char": "当",
-              "pinyin": "lǎn"
+              "pinyin": "dāng"
             },
             {
               "char": "凌",
-              "pinyin": "zhòng"
+              "pinyin": "líng"
             },
             {
               "char": "绝",
-              "pinyin": "shān"
+              "pinyin": "jué"
             },
             {
               "char": "顶",
-              "pinyin": "xiǎo"
+              "pinyin": "dǐng"
             },
             {
               "char": "，",
@@ -258,23 +224,23 @@
             },
             {
               "char": "一",
-              "pinyin": ""
+              "pinyin": "yī"
             },
             {
               "char": "览",
-              "pinyin": ""
+              "pinyin": "lǎn"
             },
             {
               "char": "众",
-              "pinyin": ""
+              "pinyin": "zhòng"
             },
             {
               "char": "山",
-              "pinyin": ""
+              "pinyin": "shān"
             },
             {
               "char": "小",
-              "pinyin": ""
+              "pinyin": "xiǎo"
             },
             {
               "char": "。",

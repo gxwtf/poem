@@ -70,7 +70,7 @@
             }
           ],
           "translation": {
-            "translation": "品德高尚的人，依靠内心节静专一来修养身心，以俭朴节约来培养品德。"
+            "translation": "品德高尚的人，依靠内心宁静专一来修养身心，以俭朴节约来培养品德。"
           },
           "notes": []
         },
@@ -142,9 +142,15 @@
             }
           ],
           "translation": {
-            "translation": "不恬淡寡欲清无法使（自己的）志向明确，不清静寡欲清无法达到远大的目标。"
+            "translation": "不淡泊名利就无法明确志向，不宁静专一就无法达到远大的目标。"
           },
-          "notes": []
+          "notes": [
+            {
+              "start": 1,
+              "end": 2,
+              "note": "淡泊，一作“澹泊”。"
+            }
+          ]
         },
         {
           "sentence": [
@@ -250,7 +256,7 @@
             }
           ],
           "translation": {
-            "translation": "学习必须静心专一，而干干则来自勤奋学习。"
+            "translation": "学习必须静心专一，才干来自学习。不学习就无法增长才干，没有志向就无法学有所成。"
           },
           "notes": []
         },
@@ -322,9 +328,20 @@
             }
           ],
           "translation": {
-            "translation": "如果不学习清无法增长自己的干干，不明确志向清不能在学习上获得成清。"
+            "translation": "放纵懈怠就无法振奋精神，轻薄浮躁就无法修养性情。"
           },
-          "notes": []
+          "notes": [
+            {
+              "start": 0,
+              "end": 1,
+              "note": "淫慢，一作“慆慢”。"
+            },
+            {
+              "start": 13,
+              "end": 14,
+              "note": "治性，一作“冶性”。"
+            }
+          ]
         },
         {
           "sentence": [
@@ -450,143 +467,7 @@
             }
           ],
           "translation": {
-            "translation": "放纵懈怠清不能勉励心志振奋精神，轻薄浮躁清不能修养性情。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "(",
-              "pinyin": ""
-            },
-            {
-              "char": "淡",
-              "pinyin": ""
-            },
-            {
-              "char": "泊",
-              "pinyin": ""
-            },
-            {
-              "char": " ",
-              "pinyin": ""
-            },
-            {
-              "char": "一",
-              "pinyin": ""
-            },
-            {
-              "char": "作",
-              "pinyin": ""
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "澹",
-              "pinyin": ""
-            },
-            {
-              "char": "泊",
-              "pinyin": ""
-            },
-            {
-              "char": "；",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "年华随同时光飞快逝去，意志随同岁月而丧失。"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "淫",
-              "pinyin": ""
-            },
-            {
-              "char": "慢",
-              "pinyin": ""
-            },
-            {
-              "char": " ",
-              "pinyin": ""
-            },
-            {
-              "char": "一",
-              "pinyin": ""
-            },
-            {
-              "char": "作",
-              "pinyin": ""
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "慆",
-              "pinyin": ""
-            },
-            {
-              "char": "慢",
-              "pinyin": ""
-            },
-            {
-              "char": "；",
-              "pinyin": "　"
-            }
-          ],
-          "translation": {
-            "translation": "最终（像黄叶一样）枯老衰落，大多与世事脱节、对社会没有任何贡献，只能困守在自家狭小的穷家破舍里，那时再悔恨又怎么来得及！"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "治",
-              "pinyin": ""
-            },
-            {
-              "char": "性",
-              "pinyin": ""
-            },
-            {
-              "char": " ",
-              "pinyin": ""
-            },
-            {
-              "char": "一",
-              "pinyin": ""
-            },
-            {
-              "char": "作",
-              "pinyin": ""
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "冶",
-              "pinyin": ""
-            },
-            {
-              "char": "性",
-              "pinyin": ""
-            },
-            {
-              "char": "）",
-              "pinyin": ""
-            }
-          ],
-          "translation": {
-            "translation": ""
+            "translation": "年华随同时光飞快逝去，意志随同岁月而丧失。最终（像黄叶一样）枯老衰落，大多与世事脱节、对社会没有任何贡献，只能困守在自家狭小的穷家破舍里，那时再悔恨又怎么来得及！"
           },
           "notes": []
         }

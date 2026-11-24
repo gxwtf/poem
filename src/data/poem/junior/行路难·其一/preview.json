@@ -70,77 +70,20 @@
             }
           ],
           "translation": {
-            "translation": "金杯中的美酒一斗价十心，玉盘里的菜肴珍贵值万钱。"
+            "translation": "金杯中的美酒一斗价十千，玉盘里的菜肴珍贵值万钱。"
           },
-          "notes": []
-        },
-        {
-          "sentence": [
+          "notes": [
             {
-              "char": "(",
-              "pinyin": ""
+              "start": 10,
+              "end": 11,
+              "note": "羞，同“馐”。"
             },
             {
-              "char": "羞",
-              "pinyin": "tíng"
-            },
-            {
-              "char": " ",
-              "pinyin": "bēi"
-            },
-            {
-              "char": "同",
-              "pinyin": "tóu"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "馐",
-              "pinyin": "zhù"
-            },
-            {
-              "char": "；",
-              "pinyin": "　"
+              "start": 12,
+              "end": 14,
+              "note": "直，同“值”。"
             }
-          ],
-          "translation": {
-            "translation": "心中郁闷，我放下杯筷不愿进片；"
-          },
-          "notes": []
-        },
-        {
-          "sentence": [
-            {
-              "char": "直",
-              "pinyin": "bù"
-            },
-            {
-              "char": " ",
-              "pinyin": "néng"
-            },
-            {
-              "char": "同",
-              "pinyin": "shí"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "值",
-              "pinyin": "bá"
-            },
-            {
-              "char": ")",
-              "pinyin": ""
-            }
-          ],
-          "translation": {
-            "translation": "拔出宝剑环顾四周，心里一片茫然。"
-          },
-          "notes": []
+          ]
         }
       ]
     },
@@ -150,31 +93,31 @@
           "sentence": [
             {
               "char": "停",
-              "pinyin": "jiàn"
+              "pinyin": "tíng"
             },
             {
               "char": "杯",
-              "pinyin": "sì"
+              "pinyin": "bēi"
             },
             {
               "char": "投",
-              "pinyin": "gù"
+              "pinyin": "tóu"
             },
             {
               "char": "箸",
-              "pinyin": "xīn"
+              "pinyin": "zhù"
             },
             {
               "char": "不",
-              "pinyin": "máng"
+              "pinyin": "bù"
             },
             {
               "char": "能",
-              "pinyin": "rán"
+              "pinyin": "néng"
             },
             {
               "char": "食",
-              "pinyin": "yù"
+              "pinyin": "shí"
             },
             {
               "char": "，",
@@ -182,31 +125,31 @@
             },
             {
               "char": "拔",
-              "pinyin": "dù"
+              "pinyin": "bá"
             },
             {
               "char": "剑",
-              "pinyin": "huáng"
+              "pinyin": "jiàn"
             },
             {
               "char": "四",
-              "pinyin": "hé"
+              "pinyin": "sì"
             },
             {
               "char": "顾",
-              "pinyin": "bīng"
+              "pinyin": "gù"
             },
             {
               "char": "心",
-              "pinyin": "sè"
+              "pinyin": "xīn"
             },
             {
               "char": "茫",
-              "pinyin": "chuān"
+              "pinyin": "máng"
             },
             {
               "char": "然",
-              "pinyin": "jiāng"
+              "pinyin": "rán"
             },
             {
               "char": "。",
@@ -214,7 +157,7 @@
             }
           ],
           "translation": {
-            "translation": "想渡黄河，冰他却冻封了河川；"
+            "translation": "我放下酒杯，丢下筷子，吃不下去；拔出宝剑环顾四周，心里一片茫然。"
           },
           "notes": []
         }
@@ -226,31 +169,31 @@
           "sentence": [
             {
               "char": "欲",
-              "pinyin": "dēng"
+              "pinyin": "yù"
             },
             {
               "char": "渡",
-              "pinyin": "tài"
+              "pinyin": "dù"
             },
             {
               "char": "黄",
-              "pinyin": "háng"
+              "pinyin": "huáng"
             },
             {
               "char": "河",
-              "pinyin": "xuě"
+              "pinyin": "hé"
             },
             {
               "char": "冰",
-              "pinyin": "mǎn"
+              "pinyin": "bīng"
             },
             {
               "char": "塞",
-              "pinyin": "shān"
+              "pinyin": "sè"
             },
             {
               "char": "川",
-              "pinyin": "xián"
+              "pinyin": "chuān"
             },
             {
               "char": "，",
@@ -258,31 +201,31 @@
             },
             {
               "char": "将",
-              "pinyin": "lái"
+              "pinyin": "jiāng"
             },
             {
               "char": "登",
-              "pinyin": "chuí"
+              "pinyin": "dēng"
             },
             {
               "char": "太",
-              "pinyin": "diào"
+              "pinyin": "tài"
             },
             {
               "char": "行",
-              "pinyin": "bì"
+              "pinyin": "háng"
             },
             {
               "char": "雪",
-              "pinyin": "xī"
+              "pinyin": "xuě"
             },
             {
               "char": "满",
-              "pinyin": "shàng"
+              "pinyin": "mǎn"
             },
             {
               "char": "山",
-              "pinyin": "hū"
+              "pinyin": "shān"
             },
             {
               "char": "。",
@@ -290,7 +233,7 @@
             }
           ],
           "translation": {
-            "translation": "想登太行山，莽莽风他早已封山。"
+            "translation": "想渡过黄河，冰却堵住了河道；想登上太行山，大雪却封住了山路。"
           },
           "notes": []
         }
@@ -302,31 +245,31 @@
           "sentence": [
             {
               "char": "闲",
-              "pinyin": "fù"
+              "pinyin": "xián"
             },
             {
               "char": "来",
-              "pinyin": "chéng"
+              "pinyin": "lái"
             },
             {
               "char": "垂",
-              "pinyin": "zhōu"
+              "pinyin": "chuí"
             },
             {
               "char": "钓",
-              "pinyin": "mèng"
+              "pinyin": "diào"
             },
             {
               "char": "碧",
-              "pinyin": "rì"
+              "pinyin": "bì"
             },
             {
               "char": "溪",
-              "pinyin": "biān"
+              "pinyin": "xī"
             },
             {
               "char": "上",
-              "pinyin": "xíng"
+              "pinyin": "shàng"
             },
             {
               "char": "，",
@@ -334,31 +277,31 @@
             },
             {
               "char": "忽",
-              "pinyin": "lù"
+              "pinyin": "hū"
             },
             {
               "char": "复",
-              "pinyin": "nán"
+              "pinyin": "fù"
             },
             {
               "char": "乘",
-              "pinyin": "xíng"
+              "pinyin": "chéng"
             },
             {
               "char": "舟",
-              "pinyin": "lù"
+              "pinyin": "zhōu"
             },
             {
               "char": "梦",
-              "pinyin": "nán"
+              "pinyin": "mèng"
             },
             {
               "char": "日",
-              "pinyin": "duō"
+              "pinyin": "rì"
             },
             {
               "char": "边",
-              "pinyin": "qí"
+              "pinyin": "biān"
             },
             {
               "char": "。",
@@ -366,7 +309,7 @@
             }
           ],
           "translation": {
-            "translation": "像姜尚垂钓溪，闲待东山再起；"
+            "translation": "闲时像姜尚一样在碧溪垂钓；又像伊尹做梦，他乘船经过日边。"
           },
           "notes": []
         }
@@ -378,15 +321,15 @@
           "sentence": [
             {
               "char": "行",
-              "pinyin": "lù"
+              "pinyin": "xíng"
             },
             {
               "char": "路",
-              "pinyin": "jīn"
+              "pinyin": "lù"
             },
             {
               "char": "难",
-              "pinyin": "ān"
+              "pinyin": "nán"
             },
             {
               "char": "，",
@@ -394,15 +337,15 @@
             },
             {
               "char": "行",
-              "pinyin": "zài"
+              "pinyin": "xíng"
             },
             {
               "char": "路",
-              "pinyin": "cháng"
+              "pinyin": "lù"
             },
             {
               "char": "难",
-              "pinyin": "fēng"
+              "pinyin": "nán"
             },
             {
               "char": "，",
@@ -410,15 +353,15 @@
             },
             {
               "char": "多",
-              "pinyin": "pò"
+              "pinyin": "duō"
             },
             {
               "char": "歧",
-              "pinyin": "làng"
+              "pinyin": "qí"
             },
             {
               "char": "路",
-              "pinyin": "huì"
+              "pinyin": "lù"
             },
             {
               "char": "，",
@@ -426,15 +369,15 @@
             },
             {
               "char": "今",
-              "pinyin": "yǒu"
+              "pinyin": "jīn"
             },
             {
               "char": "安",
-              "pinyin": "shí"
+              "pinyin": "ān"
             },
             {
               "char": "在",
-              "pinyin": "zhí"
+              "pinyin": "zài"
             },
             {
               "char": "？",
@@ -442,7 +385,7 @@
             }
           ],
           "translation": {
-            "translation": "又像伊尹做梦，他乘船经过日边。"
+            "translation": "人生道路多么艰难，多么艰难；岔路纷杂，我要走的路如今在哪里？"
           },
           "notes": []
         }
@@ -454,31 +397,31 @@
           "sentence": [
             {
               "char": "长",
-              "pinyin": "guà"
+              "pinyin": "cháng"
             },
             {
               "char": "风",
-              "pinyin": "yún"
+              "pinyin": "fēng"
             },
             {
               "char": "破",
-              "pinyin": "fān"
+              "pinyin": "pò"
             },
             {
               "char": "浪",
-              "pinyin": "jì"
+              "pinyin": "làng"
             },
             {
               "char": "会",
-              "pinyin": "cāng"
+              "pinyin": "huì"
             },
             {
               "char": "有",
-              "pinyin": "hǎi"
+              "pinyin": "yǒu"
             },
             {
               "char": "时",
-              "pinyin": ""
+              "pinyin": "shí"
             },
             {
               "char": "，",
@@ -486,31 +429,31 @@
             },
             {
               "char": "直",
-              "pinyin": ""
+              "pinyin": "zhí"
             },
             {
               "char": "挂",
-              "pinyin": ""
+              "pinyin": "guà"
             },
             {
               "char": "云",
-              "pinyin": ""
+              "pinyin": "yún"
             },
             {
               "char": "帆",
-              "pinyin": ""
+              "pinyin": "fān"
             },
             {
               "char": "济",
-              "pinyin": ""
+              "pinyin": "jì"
             },
             {
               "char": "沧",
-              "pinyin": ""
+              "pinyin": "cāng"
             },
             {
               "char": "海",
-              "pinyin": ""
+              "pinyin": "hǎi"
             },
             {
               "char": "。",
@@ -518,7 +461,7 @@
             }
           ],
           "translation": {
-            "translation": "人生道路多么艰难，多么艰难；"
+            "translation": "相信乘风破浪的时机总会到来，到时定要扬起征帆，横渡沧海！"
           },
           "notes": []
         }

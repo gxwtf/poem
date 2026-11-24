@@ -89,82 +89,19 @@
               "index": 15
             }
           ],
-          "translation": "金杯中的美酒一斗价十心，玉盘里的菜肴珍贵值万钱。"
-        },
-        {
-          "content": [
+          "translation": "金杯中的美酒一斗价十千，玉盘里的菜肴珍贵值万钱。",
+          "notes": [
             {
-              "char": "(",
-              "pinyin": "",
-              "index": 16
+              "start": 10,
+              "end": 11,
+              "content": "羞，同“馐”。"
             },
             {
-              "char": "羞",
-              "pinyin": "tíng",
-              "index": 17
-            },
-            {
-              "char": " ",
-              "pinyin": "bēi",
-              "index": 18
-            },
-            {
-              "char": "同",
-              "pinyin": "tóu",
-              "index": 19
-            },
-            {
-              "char": "：",
-              "pinyin": "",
-              "index": 20
-            },
-            {
-              "char": "馐",
-              "pinyin": "zhù",
-              "index": 21
-            },
-            {
-              "char": "；",
-              "pinyin": "",
-              "index": 22
+              "start": 12,
+              "end": 14,
+              "content": "直，同“值”。"
             }
-          ],
-          "translation": "心中郁闷，我放下杯筷不愿进片；"
-        },
-        {
-          "content": [
-            {
-              "char": "直",
-              "pinyin": "bù",
-              "index": 23
-            },
-            {
-              "char": " ",
-              "pinyin": "néng",
-              "index": 24
-            },
-            {
-              "char": "同",
-              "pinyin": "shí",
-              "index": 25
-            },
-            {
-              "char": "：",
-              "pinyin": "",
-              "index": 26
-            },
-            {
-              "char": "值",
-              "pinyin": "bá",
-              "index": 27
-            },
-            {
-              "char": ")",
-              "pinyin": "",
-              "index": 28
-            }
-          ],
-          "translation": "拔出宝剑环顾四周，心里一片茫然。"
+          ]
         }
       ]
     },
@@ -174,86 +111,86 @@
           "content": [
             {
               "char": "停",
-              "pinyin": "jiàn",
-              "index": 29
+              "pinyin": "tíng",
+              "index": 16
             },
             {
               "char": "杯",
-              "pinyin": "sì",
-              "index": 30
+              "pinyin": "bēi",
+              "index": 17
             },
             {
               "char": "投",
-              "pinyin": "gù",
-              "index": 31
+              "pinyin": "tóu",
+              "index": 18
             },
             {
               "char": "箸",
-              "pinyin": "xīn",
-              "index": 32
+              "pinyin": "zhù",
+              "index": 19
             },
             {
               "char": "不",
-              "pinyin": "máng",
-              "index": 33
+              "pinyin": "bù",
+              "index": 20
             },
             {
               "char": "能",
-              "pinyin": "rán",
-              "index": 34
+              "pinyin": "néng",
+              "index": 21
             },
             {
               "char": "食",
-              "pinyin": "yù",
-              "index": 35
+              "pinyin": "shí",
+              "index": 22
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 36
+              "index": 23
             },
             {
               "char": "拔",
-              "pinyin": "dù",
-              "index": 37
+              "pinyin": "bá",
+              "index": 24
             },
             {
               "char": "剑",
-              "pinyin": "huáng",
-              "index": 38
+              "pinyin": "jiàn",
+              "index": 25
             },
             {
               "char": "四",
-              "pinyin": "hé",
-              "index": 39
+              "pinyin": "sì",
+              "index": 26
             },
             {
               "char": "顾",
-              "pinyin": "bīng",
-              "index": 40
+              "pinyin": "gù",
+              "index": 27
             },
             {
               "char": "心",
-              "pinyin": "sè",
-              "index": 41
+              "pinyin": "xīn",
+              "index": 28
             },
             {
               "char": "茫",
-              "pinyin": "chuān",
-              "index": 42
+              "pinyin": "máng",
+              "index": 29
             },
             {
               "char": "然",
-              "pinyin": "jiāng",
-              "index": 43
+              "pinyin": "rán",
+              "index": 30
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 44
+              "index": 31
             }
           ],
-          "translation": "想渡黄河，冰他却冻封了河川；"
+          "translation": "我放下酒杯，丢下筷子，吃不下去；拔出宝剑环顾四周，心里一片茫然。"
         }
       ]
     },
@@ -263,86 +200,86 @@
           "content": [
             {
               "char": "欲",
-              "pinyin": "dēng",
-              "index": 45
+              "pinyin": "yù",
+              "index": 32
             },
             {
               "char": "渡",
-              "pinyin": "tài",
-              "index": 46
+              "pinyin": "dù",
+              "index": 33
             },
             {
               "char": "黄",
-              "pinyin": "háng",
-              "index": 47
+              "pinyin": "huáng",
+              "index": 34
             },
             {
               "char": "河",
-              "pinyin": "xuě",
-              "index": 48
+              "pinyin": "hé",
+              "index": 35
             },
             {
               "char": "冰",
-              "pinyin": "mǎn",
-              "index": 49
+              "pinyin": "bīng",
+              "index": 36
             },
             {
               "char": "塞",
-              "pinyin": "shān",
-              "index": 50
+              "pinyin": "sè",
+              "index": 37
             },
             {
               "char": "川",
-              "pinyin": "xián",
-              "index": 51
+              "pinyin": "chuān",
+              "index": 38
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 52
+              "index": 39
             },
             {
               "char": "将",
-              "pinyin": "lái",
-              "index": 53
+              "pinyin": "jiāng",
+              "index": 40
             },
             {
               "char": "登",
-              "pinyin": "chuí",
-              "index": 54
+              "pinyin": "dēng",
+              "index": 41
             },
             {
               "char": "太",
-              "pinyin": "diào",
-              "index": 55
+              "pinyin": "tài",
+              "index": 42
             },
             {
               "char": "行",
-              "pinyin": "bì",
-              "index": 56
+              "pinyin": "háng",
+              "index": 43
             },
             {
               "char": "雪",
-              "pinyin": "xī",
-              "index": 57
+              "pinyin": "xuě",
+              "index": 44
             },
             {
               "char": "满",
-              "pinyin": "shàng",
-              "index": 58
+              "pinyin": "mǎn",
+              "index": 45
             },
             {
               "char": "山",
-              "pinyin": "hū",
-              "index": 59
+              "pinyin": "shān",
+              "index": 46
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 60
+              "index": 47
             }
           ],
-          "translation": "想登太行山，莽莽风他早已封山。"
+          "translation": "想渡过黄河，冰却堵住了河道；想登上太行山，大雪却封住了山路。"
         }
       ]
     },
@@ -352,86 +289,86 @@
           "content": [
             {
               "char": "闲",
-              "pinyin": "fù",
-              "index": 61
+              "pinyin": "xián",
+              "index": 48
             },
             {
               "char": "来",
-              "pinyin": "chéng",
-              "index": 62
+              "pinyin": "lái",
+              "index": 49
             },
             {
               "char": "垂",
-              "pinyin": "zhōu",
-              "index": 63
+              "pinyin": "chuí",
+              "index": 50
             },
             {
               "char": "钓",
-              "pinyin": "mèng",
-              "index": 64
+              "pinyin": "diào",
+              "index": 51
             },
             {
               "char": "碧",
-              "pinyin": "rì",
-              "index": 65
+              "pinyin": "bì",
+              "index": 52
             },
             {
               "char": "溪",
-              "pinyin": "biān",
-              "index": 66
+              "pinyin": "xī",
+              "index": 53
             },
             {
               "char": "上",
-              "pinyin": "xíng",
-              "index": 67
+              "pinyin": "shàng",
+              "index": 54
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 68
+              "index": 55
             },
             {
               "char": "忽",
-              "pinyin": "lù",
-              "index": 69
+              "pinyin": "hū",
+              "index": 56
             },
             {
               "char": "复",
-              "pinyin": "nán",
-              "index": 70
+              "pinyin": "fù",
+              "index": 57
             },
             {
               "char": "乘",
-              "pinyin": "xíng",
-              "index": 71
+              "pinyin": "chéng",
+              "index": 58
             },
             {
               "char": "舟",
-              "pinyin": "lù",
-              "index": 72
+              "pinyin": "zhōu",
+              "index": 59
             },
             {
               "char": "梦",
-              "pinyin": "nán",
-              "index": 73
+              "pinyin": "mèng",
+              "index": 60
             },
             {
               "char": "日",
-              "pinyin": "duō",
-              "index": 74
+              "pinyin": "rì",
+              "index": 61
             },
             {
               "char": "边",
-              "pinyin": "qí",
-              "index": 75
+              "pinyin": "biān",
+              "index": 62
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 76
+              "index": 63
             }
           ],
-          "translation": "像姜尚垂钓溪，闲待东山再起；"
+          "translation": "闲时像姜尚一样在碧溪垂钓；又像伊尹做梦，他乘船经过日边。"
         }
       ]
     },
@@ -441,86 +378,86 @@
           "content": [
             {
               "char": "行",
-              "pinyin": "lù",
-              "index": 77
+              "pinyin": "xíng",
+              "index": 64
             },
             {
               "char": "路",
-              "pinyin": "jīn",
-              "index": 78
+              "pinyin": "lù",
+              "index": 65
             },
             {
               "char": "难",
-              "pinyin": "ān",
-              "index": 79
+              "pinyin": "nán",
+              "index": 66
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 80
+              "index": 67
             },
             {
               "char": "行",
-              "pinyin": "zài",
-              "index": 81
+              "pinyin": "xíng",
+              "index": 68
             },
             {
               "char": "路",
-              "pinyin": "cháng",
-              "index": 82
+              "pinyin": "lù",
+              "index": 69
             },
             {
               "char": "难",
-              "pinyin": "fēng",
-              "index": 83
+              "pinyin": "nán",
+              "index": 70
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 84
+              "index": 71
             },
             {
               "char": "多",
-              "pinyin": "pò",
-              "index": 85
+              "pinyin": "duō",
+              "index": 72
             },
             {
               "char": "歧",
-              "pinyin": "làng",
-              "index": 86
+              "pinyin": "qí",
+              "index": 73
             },
             {
               "char": "路",
-              "pinyin": "huì",
-              "index": 87
+              "pinyin": "lù",
+              "index": 74
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 88
+              "index": 75
             },
             {
               "char": "今",
-              "pinyin": "yǒu",
-              "index": 89
+              "pinyin": "jīn",
+              "index": 76
             },
             {
               "char": "安",
-              "pinyin": "shí",
-              "index": 90
+              "pinyin": "ān",
+              "index": 77
             },
             {
               "char": "在",
-              "pinyin": "zhí",
-              "index": 91
+              "pinyin": "zài",
+              "index": 78
             },
             {
               "char": "？",
               "pinyin": "",
-              "index": 92
+              "index": 79
             }
           ],
-          "translation": "又像伊尹做梦，他乘船经过日边。"
+          "translation": "人生道路多么艰难，多么艰难；岔路纷杂，我要走的路如今在哪里？"
         }
       ]
     },
@@ -530,86 +467,86 @@
           "content": [
             {
               "char": "长",
-              "pinyin": "guà",
-              "index": 93
+              "pinyin": "cháng",
+              "index": 80
             },
             {
               "char": "风",
-              "pinyin": "yún",
-              "index": 94
+              "pinyin": "fēng",
+              "index": 81
             },
             {
               "char": "破",
-              "pinyin": "fān",
-              "index": 95
+              "pinyin": "pò",
+              "index": 82
             },
             {
               "char": "浪",
-              "pinyin": "jì",
-              "index": 96
+              "pinyin": "làng",
+              "index": 83
             },
             {
               "char": "会",
-              "pinyin": "cāng",
-              "index": 97
+              "pinyin": "huì",
+              "index": 84
             },
             {
               "char": "有",
-              "pinyin": "hǎi",
-              "index": 98
+              "pinyin": "yǒu",
+              "index": 85
             },
             {
               "char": "时",
-              "pinyin": "",
-              "index": 99
+              "pinyin": "shí",
+              "index": 86
             },
             {
               "char": "，",
               "pinyin": "",
-              "index": 100
+              "index": 87
             },
             {
               "char": "直",
-              "pinyin": "",
-              "index": 101
+              "pinyin": "zhí",
+              "index": 88
             },
             {
               "char": "挂",
-              "pinyin": "",
-              "index": 102
+              "pinyin": "guà",
+              "index": 89
             },
             {
               "char": "云",
-              "pinyin": "",
-              "index": 103
+              "pinyin": "yún",
+              "index": 90
             },
             {
               "char": "帆",
-              "pinyin": "",
-              "index": 104
+              "pinyin": "fān",
+              "index": 91
             },
             {
               "char": "济",
-              "pinyin": "",
-              "index": 105
+              "pinyin": "jì",
+              "index": 92
             },
             {
               "char": "沧",
-              "pinyin": "",
-              "index": 106
+              "pinyin": "cāng",
+              "index": 93
             },
             {
               "char": "海",
-              "pinyin": "",
-              "index": 107
+              "pinyin": "hǎi",
+              "index": 94
             },
             {
               "char": "。",
               "pinyin": "",
-              "index": 108
+              "index": 95
             }
           ],
-          "translation": "人生道路多么艰难，多么艰难；"
+          "translation": "相信乘风破浪的时机总会到来，到时定要扬起征帆，横渡沧海！"
         }
       ]
     }

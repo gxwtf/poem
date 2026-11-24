@@ -58,7 +58,7 @@
             }
           ],
           "translation": {
-            "translation": "喇叭和唢呐，吹的曲子虽繁，声音却很响亮。"
+            "translation": "喇叭和唢呐，吹的曲调短小，声音却很响亮。"
           },
           "notes": []
         },
@@ -126,7 +126,7 @@
             }
           ],
           "translation": {
-            "translation": "官船来往频繁乱如麻，全凭借你抬高名誉听位。"
+            "translation": "官船来往频繁乱如麻，全凭你抬高声势。"
           },
           "notes": []
         }
@@ -236,51 +236,13 @@
           "translation": {
             "translation": "哪里会去辨别什么真和假？"
           },
-          "notes": []
-        },
-        {
-          "sentence": [
+          "notes": [
             {
-              "char": "(",
-              "pinyin": ""
-            },
-            {
-              "char": "甚",
-              "pinyin": "yǎn"
-            },
-            {
-              "char": "么",
-              "pinyin": "jiàn"
-            },
-            {
-              "char": " ",
-              "pinyin": "de"
-            },
-            {
-              "char": "同",
-              "pinyin": "chuī"
-            },
-            {
-              "char": "：",
-              "pinyin": "　"
-            },
-            {
-              "char": "什",
-              "pinyin": "fān"
-            },
-            {
-              "char": "么",
-              "pinyin": "le"
-            },
-            {
-              "char": ")",
-              "pinyin": ""
+              "start": 4,
+              "end": 5,
+              "note": "甚么，同“什么”。"
             }
-          ],
-          "translation": {
-            "translation": "眼看着使有的跑家倾家荡产，有的跑家元气大伤，直吹得江水枯竭鹅飞跑，家破跑亡啊！"
-          },
-          "notes": []
+          ]
         }
       ]
     },
@@ -290,35 +252,35 @@
           "sentence": [
             {
               "char": "眼",
-              "pinyin": "zhè"
+              "pinyin": "yǎn"
             },
             {
               "char": "见",
-              "pinyin": "jiā"
+              "pinyin": "jiàn"
             },
             {
               "char": "的",
-              "pinyin": "chuī"
+              "pinyin": "de"
             },
             {
               "char": "吹",
-              "pinyin": "shāng"
+              "pinyin": "chuī"
             },
             {
               "char": "翻",
-              "pinyin": "le"
+              "pinyin": "fān"
             },
             {
               "char": "了",
-              "pinyin": "nà"
+              "pinyin": "le"
             },
             {
               "char": "这",
-              "pinyin": "jiā"
+              "pinyin": "zhè"
             },
             {
               "char": "家",
-              "pinyin": "zhǐ"
+              "pinyin": "jiā"
             },
             {
               "char": "，",
@@ -330,19 +292,19 @@
             },
             {
               "char": "伤",
-              "pinyin": "de"
+              "pinyin": "shāng"
             },
             {
               "char": "了",
-              "pinyin": "shuǐ"
+              "pinyin": "le"
             },
             {
               "char": "那",
-              "pinyin": "jìn"
+              "pinyin": "nà"
             },
             {
               "char": "家",
-              "pinyin": "é"
+              "pinyin": "jiā"
             },
             {
               "char": "，",
@@ -350,35 +312,35 @@
             },
             {
               "char": "只",
-              "pinyin": "fēi"
+              "pinyin": "zhǐ"
             },
             {
               "char": "吹",
-              "pinyin": "bà"
+              "pinyin": "chuī"
             },
             {
               "char": "的",
-              "pinyin": ""
+              "pinyin": "de"
             },
             {
               "char": "水",
-              "pinyin": ""
+              "pinyin": "shuǐ"
             },
             {
               "char": "尽",
-              "pinyin": ""
+              "pinyin": "jìn"
             },
             {
               "char": "鹅",
-              "pinyin": ""
+              "pinyin": "é"
             },
             {
               "char": "飞",
-              "pinyin": ""
+              "pinyin": "fēi"
             },
             {
               "char": "罢",
-              "pinyin": ""
+              "pinyin": "bà"
             },
             {
               "char": "！",
@@ -386,7 +348,7 @@
             }
           ],
           "translation": {
-            "translation": "译文二喇叭锁呐呜呜哇哇，曲子很繁声音大。"
+            "translation": "眼看着它吹翻了这家，吹伤了那家，直吹得水干鹅飞，百姓倾家荡产！"
           },
           "notes": []
         }
