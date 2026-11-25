@@ -43,6 +43,9 @@ const WEEKDAY_FORMATTER = new Intl.DateTimeFormat("zh-CN", {
 const CONTENT_CHAR = /[\p{L}\p{N}]/u
 const TERMINALS = "。！？"
 const CLOSERS = "”’」』》〉）】]"
+/** 圆括号内不切句：元曲/话剧的科白括注里本身就可能带句号 */
+const PAREN_OPEN = "（("
+const PAREN_CLOSE = "）)"
 
 /** 本地（Asia/Shanghai）日期键，例如 2026-11-05 */
 export function dayKey(date: Date = new Date()): string {
@@ -211,15 +214,30 @@ export interface PoemSentence {
     paragraph: number
 }
 
-/** 按句末标点和 # 分行，把诗文切成句子（保留标点），并记下每句所属的自然段 */
+/**
+ * 按句末标点和 # 分行，把诗文切成句子（保留标点），并记下每句所属的自然段。
+ * 圆括号里不切句：元曲/话剧的科白括注本身带「。」（如「（净扮公人鼓三通、锣三下科。」），
+ * 若在这里断开，括号会失去右半边，科白残片就会被当成正文。
+ */
 export function splitPoemSentenceEntries(content: string): PoemSentence[] {
     const entries: PoemSentence[] = []
     content.split("#").forEach((raw, paragraph) => {
         const segment = raw.trim()
         if (!segment) return
         let start = 0
+        let depth = 0
         for (let i = 0; i < segment.length; i++) {
-            if (!TERMINALS.includes(segment[i])) continue
+            const ch = segment[i]
+            if (PAREN_OPEN.includes(ch)) {
+                depth++
+                continue
+            }
+            if (PAREN_CLOSE.includes(ch)) {
+                if (depth > 0) depth--
+                continue
+            }
+            if (depth > 0) continue
+            if (!TERMINALS.includes(ch)) continue
             let end = i + 1
             while (end < segment.length && CLOSERS.includes(segment[end])) end++
             const sentence = segment.slice(start, end).trim()
