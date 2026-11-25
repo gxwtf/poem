@@ -150,9 +150,11 @@ interface SentenceInfo {
     text: string
     normalized: string
     map: number[]
+    /** 所属自然段：content 里以 # 分隔的段落下标 */
+    paragraph: number
 }
 
-function makeSentence(text: string): SentenceInfo {
+function makeSentence(text: string, paragraph: number): SentenceInfo {
     let normalized = ""
     const map: number[] = []
     for (let i = 0; i < text.length; i++) {
@@ -162,29 +164,47 @@ function makeSentence(text: string): SentenceInfo {
             map.push(i)
         }
     }
-    return { text, normalized, map }
+    return { text, normalized, map, paragraph }
 }
 
-/** 按句末标点和 # 分行，把诗文切成句子（保留标点） */
-export function splitPoemSentences(content: string): string[] {
-    const sentences: string[] = []
-    for (const raw of content.split("#")) {
+/**
+ * 篇目的编排模式：poem = 一行两句（# 分隔的是「联」）；
+ * paragraph = 整段文字（# 分隔的是自然段）。
+ */
+export const POEM_MODE_PARAGRAPH = "paragraph"
+
+/** 诗文里的一句话，以及它所属的自然段 */
+export interface PoemSentence {
+    text: string
+    /** 自然段序号：content 里 # 分隔的段落下标 */
+    paragraph: number
+}
+
+/** 按句末标点和 # 分行，把诗文切成句子（保留标点），并记下每句所属的自然段 */
+export function splitPoemSentenceEntries(content: string): PoemSentence[] {
+    const entries: PoemSentence[] = []
+    content.split("#").forEach((raw, paragraph) => {
         const segment = raw.trim()
-        if (!segment) continue
+        if (!segment) return
         let start = 0
         for (let i = 0; i < segment.length; i++) {
             if (!TERMINALS.includes(segment[i])) continue
             let end = i + 1
             while (end < segment.length && CLOSERS.includes(segment[end])) end++
             const sentence = segment.slice(start, end).trim()
-            if (sentence) sentences.push(sentence)
+            if (sentence) entries.push({ text: sentence, paragraph })
             start = end
             i = end - 1
         }
         const tail = segment.slice(start).trim()
-        if (tail) sentences.push(tail)
-    }
-    return sentences
+        if (tail) entries.push({ text: tail, paragraph })
+    })
+    return entries
+}
+
+/** 按句末标点和 # 分行，把诗文切成句子（保留标点） */
+export function splitPoemSentences(content: string): string[] {
+    return splitPoemSentenceEntries(content).map((entry) => entry.text)
 }
 
 interface Located {
@@ -288,33 +308,41 @@ interface ContextPick {
     position: "before" | "after"
 }
 
+/** 参考句长度上限：太长会把提示铺满屏幕 */
+const CONTEXT_MAX_CHARS = 50
+/** 「段落」模式下同段实在挑不出短句时放宽到的长度上限（仍然不跨段） */
+const CONTEXT_MAX_CHARS_RELAXED = 70
+
 function pickContext(
     sentences: SentenceInfo[],
     index: number,
     targetNormalized: string,
-    avoidContext?: Set<string>
+    avoidContext?: Set<string>,
+    /** 只在答案所在自然段里挑参考句（「段落」模式必须如此，否则会出现跨段拼接） */
+    sameParagraphOnly = false
 ): ContextPick | null {
-    const options: ContextPick[] = []
+    const forbidden = avoidContext ? [...avoidContext] : []
+    const answerParagraph = sentences[index].paragraph
     const prev = sentences[index - 1]
     const next = sentences[index + 1]
-    const forbidden = avoidContext ? [...avoidContext] : []
-    const leaks = (sentence: SentenceInfo) =>
-        forbidden.some((normalized) => sentence.normalized.includes(normalized))
-    if (
-        prev &&
-        prev.text.length <= 50 &&
-        !prev.normalized.includes(targetNormalized) &&
-        !leaks(prev)
-    ) {
-        options.push({ sentence: prev, position: "before" })
+
+    const collect = (maxChars: number): ContextPick[] => {
+        const options: ContextPick[] = []
+        const usable = (sentence: SentenceInfo | undefined): sentence is SentenceInfo =>
+            !!sentence &&
+            sentence.text.length <= maxChars &&
+            !sentence.normalized.includes(targetNormalized) &&
+            !forbidden.some((normalized) => sentence.normalized.includes(normalized)) &&
+            (!sameParagraphOnly || sentence.paragraph === answerParagraph)
+        if (usable(prev)) options.push({ sentence: prev, position: "before" })
+        if (usable(next)) options.push({ sentence: next, position: "after" })
+        return options
     }
-    if (
-        next &&
-        next.text.length <= 50 &&
-        !next.normalized.includes(targetNormalized) &&
-        !leaks(next)
-    ) {
-        options.push({ sentence: next, position: "after" })
+
+    let options = collect(CONTEXT_MAX_CHARS)
+    // 同段相邻句偏长（古文长句常见）时宁可给一句略长的提示，也不跨自然段去借句子
+    if (options.length === 0 && sameParagraphOnly) {
+        options = collect(CONTEXT_MAX_CHARS_RELAXED)
     }
     if (options.length === 0) return null
     return options[Math.floor(Math.random() * options.length)]
@@ -323,18 +351,22 @@ function pickContext(
 /**
  * 由诗文原文和答案生成填空题：
  * - 答案是整句：随机展示前/后一句作为上下文，整句挖空；
+ *   「段落」模式（mode = paragraph）的篇目里 # 是自然段，参考句必须与答案同段，
+ *   不允许跨自然段取句（否则挖空句与提示句会分属两段，读起来南辕北辙）；
  * - 答案是半句/短语：展示答案所在原句，只挖掉答案部分。
  */
 export function buildCloze(
     content: string,
     targetText: string,
-    avoidContext?: Set<string>
+    avoidContext?: Set<string>,
+    /** 篇目的编排模式（Poem.mode）：paragraph 时参考句限制在同一自然段内 */
+    mode?: string | null
 ): ClozeQuestion | null {
     const targetNormalized = normalizeSentence(targetText)
     if (Array.from(targetNormalized).length < MIN_SENTENCE_CHARS) return null
 
-    const sentences = splitPoemSentences(content)
-        .map(makeSentence)
+    const sentences = splitPoemSentenceEntries(content)
+        .map((entry) => makeSentence(entry.text, entry.paragraph))
         .filter((s) => s.normalized.length > 0)
     if (sentences.length === 0) return null
 
@@ -346,7 +378,13 @@ export function buildCloze(
     const pattern = blankPattern(stripUnpairedQuotes(rawAnswer))
 
     if (located.whole) {
-        const context = pickContext(sentences, located.index, targetNormalized, avoidContext)
+        const context = pickContext(
+            sentences,
+            located.index,
+            targetNormalized,
+            avoidContext,
+            mode === POEM_MODE_PARAGRAPH
+        )
         const blankLine: ClozeLine = { kind: "blank", parts: splitPattern(pattern) }
         // 上下文必须按它在原诗里的真实位置摆放：
         // 前一句放上面、后一句放下面，否则会出现「后一句显示在空格之前」的倒错

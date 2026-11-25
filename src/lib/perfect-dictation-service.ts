@@ -52,6 +52,8 @@ interface PoemRow {
     version: string
     author: string | null
     dynasty: string | null
+    /** 篇目编排模式：poem / paragraph（完胜默写生成参考句时要按它区分自然段） */
+    mode: string
     content: string
 }
 
@@ -305,6 +307,7 @@ async function loadMistakeCandidates(userId: number): Promise<MistakeCandidate[]
                         version: true,
                         author: true,
                         dynasty: true,
+                        mode: true,
                         content: true,
                     },
                 },
@@ -321,7 +324,7 @@ async function loadMistakeCandidates(userId: number): Promise<MistakeCandidate[]
         const state = stateMap.get(mistake.normalized)
         if (state?.status === "excluded") continue
 
-        const cloze = buildCloze(mistake.poem.content, mistake.text)
+        const cloze = buildCloze(mistake.poem.content, mistake.text, undefined, mistake.poem.mode)
         if (!cloze) continue
 
         out.push({
@@ -371,6 +374,7 @@ async function loadNewCandidates(
                 version: true,
                 author: true,
                 dynasty: true,
+                mode: true,
                 content: true,
             },
         }),
@@ -421,7 +425,7 @@ async function loadNewCandidates(
         )
 
         for (const text of texts) {
-            const cloze = buildCloze(poem.content, text)
+            const cloze = buildCloze(poem.content, text, undefined, poem.mode)
             if (!cloze) continue
             if (blocked.has(cloze.normalized)) break
 
@@ -573,7 +577,7 @@ export async function generatePracticeGroup(params: {
                     normalized !== item.normalized && normalized !== item.sourceNormalized
             )
         )
-        const cloze = buildCloze(item.poem.content, item.targetText, avoid)
+        const cloze = buildCloze(item.poem.content, item.targetText, avoid, item.poem.mode)
         if (!cloze) continue
         questions.push({
             poemId: item.poem.id,
@@ -611,7 +615,7 @@ export async function completePracticeGroup(params: {
     const poemIds = [...new Set(params.results.map((r) => r.poemId))]
     const poems = await prisma.poem.findMany({
         where: { id: { in: poemIds } },
-        select: { id: true, content: true },
+        select: { id: true, mode: true, content: true },
     })
     const poemMap = new Map(poems.map((p) => [p.id, p]))
 
@@ -638,7 +642,7 @@ export async function completePracticeGroup(params: {
         }
         const poem = poemMap.get(item.poemId)
         if (!poem) throw new InvalidPracticeResultError("题目对应的诗文不存在")
-        const cloze = buildCloze(poem.content, item.text)
+        const cloze = buildCloze(poem.content, item.text, undefined, poem.mode)
         if (!cloze) throw new InvalidPracticeResultError("题目内容与诗文不匹配")
 
         checked.push({
