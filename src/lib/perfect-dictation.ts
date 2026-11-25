@@ -152,6 +152,37 @@ interface SentenceInfo {
     map: number[]
     /** 所属自然段：content 里以 # 分隔的段落下标 */
     paragraph: number
+    /** 是否正文：出处括注（《雍也》）、科白（正旦唱）一类不算正文，不能拿来当参考句 */
+    body: boolean
+}
+
+/** 括注类符号：剥掉里面的内容后若剩不下正文，这句就只是「小注」 */
+const NOTE_BRACKETS: [string, string][] = [
+    ["（", "）"],
+    ["(", ")"],
+    ["《", "》"],
+    ["〈", "〉"],
+    ["【", "】"],
+    ["[", "]"],
+    ["［", "］"],
+]
+
+function stripNoteBrackets(text: string): string {
+    let out = text
+    for (const [open, close] of NOTE_BRACKETS) {
+        let index = out.indexOf(open)
+        while (index !== -1) {
+            const end = out.indexOf(close, index + 1)
+            out = end === -1 ? out.slice(0, index) + out.slice(index + 1) : out.slice(0, index) + out.slice(end + 1)
+            index = out.indexOf(open)
+        }
+    }
+    return out
+}
+
+/** 只有出处/科白括注、没有正文的片段，例如 （《雍也》）、（正旦唱）、（部分教材无此句） */
+function isNoteOnly(text: string): boolean {
+    return !CONTENT_CHAR.test(stripNoteBrackets(text))
 }
 
 function makeSentence(text: string, paragraph: number): SentenceInfo {
@@ -164,7 +195,7 @@ function makeSentence(text: string, paragraph: number): SentenceInfo {
             map.push(i)
         }
     }
-    return { text, normalized, map, paragraph }
+    return { text, normalized, map, paragraph, body: !isNoteOnly(text) }
 }
 
 /**
@@ -330,6 +361,7 @@ function pickContext(
         const options: ContextPick[] = []
         const usable = (sentence: SentenceInfo | undefined): sentence is SentenceInfo =>
             !!sentence &&
+            sentence.body &&
             sentence.text.length <= maxChars &&
             !sentence.normalized.includes(targetNormalized) &&
             !forbidden.some((normalized) => sentence.normalized.includes(normalized)) &&
@@ -351,6 +383,7 @@ function pickContext(
 /**
  * 由诗文原文和答案生成填空题：
  * - 答案是整句：随机展示前/后一句作为上下文，整句挖空；
+ *   参考句必须是正文——出处括注（如 （《雍也》））和科白（如 （正旦唱））不当参考句；
  *   「段落」模式（mode = paragraph）的篇目里 # 是自然段，参考句必须与答案同段，
  *   不允许跨自然段取句（否则挖空句与提示句会分属两段，读起来南辕北辙）；
  * - 答案是半句/短语：展示答案所在原句，只挖掉答案部分。
