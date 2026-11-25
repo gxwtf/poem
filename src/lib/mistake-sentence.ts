@@ -40,7 +40,8 @@ const CONTENT_CHAR = /[\p{L}\p{N}]/u
 // 同一个字的两种 Unicode 写法（「巘」的扩展区字形），只做字形归一，不做错字容错
 const CHAR_VARIANTS = new Map([["𪩘", "巘"]])
 
-function normalizeChar(ch: string): string {
+/** 单个字的字形归一（扩展区生僻字 → 常用写法）；按码点处理，勿按 UTF-16 码元拆分 */
+export function normalizeChar(ch: string): string {
     return CHAR_VARIANTS.get(ch) ?? ch
 }
 

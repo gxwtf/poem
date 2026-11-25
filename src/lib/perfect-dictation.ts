@@ -1,6 +1,6 @@
 // 完胜默写：纯函数与共享类型（客户端组件也会 import 这里的类型/常量）
 
-import { MIN_SENTENCE_CHARS, normalizeSentence } from "@/lib/mistake-sentence"
+import { MIN_SENTENCE_CHARS, normalizeChar, normalizeSentence } from "@/lib/mistake-sentence"
 
 export const PRACTICE_MODES = ["mistakes", "new", "mixed"] as const
 export type PracticeMode = (typeof PRACTICE_MODES)[number]
@@ -188,15 +188,22 @@ function isNoteOnly(text: string): boolean {
     return !CONTENT_CHAR.test(stripNoteBrackets(text))
 }
 
+/**
+ * 归一化一句话：只留文字/数字、做字形归一。
+ * 必须按码点遍历（`for...of`）——扩展区生僻字（如「𫐓」「𪩘」）占两个 UTF-16 码元，
+ * 按码元切会把它们整个丢掉，和 normalizeSentence() 的结果对不上，题目永远出不来。
+ * map 存的是每个有效字在原文里的 UTF-16 偏移，供后续按原文切片。
+ */
 function makeSentence(text: string, paragraph: number): SentenceInfo {
     let normalized = ""
     const map: number[] = []
-    for (let i = 0; i < text.length; i++) {
-        const ch = text[i]
+    let offset = 0
+    for (const ch of text) {
         if (CONTENT_CHAR.test(ch)) {
-            normalized += ch
-            map.push(i)
+            normalized += normalizeChar(ch)
+            map.push(offset)
         }
+        offset += ch.length
     }
     return { text, normalized, map, paragraph, body: !isNoteOnly(text) }
 }
@@ -266,19 +273,30 @@ interface Located {
 }
 
 function locateTarget(sentences: SentenceInfo[], targetNormalized: string): Located | null {
+    // 按码点逐字比对（不能用 indexOf：它的下标是 UTF-16 码元，遇到扩展区生僻字会错位）
+    const target = Array.from(targetNormalized)
     for (let i = 0; i < sentences.length; i++) {
         const sentence = sentences[i]
-        const at = sentence.normalized.indexOf(targetNormalized)
-        if (at === -1) continue
-        const start = sentence.map[at]
-        const end = sentence.map[at + targetNormalized.length - 1] + 1
-        return {
-            index: i,
-            sentence,
-            start,
-            end,
-            canonical: sentence.text.slice(start, end),
-            whole: sentence.normalized === targetNormalized,
+        const haystack = Array.from(sentence.normalized)
+        for (let at = 0; at + target.length <= haystack.length; at++) {
+            let hit = true
+            for (let k = 0; k < target.length; k++) {
+                if (haystack[at + k] !== target[k]) {
+                    hit = false
+                    break
+                }
+            }
+            if (!hit) continue
+            const start = sentence.map[at]
+            const end = sentence.map[at + target.length - 1] + 1
+            return {
+                index: i,
+                sentence,
+                start,
+                end,
+                canonical: sentence.text.slice(start, end),
+                whole: sentence.normalized === targetNormalized,
+            }
         }
     }
     return null
@@ -629,7 +647,7 @@ export interface DictationScope {
     effectiveBooks: string[] | null
     /** 当前学段可选的全部册次及各自可用篇目数 */
     books: BookOption[]
-    /** 该学段是否已有「背默」标注过的篇目（没有标注时按未启用该过滤处理） */
+    /** 该学段是否启用「背默」标签过滤（标注覆盖率不足时按未启用处理，避免题库被缩空） */
     reciteTagged: boolean
 }
 

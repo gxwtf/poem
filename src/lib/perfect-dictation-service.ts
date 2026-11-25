@@ -149,8 +149,12 @@ export async function resolveScope(params: {
         prisma.poem.findMany({ where: { version }, select: { tags: true } }),
     ])
 
-    // 该学段是否已有「背默」标注；没有标注时（如初中数据尚未标注）不启用该过滤
-    const reciteTagged = poems.some((poem) => poem.tags.includes(DICTATION_RECITE_TAG))
+    // 该学段的「背默」标注是否足够完整才启用这层过滤。
+    // 初中数据基本没标注（只有零星几篇补上了），若按「有一篇标注就启用」，
+    // 初中题库会被缩到那几篇；故要求覆盖率达标（且不少于 5 篇）才启用。
+    const taggedPoems = poems.filter((poem) => poem.tags.includes(DICTATION_RECITE_TAG)).length
+    const reciteCoverage = poems.length > 0 ? taggedPoems / poems.length : 0
+    const reciteTagged = taggedPoems >= 5 && reciteCoverage >= 0.25
 
     const counts = new Map<string, number>(allowed.map((book) => [book, 0]))
     for (const poem of poems) {

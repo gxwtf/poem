@@ -156,7 +156,7 @@ export function BookScopePicker({
 
             {!scope.reciteTagged && (
                 <p className="text-xs text-muted-foreground">
-                    当前学段还没有标注「{DICTATION_RECITE_TAG}」的篇目，暂不按该标签过滤。
+                    当前学段的「{DICTATION_RECITE_TAG}」标注还不完整，暂不按该标签过滤。
                 </p>
             )}
         </div>
