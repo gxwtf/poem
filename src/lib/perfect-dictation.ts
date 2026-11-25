@@ -272,6 +272,12 @@ interface Located {
     whole: boolean
 }
 
+/** 原文某偏移处的字占几个 UTF-16 码元（扩展区生僻字占 2 个） */
+function charWidthAt(text: string, offset: number): number {
+    const code = text.codePointAt(offset) ?? 0
+    return code > 0xffff ? 2 : 1
+}
+
 function locateTarget(sentences: SentenceInfo[], targetNormalized: string): Located | null {
     // 按码点逐字比对（不能用 indexOf：它的下标是 UTF-16 码元，遇到扩展区生僻字会错位）
     const target = Array.from(targetNormalized)
@@ -288,7 +294,9 @@ function locateTarget(sentences: SentenceInfo[], targetNormalized: string): Loca
             }
             if (!hit) continue
             const start = sentence.map[at]
-            const end = sentence.map[at + target.length - 1] + 1
+            // 末尾字可能是扩展区生僻字（占 2 个 UTF-16 码元），不能直接 +1，否则会截成半个代理项
+            const lastOffset = sentence.map[at + target.length - 1]
+            const end = lastOffset + charWidthAt(sentence.text, lastOffset)
             return {
                 index: i,
                 sentence,
